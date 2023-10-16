@@ -1,0 +1,37 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://mirror.xyz",
+  "bio": "The home for web3 publishing.",
+  "contributionDescription": "Since Mirror launched Writing NFTs on Optimism Network as a default, we've contributed to the growth of the Optimism Network by being an app where other projects can share their ideas via Optimism NFTs. Early on we knew that for \"collect\" to be the new \"like\" users would need to find inexpensive and quick options for minting NFTs. That's where Optimism came in as an obvious choice, and we've since been one of Optimism's partners in bringing a more mainstream use case to the rollup. ",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://dev.mirror.xyz/5gt60vKFJZ_tR1BjoJ7-Y0sNw7REebStHjzFU5x73J0",
+      "description": "Introducing Writing NFTs on Optimism"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "Over 1 million Writing NFTs have been minted on Mirror using Optimistic Ethereum. That's more than any other network we support as Optimism is the default network in our settings. We have helped more people bridge to Optimism through our UX and encouraging users to collect entries. ",
+  "impactMetrics": [
+    {
+      "description": "Writing NFTs Minted on Optimism",
+      "number": 1206261,
+      "url": "https://dune.com/rplust/mirror-writing-nfts"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0xe60aC07Be8bD7f7f33d446e1399c329928Ba8114",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "Mirror",
+  "Applicant Type": "PROJECT",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xe60aC07Be8bD7f7f33d446e1399c329928Ba8114.json",
+  "Githubs": "",
+  "Tags": "END_USER_EXPERIENCE_AND_ADOPTION"
+}

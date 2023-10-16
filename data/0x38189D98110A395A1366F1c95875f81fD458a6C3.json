@@ -1,0 +1,47 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://proofivy.com",
+  "bio": "Internet ledger of truth",
+  "contributionDescription": "Proofivy has provided scientists at the Lab for Germinal Biology at Utrecht University (https://heesters.gitlab.io/) tools to safeguard their IP and data using Optimism.\n\nAdditionally iPhone users have used Proofivy to commit data hashes to Optimism without needing a web3 wallet.\n\nIn both cases users have been able to safeguard IP and use Optimism with easy to use apps.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xcc26e45546dcb8d747c2bb69e348f0515ef3efc5",
+      "description": "Proofivy commit contract on Optimism"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://apps.apple.com/app/proofivy/id6446280271",
+      "description": "Proofivy iPhone app that uses Optimism"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://proofivy.com",
+      "description": "Proofivy homepage with more info"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "Proofivy has provided a novel crypto application, onchain IP, for Optimism users.\nProofivy has onboarded scientists to Optimism. Feedback from them has been great.\n\nProofivy's iPhone app has expended the reach of Optimism to users without a crypto wallet.",
+  "impactMetrics": [
+    {
+      "description": "Proofivy commits on Optimism",
+      "number": 34,
+      "url": "https://optimistic.etherscan.io/address/0xcc26e45546dcb8d747c2bb69e348f0515ef3efc5"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x38189D98110A395A1366F1c95875f81fD458a6C3",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "Proofivy",
+  "Applicant Type": "PROJECT",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x38189D98110A395A1366F1c95875f81fD458a6C3.json",
+  "Githubs": "",
+  "Tags": "END_USER_EXPERIENCE_AND_ADOPTION"
+}

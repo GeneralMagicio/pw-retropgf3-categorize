@@ -1,0 +1,47 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://twitter.com/PawanKu83112567",
+  "bio": "builder",
+  "contributionDescription": "i am,contribute this project 2 year ago but i aonly build youur platform without any profit Early Bird Campaign starts today! 🐦\nAs an Early Bird, you'll gain exclusive access to a private Discord channel and be the first to receive FREE access to the Nym VPN alpha. 🛡️\n\nDon't miss a chance at the 2.5M $NYM prize pool! 🏆 #NymShipy",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://twitter.com/PawanKu83112567",
+      "description": "good project"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "Early Bird Campaign starts today! 🐦\nAs an Early Bird, you'll gain exclusive access to a private Discord channel and be the first to receive FREE access to the Nym VPN alpha. 🛡️\n\nDon't miss a chance at the 2.5M $NYM prize pool! 🏆 #NymShipyard\n👉🏻 https://bit.ly/3PL523K",
+  "impactMetrics": [
+    {
+      "description": "sjk",
+      "number": 12,
+      "url": "https://twitter.com/PawanKu83112567"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 1000,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0xF48D9d349106cf2A0880CE45ec1512EcAa4e10AF",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "Pawan Kumar",
+  "Applicant Type": "PROJECT",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xF48D9d349106cf2A0880CE45ec1512EcAa4e10AF.json",
+  "Githubs": "",
+  "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK"
+}

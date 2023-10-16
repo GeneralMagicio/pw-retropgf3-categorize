@@ -1,0 +1,44 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://twitter.com/StabZer0",
+  "bio": "Web3 KOL .Skilled in community management, social media marketing",
+  "contributionDescription": "I'm Zero, a top KOL in crypto & Web3. I specialize in project promotion through my extensive social channels including Twitter, Discord & Telegram where I've built a large, engaged following. My tailored KOL marketing drives growth through regular project updates, previews & AMAs. I'm passionate about elevating promising Web3 projects through my social influence. Let's discuss collaborating to maximize your project's visibility. My KOL services amplify exposure.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/StabZer0",
+      "description": "https://twitter.com/StabZer0"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "As an influential KOL in Web3 space, I can leverage my extensive social reach and community to drive new user acquisition for Optimism Collective. Through tailored social campaigns and community activations, I will promote Optimism's benefits to decentralized finance users and attract new members. By hosting AMAs and creating educational content, I can clearly communicate Optimism's value propositions to onboard new users. With my experience managing communities, I can also engage existing users by fostering an inclusive environment and organizing impactful initiatives that demonstrate Optimism's possibilities. My KOL marketing expertise will raise Optimism's profile and build meaningful connections between the protocol and end users worldwide.",
+  "impactMetrics": [
+    {
+      "description": "Invite new user",
+      "number": 20000,
+      "url": "https://twitter.com/StabZer0"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 500,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0x7B5E58994020Fc30836D8506bcD8739385fb5f38",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "Zero",
+  "Applicant Type": "INDIVIDUAL",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x7B5E58994020Fc30836D8506bcD8739385fb5f38.json",
+  "Githubs": "",
+  "Tags": "END_USER_EXPERIENCE_AND_ADOPTION"
+}

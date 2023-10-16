@@ -1,0 +1,37 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://www.artespraticas.com",
+  "bio": "I'm a Portuguese graphic designer and web 3 learner.",
+  "contributionDescription": "I'm a early supporter and advocate for the Optimism universe. I've created a free nft collection to help new users to embark aboard and have posted it all over my social media. I'm filling this to continue my engagement, besides following all forum entries and intercting when I receive the digest :-)",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://optimistic.etherscan.io/address/0xaf1ff8e04aa97d2c155fba9829cb152169bfd8fd",
+      "description": "https://mint.fun/op/0x6E3b4139a7CF633Ab42377b43D9F68E7a081b902"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": " saw that 43 people have minted my nft collection over Optimism network :-) Sorry if I'm not very sure what else I should post/do but I'm always eager to learn and participate! Glad to be part of this amazing journey and I'm looking forward to continue!",
+  "impactMetrics": [
+    {
+      "description": "47",
+      "number": 1,
+      "url": "https://mint.nftfeed.guru/nft-collection/0x6e3b4139a7cf633ab42377b43d9f68e7a081b902"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0xF0854C4dC9d3f1EBD4f0e44eb91587F7fc5Bd518",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "artespraticas",
+  "Applicant Type": "INDIVIDUAL",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xF0854C4dC9d3f1EBD4f0e44eb91587F7fc5Bd518.json",
+  "Githubs": "",
+  "Tags": "END_USER_EXPERIENCE_AND_ADOPTION"
+}

@@ -1,0 +1,44 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://www.lensfrens.xyz/flyinghigh.lens",
+  "bio": "Crypto Adventure",
+  "contributionDescription": "I will use OP every day and will invite friends. Let's understand what OP is and what OP will be like in the future. I want everyone to participate in OP's future growth, not profit from short-term OP coin prices. OP will be a strong, transparent, and auditable community.\n",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://twitter.com/Ployrompetch",
+      "description": "Op army"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
+  "impactDescription": "In my country, Thailand, I see injustice, corruption, monopoly, and small capital cannot fight against monopoly capital. I want to see a future world with transparency and antitrust. It can make small people fight against big capitalists. I want to see fairness in society and hope OP will be like that.",
+  "impactMetrics": [
+    {
+      "description": "#",
+      "number": 77,
+      "url": "https://twitter.com/Ployrompetch"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 30000,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0xD923dE646D3f0BB9Eb7f9169f259C79C3edE2188",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "Nop99",
+  "Applicant Type": "INDIVIDUAL",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xD923dE646D3f0BB9Eb7f9169f259C79C3edE2188.json",
+  "Githubs": "",
+  "Tags": "COLLECTIVE_GOVERNANCE"
+}

@@ -1,0 +1,40 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://app.optimism.io/",
+  "bio": "https://app.optimism.io/",
+  "contributionDescription": "Early Access:target early adopters and supporters of new projects. By participating in an airdrop, individuals gain early access to new cryptocurrencies or blockchain-based platforms before they become widely available. Learning Opportunities: Airdrops often require participants to complete certain tasks like joining social media channels, referring friends, or providing feedback on the project's website or whitepaper. These activities provide valuable learning experiences about blockchain technology and its applications.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://app.optimism.io/",
+      "description": "Participating in an airdrop can offer several benefits to individuals."
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "Learning Opportunities: Airdrops often require participants to complete certain tasks like joining social media channels, referring friends, or providing feedback on the project's website or whitepaper. These activities provide valuable learning experiences about blockchain technology and its applications.",
+  "impactMetrics": [
+    {
+      "description": "airdrop",
+      "number": 9,
+      "url": "https://app.optimism.io/profile/rpgf-application/impact-statement"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x66Ba4988156aBEF92Aa6Ef2f0E66776b826c5eF8",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "windc",
+  "Applicant Type": "INDIVIDUAL",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x66Ba4988156aBEF92Aa6Ef2f0E66776b826c5eF8.json",
+  "Githubs": "",
+  "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK"
+}

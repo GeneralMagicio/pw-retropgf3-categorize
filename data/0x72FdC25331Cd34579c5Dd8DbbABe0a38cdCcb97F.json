@@ -1,0 +1,71 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://decentraclasses.com",
+  "bio": "Decentralized Education Platform!",
+  "contributionDescription": "=>Integration with Our Decentralized Ed-Tech Platform: We have integrated the Optimism (OP) chain into our decentralized ed-tech platform. This integration allows users to seamlessly enroll in courses on our platform using OP chain technology.\n\n=>Offering Courses for OP Chain Projects: In addition to enrollment, we provide specialized courses that teach users how to build projects on the OP chain. These courses not only educate users about the OP chain but also demonstrate the practical benefits it offers.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/DecentraSchool/decentraclasses",
+      "description": "This is a github repo of our project"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://bento.me/decentraclasses",
+      "description": "This is a social link where you can see we have growing community"
+    }
+  ],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "\n=>Increased Transaction Activity: Our integration has led to a significant increase in transaction activity on the OP chain. More users are actively engaging with the network, contributing to its growth.\n\n=>Project Creation on OP Chain: By offering courses that guide users in creating projects on the OP chain, we have empowered individuals to become active participants in the ecosystem. This has fostered a sense of ownership and involvement within the Optimism Collective.",
+  "impactMetrics": [
+    {
+      "description": "Increased Web3 Adoption:",
+      "number": 5000,
+      "url": "https://decentraclasses.com"
+    },
+    {
+      "description": "Mentorship and Career Guidance",
+      "number": 5000,
+      "url": "https://decentraclasses.com"
+    },
+    {
+      "description": "Utilization of Web3 Tools:",
+      "number": 5000,
+      "url": "https://decentraclasses.com"
+    },
+    {
+      "description": "Learn-to-Earn Model:",
+      "number": 5000,
+      "url": "https://decentraclasses.com"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 1200,
+      "description": "Won $1200 from gitcoin open source track"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 500,
+      "description": "Won polkadot 60 days of code track"
+    }
+  ],
+  "payoutAddress": "0x72FdC25331Cd34579c5Dd8DbbABe0a38cdCcb97F",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "Decentraclasses",
+  "Applicant Type": "PROJECT",
+  "OSS Directory": "Github Found",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x72FdC25331Cd34579c5Dd8DbbABe0a38cdCcb97F.json",
+  "Githubs": "https://github.com/DecentraSchool/decentraclasses",
+  "Tags": ""
+}

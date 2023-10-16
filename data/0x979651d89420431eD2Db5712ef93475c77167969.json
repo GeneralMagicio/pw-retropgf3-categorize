@@ -1,0 +1,71 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://github.com/mstfo",
+  "bio": "Engineer-Trader",
+  "contributionDescription": "I can introduce optimism to new users and mentor them, explaining how they can deal with problems                                                                                                                                                                    ",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/mstfo",
+      "description": "."
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "I can introduce optimism to new users and mentor them, explaining how they can deal with problems                                                                                                                                                                    ",
+  "impactMetrics": [
+    {
+      "description": "1",
+      "number": 1,
+      "url": "https://github.com/mstfo"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "PARTNER_FUND",
+      "currency": "OP",
+      "amount": 100000,
+      "description": ""
+    },
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 100000,
+      "description": ""
+    },
+    {
+      "type": "RETROPGF_1",
+      "currency": "USD",
+      "amount": 100000,
+      "description": ""
+    },
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 100000,
+      "description": ""
+    },
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 100000,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0x979651d89420431eD2Db5712ef93475c77167969",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "cakir",
+  "Applicant Type": "INDIVIDUAL",
+  "OSS Directory": "Not Found",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x979651d89420431eD2Db5712ef93475c77167969.json",
+  "Githubs": "https://github.com/mstfo",
+  "Tags": ""
+}

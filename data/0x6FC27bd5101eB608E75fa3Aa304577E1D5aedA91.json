@@ -1,0 +1,45 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://medium.com/@ekojaweephraim/retroactive-public-goods-funding-retro-pgf-3-e3396f2eeec2",
+  "bio": "Educational.",
+  "contributionDescription": "Financial Support: Many contributors seek retroactive funding primarily for financial support. This can include reimbursement for expenses incurred during your work, compensation for your time and effort, or even a source of income to sustain your continued contributions.\n\nValidation and Recognition: Some contributors value the validation and recognition that retroactive funding provides. It's a way to acknowledge the importance and impact of your work within the community, which can be a significant motivator.\n\nResources for Future Projects: Retroactive funding can provide you with the resources necessary to pursue future projects or initiatives. This can include funding for research, development, or other activities that contribute to the growth and improvement of the Optimism ecosystem.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://medium.com/@ekojaweephraim/retroactive-public-goods-funding-retro-pgf-3-e3396f2eeec2",
+      "description": "Educational"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "My contributions within the context of retroactive public goods funding in Optimism have a multifaceted impact. They not only provide you with recognition and financial support but also contribute to the growth, sustainability, and vibrancy of the Optimism ecosystem. My work inspires others and helps build a strong, collaborative community focused on achieving shared goals.",
+  "impactMetrics": [
+    {
+      "description": "Thread",
+      "number": 2,
+      "url": "https://medium.com/@ekojaweephraim/retroactive-public-goods-funding-retro-pgf-3-e3396f2eeec2"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 20000,
+      "description": "Educational"
+    }
+  ],
+  "payoutAddress": "0x6FC27bd5101eB608E75fa3Aa304577E1D5aedA91",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "Ephraim",
+  "Applicant Type": "INDIVIDUAL",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x6FC27bd5101eB608E75fa3Aa304577E1D5aedA91.json",
+  "Githubs": "",
+  "Tags": "COLLECTIVE_GOVERNANCE, END_USER_EXPERIENCE_AND_ADOPTION"
+}

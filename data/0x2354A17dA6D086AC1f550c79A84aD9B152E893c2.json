@@ -1,0 +1,47 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://app.optimism.io/governance",
+  "bio": "Trader holder",
+  "contributionDescription": "I'm contributer of optimism network platform because optimism is a great good team with huge potential project.i always following every social accounts of optimism network I loved optimism network platformmnnmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmdn",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://app.optimism.io/governance",
+      "description": "Harishchauhan911 "
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "I'm contributer of optimism network platform because optimism is a greatsjsjsjjsjsjjejejjejjejejjejejjejjjjjjsjsjjsjjejejgood team with huge potential project.i always following every social accounts of optimism network I loved optimism network platform ",
+  "impactMetrics": [
+    {
+      "description": "Harishchauhan911 ",
+      "number": 50000,
+      "url": "https://app.optimism.io/governance"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 50000,
+      "description": "Harishchauhan911 "
+    }
+  ],
+  "payoutAddress": "0x2354A17dA6D086AC1f550c79A84aD9B152E893c2",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "Harishchauhan911",
+  "Applicant Type": "INDIVIDUAL",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x2354A17dA6D086AC1f550c79A84aD9B152E893c2.json",
+  "Githubs": "",
+  "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK"
+}

@@ -1,0 +1,81 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://ethdaily.io",
+  "bio": "A podcast and newsletter segment covering Optimism ecosystem news.",
+  "contributionDescription": "We provided over 100 OP News updates to our audience of 2,000 podcast listeners and 230 newsletter subscribers. In the fast-changing Optimism Collective, we play a crucial role in keeping users well-informed. OP News is a series of Optimism-related updates featured within our Ethereum News flash briefing in a dedicated segment called Optimism Highlights.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://ethdaily.io/tag/optimism/",
+      "description": "Over 100 blog posts covering OP News."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.podchaser.com/lists/op-news-pc!dldJ0YD0SwCVVjnf",
+      "description": "Over 100 podcast episodes covering OP News."
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "Our daily briefing boosts Optimism Collective's brand awareness, reaching over 2,000 crypto enthusiasts. We provide essential OP News coverage, keeping end-users, developers, journalists, and crypto security firms informed about network upgrades, new OP Stack chains, and airdrops. Our briefs have even inspired news articles, like this one published by The Block on Optimism Airdrop 3 after the journalist read our newsletter.",
+  "impactMetrics": [
+    {
+      "description": "Audio Downloads",
+      "number": 39739,
+      "url": "https://docs.google.com/spreadsheets/d/15_4h9yUErq73uhlf0_OeGUcF-sePBN8xiXDartlIvZA/htmlview"
+    },
+    {
+      "description": "Twitter Impressions",
+      "number": 58155,
+      "url": "https://docs.google.com/spreadsheets/d/15_4h9yUErq73uhlf0_OeGUcF-sePBN8xiXDartlIvZA/htmlview"
+    },
+    {
+      "description": "Subscribers and Followers",
+      "number": 9236,
+      "url": "https://docs.google.com/spreadsheets/d/15_4h9yUErq73uhlf0_OeGUcF-sePBN8xiXDartlIvZA/htmlview"
+    },
+    {
+      "description": "Mirror OP NFTs Minted",
+      "number": 150,
+      "url": "https://ethdaily.mirror.xyz/"
+    },
+    {
+      "description": "1/1 OP Podcast NFTs Minted",
+      "number": 36,
+      "url": "https://zora.co/ethdaily.eth"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 700,
+      "description": "Gitcoin GR17, GBR, GG18. We are waiting for matching results from GG18."
+    },
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 1800,
+      "description": "Podcast ad placements sold in April 2023."
+    },
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 500,
+      "description": "Cycle 13 Growth Grant - all tokens were given to our podcast listeners."
+    }
+  ],
+  "payoutAddress": "0xEB40A065854bd90126A4E697aeA0976BA51b2eE7",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "OP News",
+  "Applicant Type": "INDIVIDUAL",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xEB40A065854bd90126A4E697aeA0976BA51b2eE7.json",
+  "Githubs": "",
+  "Tags": "END_USER_EXPERIENCE_AND_ADOPTION"
+}

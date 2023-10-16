@@ -1,0 +1,57 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://x.com/lexim__?s=09",
+  "bio": "Apasionado el trading. Siempre al día . En busca de la libertad",
+  "contributionDescription": "I Have done all the nft program. I have tested a lot of applications from optimism. I love this blockchain and I will keep testing it.  I would like to count with some help to keep doing it and to test an develop everything I could. Im waiting for NFT airdrop too ;)",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://platform.arkhamintelligence.com/profile",
+      "description": "https://platform.arkhamintelligence.com/explorer/address"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "I know that my impact is not too big. It is like an user. I participated in snapshot everytime I can. I Have done all the nft program. I have tested a lot of applications from optimism. I love this blockchain and I will keep testing it.  I would like to count with some help to keep doing it and to test an develop everything I could. Im waiting for NFT airdrop too ;)",
+  "impactMetrics": [
+    {
+      "description": "Arkham",
+      "number": 706,
+      "url": "https://platform.arkhamintelligence.com/explorer/address/0xb8C39D4DaBb7ED12b3b12847A958614EA78353CD"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 1500,
+      "description": "Arbitrum airdrop"
+    },
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 70,
+      "description": "Op airdrop gass fee"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 1500,
+      "description": "Aptos airdrop"
+    }
+  ],
+  "payoutAddress": "0xb8C39D4DaBb7ED12b3b12847A958614EA78353CD",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "Lexim",
+  "Applicant Type": "INDIVIDUAL",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xb8C39D4DaBb7ED12b3b12847A958614EA78353CD.json",
+  "Githubs": "",
+  "Tags": "COLLECTIVE_GOVERNANCE, END_USER_EXPERIENCE_AND_ADOPTION"
+}

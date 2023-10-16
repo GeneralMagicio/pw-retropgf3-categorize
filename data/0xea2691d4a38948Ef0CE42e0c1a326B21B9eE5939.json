@@ -1,0 +1,47 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://grafixart.photo/",
+  "bio": "Graphic designer and visual artist",
+  "contributionDescription": "I used to make the 1st airdrop and also contributed to share everywhere, and with every friend on my social media, that they need to focus on both airdrop, team and token utility ! \n\nI'm active on NFT/Blockchain since a few years now... And when I enter to a project, it's because the project can be usefull for me and for others in long term !",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xea2691d4a38948Ef0CE42e0c1a326B21B9eE5939",
+      "description": "ETHERSCAN"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "I used to make the 1st airdrop and also contributed to share everywhere, and with every friend on my social media, that they need to focus on both airdrop, team and token utility ! \n\nI'm active on NFT/Blockchain since a few years now... And when I enter to a project, it's because the project can be usefull for me and for others in long term !",
+  "impactMetrics": [
+    {
+      "description": "ETHERSCAN",
+      "number": 490,
+      "url": "https://optimistic.etherscan.io/address/0xea2691d4a38948Ef0CE42e0c1a326B21B9eE5939"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 491,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0xea2691d4a38948Ef0CE42e0c1a326B21B9eE5939",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "grafixart",
+  "Applicant Type": "INDIVIDUAL",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xea2691d4a38948Ef0CE42e0c1a326B21B9eE5939.json",
+  "Githubs": "",
+  "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK"
+}

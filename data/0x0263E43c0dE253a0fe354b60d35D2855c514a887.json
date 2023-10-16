@@ -1,0 +1,53 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://www.youtube.com/@inbestprogram",
+  "bio": "Helping Mass Adoption",
+  "contributionDescription": "At inbest we are a bridge between the cutting edge blockchain technologies and the end users who do not understand it, sometime is hard to find information other than the extensive documentation that gets to technical for most users.\n\nOur role is to find this information, digest it, and then feed it to the audience on a specific manner that tends to be easier to understand. \n\nIn spanish is even more dificult to find objective and well created content that explains this technologies and how they work so that the regular users gain more interest!\n\nthis will greatly impact the growth and adoption of the SuperChain! \n\nif you type \"la super cadena op\" you will see a lot of \"airdrop\" videos, but only one actually explaining the technology and talking about the op stack in spanish.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://youtu.be/NPpgLAZmEZY?si=OY7RV5GAtVlktLId",
+      "description": "Video explaining the super chain and the technology behind it, the op stack"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://youtu.be/xEzsZl8mYz8?si=dezvjtfPiJFL6CdA",
+      "description": "Step by Step on how to delegate OP, the incentives and bedrock update"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://youtu.be/bqyT1G5KiDE?si=mxxyejxVrZCSiYIw",
+      "description": "in this video about manta network we talk about the op stack in depth"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://www.youtube.com/@inbestprogram/videos",
+      "description": "the cannel has many vids about OP, and we want to grow and keep creating"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "the impact Inbest Program has generated at the time, might not be the numbers we want, but we are still growing, we have been providing the spanish speaking audience with information about optimism and the technology behind the op stack, the benefit of the modularity, the problems it solve and how to get involved.\n\nnot only for user but also for developers who want information on this topics like the op stack and the benefits of developing with this technology, like using the op stack to create a rollup that will run as the execution layer and how thanks to modularity we can commbine that with data availability solutions and much more\n\nif granted any amount of tokens, everything will go to the quality and reach of our videos, in order to accomplish our goal of helping mass adoption!",
+  "impactMetrics": [
+    {
+      "description": "Growth and interactions",
+      "number": 1,
+      "url": "https://drive.google.com/file/d/1oslqvCZxy2m5DsfnpqZBCx4EJG3h7RnS/view?usp=drive_link"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x0263E43c0dE253a0fe354b60d35D2855c514a887",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "Inbest Program",
+  "Applicant Type": "PROJECT",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x0263E43c0dE253a0fe354b60d35D2855c514a887.json",
+  "Githubs": "",
+  "Tags": "COLLECTIVE_GOVERNANCE, END_USER_EXPERIENCE_AND_ADOPTION"
+}

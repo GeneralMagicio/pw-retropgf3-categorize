@@ -1,0 +1,111 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://www.youtube.com/c/cryptomage",
+  "bio": "French Crypto YouTuber",
+  "contributionDescription": "1) Creating over 400 videos covering a wide range of cryptocurrency topics and educational content for my YouTube channel, which boasts 12,500 subscribers.\n\n2) Foestering a thriving community of more than 2,000 French-speaking crypto enthusiasts on my Discord server.\n\n3) Providing valuable insights and real-life examples of various scam attacks to help safeguard users.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/watch?v=JZ6LdfMQDh0",
+      "description": "Explaining how to avoid 4 of the most common crypto scams"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/watch?v=k5Y6xXEAnD8",
+      "description": "Showcasing useful tools for Crypto Users"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/watch?v=flSbMvj-4ac",
+      "description": "Guide on how to revoke a malicious token approval"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/watch?v=cJMhf6H8kGc",
+      "description": "Explaining how secure BIP39 seeds are"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/watch?v=agF---gtgVc",
+      "description": "Review of the top 10 L2"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/watch?v=k7d4E7zRQNY",
+      "description": "Explaining the danger behind memecoins / shitcoins"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/watch?v=wy6j5s9BdbU",
+      "description": "Showcasing how high APR farm works, and why it's risky"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/watch?v=BR-aVeKnOU8",
+      "description": "How to use Dune Analytics to explore various data sets"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/watch?v=8nsenuWhHKk",
+      "description": "Guide on how to Optimism and other L2"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/watch?v=ZUS0-3nmjGU",
+      "description": "Explaining how a Sandwich Attack works, how to protect yourself from it"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://discord.com/invite/stSDedPEB3",
+      "description": "Creator of a 2000+ users crypto Discord where users help each other"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "1) I assisted over 12,500 users in beginning their blockchain journey through my YouTube channel.\n\n2) I increased awareness of the Optimism Collective by creating various videos on Base, Zora, and Optimism. In the past year, my videos collectively received more than 612,000 views.\n\n3) I actively thwarted common scams through a series of security-focused videos.\n\n4) I provided support to over 2,000 users by responding to questions, offering tips, and sharing discoveries on my Discord server.",
+  "impactMetrics": [
+    {
+      "description": "Views over 1 year",
+      "number": 612,
+      "url": "https://socialblade.com/youtube/c/cryptomage"
+    },
+    {
+      "description": "Youtube subscribers",
+      "number": 12.5,
+      "url": "https://www.youtube.com/c/cryptomage"
+    },
+    {
+      "description": "Discord users",
+      "number": 2.145,
+      "url": "https://discord.com/invite/stSDedPEB3"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 2641.44,
+      "description": "Received through YouTube advertising over a period of 2,5 years."
+    },
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 6200,
+      "description": "Sale of advanced crypto guides and one-on-one coaching over 2,5 years."
+    }
+  ],
+  "payoutAddress": "0x1609f039A96ce10756f5C6D403a80400DC081a02",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "CryptoMage",
+  "Applicant Type": "INDIVIDUAL",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x1609f039A96ce10756f5C6D403a80400DC081a02.json",
+  "Githubs": "",
+  "Tags": "END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK"
+}

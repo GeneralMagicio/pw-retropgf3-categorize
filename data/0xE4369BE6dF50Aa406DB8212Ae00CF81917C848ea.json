@@ -1,0 +1,38 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://twitter.com/DLaunchpadKing",
+  "bio": "Individual seeking financial freedom through blockchain and cryptocurrencies",
+  "contributionDescription": "My contribution to Optimism by helping with testnet phases and interacting with several protocols is an important and valuable role in the development and deployment of Layer 2 scaling solutions for Ethereum. Here's an elaboration on my contribution:\nTestnet Participation: My active involvement in testnet phases demonstrates my commitment to ensuring the robustness and reliability of Optimism's infrastructure. Testnets are essential for identifying and resolving issues before deploying to the Ethereum mainnet.Protocol Interaction: By interacting with several protocols, you play a crucial role in testing the compatibility and interoperability of Optimism with v\n",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://optimistic.etherscan.io/address/0xE4369BE6dF50Aa406DB8212Ae00CF81917C848ea",
+      "description": "Wallet with transaction history showing protocol interaction and testnet use"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "can be invaluable for improving the documentation and user guides for Optimism. Clear and comprehensive documentation is essential for developers looking to integrate their projects with Optimism.\n\nCommunity Building: My active participation in testnet phases and protocol interactions can contribute to building a supportive community around Optimism. Sharing my experiences and insights with others can help foster a collaborative environment and encourage more developers to get involved.\n\nScalability Testing: Interacting with various protocols on the testnet helps stress-test Optimism's scalability capabilities. This is crucial for ensuring that the Layer 2 solution can handle a high volume of transactions and smart contract interactions when deployed on the Ethereum mainnet.\n\n",
+  "impactMetrics": [
+    {
+      "description": "# of transactions",
+      "number": 134,
+      "url": "https://optimistic.etherscan.io/address/0xE4369BE6dF50Aa406DB8212Ae00CF81917C848ea"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0xE4369BE6dF50Aa406DB8212Ae00CF81917C848ea",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "EzWada",
+  "Applicant Type": "INDIVIDUAL",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xE4369BE6dF50Aa406DB8212Ae00CF81917C848ea.json",
+  "Githubs": "",
+  "Tags": "COLLECTIVE_GOVERNANCE, END_USER_EXPERIENCE_AND_ADOPTION"
+}

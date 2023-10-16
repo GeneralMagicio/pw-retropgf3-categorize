@@ -1,0 +1,81 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://github.com/primitivefinance/arbiter",
+  "bio": "Arbiter is a free and open source EVM logic simualtor",
+  "contributionDescription": "Arbiter is a public good security and analysis tool for the EVM ecosystem. The tool kit is free and open source and able to audit mechanism design which has historically been challenging. The tool is also able to model risk across many stochastic processes and historical data. The EVM logic simulator has been used to find critical vulnerabilities in the Portfolio smart contract system that auditors were previously unable to identify. Because of the tools speed and EVM execution parity, it allows for unparalleled quality and quantity of testing data for any smart contract system or application. As optimism maintains support for the EVM execution environment and is an extensive smart contract system, tooling across to ecosystem to help improve safety and security is paramount. ",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/primitivefinance/arbiter",
+      "description": "The logic simulator"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/primitivefinance/DisputeGameSimulations",
+      "description": "Simulating the dispute game"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/primitivefinance/portfolio_simulations/pull/36",
+      "description": "Critical Vulnerability "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/watch?v=ju7m86VG1fw&t=1s",
+      "description": "Spearbit video "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.primitive.xyz/blog/arbiter_core_v0.5.0",
+      "description": "Release notes"
+    }
+  ],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "Through the development of Arbiter, we have grown the developer ecosystem from the ground up. We have helped engineers to understand the security implications and nuances to building modular smart contract systems and how to identify undesirable anomaly behavior. Now the tool is being used by auditing firms, protocol designers, academics and searchers to model their systems and applications with speed, rigor, and EVM execution parity. Overall these contributions help ensure the security and safety of complex systems like the OP Stack while also growing the size and quality of the developer ecosystem which in turn improves the end user experience and adoption by improving the safety and security of end user applications.",
+  "impactMetrics": [
+    {
+      "description": "Github star gazers",
+      "number": 424,
+      "url": "https://github.com/primitivefinance/arbiter"
+    },
+    {
+      "description": "Open source contributors",
+      "number": 21,
+      "url": "https://github.com/primitivefinance/arbiter/graphs/contributors"
+    },
+    {
+      "description": "Downloads all time",
+      "number": 65,
+      "url": "https://crates.io/crates/arbiter-core"
+    },
+    {
+      "description": "Number of unique repository clones",
+      "number": 298,
+      "url": "https://github.com/primitivefinance/arbiter/graphs/traffic"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 100000,
+      "description": "This is an estimate based on the salary of the two core maintainers."
+    }
+  ],
+  "payoutAddress": "0x0401f7529245C02ED20C63229A1e554E24c954Bc",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "Arbiter",
+  "Applicant Type": "PROJECT",
+  "OSS Directory": "Not Found",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xB3350C168Cc9B62bd099c1732830B6Bc09bF3343.json",
+  "Githubs": "https://github.com/primitivefinance/arbiter, https://github.com/primitivefinance/DisputeGameSimulations, https://github.com/primitivefinance/portfolio_simulations/pull/36",
+  "Tags": ""
+}

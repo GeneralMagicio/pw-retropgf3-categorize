@@ -1,0 +1,44 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://www.missionspubliques.com",
+  "bio": "Advancing Deliberative Governance (aka Sortition) for Web3",
+  "contributionDescription": "My contribution to the collective is still indirect. But please consider it as a broad contribution to make Web3 governance much more inclusive, legitimate and resilient. This work also helps to Collective by showing that it is not only possible but also relevant to deploy deliberative governance for better decisions. It's a public good in the making for all blockchain ecosystems. \n\nNow to the contribution: I pilot the approach of Citizens' Assemblies in the broader Web3 ecosystem. I am leading a pilot of Citizens' Assembly in the Cosmos Ecosystem. I will be able to bring this work to the Optimism Ecosystem to pilot it there next year.\n\nhttps://docs.google.com/document/d/14ZIPZQ-YSI8T0yAmFiFfjw65eytCtf2KrAiijdo_raE/edit#heading=h.tyjcwt\n\n\n ",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://docs.google.com/document/d/1EkpUaLtQd_G-T8jz7Y04CfsJonILrItwrjZYWta51nU/edit",
+      "description": "Lists of core documents of the Assembly"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
+  "impactDescription": "The impact is to prove that it is possible to make Web3 governance much more solid by using tools of collective intelligence and sortition based deliberative democracy. \n\nThe key is that it is extremely difficult to deploy the first pilot because the field is very reluctant to non technical solutions. However, the state of current governance is very bad and we need new ways to approach governance. \n\nI needed almost 2 years to make this first pilot possible. I share all learnings and experiences with the collective so we can all learn from it and deploy improved versions in the future. ",
+  "impactMetrics": [
+    {
+      "description": "Documentation of project",
+      "number": 5,
+      "url": "https://docs.google.com/document/d/1EkpUaLtQd_G-T8jz7Y04CfsJonILrItwrjZYWta51nU/edit"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 5000,
+      "description": "Airdrop! 1 and 3. Involved in Opti since the beginning"
+    }
+  ],
+  "payoutAddress": "0x8Bac937c3727B89F273dAbE81898227A0e3Afe6F",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "Antoine",
+  "Applicant Type": "INDIVIDUAL",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x8Bac937c3727B89F273dAbE81898227A0e3Afe6F.json",
+  "Githubs": "",
+  "Tags": "COLLECTIVE_GOVERNANCE"
+}

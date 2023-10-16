@@ -1,0 +1,47 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://github.com/miguelmota/go-ethereum-hdwallet",
+  "bio": "Ethereum HD Wallet derivation library in Go",
+  "contributionDescription": "The `go-ethereum-hdwallet` library is a component within the OP Stack and is also widely utilized throughout the broader Ethereum ecosystem. In the context of the OP Stack, this library plays a crucial role in deriving an HD wallet private key from a mnemonic seed phrase, which is then employed by the sequencer service to sign transactions.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/miguelmota/go-ethereum-hdwallet",
+      "description": "go-ethereum-hdwallet library"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/ethereum-optimism/go-ethereum-hdwallet",
+      "description": "go-ethereum-hdwallet library forked by Optimism"
+    }
+  ],
+  "impactCategory": [
+    "OP_STACK"
+  ],
+  "impactDescription": "The go-ethereum-hdwallet library has been included in the OP Stack since 2022 and remains in use by the Optimism sequencer service. Its adoption in 900+ Go projects on Github shows its broad impact, reliability, and functionality in the wider ecosystem.",
+  "impactMetrics": [
+    {
+      "description": "Projects using library",
+      "number": 910,
+      "url": "https://github.com/miguelmota/go-ethereum-hdwallet/network/dependents"
+    },
+    {
+      "description": "Library forks",
+      "number": 220,
+      "url": "https://github.com/miguelmota/go-ethereum-hdwallet"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0xEF137f8079Df12E9A1b280b4cF09DDEe0295c353",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "go-ethereum-hdwallet",
+  "Applicant Type": "PROJECT",
+  "OSS Directory": "Github Found",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xfb74103029aB113E00Df470c42CAfEd4c8aBe86E.json",
+  "Githubs": "https://github.com/miguelmota/go-ethereum-hdwallet, https://github.com/ethereum-optimism/go-ethereum-hdwallet",
+  "Tags": ""
+}

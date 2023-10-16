@@ -1,0 +1,44 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://twitter.com/nft_kard",
+  "bio": "NFT Enthusiast ",
+  "contributionDescription": "I'm real good advisor with a good connects and followers along all blockchain ecosystem. \n\nI'm very happy with the work done by the Optimism team and that is why I am applying as an advertiser to promote the latest network updates and projects. \n\nAlso the adoption of the network is massive, and add the good track record of the $OP token. ",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://twitter.com/nft_kard",
+      "description": "Me"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "I'm real good advisor with a good connects and followers along all blockchain ecosystem. \n\nI'm very happy with the work done by the Optimism team and that is why I am applying as an advertiser to promote the latest network updates and projects. \n\nAlso the adoption of the network is massive, and add the good track record of the $OP token. ",
+  "impactMetrics": [
+    {
+      "description": "805 followers ",
+      "number": 805,
+      "url": "https://twitter.com/nft_kard"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 1,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0x75b286d43D4F29783337d769C9F0047F4c0c73C7",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "kardhus",
+  "Applicant Type": "INDIVIDUAL",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x75b286d43D4F29783337d769C9F0047F4c0c73C7.json",
+  "Githubs": "",
+  "Tags": "END_USER_EXPERIENCE_AND_ADOPTION"
+}

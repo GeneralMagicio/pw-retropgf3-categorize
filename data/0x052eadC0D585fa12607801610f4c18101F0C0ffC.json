@@ -1,0 +1,47 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "Https://www.Reaxper.com",
+  "bio": "Hello I have owl project in the works of 10,000 owls NFTs.",
+  "contributionDescription": "I made a YouTube video about you guys in 2021, I love your project and have been watching you guys for a while now and love seeing your success. I plan on contributing in any way and support you guys fully. I will have my YouTube link below so you guys can check it out. All love thank you.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://www.youtube.com/watch?v=qR0szy2WOFk",
+      "description": "My optimism video"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "Bringing people to optimism and being aware of it growing. Through the YouTube channel and also telling all my friends at the time so that they could be early adopters to op as well as me. All my friends are extremely happy I showed them op and what you guys have been building.",
+  "impactMetrics": [
+    {
+      "description": "40",
+      "number": 146,
+      "url": "https://Reaxper.com"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 409,
+      "description": "That is all I received:("
+    }
+  ],
+  "payoutAddress": "0xF6bbd5D543f1885fD38781401fa3b3f83131eEF1",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "Reaxper",
+  "Applicant Type": "PROJECT",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x052eadC0D585fa12607801610f4c18101F0C0ffC.json",
+  "Githubs": "",
+  "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK"
+}

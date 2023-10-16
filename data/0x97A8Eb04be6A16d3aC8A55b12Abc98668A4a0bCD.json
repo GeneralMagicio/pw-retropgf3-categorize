@@ -1,0 +1,58 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "Https://khaleed67.com",
+  "bio": "Supporter",
+  "contributionDescription": "It is essential to remain optimistic because it helps us spot new opportunities, learn from difficult situations, and stay on a path of accomplishment Whether all of the world’s problems are solved is irrelevant because the only way all of them could be solved is if humans no longer inhabited the Earth. By our very existence, we create problems for the world. We pollute oceans and air, create waste, use the Earth’s resources, and manipulate the environment for our own benefit. Therefore, problems exist because we do. It is key to stay optimistic even when you have no worries in the world because it allows you to be hopeful for the future rather than dwell on the past. Optimism is necessary in everyday life because it allows us to learn from our failures",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "HTTPS://Khalid67",
+      "description": "Order "
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://khaleed67.com",
+      "description": "Tall is transactions"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "To support community l you have no worries in the world because it allows you to be hopeful for the future rather than dwell on the past. Optimism is necessary in everyday life because it allows us to learn from our failures and come up with solutions to succeed.\n\nPersonally, I face instances where I must be optimistic almost every day of my life. As a student-athlete it is hard to balance school and sports when you miss numerous days of class due to early dismissals, traveling, and late night practices. For me, a normal weekday consists of a seven-hour school day, two-hour school practice, and then another hour and a half of club practice. Therefore, I have to go through the constant reminder that my hard work will eventually lead to",
+  "impactMetrics": [
+    {
+      "description": "Support ",
+      "number": 5,
+      "url": "Https://khaleed67"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 500,
+      "description": ""
+    },
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 50,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0x97A8Eb04be6A16d3aC8A55b12Abc98668A4a0bCD",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "Khaleed67",
+  "Applicant Type": "PROJECT",
+  "OSS Directory": "Github Found",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x97A8Eb04be6A16d3aC8A55b12Abc98668A4a0bCD.json",
+  "Githubs": "HTTPS://Khalid67",
+  "Tags": ""
+}

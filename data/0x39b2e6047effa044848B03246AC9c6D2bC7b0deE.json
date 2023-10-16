@@ -1,0 +1,37 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://app.optimism.io/governance",
+  "bio": "I’m just a normal person who loves optimism ",
+  "contributionDescription": "I’ve tried at least to make some transaction with optimism which has been a while now because i have heard about optimism for the past few years now and I made sure I did my possible best to make some money transactions on it buh it might not be of much amount buh I did few ",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/tx/0x5f02c95c25e34dc42a2425085d13a983ef22bca728c3d8d82307b1dc2d8d865e",
+      "description": "Here I made few transaction"
+    }
+  ],
+  "impactCategory": [
+    "OP_STACK"
+  ],
+  "impactDescription": "I’ve tried at least to make some transaction with optimism which has been a while now because i have heard about optimism for the past few years now and I made sure I did my possible best to make some money transactions on it buh it might not be of much amount buh I did few ",
+  "impactMetrics": [
+    {
+      "description": "Varys",
+      "number": 4,
+      "url": "https://optimistic.etherscan.io/tx/0x5f02c95c25e34dc42a2425085d13a983ef22bca728c3d8d82307b1dc2d8d865e"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x39b2e6047effa044848B03246AC9c6D2bC7b0deE",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "Quammy",
+  "Applicant Type": "INDIVIDUAL",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x39b2e6047effa044848B03246AC9c6D2bC7b0deE.json",
+  "Githubs": "",
+  "Tags": "OP_STACK"
+}

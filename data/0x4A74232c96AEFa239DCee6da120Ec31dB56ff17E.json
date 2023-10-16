@@ -1,0 +1,62 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://kepler.homes/",
+  "bio": "Venture to KeplerHomes  – vast space, unique creatures, unparalleled discovery.",
+  "contributionDescription": "The launch of KeplerHomes Social & Gaming will greatly increase the long-term and continuous activity of optimization users, and can play a positive circulation role for optimization ecological users. We also advocate long-termism and sustainable contribution. In the game segment, we can integrate MUD.DEV to make some applications within our capabilities.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/kepler-homes/",
+      "description": "Kepler Evm & Move & Rust contract"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://kepler.homes",
+      "description": "Website"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "The launch of KeplerHomes Social & Gaming will greatly increase the long-term and continuous activity of optimization users, and can play a positive circulation role for optimization ecological users. We also advocate long-termism and sustainable contribution. In the game segment, we can integrate MUD.DEV to make some applications within our capabilities.",
+  "impactMetrics": [
+    {
+      "description": "Github",
+      "number": 1,
+      "url": "https://github.com/kepler-homes/kepler-evm-contracts/tree/main/contracts"
+    },
+    {
+      "description": "MarketPlace",
+      "number": 1,
+      "url": "https://matket.kepler.homes/"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 500000,
+      "description": ""
+    },
+    {
+      "type": "PARTNER_FUND",
+      "currency": "OP",
+      "amount": 500000,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0x326B0a86E6FE24D781F3779191EC8c42bd2ddD99",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "KeplerHomes",
+  "Applicant Type": "PROJECT",
+  "OSS Directory": "Not Found",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x4A74232c96AEFa239DCee6da120Ec31dB56ff17E.json",
+  "Githubs": "https://github.com/kepler-homes/",
+  "Tags": ""
+}

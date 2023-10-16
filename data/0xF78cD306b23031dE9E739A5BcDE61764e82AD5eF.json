@@ -1,0 +1,101 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://ronan.eth.limo",
+  "bio": "Building open-source tools for the web3 space (hardhat-deploy and more)",
+  "contributionDescription": "- built hardhat-deploy\nallow you to deploy contracts to any network with ease, keeping track of them and replicating the same environment for testing. A reference tool yet to be emulated on other framework. optimism uses it.\n\n- invented clones-with-immutable-args\nAn innovative mechanism that allow the copy of smart contract (clone) while letting them be configured \nOptimism use one of the fork of my original repo.\n\n- wrote \"Ethereum, The Concept of Gas and its Dangers\", an often referenced article on how gas work on the EVM:  https://ronan.eth.limo/blog/ethereum-gas-dangers/ \n\n- co-authored ERC-1155\nA standard that stands among the 3 main token standard in use today\n\n- co-authored ERC-2271\nA standard for meta-transaction used on Optimism by Gelato and Biconomy",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/wighawag/hardhat-deploy",
+      "description": "Tool to deploy contracts on EVM chain and track them"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/wighawag/clones-with-immutable-args/ ",
+      "description": "A innovative mechanism to deploy cheap cloned, yet configurable contract, "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://ronan.eth.limo/blog/ethereum-gas-dangers/",
+      "description": "Educative Article on how gas work on ethereum"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://eips.ethereum.org/EIPS/eip-1155",
+      "description": "A standard interface for contracts that manage multiple token types."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://eips.ethereum.org/EIPS/eip-2771",
+      "description": "Secure Protocol for Native Meta Transactions"
+    }
+  ],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "OP_STACK"
+  ],
+  "impactDescription": "1.  hardhat-deploy had a huge impact\n\n- used by optimism repo: https://s.ska.sh/optimism-deploy\n- deployed many contract on ethereum and optimism\n- used as the ultimate reference to emulate on other framework (foundry,...)\n\n2.  clones-with-immutable-args discovered new ways to create configurable clones\n\n- used by Optimism (a fork of my original repo: https://s.ska.sh/optimism-clone)\n- lised as one of the main proxy types, see Banteg article: https://banteg.xyz/posts/minimal-proxies/\n\n3. My article on how gas work is used as a reference for gas in openzeppelin: https://s.ska.sh/zeppelin-ronan\n\n4. ERC-1155 (co-author) stands as one of the 3 main token standard\n\n5. ERC-2771 (co-author)  is used across the industry for meta-tx, including Biconomy and Gelato that run on Optimism.",
+  "impactMetrics": [
+    {
+      "description": "Weekly Downloads",
+      "number": 66970,
+      "url": "https://www.npmjs.com/package/hardhat-deploy"
+    },
+    {
+      "description": "Dependent Repo",
+      "number": 33319,
+      "url": "https://github.com/wighawag/hardhat-deploy/network/dependents"
+    },
+    {
+      "description": "Dependent github packages",
+      "number": 1175,
+      "url": "https://github.com/wighawag/hardhat-deploy/network/dependents?dependent_type=PACKAGE"
+    },
+    {
+      "description": "# of stars",
+      "number": 1082,
+      "url": "https://github.com/wighawag/hardhat-deploy"
+    },
+    {
+      "description": "# of stars",
+      "number": 182,
+      "url": "https://github.com/wighawag/clones-with-immutable-args/"
+    },
+    {
+      "description": "# of claps",
+      "number": 436,
+      "url": "https://medium.com/@wighawag/ethereum-the-concept-of-gas-and-its-dangers-28d0eb809bb2"
+    },
+    {
+      "description": "Number ERC-1155 contract on Optimism",
+      "number": 2505,
+      "url": "https://optimistic.etherscan.io/tokens-nft1155"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 62648.76,
+      "description": ""
+    },
+    {
+      "type": "RETROPGF_1",
+      "currency": "USD",
+      "amount": 17115,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0xAdDbc936aB952B6dC5C5Fe090c55269a1174D173",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "Ronan Sandford",
+  "Applicant Type": "INDIVIDUAL",
+  "OSS Directory": "Github Found",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xF78cD306b23031dE9E739A5BcDE61764e82AD5eF.json",
+  "Githubs": "https://github.com/wighawag/hardhat-deploy, https://github.com/wighawag/clones-with-immutable-args/",
+  "Tags": ""
+}

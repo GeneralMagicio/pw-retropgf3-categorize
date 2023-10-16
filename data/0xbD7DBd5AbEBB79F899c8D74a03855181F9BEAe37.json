@@ -1,0 +1,38 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://twitter.com/Tzr1_",
+  "bio": "Lucky guy ⭐",
+  "contributionDescription": "Start and set community action goals and respond to feedback. In addition, the distribution of information and news for community development of optimism, in voting or expressing opinions, is a way to participate in recommendations or guidelines in which direction the community will go, which is why we chose this path.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xbD7DBd5AbEBB79F899c8D74a03855181F9BEAe37",
+      "description": "-"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "OP_STACK"
+  ],
+  "impactDescription": "Start and set community action goals and respond to feedback. In addition, the distribution of information and news for community development of optimism, in voting or expressing opinions, is a way to participate in recommendations or guidelines in which direction the community will go, which is why we chose this path.",
+  "impactMetrics": [
+    {
+      "description": "-",
+      "number": 100,
+      "url": "https://twitter.com/Tzr1_"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0xbD7DBd5AbEBB79F899c8D74a03855181F9BEAe37",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "mootion",
+  "Applicant Type": "INDIVIDUAL",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xbD7DBd5AbEBB79F899c8D74a03855181F9BEAe37.json",
+  "Githubs": "",
+  "Tags": "COLLECTIVE_GOVERNANCE, OP_STACK"
+}

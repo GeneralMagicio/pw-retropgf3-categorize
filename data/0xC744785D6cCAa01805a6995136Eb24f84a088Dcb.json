@@ -1,0 +1,44 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://twitter.com/ZahkAV",
+  "bio": "Trader and DeFi Influencer",
+  "contributionDescription": "I've taught thousands of people how to be successful in DeFi. In doing so, i've talked about Optimism as the place to find: opportunity, availability, scalability, and community. I enjoy teaching people that DeFi is approachable to all and Optimism continues to be a favorite that I talk about in each of my communities whether on Twitter or Alpha Ventures/ZZZMoneyClub.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/ZahkAV",
+      "description": "My social profiles"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
+  "impactDescription": "I've taught others how to approach governance in DeFi when they previously had zero experience. I've convinced others to be a participant rather than a spectator, and taking ownership of their experience with blockchain, particularly with Optimism as it is one of the blockchains with the most potential. ",
+  "impactMetrics": [
+    {
+      "description": "# of Audience Members",
+      "number": 10000,
+      "url": "https://twitter.com/ZahkAV"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 500,
+      "description": "Through airdrops in participating in the blockchain"
+    }
+  ],
+  "payoutAddress": "0xC744785D6cCAa01805a6995136Eb24f84a088Dcb",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "Zahk",
+  "Applicant Type": "INDIVIDUAL",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xC744785D6cCAa01805a6995136Eb24f84a088Dcb.json",
+  "Githubs": "",
+  "Tags": "COLLECTIVE_GOVERNANCE"
+}

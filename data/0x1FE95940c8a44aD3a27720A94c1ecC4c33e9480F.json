@@ -1,0 +1,37 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://twitter.com/niubal50",
+  "bio": "just work",
+  "contributionDescription": "I haven't made any contribution yet, but I will continue to pay attention to it and share it with my friends. If the official puts forward a plan, I will seriously think about it and give my reasonable suggestions in time. I think the platform and the fans are interdependent, and the two sides work together to expand and enhance the influence of the platform, so that the platform can have better development and benefit all parties.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/niubal50",
+      "description": "https://twitter.com/niubal50"
+    }
+  ],
+  "impactCategory": [
+    "OP_STACK"
+  ],
+  "impactDescription": "I haven't made any contribution yet, but I will continue to pay attention to it and share it with my friends. If the official puts forward a plan, I will seriously think about it and give my reasonable suggestions in time. I think the platform and the fans are interdependent, and the two sides work together to expand and enhance the influence of the platform, so that the platform can have better development and benefit all parties.",
+  "impactMetrics": [
+    {
+      "description": "1",
+      "number": 1,
+      "url": "https://twitter.com/niubal50"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x1FE95940c8a44aD3a27720A94c1ecC4c33e9480F",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "bal",
+  "Applicant Type": "INDIVIDUAL",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x1FE95940c8a44aD3a27720A94c1ecC4c33e9480F.json",
+  "Githubs": "",
+  "Tags": "OP_STACK"
+}

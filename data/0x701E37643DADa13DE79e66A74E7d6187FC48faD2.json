@@ -1,0 +1,37 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://dune.com/niftytable/account-abstraction",
+  "bio": "A Dune dashboard that presents data on the adoption of ERC4337 Smart Accounts",
+  "contributionDescription": "𝗧𝗟𝗗𝗥\nBuilt a Dune dashboard on ERC4337 Smart Accounts. Provides valuable insight for teams building smart account infrastructure.\n\n𝗗𝗲𝘀𝗰𝗿𝗶𝗽𝘁𝗶𝗼𝗻\nThis dashboard breaks down \n- Overview statistics  (accounts deployed, monthly transactions .etc)\n- Bundler Performance (marketshare, revenue .etc)\n- Paymaster activity (marketshare, gas spend .etc)\n- Application usage by ERC4337 accounts \n\nIt is currently the most popular Dune dashboard for ERC4337 with 410+ stars. ",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://dune.com/niftytable/account-abstraction",
+      "description": "Dashboard Link"
+    }
+  ],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
+  "impactDescription": "190k+ ERC4337 accounts have been deployed on Optimism and Base, making the Superchain one of the top ecosystems for smart account activity. \n\nMost teams building ERC4337 infrastructure use the data from this dashboard to track the category's growth and inform their strategies.\n\n𝗧𝗲𝘀𝘁𝗶𝗺𝗼𝗻𝗶𝗮𝗹𝘀\n\n“Kofi has substantially contributed to the excitement around Account Abstraction over the last months. Being able to transparently see the continued adoption of Smart Accounts via his Dune Dashboard clearly showed the community the progress this new ecosystem is making.”\nLukas Schor\nFounder of Safe\n\n“Kofi has built the go-to dashboard for all ERC4337 data. I check it all the time!”\nKristof Gazso\nCo-author of EIP4337\nFounder of Pimlico [ERC4337 Bundler and Paymaster provider]",
+  "impactMetrics": [
+    {
+      "description": "Stars",
+      "number": 423,
+      "url": "https://dune.com/niftytable/account-abstraction"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x701E37643DADa13DE79e66A74E7d6187FC48faD2",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "ERC4337 Smart Accounts Dashboard",
+  "Applicant Type": "PROJECT",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x701E37643DADa13DE79e66A74E7d6187FC48faD2.json",
+  "Githubs": "",
+  "Tags": "DEVELOPER_ECOSYSTEM"
+}

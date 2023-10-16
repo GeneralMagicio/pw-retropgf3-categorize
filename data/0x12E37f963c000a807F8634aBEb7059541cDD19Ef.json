@@ -1,0 +1,37 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://youtube.com/@jockytran?si=KK4nxIbCasfynQJm",
+  "bio": "24 year old visionary and artist from canada",
+  "contributionDescription": "I am a web3 advocate and have been in the space since 2017. I believe i can be a grrat spokesperson and voice to the general public in terms of spreading awareness and showing people the impact Optimism will have in the future within our societies. This is the future and i want to be apart of it",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://instagram.com/jockytran?igshid=OGQ5ZDc2ODk2ZA==",
+      "description": "0"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
+  "impactDescription": "I will be the face of the asian community on the internet one day in the music and entertainment scene. Mark my words. i have been in the crypto space since 2017 and have learned so much about freedom tech and how eth and digital assets that remove middleman third parties will change thr world. I am extremely knowledgeable in the space and i wild love a opportunity to meet on zoom or chat with someone within the optimism community to show the value i will bring. Im a little eccentric but i lnow soon i will be a big content creator who will push for freedom tech and crypto and eth!!",
+  "impactMetrics": [
+    {
+      "description": "N/A",
+      "number": 0,
+      "url": "https://instagram.com/jockytran?igshid=OGQ5ZDc2ODk2ZA=="
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x64F2Bbec2042eABbEcaB665964A24ed81d1298d9",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "jockytran",
+  "Applicant Type": "INDIVIDUAL",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x12E37f963c000a807F8634aBEb7059541cDD19Ef.json",
+  "Githubs": "",
+  "Tags": "COLLECTIVE_GOVERNANCE"
+}

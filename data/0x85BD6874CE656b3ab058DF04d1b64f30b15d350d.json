@@ -1,0 +1,53 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://vraig.com",
+  "bio": "Binance Feed Content Creator and Blogger. Full stack mobile developer.",
+  "contributionDescription": "My contributions to Optimism extend beyond merely covering it as a topic. I've authored numerous in-depth articles that delve into the project's intricacies, innovations, and impact on the broader crypto ecosystem. These pieces serve as educational material for my community, demystifying complex technical aspects and highlighting its value proposition.\n\nBeyond written content, I've also creatively engaged with my community through contests and riddles centered around Optimism. These interactive elements enhance awareness and understanding of the project.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://vraig.com/",
+      "description": "Blog"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.binance.com/en/feed/profile/18808902",
+      "description": "Binance Feed"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xd8fa12e084af767046640744dcaa66581c6e370b",
+      "description": "Simple Contract"
+    }
+  ],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "My contributions have helped solidify the Optimism Collective as an informed and engaged community, fortified with both substantive knowledge and a sense of togetherness. The increased engagement and discussion spurred by my initiatives have, in turn, contributed to the collective's growth and vibrancy. ",
+  "impactMetrics": [
+    {
+      "description": "Community ",
+      "number": 7000,
+      "url": "https://www.binance.com/en/feed/profile/18808902"
+    },
+    {
+      "description": " Monthly Blog readers",
+      "number": 2000,
+      "url": "https://vraig.com/"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x85BD6874CE656b3ab058DF04d1b64f30b15d350d",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "Vertual",
+  "Applicant Type": "INDIVIDUAL",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x85BD6874CE656b3ab058DF04d1b64f30b15d350d.json",
+  "Githubs": "",
+  "Tags": "DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION"
+}

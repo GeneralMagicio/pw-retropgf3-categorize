@@ -1,0 +1,53 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://2007.io",
+  "bio": "15 yo software engineer and open source contributor",
+  "contributionDescription": "My primary contribution to Optimism lies in developing cross-chain protocols, bolstering interoperability. OmniLido allows users to deposit into Lido from Optimism, bridging ETH to Ethereum via LayerZero. OmniMint & OmniBuy further this cross-chain mission. All codes are open-sourced on GitHub, ensuring transparency and fostering community-driven innovation. By leveraging Optimism's low gas fees and robust Layer 2 attributes, these projects accentuate its versatility and appeal in the blockchain sphere.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/Gajesh2007/contributions/blob/main/README.md#layerzero--stargate",
+      "description": "All my contributions to Open Source"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/Gajesh2007/OmniLido",
+      "description": "OmniLido - Deposit ETH in Lido from Optimism"
+    }
+  ],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "By open-sourcing cross-chain protocols, I’ve enabled collective innovation and experimentation. OmniLido and similar projects spotlight Optimism’s versatility, spurring its adoption within the Collective. Such initiatives set high benchmarks, driving developers to reach new heights. Overall, I’ve not only added technological prowess but invigorated the Collective's spirit and growth.",
+  "impactMetrics": [
+    {
+      "description": "Tweet Views",
+      "number": 4850,
+      "url": "https://x.com/gajeshnaik/status/1658456395241455616?s=20"
+    },
+    {
+      "description": "Tweet Views",
+      "number": 25100,
+      "url": "https://x.com/gajeshnaik/status/1643332853290393601?s=20"
+    },
+    {
+      "description": "Tweet Views",
+      "number": 23900,
+      "url": "https://x.com/gajeshnaik/status/1642586439354400768?s=20"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0xe2f6659e0209C3f79132AbDEB95abEBa0f1f672F",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "Gajesh Naik",
+  "Applicant Type": "INDIVIDUAL",
+  "OSS Directory": "Not Found",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xe2f6659e0209C3f79132AbDEB95abEBa0f1f672F.json",
+  "Githubs": "https://github.com/Gajesh2007/contributions/blob/main/README.md#layerzero--stargate, https://github.com/Gajesh2007/OmniLido",
+  "Tags": ""
+}

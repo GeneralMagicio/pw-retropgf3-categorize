@@ -1,0 +1,44 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://twitter.com/CryptoPasc",
+  "bio": "crypto enthusiast",
+  "contributionDescription": "Im a very enthusiast about optimism chain, ive made a lot of refferals and im using some protocols about 2 years and pretend to use for more years. The chain is very cheap and fast, so for me, this is very important because the ethereum mainnet is so expensive and this makes limit to people use it",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xB279B279fc88d53390eC63B8c9c29c642d568491",
+      "description": "Rastha"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "Ive made a lot of refferals to my IRL friends, and they liked to use the chain, they are using some protocols like Synthetix, Polynominal and Thales. Ive not made a lot of contributions but great things are made by a lot of small things brought together",
+  "impactMetrics": [
+    {
+      "description": "contract",
+      "number": 1,
+      "url": "https://optimistic.etherscan.io/address/0xB279B279fc88d53390eC63B8c9c29c642d568491"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 2000,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0xB279B279fc88d53390eC63B8c9c29c642d568491",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "Leo Pascoli",
+  "Applicant Type": "INDIVIDUAL",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xB279B279fc88d53390eC63B8c9c29c642d568491.json",
+  "Githubs": "",
+  "Tags": "END_USER_EXPERIENCE_AND_ADOPTION"
+}

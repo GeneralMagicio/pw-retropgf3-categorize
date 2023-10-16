@@ -1,0 +1,47 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://www.linkedin.com/in/sunarto-sihite-csa-91627788",
+  "bio": "I am an analyst, trader & educator market",
+  "contributionDescription": "Make more people using optimsm & get more adoption for optimsm chain on dex trade, staking, voted, claim badge & pass for verified personal account. Hopefully optimsm using on banking system, actualy in Indonesia & make more event on my country. Intregate on twitter, google pay, apple pay for payment & also expansion on gaming platform. I hope in 2024 optimsm can be faster & more cheapest gass fee transaction. ",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xe968C0151F9855089140e03F2365B11b18e6a5d3",
+      "description": "Using stargate & socket protocol on optimism, also claim reward optimsm token"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "Using optimsm chain on dex trade, staking, voted, claim badge & pass for verified personal account. Hopefully optimsm using on banking system, actualy in Indonesia & make more event on my country. Intregate on twitter, google pay, apple pay for payment & also expansion on gaming platform. ",
+  "impactMetrics": [
+    {
+      "description": "2000136",
+      "number": 2000136,
+      "url": "https://optimistic.etherscan.io/address/0xe968C0151F9855089140e03F2365B11b18e6a5d3"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 500,
+      "description": "Optimsm badge on layer3.xyz"
+    }
+  ],
+  "payoutAddress": "0xe968C0151F9855089140e03F2365B11b18e6a5d3",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "sunarto sihite",
+  "Applicant Type": "INDIVIDUAL",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xe968C0151F9855089140e03F2365B11b18e6a5d3.json",
+  "Githubs": "",
+  "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK"
+}

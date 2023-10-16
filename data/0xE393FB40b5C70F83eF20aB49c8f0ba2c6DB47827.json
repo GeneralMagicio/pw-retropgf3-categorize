@@ -1,0 +1,38 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://www.mygreenbucks.online",
+  "bio": "Affiliate marketing using web3.0 to help small businesses",
+  "contributionDescription": "I was able to delegate to a validator during optimism first airdrop and have choosen from the list of delegators for governance as well as use optimism to achieve low fees as opposed to ethereum transactions. Also it helps the ecosystem grow since i am promoting optimism via telegram and discord.as well as twitter and help retail investors open their eyes on low cost fees that optimism provides since it is scalled ethereum per se.😊",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/tx/0x34f818e9b890bc06403078f4c90f08cae4232990230548c302353ce373f6469b",
+      "description": "optimism claimed airdrop transactions  and delegate"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "I was able to delegate to a validator during optimism first airdrop and have choosen from the list of delegators for governance as well as use optimism to achieve low fees as opposed to ethereum transactions. Also it helps the ecosystem grow since i am promoting optimism via telegram and discord.as well as twitter and help retail investors open their eyes on low cost fees that optimism provides since it is scalled ethereum per se.😊",
+  "impactMetrics": [
+    {
+      "description": "12",
+      "number": 12,
+      "url": "https://optimistic.etherscan.io/address/0xE393FB40b5C70F83eF20aB49c8f0ba2c6DB47827"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0xE393FB40b5C70F83eF20aB49c8f0ba2c6DB47827",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "mygreenbucks",
+  "Applicant Type": "INDIVIDUAL",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xE393FB40b5C70F83eF20aB49c8f0ba2c6DB47827.json",
+  "Githubs": "",
+  "Tags": "COLLECTIVE_GOVERNANCE, END_USER_EXPERIENCE_AND_ADOPTION"
+}

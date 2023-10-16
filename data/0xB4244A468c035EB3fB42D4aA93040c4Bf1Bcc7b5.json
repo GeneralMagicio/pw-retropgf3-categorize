@@ -1,0 +1,47 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://link3.to/11112222221111",
+  "bio": "dreamer",
+  "contributionDescription": "i have make transaction on OP for serveral month, i minted NFT on many project on OP, i am real user and constantly using OP network is my best contribution.  I wish the retro PGF will bring more benefitable for user and lead user to become more active on OP network and so on. ",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xB4244A468c035EB3fB42D4aA93040c4Bf1Bcc7b5",
+      "description": "My transaction on OP network"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "i have made alotof transaction on OP network, and also minted alotof NFT, i have become familiar with OP network, i think the main contribution of my role as enduser is constantly using OP network as real user. I going deep into the network and figure out the benefit of using it. ",
+  "impactMetrics": [
+    {
+      "description": "Transaction",
+      "number": 1,
+      "url": "https://optimistic.etherscan.io/address/0xB4244A468c035EB3fB42D4aA93040c4Bf1Bcc7b5"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 1,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0xB4244A468c035EB3fB42D4aA93040c4Bf1Bcc7b5",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "Tonyxb",
+  "Applicant Type": "INDIVIDUAL",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xB4244A468c035EB3fB42D4aA93040c4Bf1Bcc7b5.json",
+  "Githubs": "",
+  "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK"
+}

@@ -1,0 +1,40 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://x.com/kishanpatel2902",
+  "bio": "Crypto enthusiast",
+  "contributionDescription": "\nContributing to the Optimism ecosystem is vital for the advancement of decentralized finance and blockchain technology. By actively participating in Optimism, whether through developing scalable applications, providing liquidity, or engaging in network governance, individuals play a crucial role in enhancing the platform's functionality and usability. Your contributions not only drive innovation but also help in creating a more efficient, low-cost, and accessible financial infrastructure for everyone. Together, these efforts contribute to the growth and sustainability of the Optimism ecosystem, fostering a decentralized future for the global economy.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x75232B3a9A500748356fB605297862Bb9cbdd53d",
+      "description": "Kishan patel"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "\nContributing to the Optimism ecosystem is vital for the advancement of decentralized finance and blockchain technology. By actively participating in Optimism, whether through developing scalable applications, providing liquidity, or engaging in network governance, individuals play a crucial role in enhancing the platform's functionality and usability. Your contributions not only drive innovation but also help in creating a more efficient, low-cost, and accessible financial infrastructure for everyone. Together, these efforts contribute to the growth and sustainability of the Optimism ecosystem, fostering a decentralized future for the global economy.",
+  "impactMetrics": [
+    {
+      "description": "Kishanpatel",
+      "number": 2902,
+      "url": "https://optimistic.etherscan.io/address/0x75232B3a9A500748356fB605297862Bb9cbdd53d"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x75232B3a9A500748356fB605297862Bb9cbdd53d",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "Kishan patel",
+  "Applicant Type": "INDIVIDUAL",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x75232B3a9A500748356fB605297862Bb9cbdd53d.json",
+  "Githubs": "",
+  "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK"
+}

@@ -1,0 +1,46 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://forocoches.com",
+  "bio": "A little Elf",
+  "contributionDescription": "I have only contributed through delegation of votes. I am very interested in DAOs and the entire OP ecosystem, which is why I am always attentive to all new news regarding OP and its development. I think that everything it is building has enormous potential. Including its SDK to be able to build.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://forocoches.com",
+      "description": "0x94b008aa00579c1307b0ef2c499ad98a8ce58e58"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "I have only contributed through delegation of votes. I am very interested in DAOs and the entire OP ecosystem, which is why I am always attentive to all new news regarding OP and its development. I think that everything it is building has enormous potential. Including its SDK to be able to build.",
+  "impactMetrics": [
+    {
+      "description": "/",
+      "number": 420,
+      "url": "https://forocoches.com"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 2000,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0x5ab75f5e8b00E54671EaB7F1A4F483FB52FC2D4E",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "Soyduende",
+  "Applicant Type": "PROJECT",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x5ab75f5e8b00E54671EaB7F1A4F483FB52FC2D4E.json",
+  "Githubs": "",
+  "Tags": "COLLECTIVE_GOVERNANCE, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK"
+}

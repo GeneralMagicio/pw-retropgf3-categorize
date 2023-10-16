@@ -1,0 +1,46 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://www.sound.xyz/user/vtcking.eth",
+  "bio": "I am a Blockchain user, NFT Holder, token, coin..",
+  "contributionDescription": "I want to receive a worthy reward for the effort and dedication I have put into supporting the project and I would be very grateful if I receive those rewards, which shows the fairness and recognition of the project. project with my contributions. Reward is a reward and also a measure and motivation for a blockchain community to develop, which makes us come closer together and work together better.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x1014d57ada2f05b967578beb253e28fa31172c39",
+      "description": "Find them in my wallet on the blockchain ledger, I've left them above."
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "Optimism Collective - I purchased NFTs and stored them in my blockchain wallet. I have participated in #Op's 18 Quest campaign, I have made fee transactions to brige an NFT from Ether mainet via OP mainet, I have been supporting NFT music on platforms like Soundxyz, opensea.. . mint and save us... we have joined responsible dog communities like Camel Venture to promote NFT music projects on #OP",
+  "impactMetrics": [
+    {
+      "description": "NFT Music",
+      "number": 73,
+      "url": "https://www.sound.xyz/user/vtcking.eth"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 100,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0x1014d57aDa2F05b967578Beb253e28Fa31172C39",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "Vtcking",
+  "Applicant Type": "PROJECT",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x1014d57aDa2F05b967578Beb253e28Fa31172C39.json",
+  "Githubs": "",
+  "Tags": "COLLECTIVE_GOVERNANCE, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK"
+}

@@ -1,0 +1,45 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://polynya.mirror.xyz/",
+  "bio": "I write about crypto-related topics like governance, sustainability and scaling.",
+  "contributionDescription": "I have written over 100 blog posts about rollups and governance, in addition to countless Reddit & Twitter posts, with the caveat they are not specifically related to Optimism but about rollups in general. All my writings are public domain, and anyone can remix/republish/adapt etc as they please. I've been an Optimism Collective delegate since day 1, and governance has been a key topic in my writings in the last year or so, inspired by my work as a delegate, aimed partly at improving Optimism's governance systems and onboarding more people to Optimism's governance. Kindly note that I'm a recipient for RPGF #2, so it may be prudent to consider my more recent writings about topics like governance for RPGF #3. ",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://polynya.mirror.xyz/",
+      "description": "Blog"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "The impact of writers is harder to gauge with metrics. I could post viewing stats and social media numbers, but instead, let me try something different. Here's my pitch: have you, as a badgeholder, read my content and in some way informed & influenced your thoughts and work? Or your colleagues, friends, and teams building on Optimism? It's not for me to say how impactful my writing has been - so I'll let badgeholders be the judge. Kindly also note that I'm no longer active on Twitter, but still write on Mirror, Farcaster and Reddit with a smaller audience than in the past, so you may consider that when you gauge \"impact\". ",
+  "impactMetrics": [
+    {
+      "description": "NA",
+      "number": 0,
+      "url": "https://polynya.mirror.xyz/"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 98824,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0x429F9aDA43e9F345CbB85EC88681BB70Df808892",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "polynya",
+  "Applicant Type": "INDIVIDUAL",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x429F9aDA43e9F345CbB85EC88681BB70Df808892.json",
+  "Githubs": "",
+  "Tags": "COLLECTIVE_GOVERNANCE, END_USER_EXPERIENCE_AND_ADOPTION"
+}

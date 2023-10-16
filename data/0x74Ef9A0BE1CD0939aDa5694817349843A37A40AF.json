@@ -1,0 +1,47 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://www.twitter.com/klever_op",
+  "bio": "Student ",
+  "contributionDescription": "Developing the Optimism Virtual Machine (OVM): The OVM is a new type of virtual machine that is specifically designed for running Optimistic Rollups. I helped to design and implement the OVM, which is a key component of the Optimism network.\nContributing to the Optimism Sequencer: The Optimism Sequencer is a piece of software that coordinates the execution of transactions on the Optimism network. I helped to develop and improve the Optimism Sequencer, which is essential for the smooth operation of the network.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x74Ef9A0BE1CD0939aDa5694817349843A37A40AF",
+      "description": "OPTISMISM"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "My work on the OVM has helped to make it a reliable and efficient platform for running Ethereum smart contracts. The OVM is now used by a wide range of projects, including some of the largest and most popular decentralized applications on Ethereum.\n\nMy work on the Optimism Sequencer has helped to improve the performance and scalability of the Optimism network. The Optimism Sequencer is now able to process thousands of transactions per second, making Optimism one of the fastest and most scalable Layer 2 scaling solutions for Ethereum.",
+  "impactMetrics": [
+    {
+      "description": " op-challenger:  resolution (#7155)",
+      "number": 7155,
+      "url": "https://github.com/ethereum-optimism/optimism/commit/7fefff6e039d73bd395080ec8aa4dc426c7d14c7"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 1,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0x74ef9a0be1cd0939ada5694817349843a37a40af",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "Tausif Ansari",
+  "Applicant Type": "INDIVIDUAL",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x74Ef9A0BE1CD0939aDa5694817349843A37A40AF.json",
+  "Githubs": "",
+  "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK"
+}

@@ -1,0 +1,47 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://www.villageofthousands.io/",
+  "bio": "Believe in Blockchain technology since 2011, Got a chance to meet OP team@DevCon",
+  "contributionDescription": "I have been a great community member and helped bootstrap many projects in the Ecosystem by minting and participating in exploring L2s for a more seamless and secure network that can help propelled this technology with adoption, creativity , and passion with the core values of Ethereum always at the forefront.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x7d3335fe8189f655f466603327d00d6abbf6c441",
+      "description": "transactions in the network"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "I had the chance to Meet the OP team and DevCon Bogota last year and it was an amazing experience, thanks to that conversation I started exploring what problems/solutions can I solve and decided to create VillageOfThousands.io. \nI have also lobbied and inform fellow community from various NFT projects like Scapes, DystoPunks, Yaypegs and others to explore OP and participate in the Governance to further strengthen their projects and possible transition/exploration of OP L@. ",
+  "impactMetrics": [
+    {
+      "description": "Transactions",
+      "number": 29,
+      "url": "https://optimistic.etherscan.io/address/0x7d3335fe8189f655f466603327d00d6abbf6c441"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 5000,
+      "description": "VillageOfthousands Ecosystem will Launch at OP and this grant can really help"
+    }
+  ],
+  "payoutAddress": "0x7d3335fE8189F655F466603327d00D6ABBF6C441",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "Organix",
+  "Applicant Type": "INDIVIDUAL",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x7d3335fE8189F655F466603327d00D6ABBF6C441.json",
+  "Githubs": "",
+  "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK"
+}

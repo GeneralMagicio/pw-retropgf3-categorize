@@ -1,0 +1,70 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://medium.com/@pathomphongcharoenwichianchay",
+  "bio": "Software engineer of Digital banking in Thailand",
+  "contributionDescription": "I have actively contributed to Optimism by sharing educational content, providing valuable feedback, and participating in governance discussions to enhance end-user experience and adoption. These efforts have played a crucial role in supporting the development and growth of the Optimism network, aligning with the goals of RetroPGF 3 to reward impactful contributions.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://medium.com/@pathomphongcharoenwichianchay",
+      "description": "Medium for share about dapp that focus on optimism eco"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://paragraph.xyz/@sakubeebbuild.eth/fire-safely-explore-web3-with-peace-of-mind",
+      "description": "Paragraph -Fire: Safely Explore Web3"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://paragraph.xyz/@sakubeebbuild.eth/nested-the-best-decentralized-portfolio-management-and-copy-trading-experiences",
+      "description": "Paragrah -Nested: The best decentralized portfolio management"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://paragraph.xyz/@sakubeebbuild.eth/what-is-layer3",
+      "description": "Paragraph -Layer3 Quests: The Ultimate Interactive Experience"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://paragraph.xyz/@sakubeebbuild.eth/mean-finance-simplifying-dollar-cost-averaging-with-decentralization",
+      "description": "Paragraph -Mean Finance: Simplifying Dollar-Cost Averaging"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "1. End-User Experience & Adoption:\nI actively engage in improving end-user experience and adoption for Optimism by sharing educational content through tweets and providing valuable feedback to the Optimism team.\n\n2.Collective Governance:\nI actively participate in collective governance by initiating and engaging in proposals (OPs), voting on important matters, and actively contributing to discussions in the forum.",
+  "impactMetrics": [
+    {
+      "description": "medium",
+      "number": 0,
+      "url": "https://medium.com/@pathomphongcharoenwichianchay"
+    },
+    {
+      "description": "paragraph",
+      "number": 1,
+      "url": "https://paragraph.xyz/@sakubeebbuild.eth/mean-finance-simplifying-dollar-cost-averaging-with-decentralization"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 1000,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0x3C43AA8E525d0CA2fab672CD55F79dE777295e99",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "saku",
+  "Applicant Type": "INDIVIDUAL",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x3C43AA8E525d0CA2fab672CD55F79dE777295e99.json",
+  "Githubs": "",
+  "Tags": "COLLECTIVE_GOVERNANCE, END_USER_EXPERIENCE_AND_ADOPTION"
+}

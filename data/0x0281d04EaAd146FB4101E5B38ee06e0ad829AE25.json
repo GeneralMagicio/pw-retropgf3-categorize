@@ -1,0 +1,47 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://twitter.com/LuckaSucka",
+  "bio": "trader",
+  "contributionDescription": "Experience the true essence of web3 with Ylide on #VenomTestnet. By bringing together diverse use cases, we're shaping the future of blockchain technology. \n\nGet ready to unlock new opportunities and possibilities! \n@VenomFoundation\n \nhttps://venom.network/tasks/ylide \n@WemixNetwork\n",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://twitter.com/LuckaSucka",
+      "description": "good project by other"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "Experience the true essence of web3 with Ylide on #VenomTestnet. By bringing together diverse use cases, we're shaping the future of blockchain technology. \n\nGet ready to unlock new opportunities and possibilities! \n@VenomFoundation\n \nhttps://venom.network/tasks/ylide \n@WemixNetwork\n",
+  "impactMetrics": [
+    {
+      "description": "new project",
+      "number": 123,
+      "url": "https://twitter.com/LuckaSucka"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 10000,
+      "description": "op"
+    }
+  ],
+  "payoutAddress": "0x0281d04EaAd146FB4101E5B38ee06e0ad829AE25",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "singhpw",
+  "Applicant Type": "PROJECT",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x0281d04EaAd146FB4101E5B38ee06e0ad829AE25.json",
+  "Githubs": "",
+  "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK"
+}

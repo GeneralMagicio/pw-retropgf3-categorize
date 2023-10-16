@@ -1,0 +1,37 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://twitter.com/SuperRisingSR",
+  "bio": "An Individual using Optimism Chain",
+  "contributionDescription": "Am using Optimism Chain as an Individual. The chain is the best chain as it has reduced the overall costing to minimum. The speed of every transaction is really fast. Overall, the chain is quite enjoyable with lots of utilities around. More people will definitely start using thus chain.....",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://twitter.com/SuperRisingSR",
+      "description": "0x736574a681f6707dfC00C81C27c501b64c8126DA"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "I am using Optimism chain and brought other people from my friend circle by letting them know the benefits using the chain. Optimism chain is not only cheap and reduces cost, but it's also very fast for each and every transaction. The utilities are the best... ",
+  "impactMetrics": [
+    {
+      "description": "Superchain Builder NFT holder",
+      "number": 10699,
+      "url": "https://optimistic.etherscan.io/address/0x11e76ab2e2C48e4a561ac96935399c8595619FA4"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x736574a681f6707dfC00C81C27c501b64c8126DA",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "SuperRisingSr",
+  "Applicant Type": "INDIVIDUAL",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x736574a681f6707dfC00C81C27c501b64c8126DA.json",
+  "Githubs": "",
+  "Tags": "END_USER_EXPERIENCE_AND_ADOPTION"
+}

@@ -1,0 +1,40 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://twitter.com/cryptoshandy",
+  "bio": "go for the goal",
+  "contributionDescription": "crypto enthusiast, optimism user, optimism bridger, op stack, collective governance,  more airdrop, RetroPGF is an ongoing experiment. Each round, the Optimism Collective learns from and iterates on the previous round’s system design. explores the design of the OP Stack’s FPVM and how the full fault proof system advances both technical and social decentralization in the Optimism ecosystem.\n\n",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/tx/0xb5c6ce13195da1227eee026101538c7a5bffd4ea59bc048c22aaa2d9afd61aca",
+      "description": "github"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "crypto enthusiast, optimism user, optimism bridger, op stack, collective governance,  more airdrop, RetroPGF is an ongoing experiment. Each round, the Optimism Collective learns from and iterates on the previous round’s system design. explores the design of the OP Stack’s FPVM and how the full fault proof system advances both technical and social decentralization in the Optimism ecosystem.\n",
+  "impactMetrics": [
+    {
+      "description": "op",
+      "number": 1,
+      "url": "https://optimistic.etherscan.io/tx/0xb5c6ce13195da1227eee026101538c7a5bffd4ea59bc048c22aaa2d9afd61aca"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x1b2d294ab6ca449e34F946B86540cd342cF49100",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "shandy1225",
+  "Applicant Type": "PROJECT",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x1b2d294ab6ca449e34F946B86540cd342cF49100.json",
+  "Githubs": "",
+  "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK"
+}

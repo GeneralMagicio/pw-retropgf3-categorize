@@ -1,0 +1,45 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://www.ipaddress.my/?lang=zh_cn",
+  "bio": "加密货币爱好者",
+  "contributionDescription": "I have been holding and accumulating OP from the beginning of the issuance to now. I am always paying attention to the development of OP. I have subscribed to MIRROR and purchased NFT. As the second-layer network of Ethereum, I believe there will be more supporters! As a supporter of OP, I hope that more friends will join OP’s team. Of course, there are more competitors in the second-tier network than OP, such as ARB. Of course, I hope that OP can win in the numerous competitions. Stand out and hope to have the same bright future as Ethereum! This requires the joint support and efforts of you and me! ! ! If I am lucky enough to receive an airdrop, I will invest in OP for a longer period of time. In fact, the development of OP is inseparable from cryptocurrency support ",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/home.html#",
+      "description": "小狐狸钱包不如交易所交易方便，大部分是在交易所购买并囤积OP"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "Hope it develops better! Our country is not very friendly to cryptocurrency, but I try my best to introduce and recommend OP to my friends around me. Due to the influence of the general environment, I believe that the future world will be decentralized and interconnected! Of course, I hope that OP can develop better in the next wave of the world! Since my assets belong to personal privacy, the OP tokens in the exchange are not convenient to display, because there are other assets such as ETH. Of course, I hope that all my personal privacy The information will not be leaked. I hope you can respect my privacy. I will support the OP as always! ! ! ! ! !",
+  "impactMetrics": [
+    {
+      "description": "3",
+      "number": 9,
+      "url": "chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/home.html#asset/0x4200000000000000000000000000000000000042"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 1500,
+      "description": "这是我目前在OK交易所购买并持有的，随着时间会积累更多的"
+    }
+  ],
+  "payoutAddress": "0xd5dA7E68050C41F96207C1D19392307A63B53810",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "FFKQ",
+  "Applicant Type": "INDIVIDUAL",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xd5dA7E68050C41F96207C1D19392307A63B53810.json",
+  "Githubs": "",
+  "Tags": "COLLECTIVE_GOVERNANCE, END_USER_EXPERIENCE_AND_ADOPTION"
+}

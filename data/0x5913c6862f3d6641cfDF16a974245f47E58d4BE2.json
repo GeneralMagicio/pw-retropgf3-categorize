@@ -1,0 +1,54 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://github.com/shazow/whatsabi",
+  "bio": "Extract ABI (and more) from EVM bytecode, even without source code.",
+  "contributionDescription": "WhatsABI is a public good for making EVM bytecode more useful and usable on all EVM-based chains, such as mainnet and OP Stack chains.\n\nThe guiding purpose for WhatsABI is to improve decentralization, transparency, and user safety by reducing our dependence on proprietary frontends to EVM contracts. \n\nWhatsABI a permissively-licensed TypeScript library that is perfect for building better contract explorers (a better Etherscan), transaction builders (Safe Wallet), smarter wallets (MetaMask, Zapper), and for doing security research. It is designed to be small, fast, and easily embedded in wallets or runnable locally with any provider.\n\nMany tools already use WhatsABI: gnosis/zodiac-pilot, paradigmxyz/rivet, ondora.xyz, monobase.xyz, ethcmd.com, notar-cli, abi.w1nt3r.xyz, and more!",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/shazow/whatsabi",
+      "description": "Extract ABIs (and more) from EVM bytecode, even without source code."
+    }
+  ],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
+  "impactDescription": "The features that WhatsABI offers are important for all EVM-powered blockchains, including those under the Optimism Collective.\n\nMany of the tools that already use WhatsABI are operating on OP Stack powered chains: Rivet, Zodiac, Ondora, etc.\n\nBy using WhatsABI, all of these tools get many features out of the box: Easy fetching of ABIs from verified contracts, extracting ABIs from unverified contracts, detecting and resolving proxies, and more. (See Github project page for more details.)\n\nAnyone building generalized frontends (like block explorers) knows how hard it is to do these things reliably. One example: Resolving proxy contracts. There's many kinds (EIP-1967, GnosisSafeProxy, ZeppelinOSProxy, PROXIABLE, DiamondProxy, and more)—WhatsABI detects and resolves all of them!",
+  "impactMetrics": [
+    {
+      "description": "Github Stars",
+      "number": 853,
+      "url": "https://github.com/shazow/whatsabi"
+    },
+    {
+      "description": "Github Dependents",
+      "number": 37,
+      "url": "https://github.com/shazow/whatsabi/network/dependents?dependent_type=REPOSITORY"
+    },
+    {
+      "description": "NPM Weekly Downloads",
+      "number": 4784,
+      "url": "https://www.npmjs.com/package/@shazow/whatsabi"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 55000,
+      "description": "Self-funded since Sept 2022, received grant for upcoming work on July-Nov 2023."
+    }
+  ],
+  "payoutAddress": "0x22b00Ec9478C3cA87196c65CE4FaAb9D402d428a",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "WhatsABI",
+  "Applicant Type": "PROJECT",
+  "OSS Directory": "Not Found",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x5913c6862f3d6641cfDF16a974245f47E58d4BE2.json",
+  "Githubs": "https://github.com/shazow/whatsabi",
+  "Tags": ""
+}

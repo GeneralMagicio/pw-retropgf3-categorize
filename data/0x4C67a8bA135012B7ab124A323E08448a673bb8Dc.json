@@ -1,0 +1,59 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://app.alphaday.com",
+  "bio": "Alphaday builds crypto experience dashboards.",
+  "contributionDescription": "We have built an Optimism Community Dashboard to serve the Community. By having all the latest Optimism-related social feeds, blogs, on-chain metrics and access to dapps themselves, community members can quickly stay informed and interact with the Optimism ecosystem.\nOur complete proposal was published on Optimism Grants here: https://app.charmverse.io/op-grants/page-13585052320942648\nWe were redirected to RPGF's through feedback.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://app.alphaday.com/b/optimism/",
+      "description": "We have built an Optimism Community Dashboard to serve the Community."
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/AlphadayHQ",
+      "description": "Our application's github repo."
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "We envision the Optimism dashboard being the go-to resource for community members since the entire Optimism ecosystem is aggregated into one UI on Alphaday. This makes it a very attractive on-boarding tool for new developers as the dashboard will contain beginner resource material, documentation, grants, bounties, open positions in community projects, on-chain tools and much more.",
+  "impactMetrics": [
+    {
+      "description": "MAU",
+      "number": 20000,
+      "url": "https://www.hotjar.com/"
+    },
+    {
+      "description": " Average session time per user (minutes)",
+      "number": 9,
+      "url": "https://www.hotjar.com/"
+    },
+    {
+      "description": "Retention rate 30 days (%)",
+      "number": 50,
+      "url": "https://www.hotjar.com/"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 1,
+      "description": "We have not received any funding from Optimism yet."
+    }
+  ],
+  "payoutAddress": "0x48e239fa0b364cd92fc750a50045c9f9e04dd781",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "Mike-Alphaday",
+  "Applicant Type": "PROJECT",
+  "OSS Directory": "Not Found",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x4C67a8bA135012B7ab124A323E08448a673bb8Dc.json",
+  "Githubs": "https://github.com/AlphadayHQ",
+  "Tags": ""
+}

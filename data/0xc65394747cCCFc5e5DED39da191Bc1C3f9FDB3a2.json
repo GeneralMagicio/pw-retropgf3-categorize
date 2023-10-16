@@ -1,0 +1,40 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://nonton.lk21official.wiki/",
+  "bio": "not decription yet",
+  "contributionDescription": "This event celebrates the debut and aims to facilitate seamless interactions among on-chain assets.\n\nAs a token of our appreciation for our community, we have curated a series of exhilarating activities. can win one million tokens through an exclusive airdrop! Don’t miss out on this golden opportunity — come and participate in this thrilling event!",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://medium.com/@TusimaNetwork/tusima-zkbridge-testnet-is-live-now-bf152ed97d6b",
+      "description": "Tusima zkBridge Testnet Is LIVE NOW!"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "Utilizing ZK technology, Tusima zkBridge securely transmits the source chain’s status to the destination chain. Users can directly access the source chain certificate on the destination chain and independently verify it, thereby enhancing security. Throughout the entire proof process of Tusima zkBridge — starting from ‘Chain A → Sender → zkRelayer → ZK Verifier → Receiver → Chain B’ — verification of information transfer relies solely on mathematical and cryptographic formulas. Once the code is successfully deployed, no external forces can affect or interfere with this cross-chain process.",
+  "impactMetrics": [
+    {
+      "description": "123",
+      "number": 123,
+      "url": "https://medium.com/@TusimaNetwork/tusima-zkbridge-testnet-is-live-now-bf152ed97d6b"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0xc65394747cCCFc5e5DED39da191Bc1C3f9FDB3a2",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "sexynime",
+  "Applicant Type": "INDIVIDUAL",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xc65394747cCCFc5e5DED39da191Bc1C3f9FDB3a2.json",
+  "Githubs": "",
+  "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK"
+}

@@ -1,0 +1,44 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://250389.eth",
+  "bio": "Let's join forces to spread positivity and inspire a brighter future together!",
+  "contributionDescription": "My contributions to the Optimism Collective revolve around promoting positivity through engaging content and community initiatives. I've shared uplifting stories, facilitated discussions, and organized virtual events that have strengthened our bonds. I hope to receive RetroPGF for my event coordination and educational content creation, which empower our members to embrace optimism in their lives. These efforts align with our mission of fostering hope and driving positive change. 🌟 #OptimismCollective #PositiveContributions",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/token/0x2335022c740d17c2837f9c884bfe4ffdbf0a95d5?a=1055175732924278237709826806999274333813637067100#inventory",
+      "description": "NFT HOLDER"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "My consistent contributions to the Optimism Collective have had a profound impact. Through thought-provoking posts and active engagement with fellow members, I've helped cultivate a supportive community that shares a common vision of a brighter future. Together, we've initiated meaningful projects, organized events, and exchanged ideas that empower us to bring about positive change in our lives and the world. My commitment to spreading optimism continues to strengthen our collective resolve, making us a driving force for positive transformation. 🌍💪 #OptimismCollectiveImpact",
+  "impactMetrics": [
+    {
+      "description": "#mint",
+      "number": 128000,
+      "url": "https://optimistic.etherscan.io/token/0x2335022c740d17c2837f9c884bfe4ffdbf0a95d5?a=1055175732924278237709826806999274333813637067100#inventory"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 1000,
+      "description": "Active account founds"
+    }
+  ],
+  "payoutAddress": "0xb8d3B75EF1719A0D4f20224686F7e314Ccb3315C",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "Jarment32",
+  "Applicant Type": "INDIVIDUAL",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xb8d3B75EF1719A0D4f20224686F7e314Ccb3315C.json",
+  "Githubs": "",
+  "Tags": "END_USER_EXPERIENCE_AND_ADOPTION"
+}

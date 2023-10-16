@@ -1,0 +1,50 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://solady.org",
+  "bio": "Gas optimized Solidity snippets",
+  "contributionDescription": "- Hyper optimized low-level Solidity code, wrapped up in flexible high-level APIs.\n- Implements unique features (e.g. JSONParserLib, LibSort) that make Solidity feel like a proper-high level language.\n- Solady LibZip: Generalized calldata compression and Lz77 compression. With an accompanying JS / TS library.\n- Cross-pollination: novel math, optimization, EVM tricks developed in Solady are ported to other projects across the OP ecosystem.\n- Used by sound.xyz, OpenSea, 0xSplits, Optimism, Friendtech, etc.\n- Learning resource for Solidity inline-assembly.\n\nOverall, Solady empowers Solidity developers to develop harder, better, faster, stronger on OP ecosystem chains.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/Vectorized/solady",
+      "description": " Optimized Solidity snippets. "
+    }
+  ],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "OP_STACK"
+  ],
+  "impactDescription": "- Hyper optimized low-level Solidity code, wrapped up in flexible high-level APIs.\n- Implements unique features (e.g. JSONParserLib, LibSort) that make Solidity feel like a proper-high level language.\n- Solady LibZip: Generalized calldata compression and Lz77 compression. With an accompanying JS / TS library.\n- Cross-pollination: novel math, optimization, EVM tricks developed in Solady are ported to other projects across the OP ecosystem.\n- Used by sound.xyz, OpenSea, 0xSplits, Optimism, Friendtech, etc.\n- Learning resource for Solidity inline-assembly.\n\nOverall, Solady empowers Solidity developers to develop harder, better, faster, stronger on OP ecosystem chains.",
+  "impactMetrics": [
+    {
+      "description": "Github stars",
+      "number": 1600,
+      "url": "https://github.com/Vectorized/solady/stargazers"
+    },
+    {
+      "description": "NPM weekly downloads",
+      "number": 300,
+      "url": "https://www.npmjs.com/package/solady"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 45018.75,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0x1f5d295778796a8b9f29600a585ab73d452acb1c",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "Vectorized",
+  "Applicant Type": "PROJECT",
+  "OSS Directory": "Address & Github Found",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x1F5D295778796a8b9f29600A585Ab73D452AcB1c.json",
+  "Githubs": "https://github.com/Vectorized/solady",
+  "Tags": ""
+}

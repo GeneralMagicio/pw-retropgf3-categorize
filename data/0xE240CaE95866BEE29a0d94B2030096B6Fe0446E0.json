@@ -1,0 +1,53 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://opensea.io/collection/888vigilantes",
+  "bio": "NFT artist and collector",
+  "contributionDescription": "Detailed document explaining your thoughts on the standard template (looking at this issue as an example)\nHighlighted key points of improvement overall\nHighlighted key points for additional information\nThoughts on structure and ease of access to required materials\nA better contributor experience means more tasks get done\nMore tasks get done means more work gets done\nMore work gets done means more RPGF for everyone!",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/tx/0x9ac4d33662db47f906b875221c9f1b610c8ab23c4158f9c813470ceba469d254",
+      "description": "NFT project"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "Delegated and bought NFT collection\nDetailed document explaining your thoughts on the standard template (looking at this issue as an example)\nHighlighted key points of improvement overall\nHighlighted key points for additional information\nThoughts on structure and ease of access to required materials\nA better contributor experience means more tasks get done\nMore tasks get done means more work gets done\nMore work gets done means more RPGF for everyone!",
+  "impactMetrics": [
+    {
+      "description": "ATTEST",
+      "number": 10,
+      "url": "https://optimistic.etherscan.io/tx/0x0ea129f14b7b39d1572d5a0cbb9e2ebe41794fb2a12f3649e11bdb823d6a3254"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 999,
+      "description": ""
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 10001,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0xe240cae95866bee29a0d94b2030096b6fe0446e0",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "888Vigilantes",
+  "Applicant Type": "INDIVIDUAL",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xE240CaE95866BEE29a0d94B2030096B6Fe0446E0.json",
+  "Githubs": "",
+  "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK"
+}

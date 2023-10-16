@@ -1,0 +1,52 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://ifyoubuy.herokuapp.com/",
+  "bio": "🔴 Optimism Enthusiastic DEFI Player!!",
+  "contributionDescription": "In the effort to enhance recognition of the Optimism ecosystem, my focus has been on education. I've crafted tutorials, articles, and infographic aimed at simplifying Optimistic Ethereum technology, thereby improving accessibility for developers. Additionally, I've actively participated in community discussions and contributed to documentation, all with the goal of empowering a broader audience to utilize Optimism effectively.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/OptimismRainie",
+      "description": "Twitter Page for publishing articles"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "In the context of the rapid development of Layer 2 solutions (Arbitrum, ZkSync, etc.), I consistently strive to create instructional articles, introduce Optimism projects, and highlight the values they bring to users, to attract more users to Optimism Ecosystem.\n- Additionally, I emphasize the potential for users to receive valuable rewards when participating in these projects through incentive programs they received from Governance Fund.\n- I've also provided Alpha information that can entice users to contribute their funds to the ecosystem with the expectation of receiving retroactive rewards from upcoming projects.",
+  "impactMetrics": [
+    {
+      "description": "ArticleViews:Exactly Protocol Incentive",
+      "number": 18000,
+      "url": "https://twitter.com/OptimismRainie/status/1643856025987203072"
+    },
+    {
+      "description": "Article Views: Pika Protocol Incentives",
+      "number": 2541,
+      "url": "https://twitter.com/OptimismRainie/status/1660534192109928450"
+    },
+    {
+      "description": "Article Views: Optimism #3 Airdrop",
+      "number": 1296,
+      "url": "https://twitter.com/OptimismRainie/status/1704030025522311351"
+    },
+    {
+      "description": "Article Views: $TIA airdrop for OP users",
+      "number": 1242,
+      "url": "https://twitter.com/OptimismRainie/status/1707216104610029631"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0xd10ba9ab7aced162f40179ef0cad412f5f65eef1",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "Rainie",
+  "Applicant Type": "INDIVIDUAL",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x98289029B0d4bB73Ead9Eb1A3300eD724Fcf6779.json",
+  "Githubs": "",
+  "Tags": "END_USER_EXPERIENCE_AND_ADOPTION"
+}

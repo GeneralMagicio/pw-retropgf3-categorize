@@ -1,0 +1,59 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://twitter.com/FA40Ziv",
+  "bio": "social media persona with focus on OP with focus on Velodrome",
+  "contributionDescription": "I was tweeting about Velodrome from day 1 all the way from June/July of last year.\n\nI educated about 8,500 followers on how Velodrome works and got my followers to show interest in the OP ecosystem in general and Velodrome in specific.\n\nI also did a couple of YT educational videos for 28k followers on how to use Velo website.\n\nI have a private paid discord group with around 100 members where we talk about hidden gems but the real focus is of course Velodrome and Optimism and every Wednesday I remind the people to vote so they can get their share of passive income.\n\nVelodrome protocol on OP helped me and many others survive this harsh bear market and I'm glad to bring awareness for OP as a whole and Velodrome in particular for over a year now.\n\n",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/FA40Ziv",
+      "description": "My Twitter is where I'm mostly hang out"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/@FA40ZIV/videos",
+      "description": "My YouTube channel"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.patreon.com/Financeafter40?fan_landing=true&view_as=public",
+      "description": "My Patreon with access to private Discord group"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "With my tweets from day 1 on Velodrome I helped many people on board not only the OP ecosystem and explore what it has to offer but also the Velodrome protocol itself and many people are getting weekly passive income which helps them survive the bear market.\n\nClose to 40k people on all my socials can learn or have learned in the past how to onboard into the OP ecosystem.\n\n",
+  "impactMetrics": [
+    {
+      "description": "tons of tweets on velo",
+      "number": 1000,
+      "url": "https://twitter.com/FA40Ziv"
+    },
+    {
+      "description": "at least 5M Impressions",
+      "number": 5000000,
+      "url": "https://twitter.com/FA40Ziv"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 1,
+      "description": "I got 0 OP for my work this whole year helping people onboard. All on me."
+    }
+  ],
+  "payoutAddress": "0x5cACae1b51d643CD1bc976cCa9B5E05837a6Bb35",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "FA40Ziv",
+  "Applicant Type": "INDIVIDUAL",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x5cACae1b51d643CD1bc976cCa9B5E05837a6Bb35.json",
+  "Githubs": "",
+  "Tags": "END_USER_EXPERIENCE_AND_ADOPTION"
+}

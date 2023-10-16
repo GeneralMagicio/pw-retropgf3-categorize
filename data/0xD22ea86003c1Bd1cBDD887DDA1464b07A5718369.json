@@ -1,0 +1,45 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://buchidavid.com",
+  "bio": "Crypto enthusiast, an investor and community builder",
+  "contributionDescription": "To help build a strong and user friendly ecosystem by implementing great protocols and helping in achieving greater heights and steady progress in the Optimism network, this would result to more adoption of the Optimism network and chain. Let's work the work",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://mirror.xyz/10/0xA95579592078783B409803Ddc75Bb402C217A924",
+      "description": "Optimism collective (Hello world)"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "OP_STACK"
+  ],
+  "impactDescription": "I did some tasks and claimed some collectives with transactions in helping to build a stronger security, friendly ecosystem and a sleek operation on the Optimism ecosystem. \nNot forgetting the i also helped to maintain a friendly interaction in the Optimism community channel leading to the growth",
+  "impactMetrics": [
+    {
+      "description": "2",
+      "number": 42,
+      "url": "https://mirror.xyz/10/0xA95579592078783B409803Ddc75Bb402C217A924"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 2,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0xD22ea86003c1Bd1cBDD887DDA1464b07A5718369",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "Buchidavid",
+  "Applicant Type": "INDIVIDUAL",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xD22ea86003c1Bd1cBDD887DDA1464b07A5718369.json",
+  "Githubs": "",
+  "Tags": "COLLECTIVE_GOVERNANCE, OP_STACK"
+}

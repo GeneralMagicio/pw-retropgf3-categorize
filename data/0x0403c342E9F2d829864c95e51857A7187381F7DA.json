@@ -1,0 +1,45 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://medium.com/@Optimismindonesia",
+  "bio": "Optimism Indonesia is a place to convey information about the Optimism.",
+  "contributionDescription": "In addition to OP token trading on Binance, my contribution to optimism is as an Article Translator into Indonesian and a Crowdin Indonesian Translator. In addition, I also disseminated about OP As a token that is good to buy and hold long-term, this I conveyed on Telegram LBank Indonesia with my second telegram account, Alvarez. Because LBank users often Also ask me about OP. I would also like to plan to do an AMA at LBank Indonesia about Optimism.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://medium.com/@Optimismindonesia",
+      "description": "Education"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "I created the Indonesian Optimism medium to disseminate to Indonesians about Optimistic Collective or Retropgf Information, Public Goods and Others. Without the resources of public goods or Optimism Collective, it may not grow rapidly and not be widely recognized by many people in this world. So I want to learn, convey information, confident to convey this to the world especially for the country of Indonesia.",
+  "impactMetrics": [
+    {
+      "description": "42 Article",
+      "number": 42,
+      "url": "https://medium.com/@Optimismindonesia"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 5000,
+      "description": "Translator Article and Crowdin at Optimism Indonesia "
+    }
+  ],
+  "payoutAddress": "0x0403c342E9F2d829864c95e51857A7187381F7DA",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "Optimism Indonesia",
+  "Applicant Type": "INDIVIDUAL",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x0403c342E9F2d829864c95e51857A7187381F7DA.json",
+  "Githubs": "",
+  "Tags": "COLLECTIVE_GOVERNANCE, END_USER_EXPERIENCE_AND_ADOPTION"
+}

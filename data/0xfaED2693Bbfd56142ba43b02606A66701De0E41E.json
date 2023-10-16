@@ -1,0 +1,44 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://zkmini.nfts2.me/",
+  "bio": "influences people more optimistic",
+  "contributionDescription": "    i'm start with NFTs that i made using optimism, i hope this NFT will make some impact, so i can build another good project, there is some idea in my head need to be implement.\nso with this retroGPF will  bring help and encourage user like me to contribute to optimism community.\n\ni need your support\n\nBest Regard\n",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xd45A57DA1B45765Eb824792f2D0ffE73471d419b",
+      "description": "zkmini is unique NFTs build on optimism."
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": " i'm start with NFTs that i made using optimism, i hope this NFT will make some impact, so i can build another good project, there is some idea in my head need to be implement.\nso with this retroGPF will  bring help and encourage user like me to contribute to optimism community.\nzkmini is unique NFTs build on optimism, next upgrade for this project is stake to earn with zkmine token build on optimism. Also adding more NFTs to community, 30 NFTs is early step.\n\nBest Regard",
+  "impactMetrics": [
+    {
+      "description": "collectibles",
+      "number": 30,
+      "url": "https://opensea.io/collection/zkmini"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 6369,
+      "description": "im not yet receive any fund"
+    }
+  ],
+  "payoutAddress": "0xfaED2693Bbfd56142ba43b02606A66701De0E41E",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "radja",
+  "Applicant Type": "INDIVIDUAL",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xfaED2693Bbfd56142ba43b02606A66701De0E41E.json",
+  "Githubs": "",
+  "Tags": "END_USER_EXPERIENCE_AND_ADOPTION"
+}

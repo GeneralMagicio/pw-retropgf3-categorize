@@ -1,0 +1,42 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://vrnouns.wtf",
+  "bio": "We will support video content creators for economy, biology, electronic and tech",
+  "contributionDescription": "We're launching a DAO to support creators producing impactful video content on beneficial electronics and significant projects in biolog, chemistry and DIY.\n\nHow It Works:\nVRNouns holders can apply for funding through our platform to bring their ideas to life. Other VRNouns holders voted and dedicated to providing the financial support needed for innovative and educational videos.\n\n",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://basescan.org/address/0xbb56a9359df63014b3347585565d6f80ac6305fd",
+      "description": "This is our VRNouns nft contract on optimsm-base network"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "We're launching a DAO to support creators producing impactful video content on beneficial electronics and significant projects in biolog, chemistry and DIY.\n\nHow It Works:\nVRNouns holders can apply for funding through our platform to bring their ideas to life. Other VRNouns holders voted and dedicated to providing the financial support needed for innovative and educational videos.\n\n",
+  "impactMetrics": [
+    {
+      "description": "Mint",
+      "number": 1687,
+      "url": "https://opensea.io/collection/vrnouns"
+    },
+    {
+      "description": "mint",
+      "number": 6666,
+      "url": "https://opensea.io/collection/bullcasso"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x8bD9cd843CD604c4b4484312DeD00985219f6F7C",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "Yasin Aktimur",
+  "Applicant Type": "INDIVIDUAL",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x8bD9cd843CD604c4b4484312DeD00985219f6F7C.json",
+  "Githubs": "",
+  "Tags": "END_USER_EXPERIENCE_AND_ADOPTION"
+}

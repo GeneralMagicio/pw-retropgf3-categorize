@@ -1,0 +1,44 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "Https://thenastymariol.nft",
+  "bio": "Author Composer Artist",
+  "contributionDescription": "Simple user fully enjoyed by the quality of this blockchain and its team.\nLooking for the perfect place to launch a token and a project.\nVery interesting upgradable modifiable optimist nft profile.\nGreat platform, website, tokenomic and projects.\nGood job OP!",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x65DC3d4512B0F506Eb4d139c5140611D2A60D527",
+      "description": "A few TX and nfts"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "Nothing extraordinary, just travelling in the ecosystem, acquiring an optimist nft,...\nTrying transactions, governance, swaps,...\nObserving the good progress.\nLoving the done work here.\nLike a user.\nA web3 enthusiastic.\nA web content creator.\nA collector.\nA lover.\nAn optimist.",
+  "impactMetrics": [
+    {
+      "description": "Fast, secured, all work well on op",
+      "number": 0,
+      "url": "https://app.optimism.io/profile/rpgf-application/impact-statement"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "PARTNER_FUND",
+      "currency": "OP",
+      "amount": 15,
+      "description": "Coinbase quests"
+    }
+  ],
+  "payoutAddress": "0x65DC3d4512B0F506Eb4d139c5140611D2A60D527",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "GH0x111",
+  "Applicant Type": "INDIVIDUAL",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x65DC3d4512B0F506Eb4d139c5140611D2A60D527.json",
+  "Githubs": "",
+  "Tags": "END_USER_EXPERIENCE_AND_ADOPTION"
+}

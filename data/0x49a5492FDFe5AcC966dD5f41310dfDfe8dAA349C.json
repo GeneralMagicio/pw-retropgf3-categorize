@@ -1,0 +1,68 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://www.optimismprime.io/",
+  "bio": "I'm leading the Optimism Prime project and building DeFi tools for the community",
+  "contributionDescription": "In late 2021, the Optimism Prime project has been abandoned by its original team. OPP was the first meme token listed on Velodrome and the project was baked by a good veVELO position accumulated thanks to its community.\nI've took the lead of the project so it can survive, with the goal of contributing to the whole Optimism ecosystem as a community project.\n\nIn that context, I've started working on the Autobribes protocol. It's goal is to act as liquidity incentivization layer that supports Velodrome by locking tokens instead of dumping. Users stake their LP on Autobribes and are rewarded with \"real yield\", while Autobribes farm and lock VELO. The real yield is obtained from bribe chasing. Two instances have been deployed on Optimism: the \"Reliquary Prime\", and \"Autobribes for Velodrome\".",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://medium.com/optimism-prime/introducing-the-reliquary-prime-12d648212a07",
+      "description": "This article explains the Reliquary Prime: the first instance of Autobribes"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://medium.com/optimism-prime/introducing-the-autobribes-protocol-6079b1bd6340",
+      "description": "This article explains Autobribes as a general ve(3,3) layer 2 protocol"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.optimismprime.io/autobribes",
+      "description": "Frontend for Autobribes for Velodrome"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.optimismprime.io/earn",
+      "description": "Frontend for the Reliquary Prime"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x74755891c6383aAE7eDB073E835b89d7C4d815bA",
+      "description": "Reliquary Prime contract"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xdf62bEbBcA74f3d9E491B80698bCABc298AE4f64",
+      "description": "Autobribes for Velodrome contract"
+    }
+  ],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "While Autobribes still has a low TVL, I'm convinced it can bring new liquidity providers to Velodrome which is the leading DEX of Optimism.\nMany retail liquidity providers are interested in being paid with real yield instead of farm & dump. Autobribes offer this service while contributing to the Velodrome ecosystem.\n\nOn the developer ecosystem side, I've forked and improved the \"Reliquary system\" from byte masons. This is a staking smart contract that rewards long term participants.\nBy integrating the Reliquary with Velodrome, I've contributed to bring a new DeFi primitive that can be used as a layer on top of any ve(3,3) DEX.",
+  "impactMetrics": [
+    {
+      "description": "Reliquary Prime TVL",
+      "number": 13117,
+      "url": "https://www.optimismprime.io/earn"
+    },
+    {
+      "description": "Autobribes for Velodrome TVL",
+      "number": 3300,
+      "url": "https://www.optimismprime.io/autobribes"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x49a5492FDFe5AcC966dD5f41310dfDfe8dAA349C",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "c2ba",
+  "Applicant Type": "INDIVIDUAL",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x49a5492FDFe5AcC966dD5f41310dfDfe8dAA349C.json",
+  "Githubs": "",
+  "Tags": "DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION"
+}

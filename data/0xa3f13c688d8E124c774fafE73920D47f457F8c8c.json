@@ -1,0 +1,37 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://www.siam-supplement.com/",
+  "bio": "Stocks, real estate and crypto investor.",
+  "contributionDescription": "My contributions to Optimism are threefold: delegation, community expansion through friend referrals, and active engagement in on-chain transactions. These actions collectively bolster our decision-making, broaden our network, and provide vital support to the network's growth and development.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://debank.com/profile/0xa3f13c688d8e124c774fafe73920d47f457f8c8c",
+      "description": "My contributions"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
+  "impactDescription": "My contributions to Optimism span several crucial domains. Firstly, I engage in delegation, strategically allocating resources to support initiatives aligned with our mission. Secondly, I've actively expanded our community by recommending friends who share our vision, fostering diversity of thought. Thirdly, I participate in on-chain transactions, fortifying our network's infrastructure and funding key projects. Lastly, I contribute by voting on forums, shaping collective decisions and driving us toward our goals. These multifaceted efforts collectively strengthen Optimism's impact and resilience.",
+  "impactMetrics": [
+    {
+      "description": "voting",
+      "number": 1,
+      "url": "https://debank.com/profile/0xa3f13c688d8e124c774fafe73920d47f457f8c8c"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0xa3f13c688d8e124c774fafe73920d47f457f8c8c",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "Tor",
+  "Applicant Type": "INDIVIDUAL",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xa3f13c688d8E124c774fafE73920D47f457F8c8c.json",
+  "Githubs": "",
+  "Tags": "COLLECTIVE_GOVERNANCE"
+}

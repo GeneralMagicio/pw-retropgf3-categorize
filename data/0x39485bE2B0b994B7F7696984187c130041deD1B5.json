@@ -1,0 +1,38 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://ipfs.io/ipfs/QmSPD2LBYgQWCQRPNE1Lfoo3YgtTEyse7BBFx5fTc2wPnD/",
+  "bio": "Media Production Studio EGOSYS-RECORDS",
+  "contributionDescription": "Founder Goossens Erwin *EGOSYS-RECORDS *EGOSYS A.I. Futurisme *EGOGENESIS *EGObits Freelance Consultancy  \nCommunity Member for Optimism Network grounding Blockchain music  Industry Independed artist  \nKeep up the momentum and explore the infinite opportunities on Optimism. I can't wait to celebrate your next milestone! ",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://ipfs.io/ipfs/QmSPD2LBYgQWCQRPNE1Lfoo3YgtTEyse7BBFx5fTc2wPnD/",
+      "description": "EGOSYS-RECORDS"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "Post More: Keep sharing your unique content on Optimism. 🚀\nInvite Friends: Bring your friends on board and earn invitation tokens. 👫\nEngage More: Comment, like, and share posts to earn even more tokens.\nWe are pushing boundaries with our multi-chain initiative, aiming to solidify Optimism's presence across multiple ecosystems. Dive in, as Optimism is gearing up to offer you more both inside and outside our app.",
+  "impactMetrics": [
+    {
+      "description": "Website",
+      "number": 0,
+      "url": "https://ipfs.io/ipfs/QmSPD2LBYgQWCQRPNE1Lfoo3YgtTEyse7BBFx5fTc2wPnD/"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x39485bE2B0b994B7F7696984187c130041deD1B5",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "egosys-records",
+  "Applicant Type": "PROJECT",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x39485bE2B0b994B7F7696984187c130041deD1B5.json",
+  "Githubs": "",
+  "Tags": "END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK"
+}

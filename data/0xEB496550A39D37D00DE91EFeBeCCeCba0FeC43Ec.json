@@ -1,0 +1,47 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://twitter.com/AndriiVlas",
+  "bio": "My name is Andriy Vlasenko! Kyiv, Ukraine! Crypto, BJJ, work and family!",
+  "contributionDescription": "I have been using the Optimism network for a little less than a year and will continue to use it!\nI help the community on Twitter with my activity!!!\nI promote Optimism to my friends and employees at work!\nEveryone who knows me knows that I believe and appreciate the Optimism network!",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xeb496550a39d37d00de91efebeccecba0fec43ec",
+      "description": "My wallet"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/AndriiVlas",
+      "description": "Twitter"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "Thanks to me, many people learned about the Optimism network! Someone passed it on to their loved ones and someone started using Optimism and cryptocurrency in general, which generally affects the development of both the Optimism network and the cryptocurrency market as a whole!",
+  "impactMetrics": [
+    {
+      "description": "Twitter",
+      "number": 100,
+      "url": "https://twitter.com/AndriiVlas"
+    },
+    {
+      "description": "optimistic etherscan",
+      "number": 85,
+      "url": "https://optimistic.etherscan.io/address/0xeb496550a39d37d00de91efebeccecba0fec43ec"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0xEB496550A39D37D00DE91EFeBeCCeCba0FeC43Ec",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "Andrii",
+  "Applicant Type": "PROJECT",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xEB496550A39D37D00DE91EFeBeCCeCba0FeC43Ec.json",
+  "Githubs": "",
+  "Tags": "END_USER_EXPERIENCE_AND_ADOPTION"
+}

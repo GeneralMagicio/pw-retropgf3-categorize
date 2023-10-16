@@ -1,0 +1,44 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://www.youtube.com/@ghzlearn",
+  "bio": "French Crypto Content Creator",
+  "contributionDescription": "I have actively produced educational content about Optimism across multiple formats, including long-form guides, short social media posts, infographics, Threads ,and YouTube videos. These contributions explain Optimism's rollup technology, staking, governance, DeFi integrations, and benefits. My explainers aim to make Optimism more accessible for developers and users. I also created posts and videos to raise awareness of Optimism updates, statistics, partners, and details around the airdrop. While I have not directly contributed code or capital, I believe my content broadens Optimism's reach through education. Making information on Optimism easy to digest serves to further its adoption and progress as a key Ethereum scaling solution.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://youtu.be/4bTsY_AU9pA",
+      "description": "youtube video about optimism"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
+  "impactDescription": "Through my educational content around Optimism across multiple formats, I aimed to increase adoption and participation within the Optimism Collective by reaching new audiences and equipping them with accessible information.My social media posts, infographics, and YouTube videos served to spread general awareness of Optimism to casual crypto users. Explaining the benefits over mainnet Ethereum transactions increased potential end user adoption. My airdrop-related content ensured eligible recipients could claim their tokens.",
+  "impactMetrics": [
+    {
+      "description": "Views",
+      "number": 1000,
+      "url": "https://youtu.be/4bTsY_AU9pA"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 0,
+      "description": "Received nothing"
+    }
+  ],
+  "payoutAddress": "0xb135d40581404474beca15ba408e2e67a178b4cd",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "ilyessghz",
+  "Applicant Type": "INDIVIDUAL",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xB135D40581404474Beca15Ba408E2E67A178b4cd.json",
+  "Githubs": "",
+  "Tags": "COLLECTIVE_GOVERNANCE"
+}

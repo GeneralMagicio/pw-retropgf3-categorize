@@ -1,0 +1,45 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://x.com/0xb0b9/",
+  "bio": "Freelancer, crypto holder, developer",
+  "contributionDescription": "My contributions to the Optimism network in the cryptocurrency space are noteworthy. I have been actively involved in the development and improvement of Optimistic Rollups, a key scaling solution for blockchain networks. Through my work, i helped enhance the speed and scalability of decentralized applications, making them more efficient and accessible to users. Mu efforts have played a vital role in advancing the adoption and functionality of blockchain technology.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/shibalon/live-server-web-extension",
+      "description": "Live server web extension "
+    }
+  ],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "My impact on the Optimism network in the cryptocurrency field has been profound. Im dedicated contributions have played a pivotal role in advancing the scalability and usability of blockchain technology. My work has inspired and benefited both the crypto community and the broader digital landscape, leaving a lasting mark on the evolution of blockchain solutions and their real-world applications.",
+  "impactMetrics": [
+    {
+      "description": "Commits",
+      "number": 73,
+      "url": "https://github.com/shibalon/live-server-web-extension"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 2000,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0xf96040c42b7FdaD04402eD39579b7763A7159a49",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "Constantin",
+  "Applicant Type": "INDIVIDUAL",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xf96040c42b7FdaD04402eD39579b7763A7159a49.json",
+  "Githubs": "",
+  "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION"
+}

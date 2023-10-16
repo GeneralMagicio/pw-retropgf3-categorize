@@ -1,0 +1,55 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://github.com/optimism-java/hildr",
+  "bio": "Hildr is an OP Stack rollup client written in latest Java with GraalVM native.",
+  "contributionDescription": "For OP rollup client diversity, I created Hildr project which implemented OP rollup client with Java. It already supported Bedrock mainnet, testnet and Base mainnet, testnet. It is the third rollup client implementation besides the official Go version and a16z Rust version.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/optimism-java/hildr",
+      "description": "Hildr is an OP Stack rollup client written in latest Java with GraalVM native."
+    }
+  ],
+  "impactCategory": [
+    "OP_STACK"
+  ],
+  "impactDescription": "AFAIK OP stack is the first L2 rollup which support and encourage client diversity, which is important for decentralized. A16Z team build Magi which is the first non official client written   in Rust. Then we build Hildr which is the second non official client written in Java. Hildr and Magi makes OP stack client diversity far ahead of other L2 teams.",
+  "impactMetrics": [
+    {
+      "description": "stars from devs from several OP teams",
+      "number": 16,
+      "url": "https://github.com/optimism-java/hildr"
+    },
+    {
+      "description": "liked by devs from several OP teams",
+      "number": 18,
+      "url": "https://twitter.com/GrapeBaBa/status/1670312850680840193"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 25000,
+      "description": "cycle 13 builder grant"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 240,
+      "description": "GCG18"
+    }
+  ],
+  "payoutAddress": "0x56EdF679B0C80D528E17c5Ffe514dc9a1b254b9c",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "grapebaba",
+  "Applicant Type": "PROJECT",
+  "OSS Directory": "Address & Github Found",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x56EdF679B0C80D528E17c5Ffe514dc9a1b254b9c.json",
+  "Githubs": "https://github.com/optimism-java/hildr",
+  "Tags": ""
+}

@@ -1,0 +1,40 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://blokripto.my.id/",
+  "bio": "Im a Developer and Crypto Enthusiast",
+  "contributionDescription": "building a large community so that users feel comfortable using the Optimism network in terms of security for user finances and maintaining scalability.\n\nThe Optimism Network is here to overcome the scalability problems that have been plaguing the Ethereum network. As is known, Ethereum has now become the main smart contract network in the crypto arena. However, Ethereum's increasing popularity means that the scalability of transactions on the network is becoming increasingly stagnant.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://blokripto.my.id/",
+      "description": "Web News Portal"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "building a large community so that users feel comfortable using the Optimism network in terms of security for user finances and maintaining scalability.\n\nThe Optimism Network is here to overcome the scalability problems that have been plaguing the Ethereum network. As is known, Ethereum has now become the main smart contract network in the crypto arena. However, Ethereum's increasing popularity means that the scalability of transactions on the network is becoming increasingly stagnant.",
+  "impactMetrics": [
+    {
+      "description": "scalability",
+      "number": 32,
+      "url": "https://blokripto.my.id/"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x3A18da831eBd8860e81130D25342DB3481eE06c1",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "dragdrasel",
+  "Applicant Type": "INDIVIDUAL",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x3A18da831eBd8860e81130D25342DB3481eE06c1.json",
+  "Githubs": "",
+  "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK"
+}

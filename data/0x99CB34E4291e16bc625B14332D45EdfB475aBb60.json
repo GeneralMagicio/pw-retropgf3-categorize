@@ -1,0 +1,47 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://twitter.com/BASICKTRUST",
+  "bio": "Web3 crypto enthusiast",
+  "contributionDescription": "I like to hold the OP token and participate in every vote, I have been doing this since the moment I started working with the network. I am ready to contribute to your project, make reposts, put likes and communicate with the community both in Twitter and in Discord. I participated in Gitcoin Grants and contributed to projects there. I have done token delegation and am voting very responsibly in Optimism project.\n",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://vote.optimism.io/delegate/karbonio.eth",
+      "description": "my token delegation proof and my statement"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "I vote in the project very responsibly, reading carefully all the news and changes. I believe that users like me are needed by the project, I am immersed here not only for the purpose of earning money. My contribution is valuable, as I work and study it from different angles. I have some visions of the future where the project can be a very significant sign for the time.",
+  "impactMetrics": [
+    {
+      "description": "delegation proof and my statement",
+      "number": 1,
+      "url": "https://vote.optimism.io/delegate/karbonio.eth"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 10,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0x99CB34E4291e16bc625B14332D45EdfB475aBb60",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "Karbonio",
+  "Applicant Type": "PROJECT",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x99CB34E4291e16bc625B14332D45EdfB475aBb60.json",
+  "Githubs": "",
+  "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK"
+}

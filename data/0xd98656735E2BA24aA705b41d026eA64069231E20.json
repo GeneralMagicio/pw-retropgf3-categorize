@@ -1,0 +1,40 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://optimistic.etherscan.io/address/0xd98656735e2ba24aa705b41d026ea64069231e20",
+  "bio": "Im tester , for support develoving projects",
+  "contributionDescription": "Im tester, Having a tester is definitely very useful for project development, before a project is launched to the public it must definitely go through a test. I hope to help in launching a project by testing the web, applications and so on, With testers, all bugs can be reported and handled",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xd98656735e2ba24aa705b41d026ea64069231e20",
+      "description": "Url for my address wallet"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "As a tester, it is definitely very useful for developing a project \nIm tester, Having a tester is definitely very useful for project development, before a project is launched to the public it must definitely go through a test. I hope to help in launching a project by testing the web, applications and so on",
+  "impactMetrics": [
+    {
+      "description": "Wallet address ",
+      "number": 1,
+      "url": "https://optimistic.etherscan.io/address/0xd98656735e2ba24aa705b41d026ea64069231e20"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0xd98656735E2BA24aA705b41d026eA64069231E20",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "Adi Permana",
+  "Applicant Type": "INDIVIDUAL",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xd98656735E2BA24aA705b41d026eA64069231E20.json",
+  "Githubs": "",
+  "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK"
+}

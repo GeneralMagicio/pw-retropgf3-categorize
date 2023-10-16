@@ -1,0 +1,40 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://t.me/AirdropStreetTR",
+  "bio": "Airdrop",
+  "contributionDescription": "I influence using the ecosystem. I contribute more by paying a fee. I ensure the development of the token by op trading. I participate in events in the optimism network and create a community by interacting with those who use the network. The network I use frequently because it is a cheap feeler.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://t.me/AirdropStreetTR",
+      "description": "Airdrop"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "I influence using the ecosystem. I contribute more by paying a fee. I ensure the development of the token by op trading. I participate in events in the optimism network and create a community by interacting with those who use the network. The network I use frequently because it is a cheap feeler.",
+  "impactMetrics": [
+    {
+      "description": "Telegram",
+      "number": 424,
+      "url": "https://t.me/AirdropStreetTR"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x2eEaD1E4a1964dc9204A2eE1C08096DA951Fa8FC",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "airdropstreet",
+  "Applicant Type": "INDIVIDUAL",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x2eEaD1E4a1964dc9204A2eE1C08096DA951Fa8FC.json",
+  "Githubs": "",
+  "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK"
+}

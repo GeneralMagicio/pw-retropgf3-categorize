@@ -1,0 +1,46 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://thegraph.com/",
+  "bio": "The Graph organizes and makes usable web3 data for dapps via GraphQL. ",
+  "contributionDescription": "The Graph has supported Optimism since the initial launch of mainnet. More on that here: https://thegraph.com/blog/graph-optimistic-ethereum/. \n\nSince Optimism mainnet launch, The Graph's hosted service, subsidized by The Graph ecosystem (meaning completely free for dapps) has served:\n\n22.7B queries\n1.15K subgraphs\nwith a 99.97% query success rate.\n\nOver the past 30 days alone, The Graph has served 1.24B queries.\nAlso, The Graph supports Optimism Goerli and Kovan, and on testnet has served:\n\nGoerli\n1.24B queries\n272 subgraphs\n99.98% query success\n\nKovan\n173M queries\n154 subraphs\n99.99% query success",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://thegraph.com/",
+      "description": "The UI/DX where Optimism developers and dapps are supported"
+    }
+  ],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "Many Optimism dapps rely fully on The Graph for a seamless UI experience to onboard and maintain users Optimism. Since Optimism mainnet launch, The Graph's hosted service, subsidized by The Graph ecosystem (meaning completely free for dapps) has served:\n\n22.7B queries\n1.15K subgraphs\nwith a 99.97% query success rate.\n\nOver the past 30 days alone, The Graph has served 1.24B queries.\nAlso, The Graph supports Optimism Goerli and Kovan, and on testnet has served:\n\nGoerli\n1.24B queries\n272 subgraphs\n99.98% query success\n\nKovan\n173M queries\n154 subraphs\n99.99% query success\n",
+  "impactMetrics": [
+    {
+      "description": "Queries served to Optimism dapps",
+      "number": 22700000,
+      "url": "https://thegraph.com/"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 750000,
+      "description": "RetroPGF3...not listed in the drop down"
+    }
+  ],
+  "payoutAddress": "0x9e8B73b5563c9aF1C35e5Aad588B67B6A414576b",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "Kyle Rojas",
+  "Applicant Type": "PROJECT",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x9e8B73b5563c9aF1C35e5Aad588B67B6A414576b.json",
+  "Githubs": "",
+  "Tags": "DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK"
+}

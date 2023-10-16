@@ -1,0 +1,40 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://steamcommunity.com/id/okirif_?fbclid=IwAR1wnZGIJOwAmrCDHur521lkw81PVnBR0u_QNzzM8lrI_WM0OewX3xkNxt0",
+  "bio": "me",
+  "contributionDescription": "To be honest, I really admire the the uniqueness of this project. Like you have to proof to dev that you want to support him and not just receive the token. It's really a planned project and I believe it'll be success. Dev you're really smart to I must commend.\n",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/tx/0xb62cf32360eef1f67e381ba38fb5c880cb2f482868526cd86655599d0147e357",
+      "description": "good network"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "There will be imperfections in the lives of all people. The man who is so full will ask him about his imperfections with great sorrow. Imperfections do not exist only in the great saints and great men \nThe most beautiful things in the world cannot be touched, cannot be seen with the eyes, they have to be felt only with the heart-love, kindness, sincerity.",
+  "impactMetrics": [
+    {
+      "description": "sads",
+      "number": 12,
+      "url": "https://optimistic.etherscan.io/tx/0x7669b8aacb78e7f110af89d51b43e65bcdd0e5dad4ea4958aead9ae13a9b1f8b"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x54836b01Fa251B41Aa15b1Fad8Ec3B76Ac3a53ad",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "Muhammad Oki Rifai",
+  "Applicant Type": "INDIVIDUAL",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x54836b01Fa251B41Aa15b1Fad8Ec3B76Ac3a53ad.json",
+  "Githubs": "",
+  "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK"
+}

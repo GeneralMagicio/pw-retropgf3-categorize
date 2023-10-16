@@ -1,0 +1,89 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://getclave.io",
+  "bio": "OPStack improvement with ERC-4337 account and native hardware signature verifier",
+  "contributionDescription": "Opclave has been one of the finalists among 306 projects at the Scaling Ethereum Hackathon of ETHGlobal by introducing hardware signatures in account abstraction for the first time in the OPStack ecosystem\n\nThe Showcase prepared at the ETHGlobal hackathon received significant engagement from the ecosystem, thus introducing Optimism's OP Stack product. Additionally, the Twitter thread featuring Opclave gained over 600K views, contributing to the popularity of OP Stack\n\nThe Clave team proposed EIP-7212 to enable the use of the P256 curve. Following this, many individuals from the ecosystem began development on the P256 curve. The Ledger team further developed the work of Opclave. Extensive discussions took place on builder forums, and numerous tweets were posted on Twitter regarding EIP-7212",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/itublockchain/opclave-scaling2023",
+      "description": "Opclave Github Repo"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://eips.ethereum.org/EIPS/eip-7212",
+      "description": "EIP-7212: Precompiled for secp256r1 Curve Support "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://ethglobal.com/showcase/opclave-94def",
+      "description": "ETH Global Scaling Ethereum 2023 Showcase Page"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://goerli-optimism.etherscan.io/address/0x5154de6CC9bb544a1A12079018F628eF63456574",
+      "description": "Opclave's Account Contract on Optimism Goerli Testnet"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://goerli-optimism.etherscan.io/address/0x0bb7B5e7E3B7Da3D45fEa583E467D1c4944D7A1f",
+      "description": "Opclave's Paymaster Contract on Optimism Goerli Testnet"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://goerli-optimism.etherscan.io/address/0x7C2641de9b8ECED9C3796B0bf99Ead1BeD5407A5",
+      "description": "Opclave's Entrypoint Contract on Optimism Goerli Testnet"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/ethereum/go-ethereum/pull/27540",
+      "description": "EIP-7212 Github Pull Request"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://eprint.iacr.org/2023/939.pdf",
+      "description": "Renaud's article about secp256r1 curve"
+    }
+  ],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "Providing one of the first examples of hardware signing on OP Stack drew the community's attention toward Optimism. The popular thread received not only 600K views but also got RT support from nearly 500 individuals.\n\nAfter the development of Opclave, Renaud from the Ledger team conducted a study and published an article aimed at reducing the gas fee costs of the 'verifier' contract. This article prompted the entire ecosystem to examine the usage of secp256r1 in OP Stack. \n\nAt a time when there were very few projects utilizing OP Stack technology, Opclave emerged and led the way for other projects. After Opclave, many projects worked on Hardware Signing and produced products. \n\nAll of these have contributed to increasing the awareness of Optimism Collective among even more people.",
+  "impactMetrics": [
+    {
+      "description": "Opclave Introduce Twitter Impressions",
+      "number": 607300,
+      "url": "https://twitter.com/doganeth_en/status/1640062610161688577"
+    },
+    {
+      "description": "EIP-7212 Twitter Announcement Impression",
+      "number": 85700,
+      "url": "https://twitter.com/getclave/status/1673422876500717603"
+    },
+    {
+      "description": "EIP-7212 Ethereum Magicians Replies",
+      "number": 50,
+      "url": "https://ethereum-magicians.org/t/eip-7212-precompiled-for-secp256r1-curve-support/14789?u=ismailemin"
+    },
+    {
+      "description": "Nick's ENS DAO P256 Discussion Replies",
+      "number": 36,
+      "url": "https://discuss.ens.domains/t/public-goods-rfp-proposal-p256-precompile-support-in-the-evm/17330?u=ulerdogan"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x3E2e8E11c307830b358959F27128de4E93AC9FA4",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "Clave (formerly Opclave)",
+  "Applicant Type": "PROJECT",
+  "OSS Directory": "Github Found",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xcCA02de5372cB0CaAc425543487789eEF5d17fB5.json",
+  "Githubs": "https://github.com/itublockchain/opclave-scaling2023, https://github.com/ethereum/go-ethereum/pull/27540",
+  "Tags": ""
+}

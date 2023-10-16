@@ -1,0 +1,38 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://twitter.com/Timur34936393",
+  "bio": "I am an early adopter of optimism and a follower of the crypto world",
+  "contributionDescription": "I am an early adopter of optimism and a follower of the crypto world. I actively participated in all optimism activities, completed all quests, received retrodrops 1 and 2, interacted with various protocols and applications, constantly use optimism as the main network on the air for buying and transferring stablecoins, I am the owner of an early user NFT and a lot of other NFTs on the network optimism.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://etherscan.io/txs?a=0x9ef9c73d7d8239b93fe48b35a6974292c2ff1e1c",
+      "description": "contracts with which there was interaction online optimism"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "I actively promote the principles of optimism among my friends and colleagues, help and teach my followers how to work and interact with the network. I delegate my coins to participate in voting and government life optimism! I believe in a bright, innovative future, optimism and the crypto world!",
+  "impactMetrics": [
+    {
+      "description": "number of NFTs on optimism",
+      "number": 25,
+      "url": "https://opensea.io/account?search[chains][0]=OPTIMISM"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x9ef9c73d7D8239b93Fe48b35A6974292C2Ff1E1c",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "Timur",
+  "Applicant Type": "INDIVIDUAL",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x9ef9c73d7D8239b93Fe48b35A6974292C2Ff1E1c.json",
+  "Githubs": "",
+  "Tags": "COLLECTIVE_GOVERNANCE, END_USER_EXPERIENCE_AND_ADOPTION"
+}

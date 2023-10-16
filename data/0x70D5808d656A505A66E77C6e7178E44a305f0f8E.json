@@ -1,0 +1,45 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://twitter.com/rishi9000",
+  "bio": "Hands on and regression testing on end user apps ",
+  "contributionDescription": "I have self learned and explored the regression testing on most of the decentralized apps running on Optimism early stages and participated on public good funding. Encourage local audience to make them understand about L2 and secure transaction services. \nIt immensely help to pull new user and strategically utilize the Optimism services.   ",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x70D5808d656A505A66E77C6e7178E44a305f0f8E",
+      "description": "Transaction details "
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "I believe with my self contribution as end user and testing that i performed on early stages of different d-apps ,somehow helped the services!! I have engaged end user locally and have increased the audience in Optimism forum with real life execution and transitioning  them to utilize the secure Optimism L2 .",
+  "impactMetrics": [
+    {
+      "description": "Application transaction",
+      "number": 200,
+      "url": "https://optimistic.etherscan.io/address/0x70D5808d656A505A66E77C6e7178E44a305f0f8E"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 10,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0x70D5808d656A505A66E77C6e7178E44a305f0f8E",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "Rishi",
+  "Applicant Type": "INDIVIDUAL",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x70D5808d656A505A66E77C6e7178E44a305f0f8E.json",
+  "Githubs": "",
+  "Tags": "COLLECTIVE_GOVERNANCE, END_USER_EXPERIENCE_AND_ADOPTION"
+}

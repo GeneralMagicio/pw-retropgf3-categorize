@@ -1,0 +1,52 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://twitter.com/Last_Moon_0001?t=NQFW8QLYyrzSAJuWEH0E3A&s=09",
+  "bio": "Never Give up. Always Run 0001",
+  "contributionDescription": " OP is the native governance token of Optimism, a Layer-2 network built to address Ethereum’s scalability challenges.\nOptimism utilises a technology called optimistic rollups to bundle transactions and reduce fees on the Ethereum network.\nOP token holders can participate in the governance of Optimism through the Optimism Collective.\nUsers can acquire OP tokens through exchanges, trading platforms, airdrops, or by participating in Optimism’s ecosystem.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/",
+      "description": "https://twitter.com/Last_Moon_0001?t=NQFW8QLYyrzSAJuWEH0E3A&s=09"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://twitter.com/Last_Moon_0001?t=NQFW8QLYyrzSAJuWEH0E3A&s=09",
+      "description": "https://twitter.com/Last_Moon_0001?t=NQFW8QLYyrzSAJuWEH0E3A&s=09"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "OP is the native governance token of Optimism, a Layer-2 network built to address Ethereum’s scalability challenges.\nOptimism utilises a technology called optimistic rollups to bundle transactions and reduce fees on the Ethereum network.\nOP token holders can participate in the governance of Optimism through the Optimism Collective.\nUsers can acquire OP tokens through exchanges, trading platforms, airdrops, or by participating in Optimism’s ecosystem.",
+  "impactMetrics": [
+    {
+      "description": "Yes 100%",
+      "number": 420,
+      "url": "https://optimistic.etherscan.io/"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 1000,
+      "description": "How did you hear about RetroPGF 3? (private)"
+    }
+  ],
+  "payoutAddress": "0x98df92976Cfd2469c3Ce238b40Fb672266E08A9D",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "Zor0001",
+  "Applicant Type": "INDIVIDUAL",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x98df92976Cfd2469c3Ce238b40Fb672266E08A9D.json",
+  "Githubs": "",
+  "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK"
+}

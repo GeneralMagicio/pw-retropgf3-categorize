@@ -1,0 +1,113 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://vote.optimism.io/",
+  "bio": "Token house and Citizen house governance app and contract",
+  "contributionDescription": "Agora builds public gov infra that is open source for Optimism community builders to leverage. We focus on 3 areas of contribution:\n\n- vote.optimism.io client where we enable Token and Citizen House to vote, delegate and evaluate proposals and RPGF. Over 500,000 monthly visits.\n- Major governor upgrade that enables net new functionalities such as Approval Voting that powered Season 4 Intents.\n- Open API that powers other community members and clients such as Supermodular client in RetroPGF3.\n\nNo other on-chain governance has Approval Voting as Optimism has, we’re proud to be contributing alongside a community that’s at the bleeding edge of governance.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://vote.optimism.io/",
+      "description": "Voting client app for Token House and Citizen House"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/voteagora/agora",
+      "description": "Open-source repo of delegation, proposals and voting client for Optimism Agora."
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xcdf27f107725988f2261ce2256bdfcde8b382b10",
+      "description": "Governor contract for Optimism's Token House governance."
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/voteagora/optimism-gov",
+      "description": "Open-source repo of on-chain governor that powers token house voting. MIT."
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/voteagora/liquid-delegator",
+      "description": "Liquid delegation smart contract, enables re-delegation, liquid functions. MIT."
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/voteagora/agora/tree/op/rpgf/packages/backend/src/worker/rpgfApi",
+      "description": "RetroPGF API and Client. MIT licensed"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
+  "impactDescription": "By building the best-in-class governor contract & application for the Collective, we increased accountability, transparency, and decentralization for all projects in the Collective while maintaining high bars on accessibility and ease of use.\n\nWe have over 3,000 active delegate with profiles created on Optimism, along with over 400,000 votes casted and 100,000 unique monthly users. Over 1,000,000 delegation events have been made on Optimism.\n\nThrough on-chain Approval Voting, over 6M OP has been allocated to fund projects in Season 4 in a decentralized manner.\n\nOur app & contract are open source and MIT-licensed for any builder to leverage. Additionally, with the OP’s superchain coming into play — we plan to ship a 1 click deploy governance package for DAOs on top of OP Stack chains.",
+  "impactMetrics": [
+    {
+      "description": "Total Visitors",
+      "number": 2200000,
+      "url": "https://docs.google.com/spreadsheets/d/1khi559shjgVsX-2VuRZRAFv-uRRpfEI3MZLNXiOGphs/edit?usp=sharing"
+    },
+    {
+      "description": "Monthly Unique Users",
+      "number": 100000,
+      "url": "https://docs.google.com/spreadsheets/d/1khi559shjgVsX-2VuRZRAFv-uRRpfEI3MZLNXiOGphs/edit?usp=sharing"
+    },
+    {
+      "description": "Total Vote Cast",
+      "number": 410000,
+      "url": "https://optimistic.etherscan.io/address/0xcDF27F107725988f2261Ce2256bDfCdE8B382B10"
+    },
+    {
+      "description": "Delegate Statements Created",
+      "number": 83000,
+      "url": "https://vote.optimism.io/"
+    },
+    {
+      "description": "Delegation Activity",
+      "number": 1900000,
+      "url": "https://dune.com/queries/3065806"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 101992.05,
+      "description": "Category: Tooling & Utility"
+    },
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 400000,
+      "description": "Locked till July 2024. RFP: Governor v2 Contract"
+    },
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 150000,
+      "description": "Locked till August 2024. RFP: RetroPGF 3 Discovery & Voting"
+    },
+    {
+      "type": "PARTNER_FUND",
+      "currency": "OP",
+      "amount": 92000,
+      "description": "Locked till Dec 2023. Enabling on-chain voting. Deploy governor for Optimism."
+    },
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 50000,
+      "description": "Phase 1: Grant - https://gov.optimism.io/t/review-gf-phase-1-proposal-agora/3752"
+    }
+  ],
+  "payoutAddress": "0x3a153B0608a87a4BdD4F7Afa90670110d4CBEa62",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "Agora",
+  "Applicant Type": "PROJECT",
+  "OSS Directory": "Github Found",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xFdFC6E1BbEc01288447222fC8F1AEE55a7C72b7B.json",
+  "Githubs": "https://github.com/voteagora/agora, https://github.com/voteagora/optimism-gov, https://github.com/voteagora/liquid-delegator, https://github.com/voteagora/agora/tree/op/rpgf/packages/backend/src/worker/rpgfApi",
+  "Tags": ""
+}

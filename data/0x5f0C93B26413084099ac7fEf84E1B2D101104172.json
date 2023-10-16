@@ -1,0 +1,89 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://twitter.com/Nataliiiii5445",
+  "bio": "Creation of articles and another content about OP Superchain for educational aim",
+  "contributionDescription": "I create content, including for educational purposes to attract new users to Superchain. I create articles, Twitter threads, translations. Also, as a designer, I create NFT by my own design on Base, Zora, OP. I write articles not only on my own, but also for the newspaper \"The Optimist\" and earlier for \"Optimism News\". Translations into Russian and Ukrainian attract the Russian-speaking and Ukrainian-speaking community that lives all over the world. My main goal is to provide content for educational purposes and attract new users to Superchain.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://mirror.xyz/iamcryptogirl.eth/dKQMph49bmTDmPYvP4b9kWJ010mEu9EcN0W1yzbnDnE",
+      "description": "An article about RetroPGF #3 for education"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://mirror.xyz/iamcryptogirl.eth/oRWEvk4FYNOxX3F30Kq4ufK2lnVEl08kjvzd4X5ufZk",
+      "description": "Russian translation of The Optimist"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://mirror.xyz/iamcryptogirl.eth/rFJcLKRDMUrJAdQ0UkY84KCtjBtog_BAdpA0ZO0AtDI",
+      "description": "An article about Sound.xyz - project on OP Mainnet for introducing the ecosystem"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://mirror.xyz/iamcryptogirl.eth/4z2ZFdz6JhdQEoDPuFDXFdh_y7sJ6Q8BHkJqDOQaHaw",
+      "description": "one of the examples of translations of official articles into Russian"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://mirror.xyz/iamcryptogirl.eth/-9KQYrIp4K1MBoxKHsnfFmDyNvo5cgHbU1-C6ZWpkJs",
+      "description": "one of the examples of translations of official articles into Ukrainian"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://mirror.xyz/iamcryptogirl.eth/0J2rYuPFQmAwvoe7_LN5Uq8keffq2gbu6YrUxCUt5rA",
+      "description": "one more article for The Optimist that explains Co-Granting "
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://zora.co/collect/base:0x7fb53f03bfbf02512122a7a4fe9127da5c57c692",
+      "description": "creating an NFT of my own design on the Base Network (Zora Platform)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/prosto_crypto/status/1678517051537649667?s=20",
+      "description": "Creation content for \"Optimism News\""
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/prosto_crypto/status/1669421536502075400?s=20",
+      "description": "Creation content for \"Optimism News\" (one more example)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/Nataliiiii5445/status/1669370535694974976?s=20",
+      "description": "Thread about Ambassador Program"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "As I said translations into Russian and Ukrainian attract the Russian-speaking and Ukrainian-speaking community that lives all over the world. My main goal is to provide content for educational purposes and attract new users to Superchain by my educational content. You can see how many people was involved in Ambassador Program because of my thread (I give an impact metrics below)",
+  "impactMetrics": [
+    {
+      "description": "Number of views",
+      "number": 90800,
+      "url": "https://docs.google.com/document/d/1b0TR5W9BJJIwXwJKi51oyPcHvxS_hLYJ3IVD7H3ZCCo/edit?usp=sharing"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 0,
+      "description": "I have'nt received it yet, but I think that now deserving no less that 3k OP"
+    }
+  ],
+  "payoutAddress": "0x5f0C93B26413084099ac7fEf84E1B2D101104172",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "Natalie",
+  "Applicant Type": "INDIVIDUAL",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x5f0C93B26413084099ac7fEf84E1B2D101104172.json",
+  "Githubs": "",
+  "Tags": "END_USER_EXPERIENCE_AND_ADOPTION"
+}

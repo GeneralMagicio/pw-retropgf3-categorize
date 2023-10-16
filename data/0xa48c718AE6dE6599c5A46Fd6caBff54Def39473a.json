@@ -1,0 +1,54 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://coinpassport.net/",
+  "bio": "Proof of Personhood from your government ID",
+  "contributionDescription": "Proof of Personhood is one way to enable democratic systems on chain that distribute voting power to each person instead of based on the size of the wallet. Coinpassport makes it easy to provide a strong signal to your individual humanity by linking your passport to your Ethereum wallet. For a fee of 3 USDC, Coinpassport uses Stripe Identity to verify your face matches your passport.\n\nCoinpassport has been live on Optimism mainnet since May 14, 2022 and has received 22 fee payments in that time.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x247baae25D0c32fdA5CfB902c0d87D47587CF9Da",
+      "description": "Coinpassport Verifications contract on Optimism"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/coinpassport",
+      "description": "Coinpassport organization on Github (frontend and contracts)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://github.com/gitcoinco/passport/pull/1063",
+      "description": "PR for Integration with Gitcoin Passport"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "Anyone can build applications that use verified passports using Coinpassport.\n\nI made a no-code DAO construction dAPP (https://democratic.capital/) which requires all users to have verified using Coinpassport in order to make groups, launch tokens, create elections, and custom liquidity pools.\n\nI've also created a pull request for Gitcoin Passport to add a Coinpassport stamp so that users can onboard faster and easier by producing a stamp that would cost a lot to forge. I have not been able to make contact with anyone at Gitcoin about receiving feedback on this integration.",
+  "impactMetrics": [
+    {
+      "description": "Users on Optimism",
+      "number": 22,
+      "url": "https://optimistic.etherscan.io/address/0x247baae25D0c32fdA5CfB902c0d87D47587CF9Da"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 66,
+      "description": "Revenue from fee collection (not profit)"
+    }
+  ],
+  "payoutAddress": "0xfE3AD87636a174f2D603d6653872395143e860c9",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "Coinpassport",
+  "Applicant Type": "PROJECT",
+  "OSS Directory": "Address & Github Found",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xa48c718AE6dE6599c5A46Fd6caBff54Def39473a.json",
+  "Githubs": "https://github.com/coinpassport",
+  "Tags": ""
+}

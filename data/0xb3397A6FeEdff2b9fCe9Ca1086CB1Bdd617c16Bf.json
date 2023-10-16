@@ -1,0 +1,69 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://kristo.ph",
+  "bio": "Music producer and project manager releasing onchain since 2020.",
+  "contributionDescription": "I am a recipient of the initial airdrop as I have been an avid user since the protocol's early days. I currently release music on an Optimism-based application called Sound.xyz. Besides my own work, I assist new artists in guidance on release schedule and marketing of on-chain music, and I am looking to receive a grant to invest in new projects to be launched via Optimism. This includes both production and marketing fees.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x747342cda3877abd4ae14739d6f974bc97f3ccb4",
+      "description": "Free release of the project 'Sinaloa - Up'"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xd12b01dd167c17ebc50c2dfc241081bc1ee0b8ea",
+      "description": "Release of the project 'Circus'"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/token/0x8fc761d22457112846db397066c6791ddd3aa145?a=0xb3397A6FeEdff2b9fCe9Ca1086CB1Bdd617c16Bf",
+      "description": "Release of the project \"2222\" with 5 Tone"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "I have been releasing several projects on Optimism which are music NFTs launched on the Optimism dapp Sound.xyz. Besides my own project, Kristoph Galland - I am also helping managing artists such as FRVR, 5 Tone and Dash & Preuss via my record label DYSAUX.",
+  "impactMetrics": [
+    {
+      "description": "Mints",
+      "number": 308,
+      "url": "https://www.sound.xyz/kristophgalland"
+    },
+    {
+      "description": "Mints",
+      "number": 54,
+      "url": "https://www.sound.xyz/frvr"
+    },
+    {
+      "description": "Twitter followers",
+      "number": 21900,
+      "url": "https://twitter.com/kristophgalland"
+    },
+    {
+      "description": "Twitter followers",
+      "number": 533,
+      "url": "https://twitter.com/frvrofficial"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_1",
+      "currency": "USD",
+      "amount": 1651,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0xb3397A6FeEdff2b9fCe9Ca1086CB1Bdd617c16Bf",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "Kristoph Galland",
+  "Applicant Type": "INDIVIDUAL",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xb3397A6FeEdff2b9fCe9Ca1086CB1Bdd617c16Bf.json",
+  "Githubs": "",
+  "Tags": "END_USER_EXPERIENCE_AND_ADOPTION"
+}

@@ -1,0 +1,64 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://twitter.com/MoonDolphinn",
+  "bio": "Crypto Enthusiast, Investor",
+  "contributionDescription": "I hope that optimism continues to grow and create useful projects for the future. Apart from that, it also builds and maintains the solidarity among young people's communities to create positive change in society so that they can grow into a strong force in achieving common goals and making positive contributions to a better future. ",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://pluang.com/",
+      "description": "moondolphinn"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.tokocrypto.com/",
+      "description": "UID : 2055430"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "Of course I will contribute to expanding community participation through social media platforms, for example Twitter / X app, then I will introduce optimism that one of the best layer 2 protocols is suitable for very long-term assets and is also very useful for daily transaction needs, so Layer 2 protocol products will become the norm. Therefore, I also want to invest in optimism as a very long-term asset, and also carry out daily transactions with optimism because optimism has the advantage of low gas fees. So everyone knows the advantages of OP, and definitely really likes optimism products. ",
+  "impactMetrics": [
+    {
+      "description": "tokocrypto",
+      "number": 2055430,
+      "url": "https://www.tokocrypto.com/"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 5500,
+      "description": "Asset Locked"
+    },
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 3300,
+      "description": "Long Term Invesment"
+    },
+    {
+      "type": "PARTNER_FUND",
+      "currency": "OP",
+      "amount": 1700,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0x6b31B3487eBC37e4c6c730cD1E1f9b45afEF5D0F",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "Mike",
+  "Applicant Type": "INDIVIDUAL",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x6b31B3487eBC37e4c6c730cD1E1f9b45afEF5D0F.json",
+  "Githubs": "",
+  "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK"
+}

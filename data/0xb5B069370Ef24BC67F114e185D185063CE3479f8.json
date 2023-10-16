@@ -1,0 +1,64 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://www.tally.xyz/",
+  "bio": "Tally is an onchain governance app for Ethereum ecosystem",
+  "contributionDescription": "Tally made several impactful contributions to the Optimism Collective over the past year, including developing a delegate portal, producing an in-depth technical research report on Superchain governance, and facilitating Delegation Week (an ecosystem-wide event focused on governance participation). Tally also built an L2 governance voting protocol on Optimism called Rollcall in early 2022.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://gov.optimism.io/t/final-superchain-governance-deep-dive/5920/36?u=frisson",
+      "description": "Optimism Collective Mission: Superchain Governance Research Report"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/withtally/rollcall",
+      "description": "Rollcall, an L2 governance voting protocol on Optimism"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://delegationweek.com/",
+      "description": "5-day ecosystem-wide event dedicated to DAO governance engagement"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.tally.xyz/gov/optimism/delegates",
+      "description": "Tally's Optimism Delegate Portal"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
+  "impactDescription": "Tally's contributions have made Optimism Collective governance accessible and future-proof. \n\nAccessible:\n- Tally's Optimism delegate portal makes it easy to discover and track the performance of Token House delegates. \n- Delegation Week re-engaged OP token holders with Optimism Collective governance and elevated the voices of Token House delegates. \n\nFuture-proof:\n- Tally's Superchain Governance Deep Dive Mission produced the most complete and up-to-date analysis of the state of crosschain governance. We deeply investigated and produced documentation around all of the viable paths for expanding Token House governance across the Superchain and ultimately recommended a zk-SNARK based approach that scales to thousands of chains and millions of users.",
+  "impactMetrics": [
+    {
+      "description": "Views of Optimism on Tally.xyz",
+      "number": 3485,
+      "url": "https://docs.google.com/spreadsheets/d/1pXZzBkV6ZoNQYcMnPE63zyPi7CIQpDXas8bvfiwEeDk/edit#gid=0"
+    },
+    {
+      "description": "Optimism Delegation Week Delegations",
+      "number": 201,
+      "url": "https://x.com/tallyxyz/status/1666164350376198146?s=20"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 20000,
+      "description": "Optimism Collective Season 4 Mission"
+    }
+  ],
+  "payoutAddress": "0xec1C77AC05915F099C7c56900D63823Fa4308800",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "Frisson",
+  "Applicant Type": "PROJECT",
+  "OSS Directory": "Not Found",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xb5B069370Ef24BC67F114e185D185063CE3479f8.json",
+  "Githubs": "https://github.com/withtally/rollcall",
+  "Tags": ""
+}

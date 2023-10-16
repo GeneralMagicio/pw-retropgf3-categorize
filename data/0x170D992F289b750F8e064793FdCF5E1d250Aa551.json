@@ -1,0 +1,47 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://opensea.io/collection/untitled-collection-11668436",
+  "bio": "NFT",
+  "contributionDescription": "Optimism Optimism Optimism Optimism Optimism Optimism Optimism Optimism Optimism Optimism Optimism Optimism Optimism Optimism Optimism Optimism Optimism Optimism Optimism Optimism Optimism Optimism Optimism Optimism Optimism Optimism Optimism Optimism Optimism Optimism Optimism Optimism Optimism Optimism Optimism Optimism Optimism Optimism Optimism Optimism Optimism Optimism Optimism Optimism Optimism Optimism Optimism Optimism Optimism Optimism Optimism Optimism Optimism Optimism Optimism ",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://opensea.io/collection/untitled-collection-11668436",
+      "description": "Ty"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "Op Op Op Op Op Op Op Op Op Op Op Op Op Op Op Op Op Op Op Op Op Op Op Op Op Op Op Op Op Op Op Op Op Op Op Op Op Op Op Op Op Op Op Op Op Op Op Op Op Op Op Op Op Op Op Op Op Op Op Op Op Op Op Op Op Op Op Op Op Op Op Op Op Op Op Op Op Op Op Op Op Op Op Op Op Op Op Op Op Op ",
+  "impactMetrics": [
+    {
+      "description": "Pp",
+      "number": 420,
+      "url": "https://app.optimism.io/profile/rpgf-application/impact-statement"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 1,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0x170D992F289b750F8e064793FdCF5E1d250Aa551",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "Kosmo",
+  "Applicant Type": "INDIVIDUAL",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x170D992F289b750F8e064793FdCF5E1d250Aa551.json",
+  "Githubs": "",
+  "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK"
+}

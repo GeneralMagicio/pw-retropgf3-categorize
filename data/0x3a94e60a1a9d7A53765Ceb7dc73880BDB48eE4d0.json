@@ -1,0 +1,44 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://encriptados.substack.com/",
+  "bio": " Encriptados: Crypto, DeFi, L2 - Educate and empower in the digital revolution.",
+  "contributionDescription": "Our newsletter focuses on Optimism and its governance, providing key information about L2 solutions. Our purpose is to educate and guide a wider audience on the Optimism ecosystem and the overall concept of L2. We seek to be a trusted source of knowledge in the community, fostering a deeper understanding of how Optimism improves the scalability of Ethereum and how L2 impacts the blockchain ecosystem at large. Our mission is to ensure that community members are informed and empowered to participate in this exciting technological development, driving the adoption of scalability solutions like Optimism and promoting decentralized governance",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://encriptados.substack.com/",
+      "description": "For the moment we have not donated to other campaigns."
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "When publishing, uploading or writing articles about Optimism, L2, RetroPGF and others, the content can reach more people than the newsletter can reach. This information, being in a newsletter, can be transformed into a Twitter thread and thus share more information and reach many more people.",
+  "impactMetrics": [
+    {
+      "description": "Views",
+      "number": 330,
+      "url": "https://encriptados.substack.com/"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 20,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0x3a94e60a1a9d7A53765Ceb7dc73880BDB48eE4d0",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "Encriptados",
+  "Applicant Type": "PROJECT",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x3a94e60a1a9d7A53765Ceb7dc73880BDB48eE4d0.json",
+  "Githubs": "",
+  "Tags": "END_USER_EXPERIENCE_AND_ADOPTION"
+}

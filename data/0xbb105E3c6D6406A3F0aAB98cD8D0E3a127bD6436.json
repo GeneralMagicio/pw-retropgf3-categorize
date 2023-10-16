@@ -1,0 +1,54 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://cryptozombies.io",
+  "bio": "CryptoZombies: an interactive blockchain coding school",
+  "contributionDescription": "CryptoZombies is an interactive school that teaches students to write smart contracts by making their own crypto-collectibles game. CryptoZombies was the first tutorial on the internet for NFTs and is still very relevant to the new crop of web3 developers looking to enter the industry today. The curriculum is focused on Solidity development, which also helps onboard new developers to Optimism. \n\nRecently, we've teamed up with the Optimism Foundation to build a new course, Optimism Unleashed, that teaches students to write, test, and deploy smart contracts on the OP Mainnet and use the newly released Superchain Faucet. The course is available at https://cryptozombies.io/en/optimism.\n",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://cryptozombies.io/en/solidity",
+      "description": "Our course is focused on Solidity, helping onboard new developers to Optimism. "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://cryptozombies.io/en/optimism",
+      "description": "The Optimism Unleashed Course teaches students how to build on Optimism."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/oplabspbc/status/1686421149742256130",
+      "description": "Twitter thread announcing the release of the Superchain Faucet and our course."
+    }
+  ],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
+  "impactDescription": "Our platform is free and used by more than 500,000 developers worldwide. Consequently, we've broadened the Optimism Collective's audience while streamlining developer onboarding. In doing so, we've blended simplicity and humor, making the art of writing smart contracts on Optimism fun and accessible. Furthermore, our Telegram community ensures prompt support from our engineers, aiding both newcomers and experienced developers alike.",
+  "impactMetrics": [
+    {
+      "description": "Google Analytics Snapshot",
+      "number": 0,
+      "url": "https://docs.google.com/document/d/1L6sgU0JybEJYclPMoriwAvBS-a6hcZRGxFnpq2oRuBY/edit?usp=sharing"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 130577,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0xbb105E3c6D6406A3F0aAB98cD8D0E3a127bD6436",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "CryptoZombies",
+  "Applicant Type": "PROJECT",
+  "OSS Directory": "Address Found",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xbb105E3c6D6406A3F0aAB98cD8D0E3a127bD6436.json",
+  "Githubs": "",
+  "Tags": ""
+}

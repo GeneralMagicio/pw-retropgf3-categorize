@@ -1,0 +1,44 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://optimism.mirror.xyz/wiHMKqsbAQnK51Se3MraSnvf0blwRzS9jguojEmKKVc",
+  "bio": "I work privately but I can contribute well to the Retropgf Optimism project",
+  "contributionDescription": "I contribute because I believe the optimism project is a very extraordinary project and is an L2 project with advanced technology and is widely used by other blockchain developers such as Base, Zora, Worldcoin and others. So that Optimism's proposed “Law of Chains” collective governance system is realized for the Superchain vision.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x156DEC0C2C1F714c70Ad55258E92c681Dd68119E",
+      "description": "This is my Contract Address"
+    }
+  ],
+  "impactCategory": [
+    "OP_STACK"
+  ],
+  "impactDescription": "Realizing the optimistic vision of the “Law of Chains” collective governance system to become a Superchain. so that security, speed, ease of transactions can be fulfilled and help a decentralized financial system without any interference from an entity that wants to dominate the world",
+  "impactMetrics": [
+    {
+      "description": "ERC-721",
+      "number": 106852021,
+      "url": "https://optimistic.etherscan.io/tx/0x8008363ffe3e2b6a964cc022b3afa850edd8055c14d3b108bb5eac1222cb0c1a"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 10000,
+      "description": "I want to change my fate by participating in the Optimism development project"
+    }
+  ],
+  "payoutAddress": "0x156DEC0C2C1F714c70Ad55258E92c681Dd68119E",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "Nafsu",
+  "Applicant Type": "INDIVIDUAL",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x156DEC0C2C1F714c70Ad55258E92c681Dd68119E.json",
+  "Githubs": "",
+  "Tags": "OP_STACK"
+}

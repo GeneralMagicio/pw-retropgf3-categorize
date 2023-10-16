@@ -1,0 +1,40 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://twitter.com/CryptoReine1",
+  "bio": "Tech/Blockchain",
+  "contributionDescription": "My Contributions to Optimism include \n\n1. Development and Code Contributions: I write and review code, improving the platform's features, or fixing bugs. This can involve optimizing smart contracts, enhancing security, and ensuring compatibility with Ethereum.\n\n2. Research and Innovation: I conduct research related to Layer 2 scaling solutions, proposing novel ideas, or helping solve technical challenges.\n\n3. Testing and Quality Assurance: Ensuring the reliability and security of the platform. My contributions in this area involve thorough testing, identifying vulnerabilities, and helping with code audits.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://twitter.com/CryptoReine1",
+      "description": "Tech Blockchain dealer"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "1. Developing and enhancing code for the project. 2. Researching and proposing innovative solutions. 3. Ensuring reliability through testing and security audits. These technical efforts are crucial for the success of blockchain projects like Optimism",
+  "impactMetrics": [
+    {
+      "description": "1003",
+      "number": 503,
+      "url": "https://twitter.com/CryptoReine1"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x222988f898B6Eba86a7c0bf331bE672D49534834",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "Cryptoreine",
+  "Applicant Type": "INDIVIDUAL",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x222988f898B6Eba86a7c0bf331bE672D49534834.json",
+  "Githubs": "",
+  "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK"
+}

@@ -1,0 +1,44 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://github.com/novepras",
+  "bio": "I'm an artist and a developer",
+  "contributionDescription": "I will build a dapp for the optimism ecosystem, and build some nfts project, that's been my dream for a long time. because I have been following the optimism ecosystem for a long time so I want to explore and be part of optimism, i belive i can give more color to optimism.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/novepras/hutao1",
+      "description": "i will keep working on this and deploy on optimism, and add more features"
+    }
+  ],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
+  "impactDescription": "I will build a dapp for the optimism ecosystem, and build some nfts project, that's been my dream for a long time. because I have been following the optimism ecosystem for a long time so I want to explore and be part of optimism, i belive i can give more color to optimism.",
+  "impactMetrics": [
+    {
+      "description": "github",
+      "number": 1,
+      "url": "https://github.com/novepras"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "PARTNER_FUND",
+      "currency": "OP",
+      "amount": 7000,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0xcC1ec0B04fa0C602c23D4DeBbf91E6844af48b39",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "nove",
+  "Applicant Type": "INDIVIDUAL",
+  "OSS Directory": "Not Found",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xcC1ec0B04fa0C602c23D4DeBbf91E6844af48b39.json",
+  "Githubs": "https://github.com/novepras/hutao1",
+  "Tags": ""
+}

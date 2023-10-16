@@ -1,0 +1,44 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://dickygaluhkurniawan.my.id/",
+  "bio": "Supporting Optimism Collective: education and research for positive impact.",
+  "contributionDescription": "As a computer science student at UII, focusing on blockchain studies, I have significant opportunities to play a role in the development of the blockchain ecosystem and Optimism technology. I can choose to be a code developer by mastering Solidity, a researcher delving into Optimism, or an educator who educates the community about blockchain. Contributions to open-source projects, sharing knowledge through articles, and collaborating with Optimism projects can also help enhance this ecosystem. By actively contributing, I can earn incentives from the Optimism Collective and significantly advance the adoption of Optimism technology.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://dickygaluhkurniawan.my.id/2023/09/20/contributions-of-a-computer-science-student-to-the-optimism-ecosystem/",
+      "description": "The Impact of Computer Science Students on the Optimism Ecosystem"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "Sebagai Pengalaman & Adopsi Pengguna Akhir di Optimism Collective, saya memiliki peran penting dalam meningkatkan kepuasan pengguna, mengedukasi pengguna tentang teknologi Optimism, mendatangkan pengguna baru, mengumpulkan umpan balik, dan mendorong adopsi teknologi ini. Terus berinovasi, mendengarkan umpan balik, dan berkolaborasi untuk mencapai tujuan bersama.",
+  "impactMetrics": [
+    {
+      "description": " Table Adoption Impact Metrics",
+      "number": 1,
+      "url": "https://dickygaluhkurniawan.my.id/2023/09/20/table-end-user-experience-adoption-impact-metrics/"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 10000,
+      "description": "I am suitable to receive $10,000 based on the Impact Metrics for Optimism."
+    }
+  ],
+  "payoutAddress": "0xe359A6feBe48E326efA7dBe7a36b31207F9bdA81",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "Dicky Galuh Kurniawan",
+  "Applicant Type": "INDIVIDUAL",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xe359A6feBe48E326efA7dBe7a36b31207F9bdA81.json",
+  "Githubs": "",
+  "Tags": "END_USER_EXPERIENCE_AND_ADOPTION"
+}

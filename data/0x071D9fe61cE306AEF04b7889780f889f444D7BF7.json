@@ -1,0 +1,54 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://castle.link/",
+  "bio": "Castle is a multi-chain EOA and multi-sig aggregator for NFTs and coins on OP.",
+  "contributionDescription": "We help users manage multiple wallets on Optimism and Base blockchains. Users can connect multiple EOAs, multi-sigs (across both Optimism and Base) and manage their NFTs and coins. We integrate with NFT marketplaces and 0x to enable trading on Optimism and Base too.\n\nThe multi-sig creation process on our app is simplified. We leverage CREATE2 and multi-send to streamline onboarding for users. Users can securely manage their assets across major chains through us.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://castle.link/",
+      "description": "Main dApp"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://app.safe.global/share/safe-app?appUrl=https%3A%2F%2Fsafeapp.castle.link&chain=eth",
+      "description": "Safe app"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "Multi-sigs and managing multiple wallets is difficult. We made the wallet experience as easy as can be for users starting in crypto. With apps like Friend Tech, AdWorld, etc. users are required to hold various types of assets across many wallets. Castle prioritizes chains like Optimism and Base to ensure that new users can easily manage all their assets in one place.",
+  "impactMetrics": [
+    {
+      "description": "Users (number)",
+      "number": 5000,
+      "url": "https://twitter.com/CastleLinkHQ"
+    },
+    {
+      "description": "Assets under management (ether)",
+      "number": 2000,
+      "url": "https://twitter.com/CastleLinkHQ"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 1500000,
+      "description": "We raised a small pre-seed round in January 2022"
+    }
+  ],
+  "payoutAddress": "0x26d28698727cE4D960DdE3E5EA41E30b1E33611C",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "mehran @ castle",
+  "Applicant Type": "PROJECT",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x071D9fe61cE306AEF04b7889780f889f444D7BF7.json",
+  "Githubs": "",
+  "Tags": "END_USER_EXPERIENCE_AND_ADOPTION"
+}

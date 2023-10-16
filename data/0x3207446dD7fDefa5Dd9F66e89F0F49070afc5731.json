@@ -1,0 +1,47 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://vi.m.wikipedia.org/wiki/Gray_(ca_s%C4%A9)",
+  "bio": "Wiki GRAY",
+  "contributionDescription": "I have experienced it all in the optimism ecosystem and look forward to experiencing optimism more. Thanks.\nThank you ecosystem for giving me a wonderful experience and bringing me to Optimism, which I really like.\nAnd then I want to say that if the world develops more and more in the future, hopefully the optimism ecosystem will develop more and more good luck Optimism",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://vi.m.wikipedia.org/wiki/Gray_(ca_s%C4%A9)",
+      "description": "1"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "I have experienced it all in the optimism ecosystem and look forward to experiencing optimism more. Thanks.\nThank you ecosystem for giving me a wonderful experience and bringing me to Optimism, which I really like.\nAnd then I want to say that if the world develops more and more in the future, hopefully the optimism ecosystem will develop more and more good luck Optimism",
+  "impactMetrics": [
+    {
+      "description": "No",
+      "number": 13,
+      "url": "https://vi.m.wikipedia.org/wiki/Gray_(ca_s%C4%A9)"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 13700,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0x3207446dD7fDefa5Dd9F66e89F0F49070afc5731",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "GRAY",
+  "Applicant Type": "PROJECT",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x3207446dD7fDefa5Dd9F66e89F0F49070afc5731.json",
+  "Githubs": "",
+  "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK"
+}

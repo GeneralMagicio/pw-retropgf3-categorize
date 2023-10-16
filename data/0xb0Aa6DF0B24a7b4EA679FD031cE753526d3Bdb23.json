@@ -1,0 +1,38 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://www.twitter.com/ahmurat09",
+  "bio": "crypto user",
+  "contributionDescription": "I am a crypto user. More than half of all my transactions were made on the optimisim network. The reason for this is, firstly, that the optimisim network is very cheap and its market cap is diverse. Also very reliable. While testing the zksync and base network recently, I performed all bridging using the optimisim network. Also, for the layerzero potential airdrop, I made most of my transactions on the optimisim network. Check my wallet address and see how many transactions I have. Most of my NFTs are in the optimism network",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://optimistic.etherscan.io/address/0xb0Aa6DF0B24a7b4EA679FD031cE753526d3Bdb23",
+      "description": "optimisim scan"
+    }
+  ],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "I have tested many things with the transactions I made on the optimisim network. I also gave feedback. This allowed me to grow as a user. I also provided a good return to the ecosystem. I continue to follow for any new developments that may come. Optimism is the network I care most about right now.",
+  "impactMetrics": [
+    {
+      "description": "optimisim scan",
+      "number": 300,
+      "url": "https://optimistic.etherscan.io/address/0xb0Aa6DF0B24a7b4EA679FD031cE753526d3Bdb23"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0xb0Aa6DF0B24a7b4EA679FD031cE753526d3Bdb23",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "mixed",
+  "Applicant Type": "INDIVIDUAL",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xb0Aa6DF0B24a7b4EA679FD031cE753526d3Bdb23.json",
+  "Githubs": "",
+  "Tags": "DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION"
+}

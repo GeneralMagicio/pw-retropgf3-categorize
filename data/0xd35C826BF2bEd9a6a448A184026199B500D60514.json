@@ -1,0 +1,49 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://t.me/mirror_curator_dao",
+  "bio": "A DAO for high quality Web3 contents curation",
+  "contributionDescription": "Now information distribution is mainly dependent on algorithms but the problem is most of them are useless. At Mirror Curator DAO we sync Web3 contents on Mirror and read them one by one.We also browse contents on Twitter. Then we share high quality contents based on our understanding. By doing so readers get more valuable knowledge while creators receive more attention.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://t.me/mirror_curator_dao",
+      "description": "It's used for sharing our curation."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://docs.google.com/spreadsheets/d/1_GLghm3POQnWopJU7IsbiIZg4WtWzwpBbJEi3am32_c/edit?usp=sharing",
+      "description": "Use google scripts for Mirror content sync and store at google sheets"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "MC DAO benefits 1,790 subscribers and onboards them to Mirror. So Mirror is the biggest beneficiary as a project. Mirror is one of the most active Web3 platforms on Optimism. Our work has an indirect impact for onboarding new optimists. Creators are also beneficial from our curation but it’s hard to quantify.",
+  "impactMetrics": [
+    {
+      "description": "subscribers",
+      "number": 1790,
+      "url": "https://t.me/mirror_curator_dao"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 40000,
+      "description": "we once received around 40000 USD for gitcoin grants "
+    }
+  ],
+  "payoutAddress": "0x1a301A35792Aa6EFA08157F80B48ca334c03d076",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "mcdao",
+  "Applicant Type": "PROJECT",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xd35C826BF2bEd9a6a448A184026199B500D60514.json",
+  "Githubs": "",
+  "Tags": "END_USER_EXPERIENCE_AND_ADOPTION"
+}

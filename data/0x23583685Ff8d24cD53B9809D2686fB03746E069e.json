@@ -1,0 +1,47 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://www.woodstockfund.com",
+  "bio": "Awesome OP Repository",
+  "contributionDescription": "Ecosystem Project Idea: Awesome Optimism Repository #94. The 'Awesome Optimism' repository, akin to the widely popular 'awesome X' repositories found throughout GitHub aims to showcase the vibrant open-source contributions happening within the Optimism ecosystem, including notable projects like Magi, op-erigon, and others.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/abhinav-woodstock/awesome-optimism/blob/main/README.md",
+      "description": "Initial Repo"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/lucas-op/awesome-optimism/blob/main/README.md",
+      "description": "Merged repo"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "• Provides a centralized resource for developers and enthusiasts to discover projects in the Optimism ecosystem.\n• Encourages open-source contributions and fosters a stronger community around Optimism.\n• Offers visibility and recognition for projects contributing to the Optimism ecosystem.",
+  "impactMetrics": [
+    {
+      "description": "Stars",
+      "number": 3,
+      "url": "https://github.com/lucas-op/awesome-optimism/blob/main/README.md"
+    },
+    {
+      "description": "Watchers",
+      "number": 1,
+      "url": "https://github.com/lucas-op/awesome-optimism/blob/main/README.md"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x23583685Ff8d24cD53B9809D2686fB03746E069e",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "Abhinav",
+  "Applicant Type": "INDIVIDUAL",
+  "OSS Directory": "Not Found",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x23583685Ff8d24cD53B9809D2686fB03746E069e.json",
+  "Githubs": "https://github.com/abhinav-woodstock/awesome-optimism/blob/main/README.md, https://github.com/lucas-op/awesome-optimism/blob/main/README.md",
+  "Tags": ""
+}

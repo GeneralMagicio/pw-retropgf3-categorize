@@ -1,0 +1,45 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://twitter.com/Yiyixmb",
+  "bio": "KOLs from the Chinese community",
+  "contributionDescription": "I can share OP with X in my community, and I will drive my fans to participate in the OP ecology and build it together. This is what I have always wanted to do, and now I just have this opportunity to participate, so I want to seize it and contribute to the future of OP together!",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/Yiyixmb",
+      "description": "cool"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "I can share OP with X in my community, and I will drive my fans to participate in the OP ecology and build it together. This is what I have always wanted to do, and now I just have this opportunity to participate, so I want to seize it and contribute to the future of OP together!",
+  "impactMetrics": [
+    {
+      "description": "18000",
+      "number": 18000,
+      "url": "https://x.com/Yiyixmb/status/1695727090287652932?s=20"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 5000,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0x43f708c3f68B5fE2Fe5cf38844b56613c71fc544",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "yiyi",
+  "Applicant Type": "INDIVIDUAL",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x43f708c3f68B5fE2Fe5cf38844b56613c71fc544.json",
+  "Githubs": "",
+  "Tags": "COLLECTIVE_GOVERNANCE, END_USER_EXPERIENCE_AND_ADOPTION"
+}

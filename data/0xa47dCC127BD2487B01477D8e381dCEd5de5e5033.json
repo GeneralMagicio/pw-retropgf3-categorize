@@ -1,0 +1,47 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://twitter.com/illia_kovalenko",
+  "bio": "Doctor of Philosophy in Law•••Lawyer•••Founder Billions Team",
+  "contributionDescription": "I want to give lectures on financial literacy, including how to use blockchain technologies with optimism, and how not to lose money under such circumstances. I am an expert in this field and hold a Doctor of Philosophy in Law. I also have optimism and security in my plans to involve specialists for a more detailed explanation of technologies.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/illia_kovalenko",
+      "description": "https://twitter.com/illia_kovalenko"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "I want to give lectures on financial literacy, including how to use blockchain technologies with optimism, and how not to lose money under such circumstances. I am an expert in this field and hold a Doctor of Philosophy in Law. I also have optimism and security in my plans to involve specialists for a more detailed explanation of technologies.",
+  "impactMetrics": [
+    {
+      "description": "100",
+      "number": 100,
+      "url": "https://twitter.com/illia_kovalenko"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 25000,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0xa47dCC127BD2487B01477D8e381dCEd5de5e5033",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "mrlawyer88",
+  "Applicant Type": "INDIVIDUAL",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xa47dCC127BD2487B01477D8e381dCEd5de5e5033.json",
+  "Githubs": "",
+  "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK"
+}

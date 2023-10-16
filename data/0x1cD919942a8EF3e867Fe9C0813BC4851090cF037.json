@@ -1,0 +1,64 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://www.charmverse.io/",
+  "bio": "web3 community platform for members to build relationships, work together & vote",
+  "contributionDescription": "CharmVerse is the grants management platform powering the Token House grants operations, covering Season 4, Cycles 14 & 15. CharmVerse provides applicants an easy-to-use interface for submitting grant applications and receiving feedback from council members. Council members can also discuss and evaluate each application without switching between apps and chat groups. \n\nCharmVerse supports the end-to-end grant operations: \n- Application submissions \n- Communication/feedback between applicants and council members \n- Status updates and notifications for all participants \n- Application evaluation discussions among grants council members \n- Hosts all relevant materials, including background, criteria, rubric, calendar, and instructions\n\nCharmVerse is open source and live on OP Mainnet. ",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://app.charmverse.io/op-grants/page-701220845245208",
+      "description": "Grants Homepage"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/charmverse",
+      "description": "Github"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.charmverse.io/post/case-study-op-grants-chooses-charmverse-for-their-operations",
+      "description": "OP Case Study"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "4,286 Optimism users were active in the CharmVerse Optimism space during season 4. The Grants Council processed and accepted 97 and 104 applications in Cycle 14 and Cycle 15, respectively. This is a 33% increase from Season 3. \n\nCharmVerse created personalized and free CharmVerse spaces for the 97 projects in Cycle 14. 53 projects claimed their spaces. ",
+  "impactMetrics": [
+    {
+      "description": "Monthly Active Users ",
+      "number": 4286,
+      "url": "https://mixpanel.com/p/EdAdDaBk4Rfya9DJxf7Zb5"
+    },
+    {
+      "description": "Application processed (Cycle 14)",
+      "number": 97,
+      "url": "https://gov.optimism.io/t/cycle-14-final-grants-roundup/6676"
+    },
+    {
+      "description": "Application processed (Cycle 15)",
+      "number": 104,
+      "url": "https://gov.optimism.io/t/cycle-15-grants-preliminary-roundup/6772"
+    },
+    {
+      "description": "CharmVerse Space Claimed by OP Projects",
+      "number": 53,
+      "url": "https://mixpanel.com/p/EdAdDaBk4Rfya9DJxf7Zb5"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0xCFDc043cd3A3b2A86e4FE2b5E74ff3369b26F628",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "CharmVerse",
+  "Applicant Type": "PROJECT",
+  "OSS Directory": "Github Found",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x1cD919942a8EF3e867Fe9C0813BC4851090cF037.json",
+  "Githubs": "https://github.com/charmverse",
+  "Tags": ""
+}

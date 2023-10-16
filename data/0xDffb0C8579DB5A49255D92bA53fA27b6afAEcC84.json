@@ -1,0 +1,37 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://www.webvilles.net",
+  "bio": "I'm 48 years old, passionate about blockchain technologies and live in France. ",
+  "contributionDescription": "I've been heavily involved in the various Optimism blochain tests.\nFor example, I completed all 18 Optimism quests and obtained all 18 NFTs.\nI've also done a lot to help my friends and family get to know the Optimism ecosystem. \nMost of my friends, colleagues and close family have completed at least one Optimism quest thanks to me.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "http://www.etherscan.org",
+      "description": "http://www.etherscan.org"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "I've been heavily involved in the various Optimism blochain tests.\nFor example, I completed all 18 Optimism quests and obtained all 18 NFTs.\nI've also done a lot to help my friends and family get to know the Optimism ecosystem. \nMost of my friends, colleagues and close family have completed at least one Optimism quest thanks to me.",
+  "impactMetrics": [
+    {
+      "description": "10",
+      "number": 10,
+      "url": "http://www.etherscan.org"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0xDffb0C8579DB5A49255D92bA53fA27b6afAEcC84",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "Malik",
+  "Applicant Type": "INDIVIDUAL",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xDffb0C8579DB5A49255D92bA53fA27b6afAEcC84.json",
+  "Githubs": "",
+  "Tags": "END_USER_EXPERIENCE_AND_ADOPTION"
+}

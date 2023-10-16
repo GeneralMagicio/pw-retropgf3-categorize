@@ -1,0 +1,40 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://twitter.com/DarkWillow1997",
+  "bio": "Im poorMan wanna change my live not down",
+  "contributionDescription": "I got optimism at another address and I want to get it again and again. I'm happy with optimism, the team is good and it's fun,maybe I can get another OP by joining this chapter\nI like airdrops, hopefully I can continue in a project even if it's free because I like free things\nallow me",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/tx/0x8bed0b1c4ecdef0bad9769d5eacfcc6b6e5136a28b0359ed928b3dbc3b53288c",
+      "description": "1"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "I got optimism at another address and I want to get it again and again. I'm happy with optimism, the team is good and it's fun,maybe I can get another OP by joining this chapter\nI like airdrops, hopefully I can continue in a project even if it's free because I like free things\nallow me",
+  "impactMetrics": [
+    {
+      "description": "1",
+      "number": 2,
+      "url": "https://optimistic.etherscan.io/tx/0x8bed0b1c4ecdef0bad9769d5eacfcc6b6e5136a28b0359ed928b3dbc3b53288c"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0xe94ECbe410Dc32E8753347ef7DaDF2103811cF74",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "PoorMan",
+  "Applicant Type": "INDIVIDUAL",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xe94ECbe410Dc32E8753347ef7DaDF2103811cF74.json",
+  "Githubs": "",
+  "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK"
+}

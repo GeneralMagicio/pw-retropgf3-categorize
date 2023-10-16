@@ -1,0 +1,56 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://twitter.com/comzvy",
+  "bio": "I'm an Crypto Enhtusiast that actively in this Space for Learning",
+  "contributionDescription": "I have been an active participant in the crypto space, constantly testing new projects and providing valuable feedback to help improve the ecosystem. With a background in software development and a deep interest in blockchain technology, I've made it a personal mission to seek out innovative projects, from decentralized finance platforms to blockchain-based games.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x4e846E2aB6A8e2565EA073A5ee9839FcbFd927D1",
+      "description": "My history onchain activity"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "By actively engaging with these projects and sharing my insights, I aim to contribute to the growth and maturation of the crypto industry, fostering a more secure and user-friendly environment for all participants. My commitment to testing and feedback underscores my belief in the transformative potential of blockchain technology and its ability to revolutionize various sectors beyond finance.",
+  "impactMetrics": [
+    {
+      "description": "180",
+      "number": 180,
+      "url": "https://twitter.com/comzvy"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 216,
+      "description": "The fund is for atleast im can still doing as Public Good in this Space"
+    },
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 216,
+      "description": ""
+    },
+    {
+      "type": "RETROPGF_1",
+      "currency": "USD",
+      "amount": 216,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0x4e846E2aB6A8e2565EA073A5ee9839FcbFd927D1",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "Comzvy",
+  "Applicant Type": "INDIVIDUAL",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x4e846E2aB6A8e2565EA073A5ee9839FcbFd927D1.json",
+  "Githubs": "",
+  "Tags": "END_USER_EXPERIENCE_AND_ADOPTION"
+}

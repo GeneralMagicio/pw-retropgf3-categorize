@@ -1,0 +1,44 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://spotify.link/sbtUP8aSnDb",
+  "bio": "Musician and salesman. I want to sell things for crypto. ",
+  "contributionDescription": "I have not contributed much. I have interacted with the chain. However if given an opportunity to have access to some of these spaces. Finances being the biggest barrier for me. I know I can meet the people who can help me get more artists selling music on optimism. Find a way for companies like carmax or caravan to accept crypto through there online delivery apps. Imagine buying a car without ever seeing a salesperson all with your air drop you spent months farming for. All without ever touching fiat. I want to build that space.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://spotify.link/Cuymp5gTnDb",
+      "description": "Very optimistic music."
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "I’m just a wannabe influencer. Iv onboarded several people into crypto. I reminded my buddy he had the last drop made sure he did not miss out lol. I really just retweet for the most part. I just want to take part. I honestly didn’t realize this was for a grant when I started. I just try to get involved with the blockchain.",
+  "impactMetrics": [
+    {
+      "description": "Spotify 15 monthly users ",
+      "number": 15,
+      "url": "https://spotify.link/Cuymp5gTnDb"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 10000,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0x72365e20475Ca0Ac6423F71b5Da97dbEB8Bb6c20",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "JamesCamsHouse",
+  "Applicant Type": "INDIVIDUAL",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x72365e20475Ca0Ac6423F71b5Da97dbEB8Bb6c20.json",
+  "Githubs": "",
+  "Tags": "END_USER_EXPERIENCE_AND_ADOPTION"
+}

@@ -1,0 +1,64 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://snapshot.org/#/",
+  "bio": "Snapshot is a voting platform that allows DAOs to vote without gas fees.",
+  "contributionDescription": "Snapshot has been used both by the Optimism Collective and 64 projects on Optimism to facilitate governance. All of these services have been provided for free, both for governance participants and the projects themselves. This has allowed Optimism to be the most active layer 2 in terms of governance and establish a strong ideological stance of decentralization and participative decision-making in the entire ecosystem. Snapshot allows projects to conduct votes that most of the people reading this forum have participated in.\n\nSince the start of Optimism’s governance:\n\n1.15M votes have been cast in the Optimism collective’s governance on 93 proposals.\n88650 participants have voted, which means the average participant has voted 13 times on average, the highest number for any major DAO.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/snapshot-labs",
+      "description": "This is the main repository of Snapshot Labs."
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/snapshot-labs/sx-evm",
+      "description": "Repo for Snapshot X, our EVM onchain voting framework."
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
+  "impactDescription": "Snapshot is the most widely used tool across the Optimism ecosystem to facilitate governance. Even though the Collective has stopped using it in favor of on-chain voting, today we have 491 spaces on Snapshot that call Optimism their home.\n\nWe've provided these services for free because we believe governance is for everyone, and we like to think that we're building the framework for new types of organizations to thrive. In addition, we're working on a new on-chain voting framework we call Snapshot X that will soon be available on Optimism and will be much more flexible than Compound Governor.",
+  "impactMetrics": [
+    {
+      "description": "Optimism projects on Snapshot",
+      "number": 491,
+      "url": "https://snapshot.org/#/?filter=networks"
+    },
+    {
+      "description": "Proposals on OP Collective Snapshot",
+      "number": 93,
+      "url": "https://dune.com/jennifertran/analyzing-snapshot-features?space_name_t4fc57=opcollective.eth"
+    },
+    {
+      "description": "Voters on OP Collective Snapshot",
+      "number": 88657,
+      "url": "https://dune.com/jennifertran/analyzing-snapshot-features?space_name_t4fc57=opcollective.eth"
+    },
+    {
+      "description": "Votes on OP Collective Snapshot",
+      "number": 1144000,
+      "url": "https://dune.com/goldenchaos/snapshot"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 145.6,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0x3E87e5BCE4dEb09FeE5045EF15E18f873212E6A7",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "Snapshot",
+  "Applicant Type": "PROJECT",
+  "OSS Directory": "Address & Github Found",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xf9551c66995eD3Ff9bb05C9Fd7ff148Bd75dc99a.json",
+  "Githubs": "https://github.com/snapshot-labs, https://github.com/snapshot-labs/sx-evm",
+  "Tags": ""
+}

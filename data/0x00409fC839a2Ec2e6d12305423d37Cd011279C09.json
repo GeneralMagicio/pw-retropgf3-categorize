@@ -1,0 +1,66 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://mirror.xyz/thesleeper.eth",
+  "bio": "OP original content creator and educator for thai community since June 2022.",
+  "contributionDescription": "I have been contributing original content localized for the Thai community, drawing from official articles, core team publications, and various sources like EthGlobal and Bankless. I then distill this information into simpler graphics, utilizing my creativity stemming from my advertising background",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://mirror.xyz/thesleeper.eth",
+      "description": "Original OP Article incl. artwork on mirror"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/channel/UCZ0Zqq9T47EHE7V47IloTEg",
+      "description": "Youtube VDO on Optimism and OP Stack"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/aka_steppenwolf/status/1587681761802481665",
+      "description": "OP thread on twitter almost all in here"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/tx/0x0332a3cf5e8d96c818e3577e86aaf403fed302e3004256d9d57dd06b4a10190c",
+      "description": "Experimental NFT art donating eth to RPGF address"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "In 2022, The journey of the Thai community with Optimism began, initially revolving around NFTs and airdrops (including me). However, as I listened to the core team at events like EthGlobal, EthDenver, and various others, I started to understand how open-source initiatives can establish digital country and have a global impact.\n\nFueled by this, I began translating nearly every document into Thai and using my Photoshop skills to create eye-catching art that grabbed people's attention. This effort convert normal user into loyal followers who are still with me today. As a result, my Twitter account and content on other platforms have grown and become one of the most trusted sources for the Thai community.",
+  "impactMetrics": [
+    {
+      "description": "sheet contain Engagement & Impression",
+      "number": 420,
+      "url": "https://docs.google.com/spreadsheets/d/10tEyK7WeE3CYMIdYbMINsHRwW5idWw1BtB0xBhiPhtk/edit?usp=sharing"
+    },
+    {
+      "description": "Donating ETH to RPGF address through NFT",
+      "number": 0.301,
+      "url": "https://mirror.xyz/thesleeper.eth/P5M3x_VwY93-bDk_o2JAlfJorYxLOVvujrmzfzHWOPg"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 20380.82,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0x00409fC839a2Ec2e6d12305423d37Cd011279C09",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "Thesleeper.eth Thai OP Educator",
+  "Applicant Type": "INDIVIDUAL",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x00409fC839a2Ec2e6d12305423d37Cd011279C09.json",
+  "Githubs": "",
+  "Tags": "COLLECTIVE_GOVERNANCE, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK"
+}

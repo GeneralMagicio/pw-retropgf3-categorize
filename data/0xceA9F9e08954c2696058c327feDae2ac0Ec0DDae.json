@@ -1,0 +1,44 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://opensea.io/collection/psychoticrobots",
+  "bio": "Who is the artist? Can we be called artists cause we made this collection? ",
+  "contributionDescription": "This is a new advertising opportunity for everyone. For the optimism network too! If we can our dreams come true, it will be huge for that space. This is our dream:\nIt is impossible to make art while thinking about how to feed ourselves. That is why we need to create this collection. When the project is completely sold out, we want to shoot a movie in the Metaverse with the characters that will be created in the continuation of the project.So you can have an NFT drawn by an AI for the first time and be one of the first people to be involved in an avant-garde film!",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://opensea.io/collection/psychoticrobots",
+      "description": "Psychotic Robots by Midjourney (AI)"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
+  "impactDescription": "“Art”ificial Intelligence What if we told you, Artificial Intelligence (Midjourney) drew this collection?Who is the artist? Can we be called artists cause we made this collection? Of course we gave the AI the command. We gave them to it and it designed it. So who is the artist? Us or the AI?As two young people trying to make art, we feel the difficulties of this path inside us every day and our psychology has deteriorated like our collection.",
+  "impactMetrics": [
+    {
+      "description": "nope",
+      "number": 420,
+      "url": "https://opensea.io/collection/psychoticrobots"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 420,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0xceA9F9e08954c2696058c327feDae2ac0Ec0DDae",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "Psychotic Robots by Midjourney (AI)",
+  "Applicant Type": "PROJECT",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xceA9F9e08954c2696058c327feDae2ac0Ec0DDae.json",
+  "Githubs": "",
+  "Tags": "COLLECTIVE_GOVERNANCE"
+}

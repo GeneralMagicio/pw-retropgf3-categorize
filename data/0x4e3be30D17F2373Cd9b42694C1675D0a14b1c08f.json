@@ -1,0 +1,47 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://dawuancrew.wordpress.com",
+  "bio": "Hunt",
+  "contributionDescription": "I claim the genesis of NFT from the digital wallet that I use, and maybe this NFT has more benefits in the optimism network, network allocation which in my opinion provides good transaction speed and security, and in the future in the gaming world there will be many developments to take the first step in crypto games",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/tx/0xb83a72eaac10a313749e3872554230f6d18143ca7a681c27319b27ad10e68df8",
+      "description": "OAT"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "adding my collection in art, games, mining, and genesis nft and coin token collections, providing added value to this network storage, network fees are not too expensive and various kinds of collections can be accommodated. I thank you for this network of optimism",
+  "impactMetrics": [
+    {
+      "description": "Galxy OAT",
+      "number": 514904,
+      "url": "https://optimistic.etherscan.io/tx/0xc752338be045604f4c781852589d8dca212e235baa4d4878f599202838f7a1a6"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 1000,
+      "description": "Exchange Binance"
+    }
+  ],
+  "payoutAddress": "0x4e3be30d17f2373cd9b42694c1675d0a14b1c08f",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "stevennendy",
+  "Applicant Type": "INDIVIDUAL",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x4e3be30D17F2373Cd9b42694C1675D0a14b1c08f.json",
+  "Githubs": "",
+  "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK"
+}

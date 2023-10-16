@@ -1,0 +1,45 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://twitter.com/bonyairdrop",
+  "bio": "Airdrop Hunter",
+  "contributionDescription": "Invest and keep alive on the Optimism Chain for sure. Honestly now i'm still learning \n about Crypto, i'm a nebuiewant increasing my basic knowledge about all crypto currencies. And now by submit this appplicalation i only do for my first in touch experience with Optimism Chain ",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/",
+      "description": "Commuity Call for Airdrop Hunting and Tesnet Apply"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "OP_STACK"
+  ],
+  "impactDescription": "I'm a crypto neubie and also a airdrop hunter person, i have a small airdrop (tesnet contributors) circle from Ubix Network, Core Chain, BNB Community and ZetaChain. I hope I can bring some of them, who not yet know very well about Optimism into the Optimism Community and also learn and updating our knowlegde about Optimism Chain Ecosystems.",
+  "impactMetrics": [
+    {
+      "description": "1",
+      "number": 1,
+      "url": "https://github.com/"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 20,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0xb9839Deed4862C1C0b5DD5C946ae87A81D7b4aE2",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "Bony Airdrop",
+  "Applicant Type": "INDIVIDUAL",
+  "OSS Directory": "Not Found",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xb9839Deed4862C1C0b5DD5C946ae87A81D7b4aE2.json",
+  "Githubs": "https://github.com/",
+  "Tags": ""
+}

@@ -1,0 +1,44 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://x.com/Zozo29291?t=RpTzPV6icg61N5MMoF3ihg&s=09",
+  "bio": "Crypto enthusiast, early user of OP bridge back in 2021",
+  "contributionDescription": "I've been a early user of OP bridge back in 2021, and never was eligible for the previous rounds, not sure why because i made an early use of the bridge and some Dapps as well during the 1st weeks.\nI must say OP is really simplifying ETH use, i'm pretty confident it will see a growth in users.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://x.com/Zozo29291?t=4FlfgyMLV9MQzQlL1QT8Rw&s=09",
+      "description": "Just my X profile"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "I guess by being an early user, ive been useful for you to develop an even safer environment of DeFi, which i guess is priceless for developers in the early-stages of app-building, i always tried to contribute (at my small level) in blockchain community (ive been early user of Uniswap/Ampleforth/1inch/Pancakeswap/Bifi....and many others blockhaus including Optimism, Fantom, Arbitrum...)\n\nI didnt make any contribution on Github as im only a user.",
+  "impactMetrics": [
+    {
+      "description": "Early user",
+      "number": 1,
+      "url": "https://x.com/Zozo29291?t=4FlfgyMLV9MQzQlL1QT8Rw&s=09"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 1,
+      "description": "I havent been eligible in no airdrops however i think its strange, i contributed"
+    }
+  ],
+  "payoutAddress": "0x5D05d05e8811865C32B0dD726939BeA795B975fF",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "Hyacinthe Gourmelen",
+  "Applicant Type": "INDIVIDUAL",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x5D05d05e8811865C32B0dD726939BeA795B975fF.json",
+  "Githubs": "",
+  "Tags": "END_USER_EXPERIENCE_AND_ADOPTION"
+}

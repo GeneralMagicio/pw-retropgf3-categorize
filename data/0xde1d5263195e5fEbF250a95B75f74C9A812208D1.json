@@ -1,0 +1,40 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "Https:Www.Sierraespunaviva.com",
+  "bio": "Economía ",
+  "contributionDescription": "Tengo pool en velodrome compro token de gobernanta velodrome y también compro token etherium. También he comprado token Fbomb para hacer pool de liquidez. Intento invertir en varios pool eth con Fbomb pero también he hecho pool de velodrome con Fbomb. Con el pool de Fbomb con eth he conseguido rentabilidades de 40 % de apr y con el pool velodrome con Fbomb 150 % apr",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xde1d5263195e5fEbF250a95B75f74C9A812208D1",
+      "description": "Pool en velodrome "
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "Mayor liquidez en el ecosistema optimism mejorando las rentabilidades del sistema creando un lugar más sostenible para el planeta. Además de crear un comercio justo y equilibrado dentro de la capa 2 de etherium al ser más económica y eficaz que la capa principal de eth ",
+  "impactMetrics": [
+    {
+      "description": "Velodrome",
+      "number": 30090,
+      "url": "https://optimistic.etherscan.io/address/0xde1d5263195e5fEbF250a95B75f74C9A812208D1"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0xde1d5263195e5fEbF250a95B75f74C9A812208D1",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "Pedro",
+  "Applicant Type": "INDIVIDUAL",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xde1d5263195e5fEbF250a95B75f74C9A812208D1.json",
+  "Githubs": "",
+  "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK"
+}

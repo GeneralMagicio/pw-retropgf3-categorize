@@ -1,0 +1,45 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://twitter.com/insiderr22",
+  "bio": "In crypto from since 2016, now playing vr games and looking for DAO projects. ",
+  "contributionDescription": "Since childhood I want to govern some state or project. But I saw many vulnerabilities and imperfections in democracy, monarchy or communism. Now We are DAO, and I believe it can work. I can read proposals, thing and decide what which decision gives to community maximum impact. I can meticulously read suspicious proposals and identify scams. I believe in  DAO and believe that this is the best form of management.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://snapshot.org/#/aavegotchi.eth",
+      "description": "in aavegotchi game since beginning, vote, read, win! ;)  "
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "Many people like to write code, some like trade, someone like use products, I love to criticize and look for weaknesses in others' proposals. With me, spending money will be more meaningful and logical. At a minimum, I would like to create a system for screening out all bots and scripts, and introduce a system for receiving drops only for real humans.",
+  "impactMetrics": [
+    {
+      "description": "#daowin",
+      "number": 42,
+      "url": "https://snapshot.org/#/opcollective.eth"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 1000000,
+      "description": "million be enough, to motivate me to visit the site for six days in a week ;)"
+    }
+  ],
+  "payoutAddress": "0x730CA23bcd88802Da1E19766DB0A98E005D8Fda1",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "https://twitter.com/insiderr22",
+  "Applicant Type": "INDIVIDUAL",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x730CA23bcd88802Da1E19766DB0A98E005D8Fda1.json",
+  "Githubs": "",
+  "Tags": "COLLECTIVE_GOVERNANCE, END_USER_EXPERIENCE_AND_ADOPTION"
+}

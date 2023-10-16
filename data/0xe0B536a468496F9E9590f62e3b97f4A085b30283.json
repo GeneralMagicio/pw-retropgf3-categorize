@@ -1,0 +1,40 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "Https://twitter.com/zullachan",
+  "bio": "Early adopter",
+  "contributionDescription": "Fantastic project with great potential. I am enthusiastic to participate in this and also support it. Literally, this giveaway means everything for me, for us, the community!! Let's make it guys, together WAGMI !!! But I'm an active user of Op protocols. Why is my wallet not on the list pls?",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/anotherplnt/optimism",
+      "description": "Optimism"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "Fantastic project with great potential. I am enthusiastic to participate in this and also support it. Literally, this giveaway means everything for me, for us, the community!! Let's make it guys, together WAGMI !!! But I'm an active user of Op protocols. Why is my wallet not on the list pls?",
+  "impactMetrics": [
+    {
+      "description": "Op",
+      "number": 420,
+      "url": "https://github.com/anotherplnt/optimism"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x3964F52Bee31b0Ed56C64FD83C050223D2149d9c",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "zoldyx",
+  "Applicant Type": "INDIVIDUAL",
+  "OSS Directory": "Not Found",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xe0B536a468496F9E9590f62e3b97f4A085b30283.json",
+  "Githubs": "https://github.com/anotherplnt/optimism",
+  "Tags": ""
+}

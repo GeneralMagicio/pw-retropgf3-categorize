@@ -1,0 +1,40 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://twitter.com/VitalikSerbina",
+  "bio": "happy jester",
+  "contributionDescription": "bridge                                                                                                                                                                                                                                               \n                        ",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://etherscan.io/address/0x9BB0301B970B182A273Ecb380027E4BE0Efd5553",
+      "description": "gm"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "                                                                                                                                                                                                    n                                                                      ",
+  "impactMetrics": [
+    {
+      "description": "76",
+      "number": 1,
+      "url": "https://etherscan.io/address/0x9BB0301B970B182A273Ecb380027E4BE0Efd5553"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x9BB0301B970B182A273Ecb380027E4BE0Efd5553",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "Vitalik",
+  "Applicant Type": "INDIVIDUAL",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x9BB0301B970B182A273Ecb380027E4BE0Efd5553.json",
+  "Githubs": "",
+  "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK"
+}

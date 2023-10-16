@@ -1,0 +1,66 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://sourcify.dev",
+  "bio": "Decentralized and open-source Solidity contract source code verification service",
+  "contributionDescription": "Sourcify provides an open-source alternative to existing proprietary source code verification tools for contracts\n\nAnyone can run their own Sourcify to trustlessly verify contracts. It's also a knowledge-gathering point for verification, whereas with close source tools, the learnings in verification and the exceptions that need to be handled are not shared with the community.\n\nThe data is open. You don't need to scrape to bulk download contracts. The contract repository is published to IPFS and S3 buckets regularly. \n\nSourcify also aims to foster the \"full matches\" with contract metadata hashes. This ensures cryptographic guarantees for the exactness of the contract. It's nicely demonstrated at playground.sourcify.dev.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/ethereum/sourcify",
+      "description": "Main Sourcify monorepo"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/sourcifyeth",
+      "description": "Auxilliary repo"
+    }
+  ],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "We are raising awareness on several fronts:\n- Easy and open access to verified smart contracts\n- Benefits of Solidity's contract metadata and its appended hash in the onchain bytecode\n- Centralization in source code verification tools and providing alternatives\n\nWe support 109 EVM chains, among those using OP Stack e.g. OP networks, and Base. We also \"monitor\" those networks to catch contract creations and verify automatically if the source code is published on IPFS.",
+  "impactMetrics": [
+    {
+      "description": "Verified Contracts on OP Mainnet",
+      "number": 2713,
+      "url": "https://repo.sourcify.dev/stats.json"
+    },
+    {
+      "description": "Verified Contracts on OP Goerli",
+      "number": 3676,
+      "url": "https://repo.sourcify.dev/stats.json"
+    },
+    {
+      "description": "Verified Contracts on Base Testnet",
+      "number": 46013,
+      "url": "https://repo.sourcify.dev/stats.json"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 30.74366,
+      "description": ""
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 200000,
+      "description": "(rough num) It's an Ethereum Foundation project. Main contributors EF employed"
+    }
+  ],
+  "payoutAddress": "0x92347362ACc955A6f3Dc7F9D34945AAaC944FFBF",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "Sourcify",
+  "Applicant Type": "PROJECT",
+  "OSS Directory": "Github Found",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x92347362ACc955A6f3Dc7F9D34945AAaC944FFBF.json",
+  "Githubs": "https://github.com/ethereum/sourcify, https://github.com/sourcifyeth",
+  "Tags": ""
+}

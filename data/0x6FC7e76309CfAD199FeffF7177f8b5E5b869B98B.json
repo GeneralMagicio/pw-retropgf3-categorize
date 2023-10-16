@@ -1,0 +1,45 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://www.wizkidayo.com",
+  "bio": "Young Boy involved in Cryptocurrency and OPtimism Blockchain",
+  "contributionDescription": "Got involved in Optimism 1 airdrop, Got involved in GRAIN token which was launched under Optimism. Minted BASE nfts under Optimism. Turned on Optimism notifications on Twitter. Hail Optimism as the best L2 on ethereum. Low gas fees and faster transactions. ",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x6fc7e76309cfad199fefff7177f8b5e5b869b98b",
+      "description": "Tried my best with Optimism transactions"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "Introduced OP to few of my friends, Got involved in Optimism airdrops like GRAIN and PIKA protocol. Got involved in Optimism 1 airdrop, Got involved in GRAIN token which was launched under Optimism. Minted BASE nfts under Optimism. Turned on Optimism notifications on Twitter. Hail Optimism as the best L2 on ethereum. Low gas fees and faster transactions. ",
+  "impactMetrics": [
+    {
+      "description": "No idea about this ",
+      "number": 420,
+      "url": "https://optimistic.etherscan.io/address/0x6fc7e76309cfad199fefff7177f8b5e5b869b98b"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 500,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0x6FC7e76309CfAD199FeffF7177f8b5E5b869B98B",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "Hisoka",
+  "Applicant Type": "PROJECT",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x6FC7e76309CfAD199FeffF7177f8b5E5b869B98B.json",
+  "Githubs": "",
+  "Tags": "COLLECTIVE_GOVERNANCE, END_USER_EXPERIENCE_AND_ADOPTION"
+}

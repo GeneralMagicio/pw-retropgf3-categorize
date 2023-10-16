@@ -1,0 +1,45 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://x.com/gheedhion?t=nhZjz97SJ0qzO6qSEM0dNA&s=09",
+  "bio": "A tech/web3 enthusiast. ",
+  "contributionDescription": "Consider contributing by investing in projects or initiatives that have already demonstrated their value and positive impact through Retroactive Public Goods Funding. Your financial support can help sustain and expand these endeavors, ensuring that resources are channeled to projects with proven worth. This contribution directly aligns with the concept's core principle of funding based on demonstrated outcomes, fostering innovation and accountability in resource allocation. Your investment can play a pivotal role in reshaping economic systems to prioritize efficiency and effectiveness in delivering public goods.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/gheedhion/status/1709967371580956789?t=jD9hsgSgmrdzZTFkyqCxxw&s=19",
+      "description": "Twitter. "
+    }
+  ],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "Consider contributing by investing in projects or initiatives that have already demonstrated their value and positive impact through Retroactive Public Goods Funding. Your financial support can help sustain and expand these endeavors, ensuring that resources are channeled to projects with proven worth. This contribution directly aligns with the concept's core principle of funding based on demonstrated outcomes, fostering innovation and accountability in resource allocation. Your investment can play a pivotal role in reshaping economic systems to prioritize efficiency and effectiveness in delivering public goods.",
+  "impactMetrics": [
+    {
+      "description": "Thread",
+      "number": 2,
+      "url": "https://twitter.com/gheedhion/status/1709967371580956789?t=jD9hsgSgmrdzZTFkyqCxxw&s=19"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 20000,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0xE8849eDCE331e1cC29d8905294D8567f06EDE0fe",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "Gideon",
+  "Applicant Type": "INDIVIDUAL",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xE8849eDCE331e1cC29d8905294D8567f06EDE0fe.json",
+  "Githubs": "",
+  "Tags": "DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION"
+}

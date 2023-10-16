@@ -1,0 +1,45 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://guild.xyz/abis",
+  "bio": "smoker - shitposter",
+  "contributionDescription": "Carry out marketing on various social media such as Twitter, Telegram, Discord and Reddit. To introduce platforms or dapps that are being built and worked on by developers from optimism. With this small thing I can do to introduce optimism to the community ",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://discord.gg/EvSZURMZtT",
+      "description": "Discord"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "Inviting communities on Twitter, Telegram, Discord and Reddit to vote on the government of optimism. With this, the community will hold OP tokens in the long term because they will feel more valuable by owning OP tokens, because with this they can find out the direction of optimistic projects in the future.",
+  "impactMetrics": [
+    {
+      "description": "#💦|og",
+      "number": 1,
+      "url": "https://discord.gg/EvSZURMZtT"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 5000,
+      "description": "from airdrop that I got on various Blockchains "
+    }
+  ],
+  "payoutAddress": "0xc513fb4b979f1CeFC43682CA7aB4A19CEe1caCC2",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "ompong",
+  "Applicant Type": "INDIVIDUAL",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xc513fb4b979f1CeFC43682CA7aB4A19CEe1caCC2.json",
+  "Githubs": "",
+  "Tags": "COLLECTIVE_GOVERNANCE, END_USER_EXPERIENCE_AND_ADOPTION"
+}

@@ -1,0 +1,44 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "http://linkedin.com/in/jr-fitz-campbell-153825a0",
+  "bio": "Crypto is my life, blockchain is my future.",
+  "contributionDescription": "Transaction, such as NFTs, bridge liquidity, use Dapps like arbiter finance, support projects being built on OP. \nFollow and retweet OPs contents on Twitter, explore and continued interaction with OP chain, will continue to collect and support NFTs projects and creators and swap on OP as the community grows.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "http://linkedin.com/in/jr-fitz-campbell-153825a0",
+      "description": "Support Creators and Developers "
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "Brings awareness and creators, Transaction, such as NFTs, bridge liquidity, use Dapps like arbiter finance, support projects being built on OP. \nFollow and retweet OPs contents on Twitter, explore and continued interaction with OP chain, will continue to collect and support NFTs projects and creators and swap on OP as the community grows.",
+  "impactMetrics": [
+    {
+      "description": "NA",
+      "number": 409,
+      "url": "http://linkedin.com/in/jr-fitz-campbell-153825a0"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 409,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0x6a7415B36133C6C3957e4772B8009068e170C648",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "Ethan666.eth",
+  "Applicant Type": "INDIVIDUAL",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x6a7415B36133C6C3957e4772B8009068e170C648.json",
+  "Githubs": "",
+  "Tags": "END_USER_EXPERIENCE_AND_ADOPTION"
+}

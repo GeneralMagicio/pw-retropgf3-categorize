@@ -1,0 +1,38 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://twitter.com/0xAlex_",
+  "bio": "Web3 engineer",
+  "contributionDescription": "I built op-stack-hooks (https://github.com/AlexBHarley/op-stack-hooks) one of the first OP Stack Mods. op-stack-hooks allows registering listeners on the L2 for events that happen on the L1. ie, \n\n- listening and reacting to swaps made on Uniswap\n- permissionless & automated Chainlink feeds on the L2.\n\nThe mod includes changes to op-node, for deriving events and an additional predeploy for registering events.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/AlexBHarley/op-stack-hooks",
+      "description": "The Github repo of the OP Stack Mod."
+    }
+  ],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "OP_STACK"
+  ],
+  "impactDescription": "Acts as a nice demonstration for how OP Stack Mods can be written. Previously the only example I could find was Ticking Optimism (https://stack.optimism.io/docs/build/featured/#ticking-optimism) which is fairly rudimentary. This example shows event parsing, L2 state reads and L2 writes.",
+  "impactMetrics": [
+    {
+      "description": "Github repository",
+      "number": 0,
+      "url": "https://github.com/AlexBHarley/op-stack-hooks"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x4444d38c385d0969C64c4C8f996D7536d16c28B9",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "Alex Harley",
+  "Applicant Type": "INDIVIDUAL",
+  "OSS Directory": "Not Found",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x4444d38c385d0969C64c4C8f996D7536d16c28B9.json",
+  "Githubs": "https://github.com/AlexBHarley/op-stack-hooks",
+  "Tags": ""
+}

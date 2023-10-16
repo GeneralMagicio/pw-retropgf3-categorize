@@ -1,0 +1,46 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://twitter.com/StarVibez702",
+  "bio": "optimism scrub",
+  "contributionDescription": "I'd appreciate contributions to RetroPGF in the form of bug fixes, feature enhancements, documentation improvements, and feedback to help refine and optimize the platform for a better user experience. Your input is invaluable in making RetroPGF more robust and user-friendly.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://twitter.com/StarVibez702",
+      "description": "here"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "\nMy contributions to the Optimism Collective had a significant impact by improving efficiency and collaboration within the team. Through streamlining processes and implementing better communication tools, we saw enhanced productivity and a more cohesive work environment. These changes resulted in increased innovation, better decision-making, and ultimately, a more successful and thriving Optimism Collective.",
+  "impactMetrics": [
+    {
+      "description": "12",
+      "number": 130,
+      "url": "https://twitter.com/StarVibez702"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 10000,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0x5D40451dC574997C61E16C30A5c0E3ada80B8E3B",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "starvibez",
+  "Applicant Type": "INDIVIDUAL",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x5D40451dC574997C61E16C30A5c0E3ada80B8E3B.json",
+  "Githubs": "",
+  "Tags": "COLLECTIVE_GOVERNANCE, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK"
+}

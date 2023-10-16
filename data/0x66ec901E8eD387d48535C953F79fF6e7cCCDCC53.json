@@ -1,0 +1,40 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://twitter.com/LuisviperezLuis",
+  "bio": "I am an enthusiast of the crypto world. I am a Test pilot of the crypto world.",
+  "contributionDescription": "I have tried different betting apps, swaps, lending, staking. I have generated volume on the network and have spread them via social networks, Twitter, Instagram, Facebook and others, making the crypto community grow and making the decentralized world more reliable and transparent.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://etherscan.io/address/0x66ec901E8eD387d48535C953F79fF6e7cCCDCC53",
+      "description": "movements"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "I have tried different betting apps, swaps, lending, staking. I have generated volume on the network and have spread them via social networks, Twitter, Instagram, Facebook and others, making the crypto community grow and making the decentralized world more reliable and transparent.",
+  "impactMetrics": [
+    {
+      "description": "movements",
+      "number": 1,
+      "url": "https://etherscan.io/address/0x66ec901E8eD387d48535C953F79fF6e7cCCDCC53"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x66ec901E8eD387d48535C953F79fF6e7cCCDCC53",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "Luisvi",
+  "Applicant Type": "INDIVIDUAL",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x66ec901E8eD387d48535C953F79fF6e7cCCDCC53.json",
+  "Githubs": "",
+  "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK"
+}

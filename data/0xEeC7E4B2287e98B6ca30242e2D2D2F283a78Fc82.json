@@ -1,0 +1,48 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://forumdaos.com",
+  "bio": "The home of multiplayer crypto - manage any crypto group from an XMTP group chat",
+  "contributionDescription": "Forum Passkey Wallet:\n\n- In April this year we were the first team to launch a passkey wallet to a mainnet (Polygon for cheapest gas, since p256 signatures were expensive).\n\n- We are active members of the Account Abstraction & ERC-4337 communities, and regularly assist other teams with information regarding passkeys, webauthn, and ERC-4337 accounts.\n\n- Our contracts are open source, this includes our individual & group ERC-4337 passkey wallets, and all of our test utils for generating passkey signatures in Foundry. These tests are regularly shared in the 4337 mafia telegram group, and are used by a number of teams in the AA/Modular Account space.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/forumdaos/forum-contracts",
+      "description": "Our open source ERC-4337 Passkey contracts."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/nnnnicholas/status/1707783320862421241?s=20",
+      "description": "Galaxy Brain podcast explaining latest in passkeys, large blob, and webauthn"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/forumdaos/status/1653755763976749056",
+      "description": "Direct transfer to Farcaster profiles"
+    }
+  ],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "- Our contracts and ERC-4337 passkey tests have been quoted dozens of times in the 4337 Mafia, Web Sessions, and Modular Accounts Telegram chats. \n\n- Our connect with Farcaster feature generated 500+ signups. These profiles have the option to deploy an ERC-4337 passkey account.",
+  "impactMetrics": [
+    {
+      "description": "# stars on github",
+      "number": 11,
+      "url": "https://github.com/forumdaos/forum-contracts"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0xEeC7E4B2287e98B6ca30242e2D2D2F283a78Fc82",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "Forum",
+  "Applicant Type": "PROJECT",
+  "OSS Directory": "Not Found",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xEeC7E4B2287e98B6ca30242e2D2D2F283a78Fc82.json",
+  "Githubs": "https://github.com/forumdaos/forum-contracts",
+  "Tags": ""
+}

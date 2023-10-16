@@ -1,0 +1,37 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://twitter.com/0xNing0x",
+  "bio": "Crypto analyst dedicated to knowledge sharing.",
+  "contributionDescription": "I have written an educational piece for the Optimism Collective, providing in-depth insights into important Optimism Collective concepts. I believe that this information will be instrumental in understanding the development of Optimism,OP Stack and other cryptocurrency technologies.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/0xNing0x/status/1695307062392283602",
+      "description": "Twitter"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "I have written an educational piece for the Optimism Collective, providing in-depth insights into important Optimism Collective concepts. I believe that this information will be instrumental in understanding the development of Optimism,OP Stack and other cryptocurrency technologies.",
+  "impactMetrics": [
+    {
+      "description": "Twitter Impression",
+      "number": 80000,
+      "url": "https://twitter.com/0xNing0x/status/1695307062392283602"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x99B10bed6b630a1d60109b28dd2373696A79917C",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "NingNing",
+  "Applicant Type": "INDIVIDUAL",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x99B10bed6b630a1d60109b28dd2373696A79917C.json",
+  "Githubs": "",
+  "Tags": "END_USER_EXPERIENCE_AND_ADOPTION"
+}

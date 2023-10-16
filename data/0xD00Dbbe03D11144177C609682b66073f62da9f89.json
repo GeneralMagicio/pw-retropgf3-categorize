@@ -1,0 +1,45 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "Https.://www.twitter.com/Rizkyalpasha2",
+  "bio": "Be yourself ",
+  "contributionDescription": "make any contribution that always builds a solid community, whatever it is, always be ready to be together..give each other positive input and encouragement so that we can move forward together.\nWhatever is given, I am still very grateful, because the optimism chain will always be in my heart forever. Joining as one of the supporters is already an honor for me.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://twitter.com/Rizkyalpasha2",
+      "description": "My identity"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "OP_STACK"
+  ],
+  "impactDescription": "spreading positive values for all who participate, unite to foster.\npositive feedback, making the community more accessible to all people, I will maximize my performance in this regard.It is an honor for me personally to be involved in this contribution.",
+  "impactMetrics": [
+    {
+      "description": "1",
+      "number": 2,
+      "url": "Https://ww.com"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 100,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0xD00Dbbe03D11144177C609682b66073f62da9f89",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "Asian crypto",
+  "Applicant Type": "PROJECT",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xD00Dbbe03D11144177C609682b66073f62da9f89.json",
+  "Githubs": "",
+  "Tags": "COLLECTIVE_GOVERNANCE, OP_STACK"
+}

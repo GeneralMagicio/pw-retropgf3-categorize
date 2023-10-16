@@ -1,0 +1,44 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://app.openxswap.exchange/",
+  "bio": "We write smart contracts that facilitate the open exchange of ideas and value.",
+  "contributionDescription": "This submission is for our NFT Market. Its contracts allow for any ERC20 to be exchanged for any ERC721. To our knowledge there are no other contracts on Optimism, or on any chain, that allow this functionality. We addressed UI / UX issues voiced by Optimism users, particularly for veNFTs. The fee (1%) is the lowest among all NFT Markets on Optimism. ",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x7590c1aa03b6ac395e62b2a8b382272e4e1e823d",
+      "description": "NFT Market Contract (Etherscan)"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "Most NFTs are exchanged for ETH, a volatile currency. This volatility inhibits price discovery by inextricably tying the value of an NFT to the value of ETH. Vote-escrowed NFTs, which tokenize the value of a governance position in projects like Solidly and Velodrome, add an additional (often volatile) token to this equation. \n\nThe market struggled to evaluate these positions in ETH. By allowing listings in stables, sellers can fix a stable floor price; allowing listings in the underlying token, e.g., listings of veVELO for VELO, the seller creates a zero-slippage offer - if VELO's price moves, the price of veVELO necessarily follows as veVELO is VELO (albeit vote-escrowed). \n\nSince its launch, our NFT Market volume is several times the volume of all other NFT Markets on Optimism combined. ",
+  "impactMetrics": [
+    {
+      "description": "Total Volume on OP + BASE (in USD)",
+      "number": 500000,
+      "url": "https://optimistic.etherscan.io/address/0x7590c1aa03b6ac395e62b2a8b382272e4e1e823d"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 5000,
+      "description": "Our fee goes toward operational costs. We've never received a grant."
+    }
+  ],
+  "payoutAddress": "0x8C69330B0a40ef18f81832446D238311194FE8B8",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "The Open X Project",
+  "Applicant Type": "PROJECT",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xb4a16728A270c0A9d57521926FBfb52dA28fb28D.json",
+  "Githubs": "",
+  "Tags": "END_USER_EXPERIENCE_AND_ADOPTION"
+}

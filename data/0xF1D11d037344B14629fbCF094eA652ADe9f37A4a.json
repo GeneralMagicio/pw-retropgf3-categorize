@@ -1,0 +1,59 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://twitter.com/R0meji",
+  "bio": "Just its me :D",
+  "contributionDescription": "I've translated about 42 articles from the Optimism blog, which you can read on my medium : \nhttps://medium.com/@Romeji/list/optimism-france-947c184fb663\n\nI've made a few twitter threads about optimism technology: https://x.com/R0meji/status/1703090598675104184?s=20",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://medium.com/@Romeji/list/optimism-france-947c184fb663",
+      "description": "Medium where I translated the Optimism articles"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/R0meji/status/1703090598675104184?s=20",
+      "description": "Twitter thread"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "My job is to help new users understand Optimism's technology, I've translated over 40 blog articles into French and I've created several twitter threads, my content has allowed the French Optimism community who don't speak English well to understand and follow Optimism's evolution through the different translated blog articles. \n",
+  "impactMetrics": [
+    {
+      "description": "translated blog posts ",
+      "number": 42,
+      "url": "https://medium.com/@Romeji/list/optimism-france-947c184fb663"
+    },
+    {
+      "description": "articles viewed since the beginning year",
+      "number": 286,
+      "url": "https://postimg.cc/kVnyndhL"
+    },
+    {
+      "description": "views ",
+      "number": 73,
+      "url": "https://twitter.com/R0meji/status/1703090598675104184"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 1,
+      "description": "I've never had any income from my work"
+    }
+  ],
+  "payoutAddress": "0xF1D11d037344B14629fbCF094eA652ADe9f37A4a",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "romeji",
+  "Applicant Type": "INDIVIDUAL",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xF1D11d037344B14629fbCF094eA652ADe9f37A4a.json",
+  "Githubs": "",
+  "Tags": "END_USER_EXPERIENCE_AND_ADOPTION"
+}

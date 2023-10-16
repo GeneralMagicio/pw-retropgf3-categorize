@@ -1,0 +1,37 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://zora.co/collect/base:0xdf10f5274e52cb71a0bd5a9176ad271cdc38892c",
+  "bio": "​XOXO is a collection of 5,555 women NFTs living on Base blockchain.",
+  "contributionDescription": "The Ideology Behind XOXO\nThe digital realm is vast, filled with countless creators and developers. Among them, women have been at the forefront, pushing boundaries, and redefining the landscape of web3. However, their contributions often go unnoticed or overshadowed. XOXO aims to change that narrative.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://zora.co/collect/base:0xdf10f5274e52cb71a0bd5a9176ad271cdc38892c",
+      "description": "XOXO celebrates the women in the web3 space."
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "The Ideology Behind XOXO\nThe digital realm is vast, filled with countless creators and developers. Among them, women have been at the forefront, pushing boundaries, and redefining the landscape of web3. However, their contributions often go unnoticed or overshadowed. XOXO aims to change that narrative.",
+  "impactMetrics": [
+    {
+      "description": "Free Mint",
+      "number": 5555,
+      "url": "https://zora.co/collect/base:0xdf10f5274e52cb71a0bd5a9176ad271cdc38892c"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x1eF889562C00Fc984Cf9A5903C98fa11761142E9",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "XOXO",
+  "Applicant Type": "PROJECT",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x1eF889562C00Fc984Cf9A5903C98fa11761142E9.json",
+  "Githubs": "",
+  "Tags": "END_USER_EXPERIENCE_AND_ADOPTION"
+}

@@ -1,0 +1,44 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://x.com/abkkumo67?t=0N8d9-V-2fgeYTfLFDv3rw&s=09",
+  "bio": "A blockchain researcher ",
+  "contributionDescription": "The optimist pursues their goals on a longer timeline than the pessimist. The ability to decide what you want in the future, hold the vision in your mind, delay gratification, and consistently act under your goals will lead to success, even if it takes time.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://x.com/abkkumo67?t=TqefrM9NYAZtbj-cnaASDw&s=09",
+      "description": "Research in Blockchain Technologies "
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "When planning to give feedback to an employee, communicate regularly about what feedback conversations will look like and how they relate to other processes at your organization, including compensation adjustments. With stress levels as high as they are worldwide, employees will appreciate the extra communication so they can know what lies ahead.",
+  "impactMetrics": [
+    {
+      "description": "Group of People ",
+      "number": 544,
+      "url": "https://www.facebook.com/profile.php?id=100066907075522"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 162,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0xc509ae016d87defbb6240807fe9f9bfc256ef3ea",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "Abkkumo67",
+  "Applicant Type": "INDIVIDUAL",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xc509ae016D87DefBB6240807FE9f9BfC256EF3eA.json",
+  "Githubs": "",
+  "Tags": "END_USER_EXPERIENCE_AND_ADOPTION"
+}

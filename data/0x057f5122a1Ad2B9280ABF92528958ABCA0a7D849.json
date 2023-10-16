@@ -1,0 +1,44 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://twitter.com/anwaralad007",
+  "bio": "i am a legend",
+  "contributionDescription": "i delegated optimism and i do more transaction, and also i done quest 1,i do more swap,i missed airdrop 1 and i got 10+ op in airdrop 2...but now i contributed more to get airdrop 3...i already try demo  rpgf...now finally i submitted the application",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://app.optimism.io/delegates",
+      "description": "op delegated"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
+  "impactDescription": "i delegated optimism and i do more transaction, and also i done quest 1,i do more swap,i missed airdrop 1 and i got 10+ op in airdrop 2...but now i contributed more to get airdrop 3...i already try demo  rpgf...now finally i submitted the application",
+  "impactMetrics": [
+    {
+      "description": "nft collective quest 1",
+      "number": 14,
+      "url": "https://app.optimism.io/quests"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 16,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0x057f5122a1Ad2B9280ABF92528958ABCA0a7D849",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "alavudeen",
+  "Applicant Type": "INDIVIDUAL",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x057f5122a1Ad2B9280ABF92528958ABCA0a7D849.json",
+  "Githubs": "",
+  "Tags": "COLLECTIVE_GOVERNANCE"
+}

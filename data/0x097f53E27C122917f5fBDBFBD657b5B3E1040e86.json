@@ -1,0 +1,40 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://www.gomezcrypto.com",
+  "bio": "Crypto Enthusiast divulgating Crypto in Latinamerica",
+  "contributionDescription": "I'm promoting optimism in my network as well doing a lot of educational work what kind op project optimism is. Im also working on Youtube explaining the Problems that will be solved with the aid of this project. Furthermore i did a huge work convincing people why optimism will be the new star in the next bullrun. ",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://www.gomez.com",
+      "description": "Crypto latino1"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "My work had increase the persons which invests in Optimism and give them an understanding of the project. Im convinced that my expertise in optimism will help investors to know why this project is different to other crypto projects.......................\n....\n\n\n",
+  "impactMetrics": [
+    {
+      "description": "Data dashboards",
+      "number": 420,
+      "url": "https://www.gomez.com "
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x097f53E27C122917f5fBDBFBD657b5B3E1040e86",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "Joe",
+  "Applicant Type": "INDIVIDUAL",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x097f53E27C122917f5fBDBFBD657b5B3E1040e86.json",
+  "Githubs": "",
+  "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK"
+}

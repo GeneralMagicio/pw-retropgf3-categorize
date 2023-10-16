@@ -1,0 +1,44 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://ruslangalba.com",
+  "bio": "I'm crypto inthusiast and investor",
+  "contributionDescription": "I'm a crypto enthusiast and learn how to use the new crypto tools. I also invest heavily in growth of crypto by buying coins and participating in layer3, galxe and other campaigns. I and my partner are supporting Optimism by buying OP and planning to delegate it to voters on Tally.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://t.me/hustle365",
+      "description": "My telegram channel"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "I'm sharing about Optimism in my community on Telegram and with friends. A lot of them are investing heavily in Optimism and support delegation protocols. Also, I encourage them to share the word about Optimism through their influencer network. Hope that helps!",
+  "impactMetrics": [
+    {
+      "description": "Subscribers on Telegram",
+      "number": 4150,
+      "url": "https://t.me/hustle365"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 0,
+      "description": "Didn't get anything yet"
+    }
+  ],
+  "payoutAddress": "0x05B938467c7009733719c48410D6Fd939A320271",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "iamgalba",
+  "Applicant Type": "INDIVIDUAL",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x05B938467c7009733719c48410D6Fd939A320271.json",
+  "Githubs": "",
+  "Tags": "END_USER_EXPERIENCE_AND_ADOPTION"
+}

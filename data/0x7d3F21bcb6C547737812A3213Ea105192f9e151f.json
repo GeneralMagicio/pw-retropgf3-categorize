@@ -1,0 +1,37 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://www.rollup.codes/",
+  "bio": "Rollup codes is an interactive reference specification for the rollup ecosystem.",
+  "contributionDescription": "Rollup.codes serves as an open-source developer tool, providing devs with clarity on the differences between various rollups and their stacks. The website gives information on gas costs, custom precompiles, native precompiles support, system contracts, properties of the native L1 ⇔ L2 messaging protocol provided by the given rollup.\n\nCurrently, rollup.codes supports Optimism, Arbitrum, Polygon zkEVM and zkSync.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://www.rollup.codes/",
+      "description": "Interactive Reference Specification for the rollups ecosystem."
+    }
+  ],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
+  "impactDescription": "EVM implementations in rollups are not the same. There is no single EVM standard and each rollup has its specifics and intricacies, such as custom precompiles, opcodes etc.\n\nFor rollup developers, this info is usually hard to find and they have to dive deep into the rollups codebase, as documentation is more often than not - unsatisfactory. Rollup.codes is a comprehensive website showcasing each rollup's most important developers' information. Our goal is for it to become the go-to place for rollup developers.\n\nRollup.codes helps developers leveraging the OP stack understand the differences between the OP stack and the Ethereum EVM, as well as between the OP stack and other rollups.\n\nSince launch, we've had 1100 unique users over the past 2.5 months.",
+  "impactMetrics": [
+    {
+      "description": "# of unique users",
+      "number": 1100,
+      "url": "https://docs.google.com/spreadsheets/d/1PaAivbuX7tzK5ITifZFd7GU2aeABCZ-ZrZqxkS4HA0E/edit?usp=sharing"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x6eDf76FD16Bb290A544fDc14fBB4b403D1DEeD9f",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "Rollup.codes",
+  "Applicant Type": "PROJECT",
+  "OSS Directory": "Address Found",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x7d3F21bcb6C547737812A3213Ea105192f9e151f.json",
+  "Githubs": "",
+  "Tags": ""
+}

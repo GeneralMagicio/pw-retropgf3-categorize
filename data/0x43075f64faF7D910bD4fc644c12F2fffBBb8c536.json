@@ -1,0 +1,43 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://t.me/+EzJIMyD0Ov02YzU0",
+  "bio": "I offering tutorials with telegram on testnets for new projects and blockchains",
+  "contributionDescription": "I give tutorial, informations on new blockchain projects and quest/tutorial airdrop on telegram and show stepby step how to add a contract on blockchain with remix.\nI m also a testing user for applications like Oyabum on Optimism chain. \nI also help my followers vote for governance by reminding them of important events.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/tx/0x397b62a77f1ff9100f6baa7220f68ce42deec41cac8178ea855268c429165014",
+      "description": "Show the op network with action button"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://t.me/+EzJIMyD0Ov02YzU0",
+      "description": "Invitation Link Telegram blairdrop group"
+    }
+  ],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "My goal is to introduce my followers to blockchain ecosystems like optimism through twitter and telegram posts (quests, contract creation on remix, airdrop, important news...). The user are more update on usecase for OP blockchain so users don't forget to vote for gouvernance and can follow by themself Optimism.",
+  "impactMetrics": [
+    {
+      "description": "twitter follower",
+      "number": 477,
+      "url": "https://twitter.com/sporapok/verified_followers"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x43075f64faF7D910bD4fc644c12F2fffBBb8c536",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "sporapok",
+  "Applicant Type": "INDIVIDUAL",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x43075f64faF7D910bD4fc644c12F2fffBBb8c536.json",
+  "Githubs": "",
+  "Tags": "DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION"
+}

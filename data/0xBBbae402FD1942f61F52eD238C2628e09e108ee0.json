@@ -1,0 +1,44 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://www.bybit.com/en/invite?ref=R295NW",
+  "bio": "I love project ",
+  "contributionDescription": "I will actively vote for the admin, I will do the tasks required by the project, I will actively use the network and give feedback, if I have a good idea I will propose it to the board, I will continue the discussion.  My rich journey in the crypto market",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://accounts.binance.me/en/register?ref=178788173",
+      "description": "Binance"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "My contributions are very important to cryptocurrency, it gives the public quick and easier access, many great things about the cryptocurrency market are waiting for everyone to discover, expand the scale and increase the influence.  Enjoying links with large organizations, cryptocurrencies will grow stronger over time",
+  "impactMetrics": [
+    {
+      "description": "Binance",
+      "number": 100,
+      "url": "https://accounts.binance.me/en/register?ref=178788173"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 776,
+      "description": "airdrop"
+    }
+  ],
+  "payoutAddress": "0xBBbae402FD1942f61F52eD238C2628e09e108ee0",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "Thuc",
+  "Applicant Type": "INDIVIDUAL",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xBBbae402FD1942f61F52eD238C2628e09e108ee0.json",
+  "Githubs": "",
+  "Tags": "END_USER_EXPERIENCE_AND_ADOPTION"
+}

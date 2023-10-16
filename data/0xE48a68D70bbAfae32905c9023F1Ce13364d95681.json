@@ -1,0 +1,45 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://medium.com/@oyerindekolade/everything-you-should-know-on-optimism-retro-pgf-6c6088c93072",
+  "bio": "Crypto Enthusiast",
+  "contributionDescription": "I'm seeking RetroPGF for my contributions in creating educational content, fostering community engagement, and supporting the growth of the Optimism ecosystem through written materials. These efforts have expanded awareness, increased adoption, and contributed to the overall development of Optimism.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://medium.com/@oyerindekolade/everything-you-should-know-on-optimism-retro-pgf-6c6088c93072",
+      "description": "what you need to know about Retro PGF"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "my contribution plays a vital role in advancing Optimism's goals, from awareness and community building to technology adoption and ecosystem development.\nIncreasing Awareness: my content educates others about Optimism, expanding its reach and fostering understanding.\nCommunity Growth: It attracts more users, developers, and contributors, bolstering the Optimism community.",
+  "impactMetrics": [
+    {
+      "description": "thread",
+      "number": 3,
+      "url": "https://medium.com/@oyerindekolade/everything-you-should-know-on-optimism-retro-pgf-6c6088c93072"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 20000,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0xE48a68D70bbAfae32905c9023F1Ce13364d95681",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "kolade",
+  "Applicant Type": "INDIVIDUAL",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xE48a68D70bbAfae32905c9023F1Ce13364d95681.json",
+  "Githubs": "",
+  "Tags": "END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK"
+}

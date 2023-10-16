@@ -1,0 +1,40 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://x.com/IfySucre11/status/1161053769167253504?s=20",
+  "bio": "Billions",
+  "contributionDescription": "Using the blockchain to transfer from one wallet to another and i also used it bridge funds from the ethereum blockchain to arbitrum and then bridged to optimism.\nIt was a smooth operation for me. \nI would recommend optimism to others in the near future\n",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/ifysucre/coding-sugar/fork",
+      "description": "Github"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "Increased the block height through my active and consistent participation on both the testnet and mainnet. \n\nI would highly recommend optimism to serious minded people in the near future so that their blockchain experience turns out to be an amazing one.\nIn the near future, I want more people to use optimism. It is so amazing.\n",
+  "impactMetrics": [
+    {
+      "description": "github",
+      "number": 2,
+      "url": "ttps://github.com/ifysucre/coding-sugar/fork"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x74727b3843c498e41CC1A93c26c8F700B966aB9b",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "Aguila",
+  "Applicant Type": "INDIVIDUAL",
+  "OSS Directory": "Not Found",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x74727b3843c498e41CC1A93c26c8F700B966aB9b.json",
+  "Githubs": "https://github.com/ifysucre/coding-sugar/fork",
+  "Tags": ""
+}

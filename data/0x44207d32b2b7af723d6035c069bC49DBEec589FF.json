@@ -1,0 +1,45 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://twitter.com/seanmeta007",
+  "bio": "X",
+  "contributionDescription": "web3 developer, enthusiasm, optimism,\nOn-chain interaction, voting, promotion, problem feedback\nweb3 developer, enthusiasm, optimism,\nOn-chain interaction, voting, promotion, problem feedback\nweb3 developer, enthusiasm, optimism,\nOn-chain interaction, voting, promotion, problem feedback\nweb3 developer, enthusiasm, optimism,\nOn-chain interaction, voting, promotion, problem feedback",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://app.velodrome.finance/",
+      "description": "On-chain interaction"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "web3 developer, enthusiasm, optimism,\nOn-chain interaction, voting, promotion, problem feedback\nweb3 developer, enthusiasm, optimism,\nOn-chain interaction, voting, promotion, problem feedback\nweb3 developer, enthusiasm, optimism,\nOn-chain interaction, voting, promotion, problem feedback\nweb3 developer, enthusiasm, optimism,\nOn-chain interaction, voting, promotion, problem feedback",
+  "impactMetrics": [
+    {
+      "description": "On-chain interaction",
+      "number": 100000,
+      "url": "https://app.velodrome.finance/"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 1000,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0x44207d32b2b7af723d6035c069bC49DBEec589FF",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "shisean",
+  "Applicant Type": "INDIVIDUAL",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x44207d32b2b7af723d6035c069bC49DBEec589FF.json",
+  "Githubs": "",
+  "Tags": "COLLECTIVE_GOVERNANCE, END_USER_EXPERIENCE_AND_ADOPTION"
+}

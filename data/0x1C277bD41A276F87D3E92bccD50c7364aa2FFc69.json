@@ -1,0 +1,58 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://apeworx.io",
+  "bio": "Smart contract devtool for Pythonistas, Data Scientists & Security Professionals",
+  "contributionDescription": "Ape maintains an Optimism plugin, which allows developers using our framework to interact with Optimism and OP Stack-based networks easily, safely, and reliably. We will continue to maintain the Optimism plugin, improving it's functionality to make it as useful as possible for our community, including supporting our own product activities where Optimism is our primary deployment network.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x3543faeeddb7babcbbb216b3627f9c5e0c39ce41#code",
+      "description": "Deployment of our ApePay StreamManager, where users can pay for our products"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/ApeWorX/ape-optimism",
+      "description": "Ecosystem plugin for Optimism"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/ApeWorX/ape-base",
+      "description": "Ecosystem plugin for Base (an OP stack chain)"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/ApeWorX/ape",
+      "description": "The core Ape Framework repository"
+    }
+  ],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "OP_STACK"
+  ],
+  "impactDescription": "We've supported a large portion of our developer community that uses or interactions with Optimism frequently, one of our most widely-used ecosystem plugins (outside of Ethereum). Major projects are using it for production capabilties, including Yearn and Curve.",
+  "impactMetrics": [
+    {
+      "description": "Downloads per Month",
+      "number": 4576,
+      "url": "https://pypistats.org/packages/ape-optimism"
+    },
+    {
+      "description": "Projects using Ape",
+      "number": 230,
+      "url": "https://github.com/ApeWorX/ape/network/dependents"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x070143e489aa791C10b3b39c7CAdf45c36BA9e60",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "ApeWorX LTD",
+  "Applicant Type": "PROJECT",
+  "OSS Directory": "Github Found",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x1C277bD41A276F87D3E92bccD50c7364aa2FFc69.json",
+  "Githubs": "https://github.com/ApeWorX/ape-optimism, https://github.com/ApeWorX/ape-base, https://github.com/ApeWorX/ape",
+  "Tags": ""
+}

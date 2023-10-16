@@ -1,0 +1,37 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://twitter.com/GoktugClkl",
+  "bio": "good",
+  "contributionDescription": "Bir aile pikniği dönüşüydü. Uzun yıllardır görüşmediğimiz, okumuş, belli bir mevkiye gelmiş yakın bir akrabamız da bizimleydi. Politik konular üzerine konuşurken ne iş yaptığımı merak etti ve Gerçek Hayat’ta çalıştığımı söyleyince, “dağıtımını mı yapıyorsun” diye sordu. “Hayır, derginin kendisinde..” diyebilmiştim mahcup bir edayla. “Ben de abonesiyim” demişti ama sanırım abonesi olduğu o dergide çalışıyor olmamı bana bir türlü konduramıyordu.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://twitter.com/GoktugClkl",
+      "description": "0xe6C96653847653102471Cd84135dEc131B2622f3"
+    }
+  ],
+  "impactCategory": [
+    "OP_STACK"
+  ],
+  "impactDescription": "Bir aile pikniği dönüşüydü. Uzun yıllardır görüşmediğimiz, okumuş, belli bir mevkiye gelmiş yakın bir akrabamız da bizimleydi. Politik konular üzerine konuşurken ne iş yaptığımı merak etti ve Gerçek Hayat’ta çalıştığımı söyleyince, “dağıtımını mı yapıyorsun” diye sordu. “Hayır, derginin kendisinde..” diyebilmiştim mahcup bir edayla. “Ben de abonesiyim” demişti ama sanırım abonesi olduğu o dergide çalışıyor olmamı bana bir türlü konduramıyordu.",
+  "impactMetrics": [
+    {
+      "description": "s",
+      "number": 1,
+      "url": "https://twitter.com/GoktugClkl"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0xe6C96653847653102471Cd84135dEc131B2622f3",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "nht23",
+  "Applicant Type": "PROJECT",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xe6C96653847653102471Cd84135dEc131B2622f3.json",
+  "Githubs": "",
+  "Tags": "OP_STACK"
+}

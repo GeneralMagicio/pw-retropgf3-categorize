@@ -1,0 +1,137 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://twitter.com/wehack247",
+  "bio": "Jessy’s Hacker House supports a strong community of builders",
+  "contributionDescription": "Jessy's hacker house is a beacon for engineers and innovators in the Ethereum ecosystem, offering a supportive community to navigate this niche industry. We prioritize our residents, fostering an environment where they can collaborate, learn, and form lasting bonds. Our rigorous selection process ensures we house genuine, curious, and resourceful individuals. We view our houses as a public good, never compromising our values for monetary gain. Living and hacking together fosters deeper connections than casual meetups. We value obsession, genuine curiosity, and resourcefulness. We will include a list of all projects built by our residents.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/primitivefinance/arbiter",
+      "description": "EVM Logic simulator"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/cairoeth/arbx",
+      "description": "cross-chain arbitrage protocol"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/laudiacay/barustenberg",
+      "description": "barretenburg in rust"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/SorellaLabs/ethers-reth",
+      "description": "in memory middleware for reth"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/paradigmxyz/reth/issues/3428",
+      "description": "Reth Prunning"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/bluealloy/revm",
+      "description": "Work on eip4844 for revm "
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://t.co/IesndP2MsK",
+      "description": "Ring buffer in solidity (Made for optimism)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://docs.google.com/document/d/1jB4cmZv42zrsJC4rMgP9gxxyAvrppG5N9lMqzBilOHw/edit",
+      "description": "SF Blockchain week Projects"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://docs.google.com/document/d/1623r02lsVcg-LEpjbaQ6OlRbORSqUEw03fSbHehaL6E/edit",
+      "description": "Devcon Projects"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/watch?v=RMmJXIxZBUE",
+      "description": "Paris video"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.notion.so/Zoomer-House-00cc170b59414fde82fafb17f7dc9bec",
+      "description": "First house"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://roamresearch.com/#/app/zoomer/page/6Z2X2Ais5",
+      "description": "Podcast link"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/watch?v=CL-AfuyKj0c",
+      "description": "AMS Video"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://twitter.com/wehack247",
+      "description": "Many more projects can be found linked here in our twitter"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "Jessy's hacker house and the Optimism Collective share a profound synergy in their commitment to Ethereum's sustainable future. While the Collective envisions a world where public goods equate to profitability, Jessy's house actualizes this by nurturing open-source projects. The single requirement for residents of Jessy's hacker house, is that whatever they build, it must be free open source. The house's emphasis on free open-source software resonates with the Collective's retroactive public goods funding, underscoring the belief that true value lies in communal benefits. We challenge traditional notions of profit, advocating for a model where community-driven initiatives and shared benefits define success in the Ethereum landscape.",
+  "impactMetrics": [
+    {
+      "description": "Unique open source projects hacked ",
+      "number": 110,
+      "url": "https://twitter.com/wehack247"
+    },
+    {
+      "description": "Number of residents supported",
+      "number": 320,
+      "url": "https://twitter.com/wehack247"
+    },
+    {
+      "description": "Events where we hosted houses",
+      "number": 8,
+      "url": "https://twitter.com/wehack247"
+    },
+    {
+      "description": "Visitors at our Houses",
+      "number": 3500,
+      "url": "https://twitter.com/wehack247"
+    },
+    {
+      "description": "Funding Received by Residents",
+      "number": 46000000,
+      "url": "https://twitter.com/wehack247"
+    },
+    {
+      "description": "Number of unique Sponsors",
+      "number": 50,
+      "url": "https://twitter.com/wehack247"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 400000,
+      "description": "This is total amount of funding we have collected to run the houses in the past "
+    }
+  ],
+  "payoutAddress": "0xF196b0B975b0fD11dF1936C3A35Cf10ea218f283",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "Jessy's Hacker house",
+  "Applicant Type": "PROJECT",
+  "OSS Directory": "Github Found",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xc7FE1135Ba71e03a7a6b9E1dDB8f653f143bdCF9.json",
+  "Githubs": "https://github.com/primitivefinance/arbiter, https://github.com/cairoeth/arbx, https://github.com/laudiacay/barustenberg, https://github.com/SorellaLabs/ethers-reth, https://github.com/paradigmxyz/reth/issues/3428, https://github.com/bluealloy/revm, https://t.co/IesndP2MsK",
+  "Tags": ""
+}

@@ -1,0 +1,37 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://github.com/paradigmxyz/reth/pull/4377",
+  "bio": "OP Reth is Reth but for the Optimism Collective, a new high performance client.",
+  "contributionDescription": "The OP Stack is built to be modular, and allows any EL to plug as long as it's following the spec. We proceeded to adjust Reth, a new EL for Ethereum, to be compatible with the OP Stack by adding support for Deposit transactions, the new Engine API modifications and more. This brings down OP Stack chain sizes down by >5x and provides improved runtime performance which we have yet to benchmark concretely vs OP Mainnet.\n\nhttps://github.com/paradigmxyz/reth/pull/4377",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/paradigmxyz/reth/pull/4377",
+      "description": "This is the main PR where the bulk of the work has been done."
+    }
+  ],
+  "impactCategory": [
+    "OP_STACK"
+  ],
+  "impactDescription": "These contributions will hopefully enable a more performant OP Stack which will ultimately allow the Optimism Collective to scale its vision to the masses. We intend to continue maintaining this work and make sure that it keeps up with any changes that the OP Stack has over the next years.",
+  "impactMetrics": [
+    {
+      "description": "BASE Goerli DB Size (GB)",
+      "number": 68,
+      "url": "https://github.com/paradigmxyz/reth/pull/4377"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x3BEFcAE114bF14ce0F8E6E205759E9176B66d8D6",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "OP Reth",
+  "Applicant Type": "PROJECT",
+  "OSS Directory": "Not Found",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x3BEFcAE114bF14ce0F8E6E205759E9176B66d8D6.json",
+  "Githubs": "https://github.com/paradigmxyz/reth/pull/4377",
+  "Tags": ""
+}

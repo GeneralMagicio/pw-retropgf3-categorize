@@ -1,0 +1,37 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://twitter.com/berryy_nft",
+  "bio": "Am do my best with contribute optimism environment.",
+  "contributionDescription": "I was co-founder and moderator in couple years ago, And do my best based on my Web-3 experience, I can an attract people to use and answer to new users, Easier to understand.\nbut and real life i have tons of idea in my mind i will show you in Optimism RetroPGF.  ",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x96f5771eecAA02314bbb98C5F301ceCEFDfe111f",
+      "description": "This All of my Tx."
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "I have a tons of experience in web-3, On backdoor or another hand i know which way to drive community every user, They want to be a part in Optimism environment and They want to be an incentive , example made some event and rewards and this rewards It's doesn't matter big reward but we emphasize having many people to join in.",
+  "impactMetrics": [
+    {
+      "description": "defillama",
+      "number": 0,
+      "url": "https://defillama.com/chain/Optimism?users=true"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x96f5771eecAA02314bbb98C5F301ceCEFDfe111f",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "l3erry",
+  "Applicant Type": "INDIVIDUAL",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x96f5771eecAA02314bbb98C5F301ceCEFDfe111f.json",
+  "Githubs": "",
+  "Tags": "END_USER_EXPERIENCE_AND_ADOPTION"
+}

@@ -1,0 +1,47 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://budiganteng.blogspot",
+  "bio": "I'm an airdropper who works on developer projects",
+  "contributionDescription": "I contribute to the crypto community to develop the project in the future, to make the project more advanced and developed, in the future there will certainly be more airdopers and the community will expand even more,The PGF retro project is a very good project to develop in the future",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://etherscan.io/address/0x88C599939983d1BE79A8645D6428388AD7d8C4e7",
+      "description": "this addres"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "I contribute to the crypto community to develop the project in the future, to make the project more advanced and developed, in the future there will certainly be more airdopers and the community will expand even more,The PGF retro project is a very good project to develop in the future",
+  "impactMetrics": [
+    {
+      "description": "csv",
+      "number": 1,
+      "url": "https://etherscan.io/exportData?type=address&a=0x88C599939983d1BE79A8645D6428388AD7d8C4e7"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 1,
+      "description": "good project"
+    }
+  ],
+  "payoutAddress": "0x88C599939983d1BE79A8645D6428388AD7d8C4e7",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "budi ganteng",
+  "Applicant Type": "INDIVIDUAL",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x88C599939983d1BE79A8645D6428388AD7d8C4e7.json",
+  "Githubs": "",
+  "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK"
+}

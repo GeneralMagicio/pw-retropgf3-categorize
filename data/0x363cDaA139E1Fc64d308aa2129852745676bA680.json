@@ -1,0 +1,65 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://andino.gitbook.io/andino/",
+  "bio": "Promote and create new educational opportunities in technology for Latam talent.",
+  "contributionDescription": "- We organize events about web3 and blockchain in universities, mention and invite new users to Optimism's public discord.\n\n- We organize technical workshops on blockchain, L2, Optimism for the developer community.\n\n- We create educational content about optimism, to understand more about its governance, op stack, tools to support more web3 creators.\n\n",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://www.tiktok.com/@andinodao/video/7251797193852505350?lang=en",
+      "description": "Optimism in-person event, workshop to create nfts in Optimism"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/watch?v=DLesrkiRurY&t=21s",
+      "description": "Definitive Guide to Ethereum Scalability: Optimism "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://app.biwit.ai/es/embed/chat?chatbotId=ninoItiFv7KE",
+      "description": "Artificial intelligence chat bot to learn about Optimism"
+    }
+  ],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "We conducted a full day workshop on the optimism ecosystem and its opportunities where participants were taught the benefits of using the optimism network to build Dapps, grant opportunities, grants and funding.\n\nWe were able to onboard new users with a small airdrop of 5$ in OP, to mine a NFT and have OP tokens. \n\nOn the other hand, we have conducted a university competition on business ideas and development of blockchain projects where 10 projects are using the Ethereum network and Optimism. \n\nWe are focused on onboarding new builders so we organize hackathons and collaborate with universities, coorporate, foundations to bring new projects on the network.\n\n",
+  "impactMetrics": [
+    {
+      "description": "# nfts minted in the optimism network",
+      "number": 8,
+      "url": "https://optimistic.etherscan.io/address/0x47a883b702f5dd844e2bd818d1204fa42433b430"
+    },
+    {
+      "description": "# onboarding on the optimism network ",
+      "number": 450,
+      "url": "https://app.biwit.ai/es/embed/chat?chatbotId=ninoItiFv7KE"
+    },
+    {
+      "description": "# attendees at the optimism conferences",
+      "number": 250,
+      "url": "https://twitter.com/andinodao/status/1668643534688210947"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "PARTNER_FUND",
+      "currency": "OP",
+      "amount": 750,
+      "description": "Andino's co-founders contributed in equal shares"
+    }
+  ],
+  "payoutAddress": "0x363cDaA139E1Fc64d308aa2129852745676bA680",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "Andino - Talent in technology",
+  "Applicant Type": "PROJECT",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x363cDaA139E1Fc64d308aa2129852745676bA680.json",
+  "Githubs": "",
+  "Tags": "DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION"
+}

@@ -1,0 +1,80 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://protocol.berlin/decentralization/",
+  "bio": "Collective of people from Berlin: Protocol Berg, Goerli Testnet.",
+  "contributionDescription": "The Department of Decentralization is a collective of people from various crypto- and blockchain communities in and around Berlin. The group assembled to organize events like ETHBerlin, Protocol Berg, or GoerliCon and has been providing infrastructure such as the Goerli and (soon) the Holešky testnet.\n\nWe aim to be an agnostic vehicle to drive adoption, educate newcomers, and raise awareness of the challenges and benefits of decentralization and open-source software.\n\nOptimism benefits from public infrastructure such as the Goerli testnet, which has been the primary layer-1 for the optimistic Goerli testnet in the past year.  In addition, the Optimism Foundation has been represented at the past year's ETHBerlin and Protocol Berg.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://goerli.net/",
+      "description": "Goerli Testnet (and GoerliCon #0)."
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/eth-clients/goerli",
+      "description": "Goerli (Görlitzer Testnet)."
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/eth-clients/holesky",
+      "description": "Holešky (Holešovice Testnet)."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://ethberlin.ooo/",
+      "description": "ETHB3rlin - to the power of 3."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://protocol.berlin/",
+      "description": "Protocol Berg - the decentralized protocol and infrastructure conference."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://speak.protocol.berlin/protocol-berg/talk/QZM8PM/",
+      "description": "Protocol Berg - Evolution of Optimistic Rollup proofs (protolambda)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://speak.protocol.berlin/protocol-berg/talk/EEPMJU/",
+      "description": "Protocol Berg - Retroactive Public Goods Funding: 2 Rounds in (Jonas Seiferth)"
+    }
+  ],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "OP_STACK"
+  ],
+  "impactDescription": "The Goerli testnet is still the most frequented public Ethereum testnet by all metrics, seeing more than 240 million transactions and 28 million active accounts to date. The optimistic Goerli testnet has seen 30 million transactions with more than 4 million active accounts.",
+  "impactMetrics": [
+    {
+      "description": "OP Goerli Transactions",
+      "number": 30376282,
+      "url": "https://goerli-optimism.etherscan.io/txs"
+    },
+    {
+      "description": "L1 Goerli Transactions",
+      "number": 241691153,
+      "url": "https://goerli.etherscan.io/txs"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 143507.74,
+      "description": "RetroPGF 2 funding for the Goerli Testnet"
+    }
+  ],
+  "payoutAddress": "0x59cc3Fc56B8B2988F259EC1E6f3446907130f728",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "Department of Decentralization",
+  "Applicant Type": "PROJECT",
+  "OSS Directory": "Not Found",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x59cc3Fc56B8B2988F259EC1E6f3446907130f728.json",
+  "Githubs": "https://github.com/eth-clients/goerli, https://github.com/eth-clients/holesky",
+  "Tags": ""
+}

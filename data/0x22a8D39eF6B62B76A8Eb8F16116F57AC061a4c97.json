@@ -1,0 +1,47 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://twitter.com/laoren9_z/",
+  "bio": "a dreamer",
+  "contributionDescription": "Waiting to trade on Optimism every week, I am confident in the future development of Optimism. I hope it will get better and better, become the main force of the blockchain on L2, and bring hope to the world.Supporting Optimism is the greatest contribution to the blockchain. We will never look back, come on!",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://twitter.com/laoren9_z/",
+      "description": "All my records are here"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "I still have a lot to do. I strive to trade once every two or three days, try to use optimization to complete all my work, understand optimization clearly, study hard for the future development of the blockchain, constantly summarize and communicate in practice, and work hard to promote the benefits of optimization.",
+  "impactMetrics": [
+    {
+      "description": "op",
+      "number": 100,
+      "url": "https://twitter.com/laoren9_z/"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 2,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0x22a8D39eF6B62B76A8Eb8F16116F57AC061a4c97",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "MB100",
+  "Applicant Type": "INDIVIDUAL",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x22a8D39eF6B62B76A8Eb8F16116F57AC061a4c97.json",
+  "Githubs": "",
+  "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK"
+}

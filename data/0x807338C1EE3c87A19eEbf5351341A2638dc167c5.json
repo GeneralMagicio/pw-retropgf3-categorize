@@ -1,0 +1,50 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://twitter.com/cryptopattaya",
+  "bio": "love crypto ",
+  "contributionDescription": "i use optimism every time, i like this ecosystem. close to be feesless. quick transaction. the value of the coin still to be undervaluated. i like the decentralisation, the security from this network .... possible to have a great future if the network get a great popularity",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/cryptopattaya",
+      "description": "my own twitter"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://basescan.org/address/0x1acf291dafc2b47914aaa9f85667c3808c3fad96",
+      "description": "0x1Acf291daFc2B47914aAA9F85667c3808c3Fad96"
+    }
+  ],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "i use optimism every time, i like this ecosystem. close to be feesless. quick transaction. the value of the coin still to be undervaluated. i like the decentralisation, the security from this network .... possible to have a great future if the network get a great popularity",
+  "impactMetrics": [
+    {
+      "description": "my smart contract",
+      "number": 1,
+      "url": "https://basescan.org/address/0x1acf291dafc2b47914aaa9f85667c3808c3fad96"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 3000,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0x807338C1EE3c87A19eEbf5351341A2638dc167c5",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "schlienger damien",
+  "Applicant Type": "INDIVIDUAL",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x807338C1EE3c87A19eEbf5351341A2638dc167c5.json",
+  "Githubs": "",
+  "Tags": "DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION"
+}

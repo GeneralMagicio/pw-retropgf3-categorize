@@ -1,0 +1,54 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://github.com/protocol/research-grants/blob/master/RFPs/rfp-014-private-retrieval-of-data.md",
+  "bio": "Accelerating R&D of interactive private communication mechanisms",
+  "contributionDescription": "In the last year, we completed a first iteration of a public goods funding structure targeting the advancement of private data transfer. \n* Set up an advisory committee and program structure\n* Disbursed 750k to research groups working on private information retrieval and homomorphic encryption.\n\nThis fund both advances a clear, narrow, mission and serves as a test case for the public goods funding discussion at protocol labs and more broadly around the funding the commons community.\n\nNote on the existing grants / funding: 100% of the initial startup funding has been treated as funds for grant-making. The entity has run so far with 0% overhead, and has not provided compensation to the advisory committee or program officers.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/protocol/research-grants/blob/master/RFPs/rfp-014-private-retrieval-of-data.md",
+      "description": "RFP for grant applications"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://arcological.xyz/#private-retrieval-pool",
+      "description": "Legal structure coordinating logistics"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/willscott",
+      "description": "Personal github profile"
+    }
+  ],
+  "impactCategory": [
+    "OP_STACK"
+  ],
+  "impactDescription": "Accelerated the availability of more private communication options. Supporting the transition of research to practice allows for more things like https://spiraldb.xyz/balances/  - Impact both through direct distribution of capital, and through regular talks (e.g https://speak.protocol.berlin/protocol-berg/talk/Y7HNG9/, ethCC, HCPP, etc) to bridge research results to the web3 community.",
+  "impactMetrics": [
+    {
+      "description": "Amount funded",
+      "number": 750000,
+      "url": "https://research.protocol.ai/blog/2023/private-retrieval-grant-2023-roundup/"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 1500000,
+      "description": "Protocol Labs startup grant"
+    }
+  ],
+  "payoutAddress": "0xcB2E7F53F446AFA859192194Fc2E7eeCA20f6285",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "Private Retrieval Fund",
+  "Applicant Type": "PROJECT",
+  "OSS Directory": "Not Found",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xbd43CDeDaaF8CFCFeC0C6597edF748FE402F6F00.json",
+  "Githubs": "https://github.com/protocol/research-grants/blob/master/RFPs/rfp-014-private-retrieval-of-data.md, https://github.com/willscott",
+  "Tags": ""
+}

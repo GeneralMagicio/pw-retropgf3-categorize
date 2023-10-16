@@ -1,0 +1,37 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://twitter.com/Rev3nge969518",
+  "bio": "nft creator",
+  "contributionDescription": "The remainder of unclaimed OP from Airdrop #1 is being distributed directly to eligible addresses.\n\nIf you were eligible for Airdrop #1, but you haven’t claimed your tokens yet, you will receive OP directly at your address.\n\nThis will distribute 48M OP to just over 88,000 unique addresses. Distribution began today at roughly 16:00 UTC. We expect it to complete within 12 hours.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://twitter.com/Rev3nge969518",
+      "description": "1"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "The remainder of unclaimed OP from Airdrop #1 is being distributed directly to eligible addresses.\n\nIf you were eligible for Airdrop #1, but you haven’t claimed your tokens yet, you will receive OP directly at your address.\n\nThis will distribute 48M OP to just over 88,000 unique addresses. Distribution began today at roughly 16:00 UTC. We expect it to complete within 12 hours.",
+  "impactMetrics": [
+    {
+      "description": "build hill",
+      "number": 3,
+      "url": "https://twitter.com/Rev3nge969518"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x07507Fcdeac79150A8C7981da8931cdDf549b5ca",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "pinter88",
+  "Applicant Type": "PROJECT",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x07507Fcdeac79150A8C7981da8931cdDf549b5ca.json",
+  "Githubs": "",
+  "Tags": "END_USER_EXPERIENCE_AND_ADOPTION"
+}

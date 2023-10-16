@@ -1,0 +1,44 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://twitter.com/JoneLee393645",
+  "bio": "我是一位数字游民，2020年开始接触区块链，深度项目体验者和传播者",
+  "contributionDescription": "I was one of the first airdrop holders, and I had already experienced L2 deposits and withdrawals before the airdrop. At that time, the speed and fees for withdrawals were very high. After my first batch of airdrops arrived, I often participated in community voting and paid attention to the long-term development of the project. At the same time, after experiencing the dapp, I would share it with other netizens, such as bungee, fx, etc.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://twitter.com/JoneLee393645",
+      "description": "0x376bE65e21fd6F1599e6E04BD4C0c421A3Ab3921"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "I was one of the first airdrop holders, and I had already experienced L2 deposits and withdrawals before the airdrop. At that time, the speed and fees for withdrawals were very high. After my first batch of airdrops arrived, I often participated in community voting and paid attention to the long-term development of the project. At the same time, after experiencing the dapp, I would share it with other netizens, such as bungee, fx, etc.",
+  "impactMetrics": [
+    {
+      "description": "1",
+      "number": 1,
+      "url": "https://optimistic.etherscan.io/tx/0xb7883bd14c97c05e8ef698ed16bb524c79c26700dc73c4af51239469975c8aa3"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 3000,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0x376bE65e21fd6F1599e6E04BD4C0c421A3Ab3921",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "coreleo",
+  "Applicant Type": "INDIVIDUAL",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x376bE65e21fd6F1599e6E04BD4C0c421A3Ab3921.json",
+  "Githubs": "",
+  "Tags": "END_USER_EXPERIENCE_AND_ADOPTION"
+}

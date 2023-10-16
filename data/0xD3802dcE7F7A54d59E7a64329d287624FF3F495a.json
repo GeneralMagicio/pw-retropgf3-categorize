@@ -1,0 +1,50 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://twitter.com/zkCyborg",
+  "bio": "DAOing  @HydraVentures_ @socialgraphvc @globalcoinrsrch  prev @messaricrypto",
+  "contributionDescription": "Article analyzes airdrops by Layer 2s Optimism & Arbitrum, showing their effectiveness for driving growth. Metrics indicate increased adoption & TVL after drops, suggesting airdrops successfully incentivize short-term usage & development. \n\nRapid address & TVL growth shows they expanded user bases quickly. Article also demonstrates airdrop strategies impact long-term success. e.g. Optimism recipients holding tokens longer suggests alignment with community building. \n\nOverall, article highlights airdrops' potential to catalyze growth for Layer 2s. Research provides insights for projects considering campaigns, emphasizing balancing short-term incentives with long-term adoption. Analysis enables informed airdrop design decisions. Shows thoughtful airdrops can drive real utility in practice",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://globalcoinresearch.com/2023/06/16/the-effectiveness-of-l2-airdrop/",
+      "description": "This article is about the Effectiveness of L2 Airdrop, specifically OP vs ARB"
+    }
+  ],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "By thoroughly analyzing airdrop strategies and outcomes, the article enables projects to make more informed decisions about airdrop design. And it demonstrates the ability of airdrops to drive real utility and advancement for scaling solutions when executed thoughtfully. The analysis and conclusions positively impact the broader understanding of airdrops in the crypto industry.",
+  "impactMetrics": [
+    {
+      "description": "X Views ",
+      "number": 4000,
+      "url": "https://x.com/Smartecio/status/1670832159513362439?s=20"
+    },
+    {
+      "description": "X Likes",
+      "number": 31,
+      "url": "https://x.com/Smartecio/status/1670832159513362439?s=20"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 350,
+      "description": "freelance job for Global Coin Research. They paid me this amount to do research"
+    }
+  ],
+  "payoutAddress": "0xD3802dcE7F7A54d59E7a64329d287624FF3F495a",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "zkcyborg",
+  "Applicant Type": "INDIVIDUAL",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xD3802dcE7F7A54d59E7a64329d287624FF3F495a.json",
+  "Githubs": "",
+  "Tags": "DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION"
+}

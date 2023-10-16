@@ -1,0 +1,47 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://twitter.com/nikos_koukos18",
+  "bio": "crypto airdrop hunter",
+  "contributionDescription": "i tried coinbase testnet for opt and i can say it was intresting, got some nfts and grabber some $$, hopping i could get some more now cause i need them. I am trying to get those 250 characters i think that right now i am done with that. thank you and see you soon",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://twitter.com/nikos_koukos18",
+      "description": "i need to buy a lambo!!!!!"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "i can't say i have many contribution. i'm here just to make money as i think the most people here. im' not gonna lie, i don't know what i am doin roght now just that it says to me to write at least 250 characters. are those right now ok? i think they are!!!!!",
+  "impactMetrics": [
+    {
+      "description": "#lambo",
+      "number": 100000,
+      "url": "https://twitter.com/nikos_koukos18"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 80000,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0xe53113cc7A30154FFc5Cb9B3004817dD1de9A515",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "nikoskoukos",
+  "Applicant Type": "INDIVIDUAL",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xe53113cc7A30154FFc5Cb9B3004817dD1de9A515.json",
+  "Githubs": "",
+  "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK"
+}

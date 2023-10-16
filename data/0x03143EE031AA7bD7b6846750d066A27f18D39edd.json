@@ -1,0 +1,60 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://optimismbysublidefi.substack.com/",
+  "bio": "The unique media about OP Superchain ",
+  "contributionDescription": "The Optimist has been a significant source of information that benefits both Projects & Users of the Optimism Community. \n\nThrough a biweekly newsletter released in 12 (now 13) different languages totalizing 90 articles covering Optimism Governance, Defi Project Research, technical information, farming strategy and crypto market review + a weekly podcast where 40+ projects have been invited on stage, The Optimist has reached an amazing milestone with the # of Subscribers >10,000\n\nThe Optimist is a team work crafted by 20 persons (designer, writers, translators) where most of them are coming from the Optimism community (Ambassador, Nerd, Offcial translators, Founder of Optimism country acccount on X).\n\nToday The Optimist applies to RPGF3 & receive grant based on our Impact. ",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://optimismbysublidefi.substack.com/",
+      "description": "The Optimist newsletter webpage"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "Since January 2023, The Optimist (previously The Optimistic Series) has maintaines a bi-weekly newsletter & a weekly podcast cadence with Optimism Projects.\nWhat makes The Optimist unique?\n1- No media solely covers the Optimism Superchain\n2- The newsletter addresses:\nOptimism Updates: Governance, tech advancements\nProject Research: A comprehensive summary, often backed by our user experience and data analysis.\nOnchain Analytics: Deep dives into onchain metrics\nCrypto Market Review: No investment calls here. We offer tools and insights to guide crypto investment\nFarming Strategy: Tutorials highlighting potential yield opportunities\nPodcast Access: Also available as YouTube videos (with Eng sub. ) & written notes  \n3- Available in 13 languages\n4- 20-team members empowering OP collective",
+  "impactMetrics": [
+    {
+      "description": "Number of Subscribers",
+      "number": 10021,
+      "url": "https://drive.google.com/file/d/1jOsjLNhWWERJ5LF43vKRmtOZSZ30BTKo/view?usp=drivesdk"
+    },
+    {
+      "description": "Newsletter ",
+      "number": 19,
+      "url": "https://drive.google.com/file/d/1AV3250vE7UDb0_5Na5YQKvCDnFJjUiqt/view?usp=drivesdk"
+    },
+    {
+      "description": "Community impact",
+      "number": 282,
+      "url": "https://drive.google.com/file/d/13QqBOOV6ShhOZkcdtqdu8_9oB0uIZnB0/view?usp=drivesdk"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 19213,
+      "description": "Based on 2022 impact, excluding the newsletter started in January 2023"
+    },
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 3750,
+      "description": "Sponsorship"
+    }
+  ],
+  "payoutAddress": "0x6b492bbbe311f3c1e15e3d4ccc00cc2a412089ff",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "The Opimist",
+  "Applicant Type": "PROJECT",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x03143EE031AA7bD7b6846750d066A27f18D39edd.json",
+  "Githubs": "",
+  "Tags": "END_USER_EXPERIENCE_AND_ADOPTION"
+}

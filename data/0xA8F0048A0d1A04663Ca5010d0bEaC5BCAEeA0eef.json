@@ -1,0 +1,489 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://nacionbankless.substack.com/",
+  "bio": "We are Bankless the first subDAO in Spanish from BanklessDAO",
+  "contributionDescription": "hiho, we are helping people understand the values of Optimism, we are very active creating content, memes, or own threads, publications and communication within the Telegram, Twitter, Instagram, YouTube, Substack, Discord.\nAlso we have presence within the Governance forum with DAOstewards delegation from BanklessDAO and also we discuss the proposal and how we can work. We have a DeWork where we share everything that we are doing to make our Bankless community a more Optimistic one.  \nWe have four different Newsletter: \n1.- GM;NB a little abstract for our content \n2.- Nacion Bankless: Translation, original content, chilling.\n3.- Diario Nacion Bankless: Bankless News, with a full focus on Latam impact\n4.- Guías Bankless: Here we publish our own content and publications abour the protocols. ",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://nacionbankless.substack.com/p/el-estado-de-optimism",
+      "description": "Here we describe the actual state of Optimism"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://nacionbankless.substack.com/p/la-guia-bankless-de-optimism",
+      "description": "this is the bankless guide to Optimism"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://nacionbankless.substack.com/p/como-arbitrum-vence-a-optimism",
+      "description": "this is a comparation between arbitrum and optimism"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://nacionbankless.substack.com/p/optimism-proporciona-un-recurso-compartido",
+      "description": "Translation about DAO tools, BanklessDAO campaing"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://nacionbankless.substack.com/p/la-gobernanza-de-optimism-esta-sintonizada",
+      "description": "Translation about Optimism governance, BanklessDAO campaign"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://nacionbankless.substack.com/p/optimism-sintetiza-un-nuevo-paradigma",
+      "description": "Trasnlation about the economyc parading, BanklessDAO camapaign"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://nacionbankless.substack.com/p/el-viaje-de-aprendizaje-retropgf",
+      "description": "The Optimism collective, BanklessDAO campaign"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://nacionbankless.substack.com/p/que-es-la-ley-de-las-cadenas",
+      "description": "Law of Chains, translation from Optimism Mirror link"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://nacionbankless.substack.com/p/de-las-cenizas-de-moloch-surge-el",
+      "description": "Ether Fenix, translation from BanklessDAO campaign"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://nacionbankless.substack.com/p/grant-stack-de-op-la-fuente-de-la",
+      "description": "The Grant Stack, translation from BanklessDAO campaign"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://nacionbankless.substack.com/p/resumen-del-ano-l2",
+      "description": "Abstract from a year of L2"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://nacionbankless.substack.com/p/coinbase-revoluciona-el-espacio-cripto",
+      "description": "Base and the OP stack revolution"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://nacionbankless.substack.com/p/descentralizacion-de-las-principales",
+      "description": "L2 decentralization"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://nacionbankless.substack.com/p/el-verano-de-la-capa-2-finalmente",
+      "description": "The L2 summer"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://nacionbankless.substack.com/p/podra-op-mantener-su-impulso",
+      "description": "Optimism Token evaluation Op momentum"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://nacionbankless.substack.com/p/la-mejor-manera-de-hacer-mint-en",
+      "description": "Zora minting in their new Layer 2 in OP Stack"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://nacionbankless.substack.com/p/desempaquetando-la-oportunidad-coinbase",
+      "description": "The Base OP Stack Project"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://nacionbankless.substack.com/p/se-descentralizaran-alguna-vez-los",
+      "description": "Decentralized Sequencers  for L2"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://nacionbankless.substack.com/p/base-nfts",
+      "description": "NFT on Base OP Stack"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://nacionbankless.substack.com/p/mundos-autonomos",
+      "description": "OP Craft"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://nacionbankless.substack.com/p/un-mundo-de-controversia-para-worldcoin",
+      "description": "Talking about Worldcoin in Optimism"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://nacionbankless.substack.com/p/gobernanza-de-las-dao-como-circulos",
+      "description": "Its about Governance"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/tx/0xdbc529d1cbd567097ad24dcbd441f2d4e79a8fec7cd59572ea881fd3c76125aa",
+      "description": "Governance and Payments from the subDAO Multisig, multiple tokens"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/tx/0x10f9b42f1c8f25d1ca58ef442068fa1c2bb44353ec293e77616287d77f2442f4",
+      "description": "Optimism payments for events from the subDAO multisig in BANK Token"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "oeth:0x3dada60B92650a9D79A97C2aC62d8a908C242779",
+      "description": "Payments for event in Mexico city, BANK Token"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/tx/0x7241b03d34b119b1ce4cf5f93f1f46c71e5ef2cca5c5539b1fbb6c9a60bae691",
+      "description": "Optimism SAFE wallet creation for DAO administration"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/token/0x4b9bc31e1346498bb5ac671d36f2e5d2929d53cd",
+      "description": "NFT from Nacion Bankless"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x8eA0749eA936762b7A5BfDD6c0f5beAb02fF0Bf4",
+      "description": "Multisig transaction and holdings"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x8e3B0600C06bb4b99F5Eab33D3a25E338818fbe2#internaltx",
+      "description": "Contract creation for recovering funds using CLI"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/NacionBankless/status/1677689502834507776?s=20",
+      "description": "Tweet about Optimism collective"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/NacionBankless/status/1672303505439072257?s=20",
+      "description": "Optimism vision in Twitter"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/NacionBankless/status/1672295019368071190?s=20",
+      "description": "The change of name of Optimism to OP Mainnet"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/NacionBankless/status/1699846797638713713?s=20",
+      "description": "New Lesson about Governance of Bankless Academy"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/NacionBankless/status/1665780364122505219?s=20",
+      "description": "News about BedRock update"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/NacionBankless/status/1701352004378095682?s=20",
+      "description": "How to vote and delegate in Optimism with Bankless Academy"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/NacionBankless/status/1684960011263283201?s=20",
+      "description": "A new economic paradigm"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/NacionBankless/status/1677689540188987392?s=20",
+      "description": "Invitation to join the Optimism movement"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/NacionBankless/status/1690755000140476416?s=20",
+      "description": "News about Optimism liquidity implementation from BanklessDAO"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/NacionBankless/status/1702726478935253178?s=20",
+      "description": "Tweet about Optimism Governance lesson from Bankless Academy"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/NacionBankless/status/1681125321184083969?s=20",
+      "description": "Thread about Optimism collective"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/NacionBankless/status/1683714695793090560?s=20",
+      "description": "Thread about Superchain"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://viewblock.io/arweave/tx/MDc9zz0KEmC95F2z758uJfPXARRG2HUyRJAQFjkkGM0",
+      "description": "The Grant Stack in mirror in Spanish. trasnlated newsletter in Mirror"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://mirror.xyz/cryptoreumd.eth/7SNoqtZfsVvYYYnT4WkNcFEihaGYDFo6Bth_El6NOOA",
+      "description": "What is the Law of Chains in Spanish? Translated newsletter in Mirror"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://viewblock.io/arweave/tx/HMXFL-bfsTTR-JjNn1nZ5oK7mHewkhWK0ay8svzrCSo",
+      "description": "Bulls vs Bears. Original newsletter in Mirror"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://viewblock.io/arweave/tx/sgAxNhG0AvZ4adslkR6hhPn5XWBtvst2nM5byQD10NA",
+      "description": "What is Giveth? original newsletter in Mirror"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://viewblock.io/arweave/tx/ykn-CwbA8dqwCR4afASt1Sbz8VNUfZGZG0rm2NqVbuI",
+      "description": "Introduction to the law of chains, translated content in Mirror"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://viewblock.io/arweave/tx/thGx8PNXqj09N2JF-1sC4hK6FIQaQ8Revs6hGOqmpG8",
+      "description": "The future of Optimism Collective, translation in Mirror"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://viewblock.io/arweave/tx/IIyNzyQdvp7JrHmTt9WAB9iKuYTTwkjuzVQ7jVhWoFs",
+      "description": "Optimism Governace, trasnlation in Mirror"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://viewblock.io/arweave/tx/3ZKl4uzGZwEUeWX-D6dN2IXaK_SXbtR-uSrfOkZwnNI",
+      "description": "Smart contracts and democracy, original newsletter in Mirror"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/NacionBankless/status/1681726019705634816?s=20",
+      "description": "Talking about optimism in this tweet"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/NacionBankless/status/1693682123322855781?s=20",
+      "description": "Promoting the Optimism event IRL"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/NacionBankless/status/1700142132017693155?s=20",
+      "description": "We are idealist, and we share about it in twitter"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/NacionBankless/status/1695605665517945056?s=20",
+      "description": "Optimism webinar tweet"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/NacionBankless/status/1663565649174740992?s=20",
+      "description": "The Optimism vision tweet"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/NacionBankless/status/1684210409367040002?s=20",
+      "description": "thread about law of chains"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/NacionBankless/status/1685101577369968640?s=20",
+      "description": "Talking about OP stack"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/NacionBankless/status/1704192142720049328?s=20",
+      "description": "NFT in Mintle OP Stack L2 solution"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/NacionBankless/status/1676198602991972354?s=20",
+      "description": "Looking inside the OP Stack and other solutions"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/NacionBankless/status/1664308784330686466?s=20",
+      "description": "Tweet in OP radio about OP stack and Celestia"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "I think that our job it's a s simple as our mission: To onboard the next billion people to the ecosystem, actually we are chain agnostic and we see the near future of adopting crypto as a very difficult point, but as the ecosystem grows and Optimism continues giving all the tools and code of conduct for the adoption its easier to us to just communicate. \nHow we make this possible?\n1.- Newsletter that let the people know what's happening in crypto and how we can became smarter and committed with the Optimism collective values. \n2.- Podcast and Videos: We interview the builders, and know how do they feel, we record our community calls that are free to everyone in the internet to learn more than just the theory.\n3.- Real Life events: We are going to fund projects and people with knowledge",
+  "impactMetrics": [
+    {
+      "description": "Substack Traffic (Number)",
+      "number": 62690,
+      "url": "https://www.notion.so/bankless/Substack-ecf0d3af33e64343b12686d855d7df89"
+    },
+    {
+      "description": "Substack Open Rate (%)",
+      "number": 34.29,
+      "url": "https://www.notion.so/bankless/Substack-ecf0d3af33e64343b12686d855d7df89"
+    },
+    {
+      "description": "Substack Suscribers (Number)",
+      "number": 268,
+      "url": "https://www.notion.so/bankless/Substack-ecf0d3af33e64343b12686d855d7df89"
+    },
+    {
+      "description": "Twitter Followers (Number)",
+      "number": 2180,
+      "url": "https://twitter.com/NacionBankless"
+    },
+    {
+      "description": "Twitter Analytics 91 day period",
+      "number": 204900,
+      "url": "https://file.notion.so/f/f/99a00784-dfcd-41d5-8941-002db8ff69be/77b773e3-6b1e-42bb-801d-ba37fd649d5a/Captura_de_pantalla_2023-09-19_a_la(s)_15.08.53.png?id=77ebe681-4d5b-456a-adbc-b0b8a03c1d14&table=block&spaceId=99a00784-dfcd-41d5-8941-002db8ff69be&expirationTimestamp=1695245170862&signature=WsfCbnai6z1NLrqBF9bAO89OJcFSofl445xNicnpwLQ&downloadName=Captura+de+pantalla+2023-09-19+a+la%28s%29+15.08.53.png"
+    },
+    {
+      "description": "Twitter Engagement %",
+      "number": 5,
+      "url": "https://file.notion.so/f/f/99a00784-dfcd-41d5-8941-002db8ff69be/48a07dd3-acd3-43e4-8d4f-3635eb0a0489/Captura_de_pantalla_2023-09-19_a_la(s)_15.49.12.png?id=80cfdfc4-d210-4f9a-8c6e-38169ff82288&table=block&spaceId=99a00784-dfcd-41d5-8941-002db8ff69be&expirationTimestamp=1695246576466&signature=IenxIRUVNLd-Tlz9E3jNzvLIWX5iWuOHUDOoMiJPEGc&downloadName=Captura+de+pantalla+2023-09-19+a+la%28s%29+15.49.12.png"
+    },
+    {
+      "description": "Instagram Followers",
+      "number": 526,
+      "url": "https://www.instagram.com/nacionbankless/"
+    },
+    {
+      "description": "YouTube (Subsribers)",
+      "number": 147,
+      "url": "https://www.notion.so/bankless/YouTube-cd6aad8b499d4aedaba09da30734490e"
+    },
+    {
+      "description": "YouTube (Impressions)",
+      "number": 248510,
+      "url": "https://file.notion.so/f/f/99a00784-dfcd-41d5-8941-002db8ff69be/5fd2d497-8d39-4fae-af84-faf8ed3f01a0/Captura_de_pantalla_2023-09-19_a_la(s)_15.22.17.png?id=3842bb55-b895-4dd9-9423-caacd25cf0e9&table=block&spaceId=99a00784-dfcd-41d5-8941-002db8ff69be&expirationTimestamp=1695245198415&signature=kqG7VOt39fkvTyGB0cHoSXy9_WDclOgdgzlZj1j5OCk&downloadName=Captura+de+pantalla+2023-09-19+a+la%28s%29+15.22.17.png"
+    },
+    {
+      "description": "YouTube (Visits)",
+      "number": 5461,
+      "url": "https://file.notion.so/f/f/99a00784-dfcd-41d5-8941-002db8ff69be/13ba0c3a-c61a-418e-8b4d-446ff1f2117f/Captura_de_pantalla_2023-09-19_a_la(s)_15.27.09.png?id=34be11a2-2b8a-4903-8b88-6ee86af35fa0&table=block&spaceId=99a00784-dfcd-41d5-8941-002db8ff69be&expirationTimestamp=1695245250325&signature=LDodh7K3tFFJXPI4aNspJjZOpm2rmLd9roKYojX5kJM&downloadName=Captura+de+pantalla+2023-09-19+a+la%28s%29+15.27.09.png"
+    },
+    {
+      "description": "DeWork (Taksks)",
+      "number": 150,
+      "url": "https://app.dework.xyz/nacion-bankless/main-space-15912/view/toda-la-chamba-lmqtvt8p"
+    },
+    {
+      "description": "Engagement #",
+      "number": 18,
+      "url": "https://x.com/NacionBankless/status/1664308782715883520?s=20"
+    },
+    {
+      "description": "Impressions #",
+      "number": 58,
+      "url": "https://x.com/NacionBankless/status/1676198602991972354?s=20"
+    },
+    {
+      "description": "Impressions #",
+      "number": 40,
+      "url": "https://x.com/NacionBankless/status/1704192142720049328?s=20"
+    },
+    {
+      "description": "Engagement #",
+      "number": 10,
+      "url": "https://x.com/NacionBankless/status/1685101577369968640?s=20"
+    },
+    {
+      "description": "Engagement #",
+      "number": 17,
+      "url": "https://x.com/NacionBankless/status/1681726019705634816?s=20"
+    },
+    {
+      "description": "Engagement #",
+      "number": 107,
+      "url": "https://x.com/NacionBankless/status/1693682123322855781?s=20"
+    },
+    {
+      "description": "Engagement #",
+      "number": 6,
+      "url": "https://x.com/NacionBankless/status/1700142132017693155?s=20"
+    },
+    {
+      "description": "Engagement #",
+      "number": 73,
+      "url": "https://x.com/NacionBankless/status/1695605665517945056?s=20"
+    },
+    {
+      "description": "Engagement #",
+      "number": 26,
+      "url": "https://x.com/NacionBankless/status/1663565649174740992?s=20"
+    },
+    {
+      "description": "Engagement #",
+      "number": 15,
+      "url": "https://x.com/NacionBankless/status/1677689502834507776?s=20"
+    },
+    {
+      "description": "Engagement #",
+      "number": 11,
+      "url": "https://x.com/NacionBankless/status/1672303505439072257?s=20"
+    },
+    {
+      "description": "Engagement #",
+      "number": 28,
+      "url": "https://x.com/NacionBankless/status/1672295019368071190?s=20"
+    },
+    {
+      "description": "Engagement #",
+      "number": 45,
+      "url": "https://x.com/NacionBankless/status/1699846797638713713?s=20"
+    },
+    {
+      "description": "Engagement #",
+      "number": 18,
+      "url": "https://x.com/NacionBankless/status/1665780364122505219?s=20"
+    },
+    {
+      "description": "Engagement #",
+      "number": 16,
+      "url": "https://x.com/NacionBankless/status/1701352004378095682?s=20"
+    },
+    {
+      "description": "Impressions #",
+      "number": 32,
+      "url": "https://x.com/NacionBankless/status/1684960011263283201?s=20"
+    },
+    {
+      "description": "Engagement #",
+      "number": 4,
+      "url": "https://x.com/NacionBankless/status/1684210409367040002?s=20"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 1,
+      "description": "None"
+    },
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 1,
+      "description": "We are a public good we don't generate income, we just pay contributors"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 2000,
+      "description": "PUSH campaign and governance: 3 month period, webinar, channels creation"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 750,
+      "description": "NounsDAO amgos"
+    }
+  ],
+  "payoutAddress": "0x8eA0749eA936762b7A5BfDD6c0f5beAb02fF0Bf4",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "Nacion Bankless",
+  "Applicant Type": "PROJECT",
+  "OSS Directory": "Address Found",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xA8F0048A0d1A04663Ca5010d0bEaC5BCAEeA0eef.json",
+  "Githubs": "",
+  "Tags": ""
+}

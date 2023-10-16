@@ -1,0 +1,38 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://www.soltius.co.id",
+  "bio": "Web3 researcher.",
+  "contributionDescription": "I'm an active Optimism user who have done many transactions on OP network. I delegated my OP too and participated in OP grants as well. I will keep on exploring Optimism for its efficiency, security, and support the development & adoption of Optimism. ",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x6CADb247fAd36CF94a9e261EF809FdEb390C8418",
+      "description": "All of my activities on OP network."
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "I will give a positive impact on optimism community. I believe a good community needs to maintain a positive and strong environment. I have my own work community also that I will introduce Optimism to. That way, optimism will always have a strong community and active users continously.",
+  "impactMetrics": [
+    {
+      "description": "Analytics solution",
+      "number": 1,
+      "url": "https://www.soltius.co.id/special-offer/soltius-analytics-solution"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x6CADb247fAd36CF94a9e261EF809FdEb390C8418",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "Jush",
+  "Applicant Type": "INDIVIDUAL",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x6CADb247fAd36CF94a9e261EF809FdEb390C8418.json",
+  "Githubs": "",
+  "Tags": "COLLECTIVE_GOVERNANCE, END_USER_EXPERIENCE_AND_ADOPTION"
+}

@@ -1,0 +1,44 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://www.artistryx.org",
+  "bio": "We are Sunny and Rachel Sides, co-founders of SunRay Energy Initiatives, LLC.  ",
+  "contributionDescription": "We have been stanche supporters of optimism since day one. As ongoing liquidity providers across web3 & defi, we help secure the networks we believe in. EVM is a guiding light and we have helped raise awareness for the importance of resource management and the associated pros and cons as well as the environmental impact discrepancies for example between PoW and PoS blockchains. Our interest in zero-knowledge proofs keeps us regularly trading op tokens on various exchanges using multiple wallets, and we also help spread the word of the inevitable crypto-dominance and optimism, we feel, is poised to be amongst the revered leadership council in a new financial world order.\nOur ongoing commitment to blending artistic design elements with real world practical applications. Clean energy!",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://www.artistrtx.org",
+      "description": "our fledgling website, still lots to do"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "We continue to on board new users in the crypto shpere in general, optimism in particular. Everyday we network with other energy-concious individuals and ascertain who would be a solid addition to our team. we have diverse backgrounds in art, performance, construction, design, and of course energy and the econimics inexorably woven throughout. \nOur strength is the ability to blend all these various factors into a cohesive, operable undertaking that is of direct, tangible, and long term benefit ti everyone involved.",
+  "impactMetrics": [
+    {
+      "description": "number of transactions in web3 wallet",
+      "number": 420,
+      "url": "https://www.artistryx.org"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 100,
+      "description": "just from trades and LP incentives, so far we are 100% self funded"
+    }
+  ],
+  "payoutAddress": "0xeC220Edb5B28C091981a113462dc801adFC58095",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "artistryx.eth",
+  "Applicant Type": "PROJECT",
+  "OSS Directory": "Github Found",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xeC220Edb5B28C091981a113462dc801adFC58095.json",
+  "Githubs": "https://www.artistrtx.org",
+  "Tags": ""
+}

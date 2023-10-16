@@ -1,0 +1,42 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://www.gatelite.org",
+  "bio": "Gas optimization auditing & highly efficient public goods",
+  "contributionDescription": "We recently launched Gaslite Drop.\n\nGaslite Drop is a smart contract and dapp designed to facilitate hyper efficient bulk transfers of ERC20, ERC721, and Native Network Tokens.\n\nGaslite Drop is entirely open source and welcomes community contributions.\n\nThis is our first public good of many that has been deployed on Optimism..",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x09350F89e2D7B6e96bA730783c2d76137B045FEF",
+      "description": "Gaslite Drop Contract"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/PopPunkLLC/GasliteDrop",
+      "description": "Gaslite Drop Repository"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "Gaslite Drop improves the the experience of rewarding and incentivizing your community.\n\nWe allow user's to effortlessly, safely, and efficiently facilitate transfers to their end users.\n\nThrough our easy to use UI and highly optimized Yul based airdrop contract anyone can bulk transfer assets to anyone.",
+  "impactMetrics": [
+    {
+      "description": "Github Stars",
+      "number": 22,
+      "url": "https://github.com/PopPunkLLC/GasliteDrop/stargazers"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x3d4aaFbe86059d17C6263332c560f18C4F1Fec34",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "Gaslite",
+  "Applicant Type": "PROJECT",
+  "OSS Directory": "Not Found",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x3d4aaFbe86059d17C6263332c560f18C4F1Fec34.json",
+  "Githubs": "https://github.com/PopPunkLLC/GasliteDrop",
+  "Tags": ""
+}

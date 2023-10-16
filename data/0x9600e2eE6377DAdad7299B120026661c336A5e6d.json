@@ -1,0 +1,42 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://www.linkedin.com/in/theazeemkhan/",
+  "bio": "Azeem Khan is the Head of Impact at Gitcoin.",
+  "contributionDescription": "As the Head of Impact at Gitcoin I'm leading BD, Sales, Partnerships, and so on at Gitcoin DAO for all five of the products and offerings we have. One of those is the Public Goods Network (PGN), which is OP Stack L2 that we recently launched, and part of my role at Gitcoin has been to help further efforts on PGN. This means doing things like connecting the team to individuals at DEXs, wallets, bridges, and so on. ",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://dune.com/cerv1/pgn-bridge",
+      "description": "Over 281 ETH bridged"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://dune.com/cerv1/pgn-bridge",
+      "description": "Almost 12,500 addresses"
+    }
+  ],
+  "impactCategory": [
+    "OP_STACK"
+  ],
+  "impactDescription": "Since PGN is built on top of OP, the way that I look at it is my work is helping to further OP's collective impact, even if not being done under the banner of OP to most people. Especially because part of the sequencer fees that will be paid out on PGN will go back to OP at the end of the day. Meaning PGN's success is also OP's success as well.",
+  "impactMetrics": [
+    {
+      "description": "100,000",
+      "number": 1000,
+      "url": "https://x.com/pgn_eth/status/1678852978885763073?s=20"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x9600e2eE6377DAdad7299B120026661c336A5e6d",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "azeem",
+  "Applicant Type": "INDIVIDUAL",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x9600e2eE6377DAdad7299B120026661c336A5e6d.json",
+  "Githubs": "",
+  "Tags": "OP_STACK"
+}

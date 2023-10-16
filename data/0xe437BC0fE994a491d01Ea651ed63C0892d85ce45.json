@@ -1,0 +1,37 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://twitter.com/viethm91",
+  "bio": "I am a music NFT collector",
+  "contributionDescription": "I've been a music NFT collector on sound.xyz since the early days of the OP network. I have spent a lot of time and effort to collect my favorite music. I see the great potential of music NFT and hope it will grow with Optimism Collective. And I also hope that my contributions will help the strong development of music NFT and spread to more people.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://www.sound.xyz/user/0xe437bc0fe994a491d01ea651ed63c0892d85ce45/collection",
+      "description": "Music NFT"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
+  "impactDescription": "Y dedication to collecting 899 tracks on sound.xyz showcases a remarkable commitment to the music NFT community. My extensive collection not only reflects a deep appreciation for music but also demonstrates my role in preserving and promoting diverse artistic expressions. By actively participating in platforms like sound.xyz, I'm contributing to the growth and vitality of the collective optimism within the music NFT ecosystem. My efforts not only benefit artists but also foster a supportive environment for fellow enthusiasts and creators. Through my contributions, I am helping to build a stronger and more inclusive community that thrives on shared passion and mutual support. Keep up the fantastic work!",
+  "impactMetrics": [
+    {
+      "description": "Music NFT",
+      "number": 899,
+      "url": "https://www.sound.xyz/user/0xe437bc0fe994a491d01ea651ed63c0892d85ce45/collection"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0xe437BC0fE994a491d01Ea651ed63C0892d85ce45",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "viethm91",
+  "Applicant Type": "INDIVIDUAL",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xe437BC0fE994a491d01Ea651ed63C0892d85ce45.json",
+  "Githubs": "",
+  "Tags": "COLLECTIVE_GOVERNANCE"
+}

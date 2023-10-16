@@ -1,0 +1,43 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://github.com/real-poker",
+  "bio": "I am an active defi user, with a primary focus on the options space.",
+  "contributionDescription": "I have been active in options market making and arbitrage on Optimism, leading to more efficient and better prices for defi users on mainnet. Such tasks involve the development of private software to amalgamate quotes from centralized exchanges and run statistical analysis on historical data in order to arrive at a pricing model. In addition, I have been active in OP governance since the launch of the OP Collective.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://optimistic.etherscan.io/address/0x12481822efb3c546AC945C17c8EC54a63Bc95B5C",
+      "description": "OP address"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "I believe having the most liquid and highly traded markets is key to a successful ecosystem. There is a natural monopoly that develops for markets that are able to bootstrap and attract the most liquidity and offer their users the best price execution. However, as protocols upgrade, development time is needed to keep up, with very low profit incentive.",
+  "impactMetrics": [
+    {
+      "description": "Option trades",
+      "number": 768,
+      "url": "https://optimistic.etherscan.io/address/0x12481822efb3c546ac945c17c8ec54a63bc95b5c#tokentxnsErc1155"
+    },
+    {
+      "description": "Transaction Volume $",
+      "number": 602000,
+      "url": "https://debank.com/profile/0x12481822efb3c546ac945c17c8ec54a63bc95b5c/history?chain=op&mode=analysis&token=&t=1695742366125&r=89817"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x12481822efb3c546AC945C17c8EC54a63Bc95B5C",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "real_",
+  "Applicant Type": "INDIVIDUAL",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x12481822efb3c546AC945C17c8EC54a63Bc95B5C.json",
+  "Githubs": "",
+  "Tags": "COLLECTIVE_GOVERNANCE, END_USER_EXPERIENCE_AND_ADOPTION"
+}

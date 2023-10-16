@@ -1,0 +1,37 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "Https://x.com/artsybarber ",
+  "bio": "Ima arty mfr",
+  "contributionDescription": "Im a active trader in the space and don't plan on leaving anytime soon. I add liquidity and volume! Had starting hearing about OP for awhile ago and noticed right away the website is amazing! Bridging was super easy and mobile friendly! So for someone like me who doesn’t know much about the technology, I have to base my knowledge of other things. ",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/tx/0xcbae480ab46d58588ab81f3c59551713cd364f5df38e4e6ed917e51f9a2db2bb",
+      "description": "Transaction on OP"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "I make effective trades across the entire web3 ecosystem! I load up frequently to make trades across all platforms. Been here since 2017 so I must be doing something right with my trades. My trades have mostly been on chain for I have more profits vs losses. Last time I checked i have a 40% roi",
+  "impactMetrics": [
+    {
+      "description": "Transaction",
+      "number": 2596,
+      "url": "https://optimistic.etherscan.io/tx/0xcbae480ab46d58588ab81f3c59551713cd364f5df38e4e6ed917e51f9a2db2bb"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0xef4c8055bFa5b4476deFc1051850698463B9f8A1",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "Artsybarber.eth",
+  "Applicant Type": "INDIVIDUAL",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xef4c8055bFa5b4476deFc1051850698463B9f8A1.json",
+  "Githubs": "",
+  "Tags": "END_USER_EXPERIENCE_AND_ADOPTION"
+}

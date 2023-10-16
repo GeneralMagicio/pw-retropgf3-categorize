@@ -1,0 +1,44 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://www.optimism.io/",
+  "bio": "Crypto Enthusiast & Optimism Ambassador",
+  "contributionDescription": "Since becoming aware of Optimism, I have been promoting and advocating for the adoption of the Optimism layer 2 network within my crypto enthusiast community and beyond. Through informative discussions, educational materials, and community meetups, I have actively worked to raise awareness about the benefits and potential of Optimism. By consistently showcasing its advantages and facilitating its integration into our crypto ecosystem, I have encouraged my friends, fellow enthusiasts, and the broader community to embrace Optimism as a valuable solution, fostering its growth and adoption within the cryptocurrency space",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://www.optimism.io/",
+      "description": "n/a word of mouth with family and friends"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "Through my humble contributions to the Optimism Collective, I've had the privilege of witnessing a noticeable positive impact. It's been heartwarming to see how my modest efforts to raise awareness and encourage adoption have resonated within my little sphere of influence. Slowly but surely, more individuals have become interested in Optimism, leading to a gentle expansion of its ecosystem.",
+  "impactMetrics": [
+    {
+      "description": "Friends aware of Optimism",
+      "number": 27,
+      "url": "https://www.optimism.io/"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 1,
+      "description": "n/a no funding received & none really expected, I just love the project"
+    }
+  ],
+  "payoutAddress": "0xd3814dc9CE28F8388e6254aA48429a8f9BC08b95",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "OpLion",
+  "Applicant Type": "INDIVIDUAL",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xd3814dc9CE28F8388e6254aA48429a8f9BC08b95.json",
+  "Githubs": "",
+  "Tags": "END_USER_EXPERIENCE_AND_ADOPTION"
+}

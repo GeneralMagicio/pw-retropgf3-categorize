@@ -1,0 +1,37 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://www.refimedellin.org/",
+  "bio": "Join the movement towards a more sustainable and equitable future in #Medellín🌱",
+  "contributionDescription": "Our goal is to promote community conversations about innovative regenerative solutions enabled by Web3 technology.\nWe have onboarded new people to the optimism ecosystem teaching them how to create a wallet and import the Optimism Network, we also grant them with a few dollars to have the initial funds for gas fees and savings.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x302E2A0D4291ac14Aa1160504cA45A0A1F2E7a5c",
+      "description": "Wallet Address we use to onboard people"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "We have onboarded new people to the optimism ecosystem teaching them how to create a wallet and import the Optimism Network, we also grant them with a few dollars to have the initial funds for gas fees and savings, this new people learn about blockchain using the Optimism network.",
+  "impactMetrics": [
+    {
+      "description": "People Onboarded",
+      "number": 50,
+      "url": "https://optimistic.etherscan.io/address/0x302E2A0D4291ac14Aa1160504cA45A0A1F2E7a5c"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x2661c66C99f3184Bef72fd3CeD5040398c31D277",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "ReFi Medellín",
+  "Applicant Type": "PROJECT",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x302E2A0D4291ac14Aa1160504cA45A0A1F2E7a5c.json",
+  "Githubs": "",
+  "Tags": "END_USER_EXPERIENCE_AND_ADOPTION"
+}

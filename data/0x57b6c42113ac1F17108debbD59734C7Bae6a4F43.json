@@ -1,0 +1,40 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://www.x.com/0xbala",
+  "bio": "Fan of op",
+  "contributionDescription": "OP is the native governance token of Optimism, a Layer-2 network built to address Ethereum's scalability challenges. Optimism utilises a technology called optimistic rollups to bundle transactions and reduce fees on the Ethereum network.\nBe hold op and stake , vote \nAlways stay touch in op\nBest evm in eth and its fast and smooth\nBeat One \nI want whale in op sure ill did it one day",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/0xbala/status/1704202645630767438?t=YavOrRSjhHBZTltP6e8a-w&s=19",
+      "description": "x.com"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "OP is the native governance token of Optimism, a Layer-2 network built to address Ethereum's scalability challenges. Optimism utilises a technology called optimistic rollups to bundle transactions and reduce fees on the Ethereum network.\nBe hold op and stake , vote \nAlways stay touch in op\nBest evm in eth and its fast and smooth\nBeat One \nI want whale in op sure ill did it one day",
+  "impactMetrics": [
+    {
+      "description": "No",
+      "number": 0,
+      "url": "https://x.com/0xBala"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x57b6c42113ac1F17108debbD59734C7Bae6a4F43",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "SparkBapq",
+  "Applicant Type": "PROJECT",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x57b6c42113ac1F17108debbD59734C7Bae6a4F43.json",
+  "Githubs": "",
+  "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK"
+}

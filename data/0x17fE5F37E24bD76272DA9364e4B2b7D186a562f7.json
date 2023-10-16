@@ -1,0 +1,47 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://twitter.com/JulioPe27734345",
+  "bio": "the more united we are, the stronger we are",
+  "contributionDescription": "I am available to help with whatever is needed. I'm in the crypto world 100%\nparticipo em varias comunidades portuguesas, brazileiras e americanas. posso ajudar na parte de marqting, divulgaçao e sempre que encontre algum bug passo para a equipa. tou disposto aprender e a evoluir ",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/juliokatut",
+      "description": "contribute "
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "I can contribute to a more collaborative and positive environment. Through generating ideas and constructive discussions, I can contribute to the development of solutions to complex challenges such as climate change, poverty and global health. I can assist with education and skills development in a variety of areas, which can lead to an increase in confidence",
+  "impactMetrics": [
+    {
+      "description": "collaborative ",
+      "number": 100,
+      "url": "https://twitter.com/JulioPe27734345"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_1",
+      "currency": "USD",
+      "amount": 5,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0x17fE5F37E24bD76272DA9364e4B2b7D186a562f7",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "katut",
+  "Applicant Type": "PROJECT",
+  "OSS Directory": "Not Found",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x17fE5F37E24bD76272DA9364e4B2b7D186a562f7.json",
+  "Githubs": "https://github.com/juliokatut",
+  "Tags": ""
+}

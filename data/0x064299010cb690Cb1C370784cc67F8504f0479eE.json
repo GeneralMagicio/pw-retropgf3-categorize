@@ -1,0 +1,47 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://twitter.com/Crypto27327880",
+  "bio": "Early Adopter",
+  "contributionDescription": "Active contributor of Optimism, i'm early adopter of Optimism chain, used lots of dex on optimism also tried lots of nft exchange in optimism chain, i have used Quix nft marketplace on optimism also provided liquidity on some dex's also use Uniswap protocol on optimism chain.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://twitter.com/Crypto27327880",
+      "description": "NA"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "Active contributor of Optimism, i'm early adopter of Optimism chain, used lots of dex on optimism also tried lots of nft exchange in optimism chain, i have used Quix nft marketplace on optimism also provided liquidity on some dex's also use Uniswap protocol on optimism chain.",
+  "impactMetrics": [
+    {
+      "description": "NA",
+      "number": 0,
+      "url": "https://twitter.com/Crypto27327880"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 1,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0x064299010cb690Cb1C370784cc67F8504f0479eE",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "Patil",
+  "Applicant Type": "INDIVIDUAL",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x064299010cb690Cb1C370784cc67F8504f0479eE.json",
+  "Githubs": "",
+  "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK"
+}

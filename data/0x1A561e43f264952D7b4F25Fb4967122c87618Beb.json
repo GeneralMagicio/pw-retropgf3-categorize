@@ -1,0 +1,57 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://copin.io",
+  "bio": "Explore, analyze and copy on-chain traders from the top of the perpetual DEX",
+  "contributionDescription": "About Copin\n- Copin enables users to explore, analyze, and copy on-chain traders from top perpetual DEXs like GMX, Kwenta, and more. \n- The platform is designed to serve both traders and investors in the crypto market. These users may have varying levels of knowledge about the market but lack the time for regular market monitoring and trading. They utilize Copin to discover and analyze suitable on-chain traders, begin tracking their activities, and copy their trades. This offers them a new investment channel, with passive income potential, while requiring minimal time commitment.\n- Copin began its development journey in April 2023, and it currently comprises a team of 15 members. The project has already introduced a private beta version for initial users. ",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://app.copin.io",
+      "description": "Dapp Link (private beta version), all features are available for free."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://app.copin.io/stats",
+      "description": "Copin's statistics after 2 months of launching the private beta version"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://docs.copin.io",
+      "description": "Copin documents"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://copin.substack.com/p/copin-analyzer-building-the-leading",
+      "description": "Copin blog's"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "The impacts are as follows:\n\n- Providing traders on perpetual DEX platforms like Synthetix (such as Kwenta, ...) with powerful tools to analyze their own behavior, performance, and the habits of other traders. This helps enhance their skills and improve their psychology when trading.\n- Driving trading volume on Synthetix's protocol through investor copy trading and trader trading volume.\n- Contributing to positioning and enhancing the brand of the Synthetix ecosystem, particularly its perpetual DEX products",
+  "impactMetrics": [
+    {
+      "description": "Total copiers",
+      "number": 270,
+      "url": "https://app.copin.io/stats"
+    },
+    {
+      "description": "Total volume",
+      "number": 3346567,
+      "url": "https://app.copin.io/stats"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x1A561e43f264952D7b4F25Fb4967122c87618Beb",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "Copin.io",
+  "Applicant Type": "PROJECT",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x1A561e43f264952D7b4F25Fb4967122c87618Beb.json",
+  "Githubs": "",
+  "Tags": "END_USER_EXPERIENCE_AND_ADOPTION"
+}

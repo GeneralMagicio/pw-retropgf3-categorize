@@ -1,0 +1,60 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://www.banklessafrica.com/",
+  "bio": "Educating and onboarding everyday Africans to Web3",
+  "contributionDescription": "Bankless Africa has played a pivotal role in creating awareness and accelerating the understanding and adoption of Optimism across Africa. Our efforts have been instrumental in educating and onboarding everyday Africans to the Optimism ecosystem by fervently promoting and propagating the optimistic vision, technology and community.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://banklessafrica.substack.com/",
+      "description": "Bankless Africa newsletter"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://banklessafrica.podbean.com/",
+      "description": "Bankless Africa podcast"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://mirror.xyz/0x74021a7599CF772275c6d5699Fb681bEeB0d7AA8",
+      "description": "Article Publication"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "Education and Awareness\nBankless Africa educated new and existing audience about the Optimism collective through diverse channels, reaching over 3,000 audience across Africa and beyond. Content covered Optimism basics, technology, benefits and usage, fostering a positive outlook for the Op collective in Africa\n\nOnboarding through IRL Meetups\nBankless Africa hosted over 4 meet ups across African cities/villages in Nigeria, Ghana and Kenya focused specifically on effective onboarding. Attendees were showed how to create wallets, add op network and engage in simple transactions such as transfers and minting nfts\n\nCommunity Building \nBankless Africa fostered an Op-centric community by engaging community members in informative AMAs and empowering members to participate in the collective",
+  "impactMetrics": [
+    {
+      "description": "Bankless Africa Optimism Impact tracker",
+      "number": 3000,
+      "url": "https://docs.google.com/spreadsheets/d/16Gmfj8zXZBTPf013mQ19-qaG9M57BHgb5te-BeC0tJQ/edit#gid=647398414"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 6000,
+      "description": "5 newsletters/publication for bDAO's global media campaign for Op vision"
+    },
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 4500,
+      "description": "3 Podcast episodes for bDAO's global media campaign for Op vision"
+    }
+  ],
+  "payoutAddress": "0x40717b5783102ac01bf322D3247a2dC6cD305136",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "Bankless Africa",
+  "Applicant Type": "PROJECT",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x74021a7599CF772275c6d5699Fb681bEeB0d7AA8.json",
+  "Githubs": "",
+  "Tags": "END_USER_EXPERIENCE_AND_ADOPTION"
+}

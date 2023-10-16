@@ -1,0 +1,40 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://www.sound.xyz/user/0xca1a6e5fe34293775fe0dd109d74539b567eec34",
+  "bio": "minted a lot of NFTs the music sound.xyz NFT marke on the OP network ",
+  "contributionDescription": "During my time working at the OP network and participating in the Mint NFT Music project, I made important contributions. First, I researched and applied my knowledge of Blockchain technology and NFTs to the project.\nI contributed to building the Mint NFT Music community. I was involved in creating and managing communication channels and forums so that users and artists could interact, share ideas and interact with each other. \nTo sum up, through researching Blockchain technology, I have made significant contributions to the OP network and the Mint NFT Music project. I am pleased to have the opportunity to contribute to the development of a cutting-edge and innovative platform in the fields of music and technology.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://www.sound.xyz/user/0xca1a6e5fe34293775fe0dd109d74539b567eec34",
+      "description": "This is the sound.xyz account and the music I minted on sound.xyz"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "I contributed to building the Mint NFT Music community. I was involved in creating and managing communication channels and forums so that users and artists could interact, share ideas and interact with each other. I have ensured that the community is built on a spirit of support and creativity, thereby creating a positive and growing environment for everyone involved.\n\nTo sum up, through researching Blockchain technology, designing user interfaces, developing data management systems and building communities, I have made significant contributions to the OP network and the Mint NFT Music project. . I am pleased to have the opportunity to contribute to the development of a cutting-edge and innovative platform in the fields of music and technology.",
+  "impactMetrics": [
+    {
+      "description": "765",
+      "number": 765,
+      "url": "https://www.sound.xyz/user/0xca1a6e5fe34293775fe0dd109d74539b567eec34"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0xCa1A6e5fE34293775fE0dD109d74539b567eEc34",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "Nguyễn Đức Việt",
+  "Applicant Type": "INDIVIDUAL",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xCa1A6e5fE34293775fE0dD109d74539b567eEc34.json",
+  "Githubs": "",
+  "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK"
+}

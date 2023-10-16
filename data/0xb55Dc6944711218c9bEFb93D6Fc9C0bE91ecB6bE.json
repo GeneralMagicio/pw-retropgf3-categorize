@@ -1,0 +1,39 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://twitter.com/terrarekt",
+  "bio": "Harness the power of blockchain to create an equitable future for all.",
+  "contributionDescription": "The Optimism Collective's commitment to transparency and collaboration stood out. As my involvement deepened I transitioned from passive to active participation, collaborating on real-world blockchain solutions. Through the collective, I learned that blockchain's true power lies in its communities.\n\nWith RetroPGF, I could add or create a better cohort with talents in onboarding and educating new or seasoned users to better understand and leverage on-chain application.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://zealy.io/c/perpvangelist/questboard",
+      "description": "Community Education & Activities through Quest"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "Goals and Objectives:\n1. Simplify Onboarding.\n2. Increase User Adoption.\n3. Community Engagement.\n4. Educational Resources.\n\nChallenges Faced:\nIntegrating Optimism's Layer 2 solution with Perpetual Protocol presented technical challenges that required extensive collaboration with developers. Educating users about Layer 2 technology and the advantages of using Optimism required a concerted effort through clear and accessible resources.\n\nScaling Impact: Our success will serve as a model for fostering user adoption and onboarding across other blockchain projects, ultimately contributing to the growth of the entire blockchain ecosystem.\n\n",
+  "impactMetrics": [
+    {
+      "description": "Quest Board",
+      "number": 1,
+      "url": "https://zealy.io/c/perpvangelist/questboard"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0xb55Dc6944711218c9bEFb93D6Fc9C0bE91ecB6bE",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "terrarekt",
+  "Applicant Type": "INDIVIDUAL",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xb55Dc6944711218c9bEFb93D6Fc9C0bE91ecB6bE.json",
+  "Githubs": "",
+  "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION"
+}

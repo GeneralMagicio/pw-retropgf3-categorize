@@ -1,0 +1,44 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://www.facebook.com/apichai.srisong/",
+  "bio": "Hi",
+  "contributionDescription": "I'm an early adopter. and still use it every day Until now I was a believer in this op idea from the beginning. And the more I use it, the more confident I become. Hopefully I can grow with this community that I love. Finally, I would like to thank you for creating this lovely community.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x0bF1fEe0f3DBb4031e4C12E2985df93F267D53AB",
+      "description": "https://twitter.com/Apichai_thebank"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
+  "impactDescription": "I'm an early adopter. and still use it every day Until now I was a believer in this op idea from the beginning. And the more I use it, the more confident I become. Hopefully I can grow with this community that I love. Finally, I would like to thank you for creating this lovely community.",
+  "impactMetrics": [
+    {
+      "description": "1",
+      "number": 1,
+      "url": "https://twitter.com/Apichai_thebank"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 5000,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0x0bF1fEe0f3DBb4031e4C12E2985df93F267D53AB",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "thebank",
+  "Applicant Type": "INDIVIDUAL",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x0bF1fEe0f3DBb4031e4C12E2985df93F267D53AB.json",
+  "Githubs": "",
+  "Tags": "COLLECTIVE_GOVERNANCE"
+}

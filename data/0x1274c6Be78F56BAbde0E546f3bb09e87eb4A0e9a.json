@@ -1,0 +1,38 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://x.com/Ran63066731/status/1666465208557244419?s=20",
+  "bio": "信仰optimism，坚定持有$op，积极参与optimism建设",
+  "contributionDescription": "I often publicize optimism with friends around me, asking them to participate in the construction of this great project. Besides, I firmly hold $op and actively participate in the governance and construction. I will try my best to publicize optimism in the future and make my own modest contribution.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://x.com/Ran63066731/status/1666465208557244419?s=20",
+      "description": "X(Twitter)"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "OP_STACK"
+  ],
+  "impactDescription": "I often publicize optimism with friends around me, asking them to participate in the construction of this great project. Besides, I firmly hold $op and actively participate in the governance and construction. I will try my best to publicize optimism in the future and make my own modest contribution.",
+  "impactMetrics": [
+    {
+      "description": "I love optimism",
+      "number": 1,
+      "url": "https://x.com/Ran63066731/status/1666465208557244419?s=20"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x1274c6Be78F56BAbde0E546f3bb09e87eb4A0e9a",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "Mr.ran",
+  "Applicant Type": "INDIVIDUAL",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x1274c6Be78F56BAbde0E546f3bb09e87eb4A0e9a.json",
+  "Githubs": "",
+  "Tags": "COLLECTIVE_GOVERNANCE, OP_STACK"
+}

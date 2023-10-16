@@ -1,0 +1,50 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://pairwise.generalmagic.io/",
+  "bio": "Simplifying choices, amplifying voices. A playful twist on digital democracy.",
+  "contributionDescription": "Optimism's vast ecosystem presents a challenge: assigning percentages to 196 projects. This can be overwhelming and biased towards known projects. Pairwise simplifies this by presenting just two projects at a time, easing decision-making. Our game format emphasizes individual expertise. Users signal their knowledge areas, guiding them to vote where their expertise shines. This ensures every vote is informed and impactful, making governance more efficient and democratic.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://pairwise.generalmagic.io/",
+      "description": "will add one of those for each milestone we accomplished"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
+  "impactDescription": "Pairwise has been a transformative addition to the Optimism Collective. By streamlining the decision-making process, we've made it easier for members to evaluate numerous projects without feeling overwhelmed. While its full potential is yet to be realized as more members engage, Pairwise promises a more democratic, efficient, and inclusive future for Optimism's decision-making, ensuring every voice is heard and valued.",
+  "impactMetrics": [
+    {
+      "description": "ill update later",
+      "number": 43,
+      "url": "https://pairwise.generalmagic.io/"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 7800,
+      "description": ""
+    },
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 90,
+      "description": "locked"
+    }
+  ],
+  "payoutAddress": "0xc8d65e1bd67f16522e3117b980e1c9d2caeb9dc3",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "Pairwise",
+  "Applicant Type": "PROJECT",
+  "OSS Directory": "Address Found",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x3EF1b0db4D10d2e3cE06699C0BD4EF0aAf897614.json",
+  "Githubs": "",
+  "Tags": ""
+}

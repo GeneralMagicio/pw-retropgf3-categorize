@@ -1,0 +1,47 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://t.me/cryptoproturk",
+  "bio": "Hello World",
+  "contributionDescription": "Airdrop or project or comunityAirdrop or project or comunityAirdrop or project or comunityAirdrop or project or comunityAirdrop or project or comunityAirdrop or project or comunityAirdrop or project or comunityAirdrop or project or comunityAirdrop or project or comunityAirdrop or project or comunity",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/token/0x4200000000000000000000000000000000000042?a=0xd2d96a74db5f320708c0ea6280884878779aa75a",
+      "description": "optimisim love you"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "Airdrop or project or comunity Airdrop or project or comunityAirdrop or project or comunityAirdrop or project or comunityAirdrop or project or comunityAirdrop or project or comunityAirdrop or project or comunityAirdrop or project or comunityAirdrop or project or comunityAirdrop or project or comunity",
+  "impactMetrics": [
+    {
+      "description": "optimisim",
+      "number": 240,
+      "url": "https://app.optimism.io/"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 100000,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0xd2d96a74DB5f320708C0eA6280884878779AA75a",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "Cryptoproturk",
+  "Applicant Type": "INDIVIDUAL",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xd2d96a74DB5f320708C0eA6280884878779AA75a.json",
+  "Githubs": "",
+  "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK"
+}

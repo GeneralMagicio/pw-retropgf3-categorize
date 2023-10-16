@@ -1,0 +1,49 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://www.lemon.me/en",
+  "bio": "Lemon - Launching civilization into the future of money and internet",
+  "contributionDescription": "Lemon’s contributions had and impact in different areas. More precisely:\n\n- Social + Education —> Lemon users have an extremely easy way to get exposure to Optimism network + Token usage through our app. Moreover, we are constantly creating new educational content about Web3, Blockchain and all the tokens and networks we list in our app so as to solve any entering barriers for newcomers. You can read more about it in our Educational Content Impact report listed below.\n- Access to Optimism network —> By using our app, users in 7 different Latin American countries can buy, deposit and withdraw OP, ETH and USDT through the Optimism network in just a few clicks.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://lemoncash.notion.site/Optimism-Educational-Content-Impact-8054880b783c49e18bede5e4077c5bb9?pvs=4",
+      "description": "Optimism Educational Content Impact "
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "- Extending the knowledge of Optimism as a whole, with the reach that Lemon currently has in Latin America and the different channels to make this happen, it had a huge impact in terms of extending Optimism collective vision to the future.\n- Onboarding thousands of users that most probably did not have a direct access to the Optimism network and ecosystem by providing an easy-to-use fiat on-ramp for trading OP, ETH and USDT on Optimism network.",
+  "impactMetrics": [
+    {
+      "description": "Social media impact metrics",
+      "number": 0,
+      "url": "https://lemoncash.notion.site/Social-media-impact-metrics-0c7821bf9ab24cc5b475c5e35ffc850e?pvs=4"
+    },
+    {
+      "description": "Business metrics",
+      "number": 0,
+      "url": "https://lemoncash.notion.site/Business-Metrics-1c41c843c7e14cc6a6affb6787cc8f93?pvs=4"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 550,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0xe1FF28220a9eDc592733BDcE437BbBaefEF8cbab",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "Lemon",
+  "Applicant Type": "PROJECT",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x6fd96a881b72CAD783B0741309B57Cb7d0Bde18a.json",
+  "Githubs": "",
+  "Tags": "END_USER_EXPERIENCE_AND_ADOPTION"
+}

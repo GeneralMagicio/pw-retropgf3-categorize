@@ -1,0 +1,43 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://1w3.io",
+  "bio": "A secured, censorship resistant Linktree alternative",
+  "contributionDescription": "1W3 has a unique functionality of tokenizing the web templates where website templates can now be tokenized as NFTs and minted directly on Optimism. This introduces a new avenue for creators to monetize their designs and fosters a deeper integration of Optimism in the world of digital assets and design.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x88424BeaC171dfaAcD365f5399DD684a6B66C339",
+      "description": "1W3 templates NFT contract"
+    }
+  ],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "Currently, we've successfully transformed four decentralized websites into customizable templates, which have been created as NFTs on the Optimism network. Enthusiastic users are actively minting these NFTs to craft their unique websites tailored for their respective ENS domains, ushering in a new era of decentralized online presence.",
+  "impactMetrics": [
+    {
+      "description": "Created",
+      "number": 4,
+      "url": "https://opensea.io/collection/1w3-templates-optimism"
+    },
+    {
+      "description": "Mints",
+      "number": 7,
+      "url": "https://opensea.io/collection/1w3-templates-optimism"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x2AC6A3561a43f06d62602eF9728C2B9eEc393326",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "1W3",
+  "Applicant Type": "PROJECT",
+  "OSS Directory": "Address Found",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x2AC6A3561a43f06d62602eF9728C2B9eEc393326.json",
+  "Githubs": "",
+  "Tags": ""
+}

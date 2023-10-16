@@ -1,0 +1,70 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://ethers.org",
+  "bio": "Ethers.js is a simple, compact and complete library for everything Ethereum.",
+  "contributionDescription": "Ethers.js is currently the most popular JavaScript library for Ethereum (and ilk) with over 1 million weekly npm installs (over 110 million, all time)  and is in the top 500 NPM packages by dependents.\n\nEthers has worked closely with the OP team to collaborate on the custom OP extension package as well as integrate new plug-ins for tuning network performance (such as custom priority fees), which are all built-in and automatically used for OP-detected networks.\n\nEthers is also used by many of the other tools and projects which help enable Optimism, such as MetaMask, Uniswap and Hardhat.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/ethers-io/ethers.js",
+      "description": "The Ethers.js project repository."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://ethers.org",
+      "description": "The Ethers.js project website."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://docs.ethers.org",
+      "description": "The Ethers.js documentation."
+    }
+  ],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
+  "impactDescription": "The impact provided by Ethers has been a simple and popular developer library.\n\nMany aspects of Ethers favour simplicity and safety-by-default, such as \"garbage-in, fail loud\" (opposed to \"garbage-in, garbage-out\", which often results in unsafe or error prone behaviour) which has helped protect developers and end-users from innocent mistakes, which could be costly or dangerous in the the blockchain world. Making it difficult to build a foot-gun is a feature.\n\nBy being so widely used, it has also led to the development of many other projects on top of it, further expanding the ecosystem.",
+  "impactMetrics": [
+    {
+      "description": "Downloads",
+      "number": 111000,
+      "url": "https://npm-stat.com/charts.html?package=ethers&from=2018-01-01&to=2023-10-01"
+    },
+    {
+      "description": "GitHub Stars",
+      "number": 7100,
+      "url": "https://github.com/ethers-io/ethers.js"
+    },
+    {
+      "description": "GitHub Forks",
+      "number": 1700,
+      "url": "https://github.com/ethers-io/ethers.js"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 209140,
+      "description": ""
+    },
+    {
+      "type": "RETROPGF_1",
+      "currency": "USD",
+      "amount": 51345,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0x8ba1f109551bD432803012645Ac136ddd64DBA72",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "ethers.js",
+  "Applicant Type": "PROJECT",
+  "OSS Directory": "Address & Github Found",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x8ba1f109551bD432803012645Ac136ddd64DBA72.json",
+  "Githubs": "https://github.com/ethers-io/ethers.js",
+  "Tags": ""
+}

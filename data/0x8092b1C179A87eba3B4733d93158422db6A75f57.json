@@ -1,0 +1,52 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://twitter.com/ManojYa67345756",
+  "bio": "I am artist from born and now working on crypto arts",
+  "contributionDescription": "I am early adopter of optimism and i deployed NFTs on its early market places. i advertise about OP in my community's. traded here since last long time with best tokens like uniswap and 1 inch like protocols. \n    now i am also using gitcoin grants  with the use of optimism chain. i am optimism lover...",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://twitter.com/ManojYa67345756",
+      "description": "working together"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://twitter.com/ManojYa67345756",
+      "description": "love  it"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "it will grow the community's of optimism and will increase hopes and loyalty of optimism chain. it will be number one as layer two solution as fork of etherium cahin. it is great shadow  chain of the etherium mainnet. it will be the future of the word and will increase manner of decentralized payment system.",
+  "impactMetrics": [
+    {
+      "description": "11",
+      "number": 420,
+      "url": "https://twitter.com/ManojYa67345756"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 10000,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0x8092b1C179A87eba3B4733d93158422db6A75f57",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "ShivaSwap",
+  "Applicant Type": "INDIVIDUAL",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x8092b1C179A87eba3B4733d93158422db6A75f57.json",
+  "Githubs": "",
+  "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK"
+}

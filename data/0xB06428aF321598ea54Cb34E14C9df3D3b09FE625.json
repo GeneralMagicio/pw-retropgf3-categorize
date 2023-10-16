@@ -1,0 +1,44 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://drp-service.com.ua/",
+  "bio": "good",
+  "contributionDescription": "The closer the peak of the pandemic associated with the spread of coronavirus infection is, the more clearly another peak is felt - the peak of inventing and spreading speculation and rumors regarding the operation of ventilation and air conditioning systems and the harm from them.\n\nIn the current situation, it is necessary to dot all the i’s and honestly answer the most popular questions about the operation of ventilation and air conditioning systems during epidemics and pandemics. Moreover, it is not that difficult. The main thing is to be guided by basic knowledge from the field of hard currency and ordinary human logic.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://drp-service.com.ua/",
+      "description": "700"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "The closer the peak of the pandemic associated with the spread of coronavirus infection is, the more clearly another peak is felt - the peak of inventing and spreading speculation and rumors regarding the operation of ventilation and air conditioning systems and the harm from them.\n\nIn the current situation, it is necessary to dot all the i’s and honestly answer the most popular questions about the operation of ventilation and air conditioning systems during epidemics and pandemics. Moreover, it is not that difficult. The main thing is to be guided by basic knowledge from the field of hard currency and ordinary human logic.",
+  "impactMetrics": [
+    {
+      "description": "2",
+      "number": 788,
+      "url": "https://drp-service.com.ua/"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 600,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0xB06428aF321598ea54Cb34E14C9df3D3b09FE625",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "Ruslan",
+  "Applicant Type": "PROJECT",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xB06428aF321598ea54Cb34E14C9df3D3b09FE625.json",
+  "Githubs": "",
+  "Tags": "END_USER_EXPERIENCE_AND_ADOPTION"
+}

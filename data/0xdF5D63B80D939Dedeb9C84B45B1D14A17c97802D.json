@@ -1,0 +1,47 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://bio.xyz",
+  "bio": "Director of Product at Molecule",
+  "contributionDescription": "We're a DAO accelerator for patient communities, and we've crafted two tools on Optimism:\n\nToken Vesting Contract: It allows bounties for patient contributors, ensuring long-term commitment while granting immediate voting rights. This promotes genuine community participation over speculation.\n\nNFT Badges via Otterspace: To meet Swiss regulations, we issue NFT badges post KYC/AML checks for contributions over 1,000 Swiss Francs. The NFTs, with embedded metadata, ensure contributors are verified, making the donation process seamless and compliant.\n\nYour support can amplify our community-driven mission.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xdccb39b5c9ea6827c6da14754ee3c0743e126b01",
+      "description": "KYC-AML-NFT"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x761a3557184cbc07b7493da0661c41177b2f97fa",
+      "description": "Example vesting contract for hair loss patient community."
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "At our DAO accelerator for patient communities, our contributions on Optimism have been twofold:\n\nToken Vesting Contract: Deployed on Optimism, this not only saved costs but also optimized transaction speeds. It promotes genuine, long-term community involvement by providing immediate voting rights to contributors, aligning with Optimism's ethos of community empowerment.\n\nNFT Badges via Otterspace: To streamline the compliance process, we used Optimism for efficient NFT minting, ensuring that sizable contributions remain transparent and trustworthy. This approach has showcased Optimism’s potential in regulatory use-cases, further diversifying its applicability.\n\nOur efforts aim to enhance Optimism's community-centric vision.",
+  "impactMetrics": [
+    {
+      "description": "Number of OP users",
+      "number": 120,
+      "url": "https://optimistic.etherscan.io/address/0xdccb39b5c9ea6827c6da14754ee3c0743e126b01"
+    },
+    {
+      "description": "Number of OP users",
+      "number": 50,
+      "url": "https://optimistic.etherscan.io/address/0x761a3557184cbc07b7493da0661c41177b2f97fa"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0xf61C1406f748185B5b39C54b3e93b2d60a81FF28",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "Bio.xyz",
+  "Applicant Type": "PROJECT",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xdF5D63B80D939Dedeb9C84B45B1D14A17c97802D.json",
+  "Githubs": "",
+  "Tags": "END_USER_EXPERIENCE_AND_ADOPTION"
+}

@@ -1,0 +1,128 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://www.thevse.io/",
+  "bio": "we are media ecosystem, telling about crypto, finances and technologites",
+  "contributionDescription": "since aprill 2022 we spreading information about many events and announcements interconnected with Optimism and it's ecosystem. We've talked about your retrodrop and project, we've talked about new activities coming online, we've talked about major events such as the launch of Optimism Collective and others, we've talked about new polls and the trend of governance mechanisms evolving  ",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://t.me/thevse",
+      "description": "CIS media-ecosystem talking about cryptocurrencies and finances "
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "since aprill 2022 we spreading information about many events and announcements interconnected with Optimism and it's ecosystem. We've talked about your retrodrop and project, we've talked about new activities coming online, we've talked about major events such as the launch of Optimism Collective and others, we've talked about new polls and the trend of governance mechanisms evolving  ",
+  "impactMetrics": [
+    {
+      "description": "14,5 k views",
+      "number": 100,
+      "url": "https://t.me/thevse/2043"
+    },
+    {
+      "description": "15,7 k views",
+      "number": 97,
+      "url": "https://t.me/thevse/2155"
+    },
+    {
+      "description": "15,2 k views",
+      "number": 98,
+      "url": "https://t.me/thevse/2176"
+    },
+    {
+      "description": "13,1 k views",
+      "number": 97,
+      "url": "https://t.me/thevse/2426"
+    },
+    {
+      "description": "12,1 k views",
+      "number": 100,
+      "url": "https://t.me/thevse/2452"
+    },
+    {
+      "description": "17,7 k views",
+      "number": 100,
+      "url": "https://t.me/thevse/2527"
+    },
+    {
+      "description": "15 k views",
+      "number": 100,
+      "url": "https://t.me/thevse/2557"
+    },
+    {
+      "description": "13k views",
+      "number": 100,
+      "url": "https://t.me/thevse/2734"
+    },
+    {
+      "description": "12,2 k views",
+      "number": 100,
+      "url": "https://t.me/thevse/2764"
+    },
+    {
+      "description": "20k views",
+      "number": 100,
+      "url": "https://t.me/thevse/2815"
+    },
+    {
+      "description": "20,9 k views",
+      "number": 100,
+      "url": "https://t.me/thevse/2816"
+    },
+    {
+      "description": "12,7 k views",
+      "number": 100,
+      "url": "https://t.me/thevse/2881"
+    },
+    {
+      "description": "11,6 k views",
+      "number": 100,
+      "url": "https://t.me/thevse/2912"
+    },
+    {
+      "description": "11,3 k views",
+      "number": 100,
+      "url": "https://t.me/thevse/2947"
+    },
+    {
+      "description": "11,3 k views",
+      "number": 100,
+      "url": "https://t.me/thevse/3024"
+    },
+    {
+      "description": "9,8 k views",
+      "number": 100,
+      "url": "https://t.me/thevse/3162"
+    },
+    {
+      "description": "13,5 k views",
+      "number": 100,
+      "url": "https://t.me/thevse/3311"
+    },
+    {
+      "description": "11,6 k views",
+      "number": 100,
+      "url": "https://t.me/thevse/3507"
+    },
+    {
+      "description": "10,3 k views",
+      "number": 100,
+      "url": "https://t.me/thevse/3526"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x70a4e7e0b399c6AB736B15d66410f7015a8C6663",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "The VSЁ",
+  "Applicant Type": "PROJECT",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x70a4e7e0b399c6AB736B15d66410f7015a8C6663.json",
+  "Githubs": "",
+  "Tags": "COLLECTIVE_GOVERNANCE, END_USER_EXPERIENCE_AND_ADOPTION"
+}

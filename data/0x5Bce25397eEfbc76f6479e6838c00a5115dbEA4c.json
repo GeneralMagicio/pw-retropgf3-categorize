@@ -1,0 +1,44 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://medium.com/@Realmoonverse",
+  "bio": "Explorer | I Write Contents To Educate, Reveal, Fun, Grow Community.",
+  "contributionDescription": "Within the vibrant Optimism community, I'm deeply engaged, sharing in-depth insights into governance and product functionality. \n\nTogether, we're actively contributing to the creation of what we call a 'super chain.' This super chain isn't just fast; it operates at warp speed, setting new standards for security and cost-effectiveness. \n\nMy journey with Optimism has been incredibly inspiring, and I'm eagerly committed to further exploring the vast potential of this remarkable platform alongside our innovative community.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://medium.com/@Realmoonverse",
+      "description": "Nil"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "It showcases a deep commitment to the platform, fostering enthusiasm, knowledge sharing, and collaboration. \n\nSuch involvement can strengthen community bonds, attract new members, and contribute to the ongoing success and growth of the Optimism ecosystem. ",
+  "impactMetrics": [
+    {
+      "description": "10-100",
+      "number": 500,
+      "url": "https://medium.com/@Realmoonverse"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 2700,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0x5Bce25397eEfbc76f6479e6838c00a5115dbEA4c",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "Moonverse",
+  "Applicant Type": "INDIVIDUAL",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x5Bce25397eEfbc76f6479e6838c00a5115dbEA4c.json",
+  "Githubs": "",
+  "Tags": "END_USER_EXPERIENCE_AND_ADOPTION"
+}

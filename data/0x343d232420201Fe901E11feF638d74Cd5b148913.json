@@ -1,0 +1,47 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://twitter.com/abdullahranim0",
+  "bio": "i am student",
+  "contributionDescription": "Optimism is a layer 2 chain, meaning it functions on top of Ethereum mainnet (layer 1). Transactions take place on Optimism, but the data about transactions get posted to mainnet where they are validated. It’s like driving in a less crowded side street while benefiting from the security of a highway.\nOptimism is the second-largest Ethereum layer 2 with a total of $313 million locked into its smart contracts, as of this writing, according to Defi Llama. Arbitrum comes first with $1.32 billion.\n\n",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x343d232420201Fe901E11feF638d74Cd5b148913",
+      "description": "great"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "Optimism is a layer 2 chain, meaning it functions on top of Ethereum mainnet (layer 1). Transactions take place on Optimism, but the data about transactions get posted to mainnet where they are validated. It’s like driving in a less crowded side street while benefiting from the security of a highway.\nOptimism is the second-largest Ethereum layer 2 with a total of $313 million locked into its smart contracts, as of this writing, according to Defi Llama. Arbitrum comes first with $1.32 billion.",
+  "impactMetrics": [
+    {
+      "description": "Ranim",
+      "number": 2,
+      "url": "https://optimistic.etherscan.io/address/0x343d232420201Fe901E11feF638d74Cd5b148913"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 0.001,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0x343d232420201Fe901E11feF638d74Cd5b148913",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "Abdullah All Ranim",
+  "Applicant Type": "INDIVIDUAL",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x343d232420201Fe901E11feF638d74Cd5b148913.json",
+  "Githubs": "",
+  "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK"
+}

@@ -1,0 +1,75 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://bit.ly/nanobrocontent",
+  "bio": "Educator for OP users/contributors.  Trusted by 71 people for 19k voting power",
+  "contributionDescription": "1)  Educator for OP contributors, Grantee, Users:\n\n- Not only targeting users but also aiming to onboard more contributors.\n- I dedicate 65% of my content to OP stack.\n- Onboarding other chain users.\n\nCover:\n- How to contribute to OP\n- Consulting (how-to/procedure) about OP contribution\n- Dapp knowledge\n- Security\n- Defi\n- Tech insights\n- Investment opportunities\n\n\n2) \"OP Grants the Series\" - a continuous initiative:\n✅ Educated individuals about the projects that get OP grants.\n✅ Promoted the \"impact = profit\" philosophy.\n✅ Encouraged more people to build with OP.\n✅ Users know what's going on in OP ecosystem.\n\n\n3) RetweetDAO - Discord Community \nFor those interested in contributing to OP:\n- Provides consultation\n- Offers guidelines\n- Kickstarts new contributors.\n- Tools & resources.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://bit.ly/nanobrocontent",
+      "description": "250+ of notable contents align with OP vision"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/0x_nanobro/status/1709548190884827477",
+      "description": "OP Grants the series by Nanobro"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://discord.com/invite/Y5RdVcZ3GZ",
+      "description": "RetweetDAO: community for OP contributors"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "1. Education contents\n- Both Thai and English\n- More than 250 notable contents across 6+ months.\n- 4M+ impression\n- 2550 blockchain enthusiast followers\n- 70+ delegators\n- 131+ people learn how to deploy smart contracts\n\n\n2. There are 215 contributors in the Discord community. Some have already started contributing to retroPGF and the associated grants.\n\n\n3) 20 episodes of  \"OP Grants the Series\"\n- 1 project per episode\n- impression\n- retweet\n- engagement rate.",
+  "impactMetrics": [
+    {
+      "description": "250 notable contents",
+      "number": 250,
+      "url": "https://bit.ly/nanobrocontent"
+    },
+    {
+      "description": "OP grants the series (episodes)",
+      "number": 20,
+      "url": "https://twitter.com/0x_nanobro/status/1709548190884827477"
+    },
+    {
+      "description": "RetweetDAO community for OP contributors",
+      "number": 202,
+      "url": "https://discord.com/invite/Y5RdVcZ3GZ"
+    },
+    {
+      "description": "Delegators (or more)",
+      "number": 71,
+      "url": "https://vote.optimism.io/delegate/nanobro.eth"
+    },
+    {
+      "description": "New smart contract builder",
+      "number": 131,
+      "url": "https://web3.gadgeteer.in.th/deploy-smart-contract-get-nft-from-base-speculate-other-airdrop"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 0,
+      "description": "never received any grant. "
+    }
+  ],
+  "payoutAddress": "0x22e2f326FE5A1d07E1214EB1C08346Fd816E8375",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "Gadgeteer (nanobro)",
+  "Applicant Type": "INDIVIDUAL",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x22e2f326FE5A1d07E1214EB1C08346Fd816E8375.json",
+  "Githubs": "",
+  "Tags": "COLLECTIVE_GOVERNANCE, END_USER_EXPERIENCE_AND_ADOPTION"
+}

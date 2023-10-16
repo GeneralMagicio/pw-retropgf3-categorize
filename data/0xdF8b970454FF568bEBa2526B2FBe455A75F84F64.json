@@ -1,0 +1,45 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://m.youtube.com/c/CryptoMage",
+  "bio": "moderator french youtube cryptomage",
+  "contributionDescription": "our contribution to OP is very important through the channel we highlight OP in videos that we share with a ready community of 10,000 members on Discord and more than 2,000 followers on Twitter.\n\nwe explain to the community all the projects revolving around OP and participate in the mutual aid of the members who are present.\n\nevery request is handled personally and we help because it is our passion\n\nsubjects: mint/blocked transaction ect",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://x.com/cryptomage_yt?s=21&t=rs1zHo7TG5Yr0A09ccT1ag",
+      "description": "account X"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://m.youtube.com/c/CryptoMage",
+      "description": "youtube"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "ps: I am copying and pasting because I have summarized all our actions here\n\nour contribution to OP is very important through the channel we highlight OP in videos that we share with a ready community of 10,000 members on Discord and more than 2,000 followers on Twitter.\n\nwe explain to the community all the projects revolving around OP and participate in the mutual aid of the members who are present.\n\nevery request is handled personally and we help because it is our passion\n\nsubjects: mint/blocked transaction ect",
+  "impactMetrics": [
+    {
+      "description": "youtube",
+      "number": 1,
+      "url": "https://m.youtube.com/c/CryptoMage"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0xdF8b970454FF568bEBa2526B2FBe455A75F84F64",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "carpentier",
+  "Applicant Type": "PROJECT",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xdF8b970454FF568bEBa2526B2FBe455A75F84F64.json",
+  "Githubs": "",
+  "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK"
+}

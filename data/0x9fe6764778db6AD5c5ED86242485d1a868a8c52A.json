@@ -1,0 +1,60 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://defi-lab.xyz/",
+  "bio": "DefiLab: Open-source tools for DeFi risk & reward analysis. Founded in 2020",
+  "contributionDescription": "We are actively contributing to the Optimism ecosystem by developing open-source tools designed to help DeFi users make informed decisions about liquidity provision. Our tools are free to use and focus on quantifying both the risks and rewards associated with various DeFi protocols. Specifically, we have created two key tools tailored for Optimism:\n\nUniswap V3 Strategy Simulator and Backtester for Optimism\nPerpetual Protocol Strategy Simulator and Backtester for Optimism",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/DefiLab-xyz",
+      "description": "Open source code for our project"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "Our project empowers DeFi users on Optimism by providing insightful risk-reward analyses for liquidity provision across multiple protocols, including Uniswap and Perpetual Protocol. By offering this support, we aim to unlock new capital streams, thereby contributing to the accelerated growth and activity on the Optimism network.",
+  "impactMetrics": [
+    {
+      "description": "Monthly active users",
+      "number": 5000,
+      "url": "https://defi-lab.xyz/"
+    },
+    {
+      "description": "Github stars",
+      "number": 89,
+      "url": "https://github.com/DefiLab-xyz"
+    },
+    {
+      "description": "Github forks",
+      "number": 38,
+      "url": "https://github.com/DefiLab-xyz"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 30000,
+      "description": "Uniswap Grant"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 50000,
+      "description": "Gitcoin contribution"
+    }
+  ],
+  "payoutAddress": "0x9fe6764778db6AD5c5ED86242485d1a868a8c52A",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "Defi-lab.xyz",
+  "Applicant Type": "PROJECT",
+  "OSS Directory": "Address & Github Found",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x9fe6764778db6AD5c5ED86242485d1a868a8c52A.json",
+  "Githubs": "https://github.com/DefiLab-xyz",
+  "Tags": ""
+}

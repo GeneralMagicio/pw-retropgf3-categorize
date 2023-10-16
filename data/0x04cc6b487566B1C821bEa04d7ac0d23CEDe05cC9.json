@@ -1,0 +1,175 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://go.zenbit.mx",
+  "bio": "A public good for collaborative governance in cities with plural voting",
+  "contributionDescription": "The zengoDAO contracts enable the addition of a decentralized budget for cities, empowering citizens to participate in urban governance with proposals to address community needs in public spaces.\n\nModerators allocate the decentralized budget through an iterative verification process with local, regional, and national government instances. Then, they vote to distribute the funds among the verified submissions with a plural voting round.\n\nZengo results from R&D around urban governance and retroactive funding carried out by zenbit.eth. This process started with the Cities Protocol in 2021 followed by CiudadesDAO in 2022. In the same year, We started to test Optimism, deploying RegensDAO, and Eneagon, and now, in 2023, we are integrating these solutions with Zengo in the OP Goerli testnet.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://goerli-optimism.etherscan.io/address/0x0a5f6f977e77b718c995f2924862aaa464fa7f19#code",
+      "description": "zengoDAO contracts (Urban Governance)"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/zenbitETH/zengo/",
+      "description": "Zengo code repository"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/zenbitETH/zengo/milestones",
+      "description": "Zengo development milestones"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://ethglobal.com/showcase/spacetimedao-ukw1r",
+      "description": "SpacetimeDAO (previous iteration) @ Space Warp 2023"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xa7dc76Ae4A98da6352F283874b4C6d3BFb817dC1#code",
+      "description": "Regens DAO contract (Urban Governance)"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xb3911d5F92181fF728C72F0a162e8D6f3BDD5b66#code",
+      "description": "Regens Accout NFT (Urban Gaming)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://ethglobal.com/showcase/regens-9hxb6",
+      "description": "Regens @ ETH Bogota 2022 (previous iteration)"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://goerli-optimism.etherscan.io/address/0x78abDA89cFaA7ebe9D27423B8aF6e3018f9a6A8D",
+      "description": "Decentralized Commerce Product NFT contract (Urban Gaming)"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xBace7a1b6ee3FB476fc5fEb7E7bf3a60293bC3cb#code",
+      "description": "Punk Cities Contract (Urban Gaming)"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xb3911d5F92181fF728C72F0a162e8D6f3BDD5b66#code",
+      "description": "Regens Accout NFT (Urban Gaming)"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xBace7a1b6ee3FB476fc5fEb7E7bf3a60293bC3cb#code",
+      "description": "Soulbounded NFT for Retroactive Funding (DAO funding)"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://goerli-optimism.etherscan.io/address/0xfa343b1755a7197b2164b8ca55cf425aee6c6efa",
+      "description": "Eneagon Project NFT for Retroactive Funding (DAO funding)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://ethglobal.com/showcase/eneagon-0hf0o",
+      "description": "Eneagon @ ETH Online 2022 (previous iteration)"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/zenbitETH/Ciudades-DAO",
+      "description": "Ciudades DAO public template (Tested in Querétaro City)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/CiudadesDao",
+      "description": "Ciudades DAO thread @ X"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://ethglobal.com/showcase/cities-protocol-qtxz8",
+      "description": "Cities Protocol prototype @ Scaling Ethereum 2021"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/watch?v=7LwOqEkJd-w",
+      "description": "Ciudades DAO @ CIT 2022"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/watch?v=Dn3ryqVLCvo&list=PLHFx-alshFKmp0HiXrWk3_MbDx0Ckj_3G",
+      "description": "Web3 tutorial for Ciudades DAO"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/watch?v=xSm8MPsCGpQ",
+      "description": "Live event for Ciudades DAO"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://youtu.be/G7e5jdp9mhc",
+      "description": "Zengo @ CIT 2023"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "- 35 citizens participated in Ciudades DAO public test\n- 6 POAPs from Zengo private test 1\n- 12 Modeators POAPs from Zengo private test 2\n- 4 Citizen POAPS from Zengo private test 2\n- We published one article in the \"Transparent Mexico\" magazine about the decentralized budget in Queretaro.\n- Special Mention for Ciudades DAO in The Innovation in Transparency Contest 2022\n- Optimism mentioned during the Zengo presentation at the Innovation in Transparency Contest 2023",
+  "impactMetrics": [
+    {
+      "description": "Citizens in Ciudades DAO public test",
+      "number": 35,
+      "url": "https://mirror.xyz/zenbit.eth/C97UHLp2-uu7ZEdBiS5ljrw5EozOI7dELHa0ZDqVqo4"
+    },
+    {
+      "description": "POAPs from Zengo private test 1",
+      "number": 6,
+      "url": "https://poap.gallery/event/145623"
+    },
+    {
+      "description": "Zengo Modeators POAPs",
+      "number": 12,
+      "url": "https://poap.gallery/event/148610"
+    },
+    {
+      "description": "Zengo Citizen POAPS",
+      "number": 4,
+      "url": "https://poap.gallery/event/148609"
+    },
+    {
+      "description": "Article in \"Transparent Mexico\" magazine",
+      "number": 1,
+      "url": "https://snt.org.mx/wp-content/uploads/formado-Mexico-transparente-no.2-diciembre-2021-final.pdf#page=107"
+    },
+    {
+      "description": "Special mention in National Contest 2022",
+      "number": 1,
+      "url": "https://x.com/vinculasociedad/status/1592582849315581952?s=20"
+    },
+    {
+      "description": "Optimisim mention in National Contest",
+      "number": 1,
+      "url": "https://x.com/zenbitMX/status/1691265665296973824?s=20"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 500,
+      "description": "Filecoin Impact Builders "
+    },
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 1532.52,
+      "description": "Retro PGF from eneagon.eth (previous iteration)"
+    }
+  ],
+  "payoutAddress": "0x3A250DFbdDf46f798Ebd2Ef67dDFF10014946E9B",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "zenbit.eth",
+  "Applicant Type": "PROJECT",
+  "OSS Directory": "Not Found",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x04cc6b487566B1C821bEa04d7ac0d23CEDe05cC9.json",
+  "Githubs": "https://github.com/orgs/zenbitETH/repositories",
+  "Tags": ""
+}

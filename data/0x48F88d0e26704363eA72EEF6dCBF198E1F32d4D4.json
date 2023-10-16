@@ -1,0 +1,40 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://twitter.com/phuongnamit28",
+  "bio": "Gem Chip",
+  "contributionDescription": "Tầm nhìn lạc quan là lớn! Và Tầm nhìn lớn này cần được khuếch đại bởi một nhóm đa dạng và liên kết để giúp biến nó thành hiện thực.\n\nChương trình Đại sứ cho phép các thành viên cộng đồng tạo ra nội dung tập trung để đưa Tầm nhìn đến gần hơn với thực tế. Nếu bạn có năng khiếu viết lách, thiết kế hoặc hình ảnh, hãy tham gia!\nNếu dự án của bạn muốn có một chút tình yêu tiếp thị, bạn có các lựa chọn! Đưa dapp của bạn đến với cộng đồng Lạc quan với Ngày thử nghiệm của chúng tôi (hai tuần một lần) .\nNếu được triển khai trên OP Mainnet, bạn có thể được thêm vào trang hệ sinh thái của chúng tôi (mở cửa sổ mới). Đơn giản chỉ cần điền vào mẫu này (mở cửa sổ mới)được bao gồm. Việc đưa vào là theo quyết định của chúng tôi. Chúng tôi thêm các dự án mới trực tiếp trên OP Mainnet mỗi tuần một lần.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://socketscan.io/address/0x48f88d0e26704363ea72eef6dcbf198e1f32d4d4?page=1",
+      "description": "brigde"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "Tầm nhìn lạc quan là lớn! Và Tầm nhìn lớn này cần được khuếch đại bởi một nhóm đa dạng và liên kết để giúp biến nó thành hiện thực.\n\nChương trình Đại sứ cho phép các thành viên cộng đồng tạo ra nội dung tập trung để đưa Tầm nhìn đến gần hơn với thực tế. Nếu bạn có năng khiếu viết lách, thiết kế hoặc hình ảnh, hãy tham gia!\nNếu dự án của bạn muốn có một chút tình yêu tiếp thị, bạn có các lựa chọn! Đưa dapp của bạn đến với cộng đồng Lạc quan với Ngày thử nghiệm của chúng tôi (hai tuần một lần) .\nNếu được triển khai trên OP Mainnet, bạn có thể được thêm vào trang hệ sinh thái của chúng tôi (mở cửa sổ mới). Đơn giản chỉ cần điền vào mẫu này (mở cửa sổ mới)được bao gồm. Việc đưa vào là theo quyết định của chúng tôi. Chúng tôi thêm các dự án mới trực tiếp trên OP Mainnet mỗi tuần một lần.",
+  "impactMetrics": [
+    {
+      "description": "testnet on chain, brigde onchain",
+      "number": 420,
+      "url": "https://socketscan.io/address/0x48f88d0e26704363ea72eef6dcbf198e1f32d4d4?page=1"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x48F88d0e26704363eA72EEF6dCBF198E1F32d4D4",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "Nam Mai Phuong",
+  "Applicant Type": "INDIVIDUAL",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x48F88d0e26704363eA72EEF6dCBF198E1F32d4D4.json",
+  "Githubs": "",
+  "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK"
+}

@@ -1,0 +1,47 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://twitter.com/TrustNow3",
+  "bio": "Love Crypto",
+  "contributionDescription": "Currently, the Optimism Foundation runs the sole sequencer on OP Mainnet. This does not mean that Optimism can censor user transactions. However, it is still desirable to decentralize the sequencer over time, eliminating Optimism's role entirely so that anyone can participate in the network as a block producer.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://twitter.com/TrustNow3",
+      "description": "Love Crypto"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "As part of the OVM 2.0 upgrade, the Optimism fault proof mechanism had to be temporarily disabled. This means that users of the OP Mainnet network currently need to trust the Sequencer node (run by Optimism Foundation) to publish valid state roots to Ethereum. You can read more about our security model ",
+  "impactMetrics": [
+    {
+      "description": "69",
+      "number": 69,
+      "url": "https://twitter.com/TrustNow3"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 1,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0x95e9ffc26Cb33FA701A56862cd6E2b4c96Cb444e",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "Muhammad Saqib",
+  "Applicant Type": "INDIVIDUAL",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x95e9ffc26Cb33FA701A56862cd6E2b4c96Cb444e.json",
+  "Githubs": "",
+  "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK"
+}

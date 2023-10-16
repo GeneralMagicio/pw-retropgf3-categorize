@@ -1,0 +1,37 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://mirror.xyz/mik07.eth/vM6vZpqr7cZyN2HkotmxZGG1kMACwzTonvGeRjKE2aE",
+  "bio": "optimistic",
+  "contributionDescription": "any OP contributions is good OP  contributions \nthe best airdrop ever \nOP  is a fast, stable, and scalable L2 blockchain built by Ethereum developers, for Ethereum developers. Built as a minimal extension to existing Ethereum software, OP Mainnet's EVM-equivalent architecture scales your Ethereum apps without surprises. If it works on Ethereum, it works on OP Mainnet at a fraction of the cost.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://mirror.xyz/mik07.eth/vM6vZpqr7cZyN2HkotmxZGG1kMACwzTonvGeRjKE2aE",
+      "description": "optimistic"
+    }
+  ],
+  "impactCategory": [
+    "OP_STACK"
+  ],
+  "impactDescription": "life chanching \nOP is a fast, stable, and scalable L2 blockchain built by Ethereum developers, for Ethereum developers. Built as a minimal extension to existing Ethereum software, OP Mainnet's EVM-equivalent architecture scales your Ethereum apps without surprises. If it works on Ethereum, it works on OP Mainnet at a fraction of the cost.",
+  "impactMetrics": [
+    {
+      "description": "op",
+      "number": 1000000,
+      "url": "https://mirror.xyz/mik07.eth/vM6vZpqr7cZyN2HkotmxZGG1kMACwzTonvGeRjKE2aE"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0xA4bCc23F40f18Ae6613Cf98A2DC2eB54d478Eed9",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "mik0007",
+  "Applicant Type": "PROJECT",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x616b8248a78Ba31c04f769242060d0D16913c04D.json",
+  "Githubs": "",
+  "Tags": "OP_STACK"
+}

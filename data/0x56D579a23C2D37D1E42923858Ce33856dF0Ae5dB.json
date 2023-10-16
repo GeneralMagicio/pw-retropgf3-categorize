@@ -1,0 +1,55 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://publicnouns.wtf/",
+  "bio": "Public Nouns funds experiments in the public goods space.",
+  "contributionDescription": "Public Nouns is funding experiments in the Public Goods space and creating value.  Optimism was included from the start to be an important part of this mission.\n\nPublic Nouns (https://publicnouns.wtf/) exists to promote, fund, and proliferate aligned projects that focus on serving our public.\n\nPublic Nouns launched at the end of September 2022, and has raised over 200 ETH in its sales of Public Nouns.\n\nAlong with some other Public Goods aligned entities in the space, Optimism was brought in as a founding Public Nouns organization!  Optimism Public Nouns have one of three amazing OPossum heads.\n\nIf you are interested in Public Goods and you are also an Optimism fan, you should join the amazing Public Nouns community by picking up a Public Nouns.  Maybe it’ll even have a OPossum head!",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://publicnouns.wtf/",
+      "description": "Website"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://docs.publicnouns.wtf/",
+      "description": "Docs"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "Public Nouns expanded awareness of both Optimism and Public Goods via leveraging the very popular Nouns DAO mechanism and helped linked OP to PG forever.   \n\nAlong with some other Public Goods aligned entities in the space, Optimism was brought in as a founding Public Nouns organization!  Optimism Public Nouns have one of three amazing OPossum heads.  \n\nThe OPossum headed Public Nouns are a representation of this!\n",
+  "impactMetrics": [
+    {
+      "description": "ETH Raised for to funds Public Goods",
+      "number": 200,
+      "url": "https://publicnouns.wtf/vote"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 0,
+      "description": "All ETH raised is being given out to fund experiments in the public goods space"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 959,
+      "description": "https://giveth.io/project/public-nouns-operations"
+    }
+  ],
+  "payoutAddress": "0x3808429E985F0B06878c74089831865E5d82A584",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "Public Nouns",
+  "Applicant Type": "PROJECT",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x56D579a23C2D37D1E42923858Ce33856dF0Ae5dB.json",
+  "Githubs": "",
+  "Tags": "END_USER_EXPERIENCE_AND_ADOPTION"
+}

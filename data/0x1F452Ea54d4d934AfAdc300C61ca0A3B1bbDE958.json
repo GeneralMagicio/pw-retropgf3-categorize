@@ -1,0 +1,39 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://niklausdrakul.com",
+  "bio": "I am the resident OptiMaxi in a number of communities.",
+  "contributionDescription": "I tweet, retweet and promote Optimism on my twitter and in the Discord communities I am involved in, as well as the airdrop guides that I publish. I like the technology and the projects on Optimism and continue to use them regardless of market conditions.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/NiklausDrakul",
+      "description": "Twitter Profile"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "I am constantly promoting Optimism through twitter, discord and substack. I work with a lot of noobs and steer them in the right direction to be successful in their crypto journeys. I will continue to use Optimism and make sure all of my followers know the benefits of the ecosystem.",
+  "impactMetrics": [
+    {
+      "description": "Substack email views",
+      "number": 200,
+      "url": "https://bowtieddane.substack.com/publish/stats/traffic"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x1f452ea54d4d934afadc300c61ca0a3b1bbde958",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "Project": "Niklaus",
+  "Applicant Type": "INDIVIDUAL",
+  "OSS Directory": "",
+  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x1F452Ea54d4d934AfAdc300C61ca0A3B1bbDE958.json",
+  "Githubs": "",
+  "Tags": "COLLECTIVE_GOVERNANCE, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK"
+}
