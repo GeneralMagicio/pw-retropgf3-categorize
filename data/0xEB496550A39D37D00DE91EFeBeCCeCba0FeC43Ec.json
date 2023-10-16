@@ -46,5 +46,6 @@
   "Tags": "END_USER_EXPERIENCE_AND_ADOPTION",
   "pwIsNoise": false,
   "recategorizeReason": "NO. The application is incorrectly categorized. It is about an individual as inferred from the use of \"I\" and \"me\" in the text.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "End User Experience and Adoption"
 }

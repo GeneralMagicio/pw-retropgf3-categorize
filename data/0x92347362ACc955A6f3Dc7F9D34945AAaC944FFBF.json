@@ -64,5 +64,6 @@
   "Githubs": "https://github.com/ethereum/sourcify, https://github.com/sourcifyeth",
   "Tags": "",
   "pwIsNoise": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Smart Contract Platforms, Open Source, Contract Verification"
 }

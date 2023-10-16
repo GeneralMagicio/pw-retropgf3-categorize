@@ -36,5 +36,6 @@
   "Tags": "OP_STACK",
   "pwIsNoise": false,
   "recategorizeReason": "NO, the application is incorrectly categorized as individual whereas it should be \"PROJECT\" since the application talks about work by the developers and contributors involved in the Optimism project, not an individual accomplishment.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Layer 2 Scaling, Ethereum"
 }

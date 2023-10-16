@@ -40,5 +40,6 @@
   "Githubs": "https://github.com/Picodes/4naly3er",
   "Tags": "",
   "pwIsNoise": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Smart Contract Security"
 }

@@ -48,5 +48,6 @@
   "Githubs": "https://github.com/Vectorized/solady",
   "Tags": "",
   "pwIsNoise": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Smart Contract Platforms"
 }

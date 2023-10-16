@@ -36,5 +36,6 @@
   "Tags": "OP_STACK",
   "pwIsNoise": true,
   "pwNoiseReason": "The application is noise because the individual has not substantiated any significant contribution to the Web3/blockchain space.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Unknown"
 }

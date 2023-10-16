@@ -45,5 +45,6 @@
   "Githubs": "https://github.com/smeee23/just_cause, https://github.com/smeee23/justcause_contracts",
   "Tags": "",
   "pwIsNoise": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Crowdfunding, Optimistic Rollups, Charitable Donations"
 }

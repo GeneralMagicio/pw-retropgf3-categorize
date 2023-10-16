@@ -39,5 +39,6 @@
   "Tags": "",
   "pwIsNoise": false,
   "recategorizeReason": "NO. The application should be categorized as \"PROJECT\" because the applicant provides a Github repository link and talks about \"us\", implying a team or project rather than an individual.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Decentralized Finance (DeFi)"
 }

@@ -92,5 +92,6 @@
   "Githubs": "https://github.com/gobitfly/eth2-beaconchain-explorer",
   "Tags": "",
   "pwIsNoise": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Open Source Ethereum Explorer, Consensus Layer Explorer, Mobile Staking App, EVM Chain Support, API Provider"
 }

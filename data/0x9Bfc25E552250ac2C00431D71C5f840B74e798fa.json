@@ -39,5 +39,6 @@
   "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK",
   "pwIsNoise": true,
   "pwNoiseReason": "The application is noise because the bio, contribution description, and impact description are vague, seemingly nonsensical, and don't provide any clear, understandable details about their project or work in the Blockchain/Web3 space.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK"
 }

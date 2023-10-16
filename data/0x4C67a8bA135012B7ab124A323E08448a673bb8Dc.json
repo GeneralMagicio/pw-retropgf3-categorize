@@ -57,5 +57,6 @@
   "Githubs": "https://github.com/AlphadayHQ",
   "Tags": "",
   "pwIsNoise": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Layer 2 Scaling, Smart Contract Platforms, Blockchain Infrastructure"
 }

@@ -52,5 +52,6 @@
   "Githubs": "https://github.com/protocol/research-grants/blob/master/RFPs/rfp-014-private-retrieval-of-data.md, https://github.com/willscott",
   "Tags": "",
   "pwIsNoise": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Privacy, Funding, Research"
 }

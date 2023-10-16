@@ -46,5 +46,6 @@
   "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK",
   "pwIsNoise": true,
   "pwNoiseReason": "This application seems to be noise because it is excessively and unnecessarily repetitive with vague descriptions, an incorrect website URL, and it lacks substantial proof of work or impact in the Web3/blockchain space.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Layer 2 Scaling, Decentralized Finance (DeFi), Non-Fungible Tokens (NFTs), Blockchain Infrastructure, Governance Tokens"
 }

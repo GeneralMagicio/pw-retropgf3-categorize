@@ -111,5 +111,6 @@
   "Githubs": "https://github.com/voteagora/agora, https://github.com/voteagora/optimism-gov, https://github.com/voteagora/liquid-delegator, https://github.com/voteagora/agora/tree/op/rpgf/packages/backend/src/worker/rpgfApi",
   "Tags": "",
   "pwIsNoise": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Governance Tokens, Smart Contract Platforms, Open Source, On-chain Voting, DAO"
 }

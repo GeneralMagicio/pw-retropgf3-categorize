@@ -147,5 +147,6 @@
   "Githubs": "https://github.com/Cyfrin/foundry-full-course-f23",
   "Tags": "",
   "pwIsNoise": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Education, Developer Resources"
 }

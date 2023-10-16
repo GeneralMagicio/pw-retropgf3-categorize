@@ -42,5 +42,6 @@
   "Githubs": "https://github.com/mubcar?tab=repositories",
   "Tags": "",
   "pwIsNoise": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Smart Contract Platforms, Funding/Governance Tokens"
 }

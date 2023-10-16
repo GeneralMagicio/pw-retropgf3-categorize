@@ -52,5 +52,6 @@
   "Githubs": "https://github.com/coinpassport",
   "Tags": "",
   "pwIsNoise": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Digital Identity"
 }

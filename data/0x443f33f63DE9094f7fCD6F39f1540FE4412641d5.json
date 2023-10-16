@@ -47,5 +47,6 @@
   "pwIsNoise": true,
   "pwNoiseReason": "This application is noise because the contribution and impact descriptions are nonsensical and repetitive, and do not indicate a serious or significant contribution to the Web3/blockchain space.",
   "recategorizeReason": "NO, the application is not correctly categorized because it frequently uses first-person pronouns such as \"I\" and \"my\", indicating an individual applicant rather than a project.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK"
 }

@@ -51,5 +51,6 @@
   "Githubs": "https://github.com/buildooor/optimism-gas-tracker, https://github.com/buildooor/optimism-transaction-replay-tool, https://github.com/buildooor/github-attestation-action, https://github.com/buildooor/github-attestation-bot",
   "Tags": "",
   "pwIsNoise": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Smart Contract Platforms, Layer 2 Scaling, Blockchain Infrastructure"
 }

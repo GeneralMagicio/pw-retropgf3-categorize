@@ -46,5 +46,6 @@
   "Githubs": "https://github.com/impersonator-eth/impersonator, https://github.com/impersonator-eth/impersonator-extension",
   "Tags": "",
   "pwIsNoise": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Smart Contract Platforms, Blockchain Infrastructure, Wallet Integration"
 }

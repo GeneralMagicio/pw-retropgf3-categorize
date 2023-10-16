@@ -44,5 +44,6 @@
   "Tags": "",
   "pwIsNoise": true,
   "pwNoiseReason": "The application is noise because the applicant has provided vague and unclear information about their project, implying that they might not have a tangible or legitimate project in the Web3/blockchain space.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Airdrop Hunter, Learning, Optimism Chain"
 }

@@ -62,5 +62,6 @@
   "Githubs": "https://github.com/withtally/rollcall",
   "Tags": "",
   "pwIsNoise": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Governance Tokens, Layer 2 Scaling"
 }

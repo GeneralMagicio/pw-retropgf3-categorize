@@ -57,5 +57,6 @@
   "Githubs": "https://github.com/stakewithus/notes",
   "Tags": "",
   "pwIsNoise": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Smart Contract Platforms, Layer 2 Scaling, Decentralized Finance (DeFi)"
 }

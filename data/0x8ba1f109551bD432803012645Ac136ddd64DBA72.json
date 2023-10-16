@@ -68,5 +68,6 @@
   "Githubs": "https://github.com/ethers-io/ethers.js",
   "Tags": "",
   "pwIsNoise": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Smart Contract Platforms, Blockchain Infrastructure"
 }

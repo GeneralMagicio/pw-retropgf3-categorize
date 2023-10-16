@@ -41,5 +41,6 @@
   "Githubs": "https://github.com/smoldapp",
   "Tags": "",
   "pwIsNoise": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Smart Contract Platforms, Cross-Chain Platforms, Tokenization Platforms, Blockchain Infrastructure, Digital Identity"
 }

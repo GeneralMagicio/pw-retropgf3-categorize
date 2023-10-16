@@ -62,5 +62,6 @@
   "Githubs": "https://github.com/snapshot-labs, https://github.com/snapshot-labs/sx-evm",
   "Tags": "",
   "pwIsNoise": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Decentralized Governance Platforms, Layer 2 Scaling, Blockchain Infrastructure"
 }

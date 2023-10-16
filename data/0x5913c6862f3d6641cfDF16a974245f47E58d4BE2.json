@@ -52,5 +52,6 @@
   "Githubs": "https://github.com/shazow/whatsabi",
   "Tags": "",
   "pwIsNoise": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Smart Contract Platforms, Blockchain Infrastructure"
 }

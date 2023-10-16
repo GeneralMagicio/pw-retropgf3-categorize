@@ -37,5 +37,6 @@
   "Tags": "",
   "pwIsNoise": false,
   "recategorizeReason": "NO. The application is categorized as a \"PROJECT\" but the description seems to be about the work of an individual, as the bio mentions \"Head of Design,\" indicating it's an individual's role.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Governance Tokens"
 }

@@ -47,5 +47,6 @@
   "pwIsNoise": true,
   "pwNoiseReason": "This application is noise because it doesn't provide clear and specific information about the project, its contribution to the Web3/blockchain space or its actual impact, it is full of vague statements and repetitiveness.",
   "recategorizeReason": "NO, it is not correctly categorized because the application frequently uses \"I\" and \"me\", indicating it is an individual rather than a project.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK"
 }

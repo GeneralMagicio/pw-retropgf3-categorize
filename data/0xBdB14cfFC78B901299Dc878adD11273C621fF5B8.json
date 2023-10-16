@@ -50,5 +50,6 @@
   "Githubs": "https://github.com/wagmi-dev/abitype, https://github.com/wagmi-dev/viem, https://github.com/Raiden1411/LibStringUtils, https://github.com/Vectorized/solady",
   "Tags": "",
   "pwIsNoise": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Governance Tokens, Blockchain Infrastructure"
 }

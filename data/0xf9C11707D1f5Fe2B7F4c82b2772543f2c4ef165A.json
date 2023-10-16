@@ -36,5 +36,6 @@
   "Tags": "END_USER_EXPERIENCE_AND_ADOPTION",
   "pwIsNoise": false,
   "recategorizeReason": "NO, the application is not correctly categorized. The application uses singular pronouns such as \"I\" and \"my\", indicating that this is an individual applicant, not a project.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Blockchain Infrastructure"
 }

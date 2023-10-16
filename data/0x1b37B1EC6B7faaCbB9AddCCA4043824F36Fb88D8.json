@@ -41,5 +41,6 @@
   "Githubs": "https://github.com/paradigmxyz/reth",
   "Tags": "",
   "pwIsNoise": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Smart Contract Platforms, Blockchain Infrastructure"
 }

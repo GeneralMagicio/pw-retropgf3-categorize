@@ -99,5 +99,6 @@
   "Githubs": "https://github.com/wighawag/hardhat-deploy, https://github.com/wighawag/clones-with-immutable-args/",
   "Tags": "",
   "pwIsNoise": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Blockchain Infrastructure, Smart Contract Platforms, Tokenization Platforms, Digital Identity, Governance Tokens"
 }

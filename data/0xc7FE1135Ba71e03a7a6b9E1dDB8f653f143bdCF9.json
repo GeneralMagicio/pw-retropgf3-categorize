@@ -135,5 +135,6 @@
   "Githubs": "https://github.com/primitivefinance/arbiter, https://github.com/cairoeth/arbx, https://github.com/laudiacay/barustenberg, https://github.com/SorellaLabs/ethers-reth, https://github.com/paradigmxyz/reth/issues/3428, https://github.com/bluealloy/revm, https://t.co/IesndP2MsK",
   "Tags": "",
   "pwIsNoise": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Community Building, Open-Source Development, Ethereum Ecosystem"
 }

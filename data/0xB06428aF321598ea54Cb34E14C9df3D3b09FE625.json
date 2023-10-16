@@ -44,5 +44,6 @@
   "pwIsNoise": true,
   "pwNoiseReason": "The application is noise because it discusses ventilation and air conditioning systems, which have no relevance to the Web3/blockchain space.",
   "recategorizeReason": "NO. The application talks about ventilation and air conditioning systems, which is not related to the Web3/blockchain space.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "END_USER_EXPERIENCE_AND_ADOPTION"
 }

@@ -28,15 +28,66 @@ The application is determined to be noise based on the text in the application. 
 
 The reason why the application is marked as noise.
 
+Example output:
+
+```
+│
+◆  Identifying noise applications
+◆  Processing 20 / 371
+│
+◆  Application: Apple
+◆  Reason: The application is noise because the website URL and contribution links provided are not legitimate websites, indicating this could be fake or spam.
+│
+◆  Processing 24 / 371
+│
+◆  Application: hsynus
+◆  Reason: The application is noise because the description of contribution and impact is repetitive and lacks specific details, indicating it might be auto-generated or spam.
+│
+◆  Processing 38 / 371
+│
+◆  Application: Kosmo
+◆  Reason: This application is noise because the descriptions of the applicant's contributions and their impact are not specific and simply repeated the word "Optimism."
+│
+```
+
 ### `pwApplicationTypeChecked`
 
 `true/false`
 
 The application type has been checked to be marked correctly as INDIVIDUAL or PROJECT.
 
+Example output:
+
+```
+│
+◆  Application: Apple
+◆  Reason: NO, the application should be categorized as "PROJECT" because the contribution description and impact description indicate that the work is being done by a collective or organization, not a single individual.
+│
+◆  Processing 29 / 371
+│
+◆  Application: Vtcking
+◆  Reason: NO, it is not correctly categorized. The application should be categorized as "INDIVIDUAL" as they use terms such as "I" and "me".
+│
+◆  Processing 35 / 371
+│
+◆  Application: Vku
+◆  Reason: NO, the application uses first person language like "For me," suggesting it's coming from an individual and not a group or project. Even though they provided a GitHub link and a website, the nature of the application and the language used suggests it is an individual.
+│
+```
+
 ### `pwCategorySuggestions`
 
 A comma-separated list of suggested categories for the application.
+
+Example output:
+
+```
+│
+◆  Tokenization Platforms, Governance Tokens, End User Experience and Adoption
+│
+◆  Decentralized Finance (DeFi), Developer Ecosystem, End User Experience and Adoption, Collective Governance, Operational Stack (OP Stack)
+│
+```
 
 ### `pwCategory`: category
 

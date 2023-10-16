@@ -78,5 +78,6 @@
   "Githubs": "https://github.com/eth-clients/goerli, https://github.com/eth-clients/holesky",
   "Tags": "",
   "pwIsNoise": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Community Building, Testnet Infrastructure"
 }

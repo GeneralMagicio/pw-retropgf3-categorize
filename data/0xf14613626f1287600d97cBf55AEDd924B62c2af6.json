@@ -136,5 +136,6 @@
   "Githubs": "https://github.com/blocknative/web3-onboard, https://github.com/blocknative/web3-onboard/tree/develop/examples, https://github.com/blocknative/react-demo",
   "Tags": "",
   "pwIsNoise": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Web3 Onboard, JavaScript Library, Wallet Integration"
 }

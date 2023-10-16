@@ -77,5 +77,6 @@
   "Githubs": "https://github.com/ethereum-optimism/ecosystem-contributions/issues/2",
   "Tags": "",
   "pwIsNoise": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Governance Tokens"
 }

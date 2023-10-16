@@ -80,5 +80,6 @@
   "Tags": "END_USER_EXPERIENCE_AND_ADOPTION",
   "pwIsNoise": false,
   "recategorizeReason": "NO. The application is incorrectly categorized. Despite the \"applicantType\" being listed as \"INDIVIDUAL\", the application talks about \"we\" and represents a structured project (OP News) with a website, suggesting that it should be categorized as a \"PROJECT\".",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Tokenization_Platforms, Digital_Identity, Blockchain_Infrastructure, Governance_Tokens, END_USER_EXPERIENCE_AND_ADOPTION"
 }

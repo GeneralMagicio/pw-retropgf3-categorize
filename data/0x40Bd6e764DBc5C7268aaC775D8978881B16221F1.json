@@ -63,5 +63,6 @@
   "Githubs": "https://github.com/sonne-finance",
   "Tags": "",
   "pwIsNoise": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Decentralized Lending, Layer 2 Scaling, DeFi, Cross-Chain Platforms, Smart Contract Platforms"
 }

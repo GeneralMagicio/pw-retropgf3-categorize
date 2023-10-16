@@ -43,5 +43,6 @@
   "Tags": "END_USER_EXPERIENCE_AND_ADOPTION",
   "pwIsNoise": false,
   "recategorizeReason": "NO, the application is incorrectly categorized as the application talks about a project (TF EXCHANGE) rather than an individual's efforts.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Decentralized Exchanges (DEXs), Peer-to-Peer (P2P) Platforms, Cryptocurrency Exchange"
 }

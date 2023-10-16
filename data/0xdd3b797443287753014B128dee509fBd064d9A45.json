@@ -43,5 +43,6 @@
   "Tags": "END_USER_EXPERIENCE_AND_ADOPTION",
   "pwIsNoise": false,
   "recategorizeReason": "NO, the application is categorized as an individual but the description refers to a group of young people trying to establish a startup, which makes it sound more like a project.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Tokenization Platforms, Supply Chain Management, Environmental Sustainability"
 }

@@ -99,5 +99,6 @@
   "Githubs": "https://github.com/ScryProtocol/",
   "Tags": "",
   "pwIsNoise": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Decentralized Oracles, Cross-Chain Compatibility, Data Access, NFT Verification, Blockchain Infrastructure"
 }

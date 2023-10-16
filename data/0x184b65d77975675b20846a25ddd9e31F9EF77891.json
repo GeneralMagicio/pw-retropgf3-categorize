@@ -43,5 +43,6 @@
   "Tags": "OP_STACK",
   "pwIsNoise": true,
   "pwNoiseReason": "The application is noise because both the \"bio\" and the \"contribution description\" sections are filled with nonsensical repetitions of the word \"test\".",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Blockchain Infrastructure, Testnet"
 }

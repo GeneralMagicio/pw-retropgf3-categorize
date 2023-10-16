@@ -62,5 +62,6 @@
   "Githubs": "https://github.com/truffle-box/optimism-box, https://github.com/truffle-box/optimism-bridge-box",
   "Tags": "",
   "pwIsNoise": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Layer 2 Scaling, Blockchain Infrastructure, Ethereum Scaling"
 }

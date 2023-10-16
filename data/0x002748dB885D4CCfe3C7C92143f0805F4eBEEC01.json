@@ -46,5 +46,6 @@
   "Tags": "",
   "pwIsNoise": false,
   "recategorizeReason": "NO. The application uses \"I\" and \"me\", indicating that it is from an individual, so it should be categorized as \"INDIVIDUAL\" instead of \"PROJECT\".",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Layer 2 Scaling"
 }

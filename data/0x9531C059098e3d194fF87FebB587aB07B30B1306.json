@@ -102,5 +102,6 @@
   "Githubs": "https://github.com/rotki/rotki, https://github.com/coinyon/buchfink, https://github.com/prettyirrelevant/decodify",
   "Tags": "",
   "pwIsNoise": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Open-Source Asset Tracking, Privacy-Preserving Accounting, Optimism Protocol Support, User-Friendly Transaction Visibility, Ecosystem Collaboration"
 }

@@ -46,5 +46,6 @@
   "Githubs": "https://github.com/forumdaos/forum-contracts",
   "Tags": "",
   "pwIsNoise": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Smart Contract Platforms, Digital Identity, Blockchain Infrastructure"
 }

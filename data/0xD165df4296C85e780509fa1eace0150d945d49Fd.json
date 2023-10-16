@@ -40,5 +40,6 @@
   "Githubs": "https://github.com/eth-educators/",
   "Tags": "",
   "pwIsNoise": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Decentralized Finance, Blockchain Infrastructure, Governance Tokens"
 }

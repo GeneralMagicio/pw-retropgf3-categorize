@@ -56,5 +56,6 @@
   "Githubs": "https://github.com/ApeWorX/ape-optimism, https://github.com/ApeWorX/ape-base, https://github.com/ApeWorX/ape",
   "Tags": "",
   "pwIsNoise": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Smart Contract Platforms, Layer 2 Scaling"
 }

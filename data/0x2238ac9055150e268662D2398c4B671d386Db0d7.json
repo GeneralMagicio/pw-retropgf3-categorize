@@ -36,5 +36,6 @@
   "Tags": "",
   "pwIsNoise": true,
   "pwNoiseReason": "This application is noise because the descriptions are repeated phrases without any substantial information about the project/contribution.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Blockchain Infrastructure"
 }

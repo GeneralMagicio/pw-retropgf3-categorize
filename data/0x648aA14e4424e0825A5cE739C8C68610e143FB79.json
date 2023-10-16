@@ -68,5 +68,6 @@
   "Githubs": "https://github.com/ethhub-io/ethhub",
   "Tags": "",
   "pwIsNoise": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Blockchain Education"
 }

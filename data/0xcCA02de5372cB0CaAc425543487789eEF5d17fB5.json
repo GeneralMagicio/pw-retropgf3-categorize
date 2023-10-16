@@ -87,5 +87,6 @@
   "Githubs": "https://github.com/itublockchain/opclave-scaling2023, https://github.com/ethereum/go-ethereum/pull/27540",
   "Tags": "",
   "pwIsNoise": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Smart Contract Platforms"
 }

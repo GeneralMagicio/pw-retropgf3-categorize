@@ -53,5 +53,6 @@
   "Githubs": "https://github.com/optimism-java/hildr",
   "Tags": "",
   "pwIsNoise": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Layer 2 Scaling, Blockchain Infrastructure"
 }

@@ -37,5 +37,6 @@
   "Tags": "COLLECTIVE_GOVERNANCE, END_USER_EXPERIENCE_AND_ADOPTION",
   "pwIsNoise": false,
   "recategorizeReason": "NO, the application is not correctly categorized. The application contains several first person pronouns (\"I\", \"me\") indicating an individual.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "NFTs, Music NFTs, Governance Tokens, End User Experience and Adoption"
 }

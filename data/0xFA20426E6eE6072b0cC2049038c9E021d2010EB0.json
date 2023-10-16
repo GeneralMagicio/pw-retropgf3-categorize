@@ -50,5 +50,6 @@
   "Githubs": "https://github.com/openethereum/openethereum/pull/393, https://github.com/tomusdrw/rust-web3/pull/558, https://github.com/cowprotocol/services/graphs/contributors, https://github.com/ethereum/go-ethereum/releases/tag/v1.10.6",
   "Tags": "",
   "pwIsNoise": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Smart Contract Platforms, Decentralized Exchanges (DEXs), Ethereum, Testing and Development, MEV protection"
 }

@@ -83,5 +83,6 @@
   "Githubs": "https://github.com/pcaversaccio/snekmate, https://github.com/curvefi/tricrypto-ng/blob/c9f17007eeda43af14abf10cf25b881f6862d78f/contracts/main/CurveCryptoMathOptimized3.vy#L637",
   "Tags": "",
   "pwIsNoise": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Smart Contract Platforms, Developer Tools, Education and Documentation"
 }

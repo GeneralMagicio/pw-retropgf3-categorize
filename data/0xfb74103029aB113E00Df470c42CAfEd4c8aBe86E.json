@@ -45,5 +45,6 @@
   "Githubs": "https://github.com/miguelmota/go-ethereum-hdwallet, https://github.com/ethereum-optimism/go-ethereum-hdwallet",
   "Tags": "",
   "pwIsNoise": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Smart Contract Platforms"
 }

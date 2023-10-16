@@ -88,5 +88,6 @@
   "Githubs": "https://github.com/duneanalytics/dune-client, https://github.com/bh2smith/ts-dune-client, https://github.com/bh2smith/duners/, https://github.com/cowprotocol/dune-alerts, https://github.com/duneanalytics/spellbook, https://github.com/cowprotocol/dune-sync",
   "Tags": "",
   "pwIsNoise": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Data Engineering, API Clients, Alerting System, Sync Tool, Spellbook Contributions"
 }
