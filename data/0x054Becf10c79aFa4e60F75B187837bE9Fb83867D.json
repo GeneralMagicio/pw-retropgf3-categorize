@@ -37,5 +37,6 @@
   "pwIsNoise": false,
   "recategorizeReason": "NO, the application is not correctly categorized. Although the applicant type is labeled as \"INDIVIDUAL\", the application refers to \"CoinRuay\" in third person, suggesting that it is a PROJECT, not an individual.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Blockchain Education, Community Building"
+  "pwCategorySuggestions": "Blockchain Education, Community Building",
+  "pwCategory": "Content Creation"
 }

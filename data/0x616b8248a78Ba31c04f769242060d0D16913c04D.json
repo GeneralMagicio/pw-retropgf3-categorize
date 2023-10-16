@@ -36,5 +36,6 @@
   "Tags": "OP_STACK",
   "pwIsNoise": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Layer 2 Scaling, Blockchain Infrastructure"
+  "pwCategorySuggestions": "Layer 2 Scaling, Blockchain Infrastructure",
+  "pwCategory": "Layer 2 Scaling"
 }

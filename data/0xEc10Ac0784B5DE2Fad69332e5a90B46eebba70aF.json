@@ -53,5 +53,6 @@
   "Tags": "END_USER_EXPERIENCE_AND_ADOPTION",
   "pwIsNoise": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Wallet Watch, Monitoring, Security, Blockchain Safety, Optimism"
+  "pwCategorySuggestions": "Wallet Watch, Monitoring, Security, Blockchain Safety, Optimism",
+  "pwCategory": "End User Experience"
 }

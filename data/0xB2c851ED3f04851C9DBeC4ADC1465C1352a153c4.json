@@ -40,5 +40,6 @@
   "pwIsNoise": true,
   "pwNoiseReason": "This application is noise because the contribution description and impact description are nonsensical and do not clearly describe a project related to Web3/blockchain space.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Collective Governance, Developer Ecosystem, End User Experience and Adoption, Op Stack"
+  "pwCategorySuggestions": "Collective Governance, Developer Ecosystem, End User Experience and Adoption, Op Stack",
+  "pwCategory": "Developer Ecosystem"
 }

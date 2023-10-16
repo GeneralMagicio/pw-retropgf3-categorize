@@ -148,5 +148,6 @@
   "Tags": "",
   "pwIsNoise": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Education, Developer Resources"
+  "pwCategorySuggestions": "Education, Developer Resources",
+  "pwCategory": "Education"
 }

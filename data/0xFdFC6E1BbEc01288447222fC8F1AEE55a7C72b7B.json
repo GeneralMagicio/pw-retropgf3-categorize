@@ -112,5 +112,6 @@
   "Tags": "",
   "pwIsNoise": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Governance Tokens, Smart Contract Platforms, Open Source, On-chain Voting, DAO"
+  "pwCategorySuggestions": "Governance Tokens, Smart Contract Platforms, Open Source, On-chain Voting, DAO",
+  "pwCategory": "Governance Tools"
 }

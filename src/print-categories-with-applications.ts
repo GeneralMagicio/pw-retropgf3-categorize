@@ -1,4 +1,8 @@
-import { dataDirName, projectCategoryListFilePath } from "./config";
+import {
+  dataDirName,
+  individualCategoryListFilePath,
+  projectCategoryListFilePath,
+} from "./config";
 
 import { ApplicationFullLoader } from "./langchain/ApplicationFullLoader";
 import { DirectoryLoader } from "langchain/document_loaders/fs/directory";
@@ -6,7 +10,10 @@ import fs from "fs/promises";
 import pc from "picocolors";
 
 export async function printCategoriesWithApplications(filter: string) {
-  let categoryList = await fs.readFile(projectCategoryListFilePath, "utf8");
+  let categoryList =
+    filter === "PROJECT"
+      ? await fs.readFile(projectCategoryListFilePath, "utf8")
+      : await fs.readFile(individualCategoryListFilePath, "utf8");
   let categories = categoryList.split("\n").map((line) => line.trim());
 
   let loader = new DirectoryLoader(dataDirName, {

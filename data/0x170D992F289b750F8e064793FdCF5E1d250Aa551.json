@@ -48,5 +48,6 @@
   "pwNoiseReason": "This application is noise because the descriptions of the applicant's contributions and their impact are not specific and simply repeated the word \"Optimism.\"",
   "recategorizeReason": "NO, it is not correctly categorized as the \"project\" is mentioned named \"Kosmo\" but the applicant type is marked as an \"individual\".",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "NFT, Layer 2 Scaling, Governance Tokens, Developer Ecosystem, End User Experience and Adoption"
+  "pwCategorySuggestions": "NFT, Layer 2 Scaling, Governance Tokens, Developer Ecosystem, End User Experience and Adoption",
+  "pwCategory": "Developer Ecosystem"
 }

@@ -45,5 +45,6 @@
   "pwIsNoise": false,
   "recategorizeReason": "NO. The applicant consistently uses singular pronouns like \"me\" and \"I\" indicating this should be categorized as an individual.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, Positive Values, Collective Governance"
+  "pwCategorySuggestions": "Community Building, Positive Values, Collective Governance",
+  "pwCategory": "Community Building"
 }

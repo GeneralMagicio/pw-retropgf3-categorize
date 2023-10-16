@@ -47,5 +47,6 @@
   "pwIsNoise": true,
   "pwNoiseReason": "The application is noise because the applicant displays a lack of understanding of the subject matter and the links provided do not show any contribution to the Web3/blockchain space.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Blockchain Infrastructure, Governance Tokens, Developer Ecosystem, End User Experience and Adoption"
+  "pwCategorySuggestions": "Blockchain Infrastructure, Governance Tokens, Developer Ecosystem, End User Experience and Adoption",
+  "pwCategory": "Education"
 }

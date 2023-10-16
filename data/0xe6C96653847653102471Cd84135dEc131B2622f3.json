@@ -37,5 +37,6 @@
   "pwIsNoise": true,
   "pwNoiseReason": "The application is noise because it lacks concrete and specific details about the applicant's actual contribution to the Web3/blockchain space; the content appears to be a personal anecdote unrelated to blockchain technology or projects.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Digital Identity"
+  "pwCategorySuggestions": "Digital Identity",
+  "pwCategory": "The text provided is not related to Web3/blockchain space."
 }

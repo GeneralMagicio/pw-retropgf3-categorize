@@ -58,5 +58,6 @@
   "Tags": "DEVELOPER_ECOSYSTEM",
   "pwIsNoise": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Education, Data Analysis"
+  "pwCategorySuggestions": "Education, Data Analysis",
+  "pwCategory": "Education"
 }

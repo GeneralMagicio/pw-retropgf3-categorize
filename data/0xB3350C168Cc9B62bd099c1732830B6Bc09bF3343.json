@@ -80,5 +80,6 @@
   "Tags": "",
   "pwIsNoise": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Smart Contract Platforms, Security Analysis Tools"
+  "pwCategorySuggestions": "Smart Contract Platforms, Security Analysis Tools",
+  "pwCategory": "Developer Ecosystem"
 }

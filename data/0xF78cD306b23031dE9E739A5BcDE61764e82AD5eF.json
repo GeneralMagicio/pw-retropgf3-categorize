@@ -100,5 +100,6 @@
   "Tags": "",
   "pwIsNoise": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Blockchain Infrastructure, Smart Contract Platforms, Tokenization Platforms, Digital Identity, Governance Tokens"
+  "pwCategorySuggestions": "Blockchain Infrastructure, Smart Contract Platforms, Tokenization Platforms, Digital Identity, Governance Tokens",
+  "pwCategory": "Developer Ecosystem"
 }

@@ -53,5 +53,6 @@
   "Tags": "",
   "pwIsNoise": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Privacy, Funding, Research"
+  "pwCategorySuggestions": "Privacy, Funding, Research",
+  "pwCategory": "Developer Ecosystem"
 }

@@ -37,5 +37,6 @@
   "pwIsNoise": true,
   "pwNoiseReason": "This application is noise because the descriptions are repeated phrases without any substantial information about the project/contribution.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Blockchain Infrastructure"
+  "pwCategorySuggestions": "Blockchain Infrastructure",
+  "pwCategory": "The provided information is insufficient to categorize the project."
 }

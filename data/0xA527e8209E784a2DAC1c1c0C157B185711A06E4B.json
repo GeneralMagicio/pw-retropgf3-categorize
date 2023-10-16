@@ -44,5 +44,6 @@
   "pwIsNoise": true,
   "pwNoiseReason": "This application is noise because the URL links provided are invalid and the information provided is non-specific and non-technical, lacking clarity about the project or the achievements of the individual.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Smart Contract Platforms, Gas Optimization"
+  "pwCategorySuggestions": "Smart Contract Platforms, Gas Optimization",
+  "pwCategory": "Education"
 }

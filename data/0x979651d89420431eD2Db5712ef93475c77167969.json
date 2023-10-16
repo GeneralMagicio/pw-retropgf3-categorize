@@ -70,5 +70,6 @@
   "Tags": "",
   "pwIsNoise": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Mentorship, Education"
+  "pwCategorySuggestions": "Mentorship, Education",
+  "pwCategory": "Education"
 }

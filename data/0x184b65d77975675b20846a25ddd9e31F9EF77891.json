@@ -44,5 +44,6 @@
   "pwIsNoise": true,
   "pwNoiseReason": "The application is noise because both the \"bio\" and the \"contribution description\" sections are filled with nonsensical repetitions of the word \"test\".",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Blockchain Infrastructure, Testnet"
+  "pwCategorySuggestions": "Blockchain Infrastructure, Testnet",
+  "pwCategory": "This project cannot be categorized as the description provided does not contain any specific or valid information about the project."
 }

@@ -40,5 +40,6 @@
   "pwIsNoise": false,
   "recategorizeReason": "NO, the application is for a project called \"Tusima zkBridge\", therefore it should be categorized under \"PROJECT\" not \"INDIVIDUAL\".",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Cross-Chain Platforms, Digital Identity, Blockchain Infrastructure, Governance Tokens, Developer Ecosystem"
+  "pwCategorySuggestions": "Cross-Chain Platforms, Digital Identity, Blockchain Infrastructure, Governance Tokens, Developer Ecosystem",
+  "pwCategory": "Cross-Chain Platforms"
 }

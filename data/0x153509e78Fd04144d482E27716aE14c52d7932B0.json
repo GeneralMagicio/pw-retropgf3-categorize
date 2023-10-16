@@ -40,5 +40,6 @@
   "pwIsNoise": false,
   "recategorizeReason": "NO, the application uses first person language like \"For me,\" suggesting it's coming from an individual and not a group or project. Even though they provided a GitHub link and a website, the nature of the application and the language used suggests it is an individual.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Smart Contract Platforms, Blockchain Infrastructure"
+  "pwCategorySuggestions": "Smart Contract Platforms, Blockchain Infrastructure",
+  "pwCategory": "The provided information is not clear enough to categorize the project."
 }

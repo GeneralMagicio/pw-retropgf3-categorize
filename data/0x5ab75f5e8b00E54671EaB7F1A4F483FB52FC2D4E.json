@@ -46,5 +46,6 @@
   "pwIsNoise": false,
   "recategorizeReason": "NO, it's an application from an individual as the applicant uses first person pronouns such as \"I\" and \"me\" in the description.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "COLLECTIVE_GOVERNANCE, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK"
+  "pwCategorySuggestions": "COLLECTIVE_GOVERNANCE, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK",
+  "pwCategory": "Governance Tokens"
 }

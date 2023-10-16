@@ -64,5 +64,6 @@
   "pwIsNoise": false,
   "recategorizeReason": "NO, it is not correctly categorized. The application should be categorized as an \"INDIVIDUAL\" because from the \"bio\" we can see this application is referring to a single person, Billy, not a project.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Optimism, DeFi, NFTs, Lending/Borrowing, Community Governance"
+  "pwCategorySuggestions": "Optimism, DeFi, NFTs, Lending/Borrowing, Community Governance",
+  "pwCategory": "Community Building"
 }

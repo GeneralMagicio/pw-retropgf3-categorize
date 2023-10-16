@@ -80,5 +80,6 @@
   "Tags": "",
   "pwIsNoise": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Identity, Web2 Data Attestations, Governance Tokens"
+  "pwCategorySuggestions": "Decentralized Identity, Web2 Data Attestations, Governance Tokens",
+  "pwCategory": "Decentralized Identity"
 }

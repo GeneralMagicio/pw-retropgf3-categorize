@@ -43,5 +43,6 @@
   "Tags": "",
   "pwIsNoise": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Exchanges (DEXs), Layer 2 Scaling"
+  "pwCategorySuggestions": "Decentralized Exchanges (DEXs), Layer 2 Scaling",
+  "pwCategory": "Layer 2 Scaling"
 }

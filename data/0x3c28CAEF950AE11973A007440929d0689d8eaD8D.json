@@ -44,5 +44,6 @@
   "pwIsNoise": false,
   "recategorizeReason": "NO. The application is from an individual but they are talking about their involvement in a project named 'RetroPGF', as a result, it should be categorized as \"PROJECT\".",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Governance Tokens"
+  "pwCategorySuggestions": "Governance Tokens",
+  "pwCategory": "Developer Ecosystem"
 }

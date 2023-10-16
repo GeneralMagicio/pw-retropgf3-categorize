@@ -47,5 +47,6 @@
   "pwIsNoise": false,
   "recategorizeReason": "NO, the application is not correctly categorized because the applicant refers to themselves as \"I\", indicating that the applicant is an individual, not a project.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Governance Tokens"
+  "pwCategorySuggestions": "Governance Tokens",
+  "pwCategory": "Community Building"
 }

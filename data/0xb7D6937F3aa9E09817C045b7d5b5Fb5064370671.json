@@ -57,5 +57,6 @@
   "Tags": "",
   "pwIsNoise": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Web3 Browser, Layer 2 Scaling, Wallet Ecosystem, DeFi, Optimism"
+  "pwCategorySuggestions": "Web3 Browser, Layer 2 Scaling, Wallet Ecosystem, DeFi, Optimism",
+  "pwCategory": "Wallet Management"
 }

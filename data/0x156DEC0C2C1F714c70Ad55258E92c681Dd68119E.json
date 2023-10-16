@@ -43,5 +43,6 @@
   "Tags": "OP_STACK",
   "pwIsNoise": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Layer 2 Scaling, Smart Contract Platforms, Governance Tokens"
+  "pwCategorySuggestions": "Layer 2 Scaling, Smart Contract Platforms, Governance Tokens",
+  "pwCategory": "Layer 2 Scaling"
 }

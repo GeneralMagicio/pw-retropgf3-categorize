@@ -58,5 +58,6 @@
   "pwIsNoise": true,
   "pwNoiseReason": "The application is noise because the description and bio are generic and vague, and the contribution links and github repo provided are not valid URLs.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Blockchain Infrastructure"
+  "pwCategorySuggestions": "Blockchain Infrastructure",
+  "pwCategory": "Community Building"
 }

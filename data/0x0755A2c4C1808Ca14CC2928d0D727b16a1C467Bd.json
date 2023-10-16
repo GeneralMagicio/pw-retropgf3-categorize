@@ -37,5 +37,6 @@
   "pwIsNoise": false,
   "recategorizeReason": "NO, the application is incorrectly categorized because the applicant refers to themselves as \"I\", which indicates it's an individual.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "End User Experience and Adoption"
+  "pwCategorySuggestions": "End User Experience and Adoption",
+  "pwCategory": "End User Experience"
 }

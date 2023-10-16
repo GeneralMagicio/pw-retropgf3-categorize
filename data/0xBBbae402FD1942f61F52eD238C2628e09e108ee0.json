@@ -44,5 +44,6 @@
   "pwIsNoise": true,
   "pwNoiseReason": "This application is noise as it seems the individual is primarily promoting referral links and does not provide clear details of an impactful contribution or project within the Web3/blockchain space.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "END_USER_EXPERIENCE_AND_ADOPTION"
+  "pwCategorySuggestions": "END_USER_EXPERIENCE_AND_ADOPTION",
+  "pwCategory": "User Adoption"
 }

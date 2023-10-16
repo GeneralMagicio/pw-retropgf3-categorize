@@ -89,5 +89,6 @@
   "Tags": "",
   "pwIsNoise": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Data Engineering, API Clients, Alerting System, Sync Tool, Spellbook Contributions"
+  "pwCategorySuggestions": "Data Engineering, API Clients, Alerting System, Sync Tool, Spellbook Contributions",
+  "pwCategory": "Developer Ecosystem"
 }

@@ -40,5 +40,6 @@
   "pwIsNoise": true,
   "pwNoiseReason": "The application is noise because the descriptions provided for contribution and impact are non-specific and repetitive, indicating a potential non-serious or spam application.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "COLLECTIVE GOVERNANCE, DEVELOPER ECOSYSTEM, END USER EXPERIENCE AND ADOPTION, OP STACK"
+  "pwCategorySuggestions": "COLLECTIVE GOVERNANCE, DEVELOPER ECOSYSTEM, END USER EXPERIENCE AND ADOPTION, OP STACK",
+  "pwCategory": "This project description is not clear, it seems to be input mistakenly. Therefore, it cannot be categorized."
 }

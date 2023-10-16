@@ -40,5 +40,6 @@
   "pwIsNoise": false,
   "recategorizeReason": "NO. The application talks about tasks and contributions that look like a project, rather than an individual's work.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK"
+  "pwCategorySuggestions": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK",
+  "pwCategory": "Community Building"
 }

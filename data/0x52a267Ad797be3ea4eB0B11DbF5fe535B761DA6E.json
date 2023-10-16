@@ -40,5 +40,6 @@
   "pwIsNoise": true,
   "pwNoiseReason": "The application is noise because the descriptions of the contributions and impact are nonsensical and contain strings of random characters, suggesting the application is not serious or genuine.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Layer 2 Scaling, Governance Tokens, Blockchain Infrastructure, Developer Ecosystem"
+  "pwCategorySuggestions": "Layer 2 Scaling, Governance Tokens, Blockchain Infrastructure, Developer Ecosystem",
+  "pwCategory": "Developer Ecosystem"
 }

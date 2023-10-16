@@ -47,5 +47,6 @@
   "pwIsNoise": true,
   "pwNoiseReason": "The application is noise because it contains nonsensical text like \"platformmnnmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmdn\" and \"greatsjsjsjjsjsjjejejjejjejejjejejjejjjjjjsjsjjsjjejejgood\", indicating it may be spam or not a serious submission.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Collective Governance, Developer Ecosystem, End User Experience and Adoption, Op Stack"
+  "pwCategorySuggestions": "Collective Governance, Developer Ecosystem, End User Experience and Adoption, Op Stack",
+  "pwCategory": "Developer Ecosystem"
 }

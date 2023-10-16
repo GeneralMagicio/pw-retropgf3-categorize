@@ -44,5 +44,6 @@
   "pwIsNoise": true,
   "pwNoiseReason": "This application is noise because it lacks specificity about the project and its impact in the Web3/blockchain space, with vague and irrelevant details in both the contribution and impact descriptions.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Blockchain Infrastructure"
+  "pwCategorySuggestions": "Blockchain Infrastructure",
+  "pwCategory": "Education"
 }

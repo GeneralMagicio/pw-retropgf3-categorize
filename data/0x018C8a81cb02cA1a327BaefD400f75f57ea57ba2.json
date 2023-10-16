@@ -54,5 +54,6 @@
   "pwIsNoise": false,
   "recategorizeReason": "NO, the application is categorized as \"INDIVIDUAL\", but the inclusion of a project name \"Subli\" at the end could create confusion.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Optimism Ambassador, Project advisors, Governance Tokens"
+  "pwCategorySuggestions": "Optimism Ambassador, Project advisors, Governance Tokens",
+  "pwCategory": "Project Advising"
 }

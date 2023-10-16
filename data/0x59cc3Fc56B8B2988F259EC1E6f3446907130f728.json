@@ -79,5 +79,6 @@
   "Tags": "",
   "pwIsNoise": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, Testnet Infrastructure"
+  "pwCategorySuggestions": "Community Building, Testnet Infrastructure",
+  "pwCategory": "Community Building"
 }

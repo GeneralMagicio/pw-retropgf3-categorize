@@ -488,5 +488,6 @@
   "Tags": "",
   "pwIsNoise": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Blockchain Infrastructure, Content Creation, Community Building, Education, Media Outreach"
+  "pwCategorySuggestions": "Blockchain Infrastructure, Content Creation, Community Building, Education, Media Outreach",
+  "pwCategory": "Community Building"
 }

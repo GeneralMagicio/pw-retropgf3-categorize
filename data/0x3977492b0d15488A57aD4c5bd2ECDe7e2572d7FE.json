@@ -50,5 +50,6 @@
   "pwIsNoise": true,
   "pwNoiseReason": "This application is noise because the descriptions of the project, bio and impact are repetitive, nonsensical phrases which do not provide legitimate or valuable information.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Tokenization Platforms, Blockchain Infrastructure, Governance Tokens"
+  "pwCategorySuggestions": "Tokenization Platforms, Blockchain Infrastructure, Governance Tokens",
+  "pwCategory": "Governance Tools"
 }

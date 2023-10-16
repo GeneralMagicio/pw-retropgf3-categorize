@@ -27,28 +27,6 @@ const categoryTemplate = PromptTemplate.fromTemplate(
 
 const categoryChain = categoryTemplate.pipe(model);
 
-interface InputObject {
-  [key: string]: string;
-}
-
-interface OutputObject {
-  [category: string]: string[];
-}
-
-function groupByCategory(input: InputObject): OutputObject {
-  const output: OutputObject = {};
-
-  for (const key in input) {
-    const category = input[key];
-    if (!output[category]) {
-      output[category] = [];
-    }
-    output[category].push(key);
-  }
-
-  return output;
-}
-
 export async function placeInCategories(analyzeAll: YesOrNo) {
   // PROJECTS
 

@@ -42,5 +42,6 @@
   "pwIsNoise": false,
   "recategorizeReason": "NO, it is a project, not an individual, based on the description that involves activities such as launching a DAO and providing a platform for VRNouns holders.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Digital Content Creation"
+  "pwCategorySuggestions": "Digital Content Creation",
+  "pwCategory": "Content Creation"
 }

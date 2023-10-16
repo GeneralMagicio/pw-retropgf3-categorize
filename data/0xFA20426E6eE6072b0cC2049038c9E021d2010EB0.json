@@ -51,5 +51,6 @@
   "Tags": "",
   "pwIsNoise": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Smart Contract Platforms, Decentralized Exchanges (DEXs), Ethereum, Testing and Development, MEV protection"
+  "pwCategorySuggestions": "Smart Contract Platforms, Decentralized Exchanges (DEXs), Ethereum, Testing and Development, MEV protection",
+  "pwCategory": "Developer Ecosystem"
 }

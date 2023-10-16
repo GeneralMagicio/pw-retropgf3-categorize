@@ -47,5 +47,6 @@
   "pwIsNoise": false,
   "recategorizeReason": "NO. The application should be categorized as \"INDIVIDUAL\". The applicant refers to himself/herself as \"I\" several times in the application.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Governance Tokens, Developer Ecosystem, End User Experience and Adoption"
+  "pwCategorySuggestions": "Governance Tokens, Developer Ecosystem, End User Experience and Adoption",
+  "pwCategory": "Non-Fungible Tokens"
 }

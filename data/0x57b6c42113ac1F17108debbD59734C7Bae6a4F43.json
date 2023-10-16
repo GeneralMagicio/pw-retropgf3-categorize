@@ -40,5 +40,6 @@
   "pwIsNoise": false,
   "recategorizeReason": "NO, the application is not correctly categorized. Despite being listed as a \"PROJECT\", the applicant refers to themselves using first person singular pronouns such as \"I\" indicating it is an individual.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Layer-2 Scaling, Governance Tokens, Developer Ecosystem, End User Experience and Adoption"
+  "pwCategorySuggestions": "Layer-2 Scaling, Governance Tokens, Developer Ecosystem, End User Experience and Adoption",
+  "pwCategory": "Governance Tokens"
 }

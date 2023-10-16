@@ -137,5 +137,6 @@
   "Tags": "",
   "pwIsNoise": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Web3 Onboard, JavaScript Library, Wallet Integration"
+  "pwCategorySuggestions": "Web3 Onboard, JavaScript Library, Wallet Integration",
+  "pwCategory": "Developer Ecosystem"
 }

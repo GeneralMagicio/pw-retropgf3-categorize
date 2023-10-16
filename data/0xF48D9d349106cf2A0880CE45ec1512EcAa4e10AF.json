@@ -48,5 +48,6 @@
   "pwNoiseReason": "The application is noise because the information provided, such as bio, contribution description, and impact description, is vague, poorly written, and does not clearly describe the applicant's project or contribution to the Web3/blockchain space.",
   "recategorizeReason": "NO, this application is not correctly categorized since the contribution description uses first person pronouns (\"i\", \"me\"), which implies that the application is from an individual rather than a project.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Collective Governance, Developer Ecosystem, End User Experience and Adoption, Op Stack"
+  "pwCategorySuggestions": "Collective Governance, Developer Ecosystem, End User Experience and Adoption, Op Stack",
+  "pwCategory": "Community Building"
 }

@@ -53,5 +53,6 @@
   "pwIsNoise": false,
   "recategorizeReason": "NO, the application is incorrectly categorized. Despite the individual referring to himself/herself as an artist and a collector, the mentioned contribution areas indicate towards a project-type contribution rather than an individual one, furthermore the application is related to an NFT project named \"888Vigilantes\".",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Digital Identity, NFTs, Governance Tokens, Developer Ecosystem, End User Experience and Adoption"
+  "pwCategorySuggestions": "Digital Identity, NFTs, Governance Tokens, Developer Ecosystem, End User Experience and Adoption",
+  "pwCategory": "NFT Management"
 }

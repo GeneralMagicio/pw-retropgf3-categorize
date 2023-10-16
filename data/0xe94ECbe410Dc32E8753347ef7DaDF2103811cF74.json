@@ -40,5 +40,6 @@
   "pwIsNoise": true,
   "pwNoiseReason": "The application is noise because it provides no concrete evidence of a project or significant contribution to the Web3/blockchain space; it appears to be more focused on obtaining free assets than adding value.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Finance (DeFi), Governance Tokens, Developer Ecosystem, End User Experience and Adoption"
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Governance Tokens, Developer Ecosystem, End User Experience and Adoption",
+  "pwCategory": "Community Building"
 }

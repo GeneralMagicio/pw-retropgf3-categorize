@@ -44,5 +44,6 @@
   "pwIsNoise": false,
   "recategorizeReason": "NO. Although the applicantType is listed as \"PROJECT\", the contributionDescription uses first-person pronouns \"I\" and \"me\" which suggests this application is from an individual.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Blockchain Infrastructure"
+  "pwCategorySuggestions": "Blockchain Infrastructure",
+  "pwCategory": "User Adoption"
 }

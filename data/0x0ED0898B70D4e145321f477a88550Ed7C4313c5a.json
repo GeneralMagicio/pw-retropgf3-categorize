@@ -38,5 +38,6 @@
   "pwIsNoise": true,
   "pwNoiseReason": "The application is noise because the description of contribution and impact is repetitive and lacks specific details, indicating it might be auto-generated or spam.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Developer Ecosystem, End User Experience and Adoption"
+  "pwCategorySuggestions": "Developer Ecosystem, End User Experience and Adoption",
+  "pwCategory": "Developer Ecosystem"
 }

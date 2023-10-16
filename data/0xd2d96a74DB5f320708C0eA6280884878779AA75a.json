@@ -48,5 +48,6 @@
   "pwNoiseReason": "This application is noise because the descriptions provided are nonsensical and repetitive, indicating a lack of genuine or meaningful contribution to the Web3/blockchain space.",
   "recategorizeReason": "NO, because the application doesn't provide sufficient evidence or context to confirm if the applicant is an individual or a project.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK"
+  "pwCategorySuggestions": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK",
+  "pwCategory": "Community Building"
 }

@@ -40,5 +40,6 @@
   "pwIsNoise": true,
   "pwNoiseReason": "The application seems to be noise as it provides vague descriptions of their contributions and impacts, uses undefined terminologies like \"cheap feeler\", and seems to heavily rely on airdrops which can often be associated with spammy or scam activities.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Collective Governance, Developer Ecosystem, End User Experience and Adoption, Op Stack"
+  "pwCategorySuggestions": "Collective Governance, Developer Ecosystem, End User Experience and Adoption, Op Stack",
+  "pwCategory": "Community Building"
 }

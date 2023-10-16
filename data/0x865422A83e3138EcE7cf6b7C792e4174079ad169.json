@@ -40,5 +40,6 @@
   "pwIsNoise": true,
   "pwNoiseReason": "This application is noise due to the lack of clarity and coherence in the provided descriptions, as well as typographical errors, suggesting it may not be from a legitimate source.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, COLLECTIVE_GOVERNANCE, OP_STACK"
+  "pwCategorySuggestions": "DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, COLLECTIVE_GOVERNANCE, OP_STACK",
+  "pwCategory": "Education"
 }

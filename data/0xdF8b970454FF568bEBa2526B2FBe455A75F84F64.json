@@ -45,5 +45,6 @@
   "pwIsNoise": false,
   "recategorizeReason": "NO, the statement \"ps: I am copying and pasting because I have summarized all our actions here\" indicates that this application may be incorrectly categorized as a project when it seems to be completed by an individual.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Developer Ecosystem, End User Experience and Adoption, Tokenization Platforms, Collective Governance"
+  "pwCategorySuggestions": "Developer Ecosystem, End User Experience and Adoption, Tokenization Platforms, Collective Governance",
+  "pwCategory": "Community Building"
 }

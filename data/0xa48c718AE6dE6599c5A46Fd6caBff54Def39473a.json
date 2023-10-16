@@ -53,5 +53,6 @@
   "Tags": "",
   "pwIsNoise": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Digital Identity"
+  "pwCategorySuggestions": "Digital Identity",
+  "pwCategory": "Decentralized Identity"
 }

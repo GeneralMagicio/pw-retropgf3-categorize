@@ -37,5 +37,6 @@
   "pwIsNoise": false,
   "recategorizeReason": "NO, the application is incorrectly categorized as it specifies that he is working alone on his website, indicating this should be an \"INDIVIDUAL\" applicant, not a \"PROJECT\".",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Layer 1&2 Transactions Tracker"
+  "pwCategorySuggestions": "Layer 1&2 Transactions Tracker",
+  "pwCategory": "End User Experience"
 }

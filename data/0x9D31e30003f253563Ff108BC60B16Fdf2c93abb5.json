@@ -100,5 +100,6 @@
   "Tags": "",
   "pwIsNoise": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Oracles, Cross-Chain Compatibility, Data Access, NFT Verification, Blockchain Infrastructure"
+  "pwCategorySuggestions": "Decentralized Oracles, Cross-Chain Compatibility, Data Access, NFT Verification, Blockchain Infrastructure",
+  "pwCategory": "Blockchain Infrastructure"
 }

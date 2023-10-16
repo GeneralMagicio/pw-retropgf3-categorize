@@ -42,5 +42,6 @@
   "pwIsNoise": false,
   "recategorizeReason": "NO, it is not correctly categorized. The application refers to \"we\" several times, indicating that it's a group or project rather than an individual.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "NFTs, Digital Art, Online Gallery"
+  "pwCategorySuggestions": "NFTs, Digital Art, Online Gallery",
+  "pwCategory": "NFT Management"
 }

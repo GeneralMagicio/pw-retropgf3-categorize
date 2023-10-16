@@ -37,5 +37,6 @@
   "pwIsNoise": true,
   "pwNoiseReason": "The application is noise because the vital information such as bio, contribution description and impact description are repetitive and make no specific sense or provide detailed information related to the project.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Finance (DeFi), Layer 2 Scaling, Smart Contract Platforms, Cross-Chain Platforms, Governance Tokens"
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Layer 2 Scaling, Smart Contract Platforms, Cross-Chain Platforms, Governance Tokens",
+  "pwCategory": "The description provided is not clear enough to categorize the project."
 }
