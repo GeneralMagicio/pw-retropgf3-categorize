@@ -1,5 +1,5 @@
 {
-  "applicantType": "PROJECT",
+  "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://twitter.com/billy45331597",
   "bio": "My name is Billy, I'm the Optimism fanboy",
   "contributionDescription": "I vote or delegate for every proposal, I provide TVL on Defi, I lend & borrow a token, I buy & sell a token & NFT, give it a try the new OP stack chain such as BASE & ZORA, I tweet and share the Optimism news, I love optimism so much, I've never used other chain as much as Optimism. ",
@@ -56,9 +56,12 @@
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
   "Project": "Billy.ETH",
-  "Applicant Type": "PROJECT",
+  "Applicant Type": "INDIVIDUAL",
   "OSS Directory": "",
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x978A2E2D98ca029Ab0f7268Cb069528333D748C1.json",
   "Githubs": "",
-  "Tags": "COLLECTIVE_GOVERNANCE"
+  "Tags": "COLLECTIVE_GOVERNANCE",
+  "pwIsNoise": false,
+  "recategorizeReason": "NO, it is not correctly categorized. The application should be categorized as an \"INDIVIDUAL\" because from the \"bio\" we can see this application is referring to a single person, Billy, not a project.",
+  "pwApplicantTypeChecked": true
 }

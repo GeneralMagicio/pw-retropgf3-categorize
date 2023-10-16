@@ -94,5 +94,7 @@
   "OSS Directory": "Github Found",
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xf52a30397151C77E732fA5DeFB9347359C52A141.json",
   "Githubs": "https://thedefisaint.substack.com/archive?sort=new",
-  "Tags": ""
+  "Tags": "",
+  "pwIsNoise": false,
+  "pwApplicantTypeChecked": true
 }

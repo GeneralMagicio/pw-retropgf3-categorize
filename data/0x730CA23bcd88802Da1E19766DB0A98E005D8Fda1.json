@@ -41,5 +41,7 @@
   "OSS Directory": "",
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x730CA23bcd88802Da1E19766DB0A98E005D8Fda1.json",
   "Githubs": "",
-  "Tags": "COLLECTIVE_GOVERNANCE, END_USER_EXPERIENCE_AND_ADOPTION"
+  "Tags": "COLLECTIVE_GOVERNANCE, END_USER_EXPERIENCE_AND_ADOPTION",
+  "pwIsNoise": false,
+  "pwApplicantTypeChecked": true
 }

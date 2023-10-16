@@ -38,5 +38,7 @@
   "OSS Directory": "Not Found",
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x3d4aaFbe86059d17C6263332c560f18C4F1Fec34.json",
   "Githubs": "https://github.com/PopPunkLLC/GasliteDrop",
-  "Tags": ""
+  "Tags": "",
+  "pwIsNoise": false,
+  "pwApplicantTypeChecked": true
 }

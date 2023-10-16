@@ -46,5 +46,8 @@
   "OSS Directory": "",
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x3977492b0d15488A57aD4c5bd2ECDe7e2572d7FE.json",
   "Githubs": "",
-  "Tags": "COLLECTIVE_GOVERNANCE, OP_STACK"
+  "Tags": "COLLECTIVE_GOVERNANCE, OP_STACK",
+  "pwIsNoise": true,
+  "pwNoiseReason": "This application is noise because the descriptions of the project, bio and impact are repetitive, nonsensical phrases which do not provide legitimate or valuable information.",
+  "pwApplicantTypeChecked": true
 }

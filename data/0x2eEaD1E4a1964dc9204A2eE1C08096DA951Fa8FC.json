@@ -36,5 +36,8 @@
   "OSS Directory": "",
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x2eEaD1E4a1964dc9204A2eE1C08096DA951Fa8FC.json",
   "Githubs": "",
-  "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK"
+  "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK",
+  "pwIsNoise": true,
+  "pwNoiseReason": "The application seems to be noise as it provides vague descriptions of their contributions and impacts, uses undefined terminologies like \"cheap feeler\", and seems to heavily rely on airdrops which can often be associated with spammy or scam activities.",
+  "pwApplicantTypeChecked": true
 }

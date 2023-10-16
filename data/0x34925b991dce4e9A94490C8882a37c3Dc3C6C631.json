@@ -40,5 +40,7 @@
   "OSS Directory": "",
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x34925b991dce4e9A94490C8882a37c3Dc3C6C631.json",
   "Githubs": "",
-  "Tags": "END_USER_EXPERIENCE_AND_ADOPTION"
+  "Tags": "END_USER_EXPERIENCE_AND_ADOPTION",
+  "pwIsNoise": false,
+  "pwApplicantTypeChecked": true
 }

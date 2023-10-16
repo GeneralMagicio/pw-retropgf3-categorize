@@ -1,5 +1,5 @@
 {
-  "applicantType": "PROJECT",
+  "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://twitter.com/BASICKTRUST",
   "bio": "Web3 crypto enthusiast",
   "contributionDescription": "I like to hold the OP token and participate in every vote, I have been doing this since the moment I started working with the network. I am ready to contribute to your project, make reposts, put likes and communicate with the community both in Twitter and in Discord. I participated in Gitcoin Grants and contributed to projects there. I have done token delegation and am voting very responsibly in Optimism project.\n",
@@ -39,9 +39,12 @@
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
   "Project": "Karbonio",
-  "Applicant Type": "PROJECT",
+  "Applicant Type": "INDIVIDUAL",
   "OSS Directory": "",
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x99CB34E4291e16bc625B14332D45EdfB475aBb60.json",
   "Githubs": "",
-  "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK"
+  "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK",
+  "pwIsNoise": false,
+  "recategorizeReason": "NO, it is not correctly categorized. The application is marked as a \"PROJECT\" but the applicant mentions \"I\" and \"me\", indicating an individual.",
+  "pwApplicantTypeChecked": true
 }

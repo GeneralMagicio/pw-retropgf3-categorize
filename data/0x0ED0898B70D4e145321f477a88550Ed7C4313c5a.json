@@ -34,5 +34,8 @@
   "OSS Directory": "",
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x0ED0898B70D4e145321f477a88550Ed7C4313c5a.json",
   "Githubs": "",
-  "Tags": "DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION"
+  "Tags": "DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION",
+  "pwIsNoise": true,
+  "pwNoiseReason": "The application is noise because the description of contribution and impact is repetitive and lacks specific details, indicating it might be auto-generated or spam.",
+  "pwApplicantTypeChecked": true
 }

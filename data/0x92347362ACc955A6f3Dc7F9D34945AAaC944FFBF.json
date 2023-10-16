@@ -62,5 +62,7 @@
   "OSS Directory": "Github Found",
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x92347362ACc955A6f3Dc7F9D34945AAaC944FFBF.json",
   "Githubs": "https://github.com/ethereum/sourcify, https://github.com/sourcifyeth",
-  "Tags": ""
+  "Tags": "",
+  "pwIsNoise": false,
+  "pwApplicantTypeChecked": true
 }

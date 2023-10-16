@@ -54,5 +54,7 @@
   "OSS Directory": "Address Found",
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xb7D6937F3aa9E09817C045b7d5b5Fb5064370671.json",
   "Githubs": "",
-  "Tags": ""
+  "Tags": "",
+  "pwIsNoise": false,
+  "pwApplicantTypeChecked": true
 }

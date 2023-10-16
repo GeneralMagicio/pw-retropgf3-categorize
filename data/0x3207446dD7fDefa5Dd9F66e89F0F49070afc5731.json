@@ -1,5 +1,5 @@
 {
-  "applicantType": "PROJECT",
+  "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://vi.m.wikipedia.org/wiki/Gray_(ca_s%C4%A9)",
   "bio": "Wiki GRAY",
   "contributionDescription": "I have experienced it all in the optimism ecosystem and look forward to experiencing optimism more. Thanks.\nThank you ecosystem for giving me a wonderful experience and bringing me to Optimism, which I really like.\nAnd then I want to say that if the world develops more and more in the future, hopefully the optimism ecosystem will develop more and more good luck Optimism",
@@ -39,9 +39,13 @@
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
   "Project": "GRAY",
-  "Applicant Type": "PROJECT",
+  "Applicant Type": "INDIVIDUAL",
   "OSS Directory": "",
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x3207446dD7fDefa5Dd9F66e89F0F49070afc5731.json",
   "Githubs": "",
-  "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK"
+  "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK",
+  "pwIsNoise": true,
+  "pwNoiseReason": "This application is noise because it doesn't provide clear and specific information about the project, its contribution to the Web3/blockchain space or its actual impact, it is full of vague statements and repetitiveness.",
+  "recategorizeReason": "NO, it is not correctly categorized because the application frequently uses \"I\" and \"me\", indicating it is an individual rather than a project.",
+  "pwApplicantTypeChecked": true
 }

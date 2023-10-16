@@ -44,5 +44,7 @@
   "OSS Directory": "Not Found",
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xEeC7E4B2287e98B6ca30242e2D2D2F283a78Fc82.json",
   "Githubs": "https://github.com/forumdaos/forum-contracts",
-  "Tags": ""
+  "Tags": "",
+  "pwIsNoise": false,
+  "pwApplicantTypeChecked": true
 }

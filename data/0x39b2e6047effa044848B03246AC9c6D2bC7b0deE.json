@@ -33,5 +33,7 @@
   "OSS Directory": "",
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x39b2e6047effa044848B03246AC9c6D2bC7b0deE.json",
   "Githubs": "",
-  "Tags": "OP_STACK"
+  "Tags": "OP_STACK",
+  "pwIsNoise": false,
+  "pwApplicantTypeChecked": true
 }

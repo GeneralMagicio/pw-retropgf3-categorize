@@ -1,5 +1,5 @@
 {
-  "applicantType": "PROJECT",
+  "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://zemberek.eth.xyz/",
   "bio": "environmental engineer",
   "contributionDescription": "For me, op chain is an extraordinary technology and it has created an environment where individuals will feel more at home and this will attract people more.For me, op chain is an extraordinary technology and it has created an environment where individuals will feel more at home and this will attract people more.",
@@ -32,9 +32,12 @@
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
   "Project": "Vku",
-  "Applicant Type": "PROJECT",
+  "Applicant Type": "INDIVIDUAL",
   "OSS Directory": "Not Found",
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x153509e78Fd04144d482E27716aE14c52d7932B0.json",
   "Githubs": "https://github.com/zemberek82",
-  "Tags": ""
+  "Tags": "",
+  "pwIsNoise": false,
+  "recategorizeReason": "NO, the application uses first person language like \"For me,\" suggesting it's coming from an individual and not a group or project. Even though they provided a GitHub link and a website, the nature of the application and the language used suggests it is an individual.",
+  "pwApplicantTypeChecked": true
 }

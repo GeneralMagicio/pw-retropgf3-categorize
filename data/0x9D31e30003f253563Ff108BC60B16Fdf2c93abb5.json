@@ -97,5 +97,7 @@
   "OSS Directory": "Address & Github Found",
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x9D31e30003f253563Ff108BC60B16Fdf2c93abb5.json",
   "Githubs": "https://github.com/ScryProtocol/",
-  "Tags": ""
+  "Tags": "",
+  "pwIsNoise": false,
+  "pwApplicantTypeChecked": true
 }

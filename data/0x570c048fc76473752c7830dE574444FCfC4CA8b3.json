@@ -34,5 +34,7 @@
   "OSS Directory": "Github Found",
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x570c048fc76473752c7830dE574444FCfC4CA8b3.json",
   "Githubs": "https://github.com/ethereum-optimism/ecosystem-contributions",
-  "Tags": ""
+  "Tags": "",
+  "pwIsNoise": false,
+  "pwApplicantTypeChecked": true
 }

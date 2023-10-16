@@ -100,5 +100,7 @@
   "OSS Directory": "Address & Github Found",
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x9531C059098e3d194fF87FebB587aB07B30B1306.json",
   "Githubs": "https://github.com/rotki/rotki, https://github.com/coinyon/buchfink, https://github.com/prettyirrelevant/decodify",
-  "Tags": ""
+  "Tags": "",
+  "pwIsNoise": false,
+  "pwApplicantTypeChecked": true
 }

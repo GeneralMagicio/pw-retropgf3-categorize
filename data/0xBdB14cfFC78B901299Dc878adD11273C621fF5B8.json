@@ -48,5 +48,7 @@
   "OSS Directory": "Github Found",
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xBdB14cfFC78B901299Dc878adD11273C621fF5B8.json",
   "Githubs": "https://github.com/wagmi-dev/abitype, https://github.com/wagmi-dev/viem, https://github.com/Raiden1411/LibStringUtils, https://github.com/Vectorized/solady",
-  "Tags": ""
+  "Tags": "",
+  "pwIsNoise": false,
+  "pwApplicantTypeChecked": true
 }

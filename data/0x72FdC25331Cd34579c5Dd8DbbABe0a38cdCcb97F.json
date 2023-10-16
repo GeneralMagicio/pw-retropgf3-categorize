@@ -67,5 +67,7 @@
   "OSS Directory": "Github Found",
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x72FdC25331Cd34579c5Dd8DbbABe0a38cdCcb97F.json",
   "Githubs": "https://github.com/DecentraSchool/decentraclasses",
-  "Tags": ""
+  "Tags": "",
+  "pwIsNoise": false,
+  "pwApplicantTypeChecked": true
 }

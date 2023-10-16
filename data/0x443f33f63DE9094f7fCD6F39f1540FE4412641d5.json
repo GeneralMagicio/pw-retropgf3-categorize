@@ -1,5 +1,5 @@
 {
-  "applicantType": "PROJECT",
+  "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://mmo90.com/",
   "bio": "hello i am amin",
   "contributionDescription": "i will say with my friend, Some of the best bees on my website are waiting for a chance to talk to you. You should reply before it’s too late, We’re so lucky to have you on mmo90,  So you can adding only fans link to mmo90, in the future\ni will say with my friend, Some of the best bees on my website are waiting for a chance to talk to you. You should reply before it’s too late, We’re so lucky to have you on mmo90,  So you can adding only fans link to mmo90, in the future",
@@ -39,9 +39,13 @@
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
   "Project": "amintoosad",
-  "Applicant Type": "PROJECT",
+  "Applicant Type": "INDIVIDUAL",
   "OSS Directory": "",
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x443f33f63DE9094f7fCD6F39f1540FE4412641d5.json",
   "Githubs": "",
-  "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK"
+  "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK",
+  "pwIsNoise": true,
+  "pwNoiseReason": "This application is noise because the contribution and impact descriptions are nonsensical and repetitive, and do not indicate a serious or significant contribution to the Web3/blockchain space.",
+  "recategorizeReason": "NO, the application is not correctly categorized because it frequently uses first-person pronouns such as \"I\" and \"my\", indicating an individual applicant rather than a project.",
+  "pwApplicantTypeChecked": true
 }

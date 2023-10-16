@@ -1,5 +1,5 @@
 {
-  "applicantType": "PROJECT",
+  "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://app.optimism.io/profile/rpgf-application/basic-info?utm_source=tokenpocket",
   "bio": "Men",
   "contributionDescription": "Technology changes your perception. The The future is a decentralized world and an independently operating economic system, in which companies or individuals will operate their own space.  I don’t need to explain it in an academic way. Here are a few simple examples so you can understand:\n The cinema has become a place for collective adventure. Everyone’s movie theme is the same, but the ending is different for everyone involved, because you are you and he is him. The virtual characters everyone encounters may be the same, but the participants, Everyone's decision may be different.  In the future, human beings will be under increasing mental pressure. Hospitals have also been designed with metaverses to treat various mental illnesses. Robots will do the surgery for them. ",
@@ -32,9 +32,12 @@
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
   "Project": "CHING HAO CHEN",
-  "Applicant Type": "PROJECT",
+  "Applicant Type": "INDIVIDUAL",
   "OSS Directory": "",
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x604B516Cd0Fee16f1E6552275eA3C7AA00C9a174.json",
   "Githubs": "",
-  "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK"
+  "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK",
+  "pwIsNoise": false,
+  "recategorizeReason": "NO, the application is not correctly categorized. The applicant refers to themselves as \"I\" and \"me\", indicating that it should be categorized as \"INDIVIDUAL\" instead of \"PROJECT\".",
+  "pwApplicantTypeChecked": true
 }

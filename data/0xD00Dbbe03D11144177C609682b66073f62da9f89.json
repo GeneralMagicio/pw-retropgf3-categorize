@@ -1,5 +1,5 @@
 {
-  "applicantType": "PROJECT",
+  "applicantType": "INDIVIDUAL",
   "websiteUrl": "Https.://www.twitter.com/Rizkyalpasha2",
   "bio": "Be yourself ",
   "contributionDescription": "make any contribution that always builds a solid community, whatever it is, always be ready to be together..give each other positive input and encouragement so that we can move forward together.\nWhatever is given, I am still very grateful, because the optimism chain will always be in my heart forever. Joining as one of the supporters is already an honor for me.",
@@ -37,9 +37,12 @@
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
   "Project": "Asian crypto",
-  "Applicant Type": "PROJECT",
+  "Applicant Type": "INDIVIDUAL",
   "OSS Directory": "",
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xD00Dbbe03D11144177C609682b66073f62da9f89.json",
   "Githubs": "",
-  "Tags": "COLLECTIVE_GOVERNANCE, OP_STACK"
+  "Tags": "COLLECTIVE_GOVERNANCE, OP_STACK",
+  "pwIsNoise": false,
+  "recategorizeReason": "NO. The applicant consistently uses singular pronouns like \"me\" and \"I\" indicating this should be categorized as an individual.",
+  "pwApplicantTypeChecked": true
 }

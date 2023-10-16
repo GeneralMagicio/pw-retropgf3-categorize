@@ -61,5 +61,7 @@
   "OSS Directory": "Address & Github Found",
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x40Bd6e764DBc5C7268aaC775D8978881B16221F1.json",
   "Githubs": "https://github.com/sonne-finance",
-  "Tags": ""
+  "Tags": "",
+  "pwIsNoise": false,
+  "pwApplicantTypeChecked": true
 }

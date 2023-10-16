@@ -38,5 +38,7 @@
   "OSS Directory": "Github Found",
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xD165df4296C85e780509fa1eace0150d945d49Fd.json",
   "Githubs": "https://github.com/eth-educators/",
-  "Tags": ""
+  "Tags": "",
+  "pwIsNoise": false,
+  "pwApplicantTypeChecked": true
 }

@@ -40,5 +40,8 @@
   "OSS Directory": "",
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x184b65d77975675b20846a25ddd9e31F9EF77891.json",
   "Githubs": "",
-  "Tags": "OP_STACK"
+  "Tags": "OP_STACK",
+  "pwIsNoise": true,
+  "pwNoiseReason": "The application is noise because both the \"bio\" and the \"contribution description\" sections are filled with nonsensical repetitions of the word \"test\".",
+  "pwApplicantTypeChecked": true
 }

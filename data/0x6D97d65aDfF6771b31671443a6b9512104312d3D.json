@@ -1,5 +1,5 @@
 {
-  "applicantType": "PROJECT",
+  "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://markoprljic.com/",
   "bio": "Head od Design",
   "contributionDescription": "Conducted an expert review of user experience audit based on Web3 usability guidelines and expert review checkpoints for the following DApps: Curve Finance, Beefy Finance, Velodrome and KyberSwap.\n\nThe aim was to assess the platform's alignment with industry best practices, ensuring a seamless and user-centric experience for all users interacting with Web3 technologies.\nThe review focused on evaluating critical aspects such as platform accessibility, navigation, search functionality, user education, error handling, and the integration of Web3 wallet functionalities. Through a meticulous assessment, several areas were identified that require immediate attention to enhance the overall user experience.\n",
@@ -30,9 +30,12 @@
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
   "Project": "Marko",
-  "Applicant Type": "PROJECT",
+  "Applicant Type": "INDIVIDUAL",
   "OSS Directory": "Github Found",
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x6D97d65aDfF6771b31671443a6b9512104312d3D.json",
   "Githubs": "https://github.com/ethereum-optimism/ecosystem-contributions/issues/70",
-  "Tags": ""
+  "Tags": "",
+  "pwIsNoise": false,
+  "recategorizeReason": "NO. The application is categorized as a \"PROJECT\" but the description seems to be about the work of an individual, as the bio mentions \"Head of Design,\" indicating it's an individual's role.",
+  "pwApplicantTypeChecked": true
 }

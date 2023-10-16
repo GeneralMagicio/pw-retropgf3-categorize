@@ -50,5 +50,7 @@
   "OSS Directory": "Not Found",
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xbd43CDeDaaF8CFCFeC0C6597edF748FE402F6F00.json",
   "Githubs": "https://github.com/protocol/research-grants/blob/master/RFPs/rfp-014-private-retrieval-of-data.md, https://github.com/willscott",
-  "Tags": ""
+  "Tags": "",
+  "pwIsNoise": false,
+  "pwApplicantTypeChecked": true
 }

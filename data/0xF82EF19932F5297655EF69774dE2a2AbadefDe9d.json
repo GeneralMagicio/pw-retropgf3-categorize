@@ -1,5 +1,5 @@
 {
-  "applicantType": "PROJECT",
+  "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://t.me/NFTunchainedClubChannel",
   "bio": "Founder of NFTunchained Club",
   "contributionDescription": "I love optimism since day one, i tell my community to stake and hold OP as much as they can, i know that on bullran OP will rise and shine and it's our destiny.\nGive me a chance to contribute in the future of layer2 blockchains, hope u can hear how god whispers!",
@@ -34,9 +34,12 @@
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
   "Project": "krajekis",
-  "Applicant Type": "PROJECT",
+  "Applicant Type": "INDIVIDUAL",
   "OSS Directory": "",
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xF82EF19932F5297655EF69774dE2a2AbadefDe9d.json",
   "Githubs": "",
-  "Tags": "END_USER_EXPERIENCE_AND_ADOPTION"
+  "Tags": "END_USER_EXPERIENCE_AND_ADOPTION",
+  "pwIsNoise": false,
+  "recategorizeReason": "NO. This application is incorrectly categorized as a PROJECT while in the description it's indicated that it's from an INDIVIDUAL stating \"I'm CEO of NFTunchained Club\", \"Give me a chance to contribute in the future of layer2 blockchains\".",
+  "pwApplicantTypeChecked": true
 }

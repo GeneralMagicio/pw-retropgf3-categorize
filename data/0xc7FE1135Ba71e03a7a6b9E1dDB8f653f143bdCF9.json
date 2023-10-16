@@ -133,5 +133,7 @@
   "OSS Directory": "Github Found",
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xc7FE1135Ba71e03a7a6b9E1dDB8f653f143bdCF9.json",
   "Githubs": "https://github.com/primitivefinance/arbiter, https://github.com/cairoeth/arbx, https://github.com/laudiacay/barustenberg, https://github.com/SorellaLabs/ethers-reth, https://github.com/paradigmxyz/reth/issues/3428, https://github.com/bluealloy/revm, https://t.co/IesndP2MsK",
-  "Tags": ""
+  "Tags": "",
+  "pwIsNoise": false,
+  "pwApplicantTypeChecked": true
 }

@@ -1,5 +1,5 @@
 {
-  "applicantType": "PROJECT",
+  "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://defigourmet.com/",
   "bio": "Layers 1&2 Transactions Protocols Tracker",
   "contributionDescription": "Hello, I am working alone on my website Defigourmet a Layers 1&2 Transactions Protocols Tracker. The main idea of the website is to find all transactions from different protocols / Layer 1&2 on a single website. The contributions i wish is help to improve the customer experience and add a lot of protocols. If I get any help, I will focus on implementing the Optimism protocols. ",
@@ -29,9 +29,12 @@
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
   "Project": "Defigourmet",
-  "Applicant Type": "PROJECT",
+  "Applicant Type": "INDIVIDUAL",
   "OSS Directory": "",
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xe08d3d0334aB089DAaF0C620989959Ba5d4aA04C.json",
   "Githubs": "",
-  "Tags": "END_USER_EXPERIENCE_AND_ADOPTION"
+  "Tags": "END_USER_EXPERIENCE_AND_ADOPTION",
+  "pwIsNoise": false,
+  "recategorizeReason": "NO, the application is incorrectly categorized as it specifies that he is working alone on his website, indicating this should be an \"INDIVIDUAL\" applicant, not a \"PROJECT\".",
+  "pwApplicantTypeChecked": true
 }

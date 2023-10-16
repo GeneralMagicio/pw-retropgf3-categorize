@@ -36,5 +36,8 @@
   "OSS Directory": "",
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xe94ECbe410Dc32E8753347ef7DaDF2103811cF74.json",
   "Githubs": "",
-  "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK"
+  "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK",
+  "pwIsNoise": true,
+  "pwNoiseReason": "The application is noise because it provides no concrete evidence of a project or significant contribution to the Web3/blockchain space; it appears to be more focused on obtaining free assets than adding value.",
+  "pwApplicantTypeChecked": true
 }

@@ -1,5 +1,5 @@
 {
-  "applicantType": "INDIVIDUAL",
+  "applicantType": "PROJECT",
   "websiteUrl": "https://www.optimism.io",
   "bio": "Good guy",
   "contributionDescription": "Optimism is a layer-2 scaling solution for Ethereum, designed to improve its scalability and reduce transaction fees. Any contributions or developments related to Optimism would be the work of the developers and contributors directly involved with the project.",
@@ -29,9 +29,12 @@
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
   "Project": "Neko",
-  "Applicant Type": "INDIVIDUAL",
+  "Applicant Type": "PROJECT",
   "OSS Directory": "",
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xFF43aa03358E3623F992B40363B064C3Cf878751.json",
   "Githubs": "",
-  "Tags": "OP_STACK"
+  "Tags": "OP_STACK",
+  "pwIsNoise": false,
+  "recategorizeReason": "NO, the application is incorrectly categorized as individual whereas it should be \"PROJECT\" since the application talks about work by the developers and contributors involved in the Optimism project, not an individual accomplishment.",
+  "pwApplicantTypeChecked": true
 }

@@ -86,5 +86,7 @@
   "OSS Directory": "Not Found",
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x8d99F8b2710e6A3B94d9bf465A98E5273069aCBd.json",
   "Githubs": "https://github.com/duneanalytics/dune-client, https://github.com/bh2smith/ts-dune-client, https://github.com/bh2smith/duners/, https://github.com/cowprotocol/dune-alerts, https://github.com/duneanalytics/spellbook, https://github.com/cowprotocol/dune-sync",
-  "Tags": ""
+  "Tags": "",
+  "pwIsNoise": false,
+  "pwApplicantTypeChecked": true
 }

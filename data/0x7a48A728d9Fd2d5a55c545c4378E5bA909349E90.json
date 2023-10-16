@@ -60,5 +60,7 @@
   "OSS Directory": "Address & Github Found",
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x7a48A728d9Fd2d5a55c545c4378E5bA909349E90.json",
   "Githubs": "https://github.com/truffle-box/optimism-box, https://github.com/truffle-box/optimism-bridge-box",
-  "Tags": ""
+  "Tags": "",
+  "pwIsNoise": false,
+  "pwApplicantTypeChecked": true
 }

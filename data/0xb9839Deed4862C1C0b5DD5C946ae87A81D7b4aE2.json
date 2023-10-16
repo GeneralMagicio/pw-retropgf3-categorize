@@ -41,5 +41,8 @@
   "OSS Directory": "Not Found",
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xb9839Deed4862C1C0b5DD5C946ae87A81D7b4aE2.json",
   "Githubs": "https://github.com/",
-  "Tags": ""
+  "Tags": "",
+  "pwIsNoise": true,
+  "pwNoiseReason": "The application is noise because the applicant has provided vague and unclear information about their project, implying that they might not have a tangible or legitimate project in the Web3/blockchain space.",
+  "pwApplicantTypeChecked": true
 }

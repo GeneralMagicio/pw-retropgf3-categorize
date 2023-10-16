@@ -10,5 +10,5 @@
     "forceConsistentCasingInFileNames": true,
     "skipLibCheck": true
   },
-  "include": ["src", "_draft/create-clusters.ts", "_draft/create-embeddings.ts"]
+  "include": ["src"]
 }

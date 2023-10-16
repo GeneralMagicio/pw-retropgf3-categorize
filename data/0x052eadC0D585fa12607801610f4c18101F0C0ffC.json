@@ -1,5 +1,5 @@
 {
-  "applicantType": "PROJECT",
+  "applicantType": "INDIVIDUAL",
   "websiteUrl": "Https://www.Reaxper.com",
   "bio": "Hello I have owl project in the works of 10,000 owls NFTs.",
   "contributionDescription": "I made a YouTube video about you guys in 2021, I love your project and have been watching you guys for a while now and love seeing your success. I plan on contributing in any way and support you guys fully. I will have my YouTube link below so you guys can check it out. All love thank you.",
@@ -39,9 +39,12 @@
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
   "Project": "Reaxper",
-  "Applicant Type": "PROJECT",
+  "Applicant Type": "INDIVIDUAL",
   "OSS Directory": "",
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x052eadC0D585fa12607801610f4c18101F0C0ffC.json",
   "Githubs": "",
-  "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK"
+  "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK",
+  "pwIsNoise": false,
+  "recategorizeReason": "NO. The application should be categorized as \"INDIVIDUAL\". The applicant refers to himself/herself as \"I\" several times in the application.",
+  "pwApplicantTypeChecked": true
 }

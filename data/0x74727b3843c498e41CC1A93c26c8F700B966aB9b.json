@@ -36,5 +36,7 @@
   "OSS Directory": "Not Found",
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x74727b3843c498e41CC1A93c26c8F700B966aB9b.json",
   "Githubs": "https://github.com/ifysucre/coding-sugar/fork",
-  "Tags": ""
+  "Tags": "",
+  "pwIsNoise": false,
+  "pwApplicantTypeChecked": true
 }

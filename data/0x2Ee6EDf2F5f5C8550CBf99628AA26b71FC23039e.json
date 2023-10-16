@@ -145,5 +145,7 @@
   "OSS Directory": "Not Found",
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x2Ee6EDf2F5f5C8550CBf99628AA26b71FC23039e.json",
   "Githubs": "https://github.com/Cyfrin/foundry-full-course-f23",
-  "Tags": ""
+  "Tags": "",
+  "pwIsNoise": false,
+  "pwApplicantTypeChecked": true
 }

@@ -46,5 +46,7 @@
   "OSS Directory": "Address & Github Found",
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x1F5D295778796a8b9f29600A585Ab73D452AcB1c.json",
   "Githubs": "https://github.com/Vectorized/solady",
-  "Tags": ""
+  "Tags": "",
+  "pwIsNoise": false,
+  "pwApplicantTypeChecked": true
 }

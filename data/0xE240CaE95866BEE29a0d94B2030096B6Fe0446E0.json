@@ -1,5 +1,5 @@
 {
-  "applicantType": "INDIVIDUAL",
+  "applicantType": "PROJECT",
   "websiteUrl": "https://opensea.io/collection/888vigilantes",
   "bio": "NFT artist and collector",
   "contributionDescription": "Detailed document explaining your thoughts on the standard template (looking at this issue as an example)\nHighlighted key points of improvement overall\nHighlighted key points for additional information\nThoughts on structure and ease of access to required materials\nA better contributor experience means more tasks get done\nMore tasks get done means more work gets done\nMore work gets done means more RPGF for everyone!",
@@ -45,9 +45,12 @@
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
   "Project": "888Vigilantes",
-  "Applicant Type": "INDIVIDUAL",
+  "Applicant Type": "PROJECT",
   "OSS Directory": "",
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xE240CaE95866BEE29a0d94B2030096B6Fe0446E0.json",
   "Githubs": "",
-  "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK"
+  "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK",
+  "pwIsNoise": false,
+  "recategorizeReason": "NO, the application is incorrectly categorized. Despite the individual referring to himself/herself as an artist and a collector, the mentioned contribution areas indicate towards a project-type contribution rather than an individual one, furthermore the application is related to an NFT project named \"888Vigilantes\".",
+  "pwApplicantTypeChecked": true
 }

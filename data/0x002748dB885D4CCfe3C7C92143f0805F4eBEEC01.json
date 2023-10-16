@@ -1,5 +1,5 @@
 {
-  "applicantType": "PROJECT",
+  "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://linkr.bio/boochadeebyann",
   "bio": "Thai educating people for the opportunity ",
   "contributionDescription": "I educate thai people that blockchain and Layer2 especially op rollup will change the entire finance industry. Now a day I do my step day by day and one person to person. All over it will take quite sometime to do it, but i hope some day people will understand what I am talking about. Let's make OP the history of the space. !!   ",
@@ -39,9 +39,12 @@
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
   "Project": "BoomJ",
-  "Applicant Type": "PROJECT",
+  "Applicant Type": "INDIVIDUAL",
   "OSS Directory": "Not Found",
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x002748dB885D4CCfe3C7C92143f0805F4eBEEC01.json",
   "Githubs": "https://github.com/boomjeth",
-  "Tags": ""
+  "Tags": "",
+  "pwIsNoise": false,
+  "recategorizeReason": "NO. The application uses \"I\" and \"me\", indicating that it is from an individual, so it should be categorized as \"INDIVIDUAL\" instead of \"PROJECT\".",
+  "pwApplicantTypeChecked": true
 }

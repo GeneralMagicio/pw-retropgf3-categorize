@@ -43,5 +43,7 @@
   "OSS Directory": "Not Found",
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x78726673245fdb56425c8bd782f6FaA3E447625A.json",
   "Githubs": "https://github.com/smeee23/just_cause, https://github.com/smeee23/justcause_contracts",
-  "Tags": ""
+  "Tags": "",
+  "pwIsNoise": false,
+  "pwApplicantTypeChecked": true
 }

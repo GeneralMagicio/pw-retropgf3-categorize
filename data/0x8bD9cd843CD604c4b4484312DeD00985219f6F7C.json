@@ -1,5 +1,5 @@
 {
-  "applicantType": "INDIVIDUAL",
+  "applicantType": "PROJECT",
   "websiteUrl": "https://vrnouns.wtf",
   "bio": "We will support video content creators for economy, biology, electronic and tech",
   "contributionDescription": "We're launching a DAO to support creators producing impactful video content on beneficial electronics and significant projects in biolog, chemistry and DIY.\n\nHow It Works:\nVRNouns holders can apply for funding through our platform to bring their ideas to life. Other VRNouns holders voted and dedicated to providing the financial support needed for innovative and educational videos.\n\n",
@@ -34,9 +34,12 @@
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
   "Project": "Yasin Aktimur",
-  "Applicant Type": "INDIVIDUAL",
+  "Applicant Type": "PROJECT",
   "OSS Directory": "",
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x8bD9cd843CD604c4b4484312DeD00985219f6F7C.json",
   "Githubs": "",
-  "Tags": "END_USER_EXPERIENCE_AND_ADOPTION"
+  "Tags": "END_USER_EXPERIENCE_AND_ADOPTION",
+  "pwIsNoise": false,
+  "recategorizeReason": "NO, it is a project, not an individual, based on the description that involves activities such as launching a DAO and providing a platform for VRNouns holders.",
+  "pwApplicantTypeChecked": true
 }

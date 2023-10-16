@@ -1,5 +1,5 @@
 {
-  "applicantType": "INDIVIDUAL",
+  "applicantType": "PROJECT",
   "websiteUrl": "https://nowebsite.com",
   "bio": "Apple My favourite",
   "contributionDescription": "The OP token gives holders participation rights in The Optimism Collective, a two-tier governance system composed of Token House and Citizens’ House. Citizens’ House will come live later in 2022. Token House, which is already active, governs technical decisions related to Optimism, such as software upgrades. The Citizens’ House governs public-goods funding decisions. In its early days, Optimism itself raised funds on Gitcoin, a major public-goods funding platform.",
@@ -32,9 +32,13 @@
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
   "Project": "Apple",
-  "Applicant Type": "INDIVIDUAL",
+  "Applicant Type": "PROJECT",
   "OSS Directory": "",
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x08DC8489c7CB11010210Ffe7acA543e2DB18DEaf.json",
   "Githubs": "",
-  "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK"
+  "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK",
+  "pwIsNoise": true,
+  "pwNoiseReason": "The application is noise because the website URL and contribution links provided are not legitimate websites, indicating this could be fake or spam.",
+  "recategorizeReason": "NO, the application should be categorized as \"PROJECT\" because the contribution description and impact description indicate that the work is being done by a collective or organization, not a single individual.",
+  "pwApplicantTypeChecked": true
 }

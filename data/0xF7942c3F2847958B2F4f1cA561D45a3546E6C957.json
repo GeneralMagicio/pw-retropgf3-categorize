@@ -40,5 +40,8 @@
   "OSS Directory": "",
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xF7942c3F2847958B2F4f1cA561D45a3546E6C957.json",
   "Githubs": "",
-  "Tags": "OP_STACK"
+  "Tags": "OP_STACK",
+  "pwIsNoise": true,
+  "pwNoiseReason": "This application is noise because it lacks specificity about the project and its impact in the Web3/blockchain space, with vague and irrelevant details in both the contribution and impact descriptions.",
+  "pwApplicantTypeChecked": true
 }

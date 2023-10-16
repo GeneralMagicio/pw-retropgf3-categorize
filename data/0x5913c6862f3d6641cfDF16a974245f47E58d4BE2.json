@@ -50,5 +50,7 @@
   "OSS Directory": "Not Found",
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x5913c6862f3d6641cfDF16a974245f47E58d4BE2.json",
   "Githubs": "https://github.com/shazow/whatsabi",
-  "Tags": ""
+  "Tags": "",
+  "pwIsNoise": false,
+  "pwApplicantTypeChecked": true
 }

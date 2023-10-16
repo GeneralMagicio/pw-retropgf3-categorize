@@ -1,5 +1,5 @@
 {
-  "applicantType": "PROJECT",
+  "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://forocoches.com",
   "bio": "A little Elf",
   "contributionDescription": "I have only contributed through delegation of votes. I am very interested in DAOs and the entire OP ecosystem, which is why I am always attentive to all new news regarding OP and its development. I think that everything it is building has enormous potential. Including its SDK to be able to build.",
@@ -38,9 +38,12 @@
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
   "Project": "Soyduende",
-  "Applicant Type": "PROJECT",
+  "Applicant Type": "INDIVIDUAL",
   "OSS Directory": "",
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x5ab75f5e8b00E54671EaB7F1A4F483FB52FC2D4E.json",
   "Githubs": "",
-  "Tags": "COLLECTIVE_GOVERNANCE, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK"
+  "Tags": "COLLECTIVE_GOVERNANCE, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK",
+  "pwIsNoise": false,
+  "recategorizeReason": "NO, it's an application from an individual as the applicant uses first person pronouns such as \"I\" and \"me\" in the description.",
+  "pwApplicantTypeChecked": true
 }

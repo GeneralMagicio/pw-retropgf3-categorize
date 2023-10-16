@@ -1,5 +1,5 @@
 {
-  "applicantType": "INDIVIDUAL",
+  "applicantType": "PROJECT",
   "websiteUrl": "https://omahairdrop.blogspot.com/",
   "bio": "Association of young people who want to establish a startup",
   "contributionDescription": "Association of young people who want to establish a startup, I have an idea to develop a startup by creating a waste collection point, sorting and drying the waste, and then selling it to cement companies for fuel. This is because of the high amount of plastic waste in my area. I also have an idea to provide incentives in the form of optimism to introduce optimism to beginners. I want to demonstrate positive progress to the optimism community",
@@ -36,9 +36,12 @@
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
   "Project": "sanzjago",
-  "Applicant Type": "INDIVIDUAL",
+  "Applicant Type": "PROJECT",
   "OSS Directory": "",
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xdd3b797443287753014B128dee509fBd064d9A45.json",
   "Githubs": "",
-  "Tags": "END_USER_EXPERIENCE_AND_ADOPTION"
+  "Tags": "END_USER_EXPERIENCE_AND_ADOPTION",
+  "pwIsNoise": false,
+  "recategorizeReason": "NO, the application is categorized as an individual but the description refers to a group of young people trying to establish a startup, which makes it sound more like a project.",
+  "pwApplicantTypeChecked": true
 }

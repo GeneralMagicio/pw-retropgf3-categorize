@@ -51,5 +51,7 @@
   "OSS Directory": "Address & Github Found",
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x56EdF679B0C80D528E17c5Ffe514dc9a1b254b9c.json",
   "Githubs": "https://github.com/optimism-java/hildr",
-  "Tags": ""
+  "Tags": "",
+  "pwIsNoise": false,
+  "pwApplicantTypeChecked": true
 }

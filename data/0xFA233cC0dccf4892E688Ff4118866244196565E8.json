@@ -1,5 +1,5 @@
 {
-  "applicantType": "PROJECT",
+  "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://www.tfsc.io/#/m/Index",
   "bio": "TFSC allows parallel block production in decentralized networks.",
   "contributionDescription": "I made a meaningful contribution to optimism by initiating a comprehensive discussion on Medium, delving into its significance within the crypto space and its future implications. Exploring its purpose and potential, I aimed to foster a deeper understanding among readers, thereby promoting a positive outlook on the evolving landscape of cryptocurrencies.",
@@ -36,9 +36,12 @@
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
   "Project": "TFSC chain",
-  "Applicant Type": "PROJECT",
+  "Applicant Type": "INDIVIDUAL",
   "OSS Directory": "",
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xFA233cC0dccf4892E688Ff4118866244196565E8.json",
   "Githubs": "",
-  "Tags": "END_USER_EXPERIENCE_AND_ADOPTION"
+  "Tags": "END_USER_EXPERIENCE_AND_ADOPTION",
+  "pwIsNoise": false,
+  "recategorizeReason": "NO. Although the applicantType is listed as \"PROJECT\", the contributionDescription uses first-person pronouns \"I\" and \"me\" which suggests this application is from an individual.",
+  "pwApplicantTypeChecked": true
 }

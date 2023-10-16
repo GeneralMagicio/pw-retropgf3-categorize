@@ -44,5 +44,7 @@
   "OSS Directory": "Github Found",
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x63A556c75443b176b5A4078e929e38bEb37a1ff2.json",
   "Githubs": "https://github.com/impersonator-eth/impersonator, https://github.com/impersonator-eth/impersonator-extension",
-  "Tags": ""
+  "Tags": "",
+  "pwIsNoise": false,
+  "pwApplicantTypeChecked": true
 }

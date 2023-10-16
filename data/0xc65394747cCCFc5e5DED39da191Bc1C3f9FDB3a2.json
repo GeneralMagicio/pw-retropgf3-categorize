@@ -1,5 +1,5 @@
 {
-  "applicantType": "INDIVIDUAL",
+  "applicantType": "PROJECT",
   "websiteUrl": "https://nonton.lk21official.wiki/",
   "bio": "not decription yet",
   "contributionDescription": "This event celebrates the debut and aims to facilitate seamless interactions among on-chain assets.\n\nAs a token of our appreciation for our community, we have curated a series of exhilarating activities. can win one million tokens through an exclusive airdrop! Don’t miss out on this golden opportunity — come and participate in this thrilling event!",
@@ -32,9 +32,12 @@
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
   "Project": "sexynime",
-  "Applicant Type": "INDIVIDUAL",
+  "Applicant Type": "PROJECT",
   "OSS Directory": "",
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xc65394747cCCFc5e5DED39da191Bc1C3f9FDB3a2.json",
   "Githubs": "",
-  "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK"
+  "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK",
+  "pwIsNoise": false,
+  "recategorizeReason": "NO, the application is for a project called \"Tusima zkBridge\", therefore it should be categorized under \"PROJECT\" not \"INDIVIDUAL\".",
+  "pwApplicantTypeChecked": true
 }

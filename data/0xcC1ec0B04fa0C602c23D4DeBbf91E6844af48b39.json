@@ -40,5 +40,7 @@
   "OSS Directory": "Not Found",
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xcC1ec0B04fa0C602c23D4DeBbf91E6844af48b39.json",
   "Githubs": "https://github.com/novepras/hutao1",
-  "Tags": ""
+  "Tags": "",
+  "pwIsNoise": false,
+  "pwApplicantTypeChecked": true
 }

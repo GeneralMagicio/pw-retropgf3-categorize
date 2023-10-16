@@ -54,5 +54,8 @@
   "OSS Directory": "Github Found",
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x97A8Eb04be6A16d3aC8A55b12Abc98668A4a0bCD.json",
   "Githubs": "HTTPS://Khalid67",
-  "Tags": ""
+  "Tags": "",
+  "pwIsNoise": true,
+  "pwNoiseReason": "The application is noise because the description and bio are generic and vague, and the contribution links and github repo provided are not valid URLs.",
+  "pwApplicantTypeChecked": true
 }

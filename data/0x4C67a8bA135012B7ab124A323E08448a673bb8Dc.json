@@ -55,5 +55,7 @@
   "OSS Directory": "Not Found",
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x4C67a8bA135012B7ab124A323E08448a673bb8Dc.json",
   "Githubs": "https://github.com/AlphadayHQ",
-  "Tags": ""
+  "Tags": "",
+  "pwIsNoise": false,
+  "pwApplicantTypeChecked": true
 }

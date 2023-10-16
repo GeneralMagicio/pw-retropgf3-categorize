@@ -109,5 +109,7 @@
   "OSS Directory": "Github Found",
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xFdFC6E1BbEc01288447222fC8F1AEE55a7C72b7B.json",
   "Githubs": "https://github.com/voteagora/agora, https://github.com/voteagora/optimism-gov, https://github.com/voteagora/liquid-delegator, https://github.com/voteagora/agora/tree/op/rpgf/packages/backend/src/worker/rpgfApi",
-  "Tags": ""
+  "Tags": "",
+  "pwIsNoise": false,
+  "pwApplicantTypeChecked": true
 }

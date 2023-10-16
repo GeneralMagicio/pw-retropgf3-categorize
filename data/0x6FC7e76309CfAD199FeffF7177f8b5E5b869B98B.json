@@ -1,5 +1,5 @@
 {
-  "applicantType": "PROJECT",
+  "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://www.wizkidayo.com",
   "bio": "Young Boy involved in Cryptocurrency and OPtimism Blockchain",
   "contributionDescription": "Got involved in Optimism 1 airdrop, Got involved in GRAIN token which was launched under Optimism. Minted BASE nfts under Optimism. Turned on Optimism notifications on Twitter. Hail Optimism as the best L2 on ethereum. Low gas fees and faster transactions. ",
@@ -37,9 +37,12 @@
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
   "Project": "Hisoka",
-  "Applicant Type": "PROJECT",
+  "Applicant Type": "INDIVIDUAL",
   "OSS Directory": "",
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x6FC7e76309CfAD199FeffF7177f8b5E5b869B98B.json",
   "Githubs": "",
-  "Tags": "COLLECTIVE_GOVERNANCE, END_USER_EXPERIENCE_AND_ADOPTION"
+  "Tags": "COLLECTIVE_GOVERNANCE, END_USER_EXPERIENCE_AND_ADOPTION",
+  "pwIsNoise": false,
+  "recategorizeReason": "NO. The application should be categorized as \"INDIVIDUAL\" as it refers to actions taken by an individual such as \"Got involved in Optimism 1 airdrop\" and \"Introduced OP to few of my friends.\"",
+  "pwApplicantTypeChecked": true
 }

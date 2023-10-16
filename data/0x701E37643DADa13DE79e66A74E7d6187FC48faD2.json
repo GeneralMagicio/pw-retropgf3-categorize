@@ -33,5 +33,7 @@
   "OSS Directory": "",
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x701E37643DADa13DE79e66A74E7d6187FC48faD2.json",
   "Githubs": "",
-  "Tags": "DEVELOPER_ECOSYSTEM"
+  "Tags": "DEVELOPER_ECOSYSTEM",
+  "pwIsNoise": false,
+  "pwApplicantTypeChecked": true
 }

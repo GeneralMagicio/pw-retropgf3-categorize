@@ -1,5 +1,5 @@
 {
-  "applicantType": "INDIVIDUAL",
+  "applicantType": "PROJECT",
   "websiteUrl": "https://www.facebook.com/CoinRuay",
   "bio": "Gluer's Co-Working Space 😎🤪😜",
   "contributionDescription": "Creating content about Optimism in Thai language.\n\n- CoinRuay believes that it is important to have high-quality content about Optimism available in Thai language. They plan to create a variety of content, such as blog posts, articles, and videos, about Optimism in Thai.\n\nCollaborating with other Optimism ambassadors.\n\n- CoinRuay believes that collaboration is essential for the growth of the Optimism community. They plan to continue to collaborate with other Optimism ambassadors around the world to grow the Optimism community in Thailand.",
@@ -29,9 +29,12 @@
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
   "Project": "CoinRuay",
-  "Applicant Type": "INDIVIDUAL",
+  "Applicant Type": "PROJECT",
   "OSS Directory": "",
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x054Becf10c79aFa4e60F75B187837bE9Fb83867D.json",
   "Githubs": "",
-  "Tags": "END_USER_EXPERIENCE_AND_ADOPTION"
+  "Tags": "END_USER_EXPERIENCE_AND_ADOPTION",
+  "pwIsNoise": false,
+  "recategorizeReason": "NO, the application is not correctly categorized. Although the applicant type is labeled as \"INDIVIDUAL\", the application refers to \"CoinRuay\" in third person, suggesting that it is a PROJECT, not an individual.",
+  "pwApplicantTypeChecked": true
 }

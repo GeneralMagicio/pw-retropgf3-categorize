@@ -97,5 +97,7 @@
   "OSS Directory": "Github Found",
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xF78cD306b23031dE9E739A5BcDE61764e82AD5eF.json",
   "Githubs": "https://github.com/wighawag/hardhat-deploy, https://github.com/wighawag/clones-with-immutable-args/",
-  "Tags": ""
+  "Tags": "",
+  "pwIsNoise": false,
+  "pwApplicantTypeChecked": true
 }

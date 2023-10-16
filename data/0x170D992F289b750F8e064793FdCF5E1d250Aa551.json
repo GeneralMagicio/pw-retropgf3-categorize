@@ -1,5 +1,5 @@
 {
-  "applicantType": "INDIVIDUAL",
+  "applicantType": "PROJECT",
   "websiteUrl": "https://opensea.io/collection/untitled-collection-11668436",
   "bio": "NFT",
   "contributionDescription": "Optimism Optimism Optimism Optimism Optimism Optimism Optimism Optimism Optimism Optimism Optimism Optimism Optimism Optimism Optimism Optimism Optimism Optimism Optimism Optimism Optimism Optimism Optimism Optimism Optimism Optimism Optimism Optimism Optimism Optimism Optimism Optimism Optimism Optimism Optimism Optimism Optimism Optimism Optimism Optimism Optimism Optimism Optimism Optimism Optimism Optimism Optimism Optimism Optimism Optimism Optimism Optimism Optimism Optimism Optimism ",
@@ -39,9 +39,13 @@
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
   "Project": "Kosmo",
-  "Applicant Type": "INDIVIDUAL",
+  "Applicant Type": "PROJECT",
   "OSS Directory": "",
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x170D992F289b750F8e064793FdCF5E1d250Aa551.json",
   "Githubs": "",
-  "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK"
+  "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK",
+  "pwIsNoise": true,
+  "pwNoiseReason": "This application is noise because the descriptions of the applicant's contributions and their impact are not specific and simply repeated the word \"Optimism.\"",
+  "recategorizeReason": "NO, it is not correctly categorized as the \"project\" is mentioned named \"Kosmo\" but the applicant type is marked as an \"individual\".",
+  "pwApplicantTypeChecked": true
 }

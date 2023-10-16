@@ -1,5 +1,5 @@
 {
-  "applicantType": "PROJECT",
+  "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://twitter.com/JulioPe27734345",
   "bio": "the more united we are, the stronger we are",
   "contributionDescription": "I am available to help with whatever is needed. I'm in the crypto world 100%\nparticipo em varias comunidades portuguesas, brazileiras e americanas. posso ajudar na parte de marqting, divulgaçao e sempre que encontre algum bug passo para a equipa. tou disposto aprender e a evoluir ",
@@ -39,9 +39,12 @@
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
   "Project": "katut",
-  "Applicant Type": "PROJECT",
+  "Applicant Type": "INDIVIDUAL",
   "OSS Directory": "Not Found",
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x17fE5F37E24bD76272DA9364e4B2b7D186a562f7.json",
   "Githubs": "https://github.com/juliokatut",
-  "Tags": ""
+  "Tags": "",
+  "pwIsNoise": false,
+  "recategorizeReason": "NO, the application is not correctly categorized because the applicant refers to themselves as \"I\", indicating that the applicant is an individual, not a project.",
+  "pwApplicantTypeChecked": true
 }

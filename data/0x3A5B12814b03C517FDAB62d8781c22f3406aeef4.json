@@ -54,5 +54,7 @@
   "OSS Directory": "Not Found",
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x3A5B12814b03C517FDAB62d8781c22f3406aeef4.json",
   "Githubs": "https://github.com/yokifinance/yoki-dca-protocol-foundry/",
-  "Tags": ""
+  "Tags": "",
+  "pwIsNoise": false,
+  "pwApplicantTypeChecked": true
 }

@@ -33,5 +33,7 @@
   "OSS Directory": "Not Found",
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x3BEFcAE114bF14ce0F8E6E205759E9176B66d8D6.json",
   "Githubs": "https://github.com/paradigmxyz/reth/pull/4377",
-  "Tags": ""
+  "Tags": "",
+  "pwIsNoise": false,
+  "pwApplicantTypeChecked": true
 }

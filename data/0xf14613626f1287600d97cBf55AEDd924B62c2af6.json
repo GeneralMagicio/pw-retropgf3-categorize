@@ -134,5 +134,7 @@
   "OSS Directory": "Address & Github Found",
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xf14613626f1287600d97cBf55AEDd924B62c2af6.json",
   "Githubs": "https://github.com/blocknative/web3-onboard, https://github.com/blocknative/web3-onboard/tree/develop/examples, https://github.com/blocknative/react-demo",
-  "Tags": ""
+  "Tags": "",
+  "pwIsNoise": false,
+  "pwApplicantTypeChecked": true
 }

@@ -81,5 +81,7 @@
   "OSS Directory": "Address & Github Found",
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x07bF3CDA34aA78d92949bbDce31520714AB5b228.json",
   "Githubs": "https://github.com/pcaversaccio/snekmate, https://github.com/curvefi/tricrypto-ng/blob/c9f17007eeda43af14abf10cf25b881f6862d78f/contracts/main/CurveCryptoMathOptimized3.vy#L637",
-  "Tags": ""
+  "Tags": "",
+  "pwIsNoise": false,
+  "pwApplicantTypeChecked": true
 }

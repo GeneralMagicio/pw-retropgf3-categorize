@@ -1,5 +1,5 @@
 {
-  "applicantType": "INDIVIDUAL",
+  "applicantType": "PROJECT",
   "websiteUrl": "https://tfexchange.in",
   "bio": "learning Full Stack And Creating demo project",
   "contributionDescription": "creating p2p web for next billion users safe and secure full transparent we believe new user can buy crypto easily.\nThe Best P2P Platform is here with 100% Genuine & Verified \n\nWhy TF EXCHANGE? \n\n👉 Maximum Exchange Price In The market\n👉 Instant Payment\n👉 100% Transparency With Fully Decentralized Payment\n👉 NO KYC | 100% SECURE\n👉 100% Payment Garantee",
@@ -36,9 +36,12 @@
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
   "Project": "Aakash",
-  "Applicant Type": "INDIVIDUAL",
+  "Applicant Type": "PROJECT",
   "OSS Directory": "",
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xfcFFE7AeA3f70f7975cd64ace7717caa211a706f.json",
   "Githubs": "",
-  "Tags": "END_USER_EXPERIENCE_AND_ADOPTION"
+  "Tags": "END_USER_EXPERIENCE_AND_ADOPTION",
+  "pwIsNoise": false,
+  "recategorizeReason": "NO, the application is incorrectly categorized as the application talks about a project (TF EXCHANGE) rather than an individual's efforts.",
+  "pwApplicantTypeChecked": true
 }

@@ -60,5 +60,7 @@
   "OSS Directory": "Github Found",
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x1cD919942a8EF3e867Fe9C0813BC4851090cF037.json",
   "Githubs": "https://github.com/charmverse",
-  "Tags": ""
+  "Tags": "",
+  "pwIsNoise": false,
+  "pwApplicantTypeChecked": true
 }

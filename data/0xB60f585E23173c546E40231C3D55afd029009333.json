@@ -49,5 +49,7 @@
   "OSS Directory": "Not Found",
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xB60f585E23173c546E40231C3D55afd029009333.json",
   "Githubs": "https://github.com/buildooor/optimism-gas-tracker, https://github.com/buildooor/optimism-transaction-replay-tool, https://github.com/buildooor/github-attestation-action, https://github.com/buildooor/github-attestation-bot",
-  "Tags": ""
+  "Tags": "",
+  "pwIsNoise": false,
+  "pwApplicantTypeChecked": true
 }

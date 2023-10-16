@@ -56,5 +56,7 @@
   "OSS Directory": "Address & Github Found",
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x9fe6764778db6AD5c5ED86242485d1a868a8c52A.json",
   "Githubs": "https://github.com/DefiLab-xyz",
-  "Tags": ""
+  "Tags": "",
+  "pwIsNoise": false,
+  "pwApplicantTypeChecked": true
 }

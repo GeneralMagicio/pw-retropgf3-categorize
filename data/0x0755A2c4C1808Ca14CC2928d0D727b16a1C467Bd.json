@@ -1,5 +1,5 @@
 {
-  "applicantType": "PROJECT",
+  "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://twitter.com/vmhmmo2020",
   "bio": "I like crypto, mmo, airdrop ...",
   "contributionDescription": "I'm also participating and learning, looking forward to experiencing and learning more. I made an op order on Binance to my personal wallet through the OP network, but the return to my wallet was USD, I find it a bit strange. op used on the ETH network when withdrawing from the exchange to the wallet, the OP network is the ETH network, why withdrawing the OP network from the binance exchange to the wallet turns into USD, thank you very much.",
@@ -29,9 +29,12 @@
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
   "Project": "vmhmmo2020",
-  "Applicant Type": "PROJECT",
+  "Applicant Type": "INDIVIDUAL",
   "OSS Directory": "",
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x0755A2c4C1808Ca14CC2928d0D727b16a1C467Bd.json",
   "Githubs": "",
-  "Tags": "END_USER_EXPERIENCE_AND_ADOPTION"
+  "Tags": "END_USER_EXPERIENCE_AND_ADOPTION",
+  "pwIsNoise": false,
+  "recategorizeReason": "NO, the application is incorrectly categorized because the applicant refers to themselves as \"I\", which indicates it's an individual.",
+  "pwApplicantTypeChecked": true
 }

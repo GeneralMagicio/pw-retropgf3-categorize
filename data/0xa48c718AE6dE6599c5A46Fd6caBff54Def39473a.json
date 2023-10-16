@@ -50,5 +50,7 @@
   "OSS Directory": "Address & Github Found",
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xa48c718AE6dE6599c5A46Fd6caBff54Def39473a.json",
   "Githubs": "https://github.com/coinpassport",
-  "Tags": ""
+  "Tags": "",
+  "pwIsNoise": false,
+  "pwApplicantTypeChecked": true
 }

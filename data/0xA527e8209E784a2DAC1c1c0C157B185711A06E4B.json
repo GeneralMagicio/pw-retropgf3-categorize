@@ -40,5 +40,8 @@
   "OSS Directory": "",
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xA527e8209E784a2DAC1c1c0C157B185711A06E4B.json",
   "Githubs": "",
-  "Tags": "OP_STACK"
+  "Tags": "OP_STACK",
+  "pwIsNoise": true,
+  "pwNoiseReason": "This application is noise because the URL links provided are invalid and the information provided is non-specific and non-technical, lacking clarity about the project or the achievements of the individual.",
+  "pwApplicantTypeChecked": true
 }

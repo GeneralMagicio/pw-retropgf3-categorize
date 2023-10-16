@@ -46,5 +46,7 @@
   "OSS Directory": "Github Found",
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xAC4DDaf8FBfFba0f1e8c7619720335FD4f03EaCD.json",
   "Githubs": "https://github.com/pgrandne/revolte",
-  "Tags": ""
+  "Tags": "",
+  "pwIsNoise": false,
+  "pwApplicantTypeChecked": true
 }

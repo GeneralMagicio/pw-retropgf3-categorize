@@ -1,5 +1,5 @@
 {
-  "applicantType": "PROJECT",
+  "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://twitter.com/AndriiVlas",
   "bio": "My name is Andriy Vlasenko! Kyiv, Ukraine! Crypto, BJJ, work and family!",
   "contributionDescription": "I have been using the Optimism network for a little less than a year and will continue to use it!\nI help the community on Twitter with my activity!!!\nI promote Optimism to my friends and employees at work!\nEveryone who knows me knows that I believe and appreciate the Optimism network!",
@@ -39,9 +39,12 @@
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
   "Project": "Andrii",
-  "Applicant Type": "PROJECT",
+  "Applicant Type": "INDIVIDUAL",
   "OSS Directory": "",
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xEB496550A39D37D00DE91EFeBeCCeCba0FeC43Ec.json",
   "Githubs": "",
-  "Tags": "END_USER_EXPERIENCE_AND_ADOPTION"
+  "Tags": "END_USER_EXPERIENCE_AND_ADOPTION",
+  "pwIsNoise": false,
+  "recategorizeReason": "NO. The application is incorrectly categorized. It is about an individual as inferred from the use of \"I\" and \"me\" in the text.",
+  "pwApplicantTypeChecked": true
 }

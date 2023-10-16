@@ -1,5 +1,5 @@
 {
-  "applicantType": "INDIVIDUAL",
+  "applicantType": "PROJECT",
   "websiteUrl": "https://wallet.dappos.com/",
   "bio": "We provide basic services for web3 developers",
   "contributionDescription": "We provide basic services for web3 developers, such as: rpc, chainlist info, address available amount notice and so on. Especially the infrastructure construction of op chain, providing op chain RPC, account service, balance query, reminder service, and so on. Also includes cryptocurrency prices, trading, and liquidity services",
@@ -38,9 +38,12 @@
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
   "Project": "lvxh",
-  "Applicant Type": "INDIVIDUAL",
+  "Applicant Type": "PROJECT",
   "OSS Directory": "Not Found",
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xd5feabe830A2bAcC848834CAc8D7f5Ff739D2699.json",
   "Githubs": "https://github.com/Solidity-day-day-up",
-  "Tags": ""
+  "Tags": "",
+  "pwIsNoise": false,
+  "recategorizeReason": "NO. The application is a project, not an individual, as suggested by the language and the services provided.",
+  "pwApplicantTypeChecked": true
 }

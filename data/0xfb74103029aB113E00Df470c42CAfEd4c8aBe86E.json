@@ -43,5 +43,7 @@
   "OSS Directory": "Github Found",
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xfb74103029aB113E00Df470c42CAfEd4c8aBe86E.json",
   "Githubs": "https://github.com/miguelmota/go-ethereum-hdwallet, https://github.com/ethereum-optimism/go-ethereum-hdwallet",
-  "Tags": ""
+  "Tags": "",
+  "pwIsNoise": false,
+  "pwApplicantTypeChecked": true
 }

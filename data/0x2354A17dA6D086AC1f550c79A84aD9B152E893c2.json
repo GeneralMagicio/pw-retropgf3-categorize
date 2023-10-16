@@ -43,5 +43,8 @@
   "OSS Directory": "",
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x2354A17dA6D086AC1f550c79A84aD9B152E893c2.json",
   "Githubs": "",
-  "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK"
+  "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK",
+  "pwIsNoise": true,
+  "pwNoiseReason": "The application is noise because it contains nonsensical text like \"platformmnnmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmdn\" and \"greatsjsjsjjsjsjjejejjejjejejjejejjejjjjjjsjsjjsjjejejgood\", indicating it may be spam or not a serious submission.",
+  "pwApplicantTypeChecked": true
 }

@@ -60,5 +60,7 @@
   "OSS Directory": "Address & Github Found",
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xf9551c66995eD3Ff9bb05C9Fd7ff148Bd75dc99a.json",
   "Githubs": "https://github.com/snapshot-labs, https://github.com/snapshot-labs/sx-evm",
-  "Tags": ""
+  "Tags": "",
+  "pwIsNoise": false,
+  "pwApplicantTypeChecked": true
 }
