@@ -2,7 +2,18 @@
 
 Process RetroPGF3 applications to produce a list of categories with applications to be used by Pairwise.
 
-Process overview:
+## Pre-requisites
+
+Copy `.env.example` to `.env` and fill in your OpenAI api key.
+
+## Usage
+
+```
+npm i
+npm start
+```
+
+## Process overview
 
 - Fetch metadata files related to applications
 - Identify false/noise/spam applications
@@ -92,10 +103,3 @@ Example output:
 ### `pwCategory`: category
 
 The category the application has been assigned to.
-
-## Usage
-
-```
-npm i
-npm start
-```
