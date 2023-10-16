@@ -7,7 +7,7 @@ import pc from "picocolors";
 
 export async function printCategoriesWithApplications(filter: string) {
   let categoryList = await fs.readFile(projectCategoryListFilePath, "utf8");
-  const categories = categoryList.split("\n");
+  let categories = categoryList.split("\n").map((line) => line.trim());
 
   let loader = new DirectoryLoader(dataDirName, {
     ".json": (path) => new ApplicationFullLoader(path, filter),
@@ -24,7 +24,10 @@ export async function printCategoriesWithApplications(filter: string) {
       const doc = applications[i];
       const application = JSON.parse(doc.pageContent);
 
-      if (application.pwCategory === category && !application.pwIsNoise) {
+      if (
+        application.pwCategory === category &&
+        application.pwIsNoise === false
+      ) {
         console.log(`◆  - ${application.Project}`);
         counter++;
       }
@@ -44,19 +47,25 @@ export async function printCategoriesWithApplications(filter: string) {
     }
   }
 
-  // Applications without categories
-  console.log(`${pc.gray("│\n")}◆  Applications without categories:`);
+  // Applications with no category match
+  console.log(`${pc.gray("│\n")}◆  Applications with no category match:`);
 
   for (let i = 0; i < applications.length; i++) {
     const doc = applications[i];
     const application = JSON.parse(doc.pageContent);
 
-    if (!application.pwCategory && !application.pwIsNoise) {
-      console.log(`◆  - ${application.Project}`);
+    if (application.pwIsNoise) {
+      continue;
+    }
+
+    if (categories.indexOf(application.pwCategory) === -1) {
+      console.log(`◆  - ${application.Project} (${application.pwCategory})`);
+      counter++;
     }
   }
 
   // Check if all projects are accounted for
+
   if (counter !== applications.length) {
     console.log(
       `${pc.red(
@@ -66,4 +75,21 @@ export async function printCategoriesWithApplications(filter: string) {
       }`
     );
   }
+
+  // Applications without categories
+  console.log(`${pc.gray("│\n")}◆  Applications without categories:`);
+
+  let emptyCategories = 0;
+  for (let i = 0; i < applications.length; i++) {
+    const doc = applications[i];
+    const application = JSON.parse(doc.pageContent);
+
+    if (!application.pwCategory && !application.pwIsNoise) {
+      emptyCategories++;
+      console.log(`◆  - ${application.Project}`);
+    }
+  }
+  console.log(
+    `◆  Number of applications without categories: ${emptyCategories}`
+  );
 }
