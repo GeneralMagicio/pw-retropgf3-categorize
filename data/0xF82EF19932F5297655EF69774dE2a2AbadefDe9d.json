@@ -15,9 +15,7 @@
       "description": "And my YouTube channel!"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "I love optimism since day one, i tell my community to stake and hold OP as much as they can, i know that on bullran OP will rise and shine and it's our destiny.\nGive me a chance to contribute in the future of layer2 blockchains, hope u can hear how god whispers!",
   "impactMetrics": [
     {
@@ -39,9 +37,10 @@
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xF82EF19932F5297655EF69774dE2a2AbadefDe9d.json",
   "Githubs": "",
   "Tags": "END_USER_EXPERIENCE_AND_ADOPTION",
-  "pwIsNoise": false,
   "recategorizeReason": "NO. This application is incorrectly categorized as a PROJECT while in the description it's indicated that it's from an INDIVIDUAL stating \"I'm CEO of NFTunchained Club\", \"Give me a chance to contribute in the future of layer2 blockchains\".",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Layer 2 Scaling",
-  "pwCategory": "Community Building"
+  "pwCategory": "Community Building",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "This application should be flagged for violating rule 1, as it contains promises of future impact such as \"Give me a chance to contribute in the future of layer2 blockchains\"."
 }

@@ -10,10 +10,7 @@
       "description": "x.com influencer"
     }
   ],
-  "impactCategory": [
-    "COLLECTIVE_GOVERNANCE",
-    "OP_STACK"
-  ],
+  "impactCategory": ["COLLECTIVE_GOVERNANCE", "OP_STACK"],
   "impactDescription": "But this is not just about financial gain. It's about being part of a global community that is driving the transformation of the world's economic landscape. By embracing cryptocurrencies, we become champions of financial inclusion, privacy, and empowerment.",
   "impactMetrics": [
     {
@@ -42,8 +39,8 @@
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xd47315929C1A1757782453B776ada2cbEfacEFfB.json",
   "Githubs": "",
   "Tags": "COLLECTIVE_GOVERNANCE, OP_STACK",
-  "pwIsNoise": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Governance Tokens",
-  "pwCategory": "Influencer Marketing"
+  "pwCategory": "Influencer Marketing",
+  "pwIsFlagged": false
 }

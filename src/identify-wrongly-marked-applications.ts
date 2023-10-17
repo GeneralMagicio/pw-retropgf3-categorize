@@ -51,7 +51,7 @@ export async function identifyWronglyMarkedApplications(analyzeAll: YesOrNo) {
       const application = JSON.parse(doc.pageContent);
 
       const shouldProcess =
-        analyzeAll === "yes" || !application.pwApplicantTypeChecked;
+        analyzeAll === "yes" || !("pwApplicantTypeChecked" in application);
 
       if (!shouldProcess) {
         continue;

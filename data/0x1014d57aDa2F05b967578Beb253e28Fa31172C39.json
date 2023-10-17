@@ -43,9 +43,9 @@
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x1014d57aDa2F05b967578Beb253e28Fa31172C39.json",
   "Githubs": "",
   "Tags": "COLLECTIVE_GOVERNANCE, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK",
-  "pwIsNoise": false,
   "recategorizeReason": "NO, it is not correctly categorized. The application should be categorized as \"INDIVIDUAL\" as they use terms such as \"I\" and \"me\".",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "NFTs, Collective Governance, End User Experience and Adoption, OP Stack",
-  "pwCategory": "Community Building"
+  "pwCategory": "Community Building",
+  "pwIsFlagged": false
 }

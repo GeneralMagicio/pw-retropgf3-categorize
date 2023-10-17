@@ -10,9 +10,7 @@
       "description": "My github"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "I am active user and governor. Almost everey day I have using bridges and swaps on Optimism\nI am active user and governor. Almost everey day I have using bridges and swaps on Optimism\nI am active user and governor. Almost everey day I have using bridges and swaps on Optimism",
   "impactMetrics": [
     {
@@ -41,8 +39,9 @@
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x7533E4f6110E12b685801352049Fb3E5222D1cc8.json",
   "Githubs": "https://github.com/mariusz-pk/mariusz-pk",
   "Tags": "",
-  "pwIsNoise": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Decentralized Exchanges (DEXs), Layer 2 Scaling",
-  "pwCategory": "Layer 2 Scaling"
+  "pwCategory": "Layer 2 Scaling",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "This application should be flagged for being outside of RetroPGF's scope as the applicant's contribution is carrying out regular user activities, which are not considered impactful contributions according to the rules."
 }

@@ -37,8 +37,9 @@
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x0Bc0A524ECd730be22A5d8f697efeC818FDE0E65.json",
   "Githubs": "",
   "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK",
-  "pwIsNoise": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Developer Ecosystem, End User Experience and Adoption, OP Stack",
-  "pwCategory": "Developer Ecosystem"
+  "pwCategory": "Developer Ecosystem",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "The application should be flagged because it violates the rule of \"Promises of future impact\", as the applicant uses phrases like \"contributions to Optimism would include\" which means they have not yet been implemented or delivered."
 }

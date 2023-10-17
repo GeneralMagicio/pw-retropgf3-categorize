@@ -50,9 +50,9 @@
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xE240CaE95866BEE29a0d94B2030096B6Fe0446E0.json",
   "Githubs": "",
   "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK",
-  "pwIsNoise": false,
   "recategorizeReason": "NO, the application is incorrectly categorized. Despite the individual referring to himself/herself as an artist and a collector, the mentioned contribution areas indicate towards a project-type contribution rather than an individual one, furthermore the application is related to an NFT project named \"888Vigilantes\".",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Digital Identity, NFTs, Governance Tokens, Developer Ecosystem, End User Experience and Adoption",
-  "pwCategory": "NFT Management"
+  "pwCategory": "NFT Management",
+  "pwIsFlagged": false
 }

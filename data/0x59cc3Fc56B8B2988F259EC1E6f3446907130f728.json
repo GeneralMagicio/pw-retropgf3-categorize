@@ -40,10 +40,7 @@
       "description": "Protocol Berg - Retroactive Public Goods Funding: 2 Rounds in (Jonas Seiferth)"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM",
-    "OP_STACK"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM", "OP_STACK"],
   "impactDescription": "The Goerli testnet is still the most frequented public Ethereum testnet by all metrics, seeing more than 240 million transactions and 28 million active accounts to date. The optimistic Goerli testnet has seen 30 million transactions with more than 4 million active accounts.",
   "impactMetrics": [
     {
@@ -77,8 +74,8 @@
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x59cc3Fc56B8B2988F259EC1E6f3446907130f728.json",
   "Githubs": "https://github.com/eth-clients/goerli, https://github.com/eth-clients/holesky",
   "Tags": "",
-  "pwIsNoise": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Community Building, Testnet Infrastructure",
-  "pwCategory": "Community Building"
+  "pwCategory": "Community Building",
+  "pwIsFlagged": false
 }

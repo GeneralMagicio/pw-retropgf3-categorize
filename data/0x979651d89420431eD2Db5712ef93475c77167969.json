@@ -68,8 +68,9 @@
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x979651d89420431eD2Db5712ef93475c77167969.json",
   "Githubs": "https://github.com/mstfo",
   "Tags": "",
-  "pwIsNoise": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Mentorship, Education",
-  "pwCategory": "Education"
+  "pwCategory": "Education",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "The application should be flagged for promising future impact - the applicant states \"I can introduce optimism to new users and mentor them...\" which indicates a future activity or contribution rather than a past or ongoing impact."
 }

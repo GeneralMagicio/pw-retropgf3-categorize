@@ -10,9 +10,7 @@
       "description": "0x15fa08599eb017f89c1712d0fe76138899fdb9db"
     }
   ],
-  "impactCategory": [
-    "COLLECTIVE_GOVERNANCE"
-  ],
+  "impactCategory": ["COLLECTIVE_GOVERNANCE"],
   "impactDescription": "The ecosystem is small but they have some great projects on there.\nI am  confident their tech stack and the attention Base will bring is going to bring a lot of projects over. I am optimistic we'll see a few. Cheers Optimistic people and to the developers!",
   "impactMetrics": [
     {
@@ -41,8 +39,9 @@
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xfd555256bE7f02Ce04509fa5dEC7C66164C33C66.json",
   "Githubs": "",
   "Tags": "COLLECTIVE_GOVERNANCE",
-  "pwIsNoise": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Layer 2 Scaling, Governance Tokens",
-  "pwCategory": "Delegated Staking"
+  "pwCategory": "Delegated Staking",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "Flagged for violation of rule 1. The applicant's statement about intending to support by buying a lot of Optimism in the future amounts to a promise of future impact, which is not allowed."
 }

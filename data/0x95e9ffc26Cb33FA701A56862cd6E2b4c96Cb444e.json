@@ -44,8 +44,9 @@
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x95e9ffc26Cb33FA701A56862cd6E2b4c96Cb444e.json",
   "Githubs": "",
   "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK",
-  "pwIsNoise": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Layer 2 Scaling, Governance Tokens, Developer Ecosystem, End User Experience and Adoption, Blockchain Infrastructure",
-  "pwCategory": "Layer 2 Scaling"
+  "pwCategory": "Layer 2 Scaling",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "Flag the application. It appears to be plagiarism, copying content from Optimism's blogs or research papers, without providing any proof of personal contribution."
 }

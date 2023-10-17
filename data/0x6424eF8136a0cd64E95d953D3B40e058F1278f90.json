@@ -10,9 +10,7 @@
       "description": "The link to this project"
     }
   ],
-  "impactCategory": [
-    "OP_STACK"
-  ],
+  "impactCategory": ["OP_STACK"],
   "impactDescription": "Not yet made any contribution, but i'm about to do it. As I said earlier, i will share this project RetroPGF to the group that i joined at Telegram. I am sure that many of my friends there will join and participate. I am also hoping that i can get reward from this project.",
   "impactMetrics": [
     {
@@ -34,8 +32,9 @@
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x6424eF8136a0cd64E95d953D3B40e058F1278f90.json",
   "Githubs": "",
   "Tags": "OP_STACK",
-  "pwIsNoise": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Blockchain Gaming, Community Building",
-  "pwCategory": "Community Building"
+  "pwCategory": "Community Building",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "This application should be flagged for promising future impact. The applicant has stated that they will share the program in groups and that they haven't made any contributions yet but are planning to do so."
 }

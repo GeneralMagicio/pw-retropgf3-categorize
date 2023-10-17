@@ -30,10 +30,7 @@
       "description": "Secure Protocol for Native Meta Transactions"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM",
-    "OP_STACK"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM", "OP_STACK"],
   "impactDescription": "1.  hardhat-deploy had a huge impact\n\n- used by optimism repo: https://s.ska.sh/optimism-deploy\n- deployed many contract on ethereum and optimism\n- used as the ultimate reference to emulate on other framework (foundry,...)\n\n2.  clones-with-immutable-args discovered new ways to create configurable clones\n\n- used by Optimism (a fork of my original repo: https://s.ska.sh/optimism-clone)\n- lised as one of the main proxy types, see Banteg article: https://banteg.xyz/posts/minimal-proxies/\n\n3. My article on how gas work is used as a reference for gas in openzeppelin: https://s.ska.sh/zeppelin-ronan\n\n4. ERC-1155 (co-author) stands as one of the 3 main token standard\n\n5. ERC-2771 (co-author)  is used across the industry for meta-tx, including Biconomy and Gelato that run on Optimism.",
   "impactMetrics": [
     {
@@ -98,8 +95,8 @@
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xF78cD306b23031dE9E739A5BcDE61764e82AD5eF.json",
   "Githubs": "https://github.com/wighawag/hardhat-deploy, https://github.com/wighawag/clones-with-immutable-args/",
   "Tags": "",
-  "pwIsNoise": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Blockchain Infrastructure, Smart Contract Platforms, Tokenization Platforms, Digital Identity, Governance Tokens",
-  "pwCategory": "Developer Ecosystem"
+  "pwCategory": "Developer Ecosystem",
+  "pwIsFlagged": false
 }

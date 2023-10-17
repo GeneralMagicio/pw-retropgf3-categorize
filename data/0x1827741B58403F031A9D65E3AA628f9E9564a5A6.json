@@ -73,8 +73,9 @@
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x1827741B58403F031A9D65E3AA628f9E9564a5A6.json",
   "Githubs": "",
   "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION",
-  "pwIsNoise": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Influencer Marketing, Community Building, Collective Governance, Developer Ecosystem, End User Experience and Adoption.",
-  "pwCategory": "Influencer Marketing"
+  "pwCategory": "Influencer Marketing",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "The application should be flagged for a violation of Grant program rules, specifically, rule number 1: promises of future impact. The applicant promises to bring \"a lot of people to the Optimism network\" and estimates 2000 to 50000 new wallets in 48 hours when dApps are launched."
 }

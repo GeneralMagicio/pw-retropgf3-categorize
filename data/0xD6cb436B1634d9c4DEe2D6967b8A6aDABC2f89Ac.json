@@ -36,8 +36,8 @@
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xD6cb436B1634d9c4DEe2D6967b8A6aDABC2f89Ac.json",
   "Githubs": "",
   "Tags": "DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK",
-  "pwIsNoise": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Governance, Developer Ecosystem, End User Experience and Adoption, OP Stack",
-  "pwCategory": "Project Advising"
+  "pwCategory": "Project Advising",
+  "pwIsFlagged": false
 }

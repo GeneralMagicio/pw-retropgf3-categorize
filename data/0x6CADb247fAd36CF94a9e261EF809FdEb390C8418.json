@@ -35,8 +35,9 @@
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x6CADb247fAd36CF94a9e261EF809FdEb390C8418.json",
   "Githubs": "",
   "Tags": "COLLECTIVE_GOVERNANCE, END_USER_EXPERIENCE_AND_ADOPTION",
-  "pwIsNoise": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Community Building, Layer 2 Scaling, Governance Tokens, Web3 Research",
-  "pwCategory": "Community Building"
+  "pwCategory": "Community Building",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "No"
 }

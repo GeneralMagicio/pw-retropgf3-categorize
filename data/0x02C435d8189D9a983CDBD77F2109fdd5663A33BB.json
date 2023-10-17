@@ -35,8 +35,8 @@
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x02C435d8189D9a983CDBD77F2109fdd5663A33BB.json",
   "Githubs": "",
   "Tags": "COLLECTIVE_GOVERNANCE, END_USER_EXPERIENCE_AND_ADOPTION",
-  "pwIsNoise": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Collective Governance, End User Experience and Adoption",
-  "pwCategory": "Community Building"
+  "pwCategory": "Community Building",
+  "pwIsFlagged": false
 }

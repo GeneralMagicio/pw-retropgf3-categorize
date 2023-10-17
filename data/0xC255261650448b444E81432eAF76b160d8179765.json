@@ -36,8 +36,9 @@
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xC255261650448b444E81432eAF76b160d8179765.json",
   "Githubs": "https://github.com/Synnott5",
   "Tags": "",
-  "pwIsNoise": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Decentralized Finance (DeFi)",
-  "pwCategory": "Community Building"
+  "pwCategory": "Community Building",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "This application should be flagged for violating the rules on promises of future impact, lack of clarity on valid contribution, and potentially being outside of the RetroPGF's scope. The applicant only vaguely suggests they will stay active and up-to-date, without mentioning any specific past impacts or contributions. The impact metrics also do not seem relevant or measurable."
 }

@@ -40,9 +40,7 @@
       "description": "articles"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "I actively joined OP governance and I deposited funds to yield on OP network. So I know the advantages of OP network and I'd like to share them with my readers. I also encouraged my 27k followers and let them to participate in OP governance and collective as well as oddessy.\nhttps://vote.optimism.io/delegate/960908.eth",
   "impactMetrics": [
     {
@@ -81,8 +79,9 @@
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x7626fbA64DEB1683a364c32F30370215f05C1F09.json",
   "Githubs": "",
   "Tags": "END_USER_EXPERIENCE_AND_ADOPTION",
-  "pwIsNoise": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Layer 2 Scaling, Governance Tokens, Chinese Influencer, Community Building",
-  "pwCategory": "Influencer Marketing"
+  "pwCategory": "Influencer Marketing",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "The application should be flagged because it violates Rule 1: \"Promises of future impact - promises of future deliverables or impact are not allowed.\" The applicant promises to post OP development in the future."
 }

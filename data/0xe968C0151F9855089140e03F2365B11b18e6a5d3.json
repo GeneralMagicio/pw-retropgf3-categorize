@@ -44,8 +44,9 @@
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xe968C0151F9855089140e03F2365B11b18e6a5d3.json",
   "Githubs": "",
   "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK",
-  "pwIsNoise": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Governance Tokens, Developer Ecosystem, End User Experience and Adoption, Layer 2 Scaling",
-  "pwCategory": "User Adoption"
+  "pwCategory": "User Adoption",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "This application should be flagged for promising future impact, which is in violation of rule one. The applicant speaks about hopes and expectations for the future, such as hoping that Optimism will be used in the banking system and claiming that Optimism will have a faster and cheaper gas fee by 2024."
 }

@@ -20,9 +20,7 @@
       "description": "Despite setbacks, and depths of bear market, keep looking to find value on OP."
     }
   ],
-  "impactCategory": [
-    "COLLECTIVE_GOVERNANCE"
-  ],
+  "impactCategory": ["COLLECTIVE_GOVERNANCE"],
   "impactDescription": "My dedication to Optimism extends beyond mere involvement; I'm an advocate for active governance participation. In the recent OP airdrop of September 2023, I not only received OP, but I also used this opportunity to underscore the significance of governance engagement.\n\nFirmly believing that true impact arises from active involvement, I continuously encourage the members within Discord to take part in governance. By sharing direct links to votes and urging everyone to appoint delegates, I've strived to create an atmosphere of genuine participation.\n\nThis isn't merely about holding tokens, but rather, about wielding influence and shaping Optimism's trajectory collectively. I'm committed to driving Optimism's adoption and RetroPGF support will play a pivotal role in achieving this goal. ",
   "impactMetrics": [
     {
@@ -51,8 +49,8 @@
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xC3193E39F77c2Ed59045CfFfCDCACdDa72f29987.json",
   "Githubs": "",
   "Tags": "COLLECTIVE_GOVERNANCE",
-  "pwIsNoise": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Decentralized Governance",
-  "pwCategory": "Community Building"
+  "pwCategory": "Community Building",
+  "pwIsFlagged": false
 }

@@ -10,9 +10,7 @@
       "description": "Our main dapp! Check out the Wallet Watch feature for yourself on Optimism!"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Webacy began in order to build better safety and UI tools for users to navigate the blockchain. We found great success on Ethereum mainnet, and were excited to bring our services to the amazing communities and projects on Optimism. After a lot of hard work, its' finally live, and we're so pumped to bring these safety tools to the ecosystem! Now any user on Optimism can monitor interactions, transactions, and assets on-chain, for as many wallets as they'd like! This not only brings more transparency to the space, but it also helps with the entire user experience, trust, and interaction across the communities.",
   "impactMetrics": [
     {
@@ -51,8 +49,8 @@
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xEc10Ac0784B5DE2Fad69332e5a90B46eebba70aF.json",
   "Githubs": "",
   "Tags": "END_USER_EXPERIENCE_AND_ADOPTION",
-  "pwIsNoise": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Wallet Watch, Monitoring, Security, Blockchain Safety, Optimism",
-  "pwCategory": "End User Experience"
+  "pwCategory": "End User Experience",
+  "pwIsFlagged": false
 }

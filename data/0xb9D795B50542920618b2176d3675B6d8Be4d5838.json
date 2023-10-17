@@ -10,9 +10,7 @@
       "description": "a"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM"],
   "impactDescription": "I unknowingly submitted my project with my team as if it was my own project. I'm sorry for taking up your time. There was no other way to withdraw my application, so I am resubmitting it this way. I'm sorry again.I'm sorry again.I'm sorry again.I'm sorry again.",
   "impactMetrics": [
     {
@@ -34,8 +32,9 @@
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xb9D795B50542920618b2176d3675B6d8Be4d5838.json",
   "Githubs": "https://github.com/",
   "Tags": "",
-  "pwIsNoise": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Smart Contract Platforms, Blockchain Infrastructure",
-  "pwCategory": "The project description provided does not contain enough information to categorize this project."
+  "pwCategory": "The project description provided does not contain enough information to categorize this project.",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "The application should be flagged because it is a duplicate submission intended to correct a previous application error, which can be considered as spam."
 }

@@ -37,8 +37,8 @@
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x6deBF7Bc0EEdd7c51A9334d7f1E01c84678e3Ae7.json",
   "Githubs": "",
   "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK",
-  "pwIsNoise": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK",
-  "pwCategory": "End User Experience"
+  "pwCategory": "End User Experience",
+  "pwIsFlagged": false
 }

@@ -15,9 +15,7 @@
       "description": " Moderator and helper on a French community discord of 2000 people"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Thanks to the help provided on Discord, many people were able to avoid interacting with malicious contracts. In addition, I was also able to help people achieve their goal, which they sometimes had difficulty achieving (whether it was deploying a contract, stacking tokens, swap or wrap, bridge...)",
   "impactMetrics": [
     {
@@ -39,8 +37,8 @@
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x45C3707c25eCe1e4705a5d708685f0a77Dc18cD1.json",
   "Githubs": "",
   "Tags": "END_USER_EXPERIENCE_AND_ADOPTION",
-  "pwIsNoise": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "End User Experience and Adoption",
-  "pwCategory": "Community Building"
+  "pwCategory": "Community Building",
+  "pwIsFlagged": false
 }

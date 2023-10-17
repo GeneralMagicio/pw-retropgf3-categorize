@@ -35,9 +35,9 @@
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x7A6896532E19d6417587da889B1b9F994c754d97.json",
   "Githubs": "",
   "Tags": "COLLECTIVE_GOVERNANCE, END_USER_EXPERIENCE_AND_ADOPTION",
-  "pwIsNoise": false,
   "recategorizeReason": "NO, the application is not correctly categorized. The application contains several first person pronouns (\"I\", \"me\") indicating an individual.",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "NFTs, Music NFTs, Governance Tokens, End User Experience and Adoption",
-  "pwCategory": "Project Advising"
+  "pwCategory": "Project Advising",
+  "pwIsFlagged": false
 }

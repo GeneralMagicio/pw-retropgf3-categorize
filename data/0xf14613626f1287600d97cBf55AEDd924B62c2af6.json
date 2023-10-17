@@ -55,10 +55,7 @@
       "description": "Sonne, Synthetix, Curve, Beefy support"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM",
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Web3 Onboard, one of the oldest and best maintained open source libraries, has wide adoption with 500,000+ user wallets connected, 130+ contributors, and 300+ community PRs. Web3 Onboard is used by Curve, Zapper, Compound, Iron Vank, Valk, Synthetix, Beefy, and many others. With native Optimism support added in 2022, users of 80+ wallets can transition effortlessly to and from Optimism when transacting on the most popular dapps in the ecosystem. \n\nWeb3 Onboard ensures users have an intuitive, multi-wallet, multi-chain option for connecting to their any dapps from any wallet. We want all end users to feel comfortable playing games, interacting with defi, and connecting wallets. Optimism is natively integrated so any of the 500,000+ connected user wallets can switch to Optimism with a click.",
   "impactMetrics": [
     {
@@ -135,8 +132,8 @@
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xf14613626f1287600d97cBf55AEDd924B62c2af6.json",
   "Githubs": "https://github.com/blocknative/web3-onboard, https://github.com/blocknative/web3-onboard/tree/develop/examples, https://github.com/blocknative/react-demo",
   "Tags": "",
-  "pwIsNoise": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Web3 Onboard, JavaScript Library, Wallet Integration",
-  "pwCategory": "Developer Ecosystem"
+  "pwCategory": "Developer Ecosystem",
+  "pwIsFlagged": false
 }

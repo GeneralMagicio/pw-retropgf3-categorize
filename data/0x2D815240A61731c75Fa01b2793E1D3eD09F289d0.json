@@ -88,8 +88,8 @@
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x2D815240A61731c75Fa01b2793E1D3eD09F289d0.json",
   "Githubs": "",
   "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK",
-  "pwIsNoise": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Developer Ecosystem, End User Experience and Adoption, Collective Governance, Operational Stack (OP Stack)",
-  "pwCategory": "Developer Ecosystem"
+  "pwCategory": "Developer Ecosystem",
+  "pwIsFlagged": false
 }

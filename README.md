@@ -24,18 +24,23 @@ npm start
 
 After running through the steps above, the following fields have been added to the application metadata files:
 
-### `pwIsNoise`
+### `pwIsFlagged`
 
 `true/false`
 
-The application is determined to be noise based on the text in the application. Examples of noise applications are:
+The application is flagged if it breaks the rules of the grants program:
 
-- Project description is super vague
-- Project description is super short
-- Project description contains dummy text
-- Project URLs are not valid
+- No promises of future impact or deliverables.
+- No false claims about contributions, past impact, funding, or grants.
+- No hateful content or discrimination.
+- No malicious content harming or deceiving badgeholders.
+- No fraud, impersonation, or false affiliations. The grant owner must be directly linked to the project.
+- No advertising, including token sales or NFT drops.
+- No bribery or vote buying.
+- Must relate to Optimism and meet contribution criteria (at least 1 hour of impactful activity). Note: User interactions on OP Mainnet or other OP chains in the - Superchain aren't eligible for RetroPGF 3.
+- No spam, irrelevant answers, plagiarized content, or non-English applications.
 
-### `pwNoiseReason`
+### `pwFlaggedReason`
 
 The reason why the application is marked as noise.
 

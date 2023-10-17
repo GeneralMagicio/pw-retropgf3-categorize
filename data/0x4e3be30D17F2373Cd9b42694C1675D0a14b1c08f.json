@@ -44,8 +44,9 @@
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x4e3be30D17F2373Cd9b42694C1675D0a14b1c08f.json",
   "Githubs": "",
   "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK",
-  "pwIsNoise": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "NFTs, Layer 2 Scaling, Blockchain Gaming, Digital Identity, Governance Tokens",
-  "pwCategory": "Non-Fungible Tokens"
+  "pwCategory": "Non-Fungible Tokens",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "Flagged: The application violates Rule 1 - \"Promises of future impact are not allowed\". The applicant has mentioned the future developments in the gaming world."
 }

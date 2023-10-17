@@ -54,8 +54,8 @@
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xa02d34e0f2235661F4b46b8A7BEDB42c4cce104b.json",
   "Githubs": "",
   "Tags": "COLLECTIVE_GOVERNANCE, END_USER_EXPERIENCE_AND_ADOPTION",
-  "pwIsNoise": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Governance Tokens, Early Adoption, Decentralized Governance, Community Building, User Adoption",
-  "pwCategory": "Community Building"
+  "pwCategory": "Community Building",
+  "pwIsFlagged": false
 }

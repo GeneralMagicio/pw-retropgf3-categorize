@@ -10,9 +10,7 @@
       "description": "700"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "The closer the peak of the pandemic associated with the spread of coronavirus infection is, the more clearly another peak is felt - the peak of inventing and spreading speculation and rumors regarding the operation of ventilation and air conditioning systems and the harm from them.\n\nIn the current situation, it is necessary to dot all the i’s and honestly answer the most popular questions about the operation of ventilation and air conditioning systems during epidemics and pandemics. Moreover, it is not that difficult. The main thing is to be guided by basic knowledge from the field of hard currency and ordinary human logic.",
   "impactMetrics": [
     {
@@ -41,10 +39,10 @@
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xB06428aF321598ea54Cb34E14C9df3D3b09FE625.json",
   "Githubs": "",
   "Tags": "END_USER_EXPERIENCE_AND_ADOPTION",
-  "pwIsNoise": true,
-  "pwNoiseReason": "The application is noise because it discusses ventilation and air conditioning systems, which have no relevance to the Web3/blockchain space.",
   "recategorizeReason": "NO. The application talks about ventilation and air conditioning systems, which is not related to the Web3/blockchain space.",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "END_USER_EXPERIENCE_AND_ADOPTION",
-  "pwCategory": "Education"
+  "pwCategory": "Education",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "This application should be flagged because it does not have a clear relationship to the Web3/blockchain space, violating rule 10. The contributions described are about ventilation and air conditioning systems and do not clearly impact the collective."
 }

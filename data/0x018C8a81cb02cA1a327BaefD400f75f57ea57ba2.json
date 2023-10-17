@@ -51,9 +51,9 @@
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x018C8a81cb02cA1a327BaefD400f75f57ea57ba2.json",
   "Githubs": "",
   "Tags": "END_USER_EXPERIENCE_AND_ADOPTION",
-  "pwIsNoise": false,
   "recategorizeReason": "NO, the application is categorized as \"INDIVIDUAL\", but the inclusion of a project name \"Subli\" at the end could create confusion.",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Optimism Ambassador, Project advisors, Governance Tokens",
-  "pwCategory": "Project Advising"
+  "pwCategory": "Project Advising",
+  "pwIsFlagged": false
 }

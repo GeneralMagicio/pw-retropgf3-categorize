@@ -37,8 +37,9 @@
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x48F88d0e26704363eA72EEF6dCBF198E1F32d4D4.json",
   "Githubs": "",
   "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK",
-  "pwIsNoise": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Web3 Framework",
-  "pwCategory": "Community Building"
+  "pwCategory": "Community Building",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "The application should be flagged because the content is not in English, which violates Rule 11."
 }

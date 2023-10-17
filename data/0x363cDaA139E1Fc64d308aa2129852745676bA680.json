@@ -62,8 +62,8 @@
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x363cDaA139E1Fc64d308aa2129852745676bA680.json",
   "Githubs": "",
   "Tags": "DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION",
-  "pwIsNoise": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "EDUCATIONAL_OPPORTUNITIES, BLOCKCHAIN_WORKSHOPS, OPTIMISM_ADOPTION, ONBOARDING_BUILDERS, UNIVERSITY_COLLABORATION",
-  "pwCategory": "Education"
+  "pwCategory": "Blockchain Education",
+  "pwIsFlagged": false
 }

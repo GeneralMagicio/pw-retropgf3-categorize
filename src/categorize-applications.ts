@@ -45,7 +45,7 @@ export async function categorizeApplications(analyzeAll: YesOrNo) {
       const application = JSON.parse(doc.pageContent);
 
       const shouldProcess =
-        analyzeAll === "yes" || !application.pwCategorySuggestions;
+        analyzeAll === "yes" || !("pwCategorySuggestions" in application);
 
       if (!shouldProcess) {
         continue;

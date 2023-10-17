@@ -41,8 +41,8 @@
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x067ca205aaF09A8B724Cadd2f70A38f9AF2d150A.json",
   "Githubs": "",
   "Tags": "DEVELOPER_ECOSYSTEM",
-  "pwIsNoise": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Developer Ecosystem",
-  "pwCategory": "Developer Ecosystem"
+  "pwCategory": "Developer Ecosystem",
+  "pwIsFlagged": false
 }

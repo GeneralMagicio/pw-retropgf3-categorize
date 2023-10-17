@@ -31,7 +31,10 @@ async function selectYesNo(message: string): Promise<YesOrNo> {
       message: "What now?",
       options: [
         { value: "fetch", label: "Fetch metadata files" },
-        { value: "noise", label: "Identify false/noise/spam applications" },
+        {
+          value: "noise",
+          label: "Identify rule breaking/false/noise/spam applications",
+        },
         {
           value: "individual",
           label: "Identify wrongly marked INDIVIDUAL/PROJECT applications",

@@ -44,8 +44,8 @@
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xD0F02cb782fBa0F7DbCa1ECCfCB192b7cf007d91.json",
   "Githubs": "https://github.com/caotre/blockspace-race/blob/main/light-node.md#submit-a-payforblob-transaction",
   "Tags": "",
-  "pwIsNoise": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Airdrops, Retroactive, NFTs, Community Building",
-  "pwCategory": "Community Building"
+  "pwCategory": "Community Building",
+  "pwIsFlagged": false
 }

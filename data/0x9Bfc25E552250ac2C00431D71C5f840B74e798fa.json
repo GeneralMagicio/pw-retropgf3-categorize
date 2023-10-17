@@ -37,9 +37,9 @@
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x9Bfc25E552250ac2C00431D71C5f840B74e798fa.json",
   "Githubs": "",
   "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK",
-  "pwIsNoise": true,
-  "pwNoiseReason": "The application is noise because the bio, contribution description, and impact description are vague, seemingly nonsensical, and don't provide any clear, understandable details about their project or work in the Blockchain/Web3 space.",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK",
-  "pwCategory": "Governance Tokens"
+  "pwCategory": "Governance Tokens",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "Flagged for spam due to the unclear and vague project description and lack of concrete details about its impact or contribution to the Web3/blockchain space."
 }

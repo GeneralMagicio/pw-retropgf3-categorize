@@ -20,9 +20,7 @@
       "description": "We want to bring liquidity, additional trading volume and users to Optimism"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Describe the impact your contibutions had on the Optimism collective:\nBy bringing eesee to Optimism we will bring more liquidity to the NFT market, increasing it's volume and capitalization. \nBecause of the low fees on Optimism, we will be able to efficiently utilize Account Abstraction to make frictionless experience for our web2 target demographic, increasing overall adoption of the Optimism ecosystem.",
   "impactMetrics": [
     {
@@ -51,8 +49,8 @@
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x4F4a595bdc00ACF85eFb90b1f2171d475F1a63B7.json",
   "Githubs": "",
   "Tags": "END_USER_EXPERIENCE_AND_ADOPTION",
-  "pwIsNoise": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "NFTs, DeFi, Digital Assets Marketplace, Mass Adoption, Optimism",
-  "pwCategory": "End User Experience"
+  "pwCategory": "End User Experience",
+  "pwIsFlagged": false
 }

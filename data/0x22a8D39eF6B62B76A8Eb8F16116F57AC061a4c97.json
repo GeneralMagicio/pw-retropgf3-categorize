@@ -44,8 +44,9 @@
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x22a8D39eF6B62B76A8Eb8F16116F57AC061a4c97.json",
   "Githubs": "",
   "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK",
-  "pwIsNoise": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Developer Ecosystem, End User Experience and Adoption, OP_STACK, Collective Governance",
-  "pwCategory": "Developer Ecosystem"
+  "pwCategory": "Developer Ecosystem",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "This application should be flagged because it promises of future impact and deliverables with statements like \"I still have a lot to do...\" and \"study hard for the future development of the blockchain,\" which are against the Grant Program Rules."
 }

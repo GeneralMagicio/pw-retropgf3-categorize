@@ -10,9 +10,7 @@
       "description": "NFT HOLDER"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "My consistent contributions to the Optimism Collective have had a profound impact. Through thought-provoking posts and active engagement with fellow members, I've helped cultivate a supportive community that shares a common vision of a brighter future. Together, we've initiated meaningful projects, organized events, and exchanged ideas that empower us to bring about positive change in our lives and the world. My commitment to spreading optimism continues to strengthen our collective resolve, making us a driving force for positive transformation. 🌍💪 #OptimismCollectiveImpact",
   "impactMetrics": [
     {
@@ -41,8 +39,8 @@
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xb8d3B75EF1719A0D4f20224686F7e314Ccb3315C.json",
   "Githubs": "",
   "Tags": "END_USER_EXPERIENCE_AND_ADOPTION",
-  "pwIsNoise": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Community Engagement, Social Impact",
-  "pwCategory": "Community Building"
+  "pwCategory": "Community Building",
+  "pwIsFlagged": false
 }

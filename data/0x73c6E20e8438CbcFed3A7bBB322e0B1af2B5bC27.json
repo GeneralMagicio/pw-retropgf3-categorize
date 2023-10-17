@@ -37,8 +37,8 @@
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x73c6E20e8438CbcFed3A7bBB322e0B1af2B5bC27.json",
   "Githubs": "",
   "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK",
-  "pwIsNoise": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Content Creation, Social Media Promotion, Community Building, Marketing",
-  "pwCategory": "Content Creation"
+  "pwCategory": "Content Creation",
+  "pwIsFlagged": false
 }

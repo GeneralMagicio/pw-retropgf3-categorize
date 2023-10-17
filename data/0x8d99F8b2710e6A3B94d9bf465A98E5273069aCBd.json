@@ -35,9 +35,7 @@
       "description": "Components for syncing off-chain data with Dune Community Sources"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM"],
   "impactDescription": "1. The client SDKs (in multiple languages) allow data scientists and engineers to seamlessly integrate blockchain datasets into their backend workflows. This serves for automation, accounting, monitoring, marketing and possibly other purposes. Furthermore, this tooling allows Dune users to organize, manage, test and version control their queries to ensure correctness of their data insights. \n\n2. The alerting system is easily accessible and reusable for anyone in the ecosystem. It can (and has) save protocols money by detecting malicious activity. \n\n3. The Dune Sync project brings offchain data into the dune query engine so that it can be joined together with it's onchain companion data.\n\n4. My spellbook contributions utilize the above tools and bring the story of a protocol to life.",
   "impactMetrics": [
     {
@@ -87,8 +85,8 @@
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x8d99F8b2710e6A3B94d9bf465A98E5273069aCBd.json",
   "Githubs": "https://github.com/duneanalytics/dune-client, https://github.com/bh2smith/ts-dune-client, https://github.com/bh2smith/duners/, https://github.com/cowprotocol/dune-alerts, https://github.com/duneanalytics/spellbook, https://github.com/cowprotocol/dune-sync",
   "Tags": "",
-  "pwIsNoise": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Data Engineering, API Clients, Alerting System, Sync Tool, Spellbook Contributions",
-  "pwCategory": "Developer Ecosystem"
+  "pwCategory": "Developer Ecosystem",
+  "pwIsFlagged": false
 }

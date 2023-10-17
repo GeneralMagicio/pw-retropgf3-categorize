@@ -43,8 +43,9 @@
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x5D40451dC574997C61E16C30A5c0E3ada80B8E3B.json",
   "Githubs": "",
   "Tags": "COLLECTIVE_GOVERNANCE, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK",
-  "pwIsNoise": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "RetroPGF, Optimism Collective, COLLECTIVE_GOVERNANCE, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK",
-  "pwCategory": "End User Experience"
+  "pwCategory": "End User Experience",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "Flag the application. The contribution links provided are not associated with any valid or relevant project contributions but link to a Twitter profile instead, violating Rule 11: Spam."
 }

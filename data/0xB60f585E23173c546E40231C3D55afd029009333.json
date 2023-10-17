@@ -25,10 +25,7 @@
       "description": "Optimism Github Attestation Bot"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM",
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Optimism Gas Tracker:\nGives users a better understanding of OP mainnet gas fee activity. \n\nOptimism Transaction Replay Tool:\nImprove user experience who face L1->L2 or L2->L1 cross-chain messenger transaction failures by using an easy to use UI and removing the need to use a technical SDK.\n\nGithub Attestation Action and Bot: \nHelps projects on Github keep track of their contributors by creating automated attestations.\n\n",
   "impactMetrics": [
     {
@@ -50,8 +47,8 @@
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xB60f585E23173c546E40231C3D55afd029009333.json",
   "Githubs": "https://github.com/buildooor/optimism-gas-tracker, https://github.com/buildooor/optimism-transaction-replay-tool, https://github.com/buildooor/github-attestation-action, https://github.com/buildooor/github-attestation-bot",
   "Tags": "",
-  "pwIsNoise": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Smart Contract Platforms, Layer 2 Scaling, Blockchain Infrastructure",
-  "pwCategory": "Developer Ecosystem"
+  "pwCategory": "Developer Ecosystem",
+  "pwIsFlagged": false
 }

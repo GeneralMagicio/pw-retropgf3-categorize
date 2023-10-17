@@ -40,8 +40,8 @@
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x12481822efb3c546AC945C17c8EC54a63Bc95B5C.json",
   "Githubs": "",
   "Tags": "COLLECTIVE_GOVERNANCE, END_USER_EXPERIENCE_AND_ADOPTION",
-  "pwIsNoise": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Collective Governance, End User Experience and Adoption",
-  "pwCategory": "Decentralized Finance"
+  "pwCategory": "Decentralized Finance",
+  "pwIsFlagged": false
 }

@@ -10,10 +10,7 @@
       "description": "X(Twitter)"
     }
   ],
-  "impactCategory": [
-    "COLLECTIVE_GOVERNANCE",
-    "OP_STACK"
-  ],
+  "impactCategory": ["COLLECTIVE_GOVERNANCE", "OP_STACK"],
   "impactDescription": "I often publicize optimism with friends around me, asking them to participate in the construction of this great project. Besides, I firmly hold $op and actively participate in the governance and construction. I will try my best to publicize optimism in the future and make my own modest contribution.",
   "impactMetrics": [
     {
@@ -35,8 +32,9 @@
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x1274c6Be78F56BAbde0E546f3bb09e87eb4A0e9a.json",
   "Githubs": "",
   "Tags": "COLLECTIVE_GOVERNANCE, OP_STACK",
-  "pwIsNoise": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Collective Governance, OP_STACK",
-  "pwCategory": "Community Building"
+  "pwCategory": "Community Building",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "This application should be flagged for promising future impact, which is a violation of rule 1."
 }

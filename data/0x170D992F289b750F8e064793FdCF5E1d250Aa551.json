@@ -44,10 +44,10 @@
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x170D992F289b750F8e064793FdCF5E1d250Aa551.json",
   "Githubs": "",
   "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK",
-  "pwIsNoise": true,
-  "pwNoiseReason": "This application is noise because the descriptions of the applicant's contributions and their impact are not specific and simply repeated the word \"Optimism.\"",
   "recategorizeReason": "NO, it is not correctly categorized as the \"project\" is mentioned named \"Kosmo\" but the applicant type is marked as an \"individual\".",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "NFT, Layer 2 Scaling, Governance Tokens, Developer Ecosystem, End User Experience and Adoption",
-  "pwCategory": "Developer Ecosystem"
+  "pwCategory": "Developer Ecosystem",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "The application should be flagged for spam as the contribution description and the impact description repeat the same phrase or word excessively without providing any tangible information."
 }

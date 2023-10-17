@@ -10,9 +10,7 @@
       "description": "youtube video about optimism"
     }
   ],
-  "impactCategory": [
-    "COLLECTIVE_GOVERNANCE"
-  ],
+  "impactCategory": ["COLLECTIVE_GOVERNANCE"],
   "impactDescription": "Through my educational content around Optimism across multiple formats, I aimed to increase adoption and participation within the Optimism Collective by reaching new audiences and equipping them with accessible information.My social media posts, infographics, and YouTube videos served to spread general awareness of Optimism to casual crypto users. Explaining the benefits over mainnet Ethereum transactions increased potential end user adoption. My airdrop-related content ensured eligible recipients could claim their tokens.",
   "impactMetrics": [
     {
@@ -41,8 +39,8 @@
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xB135D40581404474Beca15Ba408E2E67A178b4cd.json",
   "Githubs": "",
   "Tags": "COLLECTIVE_GOVERNANCE",
-  "pwIsNoise": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Education, Adoption, Airdrop awareness, Content creation, Collective governance",
-  "pwCategory": "Education"
+  "pwCategory": "Education",
+  "pwIsFlagged": false
 }

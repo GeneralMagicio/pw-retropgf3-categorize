@@ -41,9 +41,9 @@
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x184b65d77975675b20846a25ddd9e31F9EF77891.json",
   "Githubs": "",
   "Tags": "OP_STACK",
-  "pwIsNoise": true,
-  "pwNoiseReason": "The application is noise because both the \"bio\" and the \"contribution description\" sections are filled with nonsensical repetitions of the word \"test\".",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Blockchain Infrastructure, Testnet",
-  "pwCategory": "This project cannot be categorized as the description provided does not contain any specific or valid information about the project."
+  "pwCategory": "The project description provided does not specify any real or clear data related to a project in the Web3/blockchain domain. Therefore, it's not possible to assign an accurate category from the provided list.",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "This application should be flagged for violating the rule against spam, as both the contribution description and the impact description are filled with repeated \"test\" phrases instead of containing real, meaningful content about the project or its impact."
 }

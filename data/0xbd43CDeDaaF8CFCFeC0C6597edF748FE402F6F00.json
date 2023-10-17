@@ -20,9 +20,7 @@
       "description": "Personal github profile"
     }
   ],
-  "impactCategory": [
-    "OP_STACK"
-  ],
+  "impactCategory": ["OP_STACK"],
   "impactDescription": "Accelerated the availability of more private communication options. Supporting the transition of research to practice allows for more things like https://spiraldb.xyz/balances/  - Impact both through direct distribution of capital, and through regular talks (e.g https://speak.protocol.berlin/protocol-berg/talk/Y7HNG9/, ethCC, HCPP, etc) to bridge research results to the web3 community.",
   "impactMetrics": [
     {
@@ -51,8 +49,8 @@
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xbd43CDeDaaF8CFCFeC0C6597edF748FE402F6F00.json",
   "Githubs": "https://github.com/protocol/research-grants/blob/master/RFPs/rfp-014-private-retrieval-of-data.md, https://github.com/willscott",
   "Tags": "",
-  "pwIsNoise": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Privacy, Funding, Research",
-  "pwCategory": "Developer Ecosystem"
+  "pwCategory": "Developer Ecosystem",
+  "pwIsFlagged": false
 }

@@ -37,9 +37,9 @@
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x9BB0301B970B182A273Ecb380027E4BE0Efd5553.json",
   "Githubs": "",
   "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK",
-  "pwIsNoise": true,
-  "pwNoiseReason": "The application is noise because it has minimal details and cryptic descriptions indicating lack of serious content, and the Twitter account appears to mimic a well-known figure in the blockchain space which may indicate potential impersonation.",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK",
-  "pwCategory": "Developer Ecosystem"
+  "pwCategory": "Developer Ecosystem",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "This application should be flagged for false statements & deception, and possibly fraud & impersonation - the applicant is using a URL that seems to impersonate ethereum co-founder Vitalik Buterin."
 }

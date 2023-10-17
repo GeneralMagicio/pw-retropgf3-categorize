@@ -10,9 +10,7 @@
       "description": "VenturaDAO token (VTR ticker)"
     }
   ],
-  "impactCategory": [
-    "COLLECTIVE_GOVERNANCE"
-  ],
+  "impactCategory": ["COLLECTIVE_GOVERNANCE"],
   "impactDescription": "I make some content on a private discord about optimism dapp and how to use it to help people about how to develop and use optimisme and his substack as base. I'm currently developping my own token for this DAO that i will deploy soon on optimism to decentralize a bit this discord server",
   "impactMetrics": [
     {
@@ -34,8 +32,8 @@
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x2FFd669e12d0497e8457641AC27b386bD2A3C4e4.json",
   "Githubs": "",
   "Tags": "COLLECTIVE_GOVERNANCE",
-  "pwIsNoise": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Layer 2 Scaling, Governance Tokens",
-  "pwCategory": "Community Building"
+  "pwCategory": "Community Building",
+  "pwIsFlagged": false
 }

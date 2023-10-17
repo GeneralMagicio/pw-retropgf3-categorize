@@ -61,8 +61,9 @@
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x6b31B3487eBC37e4c6c730cD1E1f9b45afEF5D0F.json",
   "Githubs": "",
   "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK",
-  "pwIsNoise": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Layer 2 Scaling, Governance Tokens, Developer Ecosystem, End User Experience and Adoption",
-  "pwCategory": "Community Building"
+  "pwCategory": "Community Building",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "This application should be flagged for violating the first rule of the grant program, as the applicant promises future impact and deliverables in their contribution description and impact description."
 }

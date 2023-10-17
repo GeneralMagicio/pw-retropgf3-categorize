@@ -10,10 +10,7 @@
       "description": "Commuity Call for Airdrop Hunting and Tesnet Apply"
     }
   ],
-  "impactCategory": [
-    "COLLECTIVE_GOVERNANCE",
-    "OP_STACK"
-  ],
+  "impactCategory": ["COLLECTIVE_GOVERNANCE", "OP_STACK"],
   "impactDescription": "I'm a crypto neubie and also a airdrop hunter person, i have a small airdrop (tesnet contributors) circle from Ubix Network, Core Chain, BNB Community and ZetaChain. I hope I can bring some of them, who not yet know very well about Optimism into the Optimism Community and also learn and updating our knowlegde about Optimism Chain Ecosystems.",
   "impactMetrics": [
     {
@@ -42,9 +39,9 @@
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xb9839Deed4862C1C0b5DD5C946ae87A81D7b4aE2.json",
   "Githubs": "https://github.com/",
   "Tags": "",
-  "pwIsNoise": true,
-  "pwNoiseReason": "The application is noise because the applicant has provided vague and unclear information about their project, implying that they might not have a tangible or legitimate project in the Web3/blockchain space.",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Airdrop Hunter, Learning, Optimism Chain",
-  "pwCategory": "Community Building"
+  "pwCategory": "Community Building",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "This application should be flagged because it contains false statements & deception in the contribution links section and is outside of RetroPGF's rules, as no valid substantial contribution to the optimism community or ecosystem has been provided."
 }

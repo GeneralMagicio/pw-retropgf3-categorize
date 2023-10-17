@@ -10,9 +10,7 @@
       "description": "NA"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Have Voted to optimism dao ... also delegate op,\nas op team regularly updating and working on optimism to improve and materialize for solid ecosystem.\nso it looks very much promising as a great team behind it.\ni hope to get airdrop of op for third round.\n",
   "impactMetrics": [
     {
@@ -34,8 +32,9 @@
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xdc4C44943bFBC9f87D0f1FE11d69a4b814D3608c.json",
   "Githubs": "",
   "Tags": "END_USER_EXPERIENCE_AND_ADOPTION",
-  "pwIsNoise": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "END_USER_EXPERIENCE_AND_ADOPTION",
-  "pwCategory": "End User Experience"
+  "pwCategory": "End User Experience",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "Yes, this application should be flagged as it violates Rule 10. The applicant's contributions are not clearly described and don't meet the minimum time commitment requirement."
 }

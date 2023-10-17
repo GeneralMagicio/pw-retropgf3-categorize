@@ -62,8 +62,9 @@
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x1810bb2Face5711D20F0C5DA104415B96adad122.json",
   "Githubs": "",
   "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK",
-  "pwIsNoise": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Developer Ecosystem, End User Experience and Adoption, Data, Information, Knowledge, Education, Collective Governance",
-  "pwCategory": "Community Building"
+  "pwCategory": "Community Building",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "This application should be flagged because it is outside of RetroPGF's scope. The applicant mentions multiple transactions on the Optimism network and ownership of NFTs, but such user interactions are not within the scope of reward under the grants program."
 }

@@ -44,9 +44,9 @@
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xe53113cc7A30154FFc5Cb9B3004817dD1de9A515.json",
   "Githubs": "",
   "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK",
-  "pwIsNoise": true,
-  "pwNoiseReason": "This application is noise because the applicant does not demonstrate a serious or meaningful contribution to the Web3/blockchain space and appears only interested in personal financial gain.",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Collective Governance, Developer Ecosystem, End User Experience and Adoption, OP Stack",
-  "pwCategory": "End User Experience"
+  "pwCategory": "End User Experience",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "This application should be flagged for violating rule 2 (False statements & deception) and 10 (Outside of RetroPGF's scope). The applicant seems not to have made any clear contribution to the Web3/blockchain space, instead primarily expressing a desire to make money. The application is filled with irrelevant and/or nonsensical content, indicating that it may be spam."
 }

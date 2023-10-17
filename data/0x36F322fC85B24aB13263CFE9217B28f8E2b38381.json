@@ -162,8 +162,8 @@
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x36F322fC85B24aB13263CFE9217B28f8E2b38381.json",
   "Githubs": "",
   "Tags": "END_USER_EXPERIENCE_AND_ADOPTION",
-  "pwIsNoise": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Web3 Education, Community Governance, Media, Public Goods Funding, Chinese Community",
-  "pwCategory": "Education"
+  "pwCategory": "Blockchain Education",
+  "pwIsFlagged": false
 }

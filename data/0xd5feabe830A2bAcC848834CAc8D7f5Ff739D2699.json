@@ -43,9 +43,9 @@
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xd5feabe830A2bAcC848834CAc8D7f5Ff739D2699.json",
   "Githubs": "https://github.com/Solidity-day-day-up",
   "Tags": "",
-  "pwIsNoise": false,
   "recategorizeReason": "NO. The application is a project, not an individual, as suggested by the language and the services provided.",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Web3 Infrastructure, Blockchain Tools, Cryptocurrency Services",
-  "pwCategory": "Blockchain Infrastructure"
+  "pwCategory": "Blockchain Infrastructure",
+  "pwIsFlagged": false
 }

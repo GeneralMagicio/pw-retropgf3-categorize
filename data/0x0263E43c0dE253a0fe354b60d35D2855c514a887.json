@@ -50,8 +50,8 @@
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x0263E43c0dE253a0fe354b60d35D2855c514a887.json",
   "Githubs": "",
   "Tags": "COLLECTIVE_GOVERNANCE, END_USER_EXPERIENCE_AND_ADOPTION",
-  "pwIsNoise": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Education, Content Creation, Community Building, Adoption, Governance",
-  "pwCategory": "Education"
+  "pwCategory": "Blockchain Education",
+  "pwIsFlagged": false
 }

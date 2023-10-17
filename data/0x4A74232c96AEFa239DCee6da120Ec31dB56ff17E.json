@@ -59,8 +59,8 @@
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x4A74232c96AEFa239DCee6da120Ec31dB56ff17E.json",
   "Githubs": "https://github.com/kepler-homes/",
   "Tags": "",
-  "pwIsNoise": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Blockchain Gaming",
-  "pwCategory": "Blockchain Gaming"
+  "pwCategory": "Blockchain Gaming",
+  "pwIsFlagged": false
 }

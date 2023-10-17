@@ -36,8 +36,8 @@
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x1F452Ea54d4d934AfAdc300C61ca0A3B1bbDE958.json",
   "Githubs": "",
   "Tags": "COLLECTIVE_GOVERNANCE, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK",
-  "pwIsNoise": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Tokenization Platforms, Governance Tokens, End User Experience and Adoption",
-  "pwCategory": "Influencer Marketing"
+  "pwCategory": "Influencer Marketing",
+  "pwIsFlagged": false
 }

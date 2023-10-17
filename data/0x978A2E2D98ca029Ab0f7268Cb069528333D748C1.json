@@ -30,9 +30,7 @@
       "description": "I follow OptimismFND"
     }
   ],
-  "impactCategory": [
-    "COLLECTIVE_GOVERNANCE"
-  ],
+  "impactCategory": ["COLLECTIVE_GOVERNANCE"],
   "impactDescription": "So I believe that Optimism \"OP\" will be the future of the world, I respect OP team, they are clever. The way to decentralize and democracy is only Optimism which I adhere, as I realise   only Optimism is the best way to the future, Retroactive is the best idea for the community.",
   "impactMetrics": [
     {
@@ -61,9 +59,9 @@
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x978A2E2D98ca029Ab0f7268Cb069528333D748C1.json",
   "Githubs": "",
   "Tags": "COLLECTIVE_GOVERNANCE",
-  "pwIsNoise": false,
   "recategorizeReason": "NO, it is not correctly categorized. The application should be categorized as an \"INDIVIDUAL\" because from the \"bio\" we can see this application is referring to a single person, Billy, not a project.",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Optimism, DeFi, NFTs, Lending/Borrowing, Community Governance",
-  "pwCategory": "Community Building"
+  "pwCategory": "Community Building",
+  "pwIsFlagged": false
 }

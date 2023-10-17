@@ -10,9 +10,7 @@
       "description": "Github repository of the static analyzer"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM"],
   "impactDescription": "This repository has been used by many projects to run against their smart contracts and detect common vulnerabilities, participating in the global security of the ecosystem. But more importantly, many security researchers have used this codebase to build their own version and vulnerability detectors so it now powers a lot of these automated audit tools.",
   "impactMetrics": [
     {
@@ -39,8 +37,8 @@
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x34Eb88EAD486A09CAcD8DaBe013682Dc5F1DC41D.json",
   "Githubs": "https://github.com/Picodes/4naly3er",
   "Tags": "",
-  "pwIsNoise": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Smart Contract Security",
-  "pwCategory": "Developer Ecosystem"
+  "pwCategory": "Developer Ecosystem",
+  "pwIsFlagged": false
 }

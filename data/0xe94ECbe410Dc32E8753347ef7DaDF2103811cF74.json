@@ -37,9 +37,9 @@
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xe94ECbe410Dc32E8753347ef7DaDF2103811cF74.json",
   "Githubs": "",
   "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK",
-  "pwIsNoise": true,
-  "pwNoiseReason": "The application is noise because it provides no concrete evidence of a project or significant contribution to the Web3/blockchain space; it appears to be more focused on obtaining free assets than adding value.",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Governance Tokens, Developer Ecosystem, End User Experience and Adoption",
-  "pwCategory": "Community Building"
+  "pwCategory": "Community Building",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "The application should be flagged for violating rule 1 and 10. The applicant has made promises of future impact and does not highlight any valid past contribution or impact."
 }

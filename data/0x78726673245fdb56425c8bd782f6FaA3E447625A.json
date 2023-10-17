@@ -20,9 +20,7 @@
       "description": "contract repo"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "JustCause is a state-of-the-art crowdfunding app that allows users to contribute to public goods, important charitable organizations, community projects, and numerous other causes, all while confidently preserving their initial deposit and fostering community goodwill.",
   "impactMetrics": [
     {
@@ -44,8 +42,8 @@
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x78726673245fdb56425c8bd782f6FaA3E447625A.json",
   "Githubs": "https://github.com/smeee23/just_cause, https://github.com/smeee23/justcause_contracts",
   "Tags": "",
-  "pwIsNoise": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Crowdfunding, Optimistic Rollups, Charitable Donations",
-  "pwCategory": "Decentralized Finance"
+  "pwCategory": "Decentralized Finance",
+  "pwIsFlagged": false
 }

@@ -10,10 +10,7 @@
       "description": "Transactions and votes"
     }
   ],
-  "impactCategory": [
-    "COLLECTIVE_GOVERNANCE",
-    "OP_STACK"
-  ],
+  "impactCategory": ["COLLECTIVE_GOVERNANCE", "OP_STACK"],
   "impactDescription": "Made many different transactions exploring different Dapps on the ecosystem. 100% Galxe badgeholder on OP. Voted on every proposal made and then delegating to maximise voting participation to the DAO. Made different bridging from different chains to prove the stability of the ecosystem. Thinking that Web3 could change the world and OP is the best way to do that.",
   "impactMetrics": [
     {
@@ -35,8 +32,8 @@
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xe0278bc20A01494cCf0Dc51AEe9ad21b3Ff5Cd1a.json",
   "Githubs": "",
   "Tags": "COLLECTIVE_GOVERNANCE, OP_STACK",
-  "pwIsNoise": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Collective Governance, OP Stack",
-  "pwCategory": "Community Building"
+  "pwCategory": "Community Building",
+  "pwIsFlagged": false
 }

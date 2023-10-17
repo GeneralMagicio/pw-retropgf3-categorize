@@ -54,8 +54,8 @@
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x1A561e43f264952D7b4F25Fb4967122c87618Beb.json",
   "Githubs": "",
   "Tags": "END_USER_EXPERIENCE_AND_ADOPTION",
-  "pwIsNoise": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Decentralized Exchanges (DEXs), Copy Trading, Crypto Analytics, Trading Tools, Market Monitoring",
-  "pwCategory": "End User Experience"
+  "pwCategory": "Trading Tools",
+  "pwIsFlagged": false
 }

@@ -15,10 +15,7 @@
       "description": "Smol site"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM",
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "We currently have 7 live dapps, 6 of which are currently live on Optimism - designed to help OP users do common crypto tasks in an easier, more seamless way. \n\nDisperse app - to disperse erc20 tokens \n\nerc20 migrator - simple migrator for erc20 tokens\n\nnft migrator - same as erc20 but for nfts \n\ntokenlistooor - automated and uptodate token list fork of uniswap tokenlist \n\ngib.to - create a simple donation page in seconds \n\ndump.service - swap multiple erc20 to one (currently only working on chains supporting cowswap since it uses it for sandwich and front run protection) \n\nMultisafe - gives people a simple way to have one Safe address on different chains. \n\n",
   "impactMetrics": [
     {
@@ -40,8 +37,8 @@
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xB7A31346433430D92846f0181C55Fc506B9b22d8.json",
   "Githubs": "https://github.com/smoldapp",
   "Tags": "",
-  "pwIsNoise": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Smart Contract Platforms, Cross-Chain Platforms, Tokenization Platforms, Blockchain Infrastructure, Digital Identity",
-  "pwCategory": "Developer Ecosystem"
+  "pwCategory": "Developer Ecosystem",
+  "pwIsFlagged": false
 }

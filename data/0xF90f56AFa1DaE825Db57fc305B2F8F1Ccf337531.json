@@ -20,9 +20,7 @@
       "description": "Quests on Optimism"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "For about a year, we've provided educational resources, support and teachings to hundreds users on Optimism. Casually enhancing user's competence conducting themselves on-chain, while spreading the word of optimism and maintaining reasonable expectations through our lenses. My passion here on Optimism came from my passion for DeFi as a whole.",
   "impactMetrics": [
     {
@@ -44,8 +42,8 @@
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xF90f56AFa1DaE825Db57fc305B2F8F1Ccf337531.json",
   "Githubs": "",
   "Tags": "END_USER_EXPERIENCE_AND_ADOPTION",
-  "pwIsNoise": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Education-oriented collective, User onboarding, DeFi, Community engagement, END_USER_EXPERIENCE_AND_ADOPTION",
-  "pwCategory": "Education"
+  "pwCategory": "Education",
+  "pwIsFlagged": false
 }

@@ -44,8 +44,9 @@
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xea2D97CE7c18Cf20613ed8eeE4d0f1A8b4493368.json",
   "Githubs": "",
   "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK",
-  "pwIsNoise": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Developer Ecosystem, End User Experience and Adoption, Op Stack",
-  "pwCategory": "Community Building"
+  "pwCategory": "Community Building",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "This application should be flagged for violating rule 1, as the applicant makes a promise of future impact by stating \"My only promise is that if ever resources are readily made available at free cost for people that cannot or otherwise imagine it before, I'll do my best to help them see, and help them realise their dream is nothing impossible.\""
 }

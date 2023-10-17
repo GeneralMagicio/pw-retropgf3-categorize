@@ -42,8 +42,8 @@
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x43f9c4C6592853fC6e87e4280f84ace6a344d8e7.json",
   "Githubs": "",
   "Tags": "COLLECTIVE_GOVERNANCE, END_USER_EXPERIENCE_AND_ADOPTION",
-  "pwIsNoise": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Governance Tokens, Layer 2 Scaling, Decentralization",
-  "pwCategory": "Governance Tokens"
+  "pwCategory": "Governance Tokens",
+  "pwIsFlagged": false
 }

@@ -37,9 +37,9 @@
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xB2c851ED3f04851C9DBeC4ADC1465C1352a153c4.json",
   "Githubs": "",
   "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK",
-  "pwIsNoise": true,
-  "pwNoiseReason": "This application is noise because the contribution description and impact description are nonsensical and do not clearly describe a project related to Web3/blockchain space.",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Collective Governance, Developer Ecosystem, End User Experience and Adoption, Op Stack",
-  "pwCategory": "Developer Ecosystem"
+  "pwCategory": "Developer Ecosystem",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "This application should be flagged for having irrelevant and nonsensical answers, violating Rule 11."
 }

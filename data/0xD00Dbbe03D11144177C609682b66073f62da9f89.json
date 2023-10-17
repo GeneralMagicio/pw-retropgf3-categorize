@@ -10,10 +10,7 @@
       "description": "My identity"
     }
   ],
-  "impactCategory": [
-    "COLLECTIVE_GOVERNANCE",
-    "OP_STACK"
-  ],
+  "impactCategory": ["COLLECTIVE_GOVERNANCE", "OP_STACK"],
   "impactDescription": "spreading positive values for all who participate, unite to foster.\npositive feedback, making the community more accessible to all people, I will maximize my performance in this regard.It is an honor for me personally to be involved in this contribution.",
   "impactMetrics": [
     {
@@ -42,9 +39,9 @@
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xD00Dbbe03D11144177C609682b66073f62da9f89.json",
   "Githubs": "",
   "Tags": "COLLECTIVE_GOVERNANCE, OP_STACK",
-  "pwIsNoise": false,
   "recategorizeReason": "NO. The applicant consistently uses singular pronouns like \"me\" and \"I\" indicating this should be categorized as an individual.",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Community Building, Positive Values, Collective Governance",
-  "pwCategory": "Community Building"
+  "pwCategory": "Community Building",
+  "pwIsFlagged": false
 }

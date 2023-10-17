@@ -37,8 +37,9 @@
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x66ec901E8eD387d48535C953F79fF6e7cCCDCC53.json",
   "Githubs": "",
   "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK",
-  "pwIsNoise": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Social Trading, Marketing, User Adoption",
-  "pwCategory": "End User Experience"
+  "pwCategory": "End User Experience",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "Flagged: The application is not describing a tangible and specific contribution to Optimism community. User interactions such as sending transactions are not in scope to be rewarded in RetroPGF 3, which this application seems to primarily focus on."
 }

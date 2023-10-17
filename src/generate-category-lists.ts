@@ -14,17 +14,16 @@ import pc from "picocolors";
 const model = new ChatOpenAI({ modelName: "gpt-4" });
 
 const categoryTemplate = PromptTemplate.fromTemplate(
-  `Below is a list of web3 / blockchain projects categories.
+  `Given a comprehensive list of web3/blockchain project categories provided below, 
+  generate a concise list that encapsulates the essence of the original list. 
   
-  I would like to summarize and create a new list of categories based on this list. 
+  The summarized list should:
+  - Have a maximum of 20 categories.
+  - Each category name should be no more than 3 words.
+  - Present the categories line by line without any numbering, commas, or other separators.
   
-  Boil down the wisdom from the first list into this new list that should contain max 20 categories. 
-  
-  IMPORTANT: Each category should contain max 3 words.
-
-  Output one category per line, no row numbers, no commas or other separators.  
-  
-  Category list: {allCategories}`
+  Original Category List:
+  {allCategories}`
 );
 
 const categoryChain = categoryTemplate.pipe(model);

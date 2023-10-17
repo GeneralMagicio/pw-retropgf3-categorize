@@ -44,10 +44,10 @@
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x3207446dD7fDefa5Dd9F66e89F0F49070afc5731.json",
   "Githubs": "",
   "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK",
-  "pwIsNoise": true,
-  "pwNoiseReason": "This application is noise because it doesn't provide clear and specific information about the project, its contribution to the Web3/blockchain space or its actual impact, it is full of vague statements and repetitiveness.",
   "recategorizeReason": "NO, it is not correctly categorized because the application frequently uses \"I\" and \"me\", indicating it is an individual rather than a project.",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK",
-  "pwCategory": "Developer Ecosystem"
+  "pwCategory": "Developer Ecosystem",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "This application should be flagged for false statements & deception and promising future impact because it provided vague descriptions about past contributions and made hopeful comments about the future of the optimism ecosystem, without stating any clear, measurable impact or specific contributions tied to the applicant."
 }

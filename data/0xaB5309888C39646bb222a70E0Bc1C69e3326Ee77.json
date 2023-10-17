@@ -44,8 +44,8 @@
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xaB5309888C39646bb222a70E0Bc1C69e3326Ee77.json",
   "Githubs": "",
   "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK",
-  "pwIsNoise": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Developing Community, DeFi, User Experience and Adoption",
-  "pwCategory": "End User Experience"
+  "pwCategory": "End User Experience",
+  "pwIsFlagged": false
 }

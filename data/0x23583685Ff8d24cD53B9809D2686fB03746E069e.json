@@ -15,9 +15,7 @@
       "description": "Merged repo"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "• Provides a centralized resource for developers and enthusiasts to discover projects in the Optimism ecosystem.\n• Encourages open-source contributions and fosters a stronger community around Optimism.\n• Offers visibility and recognition for projects contributing to the Optimism ecosystem.",
   "impactMetrics": [
     {
@@ -44,8 +42,8 @@
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x23583685Ff8d24cD53B9809D2686fB03746E069e.json",
   "Githubs": "https://github.com/abhinav-woodstock/awesome-optimism/blob/main/README.md, https://github.com/lucas-op/awesome-optimism/blob/main/README.md",
   "Tags": "",
-  "pwIsNoise": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Smart Contract Platforms",
-  "pwCategory": "Developer Ecosystem"
+  "pwCategory": "Developer Ecosystem",
+  "pwIsFlagged": false
 }

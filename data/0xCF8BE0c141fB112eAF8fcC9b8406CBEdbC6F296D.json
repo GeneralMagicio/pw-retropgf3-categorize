@@ -43,8 +43,9 @@
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xCF8BE0c141fB112eAF8fcC9b8406CBEdbC6F296D.json",
   "Githubs": "",
   "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION",
-  "pwIsNoise": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION",
-  "pwCategory": "Developer Ecosystem"
+  "pwCategory": "Developer Ecosystem",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "The application should be flagged because it violates the rule against \"Promises of future impact\". The applicant states they \"will try to create metaverse with a game hub\", which is a promise of a future deliverable."
 }

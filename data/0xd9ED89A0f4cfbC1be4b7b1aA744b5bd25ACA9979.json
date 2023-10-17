@@ -91,8 +91,8 @@
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xd9ED89A0f4cfbC1be4b7b1aA744b5bd25ACA9979.json",
   "Githubs": "https://github.com/gobitfly/eth2-beaconchain-explorer",
   "Tags": "",
-  "pwIsNoise": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Open Source Ethereum Explorer, Consensus Layer Explorer, Mobile Staking App, EVM Chain Support, API Provider",
-  "pwCategory": "Blockchain Infrastructure"
+  "pwCategory": "Blockchain Infrastructure",
+  "pwIsFlagged": false
 }

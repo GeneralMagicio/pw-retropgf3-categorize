@@ -44,8 +44,9 @@
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x0281d04EaAd146FB4101E5B38ee06e0ad829AE25.json",
   "Githubs": "",
   "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK",
-  "pwIsNoise": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Governance Tokens, Developer Ecosystem, End User Experience and Adoption, Op Stack",
-  "pwCategory": "Developer Ecosystem"
+  "pwCategory": "Developer Ecosystem",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "The application should be flagged for \"Promises of future impact\". The applicant claims to be \"shaping the future of blockchain technology\" which implies a promise of future deliverables or impact which is against the rules."
 }

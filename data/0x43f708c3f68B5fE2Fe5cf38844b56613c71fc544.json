@@ -42,8 +42,9 @@
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x43f708c3f68B5fE2Fe5cf38844b56613c71fc544.json",
   "Githubs": "",
   "Tags": "COLLECTIVE_GOVERNANCE, END_USER_EXPERIENCE_AND_ADOPTION",
-  "pwIsNoise": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Collective Governance, End User Experience and Adoption",
-  "pwCategory": "Community Building"
+  "pwCategory": "Community Building",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "This application should be flagged because it violates rule 1 by making promises of future impact which is not allowed in the grant application."
 }

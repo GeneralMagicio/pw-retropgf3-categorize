@@ -10,9 +10,7 @@
       "description": "Optimism Educational Content Impact "
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "- Extending the knowledge of Optimism as a whole, with the reach that Lemon currently has in Latin America and the different channels to make this happen, it had a huge impact in terms of extending Optimism collective vision to the future.\n- Onboarding thousands of users that most probably did not have a direct access to the Optimism network and ecosystem by providing an easy-to-use fiat on-ramp for trading OP, ETH and USDT on Optimism network.",
   "impactMetrics": [
     {
@@ -46,8 +44,8 @@
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x6fd96a881b72CAD783B0741309B57Cb7d0Bde18a.json",
   "Githubs": "",
   "Tags": "END_USER_EXPERIENCE_AND_ADOPTION",
-  "pwIsNoise": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Education, Layer 2 Scaling, Blockchain Infrastructure, End User Experience and Adoption",
-  "pwCategory": "Adoption"
+  "pwCategory": "Adoption",
+  "pwIsFlagged": false
 }

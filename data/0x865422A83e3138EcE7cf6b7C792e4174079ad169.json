@@ -37,9 +37,9 @@
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x865422A83e3138EcE7cf6b7C792e4174079ad169.json",
   "Githubs": "",
   "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK",
-  "pwIsNoise": true,
-  "pwNoiseReason": "This application is noise due to the lack of clarity and coherence in the provided descriptions, as well as typographical errors, suggesting it may not be from a legitimate source.",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, COLLECTIVE_GOVERNANCE, OP_STACK",
-  "pwCategory": "Education"
+  "pwCategory": "Education",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "This application should be flagged for spam due to the presence of irrelevant answers and broken English which fails to clearly detail the applicant's contributions or impact in the Web3/blockchain space."
 }

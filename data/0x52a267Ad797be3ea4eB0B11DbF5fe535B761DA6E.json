@@ -37,9 +37,9 @@
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x52a267Ad797be3ea4eB0B11DbF5fe535B761DA6E.json",
   "Githubs": "",
   "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK",
-  "pwIsNoise": true,
-  "pwNoiseReason": "The application is noise because the descriptions of the contributions and impact are nonsensical and contain strings of random characters, suggesting the application is not serious or genuine.",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Layer 2 Scaling, Governance Tokens, Blockchain Infrastructure, Developer Ecosystem",
-  "pwCategory": "Developer Ecosystem"
+  "pwCategory": "Developer Ecosystem",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "The application should be flagged for being spam because the provided contribution and impact sentences are incoherent and contain jumbled letters and words."
 }

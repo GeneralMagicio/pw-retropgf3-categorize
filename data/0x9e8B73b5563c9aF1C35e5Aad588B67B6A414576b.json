@@ -43,8 +43,8 @@
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x9e8B73b5563c9aF1C35e5Aad588B67B6A414576b.json",
   "Githubs": "",
   "Tags": "DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK",
-  "pwIsNoise": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Developer Ecosystem, End User Experience and Adoption, Op Stack",
-  "pwCategory": "Developer Ecosystem"
+  "pwCategory": "Developer Ecosystem",
+  "pwIsFlagged": false
 }

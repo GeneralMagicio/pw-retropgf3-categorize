@@ -10,9 +10,7 @@
       "description": "Urusto22 "
     }
   ],
-  "impactCategory": [
-    "OP_STACK"
-  ],
+  "impactCategory": ["OP_STACK"],
   "impactDescription": "Having the opportunity to stack and save money with a Better opportunity of passive income without having to release o relay all your físicas or digital asset in one spot not such a big pp person but willing to contribute as much as I can for the greater future",
   "impactMetrics": [
     {
@@ -41,9 +39,9 @@
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xA527e8209E784a2DAC1c1c0C157B185711A06E4B.json",
   "Githubs": "",
   "Tags": "OP_STACK",
-  "pwIsNoise": true,
-  "pwNoiseReason": "This application is noise because the URL links provided are invalid and the information provided is non-specific and non-technical, lacking clarity about the project or the achievements of the individual.",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Smart Contract Platforms, Gas Optimization",
-  "pwCategory": "Education"
+  "pwCategory": "Education",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "The application should be flagged for potential false statements & deception. The provided URLs appear to be invalid (Httpr:www.nowhere.com and Http:Www.nowhere.com) and the overall application lacks detail and clarity on the applicant's contributions and impact on the Web3/blockchain space, causing suspicion."
 }

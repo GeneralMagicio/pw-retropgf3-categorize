@@ -44,9 +44,9 @@
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xF47027F3eDCb1F0b6861a25E6f3738E398440e11.json",
   "Githubs": "",
   "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK",
-  "pwIsNoise": true,
-  "pwNoiseReason": "The application is noise because the applicant displays a lack of understanding of the subject matter and the links provided do not show any contribution to the Web3/blockchain space.",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Blockchain Infrastructure, Governance Tokens, Developer Ecosystem, End User Experience and Adoption",
-  "pwCategory": "Education"
+  "pwCategory": "Education",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "This application should be flagged because it is violating the rule 1 and 2. The applicant is promising future impact and making false claims about his contribution to the blockchain space. The applicant also seems like he's trying to advertise his need for funds which violates rule 6."
 }

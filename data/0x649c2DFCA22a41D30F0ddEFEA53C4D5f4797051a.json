@@ -78,8 +78,8 @@
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x649c2DFCA22a41D30F0ddEFEA53C4D5f4797051a.json",
   "Githubs": "",
   "Tags": "",
-  "pwIsNoise": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Decentralized Identity, Web2 Data Attestations, Governance Tokens",
-  "pwCategory": "Decentralized Identity"
+  "pwCategory": "Decentralized Identity",
+  "pwIsFlagged": false
 }

@@ -20,9 +20,7 @@
       "description": "Release of the project \"2222\" with 5 Tone"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "I have been releasing several projects on Optimism which are music NFTs launched on the Optimism dapp Sound.xyz. Besides my own project, Kristoph Galland - I am also helping managing artists such as FRVR, 5 Tone and Dash & Preuss via my record label DYSAUX.",
   "impactMetrics": [
     {
@@ -66,8 +64,8 @@
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xb3397A6FeEdff2b9fCe9Ca1086CB1Bdd617c16Bf.json",
   "Githubs": "",
   "Tags": "END_USER_EXPERIENCE_AND_ADOPTION",
-  "pwIsNoise": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "NFTs, Smart Contract Platforms, Blockchain Infrastructure, Decentralized Finance, Digital Identity",
-  "pwCategory": "End User Experience"
+  "pwCategory": "End User Experience",
+  "pwIsFlagged": false
 }

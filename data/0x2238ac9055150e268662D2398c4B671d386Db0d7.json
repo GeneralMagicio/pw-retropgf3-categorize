@@ -34,9 +34,9 @@
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x2238ac9055150e268662D2398c4B671d386Db0d7.json",
   "Githubs": "https://github.com/ethereum-optimism/optimism",
   "Tags": "",
-  "pwIsNoise": true,
-  "pwNoiseReason": "This application is noise because the descriptions are repeated phrases without any substantial information about the project/contribution.",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Blockchain Infrastructure",
-  "pwCategory": "The provided information is insufficient to categorize the project."
+  "pwCategory": "The project description provided is not valid.",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "The application should be flagged for spam and false statements & deception as the content is repeated and does not provide any real information about the project's contribution or impact."
 }

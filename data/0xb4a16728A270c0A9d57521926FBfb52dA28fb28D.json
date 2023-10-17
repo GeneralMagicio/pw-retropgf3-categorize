@@ -10,9 +10,7 @@
       "description": "NFT Market Contract (Etherscan)"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Most NFTs are exchanged for ETH, a volatile currency. This volatility inhibits price discovery by inextricably tying the value of an NFT to the value of ETH. Vote-escrowed NFTs, which tokenize the value of a governance position in projects like Solidly and Velodrome, add an additional (often volatile) token to this equation. \n\nThe market struggled to evaluate these positions in ETH. By allowing listings in stables, sellers can fix a stable floor price; allowing listings in the underlying token, e.g., listings of veVELO for VELO, the seller creates a zero-slippage offer - if VELO's price moves, the price of veVELO necessarily follows as veVELO is VELO (albeit vote-escrowed). \n\nSince its launch, our NFT Market volume is several times the volume of all other NFT Markets on Optimism combined. ",
   "impactMetrics": [
     {
@@ -41,8 +39,8 @@
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xb4a16728A270c0A9d57521926FBfb52dA28fb28D.json",
   "Githubs": "",
   "Tags": "END_USER_EXPERIENCE_AND_ADOPTION",
-  "pwIsNoise": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "NFT Market",
-  "pwCategory": "End User Experience"
+  "pwCategory": "End User Experience",
+  "pwIsFlagged": false
 }

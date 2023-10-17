@@ -40,8 +40,8 @@
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x2AC6A3561a43f06d62602eF9728C2B9eEc393326.json",
   "Githubs": "",
   "Tags": "",
-  "pwIsNoise": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Non-Fungible Tokens (NFTs), Tokenization Platforms, Decentralized Websites, Digital Assets, Web3",
-  "pwCategory": "Tokenization Platforms"
+  "pwCategory": "Tokenization Platforms",
+  "pwIsFlagged": false
 }

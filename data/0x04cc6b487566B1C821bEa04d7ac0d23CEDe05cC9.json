@@ -172,8 +172,8 @@
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x04cc6b487566B1C821bEa04d7ac0d23CEDe05cC9.json",
   "Githubs": "https://github.com/orgs/zenbitETH/repositories",
   "Tags": "",
-  "pwIsNoise": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Collaborative Governance, Urban Governance, Decentralized Budget, Plural Voting, Smart Contract Platforms",
-  "pwCategory": "Governance Tools"
+  "pwCategory": "Governance & Tokens",
+  "pwIsFlagged": false
 }

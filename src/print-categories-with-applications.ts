@@ -33,7 +33,7 @@ export async function printCategoriesWithApplications(filter: string) {
 
       if (
         application.pwCategory === category &&
-        application.pwIsNoise === false
+        application.pwIsFlagged === false
       ) {
         console.log(`◆  - ${application.Project}`);
         counter++;
@@ -44,13 +44,15 @@ export async function printCategoriesWithApplications(filter: string) {
   // Noise applications
   console.log(`${pc.gray("│\n")}◆  Noise applications:`);
 
+  let noiseCounter = 0;
   for (let i = 0; i < applications.length; i++) {
     const doc = applications[i];
     const application = JSON.parse(doc.pageContent);
 
-    if (application.pwIsNoise) {
+    if (application.pwIsFlagged) {
       console.log(`◆  - ${application.Project}`);
       counter++;
+      noiseCounter++;
     }
   }
 
@@ -61,7 +63,7 @@ export async function printCategoriesWithApplications(filter: string) {
     const doc = applications[i];
     const application = JSON.parse(doc.pageContent);
 
-    if (application.pwIsNoise) {
+    if (application.pwIsFlagged) {
       continue;
     }
 
@@ -91,11 +93,16 @@ export async function printCategoriesWithApplications(filter: string) {
     const doc = applications[i];
     const application = JSON.parse(doc.pageContent);
 
-    if (!application.pwCategory && !application.pwIsNoise) {
+    if (!application.pwCategory && !application.pwIsFlagged) {
       emptyCategories++;
       console.log(`◆  - ${application.Project}`);
     }
   }
+
+  console.log(
+    `${pc.gray("│\n")}◆  Total number of applications: ${applications.length}`
+  );
+  console.log(`◆  Number of noise applications: ${noiseCounter}`);
   console.log(
     `◆  Number of applications without categories: ${emptyCategories}`
   );

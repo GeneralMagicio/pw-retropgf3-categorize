@@ -10,9 +10,7 @@
       "description": "https://mint.fun/op/0x6E3b4139a7CF633Ab42377b43D9F68E7a081b902"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": " saw that 43 people have minted my nft collection over Optimism network :-) Sorry if I'm not very sure what else I should post/do but I'm always eager to learn and participate! Glad to be part of this amazing journey and I'm looking forward to continue!",
   "impactMetrics": [
     {
@@ -34,8 +32,8 @@
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xF0854C4dC9d3f1EBD4f0e44eb91587F7fc5Bd518.json",
   "Githubs": "",
   "Tags": "END_USER_EXPERIENCE_AND_ADOPTION",
-  "pwIsNoise": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "End User Experience and Adoption",
-  "pwCategory": "User Adoption"
+  "pwCategory": "User Adoption",
+  "pwIsFlagged": false
 }

@@ -10,9 +10,7 @@
       "description": "Op army"
     }
   ],
-  "impactCategory": [
-    "COLLECTIVE_GOVERNANCE"
-  ],
+  "impactCategory": ["COLLECTIVE_GOVERNANCE"],
   "impactDescription": "In my country, Thailand, I see injustice, corruption, monopoly, and small capital cannot fight against monopoly capital. I want to see a future world with transparency and antitrust. It can make small people fight against big capitalists. I want to see fairness in society and hope OP will be like that.",
   "impactMetrics": [
     {
@@ -41,8 +39,9 @@
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xD923dE646D3f0BB9Eb7f9169f259C79C3edE2188.json",
   "Githubs": "",
   "Tags": "COLLECTIVE_GOVERNANCE",
-  "pwIsNoise": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Digital Identity, Governance Tokens",
-  "pwCategory": "Community Building"
+  "pwCategory": "Community Building",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "This application should be flagged for violating rule 1. The applicant promises future activities (\"I will use OP every day and will invite friends\") and impact."
 }

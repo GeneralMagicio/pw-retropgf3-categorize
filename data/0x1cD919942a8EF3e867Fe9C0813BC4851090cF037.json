@@ -61,8 +61,8 @@
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x1cD919942a8EF3e867Fe9C0813BC4851090cF037.json",
   "Githubs": "https://github.com/charmverse",
   "Tags": "",
-  "pwIsNoise": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Web3 Community Platform, Grants Management Platform, Communication/Feedback Platform",
-  "pwCategory": "Community Building"
+  "pwCategory": "Web3 Community Platform",
+  "pwIsFlagged": false
 }

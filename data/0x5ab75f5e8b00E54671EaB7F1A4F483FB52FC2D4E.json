@@ -43,9 +43,10 @@
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x5ab75f5e8b00E54671EaB7F1A4F483FB52FC2D4E.json",
   "Githubs": "",
   "Tags": "COLLECTIVE_GOVERNANCE, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK",
-  "pwIsNoise": false,
   "recategorizeReason": "NO, it's an application from an individual as the applicant uses first person pronouns such as \"I\" and \"me\" in the description.",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "COLLECTIVE_GOVERNANCE, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK",
-  "pwCategory": "Governance Tokens"
+  "pwCategory": "Governance Tokens",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "Flagged: The application primarily mentions contributions through 'delegation of votes' which does not meet the minimum time commitment requirement mentioned in the grant program rules."
 }

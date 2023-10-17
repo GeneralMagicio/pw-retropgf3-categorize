@@ -10,9 +10,7 @@
       "description": "NFT"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "New user of optimism. Work that increased the efficiency, security, resilience and awareness of the OP Stack.Work that provided impact to end users in the Optimism Collective, or helped bring new end users into the Collective. Work that provided impact to application developers in the Optimism Collective, or helped bring new developers into the Collective.",
   "impactMetrics": [
     {
@@ -41,8 +39,9 @@
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xCd5367827fc644E00db7d48f29A785D622Dd9E83.json",
   "Githubs": "",
   "Tags": "END_USER_EXPERIENCE_AND_ADOPTION",
-  "pwIsNoise": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Layer 2 Scaling, Smart Contract Platforms, END_USER_EXPERIENCE_AND_ADOPTION",
-  "pwCategory": "End User Experience"
+  "pwCategory": "End User Experience",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "This application should be flagged for rule 1 violation: promises of future impact. The applicant did not provide clear evidence of past contributions but instead promises to \"make optimism familiar and easy use for people around the world.\""
 }

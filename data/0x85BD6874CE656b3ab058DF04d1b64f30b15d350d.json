@@ -20,10 +20,7 @@
       "description": "Simple Contract"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM",
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "My contributions have helped solidify the Optimism Collective as an informed and engaged community, fortified with both substantive knowledge and a sense of togetherness. The increased engagement and discussion spurred by my initiatives have, in turn, contributed to the collective's growth and vibrancy. ",
   "impactMetrics": [
     {
@@ -50,8 +47,8 @@
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x85BD6874CE656b3ab058DF04d1b64f30b15d350d.json",
   "Githubs": "",
   "Tags": "DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION",
-  "pwIsNoise": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Developer Ecosystem, End User Experience and Adoption",
-  "pwCategory": "Education"
+  "pwCategory": "Education",
+  "pwIsFlagged": false
 }

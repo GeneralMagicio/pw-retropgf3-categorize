@@ -37,8 +37,9 @@
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x50593C113fb168117a30823034E660A830FAefB4.json",
   "Githubs": "",
   "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK",
-  "pwIsNoise": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Cross-Chain Platforms, Governance Tokens, Developer Ecosystem, End User Experience and Adoption, OP Stack",
-  "pwCategory": "Cross-Chain Platforms"
+  "pwCategory": "Cross-Chain Platforms",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "The application should be flagged for violating rule 11 of the program, as it's written in a language other than English."
 }

@@ -44,9 +44,9 @@
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x002748dB885D4CCfe3C7C92143f0805F4eBEEC01.json",
   "Githubs": "https://github.com/boomjeth",
   "Tags": "",
-  "pwIsNoise": false,
   "recategorizeReason": "NO. The application uses \"I\" and \"me\", indicating that it is from an individual, so it should be categorized as \"INDIVIDUAL\" instead of \"PROJECT\".",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Layer 2 Scaling",
-  "pwCategory": "Education"
+  "pwCategory": "Education",
+  "pwIsFlagged": false
 }

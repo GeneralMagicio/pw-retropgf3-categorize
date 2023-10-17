@@ -15,9 +15,7 @@
       "description": "Twitter"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Thanks to me, many people learned about the Optimism network! Someone passed it on to their loved ones and someone started using Optimism and cryptocurrency in general, which generally affects the development of both the Optimism network and the cryptocurrency market as a whole!",
   "impactMetrics": [
     {
@@ -44,9 +42,9 @@
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xEB496550A39D37D00DE91EFeBeCCeCba0FeC43Ec.json",
   "Githubs": "",
   "Tags": "END_USER_EXPERIENCE_AND_ADOPTION",
-  "pwIsNoise": false,
   "recategorizeReason": "NO. The application is incorrectly categorized. It is about an individual as inferred from the use of \"I\" and \"me\" in the text.",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "End User Experience and Adoption",
-  "pwCategory": "Community Building"
+  "pwCategory": "Community Building",
+  "pwIsFlagged": false
 }

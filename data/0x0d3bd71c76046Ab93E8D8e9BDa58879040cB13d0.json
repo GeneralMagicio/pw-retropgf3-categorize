@@ -58,8 +58,8 @@
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x0d3bd71c76046Ab93E8D8e9BDa58879040cB13d0.json",
   "Githubs": "https://github.com/jiffy-labs/jiffyscan-frontend",
   "Tags": "",
-  "pwIsNoise": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Smart Contract Platforms, Tokenization Platforms, Blockchain Infrastructure",
-  "pwCategory": "Blockchain Analytics"
+  "pwCategory": "Developer Ecosystem",
+  "pwIsFlagged": false
 }

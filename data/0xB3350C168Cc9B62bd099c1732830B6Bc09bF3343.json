@@ -78,8 +78,8 @@
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xB3350C168Cc9B62bd099c1732830B6Bc09bF3343.json",
   "Githubs": "https://github.com/primitivefinance/arbiter, https://github.com/primitivefinance/DisputeGameSimulations, https://github.com/primitivefinance/portfolio_simulations/pull/36",
   "Tags": "",
-  "pwIsNoise": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Smart Contract Platforms, Security Analysis Tools",
-  "pwCategory": "Developer Ecosystem"
+  "pwCategory": "Developer Ecosystem",
+  "pwIsFlagged": false
 }

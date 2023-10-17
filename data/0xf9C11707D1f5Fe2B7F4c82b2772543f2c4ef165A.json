@@ -10,9 +10,7 @@
       "description": "1 characters"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Early support of the Optimism chain, sharing it with my friends and other members of the crypto currency community, when there was demand and activity in the space, however now I am just building and focusing on quality of life. I am certain there will become more time to start sharing with friends and the community but for now it is just time for creation.",
   "impactMetrics": [
     {
@@ -34,9 +32,10 @@
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xf9C11707D1f5Fe2B7F4c82b2772543f2c4ef165A.json",
   "Githubs": "",
   "Tags": "END_USER_EXPERIENCE_AND_ADOPTION",
-  "pwIsNoise": false,
   "recategorizeReason": "NO, the application is not correctly categorized. The application uses singular pronouns such as \"I\" and \"my\", indicating that this is an individual applicant, not a project.",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Blockchain Infrastructure",
-  "pwCategory": "User Adoption"
+  "pwCategory": "User Adoption",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "Flag the application for having promises of future impact. The applicant indicates that he might share his art with potential Optimism users and expand the user base in the future."
 }

@@ -10,9 +10,7 @@
       "description": "For the moment we have not donated to other campaigns."
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "When publishing, uploading or writing articles about Optimism, L2, RetroPGF and others, the content can reach more people than the newsletter can reach. This information, being in a newsletter, can be transformed into a Twitter thread and thus share more information and reach many more people.",
   "impactMetrics": [
     {
@@ -41,8 +39,8 @@
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x3a94e60a1a9d7A53765Ceb7dc73880BDB48eE4d0.json",
   "Githubs": "",
   "Tags": "END_USER_EXPERIENCE_AND_ADOPTION",
-  "pwIsNoise": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "DeFi, L2, Education, Optimism, Governance",
-  "pwCategory": "Education"
+  "pwCategory": "Education",
+  "pwIsFlagged": false
 }

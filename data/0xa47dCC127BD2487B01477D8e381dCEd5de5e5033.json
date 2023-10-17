@@ -44,8 +44,9 @@
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xa47dCC127BD2487B01477D8e381dCEd5de5e5033.json",
   "Githubs": "",
   "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK",
-  "pwIsNoise": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "End User Experience and Adoption, Developer Ecosystem, Collective Governance",
-  "pwCategory": "Education"
+  "pwCategory": "Education",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "This application should be flagged for violating the first rule by promising future deliverables or impact. The applicant mentions wanting to give lectures on financial literacy and how to use blockchain technologies with optimism in the future."
 }

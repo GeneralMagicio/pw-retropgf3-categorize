@@ -90,9 +90,9 @@
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x842bB1bb84CC8A3D6277b0ff9729d22D55E9C50B.json",
   "Githubs": "",
   "Tags": "COLLECTIVE_GOVERNANCE, END_USER_EXPERIENCE_AND_ADOPTION",
-  "pwIsNoise": false,
   "recategorizeReason": "NO. The application should be categorized as a PROJECT as it appears to represent the collective efforts of two individuals - \"raho\" and \"tnorm\".",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Collective Governance, End User Experience and Adoption",
-  "pwCategory": "Governance Tools"
+  "pwCategory": "Governance Tools",
+  "pwIsFlagged": false
 }

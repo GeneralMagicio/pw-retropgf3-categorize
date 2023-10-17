@@ -37,8 +37,8 @@
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x0A8738a060987F61d2feA461b02ee074F3483651.json",
   "Githubs": "https://github.com/andersongalecki?tab=repositories",
   "Tags": "",
-  "pwIsNoise": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Community Building, Education, Developer Support",
-  "pwCategory": "Developer Ecosystem"
+  "pwCategory": "Developer Ecosystem",
+  "pwIsFlagged": false
 }

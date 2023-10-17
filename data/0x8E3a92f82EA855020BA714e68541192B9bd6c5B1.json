@@ -25,9 +25,7 @@
       "description": "Slides used during the 6 week training"
     }
   ],
-  "impactCategory": [
-    "COLLECTIVE_GOVERNANCE"
-  ],
+  "impactCategory": ["COLLECTIVE_GOVERNANCE"],
   "impactDescription": "We trained and supported the development of soft skills in active participants of the community. We are directly improving governance accessibility by supporting the design of alternatives to deal with conflicting cases and code of Conduct enforcement processes.",
   "impactMetrics": [
     {
@@ -76,8 +74,8 @@
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x8E3a92f82EA855020BA714e68541192B9bd6c5B1.json",
   "Githubs": "https://github.com/ethereum-optimism/ecosystem-contributions/issues/2",
   "Tags": "",
-  "pwIsNoise": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Governance Tokens",
-  "pwCategory": "Education"
+  "pwCategory": "Education",
+  "pwIsFlagged": false
 }

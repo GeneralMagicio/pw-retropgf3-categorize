@@ -10,10 +10,7 @@
       "description": " providing operations functions to interact on Uniswap v3 pools."
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM",
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "The introduction of this smart contract on the Optimism network has several significant impacts on the Optimism Collective. It brings increased efficiency and cost savings, reducing transaction costs for users. This makes DeFi activities more accessible and appealing. Developers now have a powerful tool to create automated trading strategies, integrate with DeFi platforms, provide liquidity, and explore arbitrage opportunities. This expands the range of applications within the ecosystem.\nThe contract's ability to provide liquidity to Uniswap v3 pools enhances overall trading experiences, reducing slippage. Customizable trading logic allows for innovation in DeFi strategies, tailoring solutions to specific market conditions.",
   "impactMetrics": [
     {
@@ -42,8 +39,8 @@
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xFaaBdFEcC4CEB7c069357558d503465177DBB8A1.json",
   "Githubs": "",
   "Tags": "DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION",
-  "pwIsNoise": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Automated Trading Strategies, DeFi Integration, Liquidity Provision, Arbitrage Opportunities, Gas Efficiency",
-  "pwCategory": "Developer Ecosystem"
+  "pwCategory": "Developer Ecosystem",
+  "pwIsFlagged": false
 }

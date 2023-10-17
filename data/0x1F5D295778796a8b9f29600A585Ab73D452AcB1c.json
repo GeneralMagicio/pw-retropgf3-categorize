@@ -47,8 +47,8 @@
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x1F5D295778796a8b9f29600A585Ab73D452AcB1c.json",
   "Githubs": "https://github.com/Vectorized/solady",
   "Tags": "",
-  "pwIsNoise": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Smart Contract Platforms",
-  "pwCategory": "Developer Ecosystem"
+  "pwCategory": "Developer Ecosystem",
+  "pwIsFlagged": false
 }

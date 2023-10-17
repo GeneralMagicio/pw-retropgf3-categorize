@@ -10,9 +10,7 @@
       "description": "This is the main PR where the bulk of the work has been done."
     }
   ],
-  "impactCategory": [
-    "OP_STACK"
-  ],
+  "impactCategory": ["OP_STACK"],
   "impactDescription": "These contributions will hopefully enable a more performant OP Stack which will ultimately allow the Optimism Collective to scale its vision to the masses. We intend to continue maintaining this work and make sure that it keeps up with any changes that the OP Stack has over the next years.",
   "impactMetrics": [
     {
@@ -34,8 +32,8 @@
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x3BEFcAE114bF14ce0F8E6E205759E9176B66d8D6.json",
   "Githubs": "https://github.com/paradigmxyz/reth/pull/4377",
   "Tags": "",
-  "pwIsNoise": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Layer 2 Scaling, Smart Contract Platforms, Blockchain Infrastructure",
-  "pwCategory": "Blockchain Infrastructure"
+  "pwCategory": "Blockchain Infrastructure",
+  "pwIsFlagged": false
 }

@@ -37,9 +37,10 @@
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x153509e78Fd04144d482E27716aE14c52d7932B0.json",
   "Githubs": "https://github.com/zemberek82",
   "Tags": "",
-  "pwIsNoise": false,
   "recategorizeReason": "NO, the application uses first person language like \"For me,\" suggesting it's coming from an individual and not a group or project. Even though they provided a GitHub link and a website, the nature of the application and the language used suggests it is an individual.",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Smart Contract Platforms, Blockchain Infrastructure",
-  "pwCategory": "The provided information is not clear enough to categorize the project."
+  "pwCategory": "The provided information is not clear enough to categorize the project.",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "The application should be flagged for false statements and deception because the contribution description and impact description are vague and identical, not providing concrete evidence of what the applicant has contributed to the project."
 }

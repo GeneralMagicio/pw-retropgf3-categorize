@@ -10,9 +10,7 @@
       "description": "Support Creators and Developers "
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Brings awareness and creators, Transaction, such as NFTs, bridge liquidity, use Dapps like arbiter finance, support projects being built on OP. \nFollow and retweet OPs contents on Twitter, explore and continued interaction with OP chain, will continue to collect and support NFTs projects and creators and swap on OP as the community grows.",
   "impactMetrics": [
     {
@@ -41,8 +39,8 @@
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x6a7415B36133C6C3957e4772B8009068e170C648.json",
   "Githubs": "",
   "Tags": "END_USER_EXPERIENCE_AND_ADOPTION",
-  "pwIsNoise": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "NFTs, DeFi, Community Engagement, Social Media Integration, Digital Collectibles",
-  "pwCategory": "User Adoption"
+  "pwCategory": "User Adoption",
+  "pwIsFlagged": false
 }

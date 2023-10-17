@@ -42,8 +42,8 @@
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x383b0ddAA84E9488600a59d965e1BEA37719F806.json",
   "Githubs": "",
   "Tags": "COLLECTIVE_GOVERNANCE, END_USER_EXPERIENCE_AND_ADOPTION",
-  "pwIsNoise": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "NFTs, Layer 2 Scaling, Decentralized Finance (DeFi), Digital Identity, Governance Tokens",
-  "pwCategory": "End User Experience"
+  "pwCategory": "End User Experience",
+  "pwIsFlagged": false
 }

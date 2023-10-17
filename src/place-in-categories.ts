@@ -15,14 +15,17 @@ import pc from "picocolors";
 const model = new ChatOpenAI({ modelName: "gpt-4" });
 
 const categoryTemplate = PromptTemplate.fromTemplate(
-  `Below is a description of a project active in the Web3/blockchain space. 
+  `Given a detailed description of a project in the Web3/blockchain domain, thoroughly 
+  analyze the nuances and essence of the project. Your task is to assign the most appropriate 
+  category from the provided list, ensuring that the core purpose and nature of the project are accurately captured.
   
-  I would like you to categorize this project by choosing ONE of the categories in this list: 
+  Choose only ONE category from the following list:
   {categoryList}
-
-  Output only this one category, no row numbers, no commas or other separators.
-
-  Project description: {project}`
+  
+  Output the chosen category without any additional punctuation or formatting.
+  
+  Project Description:
+  {project}`
 );
 
 const categoryChain = categoryTemplate.pipe(model);

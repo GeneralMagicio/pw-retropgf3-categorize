@@ -10,9 +10,7 @@
       "description": "dfsdfsdfsdf"
     }
   ],
-  "impactCategory": [
-    "OP_STACK"
-  ],
+  "impactCategory": ["OP_STACK"],
   "impactDescription": "Describe your contribution(s) to Optimism\nPlease share the contributions you wish to receive RetroPGF for.Describe your contribution(s) to Optimism\nPlease share the contributions you wish to receive RetroPGF for.Describe your contribution(s) to Optimism\nPlease share the contributions you wish to receive RetroPGF for.Describe your contribution(s) to Optimism\nPlease share the contributions you wish to receive RetroPGF for.",
   "impactMetrics": [
     {
@@ -34,9 +32,9 @@
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x457A223A59de9F7311c5d9af84bF81eF55C87735.json",
   "Githubs": "",
   "Tags": "OP_STACK",
-  "pwIsNoise": true,
-  "pwNoiseReason": "The application is noise because the vital information such as bio, contribution description and impact description are repetitive and make no specific sense or provide detailed information related to the project.",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Layer 2 Scaling, Smart Contract Platforms, Cross-Chain Platforms, Governance Tokens",
-  "pwCategory": "The description provided is not clear enough to categorize the project."
+  "pwCategory": "The description provided is not clear enough to categorize the project.",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "This application should be flagged for violating rule 11 by featuring spam content, including irrelevant and repetitive responses in the contribution and impact description sections."
 }

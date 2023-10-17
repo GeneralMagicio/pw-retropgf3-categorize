@@ -15,9 +15,7 @@
       "description": "Gaslite Drop Repository"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Gaslite Drop improves the the experience of rewarding and incentivizing your community.\n\nWe allow user's to effortlessly, safely, and efficiently facilitate transfers to their end users.\n\nThrough our easy to use UI and highly optimized Yul based airdrop contract anyone can bulk transfer assets to anyone.",
   "impactMetrics": [
     {
@@ -39,8 +37,8 @@
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x3d4aaFbe86059d17C6263332c560f18C4F1Fec34.json",
   "Githubs": "https://github.com/PopPunkLLC/GasliteDrop",
   "Tags": "",
-  "pwIsNoise": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Smart Contract Platforms, Layer 2 Scaling, Tokenization Platforms, Gas Optimization",
-  "pwCategory": "End User Experience"
+  "pwCategory": "End User Experience",
+  "pwIsFlagged": false
 }

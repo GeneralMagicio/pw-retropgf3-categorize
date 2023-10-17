@@ -10,9 +10,7 @@
       "description": "Nil"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "It showcases a deep commitment to the platform, fostering enthusiasm, knowledge sharing, and collaboration. \n\nSuch involvement can strengthen community bonds, attract new members, and contribute to the ongoing success and growth of the Optimism ecosystem. ",
   "impactMetrics": [
     {
@@ -41,8 +39,8 @@
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x5Bce25397eEfbc76f6479e6838c00a5115dbEA4c.json",
   "Githubs": "",
   "Tags": "END_USER_EXPERIENCE_AND_ADOPTION",
-  "pwIsNoise": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Governance Tokens, Layer 2 Scaling, Community Building",
-  "pwCategory": "Community Building"
+  "pwCategory": "Community Building",
+  "pwIsFlagged": false
 }

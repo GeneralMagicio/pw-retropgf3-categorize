@@ -72,8 +72,8 @@
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x22e2f326FE5A1d07E1214EB1C08346Fd816E8375.json",
   "Githubs": "",
   "Tags": "COLLECTIVE_GOVERNANCE, END_USER_EXPERIENCE_AND_ADOPTION",
-  "pwIsNoise": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Education, Content Creation, Community Building, Governance Tokens",
-  "pwCategory": "Education"
+  "pwCategory": "Education",
+  "pwIsFlagged": false
 }

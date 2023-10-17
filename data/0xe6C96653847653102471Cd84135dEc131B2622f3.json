@@ -10,9 +10,7 @@
       "description": "0xe6C96653847653102471Cd84135dEc131B2622f3"
     }
   ],
-  "impactCategory": [
-    "OP_STACK"
-  ],
+  "impactCategory": ["OP_STACK"],
   "impactDescription": "Bir aile pikniği dönüşüydü. Uzun yıllardır görüşmediğimiz, okumuş, belli bir mevkiye gelmiş yakın bir akrabamız da bizimleydi. Politik konular üzerine konuşurken ne iş yaptığımı merak etti ve Gerçek Hayat’ta çalıştığımı söyleyince, “dağıtımını mı yapıyorsun” diye sordu. “Hayır, derginin kendisinde..” diyebilmiştim mahcup bir edayla. “Ben de abonesiyim” demişti ama sanırım abonesi olduğu o dergide çalışıyor olmamı bana bir türlü konduramıyordu.",
   "impactMetrics": [
     {
@@ -34,9 +32,9 @@
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xe6C96653847653102471Cd84135dEc131B2622f3.json",
   "Githubs": "",
   "Tags": "OP_STACK",
-  "pwIsNoise": true,
-  "pwNoiseReason": "The application is noise because it lacks concrete and specific details about the applicant's actual contribution to the Web3/blockchain space; the content appears to be a personal anecdote unrelated to blockchain technology or projects.",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Digital Identity",
-  "pwCategory": "The text provided is not related to Web3/blockchain space."
+  "pwCategory": "The text provided is not related to Web3/blockchain space.",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "The application should be flagged because it violates rule 11, as the language of the application submission is not English."
 }

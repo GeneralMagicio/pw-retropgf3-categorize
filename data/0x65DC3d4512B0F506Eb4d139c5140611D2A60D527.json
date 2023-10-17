@@ -10,9 +10,7 @@
       "description": "A few TX and nfts"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Nothing extraordinary, just travelling in the ecosystem, acquiring an optimist nft,...\nTrying transactions, governance, swaps,...\nObserving the good progress.\nLoving the done work here.\nLike a user.\nA web3 enthusiastic.\nA web content creator.\nA collector.\nA lover.\nAn optimist.",
   "impactMetrics": [
     {
@@ -41,8 +39,8 @@
   "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x65DC3d4512B0F506Eb4d139c5140611D2A60D527.json",
   "Githubs": "",
   "Tags": "END_USER_EXPERIENCE_AND_ADOPTION",
-  "pwIsNoise": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Blockchain Infrastructure",
-  "pwCategory": "End User Experience"
+  "pwCategory": "End User Experience",
+  "pwIsFlagged": false
 }
