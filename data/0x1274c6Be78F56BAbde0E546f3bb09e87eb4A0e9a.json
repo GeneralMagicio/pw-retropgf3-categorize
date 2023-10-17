@@ -10,7 +10,10 @@
       "description": "X(Twitter)"
     }
   ],
-  "impactCategory": ["COLLECTIVE_GOVERNANCE", "OP_STACK"],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "OP_STACK"
+  ],
   "impactDescription": "I often publicize optimism with friends around me, asking them to participate in the construction of this great project. Besides, I firmly hold $op and actively participate in the governance and construction. I will try my best to publicize optimism in the future and make my own modest contribution.",
   "impactMetrics": [
     {
@@ -34,7 +37,7 @@
   "Tags": "COLLECTIVE_GOVERNANCE, OP_STACK",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Collective Governance, OP_STACK",
-  "pwCategory": "Community Building",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "This application should be flagged for promising future impact, which is a violation of rule 1."
+  "pwFlaggedReason": "This application should be flagged for promising future impact, which is a violation of rule 1.",
+  "pwCategory": "Collective Governance"
 }

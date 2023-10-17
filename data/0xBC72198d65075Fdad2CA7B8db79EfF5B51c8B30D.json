@@ -10,7 +10,9 @@
       "description": "Good Morning News is the world's first decentralized news organization!"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "Though my contributions have not had as much of an impact on the Optimism Collective as I would have hoped by now, I fully expect my protocol to drive future adoption and educate many new users about the Collective. As well as impacting the Collective, my protocol has the potential to impact journalist all around the world and empower them to speak freely.",
   "impactMetrics": [
     {
@@ -34,7 +36,7 @@
   "Tags": "END_USER_EXPERIENCE_AND_ADOPTION",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Decentralized News Platforms",
-  "pwCategory": "End User Experience",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "This application should be flagged for promising future impact which is against the rules of the grant program."
+  "pwFlaggedReason": "This application should be flagged for promising future impact which is against the rules of the grant program.",
+  "pwCategory": "Developer Ecosystem"
 }

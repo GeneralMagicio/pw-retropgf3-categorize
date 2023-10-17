@@ -10,7 +10,9 @@
       "description": "twitter + discord daily presence "
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "I have been extremely consistent in being present within discord and twitter; helping new members wrap their head around current events / important information / etc.\n\nI truly hope to ramp this up (especially on Twitter), as I have a deep passion for crypto",
   "impactMetrics": [
     {
@@ -34,6 +36,6 @@
   "Tags": "END_USER_EXPERIENCE_AND_ADOPTION",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "END_USER_EXPERIENCE_AND_ADOPTION",
-  "pwCategory": "Community Building",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwCategory": "End User Experience and Adoption"
 }

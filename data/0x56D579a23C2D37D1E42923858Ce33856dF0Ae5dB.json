@@ -15,7 +15,9 @@
       "description": "Docs"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "Public Nouns expanded awareness of both Optimism and Public Goods via leveraging the very popular Nouns DAO mechanism and helped linked OP to PG forever.   \n\nAlong with some other Public Goods aligned entities in the space, Optimism was brought in as a founding Public Nouns organization!  Optimism Public Nouns have one of three amazing OPossum heads.  \n\nThe OPossum headed Public Nouns are a representation of this!\n",
   "impactMetrics": [
     {
@@ -52,7 +54,7 @@
   "Tags": "END_USER_EXPERIENCE_AND_ADOPTION",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Digital Identity, Governance Tokens",
-  "pwCategory": "Community Building",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "This application should be flagged for violating the rule against Advertising. The applicant is using the application to promote their sale of Public Nouns."
+  "pwFlaggedReason": "This application should be flagged for violating the rule against Advertising. The applicant is using the application to promote their sale of Public Nouns.",
+  "pwCategory": "Community Building"
 }

@@ -39,7 +39,7 @@
   "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Collective Governance, Developer Ecosystem, End User Experience and Adoption, Op Stack",
-  "pwCategory": "Community Building",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "Flag the application. The contribution description and impact description do not clearly outline an impact or a specific contribution that required a minimum of one hour of commitment. Additionally, the application may be an attempt at advertising or promoting a Telegram channel which is against the rules."
+  "pwFlaggedReason": "Flag the application. The contribution description and impact description do not clearly outline an impact or a specific contribution that required a minimum of one hour of commitment. Additionally, the application may be an attempt at advertising or promoting a Telegram channel which is against the rules.",
+  "pwCategory": "Developer Ecosystem"
 }

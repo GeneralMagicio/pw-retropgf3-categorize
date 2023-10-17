@@ -44,7 +44,7 @@
   "Tags": "COLLECTIVE_GOVERNANCE, END_USER_EXPERIENCE_AND_ADOPTION",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "NFTs, Layer 2 Scaling, Governance Tokens, End User Experience and Adoption",
-  "pwCategory": "End User Experience",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "The application should be flagged for violating rule 1. The applicant promises future impact by stating \"If I am lucky enough to receive an airdrop, I will invest in OP for a longer period of time.\" They have not made a clear contribution with measurable impact in the past."
+  "pwFlaggedReason": "The application should be flagged for violating rule 1. The applicant promises future impact by stating \"If I am lucky enough to receive an airdrop, I will invest in OP for a longer period of time.\" They have not made a clear contribution with measurable impact in the past.",
+  "pwCategory": "End User Experience and Adoption"
 }

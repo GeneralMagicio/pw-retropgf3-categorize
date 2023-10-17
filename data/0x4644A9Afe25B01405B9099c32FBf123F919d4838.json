@@ -20,7 +20,10 @@
       "description": "Beefy UX Audit"
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "UX is something that can be overlooked in web3 applications, as we have seen repeatedly in the past couple years. Frontends that give users access to incredible DeFi services do tend to be geared towards power users and lack intuitive user flows.\n\nBy reviewing apps UX the impact I have is to simply provide a better experience for people of all levels using these apps.\n\nIf a user who has never used DeFi before lands on a page and notices UI bugs and confusing interactions the trust in the underlying tech can be tarnished. Even if the tech under the food is incredible it won't matter because the first impression was not a 10/10.",
   "impactMetrics": [
     {
@@ -54,6 +57,6 @@
   "Tags": "DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "UX Audit, Developer Ecosystem, End User Experience and Adoption",
-  "pwCategory": "End User Experience",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwCategory": "User Experience & Adoption"
 }

@@ -10,7 +10,9 @@
       "description": "0xd4726114bEB61a0239d9C0CD935De170BddbbB7E"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "kısacası çok beğendiğim ve çok merak ettiğim bir proje bende elimden geldiğince öğrenmeye çalışıyorum ve yatırım yamak için daha çok içine girmeye çalışıyorum     0xd4726114bEB61a0239d9C0CD935De170BddbbB7E köprü kullanıyorum nft mint liyorum gerçekten çok hoşuma gidiyor hem hızlı hem ucuz bir ağ.",
   "impactMetrics": [
     {
@@ -41,7 +43,7 @@
   "Tags": "END_USER_EXPERIENCE_AND_ADOPTION",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Blockchain",
-  "pwCategory": "End User Experience",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "The application should be flagged for violating rule 11, since the application is not in English."
+  "pwFlaggedReason": "The application should be flagged for violating rule 11, since the application is not in English.",
+  "pwCategory": "Non-Fungible Tokens (NFTs)"
 }

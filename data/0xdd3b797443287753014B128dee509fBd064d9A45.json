@@ -10,7 +10,9 @@
       "description": "OC"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "Introducing optimism to the general public. This is because of the high amount of plastic waste in my area. I also have an idea to provide incentives in the form of optimism to introduce optimism to beginners. I want to demonstrate positive progress to the optimism community.",
   "impactMetrics": [
     {
@@ -42,7 +44,7 @@
   "recategorizeReason": "NO, the application is categorized as an individual but the description refers to a group of young people trying to establish a startup, which makes it sound more like a project.",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Tokenization Platforms, Supply Chain Management, Environmental Sustainability",
-  "pwCategory": "Community Building",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "The application should be flagged because it violates Rule 1 and Rule 10.1. The application promises future establishment of a startup and waste collection mechanism, and it does not demonstrate a contribution that required a minimum time commitment of 1 hour and which provided impact to the Collective."
+  "pwFlaggedReason": "The application should be flagged because it violates Rule 1 and Rule 10.1. The application promises future establishment of a startup and waste collection mechanism, and it does not demonstrate a contribution that required a minimum time commitment of 1 hour and which provided impact to the Collective.",
+  "pwCategory": "Community Building"
 }

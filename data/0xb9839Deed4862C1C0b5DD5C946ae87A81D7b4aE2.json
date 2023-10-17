@@ -10,7 +10,10 @@
       "description": "Commuity Call for Airdrop Hunting and Tesnet Apply"
     }
   ],
-  "impactCategory": ["COLLECTIVE_GOVERNANCE", "OP_STACK"],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "OP_STACK"
+  ],
   "impactDescription": "I'm a crypto neubie and also a airdrop hunter person, i have a small airdrop (tesnet contributors) circle from Ubix Network, Core Chain, BNB Community and ZetaChain. I hope I can bring some of them, who not yet know very well about Optimism into the Optimism Community and also learn and updating our knowlegde about Optimism Chain Ecosystems.",
   "impactMetrics": [
     {
@@ -41,7 +44,7 @@
   "Tags": "",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Airdrop Hunter, Learning, Optimism Chain",
-  "pwCategory": "Community Building",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "This application should be flagged because it contains false statements & deception in the contribution links section and is outside of RetroPGF's rules, as no valid substantial contribution to the optimism community or ecosystem has been provided."
+  "pwFlaggedReason": "This application should be flagged because it contains false statements & deception in the contribution links section and is outside of RetroPGF's rules, as no valid substantial contribution to the optimism community or ecosystem has been provided.",
+  "pwCategory": "Community Building"
 }

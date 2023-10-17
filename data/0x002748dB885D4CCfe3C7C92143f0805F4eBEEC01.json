@@ -47,6 +47,6 @@
   "recategorizeReason": "NO. The application uses \"I\" and \"me\", indicating that it is from an individual, so it should be categorized as \"INDIVIDUAL\" instead of \"PROJECT\".",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Layer 2 Scaling",
-  "pwCategory": "Education",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwCategory": "Education"
 }

@@ -10,7 +10,9 @@
       "description": "Our project's Github (Entirely OPEN SOURCE)"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "Revolte, was introduced in March 2023, and within a short span until the end of September 2023, it has already facilitated the creation of more than 1600 new Web3 wallets. These wallets were instrumental in introducing users to the broader Web3 ecosystem, marking a significant milestone in our journey.\n\nHowever, it's important to emphasize that this is just the beginning of our impact. Our next endeavor is the launch of the upcoming chapter, which is dedicated to delving into the existing protocols on the mainnet. We aim to seamlessly integrate every interaction with these protocols into our narrative, ensuring that the experience remains captivating and engaging for our users.",
   "impactMetrics": [
     {
@@ -47,6 +49,6 @@
   "Tags": "",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Blockchain Gaming, Education, Web3",
-  "pwCategory": "Education",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwCategory": "Blockchain Education"
 }

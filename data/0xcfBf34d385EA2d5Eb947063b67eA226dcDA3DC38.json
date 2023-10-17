@@ -20,7 +20,9 @@
       "description": "Zora1155 contracts we use to deploy music-related content onchain"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "Benefits:\n\n- Tangible: Introduced musicians like SolSiete.eth and DavydMusic.eth to onchain publishing. Artists who never profited from social platforms now earn ETH.\n- Intangible: Simplified entry into the blockchain world, enhancing Optimism's user base and showcasing a user-friendly blockchain experience.\n\nBeneficiaries:\n- Musicians: e.g., Sol Siete, DavydMusic.\n- Collectives: Collaborated with MusicaW3 and Invest in Music.\n- Fans: sebas.eth and bosco.eth are active participants.\n\nMerging digital art's potential with Optimism's affordability, Onchain Magic empowers everyday musicians in the blockchain era.",
   "impactMetrics": [
     {
@@ -49,6 +51,6 @@
   "Tags": "",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Tokenization Platforms, Digital Identity, Blockchain Infrastructure, Blockchain Gaming",
-  "pwCategory": "Content Creation",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwCategory": "Content Creation"
 }

@@ -64,7 +64,7 @@
   "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Developer Ecosystem, End User Experience and Adoption, Data, Information, Knowledge, Education, Collective Governance",
-  "pwCategory": "Community Building",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "This application should be flagged because it is outside of RetroPGF's scope. The applicant mentions multiple transactions on the Optimism network and ownership of NFTs, but such user interactions are not within the scope of reward under the grants program."
+  "pwFlaggedReason": "This application should be flagged because it is outside of RetroPGF's scope. The applicant mentions multiple transactions on the Optimism network and ownership of NFTs, but such user interactions are not within the scope of reward under the grants program.",
+  "pwCategory": "End User Experience and Adoption"
 }

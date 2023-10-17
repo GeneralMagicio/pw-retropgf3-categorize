@@ -39,7 +39,7 @@
   "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "COLLECTIVE GOVERNANCE, DEVELOPER ECOSYSTEM, END USER EXPERIENCE AND ADOPTION, OP STACK",
-  "pwCategory": "This project description is not clear, it seems to be input mistakenly. Therefore, it cannot be categorized.",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "This application should be flagged for containing spam and irrelevant answers in the contribution and impact descriptions."
+  "pwFlaggedReason": "This application should be flagged for containing spam and irrelevant answers in the contribution and impact descriptions.",
+  "pwCategory": "The project description does not provide enough information about the project. Therefore it's impossible to assign a category."
 }

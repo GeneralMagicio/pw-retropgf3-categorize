@@ -10,7 +10,9 @@
       "description": "Claim"
     }
   ],
-  "impactCategory": ["COLLECTIVE_GOVERNANCE"],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
   "impactDescription": "Contributions to an \"optimism collective crypto\" likely refer to your involvement and efforts in a cryptocurrency community or project that is focused on promoting optimism, positivity, and constructive engagement within the cryptocurrency space. Here's how you might describe your contributions to such a collective:\n\nPositive Engagement: You actively participate in discussions and interactions within the cryptocurrency community, promoting a positive and respectful tone in online forums, social media groups, and chat channels. Your contributions aim to create a more welcoming and supportive environment for newcomers and experienced participants alike.\n",
   "impactMetrics": [
     {
@@ -41,6 +43,6 @@
   "Tags": "COLLECTIVE_GOVERNANCE",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Blockchain Infrastructure, Governance Tokens",
-  "pwCategory": "Community Building",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwCategory": "Community Building"
 }

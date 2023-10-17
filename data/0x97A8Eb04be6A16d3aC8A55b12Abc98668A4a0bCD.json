@@ -57,7 +57,7 @@
   "Tags": "",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Blockchain Infrastructure",
-  "pwCategory": "Community Building",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "This application should be flagged for promising future impact and making a deceptive and potentially fraudulent claim. The contribution and impact descriptions are vague and do not clearly state past achievements or contributions in the Web3/Blockchain space. Furthermore, the applicant provides Github links that do not direct to valid pages about their project."
+  "pwFlaggedReason": "This application should be flagged for promising future impact and making a deceptive and potentially fraudulent claim. The contribution and impact descriptions are vague and do not clearly state past achievements or contributions in the Web3/Blockchain space. Furthermore, the applicant provides Github links that do not direct to valid pages about their project.",
+  "pwCategory": "This text does not correspond to a Web3/blockchain project."
 }

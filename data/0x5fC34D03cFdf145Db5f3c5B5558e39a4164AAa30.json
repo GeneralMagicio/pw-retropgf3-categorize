@@ -10,7 +10,9 @@
       "description": "An opinionated learning path for getting into speed with Blockchain."
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
   "impactDescription": "This is a community open initiative that have already supported at least 2,500 developers around the world to learn web3 and start contributing to the ecosystem. We believe that by being promoted by Optimism RPGF it could have an even larger impact, gauging the attention of more developers, reviewers and contributors.",
   "impactMetrics": [
     {
@@ -34,6 +36,6 @@
   "Tags": "",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Blockchain Education",
-  "pwCategory": "Education",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwCategory": "Blockchain Education"
 }

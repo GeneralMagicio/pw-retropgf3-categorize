@@ -55,7 +55,9 @@
       "description": "Thread about Ambassador Program"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "As I said translations into Russian and Ukrainian attract the Russian-speaking and Ukrainian-speaking community that lives all over the world. My main goal is to provide content for educational purposes and attract new users to Superchain by my educational content. You can see how many people was involved in Ambassador Program because of my thread (I give an impact metrics below)",
   "impactMetrics": [
     {
@@ -86,6 +88,6 @@
   "Tags": "END_USER_EXPERIENCE_AND_ADOPTION",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Smart Contract Platforms, Non-Fungible Tokens (NFTs), Content Creation, Community Engagement, Blockchain Education",
-  "pwCategory": "Education",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwCategory": "Education"
 }

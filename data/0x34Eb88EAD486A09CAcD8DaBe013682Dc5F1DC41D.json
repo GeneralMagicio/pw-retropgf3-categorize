@@ -10,7 +10,9 @@
       "description": "Github repository of the static analyzer"
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
   "impactDescription": "This repository has been used by many projects to run against their smart contracts and detect common vulnerabilities, participating in the global security of the ecosystem. But more importantly, many security researchers have used this codebase to build their own version and vulnerability detectors so it now powers a lot of these automated audit tools.",
   "impactMetrics": [
     {
@@ -39,6 +41,6 @@
   "Tags": "",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Smart Contract Security",
-  "pwCategory": "Developer Ecosystem",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwCategory": "Developer Ecosystem"
 }

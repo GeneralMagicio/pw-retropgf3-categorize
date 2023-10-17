@@ -46,7 +46,7 @@
   "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Tokenization Platforms, Digital Identity, Blockchain Gaming, Blockchain Infrastructure, Governance Tokens",
-  "pwCategory": "Non-Fungible Tokens",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "This application should be flagged for promises of future deliverables or impact which is against the Grant program rule 1. The applicant is hoping to get investment from the project which indicates a future intent or impact."
+  "pwFlaggedReason": "This application should be flagged for promises of future deliverables or impact which is against the Grant program rule 1. The applicant is hoping to get investment from the project which indicates a future intent or impact.",
+  "pwCategory": "Non-Fungible Tokens (NFTs)"
 }

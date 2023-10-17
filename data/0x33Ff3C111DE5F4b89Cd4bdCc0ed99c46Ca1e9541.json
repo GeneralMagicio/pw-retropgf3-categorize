@@ -10,7 +10,9 @@
       "description": "Top 176 collector on soundxyz"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "My shared links help others people know about music NFT and how they can easy be collected with very low fee on Optimism. I create new playlist to everyone can hear and collect easily. Also help other artists on chain by collect their songs, As a top collector, I appear in the next song of beach crimes https://www.sound.xyz/beachcrimes/fahrenheit. ",
   "impactMetrics": [
     {
@@ -41,6 +43,6 @@
   "Tags": "END_USER_EXPERIENCE_AND_ADOPTION",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "NFTs, Layer 2 Scaling, Digital Identity, Blockchain Gaming, END_USER_EXPERIENCE_AND_ADOPTION",
-  "pwCategory": "End User Experience",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwCategory": "Non-Fungible Tokens (NFTs)"
 }

@@ -39,7 +39,7 @@
   "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK",
-  "pwCategory": "Developer Ecosystem",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "This application should be flagged for false statements & deception, and possibly fraud & impersonation - the applicant is using a URL that seems to impersonate ethereum co-founder Vitalik Buterin."
+  "pwFlaggedReason": "This application should be flagged for false statements & deception, and possibly fraud & impersonation - the applicant is using a URL that seems to impersonate ethereum co-founder Vitalik Buterin.",
+  "pwCategory": "End User Experience and Adoption"
 }

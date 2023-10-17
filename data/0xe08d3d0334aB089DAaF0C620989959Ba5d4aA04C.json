@@ -10,7 +10,9 @@
       "description": "Defigourmet"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "The primary objective of the website is to aggregate all transactions from various protocols, including Layer 1 and Layer 2, onto a single platform. The primary benefit is to enhance the user experience for both professional and non-professional Optimism users, allowing them to easily track all their protocol activities.",
   "impactMetrics": [
     {
@@ -35,6 +37,6 @@
   "recategorizeReason": "NO, the application is incorrectly categorized as it specifies that he is working alone on his website, indicating this should be an \"INDIVIDUAL\" applicant, not a \"PROJECT\".",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Layer 1&2 Transactions Tracker",
-  "pwCategory": "End User Experience",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwCategory": "End User Experience and Adoption"
 }

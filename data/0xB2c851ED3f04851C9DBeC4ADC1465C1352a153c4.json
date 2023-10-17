@@ -39,7 +39,7 @@
   "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Collective Governance, Developer Ecosystem, End User Experience and Adoption, Op Stack",
-  "pwCategory": "Developer Ecosystem",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "This application should be flagged for having irrelevant and nonsensical answers, violating Rule 11."
+  "pwFlaggedReason": "This application should be flagged for having irrelevant and nonsensical answers, violating Rule 11.",
+  "pwCategory": "Developer Ecosystem"
 }

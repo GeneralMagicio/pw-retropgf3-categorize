@@ -10,7 +10,9 @@
       "description": "A few TX and nfts"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "Nothing extraordinary, just travelling in the ecosystem, acquiring an optimist nft,...\nTrying transactions, governance, swaps,...\nObserving the good progress.\nLoving the done work here.\nLike a user.\nA web3 enthusiastic.\nA web content creator.\nA collector.\nA lover.\nAn optimist.",
   "impactMetrics": [
     {
@@ -41,6 +43,6 @@
   "Tags": "END_USER_EXPERIENCE_AND_ADOPTION",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Blockchain Infrastructure",
-  "pwCategory": "End User Experience",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwCategory": "End User Experience and Adoption"
 }

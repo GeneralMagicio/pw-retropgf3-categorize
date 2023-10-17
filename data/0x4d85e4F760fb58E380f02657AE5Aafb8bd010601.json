@@ -35,7 +35,10 @@
       "description": "My Lens where I share some optimism content "
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION", "OP_STACK"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
   "impactDescription": "Education is crucial to bringing in new users and helping existing users make informed decisions about how and why they engage with blockchain, DeFi, and web3. I believe in these technologies and the social movements they can enable, and because my vision is so clearly aligned with that of the Optimism Collective, I've evagnelized substantially. What's more, I'm an accomplished writer in the web3 space having worked with many many projects and I've made a name for myself as an educator and content creator of quality. I believe that to date, no one has written a more detailed and informative piece of content about the OP Stack than I have and my piece was well received even without ever making it into any of Optimism's feeds (which would have amplified it substantially). ",
   "impactMetrics": [
     {
@@ -81,6 +84,6 @@
   "Tags": "END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Education, Content Creation, End User Experience and Adoption, OP Stack",
-  "pwCategory": "Education",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwCategory": "Education"
 }

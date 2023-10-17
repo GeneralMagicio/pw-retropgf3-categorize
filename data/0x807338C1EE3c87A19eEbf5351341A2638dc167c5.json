@@ -15,7 +15,10 @@
       "description": "0x1Acf291daFc2B47914aAA9F85667c3808c3Fad96"
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "i use optimism every time, i like this ecosystem. close to be feesless. quick transaction. the value of the coin still to be undervaluated. i like the decentralisation, the security from this network .... possible to have a great future if the network get a great popularity",
   "impactMetrics": [
     {
@@ -46,7 +49,7 @@
   "Tags": "DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Developer Ecosystem, End user experience and adoption",
-  "pwCategory": "Layer 2 Scaling",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "Flagged: This application violates Grant program rules 1 and 10, due to the applicant making promises of the network's great potential future and their activity not being described as something requiring a minimum time commitment of 1 hour, instead, they just express liking and using the network."
+  "pwFlaggedReason": "Flagged: This application violates Grant program rules 1 and 10, due to the applicant making promises of the network's great potential future and their activity not being described as something requiring a minimum time commitment of 1 hour, instead, they just express liking and using the network.",
+  "pwCategory": "End User Experience and Adoption"
 }

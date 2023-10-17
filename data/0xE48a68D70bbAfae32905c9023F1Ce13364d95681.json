@@ -10,7 +10,10 @@
       "description": "what you need to know about Retro PGF"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION", "OP_STACK"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
   "impactDescription": "my contribution plays a vital role in advancing Optimism's goals, from awareness and community building to technology adoption and ecosystem development.\nIncreasing Awareness: my content educates others about Optimism, expanding its reach and fostering understanding.\nCommunity Growth: It attracts more users, developers, and contributors, bolstering the Optimism community.",
   "impactMetrics": [
     {
@@ -41,6 +44,6 @@
   "Tags": "END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Community Growth, Increasing Awareness, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK",
-  "pwCategory": "Education",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwCategory": "Community Building"
 }

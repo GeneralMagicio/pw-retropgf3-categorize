@@ -46,7 +46,7 @@
   "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Developer Ecosystem, End User Experience and Adoption, OP_STACK, Collective Governance",
-  "pwCategory": "Developer Ecosystem",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "This application should be flagged because it promises of future impact and deliverables with statements like \"I still have a lot to do...\" and \"study hard for the future development of the blockchain,\" which are against the Grant Program Rules."
+  "pwFlaggedReason": "This application should be flagged because it promises of future impact and deliverables with statements like \"I still have a lot to do...\" and \"study hard for the future development of the blockchain,\" which are against the Grant Program Rules.",
+  "pwCategory": "Layer 2 Scaling"
 }

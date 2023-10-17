@@ -10,7 +10,9 @@
       "description": "My twitter account that keep educating ppl about value investing in crypto"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "promote the value investing in crypto to thai community. The commitment is to continue educating thai people about the tech stack of Optimism both in terms of infrastructure that gear toward decentralized sequencers with value accrual to OP stakers as well as the valuable ecosystems that connect dapps together and could make use of the full potential of OVM/EVM.",
   "impactMetrics": [
     {
@@ -44,6 +46,6 @@
   "Tags": "END_USER_EXPERIENCE_AND_ADOPTION",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Blockchain Education, Value Investing, Crypto Awareness",
-  "pwCategory": "Education",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwCategory": "Education"
 }

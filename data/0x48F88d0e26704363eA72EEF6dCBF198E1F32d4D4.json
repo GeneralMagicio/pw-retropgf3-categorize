@@ -39,7 +39,7 @@
   "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Web3 Framework",
-  "pwCategory": "Community Building",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "The application should be flagged because the content is not in English, which violates Rule 11."
+  "pwFlaggedReason": "The application should be flagged because the content is not in English, which violates Rule 11.",
+  "pwCategory": "Community Building"
 }

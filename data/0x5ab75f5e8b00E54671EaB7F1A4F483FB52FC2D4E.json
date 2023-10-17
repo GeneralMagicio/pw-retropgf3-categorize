@@ -46,7 +46,7 @@
   "recategorizeReason": "NO, it's an application from an individual as the applicant uses first person pronouns such as \"I\" and \"me\" in the description.",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "COLLECTIVE_GOVERNANCE, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK",
-  "pwCategory": "Governance Tokens",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "Flagged: The application primarily mentions contributions through 'delegation of votes' which does not meet the minimum time commitment requirement mentioned in the grant program rules."
+  "pwFlaggedReason": "Flagged: The application primarily mentions contributions through 'delegation of votes' which does not meet the minimum time commitment requirement mentioned in the grant program rules.",
+  "pwCategory": "Collective Governance"
 }

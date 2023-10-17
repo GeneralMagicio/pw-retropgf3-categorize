@@ -10,7 +10,9 @@
       "description": "optimism and minimalist world"
     }
   ],
-  "impactCategory": ["COLLECTIVE_GOVERNANCE"],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
   "impactDescription": "I've had the privilege of visually documenting their important work over the past year. While the tech itself is groundbreaking, through my lens I've sought to capture the powerful human impact as well.\n\nSome of my photos from their community events and workshops have really helped spread awareness of the Collective's role in furthering blockchain accessibility. Sharing images of their educational sessions has inspired more people from diverse backgrounds to get involved.",
   "impactMetrics": [
     {
@@ -41,6 +43,6 @@
   "Tags": "COLLECTIVE_GOVERNANCE",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Governance Tokens",
-  "pwCategory": "Content Creation",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwCategory": "Community Building"
 }

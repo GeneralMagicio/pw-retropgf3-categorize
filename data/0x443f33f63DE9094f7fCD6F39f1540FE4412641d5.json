@@ -47,7 +47,7 @@
   "recategorizeReason": "NO, the application is not correctly categorized because it frequently uses first-person pronouns such as \"I\" and \"my\", indicating an individual applicant rather than a project.",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK",
-  "pwCategory": "Community Building",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "The application should be flagged due to violation of the rule number 1, as it is making promises of future deliverables or impact which is not allowed according to the grant program rules."
+  "pwFlaggedReason": "The application should be flagged due to violation of the rule number 1, as it is making promises of future deliverables or impact which is not allowed according to the grant program rules.",
+  "pwCategory": "End User Experience and Adoption"
 }

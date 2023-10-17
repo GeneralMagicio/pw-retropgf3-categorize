@@ -10,7 +10,9 @@
       "description": "This is the main PR where the bulk of the work has been done."
     }
   ],
-  "impactCategory": ["OP_STACK"],
+  "impactCategory": [
+    "OP_STACK"
+  ],
   "impactDescription": "These contributions will hopefully enable a more performant OP Stack which will ultimately allow the Optimism Collective to scale its vision to the masses. We intend to continue maintaining this work and make sure that it keeps up with any changes that the OP Stack has over the next years.",
   "impactMetrics": [
     {
@@ -34,6 +36,6 @@
   "Tags": "",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Layer 2 Scaling, Smart Contract Platforms, Blockchain Infrastructure",
-  "pwCategory": "Blockchain Infrastructure",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwCategory": "Blockchain Infrastructure"
 }

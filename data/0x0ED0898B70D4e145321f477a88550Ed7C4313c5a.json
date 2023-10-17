@@ -10,7 +10,10 @@
       "description": "media"
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "Contributing to economic experiments that will help centralize and grow crypto ecosystems and get better.Contributing to economic experiments that will help centralize and grow crypto ecosystems and introducing.Contributing to economic experiments that will help centralize and grow crypto ecosystems and introducing.Contributing to economic experiments that will help centralize and grow crypto ecosystems and introducing.Contributing to economic experiments that will help centralize and grow crypto ecosystems and introducing.",
   "impactMetrics": [
     {
@@ -34,7 +37,7 @@
   "Tags": "DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Developer Ecosystem, End User Experience and Adoption",
-  "pwCategory": "Developer Ecosystem",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "The application should be flagged for spam due to the repetition of phrases in both the \"contributionDescription\" and \"impactDescription\" sections."
+  "pwFlaggedReason": "The application should be flagged for spam due to the repetition of phrases in both the \"contributionDescription\" and \"impactDescription\" sections.",
+  "pwCategory": "Developer Ecosystem"
 }

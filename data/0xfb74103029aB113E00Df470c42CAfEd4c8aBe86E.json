@@ -15,7 +15,9 @@
       "description": "go-ethereum-hdwallet library forked by Optimism"
     }
   ],
-  "impactCategory": ["OP_STACK"],
+  "impactCategory": [
+    "OP_STACK"
+  ],
   "impactDescription": "The go-ethereum-hdwallet library has been included in the OP Stack since 2022 and remains in use by the Optimism sequencer service. Its adoption in 900+ Go projects on Github shows its broad impact, reliability, and functionality in the wider ecosystem.",
   "impactMetrics": [
     {
@@ -44,6 +46,6 @@
   "Tags": "",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Smart Contract Platforms",
-  "pwCategory": "Developer Ecosystem",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwCategory": "Developer Ecosystem"
 }

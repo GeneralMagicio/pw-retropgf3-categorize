@@ -10,7 +10,9 @@
       "description": "My history onchain activity"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "By actively engaging with these projects and sharing my insights, I aim to contribute to the growth and maturation of the crypto industry, fostering a more secure and user-friendly environment for all participants. My commitment to testing and feedback underscores my belief in the transformative potential of blockchain technology and its ability to revolutionize various sectors beyond finance.",
   "impactMetrics": [
     {
@@ -53,6 +55,6 @@
   "Tags": "END_USER_EXPERIENCE_AND_ADOPTION",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "User Experience and Adoption",
-  "pwCategory": "End User Experience",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwCategory": "Web3 Advocacy"
 }

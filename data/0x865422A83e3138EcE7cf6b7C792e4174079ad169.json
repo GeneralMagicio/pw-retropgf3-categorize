@@ -39,7 +39,7 @@
   "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, COLLECTIVE_GOVERNANCE, OP_STACK",
-  "pwCategory": "Education",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "This application should be flagged for spam due to the presence of irrelevant answers and broken English which fails to clearly detail the applicant's contributions or impact in the Web3/blockchain space."
+  "pwFlaggedReason": "This application should be flagged for spam due to the presence of irrelevant answers and broken English which fails to clearly detail the applicant's contributions or impact in the Web3/blockchain space.",
+  "pwCategory": "Education"
 }

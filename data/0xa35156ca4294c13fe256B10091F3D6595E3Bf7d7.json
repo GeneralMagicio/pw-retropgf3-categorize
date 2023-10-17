@@ -40,7 +40,9 @@
       "description": "User feedback #4"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "Tiles was used by the Farcaster team to introduce the beta of their \"in-app purchases for onchain actions\" feature on the Warpcast iOS app. This is a huge unlock from a UX perspective for the crypto industry as users can now complete onchain actions without touching crypto at all. For instance, users can choose Apple Pay to purchase signers when they connect their accounts to other clients built on top of Farcaster. This extends to other onchain actions such as signing up for an account, recovering an account, and paying for storage. As many teams build consumer experiences on top of the Superchain ecosystem, this type of UX will be essential in onboarding the next wave of users who are new to the space and aren't as crypto-savvy.",
   "impactMetrics": [
     {
@@ -69,6 +71,6 @@
   "Tags": "END_USER_EXPERIENCE_AND_ADOPTION",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Digital Identity, NFTs, END_USER_EXPERIENCE_AND_ADOPTION",
-  "pwCategory": "End User Experience",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwCategory": "End User Experience and Adoption"
 }

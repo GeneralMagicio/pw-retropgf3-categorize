@@ -10,7 +10,9 @@
       "description": "sssss"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "The more users using the dashboards, they have more understanding with Optimism Collection. The more users using the dashboards, they have more understanding with Optimism Collection. The more users using the dashboards, they have more understanding with Optimism Collection. The more users using the dashboards, they have more understanding with Optimism Collection. The more users using the dashboards, they have more understanding with Optimism Collection. ",
   "impactMetrics": [
     {
@@ -41,6 +43,6 @@
   "Tags": "END_USER_EXPERIENCE_AND_ADOPTION",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "END_USER_EXPERIENCE_AND_ADOPTION",
-  "pwCategory": "End User Experience",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwCategory": "End User Experience and Adoption"
 }

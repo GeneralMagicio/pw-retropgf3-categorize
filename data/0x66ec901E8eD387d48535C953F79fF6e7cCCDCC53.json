@@ -39,7 +39,7 @@
   "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Social Trading, Marketing, User Adoption",
-  "pwCategory": "End User Experience",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "Flagged: The application is not describing a tangible and specific contribution to Optimism community. User interactions such as sending transactions are not in scope to be rewarded in RetroPGF 3, which this application seems to primarily focus on."
+  "pwFlaggedReason": "Flagged: The application is not describing a tangible and specific contribution to Optimism community. User interactions such as sending transactions are not in scope to be rewarded in RetroPGF 3, which this application seems to primarily focus on.",
+  "pwCategory": "End User Experience and Adoption"
 }

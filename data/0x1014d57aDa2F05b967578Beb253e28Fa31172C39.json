@@ -46,6 +46,6 @@
   "recategorizeReason": "NO, it is not correctly categorized. The application should be categorized as \"INDIVIDUAL\" as they use terms such as \"I\" and \"me\".",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "NFTs, Collective Governance, End User Experience and Adoption, OP Stack",
-  "pwCategory": "Community Building",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwCategory": "Community Building"
 }

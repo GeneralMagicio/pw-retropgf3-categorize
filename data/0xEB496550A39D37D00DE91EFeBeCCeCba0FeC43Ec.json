@@ -15,7 +15,9 @@
       "description": "Twitter"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "Thanks to me, many people learned about the Optimism network! Someone passed it on to their loved ones and someone started using Optimism and cryptocurrency in general, which generally affects the development of both the Optimism network and the cryptocurrency market as a whole!",
   "impactMetrics": [
     {
@@ -45,6 +47,6 @@
   "recategorizeReason": "NO. The application is incorrectly categorized. It is about an individual as inferred from the use of \"I\" and \"me\" in the text.",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "End User Experience and Adoption",
-  "pwCategory": "Community Building",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwCategory": "Web3 Advocacy"
 }

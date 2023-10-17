@@ -10,7 +10,9 @@
       "description": "n/a word of mouth with family and friends"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "Through my humble contributions to the Optimism Collective, I've had the privilege of witnessing a noticeable positive impact. It's been heartwarming to see how my modest efforts to raise awareness and encourage adoption have resonated within my little sphere of influence. Slowly but surely, more individuals have become interested in Optimism, leading to a gentle expansion of its ecosystem.",
   "impactMetrics": [
     {
@@ -41,6 +43,6 @@
   "Tags": "END_USER_EXPERIENCE_AND_ADOPTION",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Layer 2 Scaling, Smart Contract Platforms, Community Building",
-  "pwCategory": "Community Building",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwCategory": "Web3 Advocacy"
 }

@@ -10,7 +10,9 @@
       "description": "My profile on sound.xyz"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "I am an early supporter of web3 artists and have minted many of their music releases on web3 music platforms. I am thrilled that the leading music platform, Sound.xyz, has transitioned to the OP chain, further affirming the potential and future of web3 music. I am excited to be a part of this community and share the unique musical works of web3 artists. Additionally, I have introduced many friends to join the #MusicNFT movement and support independent artists. I believe that spreading awareness and encouraging others to join this community will contribute to the growth and prosperity of web3 music. I am proud to be a part of the web3 music revolution and will continue to support and participate in its development, as well as the development of the OP chain.",
   "impactMetrics": [
     {
@@ -39,6 +41,6 @@
   "Tags": "END_USER_EXPERIENCE_AND_ADOPTION",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Decentralized Music Platforms",
-  "pwCategory": "User Adoption",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwCategory": "End User Experience and Adoption"
 }

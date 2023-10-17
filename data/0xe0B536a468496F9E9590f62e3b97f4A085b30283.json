@@ -40,7 +40,7 @@
   "recategorizeReason": "NO. The application should be categorized as \"PROJECT\" because the applicant provides a Github repository link and talks about \"us\", implying a team or project rather than an individual.",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Decentralized Finance (DeFi)",
-  "pwCategory": "Community Building",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "This application should be flagged for violating the rule on promises of future impact. The statements in the applicant's description and impact description express an enthusiasm for future participation and impact, but do not specify any past or present contributions to the Web3/blockchain space."
+  "pwFlaggedReason": "This application should be flagged for violating the rule on promises of future impact. The statements in the applicant's description and impact description express an enthusiasm for future participation and impact, but do not specify any past or present contributions to the Web3/blockchain space.",
+  "pwCategory": "Community Building"
 }

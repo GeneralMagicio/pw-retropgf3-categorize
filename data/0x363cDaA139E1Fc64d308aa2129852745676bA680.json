@@ -64,6 +64,6 @@
   "Tags": "DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "EDUCATIONAL_OPPORTUNITIES, BLOCKCHAIN_WORKSHOPS, OPTIMISM_ADOPTION, ONBOARDING_BUILDERS, UNIVERSITY_COLLABORATION",
-  "pwCategory": "Blockchain Education",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwCategory": "Blockchain Education"
 }

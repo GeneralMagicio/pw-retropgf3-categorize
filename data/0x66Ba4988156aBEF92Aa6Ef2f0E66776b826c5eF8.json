@@ -40,7 +40,7 @@
   "recategorizeReason": "NO. The application talks about tasks and contributions that look like a project, rather than an individual's work.",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK",
-  "pwCategory": "Community Building",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "The application should be flagged as it seems to be using the grant for a form of advertising purposes like an airdrop which violates rule number 6: Advertising - Using RetroPGF application to showcase something you are selling like a token sale or NFT drop."
+  "pwFlaggedReason": "The application should be flagged as it seems to be using the grant for a form of advertising purposes like an airdrop which violates rule number 6: Advertising - Using RetroPGF application to showcase something you are selling like a token sale or NFT drop.",
+  "pwCategory": "Community Building"
 }

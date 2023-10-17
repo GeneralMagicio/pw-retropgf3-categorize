@@ -10,7 +10,10 @@
       "description": "Optimism collective (Hello world)"
     }
   ],
-  "impactCategory": ["COLLECTIVE_GOVERNANCE", "OP_STACK"],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "OP_STACK"
+  ],
   "impactDescription": "I did some tasks and claimed some collectives with transactions in helping to build a stronger security, friendly ecosystem and a sleek operation on the Optimism ecosystem. \nNot forgetting the i also helped to maintain a friendly interaction in the Optimism community channel leading to the growth",
   "impactMetrics": [
     {
@@ -41,6 +44,6 @@
   "Tags": "COLLECTIVE_GOVERNANCE, OP_STACK",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Governance Tokens",
-  "pwCategory": "Community Building",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwCategory": "Community Building"
 }

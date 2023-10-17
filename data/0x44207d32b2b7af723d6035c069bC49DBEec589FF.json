@@ -44,7 +44,7 @@
   "Tags": "COLLECTIVE_GOVERNANCE, END_USER_EXPERIENCE_AND_ADOPTION",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Collective Governance, End User Experience and Adoption",
-  "pwCategory": "Governance Tokens",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "This application should be flagged for spam as the contribution description and impact description are repetitive and do not provide specific details about the contribution's impact or what was actually done."
+  "pwFlaggedReason": "This application should be flagged for spam as the contribution description and impact description are repetitive and do not provide specific details about the contribution's impact or what was actually done.",
+  "pwCategory": "Collective Governance"
 }

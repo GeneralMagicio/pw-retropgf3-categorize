@@ -39,7 +39,7 @@
   "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK",
-  "pwCategory": "Governance Tokens",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "Flagged for spam due to the unclear and vague project description and lack of concrete details about its impact or contribution to the Web3/blockchain space."
+  "pwFlaggedReason": "Flagged for spam due to the unclear and vague project description and lack of concrete details about its impact or contribution to the Web3/blockchain space.",
+  "pwCategory": "Governance Tokens"
 }

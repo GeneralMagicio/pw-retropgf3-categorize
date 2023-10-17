@@ -63,7 +63,7 @@
   "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Layer 2 Scaling, Governance Tokens, Developer Ecosystem, End User Experience and Adoption",
-  "pwCategory": "Community Building",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "This application should be flagged for violating the first rule of the grant program, as the applicant promises future impact and deliverables in their contribution description and impact description."
+  "pwFlaggedReason": "This application should be flagged for violating the first rule of the grant program, as the applicant promises future impact and deliverables in their contribution description and impact description.",
+  "pwCategory": "Community Building"
 }

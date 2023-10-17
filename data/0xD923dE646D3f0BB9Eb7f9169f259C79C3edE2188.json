@@ -10,7 +10,9 @@
       "description": "Op army"
     }
   ],
-  "impactCategory": ["COLLECTIVE_GOVERNANCE"],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
   "impactDescription": "In my country, Thailand, I see injustice, corruption, monopoly, and small capital cannot fight against monopoly capital. I want to see a future world with transparency and antitrust. It can make small people fight against big capitalists. I want to see fairness in society and hope OP will be like that.",
   "impactMetrics": [
     {
@@ -41,7 +43,7 @@
   "Tags": "COLLECTIVE_GOVERNANCE",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Digital Identity, Governance Tokens",
-  "pwCategory": "Community Building",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "This application should be flagged for violating rule 1. The applicant promises future activities (\"I will use OP every day and will invite friends\") and impact."
+  "pwFlaggedReason": "This application should be flagged for violating rule 1. The applicant promises future activities (\"I will use OP every day and will invite friends\") and impact.",
+  "pwCategory": "Collective Governance"
 }

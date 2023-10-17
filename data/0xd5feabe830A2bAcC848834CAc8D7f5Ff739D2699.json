@@ -46,6 +46,6 @@
   "recategorizeReason": "NO. The application is a project, not an individual, as suggested by the language and the services provided.",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Web3 Infrastructure, Blockchain Tools, Cryptocurrency Services",
-  "pwCategory": "Blockchain Infrastructure",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwCategory": "Blockchain Infrastructure"
 }

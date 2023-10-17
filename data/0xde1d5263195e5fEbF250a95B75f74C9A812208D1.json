@@ -39,7 +39,7 @@
   "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK",
-  "pwCategory": "Decentralized Finance",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "The application should be flagged because it's in a language other than English which is against the rules."
+  "pwFlaggedReason": "The application should be flagged because it's in a language other than English which is against the rules.",
+  "pwCategory": "Layer 2 Scaling"
 }

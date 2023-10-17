@@ -47,7 +47,7 @@
   "recategorizeReason": "NO, the application is not correctly categorized because the applicant refers to themselves as \"I\", indicating that the applicant is an individual, not a project.",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Governance Tokens",
-  "pwCategory": "Community Building",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "The application should be flagged for violating rule number 11, as portions of the application are not in English."
+  "pwFlaggedReason": "The application should be flagged for violating rule number 11, as portions of the application are not in English.",
+  "pwCategory": "Community Building"
 }

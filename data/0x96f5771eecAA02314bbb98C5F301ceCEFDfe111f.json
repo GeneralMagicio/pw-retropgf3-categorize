@@ -10,7 +10,9 @@
       "description": "This All of my Tx."
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "I have a tons of experience in web-3, On backdoor or another hand i know which way to drive community every user, They want to be a part in Optimism environment and They want to be an incentive , example made some event and rewards and this rewards It's doesn't matter big reward but we emphasize having many people to join in.",
   "impactMetrics": [
     {
@@ -34,6 +36,6 @@
   "Tags": "END_USER_EXPERIENCE_AND_ADOPTION",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Decentralized Communities, User Engagement",
-  "pwCategory": "Community Building",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwCategory": "Community Building"
 }

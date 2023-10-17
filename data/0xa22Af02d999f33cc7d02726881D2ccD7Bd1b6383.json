@@ -10,7 +10,9 @@
       "description": "this is some of my transaction"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "my friend got interested on this project, so that we can work together to make this project bigger and more of my to become work on this project too. hope this RetroPGF Round 3 could be done so smoothly so our comunity can enjoy and happy about this project. thankyou",
   "impactMetrics": [
     {
@@ -41,6 +43,6 @@
   "Tags": "END_USER_EXPERIENCE_AND_ADOPTION",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Smart Contract Platforms, Cross-Chain Platforms, RetroPGF, Community, Project Development",
-  "pwCategory": "End User Experience",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwCategory": "End User Experience and Adoption"
 }

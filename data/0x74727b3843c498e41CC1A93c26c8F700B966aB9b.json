@@ -39,7 +39,7 @@
   "Tags": "",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Layer 2 Scaling, Blockchain Infrastructure",
-  "pwCategory": "Cross-Chain Platforms",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "Flagged for violating rule 1. The application contains promises of future impact on the blockchain space."
+  "pwFlaggedReason": "Flagged for violating rule 1. The application contains promises of future impact on the blockchain space.",
+  "pwCategory": "Cross-Chain Platforms"
 }

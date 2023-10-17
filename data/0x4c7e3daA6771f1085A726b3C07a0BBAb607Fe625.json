@@ -10,7 +10,9 @@
       "description": "NFT Artist Interviews"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "I've attracted more people to use Mirror and in turn the OPTIMISM network. \nBy getting people to appreciate the possibility of blogging on the blockchain is a big win for the ecosystem. It is a web3app that is perfect for people that like to write and share their musings with the opportunity of purchasing them as an NFT. ",
   "impactMetrics": [
     {
@@ -41,6 +43,6 @@
   "Tags": "END_USER_EXPERIENCE_AND_ADOPTION",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "NFTs, Web3app, END_USER_EXPERIENCE_AND_ADOPTION",
-  "pwCategory": "Content Creation",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwCategory": "End User Experience and Adoption"
 }

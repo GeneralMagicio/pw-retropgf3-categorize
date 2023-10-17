@@ -10,7 +10,10 @@
       "description": "Aggregated funding rate stats"
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "The attached metrics show that https://r72.fi/'s top 3 active pages including Perpetual Protocol and Kwenta throughout the past 1 year (Actually, https://r72.fi has helped Perpetual Protocol user to know their funding rate stats since 2021.). r72.fi is just a small site (DAU 10ish, MAU 100ish) and impacts quite a lot of Perpetual Protocol and Kwenta users.",
   "impactMetrics": [
     {
@@ -41,6 +44,6 @@
   "Tags": "DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Decentralized Finance (DeFi), On-Chain Analytics, User Experience and Adoption",
-  "pwCategory": "End User Experience",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwCategory": "End User Experience and Adoption"
 }

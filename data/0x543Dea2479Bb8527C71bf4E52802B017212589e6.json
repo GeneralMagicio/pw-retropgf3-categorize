@@ -35,7 +35,9 @@
       "description": "One of our tweets to announce one of Optimism's news"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "Thanks to our various articles, we've enabled the French-speaking community to discover Optimism through a medium in which they have full confidence.\n\nWe've enabled them to understand how Optimism works and its relevance to today's challenges, to learn how to interact with the ecosystem, and to follow the project's news on a regular basis.\n\nWe also covered the launch of the token to highlight its potential interest for investors and regular DeFi users.\n\nWe are likely to have redirected our community of 10 million readers (in 2022) towards Optimism in a neutral, objective but enthusiastic way. ",
   "impactMetrics": [
     {
@@ -64,6 +66,6 @@
   "Tags": "END_USER_EXPERIENCE_AND_ADOPTION",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Layer 2 Scaling, Education and Information, Media, Optimistic Rollups",
-  "pwCategory": "Digital Media",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwCategory": "Blockchain Education"
 }

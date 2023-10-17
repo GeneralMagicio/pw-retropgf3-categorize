@@ -46,7 +46,7 @@
   "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Governance Tokens, Developer Ecosystem, End User Experience and Adoption, Layer 2 Scaling",
-  "pwCategory": "User Adoption",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "This application should be flagged for promising future impact, which is in violation of rule one. The applicant speaks about hopes and expectations for the future, such as hoping that Optimism will be used in the banking system and claiming that Optimism will have a faster and cheaper gas fee by 2024."
+  "pwFlaggedReason": "This application should be flagged for promising future impact, which is in violation of rule one. The applicant speaks about hopes and expectations for the future, such as hoping that Optimism will be used in the banking system and claiming that Optimism will have a faster and cheaper gas fee by 2024.",
+  "pwCategory": "End User Experience and Adoption"
 }

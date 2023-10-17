@@ -45,7 +45,7 @@
   "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION",
-  "pwCategory": "Developer Ecosystem",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "The application should be flagged because it violates the rule against \"Promises of future impact\". The applicant states they \"will try to create metaverse with a game hub\", which is a promise of a future deliverable."
+  "pwFlaggedReason": "The application should be flagged because it violates the rule against \"Promises of future impact\". The applicant states they \"will try to create metaverse with a game hub\", which is a promise of a future deliverable.",
+  "pwCategory": "Blockchain Gaming"
 }

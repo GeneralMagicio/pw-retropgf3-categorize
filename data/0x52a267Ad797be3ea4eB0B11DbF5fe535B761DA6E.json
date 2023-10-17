@@ -39,7 +39,7 @@
   "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Layer 2 Scaling, Governance Tokens, Blockchain Infrastructure, Developer Ecosystem",
-  "pwCategory": "Developer Ecosystem",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "The application should be flagged for being spam because the provided contribution and impact sentences are incoherent and contain jumbled letters and words."
+  "pwFlaggedReason": "The application should be flagged for being spam because the provided contribution and impact sentences are incoherent and contain jumbled letters and words.",
+  "pwCategory": "Developer Ecosystem"
 }

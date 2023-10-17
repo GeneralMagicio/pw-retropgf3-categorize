@@ -15,7 +15,9 @@
       "description": "My medium account"
     }
   ],
-  "impactCategory": ["COLLECTIVE_GOVERNANCE"],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
   "impactDescription": "I firmly believe that informed decision-making is the cornerstone of effective governance. To contribute to this, I will meticulously research and analyze proposals, protocol changes, and community discussions. By staying well-informed, I aim to provide valuable insights and cast well-considered votes. and I will actively seek partnerships and collaboration opportunities with other projects and platforms to strengthen the Optimism ecosystem. and I wil prioritize the long-term health and sustainability of the Optimism ecosystem, making decisions that prioritize the best interests of the community and the broader blockchain space. ",
   "impactMetrics": [
     {
@@ -46,7 +48,7 @@
   "Tags": "COLLECTIVE_GOVERNANCE",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Community Building and Engagement, Collaborative Initiatives, Respect and Mentorship, Staying Informed and Adaptive",
-  "pwCategory": "Community Building",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "The application should be flagged because it violates the rule of \"Promises of future impact\". The applicant is promising future contributions like community building and engagement, collaborative intitiatives, respect and mentorship, and staying informed and adaptive, which are not allowed according to the rules."
+  "pwFlaggedReason": "The application should be flagged because it violates the rule of \"Promises of future impact\". The applicant is promising future contributions like community building and engagement, collaborative intitiatives, respect and mentorship, and staying informed and adaptive, which are not allowed according to the rules.",
+  "pwCategory": "Collective Governance"
 }

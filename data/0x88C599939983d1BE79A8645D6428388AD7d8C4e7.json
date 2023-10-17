@@ -46,7 +46,7 @@
   "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK",
-  "pwCategory": "Developer Ecosystem",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "This application should be flagged for violating the rule against promises of future impact. The applicant repeatedly claims to contribute to the development of the project in the future, without providing specific examples of past or current impact."
+  "pwFlaggedReason": "This application should be flagged for violating the rule against promises of future impact. The applicant repeatedly claims to contribute to the development of the project in the future, without providing specific examples of past or current impact.",
+  "pwCategory": "Developer Ecosystem"
 }

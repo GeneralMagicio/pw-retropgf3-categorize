@@ -15,7 +15,9 @@
       "description": "Twitter thread"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "My job is to help new users understand Optimism's technology, I've translated over 40 blog articles into French and I've created several twitter threads, my content has allowed the French Optimism community who don't speak English well to understand and follow Optimism's evolution through the different translated blog articles. \n",
   "impactMetrics": [
     {
@@ -56,6 +58,6 @@
   "Tags": "END_USER_EXPERIENCE_AND_ADOPTION",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "END_USER_EXPERIENCE_AND_ADOPTION",
-  "pwCategory": "Translation",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwCategory": "End User Experience and Adoption"
 }

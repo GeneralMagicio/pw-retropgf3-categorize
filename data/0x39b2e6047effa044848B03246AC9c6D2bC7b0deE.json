@@ -10,7 +10,9 @@
       "description": "Here I made few transaction"
     }
   ],
-  "impactCategory": ["OP_STACK"],
+  "impactCategory": [
+    "OP_STACK"
+  ],
   "impactDescription": "I’ve tried at least to make some transaction with optimism which has been a while now because i have heard about optimism for the past few years now and I made sure I did my possible best to make some money transactions on it buh it might not be of much amount buh I did few ",
   "impactMetrics": [
     {
@@ -34,7 +36,7 @@
   "Tags": "OP_STACK",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Layer 2 Scaling, Optimism",
-  "pwCategory": "End User Experience",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "Flagged: The application violates rule number 10 as it focuses on user interactions (sending transactions) which according to the guidelines are not considered valid contributions for the grant."
+  "pwFlaggedReason": "Flagged: The application violates rule number 10 as it focuses on user interactions (sending transactions) which according to the guidelines are not considered valid contributions for the grant.",
+  "pwCategory": "End User Experience and Adoption"
 }

@@ -10,7 +10,9 @@
       "description": "0x3c28CAEF950AE11973A007440929d0689d8eaD8D"
     }
   ],
-  "impactCategory": ["OP_STACK"],
+  "impactCategory": [
+    "OP_STACK"
+  ],
   "impactDescription": "i want to explore optimism ecosystem and improve op stack in RetroPGF \nRetroPGF is already having a huge impact in the ecosystem and changing the way people think about public goods\n\nThe Optimism Collective is executing on the core values that brought us to crypto in the first place: creating a self-sustaining ecosystem, where rewards are redistributed to the people directly responsible for growing and scaling the technology and values that power it. We're accomplishing this by rewarding contributions to the greater good through Retroactive Public Goods Funding–the mechanism used to reward past demonstrable positive impact to the Optimism Collective.",
   "impactMetrics": [
     {
@@ -42,7 +44,7 @@
   "recategorizeReason": "NO. The application is from an individual but they are talking about their involvement in a project named 'RetroPGF', as a result, it should be categorized as \"PROJECT\".",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Governance Tokens",
-  "pwCategory": "Developer Ecosystem",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "This application violates rule 1: promises of future impact. The applicant has not demonstrated any past impacts to the Optimism Collective but rather expresses intent to explore and improve the ecosystem in the future."
+  "pwFlaggedReason": "This application violates rule 1: promises of future impact. The applicant has not demonstrated any past impacts to the Optimism Collective but rather expresses intent to explore and improve the ecosystem in the future.",
+  "pwCategory": "Developer Ecosystem"
 }

@@ -35,7 +35,9 @@
       "description": "RetroPGF API and Client. MIT licensed"
     }
   ],
-  "impactCategory": ["COLLECTIVE_GOVERNANCE"],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
   "impactDescription": "By building the best-in-class governor contract & application for the Collective, we increased accountability, transparency, and decentralization for all projects in the Collective while maintaining high bars on accessibility and ease of use.\n\nWe have over 3,000 active delegate with profiles created on Optimism, along with over 400,000 votes casted and 100,000 unique monthly users. Over 1,000,000 delegation events have been made on Optimism.\n\nThrough on-chain Approval Voting, over 6M OP has been allocated to fund projects in Season 4 in a decentralized manner.\n\nOur app & contract are open source and MIT-licensed for any builder to leverage. Additionally, with the OP’s superchain coming into play — we plan to ship a 1 click deploy governance package for DAOs on top of OP Stack chains.",
   "impactMetrics": [
     {
@@ -110,6 +112,6 @@
   "Tags": "",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Governance Tokens, Smart Contract Platforms, Open Source, On-chain Voting, DAO",
-  "pwCategory": "Governance Tools",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwCategory": "Governance & Tokens"
 }

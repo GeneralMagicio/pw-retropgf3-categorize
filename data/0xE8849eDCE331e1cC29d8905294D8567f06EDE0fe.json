@@ -10,7 +10,10 @@
       "description": "Twitter. "
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "Consider contributing by investing in projects or initiatives that have already demonstrated their value and positive impact through Retroactive Public Goods Funding. Your financial support can help sustain and expand these endeavors, ensuring that resources are channeled to projects with proven worth. This contribution directly aligns with the concept's core principle of funding based on demonstrated outcomes, fostering innovation and accountability in resource allocation. Your investment can play a pivotal role in reshaping economic systems to prioritize efficiency and effectiveness in delivering public goods.",
   "impactMetrics": [
     {
@@ -41,7 +44,7 @@
   "Tags": "DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Smart Contract Platforms, Decentralized Finance (DeFi), Governance Tokens",
-  "pwCategory": "Community Building",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "Flagged: The applicant's contribution as described is intangible and involves vague promises of future investment in projects, violating rule 1."
+  "pwFlaggedReason": "Flagged: The applicant's contribution as described is intangible and involves vague promises of future investment in projects, violating rule 1.",
+  "pwCategory": "Community Building"
 }

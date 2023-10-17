@@ -15,7 +15,9 @@
       "description": "Twitter"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "As an community Leader I'm Guiding my community About Layer-2 Solutions And the best layer-2 Solution in the current market is none other than optimism.\nI'm having community of above 5000+ members/followers .\nI Guided 500+ members of my community personally about voting, DOA And at least +100  connected with me on this mission.\nWe are actively contributing towards optimism via Regularly participating on every voting .",
   "impactMetrics": [
     {
@@ -39,6 +41,6 @@
   "Tags": "END_USER_EXPERIENCE_AND_ADOPTION",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Layer 2 Scaling, Governance Tokens, Community Engagement",
-  "pwCategory": "Community Building",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwCategory": "End User Experience and Adoption"
 }

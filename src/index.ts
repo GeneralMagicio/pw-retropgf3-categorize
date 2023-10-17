@@ -4,6 +4,7 @@ import { intro, outro, select } from "@clack/prompts";
 
 import { categorizeApplications } from "./categorize-applications";
 import color from "picocolors";
+import { exportData } from "./exportData";
 import { fetchMetadataFiles } from "./fetch-metadata-files";
 import { generateCategoryLists } from "./generate-category-lists";
 import { identifyNoiseApplications } from "./identify-noise-applications";
@@ -53,6 +54,10 @@ async function selectYesNo(message: string): Promise<YesOrNo> {
           value: "categoriesWithIndividuals",
           label: "Print categories with individuals",
         },
+        {
+          value: "export",
+          label: "Export categorized applications, flagged applications, etc.",
+        },
         { value: "exit", label: "Exit" },
       ],
     });
@@ -88,6 +93,9 @@ async function selectYesNo(message: string): Promise<YesOrNo> {
         break;
       case "categoriesWithIndividuals":
         await printCategoriesWithApplications("INDIVIDUAL");
+        break;
+      case "export":
+        await exportData();
         break;
       case "exit":
         outro("Bye!");

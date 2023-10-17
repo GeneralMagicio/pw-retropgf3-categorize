@@ -70,7 +70,7 @@
   "Tags": "",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Mentorship, Education",
-  "pwCategory": "Education",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "The application should be flagged for promising future impact - the applicant states \"I can introduce optimism to new users and mentor them...\" which indicates a future activity or contribution rather than a past or ongoing impact."
+  "pwFlaggedReason": "The application should be flagged for promising future impact - the applicant states \"I can introduce optimism to new users and mentor them...\" which indicates a future activity or contribution rather than a past or ongoing impact.",
+  "pwCategory": "Education"
 }

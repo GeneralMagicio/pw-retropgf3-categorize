@@ -36,7 +36,7 @@
   "Tags": "END_USER_EXPERIENCE_AND_ADOPTION",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "END_USER_EXPERIENCE_AND_ADOPTION",
-  "pwCategory": "End-User Experience",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "This application should be flagged for violating rule 1: Promises of future impact. The applicant promises a future distribution of tokens without providing evidence of past, measurable impact."
+  "pwFlaggedReason": "This application should be flagged for violating rule 1: Promises of future impact. The applicant promises a future distribution of tokens without providing evidence of past, measurable impact.",
+  "pwCategory": "End-User Experience"
 }

@@ -45,7 +45,7 @@
   "Tags": "COLLECTIVE_GOVERNANCE, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Layer 2 Scaling, Governance Tokens, Digital Identity, End User Experience and Adoption",
-  "pwCategory": "Layer 2 Scaling",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "This application should be flagged because it violates rule 1: Promises of future impact, with the applicant stating \"I'll contribute through GitHub repository on-chain contract and through Twitter...\", which is a promise of a future deliverable."
+  "pwFlaggedReason": "This application should be flagged because it violates rule 1: Promises of future impact, with the applicant stating \"I'll contribute through GitHub repository on-chain contract and through Twitter...\", which is a promise of a future deliverable.",
+  "pwCategory": "End User Experience and Adoption"
 }

@@ -10,7 +10,9 @@
       "description": "This is my Contract Address"
     }
   ],
-  "impactCategory": ["OP_STACK"],
+  "impactCategory": [
+    "OP_STACK"
+  ],
   "impactDescription": "Realizing the optimistic vision of the “Law of Chains” collective governance system to become a Superchain. so that security, speed, ease of transactions can be fulfilled and help a decentralized financial system without any interference from an entity that wants to dominate the world",
   "impactMetrics": [
     {
@@ -41,6 +43,6 @@
   "Tags": "OP_STACK",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Layer 2 Scaling, Smart Contract Platforms, Governance Tokens",
-  "pwCategory": "Layer 2 Scaling",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwCategory": "Layer 2 Scaling"
 }

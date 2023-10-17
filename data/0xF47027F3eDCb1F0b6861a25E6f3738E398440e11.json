@@ -46,7 +46,7 @@
   "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Blockchain Infrastructure, Governance Tokens, Developer Ecosystem, End User Experience and Adoption",
-  "pwCategory": "Education",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "This application should be flagged because it is violating the rule 1 and 2. The applicant is promising future impact and making false claims about his contribution to the blockchain space. The applicant also seems like he's trying to advertise his need for funds which violates rule 6."
+  "pwFlaggedReason": "This application should be flagged because it is violating the rule 1 and 2. The applicant is promising future impact and making false claims about his contribution to the blockchain space. The applicant also seems like he's trying to advertise his need for funds which violates rule 6.",
+  "pwCategory": "Education"
 }

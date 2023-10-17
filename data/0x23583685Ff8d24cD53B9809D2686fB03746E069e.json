@@ -15,7 +15,9 @@
       "description": "Merged repo"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "• Provides a centralized resource for developers and enthusiasts to discover projects in the Optimism ecosystem.\n• Encourages open-source contributions and fosters a stronger community around Optimism.\n• Offers visibility and recognition for projects contributing to the Optimism ecosystem.",
   "impactMetrics": [
     {
@@ -44,6 +46,6 @@
   "Tags": "",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Smart Contract Platforms",
-  "pwCategory": "Developer Ecosystem",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwCategory": "Developer Ecosystem"
 }

@@ -43,7 +43,7 @@
   "Tags": "OP_STACK",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Blockchain Infrastructure, Testnet",
-  "pwCategory": "The project description provided does not specify any real or clear data related to a project in the Web3/blockchain domain. Therefore, it's not possible to assign an accurate category from the provided list.",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "This application should be flagged for violating the rule against spam, as both the contribution description and the impact description are filled with repeated \"test\" phrases instead of containing real, meaningful content about the project or its impact."
+  "pwFlaggedReason": "This application should be flagged for violating the rule against spam, as both the contribution description and the impact description are filled with repeated \"test\" phrases instead of containing real, meaningful content about the project or its impact.",
+  "pwCategory": "The project description provided does not contain enough information to determine an accurate category. Please provide a more detailed description of the project."
 }

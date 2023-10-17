@@ -40,7 +40,7 @@
   "recategorizeReason": "NO, the application is for a project called \"Tusima zkBridge\", therefore it should be categorized under \"PROJECT\" not \"INDIVIDUAL\".",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Cross-Chain Platforms, Digital Identity, Blockchain Infrastructure, Governance Tokens, Developer Ecosystem",
-  "pwCategory": "Cross-Chain Platforms",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "The application should be flagged for violating rule 6. It mentions a token airdrop, which could be seen as advertising a token sale."
+  "pwFlaggedReason": "The application should be flagged for violating rule 6. It mentions a token airdrop, which could be seen as advertising a token sale.",
+  "pwCategory": "Blockchain Infrastructure"
 }

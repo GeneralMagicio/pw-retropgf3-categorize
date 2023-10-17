@@ -93,6 +93,6 @@
   "Tags": "",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Open Source Ethereum Explorer, Consensus Layer Explorer, Mobile Staking App, EVM Chain Support, API Provider",
-  "pwCategory": "Blockchain Infrastructure",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwCategory": "Blockchain Infrastructure"
 }

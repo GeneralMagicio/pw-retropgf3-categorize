@@ -15,7 +15,10 @@
       "description": "Open-source github repo for the Impersonator Browser extension"
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "Impersonator has helped developers in the debugging process for their applications, allowing them to test and verify how their dapps work for different categories of users that hold a particular token or NFTs. They can simulate the calldata for transactions on Tenderly or their local node.\n\nImpersonator has high retention of users that visit the website every day. The browser extension has received a significant number of downloads in the past few months. Exact metrics are shared below.",
   "impactMetrics": [
     {
@@ -44,6 +47,6 @@
   "Tags": "",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Smart Contract Platforms, Blockchain Infrastructure, Wallet Integration",
-  "pwCategory": "Developer Ecosystem",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwCategory": "Wallet Management"
 }

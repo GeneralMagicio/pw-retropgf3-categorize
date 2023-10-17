@@ -10,7 +10,9 @@
       "description": "twitter is where I post most of my content."
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "Work that creates an impact on the end users of the Optimism group or helps bring new users into the group. By creating various content about Optimism that is easy to understand for those who want to know and that users can understand. The things to be done start from, for example, using the Optimism chain, starting with adding the opchain.",
   "impactMetrics": [
     {
@@ -34,6 +36,6 @@
   "Tags": "END_USER_EXPERIENCE_AND_ADOPTION",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "END_USER_EXPERIENCE_AND_ADOPTION",
-  "pwCategory": "End User Experience",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwCategory": "End User Experience and Adoption"
 }

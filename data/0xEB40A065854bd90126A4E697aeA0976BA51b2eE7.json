@@ -15,7 +15,9 @@
       "description": "Over 100 podcast episodes covering OP News."
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "Our daily briefing boosts Optimism Collective's brand awareness, reaching over 2,000 crypto enthusiasts. We provide essential OP News coverage, keeping end-users, developers, journalists, and crypto security firms informed about network upgrades, new OP Stack chains, and airdrops. Our briefs have even inspired news articles, like this one published by The Block on Optimism Airdrop 3 after the journalist read our newsletter.",
   "impactMetrics": [
     {
@@ -79,6 +81,6 @@
   "recategorizeReason": "NO. The application is incorrectly categorized. Despite the \"applicantType\" being listed as \"INDIVIDUAL\", the application talks about \"we\" and represents a structured project (OP News) with a website, suggesting that it should be categorized as a \"PROJECT\".",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Tokenization_Platforms, Digital_Identity, Blockchain_Infrastructure, Governance_Tokens, END_USER_EXPERIENCE_AND_ADOPTION",
-  "pwCategory": "Adoption",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwCategory": "Media Production"
 }

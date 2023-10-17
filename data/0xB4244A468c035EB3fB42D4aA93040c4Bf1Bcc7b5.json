@@ -46,7 +46,7 @@
   "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Collective Governance, Developer Ecosystem, End User Experience and Adoption, OP Stack",
-  "pwCategory": "End User Experience",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "The application should be flagged because the applicant is claiming a contribution that is outside of the RetroPGF's scope, as user transactions on the OP network are not recognized as valid contributions eligible for rewards."
+  "pwFlaggedReason": "The application should be flagged because the applicant is claiming a contribution that is outside of the RetroPGF's scope, as user transactions on the OP network are not recognized as valid contributions eligible for rewards.",
+  "pwCategory": "End User Experience and Adoption"
 }

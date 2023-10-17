@@ -47,7 +47,7 @@
   "recategorizeReason": "NO, it is not correctly categorized because the application frequently uses \"I\" and \"me\", indicating it is an individual rather than a project.",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK",
-  "pwCategory": "Developer Ecosystem",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "This application should be flagged for false statements & deception and promising future impact because it provided vague descriptions about past contributions and made hopeful comments about the future of the optimism ecosystem, without stating any clear, measurable impact or specific contributions tied to the applicant."
+  "pwFlaggedReason": "This application should be flagged for false statements & deception and promising future impact because it provided vague descriptions about past contributions and made hopeful comments about the future of the optimism ecosystem, without stating any clear, measurable impact or specific contributions tied to the applicant.",
+  "pwCategory": "End User Experience and Adoption"
 }

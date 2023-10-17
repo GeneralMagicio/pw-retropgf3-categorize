@@ -10,7 +10,9 @@
       "description": "dfsdfsdfsdf"
     }
   ],
-  "impactCategory": ["OP_STACK"],
+  "impactCategory": [
+    "OP_STACK"
+  ],
   "impactDescription": "Describe your contribution(s) to Optimism\nPlease share the contributions you wish to receive RetroPGF for.Describe your contribution(s) to Optimism\nPlease share the contributions you wish to receive RetroPGF for.Describe your contribution(s) to Optimism\nPlease share the contributions you wish to receive RetroPGF for.Describe your contribution(s) to Optimism\nPlease share the contributions you wish to receive RetroPGF for.",
   "impactMetrics": [
     {
@@ -34,7 +36,7 @@
   "Tags": "OP_STACK",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Layer 2 Scaling, Smart Contract Platforms, Cross-Chain Platforms, Governance Tokens",
-  "pwCategory": "The description provided is not clear enough to categorize the project.",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "This application should be flagged for violating rule 11 by featuring spam content, including irrelevant and repetitive responses in the contribution and impact description sections."
+  "pwFlaggedReason": "This application should be flagged for violating rule 11 by featuring spam content, including irrelevant and repetitive responses in the contribution and impact description sections.",
+  "pwCategory": "The provided project description is not clear and detailed enough to categorize. Please provide a full and clear description of the project."
 }

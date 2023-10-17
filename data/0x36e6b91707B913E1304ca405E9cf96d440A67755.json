@@ -10,7 +10,9 @@
       "description": "gg"
     }
   ],
-  "impactCategory": ["COLLECTIVE_GOVERNANCE"],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
   "impactDescription": "I want to be an ambassador and create content. You can find my posts on optimism on Twitter or Reddit. I help people learn more about optimism. Here you can see some examples of the content I wrote about optimism\nExperience has proven that tokens created in a bear market with a strong and focused team will do wonders in a bull market. For example, look at the past of $matic $avax and $ftm\nAmong the tokens that have emerged in this bear market, I give op a high rating\nSince it has a smart and purposeful team, \nYou must have seen the popularity of \noptimism\n among users Popularity and having a strong community is the strength of any network",
   "impactMetrics": [
     {
@@ -34,6 +36,6 @@
   "Tags": "COLLECTIVE_GOVERNANCE",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Ambassador, Content Creation, Optimism, Blockchain",
-  "pwCategory": "Content Creation",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwCategory": "Web3 Advocacy"
 }

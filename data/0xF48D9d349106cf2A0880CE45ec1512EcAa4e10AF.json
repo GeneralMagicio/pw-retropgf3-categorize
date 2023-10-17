@@ -47,7 +47,7 @@
   "recategorizeReason": "NO, this application is not correctly categorized since the contribution description uses first person pronouns (\"i\", \"me\"), which implies that the application is from an individual rather than a project.",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Collective Governance, Developer Ecosystem, End User Experience and Adoption, Op Stack",
-  "pwCategory": "Community Building",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "This application should be flagged because it violates rule 1 promising future impact with the Early Bird campaign and also violates rule 6 by promoting a token sale ($NYM prize pool)."
+  "pwFlaggedReason": "This application should be flagged because it violates rule 1 promising future impact with the Early Bird campaign and also violates rule 6 by promoting a token sale ($NYM prize pool).",
+  "pwCategory": "Community Building"
 }

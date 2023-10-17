@@ -45,6 +45,6 @@
   "recategorizeReason": "NO. The application should be categorized as \"INDIVIDUAL\" as it refers to actions taken by an individual such as \"Got involved in Optimism 1 airdrop\" and \"Introduced OP to few of my friends.\"",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Layer 2 Scaling, Governance Tokens, End User Experience and Adoption",
-  "pwCategory": "End User Experience",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwCategory": "End User Experience and Adoption"
 }

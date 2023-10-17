@@ -10,7 +10,10 @@
       "description": "My identity"
     }
   ],
-  "impactCategory": ["COLLECTIVE_GOVERNANCE", "OP_STACK"],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "OP_STACK"
+  ],
   "impactDescription": "spreading positive values for all who participate, unite to foster.\npositive feedback, making the community more accessible to all people, I will maximize my performance in this regard.It is an honor for me personally to be involved in this contribution.",
   "impactMetrics": [
     {
@@ -42,6 +45,6 @@
   "recategorizeReason": "NO. The applicant consistently uses singular pronouns like \"me\" and \"I\" indicating this should be categorized as an individual.",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Community Building, Positive Values, Collective Governance",
-  "pwCategory": "Community Building",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwCategory": "Community Building"
 }

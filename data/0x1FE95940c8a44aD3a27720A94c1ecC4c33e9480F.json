@@ -10,7 +10,9 @@
       "description": "https://twitter.com/niubal50"
     }
   ],
-  "impactCategory": ["OP_STACK"],
+  "impactCategory": [
+    "OP_STACK"
+  ],
   "impactDescription": "I haven't made any contribution yet, but I will continue to pay attention to it and share it with my friends. If the official puts forward a plan, I will seriously think about it and give my reasonable suggestions in time. I think the platform and the fans are interdependent, and the two sides work together to expand and enhance the influence of the platform, so that the platform can have better development and benefit all parties.",
   "impactMetrics": [
     {
@@ -34,7 +36,7 @@
   "Tags": "OP_STACK",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Unknown",
-  "pwCategory": "Community Building",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "This application should be flagged for promising future impact. The applicant hasn't made any contributions yet and is making promises about future activities."
+  "pwFlaggedReason": "This application should be flagged for promising future impact. The applicant hasn't made any contributions yet and is making promises about future activities.",
+  "pwCategory": "Community Building"
 }

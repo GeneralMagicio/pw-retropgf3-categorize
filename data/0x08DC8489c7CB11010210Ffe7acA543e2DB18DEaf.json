@@ -40,7 +40,7 @@
   "recategorizeReason": "NO, the application should be categorized as \"PROJECT\" because the contribution description and impact description indicate that the work is being done by a collective or organization, not a single individual.",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "COLLECTIVE GOVERNANCE, DEVELOPER ECOSYSTEM, END USER EXPERIENCE AND ADOPTION, OP STACK",
-  "pwCategory": "Governance & Tokens",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "The application should be flagged for violating rule 1: Promises of future impact, as the applicant states that \"Citizens’ House will come live later in 2022.\""
+  "pwFlaggedReason": "The application should be flagged for violating rule 1: Promises of future impact, as the applicant states that \"Citizens’ House will come live later in 2022.\"",
+  "pwCategory": "Governance & Tokens"
 }

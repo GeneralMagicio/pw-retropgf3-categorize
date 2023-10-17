@@ -15,7 +15,10 @@
       "description": "Invitation Link Telegram blairdrop group"
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "My goal is to introduce my followers to blockchain ecosystems like optimism through twitter and telegram posts (quests, contract creation on remix, airdrop, important news...). The user are more update on usecase for OP blockchain so users don't forget to vote for gouvernance and can follow by themself Optimism.",
   "impactMetrics": [
     {
@@ -39,6 +42,6 @@
   "Tags": "DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Developer Ecosystem, End User Experience and Adoption",
-  "pwCategory": "Education",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwCategory": "Education"
 }

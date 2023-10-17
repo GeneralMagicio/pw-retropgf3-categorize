@@ -10,7 +10,9 @@
       "description": "My social profiles"
     }
   ],
-  "impactCategory": ["COLLECTIVE_GOVERNANCE"],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
   "impactDescription": "I've taught others how to approach governance in DeFi when they previously had zero experience. I've convinced others to be a participant rather than a spectator, and taking ownership of their experience with blockchain, particularly with Optimism as it is one of the blockchains with the most potential. ",
   "impactMetrics": [
     {
@@ -41,6 +43,6 @@
   "Tags": "COLLECTIVE_GOVERNANCE",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Optimism, Community Building, Education, Governance Tokens",
-  "pwCategory": "Education",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwCategory": "Collective Governance"
 }

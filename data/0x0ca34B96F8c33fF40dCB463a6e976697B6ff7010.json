@@ -35,7 +35,9 @@
       "description": "Add 1003.25 USDC.e liquidity Layerzero through Optimism Mainnet"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "Used Optimism mainnet, proving its resilience since the end of 2022 with my supplied tokens in Pooltogether. Also participated in minting events envolving Optimism and Base, used optimism mainnet in mint.fun some times. Made a lot of bridges between optimism and other mainnets using Layerzero dapp.",
   "impactMetrics": [
     {
@@ -59,6 +61,6 @@
   "Tags": "END_USER_EXPERIENCE_AND_ADOPTION",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Layer 2 Scaling, Tokenization Platforms, Decentralized Finance (DeFi), Blockchain Infrastructure, Cross-Chain Platforms",
-  "pwCategory": "End User Experience",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwCategory": "End User Experience and Adoption"
 }

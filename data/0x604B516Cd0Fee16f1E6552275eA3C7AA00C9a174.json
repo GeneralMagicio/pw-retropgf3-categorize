@@ -40,6 +40,6 @@
   "recategorizeReason": "NO, the application is not correctly categorized. The applicant refers to themselves as \"I\" and \"me\", indicating that it should be categorized as \"INDIVIDUAL\" instead of \"PROJECT\".",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Developer Ecosystem, End User Experience and Adoption, Op Stack, Collective Governance",
-  "pwCategory": "Education",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwCategory": "End User Experience and Adoption"
 }

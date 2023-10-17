@@ -36,7 +36,7 @@
   "Tags": "",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Blockchain Infrastructure",
-  "pwCategory": "The project description provided is not valid.",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "The application should be flagged for spam and false statements & deception as the content is repeated and does not provide any real information about the project's contribution or impact."
+  "pwFlaggedReason": "The application should be flagged for spam and false statements & deception as the content is repeated and does not provide any real information about the project's contribution or impact.",
+  "pwCategory": "The project description provided is inadequate to assign a category."
 }

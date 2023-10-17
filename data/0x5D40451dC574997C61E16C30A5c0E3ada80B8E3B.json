@@ -45,7 +45,7 @@
   "Tags": "COLLECTIVE_GOVERNANCE, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "RetroPGF, Optimism Collective, COLLECTIVE_GOVERNANCE, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK",
-  "pwCategory": "End User Experience",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "Flag the application. The contribution links provided are not associated with any valid or relevant project contributions but link to a Twitter profile instead, violating Rule 11: Spam."
+  "pwFlaggedReason": "Flag the application. The contribution links provided are not associated with any valid or relevant project contributions but link to a Twitter profile instead, violating Rule 11: Spam.",
+  "pwCategory": "Collective Governance"
 }

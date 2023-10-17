@@ -48,7 +48,8 @@ export async function placeInCategories(analyzeAll: YesOrNo) {
     const doc = applications[i];
     const application = JSON.parse(doc.pageContent);
 
-    const shouldProcess = analyzeAll === "yes" || !application.pwCategory;
+    const shouldProcess =
+      analyzeAll === "yes" || !("pwCategory" in application);
 
     if (!shouldProcess) {
       continue;

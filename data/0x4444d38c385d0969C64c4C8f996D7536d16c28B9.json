@@ -10,7 +10,10 @@
       "description": "The Github repo of the OP Stack Mod."
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM", "OP_STACK"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "OP_STACK"
+  ],
   "impactDescription": "Acts as a nice demonstration for how OP Stack Mods can be written. Previously the only example I could find was Ticking Optimism (https://stack.optimism.io/docs/build/featured/#ticking-optimism) which is fairly rudimentary. This example shows event parsing, L2 state reads and L2 writes.",
   "impactMetrics": [
     {
@@ -34,6 +37,6 @@
   "Tags": "",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Smart Contract Platforms",
-  "pwCategory": "Layer 2 Scaling",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwCategory": "Layer 2 Scaling"
 }

@@ -10,7 +10,9 @@
       "description": "Research in Blockchain Technologies "
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "When planning to give feedback to an employee, communicate regularly about what feedback conversations will look like and how they relate to other processes at your organization, including compensation adjustments. With stress levels as high as they are worldwide, employees will appreciate the extra communication so they can know what lies ahead.",
   "impactMetrics": [
     {
@@ -41,7 +43,7 @@
   "Tags": "END_USER_EXPERIENCE_AND_ADOPTION",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "End User Experience and Adoption",
-  "pwCategory": "Education",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "This application should be flagged for violating the grant program rule of promises of future impact. The contribution description talks about future goals and visions without clear past or ongoing impacts."
+  "pwFlaggedReason": "This application should be flagged for violating the grant program rule of promises of future impact. The contribution description talks about future goals and visions without clear past or ongoing impacts.",
+  "pwCategory": "End User Experience and Adoption"
 }

@@ -10,7 +10,9 @@
       "description": "0"
     }
   ],
-  "impactCategory": ["COLLECTIVE_GOVERNANCE"],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
   "impactDescription": "I will be the face of the asian community on the internet one day in the music and entertainment scene. Mark my words. i have been in the crypto space since 2017 and have learned so much about freedom tech and how eth and digital assets that remove middleman third parties will change thr world. I am extremely knowledgeable in the space and i wild love a opportunity to meet on zoom or chat with someone within the optimism community to show the value i will bring. Im a little eccentric but i lnow soon i will be a big content creator who will push for freedom tech and crypto and eth!!",
   "impactMetrics": [
     {
@@ -34,7 +36,7 @@
   "Tags": "COLLECTIVE_GOVERNANCE",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Digital Identity, Governance Tokens",
-  "pwCategory": "Influencer Marketing",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "Yes, this application should be flagged for making promises of future impact which is against rule number 1. The applicant talks about being a voice in the future and spreading awareness in the future which are promises of future deliverables."
+  "pwFlaggedReason": "Yes, this application should be flagged for making promises of future impact which is against rule number 1. The applicant talks about being a voice in the future and spreading awareness in the future which are promises of future deliverables.",
+  "pwCategory": "Web3 Advocacy"
 }

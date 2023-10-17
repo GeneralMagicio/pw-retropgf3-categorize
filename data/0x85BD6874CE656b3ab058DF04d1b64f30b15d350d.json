@@ -20,7 +20,10 @@
       "description": "Simple Contract"
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "My contributions have helped solidify the Optimism Collective as an informed and engaged community, fortified with both substantive knowledge and a sense of togetherness. The increased engagement and discussion spurred by my initiatives have, in turn, contributed to the collective's growth and vibrancy. ",
   "impactMetrics": [
     {
@@ -49,6 +52,6 @@
   "Tags": "DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Developer Ecosystem, End User Experience and Adoption",
-  "pwCategory": "Education",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwCategory": "Education"
 }

@@ -15,7 +15,9 @@
       "description": "Wallet that used to mint musics from other websites or platforms"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "As a member of the \"Camel\" community (a community that always believes that Music NFT will lead the trend in the future), I have been and will definitely continue to use the Optimism platform to mint musics, to contribute and support all of the potential artists. What I and the \"Camel\" community have done will greatly influence all of the small outside communities and guide their actions, which includes \"only using the Optimism platform to mint musics from the potential artists on Sound.xyz or any other websites or platform\".",
   "impactMetrics": [
     {
@@ -46,6 +48,6 @@
   "Tags": "END_USER_EXPERIENCE_AND_ADOPTION",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "END_USER_EXPERIENCE_AND_ADOPTION",
-  "pwCategory": "User Adoption",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwCategory": "End User Experience and Adoption"
 }

@@ -15,7 +15,9 @@
       "description": "Rollups Economics"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "My contributions have had a positive impact on the Optimism Collective by enhancing the understanding of Optimism's activities and financial health. The creation of a dedicated dashboard provides Optimism users with valuable insights, empowering them to make informed decisions. Additionally, my work on Rollup Economics, alongside co-researchers at 4Pillars, has contributed to a broader comprehension of Optimism's economic dynamics and its place within the modular blockchain landscape. This knowledge fosters a more comprehensive and informed approach within the Optimism Collective, aiding in strategic planning and decision-making.",
   "impactMetrics": [
     {
@@ -39,6 +41,6 @@
   "Tags": "END_USER_EXPERIENCE_AND_ADOPTION",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Blockchain Infrastructure",
-  "pwCategory": "End User Experience",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwCategory": "End User Experience and Adoption"
 }
