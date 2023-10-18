@@ -4,7 +4,8 @@ import { intro, outro, select } from "@clack/prompts";
 
 import { categorizeApplications } from "./categorize-applications";
 import color from "picocolors";
-import { exportData } from "./exportData";
+import { exportFlaggedCsv } from "./exportFlaggedCsv";
+import { exportFullAsJson } from "./exportFullAsJson";
 import { fetchMetadataFiles } from "./fetch-metadata-files";
 import { generateCategoryLists } from "./generate-category-lists";
 import { identifyNoiseApplications } from "./identify-noise-applications";
@@ -55,8 +56,12 @@ async function selectYesNo(message: string): Promise<YesOrNo> {
           label: "Print categories with individuals",
         },
         {
-          value: "export",
-          label: "Export categorized applications, flagged applications, etc.",
+          value: "exportFlaggedCsv",
+          label: "Export flagged applications as CSV file",
+        },
+        {
+          value: "exportFullAsJson",
+          label: "Export full dataset as JSON file",
         },
         { value: "exit", label: "Exit" },
       ],
@@ -94,8 +99,11 @@ async function selectYesNo(message: string): Promise<YesOrNo> {
       case "categoriesWithIndividuals":
         await printCategoriesWithApplications("INDIVIDUAL");
         break;
-      case "export":
-        await exportData();
+      case "exportFlaggedCsv":
+        await exportFlaggedCsv();
+        break;
+      case "exportFullAsJson":
+        await exportFullAsJson();
         break;
       case "exit":
         outro("Bye!");

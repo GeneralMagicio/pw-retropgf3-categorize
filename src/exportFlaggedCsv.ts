@@ -12,8 +12,8 @@ type FlaggedApplication = {
   reason: string;
 };
 
-export async function exportData() {
-  console.log(`${pc.gray("│\n")}◆  Exporting data`);
+export async function exportFlaggedCsv() {
+  console.log(`${pc.gray("│\n")}◆  Exporting flagged applications as csv`);
 
   await fs.mkdir("export").catch((err) => {});
 
@@ -45,5 +45,5 @@ export async function exportData() {
     );
   }
 
-  console.log(`${pc.green("☑")} Exported flagged applications`);
+  console.log(`${pc.green("☑")} Exported finished`);
 }
