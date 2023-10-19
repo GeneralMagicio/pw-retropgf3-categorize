@@ -6,6 +6,7 @@ import { categorizeApplications } from "./categorize-applications";
 import color from "picocolors";
 import { exportFlaggedCsv } from "./exportFlaggedCsv";
 import { exportFullAsJson } from "./exportFullAsJson";
+import { exportTwitterCsv } from "./exportTwitterCsv";
 import { fetchMetadataFiles } from "./fetch-metadata-files";
 import { generateCategoryLists } from "./generate-category-lists";
 import { identifyNoiseApplications } from "./identify-noise-applications";
@@ -63,6 +64,10 @@ async function selectYesNo(message: string): Promise<YesOrNo> {
           value: "exportFullAsJson",
           label: "Export full dataset as JSON file",
         },
+        {
+          value: "exportTwitterCsv",
+          label: "Export all Twitter contacts as CSV file",
+        },
         { value: "exit", label: "Exit" },
       ],
     });
@@ -104,6 +109,9 @@ async function selectYesNo(message: string): Promise<YesOrNo> {
         break;
       case "exportFullAsJson":
         await exportFullAsJson();
+        break;
+      case "exportTwitterCsv":
+        await exportTwitterCsv();
         break;
       case "exit":
         outro("Bye!");
