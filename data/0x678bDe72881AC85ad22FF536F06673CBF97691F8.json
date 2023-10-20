@@ -1,0 +1,36 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://github.com/rkrasiuk",
+  "bio": "doing things. reth dev",
+  "contributionDescription": "Alloy, has emerged as a pivotal tool in the Ethereum and EVM-based chains ecosystem, providing high-performance, well-documented, and thoroughly tested libraries for interaction with Ethereum. \n\nInitially developed as ethers-rs and now rebranded and enhanced as Alloy, it has been instrumental in offering robust, efficient, and strongly-typed abstractions for submitting transactions, subscribing and transforming chain data, and interacting with smart contracts in Rust.\n\nThe evolution of Alloy signifies a substantial contribution to the Ethereum ecosystem, ensuring that developers are equipped with a stable, efficient, and powerful toolkit, thereby facilitating the development of secure and scalable applications on Ethereum and other EVM-based chains.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/alloy-rs/",
+      "description": "The GitHub organization hosting Alloy libraries"
+    }
+  ],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
+  "impactDescription": "Alloy's integration into the Optimism Collective can significantly elevate the development and operational facets of the Optimism Layer 2 scaling solution, providing developers with a robust, efficient, and secure toolkit for Ethereum application development.\nLeveraging Alloy’s high-performance libraries and well-tested components, developers can optimize the runtime performance and security of applications on the Optimism Layer 2.\nThis not only enhances the efficiency and scalability of applications developed on the platform but also potentially attracts a wider developer community, fostering ecosystem growth, and enabling the Optimism Collective to scale its vision and offerings to a broader user base, thereby solidifying its position in the blockchain and Ethereum development space.",
+  "impactMetrics": [
+    {
+      "description": "# of dependent repositories",
+      "number": 113,
+      "url": "https://github.com/alloy-rs/core/network/dependents"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x678bDe72881AC85ad22FF536F06673CBF97691F8",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Alloy",
+  "applicantName": "Roman",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x678bDe72881AC85ad22FF536F06673CBF97691F8.json",
+  "RPGF3_Application_UID": "0xf69eeb202a8fa1c807292b1c0ab800337d7fb2a18f8d9354a5441c9bcc289338",
+  "applicantAddress": "0x678bDe72881AC85ad22FF536F06673CBF97691F8"
+}

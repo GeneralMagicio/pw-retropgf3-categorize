@@ -1,7 +1,7 @@
 {
   "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://twitter.com/bonyairdrop",
-  "bio": "Airdrop Hunter",
+  "bio": "Airdrop Hunter\nCommunity Enthusiast\nEVM Product Test Analyst",
   "contributionDescription": "Invest and keep alive on the Optimism Chain for sure. Honestly now i'm still learning \n about Crypto, i'm a nebuiewant increasing my basic knowledge about all crypto currencies. And now by submit this appplicalation i only do for my first in touch experience with Optimism Chain ",
   "contributionLinks": [
     {
@@ -36,15 +36,10 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "Project": "Bony Airdrop",
-  "Applicant Type": "INDIVIDUAL",
-  "OSS Directory": "Not Found",
-  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xb9839Deed4862C1C0b5DD5C946ae87A81D7b4aE2.json",
-  "Githubs": "https://github.com/",
-  "Tags": "",
-  "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Airdrop Hunter, Learning, Optimism Chain",
-  "pwIsFlagged": true,
-  "pwFlaggedReason": "This application should be flagged because it contains false statements & deception in the contribution links section and is outside of RetroPGF's rules, as no valid substantial contribution to the optimism community or ecosystem has been provided.",
-  "pwCategory": "Community Building"
+  "displayName": "Bony Airdrop",
+  "applicantName": "BONYAIRDROP",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xb9839Deed4862C1C0b5DD5C946ae87A81D7b4aE2.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xb9839Deed4862C1C0b5DD5C946ae87A81D7b4aE2.json",
+  "RPGF3_Application_UID": "0x9a7afa76af6f4cf5b523927cd17e2fda6fe0efee5f1b92c179cb3935010302e3",
+  "applicantAddress": "0xb9839Deed4862C1C0b5DD5C946ae87A81D7b4aE2"
 }

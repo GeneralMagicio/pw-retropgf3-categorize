@@ -31,15 +31,10 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "Project": "Luisvi",
-  "Applicant Type": "INDIVIDUAL",
-  "OSS Directory": "",
-  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x66ec901E8eD387d48535C953F79fF6e7cCCDCC53.json",
-  "Githubs": "",
-  "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK",
-  "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Finance (DeFi), Social Trading, Marketing, User Adoption",
-  "pwIsFlagged": true,
-  "pwFlaggedReason": "Flagged: The application is not describing a tangible and specific contribution to Optimism community. User interactions such as sending transactions are not in scope to be rewarded in RetroPGF 3, which this application seems to primarily focus on.",
-  "pwCategory": "End User Experience and Adoption"
+  "displayName": "Luisvi",
+  "applicantName": "luisvi.eth",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x66ec901E8eD387d48535C953F79fF6e7cCCDCC53.jpeg",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x66ec901E8eD387d48535C953F79fF6e7cCCDCC53.json",
+  "RPGF3_Application_UID": "0x894d698528f709a6242295e45e10ba6e589835b87bcf618aa40d0c7841d4cf0c",
+  "applicantAddress": "0x66ec901E8eD387d48535C953F79fF6e7cCCDCC53"
 }

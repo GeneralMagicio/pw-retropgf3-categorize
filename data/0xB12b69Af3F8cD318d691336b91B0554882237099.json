@@ -1,0 +1,47 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://airdropcryptocuan.com",
+  "bio": "Airdropers cryptocuan",
+  "contributionDescription": "Developing website and grapich design. Cryptocurency to role moodel.To apply for RetroPGF 3, you will need to complete your profile and submit an application that describes your contributions and impact on the Optimism Collective. Your application information will be public on your profile (coming soon).\n\nFilling out the application takes time, so we recommend that you start your application early.\n\nApplications need to be submitted by October",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "http://airdropcryptocuan.com",
+      "description": "http://airdropcryptocuan.com"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "To apply for RetroPGF 3, you will need to complete your profile and submit an application that describes your contributions and impact on the Optimism Collective. Your application information will be public on your profile (coming soon).\n\nFilling out the application takes time, so we recommend that you start your application early.\n\nApplications need to be submitted by October",
+  "impactMetrics": [
+    {
+      "description": "http://airdropcryptocuan.com",
+      "number": 420,
+      "url": "http://airdropcryptocuan.com"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 500000,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0xB12b69Af3F8cD318d691336b91B0554882237099",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Sahri rizki",
+  "applicantName": "Ariski",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xB12b69Af3F8cD318d691336b91B0554882237099.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xB12b69Af3F8cD318d691336b91B0554882237099.json",
+  "RPGF3_Application_UID": "0xac1088fd7feb93b1577cb2328328d8b743261fe3bcc888657d53bb117846e966",
+  "applicantAddress": "0xB12b69Af3F8cD318d691336b91B0554882237099"
+}

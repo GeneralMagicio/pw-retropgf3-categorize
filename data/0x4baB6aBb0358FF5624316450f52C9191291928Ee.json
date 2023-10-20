@@ -1,0 +1,79 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://twitter.com/Optimism_CIS",
+  "bio": "The largest Russian-speaking Optimism crypto community residing in the WHOLE world.\nIncrease OP's influence in the CIS communities of Telegram and Twitter. ",
+  "contributionDescription": "Having chosen several directions: Education, Media, DAO, we created the largest Russian-speaking community of the Optimism ecosystem.\n- Education\nWe created educational courses - Optimism School for aspiring Contributors. These courses include 5+ hours of video material and notes.\n- Media \nOrganized AMA sessions with the largest RU-media on Telegram (20k followers). Also held local AMAs with the project's ambassadors, and actively developed a Twitter account with 20+ threads.\n- DAO \nOrganization to delegate the votes of its participants - 38k+ OP and 92 participants",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://vote.optimism.io/delegate/%D1%81%D0%BF%D0%B5%D0%BA%D1%83%D0%BB%D1%8F%D1%86%D0%B8%D1%8F%D0%B4%D0%B0%D0%BE.eth",
+      "description": "DAO: Delegation of votes (спекуляциядао.eth) "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/playlist?list=PLUqwxsVmNJGcizJokP2nJULXlS67cyq3f",
+      "description": "YouTube: Educational courses for contributors"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/Optimism_CIS",
+      "description": "Twitter: Podcasts, threads, posts "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://t.me/degentribuna/96",
+      "description": "Telegram: AMA with influential RU Influencers: OP, OP Stack & Superchain etc."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://t.me/ZEFIRIUM_CRYPTO/873",
+      "description": "Telegram: AMA with a review of the ambassador program"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://t.me/ZEFIRIUM_CRYPTO/1254",
+      "description": "Telegram: AMA with a review of the Superchain "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://t.me/ZEFIRIUM_CRYPTO/1008",
+      "description": "Telegram: AMA with a review of the Optimism ecosystem "
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "Collective Governance: 87 participants entrusted us with their votes amounting to 38k OP.\nEnd User Experience & Adoption: AMA sessions with Influencers reaching over 50k users. Creating educational material with over 1k views and writing Twitter posts. ",
+  "impactMetrics": [
+    {
+      "description": "Telegram: Coverage of impact ",
+      "number": 50000,
+      "url": "https://tgstat.ru/quotes/@degentribuna/r-channels"
+    },
+    {
+      "description": "YouTube: Education",
+      "number": 1500,
+      "url": "https://drive.google.com/file/d/1IL2gnHf9tiUbzkFkToJjfMmWP9zqCCjK/view?usp=share_link"
+    },
+    {
+      "description": "DAO: Delegated OP",
+      "number": 38370,
+      "url": "https://vote.optimism.io/delegate/%D1%81%D0%BF%D0%B5%D0%BA%D1%83%D0%BB%D1%8F%D1%86%D0%B8%D1%8F%D0%B4%D0%B0%D0%BE.eth"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x4baB6aBb0358FF5624316450f52C9191291928Ee",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Optimism_CIS",
+  "applicantName": "Optimism_CIS",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x4baB6aBb0358FF5624316450f52C9191291928Ee.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x4baB6aBb0358FF5624316450f52C9191291928Ee.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x4baB6aBb0358FF5624316450f52C9191291928Ee.json",
+  "RPGF3_Application_UID": "0x799bbd58af4bc0700864c9737a8f098f0320af8ce80dc0601bb664a33b1a65d3",
+  "applicantAddress": "0x4baB6aBb0358FF5624316450f52C9191291928Ee"
+}

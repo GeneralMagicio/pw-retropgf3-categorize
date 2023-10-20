@@ -1,6 +1,6 @@
 {
   "applicantType": "INDIVIDUAL",
-  "websiteUrl": "https://r72.fi/",
+  "websiteUrl": "https://r72.fi",
   "bio": "https://r72.fi/",
   "contributionDescription": "I have created r72.fi free funding rate aggregated website to give everyone a bigger picture of on-chain and off-chain perpetual future funding rate stats.\n\nIt's really hard to know the actual cost of on-chain or off-chain platforms' funding rate for a certain long period. Hence, r72.fi solves the mathematical and UX issues to make everyone know more about the funding rate. Especially, those on-chain funding rates. It's way harder for users to understand. \n\nr72.fi supports two projects deployed on Optimism, Perpetual Protocol and Synthetix.  People can easily check those two projects' aggregated funding rates without on-chain knowledge.  ",
   "contributionLinks": [
@@ -36,14 +36,10 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "Project": "r72.fi",
-  "Applicant Type": "INDIVIDUAL",
-  "OSS Directory": "",
-  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x25030765Ba9c22D96094B7E67793A189259Ce38D.json",
-  "Githubs": "",
-  "Tags": "DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION",
-  "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Finance (DeFi), On-Chain Analytics, User Experience and Adoption",
-  "pwIsFlagged": false,
-  "pwCategory": "End User Experience and Adoption"
+  "displayName": "r72.fi",
+  "applicantName": "William",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x25030765Ba9c22D96094B7E67793A189259Ce38D.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x25030765Ba9c22D96094B7E67793A189259Ce38D.json",
+  "RPGF3_Application_UID": "0xdfb5069840802be3fb1358f3bdb2af465654784db3227bf59f25e82ac46fc3b3",
+  "applicantAddress": "0x25030765Ba9c22D96094B7E67793A189259Ce38D"
 }

@@ -1,0 +1,48 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://github.com/kevaundray",
+  "bio": "I am a software engineer with a focus on cryptography and compilers.",
+  "contributionDescription": "We provide implementations of cryptographic primitives that help Ethereum and the broader blockchain ecosystem.\n\nPast contributions consisted of proto-danksharding, trusted setup ceremony and verkle trie.\n\nhttps://github.com/crate-crypto/go-ipa\nhttps://github.com/crate-crypto/go-kzg-4844\nhttps://github.com/crate-crypto/ceremony-specs\nhttps://github.com/ethereum/kzg-ceremony-sequencer",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/crate-crypto",
+      "description": "GIthub organization with implementations of cryptographic primitives"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/kevaundray",
+      "description": "Personal github repository with contributions to compilers and cryptography"
+    }
+  ],
+  "impactCategory": [
+    "OP_STACK"
+  ],
+  "impactDescription": "https://github.com/crate-crypto/go-kzg-4844 (4844) and https://github.com/crate-crypto/go-ipa (verkle tries) are both projects which will impact the OP stack.\n\nThe OP stack also has shown interest in using zero knowledge proofs -- the cryptographic implementations being implemented in crate-crypto are focussed around this domain.",
+  "impactMetrics": [
+    {
+      "description": "libraries depending on go-kzg-4844",
+      "number": 400,
+      "url": "https://github.com/crate-crypto/go-kzg-4844/network/dependents"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 17000,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0x90B005a9C7B19E1E962178deA63c1becc409B90f",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "crate crypto",
+  "applicantName": "kev",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x90B005a9C7B19E1E962178deA63c1becc409B90f.json",
+  "RPGF3_Application_UID": "0x38de5b52001192fa8a86a7404b1cf6bb3566c5703dbde9cde0d36ef7c405e95c",
+  "applicantAddress": "0x90B005a9C7B19E1E962178deA63c1becc409B90f"
+}

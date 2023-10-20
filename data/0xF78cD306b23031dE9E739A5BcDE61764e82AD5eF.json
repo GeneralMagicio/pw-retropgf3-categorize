@@ -1,7 +1,7 @@
 {
   "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://ronan.eth.limo",
-  "bio": "Building open-source tools for the web3 space (hardhat-deploy and more)",
+  "bio": "I am a game dev contributing to web3 public good with EIPs (ERC-1155, ERC-2771), tools (hardhat-deploy, jolly-roger and more) as well as open-source games.",
   "contributionDescription": "- built hardhat-deploy\nallow you to deploy contracts to any network with ease, keeping track of them and replicating the same environment for testing. A reference tool yet to be emulated on other framework. optimism uses it.\n\n- invented clones-with-immutable-args\nAn innovative mechanism that allow the copy of smart contract (clone) while letting them be configured \nOptimism use one of the fork of my original repo.\n\n- wrote \"Ethereum, The Concept of Gas and its Dangers\", an often referenced article on how gas work on the EVM:  https://ronan.eth.limo/blog/ethereum-gas-dangers/ \n\n- co-authored ERC-1155\nA standard that stands among the 3 main token standard in use today\n\n- co-authored ERC-2271\nA standard for meta-transaction used on Optimism by Gelato and Biconomy",
   "contributionLinks": [
     {
@@ -92,14 +92,11 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "Project": "Ronan Sandford",
-  "Applicant Type": "INDIVIDUAL",
-  "OSS Directory": "Github Found",
-  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xF78cD306b23031dE9E739A5BcDE61764e82AD5eF.json",
-  "Githubs": "https://github.com/wighawag/hardhat-deploy, https://github.com/wighawag/clones-with-immutable-args/",
-  "Tags": "",
-  "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Blockchain Infrastructure, Smart Contract Platforms, Tokenization Platforms, Digital Identity, Governance Tokens",
-  "pwIsFlagged": false,
-  "pwCategory": "Developer Ecosystem"
+  "displayName": "Ronan Sandford",
+  "applicantName": "Ronan",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xF78cD306b23031dE9E739A5BcDE61764e82AD5eF.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xF78cD306b23031dE9E739A5BcDE61764e82AD5eF.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xF78cD306b23031dE9E739A5BcDE61764e82AD5eF.json",
+  "RPGF3_Application_UID": "0x7ed37715e33c6d078e2ec8423e7e336e353261047a507733d2a999c3449d636c",
+  "applicantAddress": "0xF78cD306b23031dE9E739A5BcDE61764e82AD5eF"
 }

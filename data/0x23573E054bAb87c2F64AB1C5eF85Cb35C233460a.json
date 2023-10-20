@@ -1,0 +1,37 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://app.optimism.io/profile/rpgf-application/impact-statement",
+  "bio": "11",
+  "contributionDescription": "1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://app.optimism.io/profile/rpgf-application/impact-statement",
+      "description": "111"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
+  "impactDescription": "11111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+  "impactMetrics": [
+    {
+      "description": "1",
+      "number": 1,
+      "url": "https://app.optimism.io/profile/rpgf-application/impact-statement"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x23573E054bAb87c2F64AB1C5eF85Cb35C233460a",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "ads",
+  "applicantName": "666",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x23573E054bAb87c2F64AB1C5eF85Cb35C233460a.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x23573E054bAb87c2F64AB1C5eF85Cb35C233460a.json",
+  "RPGF3_Application_UID": "0x7ba65973a2cfc9972dda3e60066576eb0ac72745d7731dc4386dc36ea9899c87",
+  "applicantAddress": "0x23573E054bAb87c2F64AB1C5eF85Cb35C233460a"
+}

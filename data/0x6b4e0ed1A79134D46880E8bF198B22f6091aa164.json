@@ -1,0 +1,44 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://nextme.one/zhaojie88",
+  "bio": "web3区块链爱好者",
+  "contributionDescription": "智能合约交互，参与生态发展，积极参与治理投票，增加社区共识，希望大家一起共同打造web3最强生态环境，寻找乐观优质生态，积极参与乐观生态项目，积极参与乐观链上的活动，我自从开始学习web3后一直在乐观进行交互，很可惜之前没有参与，因为我还没有了解区块链这一行业，希望官方给我一个机会，让我有辛参与生态系统，由于参与区块链比较晚，请务必给我一个机会，谢谢你们，乐观生态强大，一直在引领生态向前推进，在熊市依然稳定，这就是大家一起的努力，希望未来有更加精彩的方向，引领生态蓬勃发展，我如果有辛参与其中，我会非常努力地保护生态，推广宣传，谢谢",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://optimistic.etherscan.io/tx/0xae9837afd151b7e934ec726ac058feafca2fb592d07882795c8fbe494ec5ed28",
+      "description": "智能合约交互"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
+  "impactDescription": "Älä jää tunteidesi kanssa yksin. 🧡\n\nRahaan liittyvä ahdistus on yleistä. Se voi olla lievää, ohimenevää tai tilannesidonnaista. Pitkittyessään se voi näyttäytyä pelkona, epätoivona ja häpeänä, jolloin rahaan liittyvät tunteet voivat alkaa hallitsemaan ajatuksia.\n\nOn tärkeää kohdata rahaan liittyvät tunteet ja puhua niistä matalalla kynnyksellä. Usein olo helpottuu, kun joku kuuntelee.\n\nHuolien kanssa ei tarvitse jäädä yksi",
+  "impactMetrics": [
+    {
+      "description": "智能合约",
+      "number": 300,
+      "url": "https://optimistic.etherscan.io/tx/0xae9837afd151b7e934ec726ac058feafca2fb592d07882795c8fbe494ec5ed28"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 100,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0x6b4e0ed1A79134D46880E8bF198B22f6091aa164",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "zhaojie",
+  "applicantName": "zhaojie",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x6b4e0ed1A79134D46880E8bF198B22f6091aa164.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x6b4e0ed1A79134D46880E8bF198B22f6091aa164.json",
+  "RPGF3_Application_UID": "0x1fb5fafcee66413437335b6b73903c849b26fda511b8e2c298649ede6b5f0465",
+  "applicantAddress": "0x6b4e0ed1A79134D46880E8bF198B22f6091aa164"
+}

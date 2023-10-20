@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
-  "websiteUrl": "https://dune.com/niftytable/account-abstraction",
-  "bio": "A Dune dashboard that presents data on the adoption of ERC4337 Smart Accounts",
+  "websiteUrl": "https://0xkofi.com/",
+  "bio": "- Onchain Data Scientist\n- Contributing @ Alchemy and DefiLlama\n- 2,200+ Stars on Dune (https://dune.com/niftytable)",
   "contributionDescription": "𝗧𝗟𝗗𝗥\nBuilt a Dune dashboard on ERC4337 Smart Accounts. Provides valuable insight for teams building smart account infrastructure.\n\n𝗗𝗲𝘀𝗰𝗿𝗶𝗽𝘁𝗶𝗼𝗻\nThis dashboard breaks down \n- Overview statistics  (accounts deployed, monthly transactions .etc)\n- Bundler Performance (marketshare, revenue .etc)\n- Paymaster activity (marketshare, gas spend .etc)\n- Application usage by ERC4337 accounts \n\nIt is currently the most popular Dune dashboard for ERC4337 with 410+ stars. ",
   "contributionLinks": [
     {
@@ -28,14 +28,11 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "Project": "ERC4337 Smart Accounts Dashboard",
-  "Applicant Type": "PROJECT",
-  "OSS Directory": "",
-  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x701E37643DADa13DE79e66A74E7d6187FC48faD2.json",
-  "Githubs": "",
-  "Tags": "DEVELOPER_ECOSYSTEM",
-  "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Tokenization Platforms, Blockchain Infrastructure, Smart Contract Platforms",
-  "pwIsFlagged": false,
-  "pwCategory": "Developer Ecosystem"
+  "displayName": "ERC4337 Smart Accounts Dune Dashboard",
+  "applicantName": "0xKofi",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x701E37643DADa13DE79e66A74E7d6187FC48faD2.jpeg",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x701E37643DADa13DE79e66A74E7d6187FC48faD2.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x701E37643DADa13DE79e66A74E7d6187FC48faD2.json",
+  "RPGF3_Application_UID": "0x4afa3f3679237d1a52cfd87f258f57d8de01d64a69182591807c471accdc0f16",
+  "applicantAddress": "0x701E37643DADa13DE79e66A74E7d6187FC48faD2"
 }

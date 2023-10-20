@@ -1,0 +1,50 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://dune.com/hildobby",
+  "bio": "data @ Dragonfly & public goods contributor on Dune",
+  "contributionDescription": "Hello, I have created public good Dune dashboards such as:\n- ETH Staking: https://dune.com/hildobby/eth2-staking\n- Gas Overview: https://dune.com/hildobby/Gas\n- NFT Market Overview: https://dune.com/hildobby/NFTs\n- NFT Wash Trading: https://dune.com/hildobby/nfts-wash-trading\n\nI've also created 300+ tables on Dune (most anyone has) for all Dune analysts to use. Some notable ones include: evms.[transactions, traces, logs, ...], nft.[transfers, approvals, trades, wash_trades, info], fungible.transfers, dex.[flashloans, info], staking_ethereum.[entities, deposits, flows, info], addresses_events.first_funded_by, airdrop.claims, tornado_cash.[deposits, withdrawals], ...",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://dune.com/hildobby",
+      "description": "My profile on Dune"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/duneanalytics/spellbook",
+      "description": "Dune's spellbook repo, used to create tables to use on Dune"
+    }
+  ],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
+  "impactDescription": "The dashboards I have created have been used to get a better picture of onchain activity, thus helping with research for everyone involved. The tables I have created on Dune have also been very helpful to many analysts who can now focus more on analytics rather than needing to tackle a lot of data engineering.",
+  "impactMetrics": [
+    {
+      "description": "Dune stars",
+      "number": 13728,
+      "url": "https://dune.com/browse/wizards"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 31191.45,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0x09a5943a6d10919571eE2C9F63380aEA747ECA97",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "hildobby",
+  "applicantName": "hildobby",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x09a5943a6d10919571eE2C9F63380aEA747ECA97.jpeg",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x09a5943a6d10919571eE2C9F63380aEA747ECA97.jpeg",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x09a5943a6d10919571eE2C9F63380aEA747ECA97.json",
+  "RPGF3_Application_UID": "0xf46f276a1645c0b23162b3fc89965a022cb4dc20900c0f6bbeb3710ea4ddd7e8",
+  "applicantAddress": "0x09a5943a6d10919571eE2C9F63380aEA747ECA97"
+}

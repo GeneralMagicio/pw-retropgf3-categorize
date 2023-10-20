@@ -1,7 +1,7 @@
 {
   "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://twitter.com/MRMCTAN15",
-  "bio": "Fan of Crypto since 2 years ago. I know that crypto will dominate in the future",
+  "bio": "Crypto enthusiast",
   "contributionDescription": "I am here to support by means of delegation and participating in community activities. I will also buy a lot of Optimism in the future and will participate in voting governance. For me, Optimism is a fast, stable, and scalable L2 solution built on Ethereum. ",
   "contributionLinks": [
     {
@@ -35,15 +35,10 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "Project": "Uhtred",
-  "Applicant Type": "INDIVIDUAL",
-  "OSS Directory": "",
-  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xfd555256bE7f02Ce04509fa5dEC7C66164C33C66.json",
-  "Githubs": "",
-  "Tags": "COLLECTIVE_GOVERNANCE",
-  "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Layer 2 Scaling, Governance Tokens",
-  "pwIsFlagged": true,
-  "pwFlaggedReason": "Flagged for violation of rule 1. The applicant's statement about intending to support by buying a lot of Optimism in the future amounts to a promise of future impact, which is not allowed.",
-  "pwCategory": "Community Building"
+  "displayName": "Uhtred",
+  "applicantName": "Uhtred",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xfd555256bE7f02Ce04509fa5dEC7C66164C33C66.jpeg",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xfd555256bE7f02Ce04509fa5dEC7C66164C33C66.json",
+  "RPGF3_Application_UID": "0x003e99b295e21ca620ab462db8ff44b2f2ff91877a2ee380505d2a52d74a111c",
+  "applicantAddress": "0xfd555256bE7f02Ce04509fa5dEC7C66164C33C66"
 }

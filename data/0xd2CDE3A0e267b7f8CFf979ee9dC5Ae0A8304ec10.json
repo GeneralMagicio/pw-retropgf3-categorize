@@ -1,0 +1,45 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://LinkedIn.com/in/xonom",
+  "bio": "I'm a front end developer and a technical analyst ",
+  "contributionDescription": "I've been able to integrate the L2 into governance and proactive trading and will be able to do more if given access . Making it easy to view a trading platform with it aid of smooth layer and also a considerable spread and even integrating more of alt coins and major crypto currency ",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://solitech.xyz",
+      "description": "All set"
+    }
+  ],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "I've been able to integrate the L2 into governance and proactive trading and will be able to do more if given access . Making it easy to view a trading platform with it aid of smooth layer and also a considerable spread and even integrating more of alt coins and major crypto currency ",
+  "impactMetrics": [
+    {
+      "description": "Android ",
+      "number": 400,
+      "url": "https://solitech.xyz"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 1000,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0xd2CDE3A0e267b7f8CFf979ee9dC5Ae0A8304ec10",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Xonom",
+  "applicantName": "Xonom",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xd2CDE3A0e267b7f8CFf979ee9dC5Ae0A8304ec10.json",
+  "RPGF3_Application_UID": "0x7d58bba966d8905f8c4898d739f558a868b3310187bea366b23991094f53ffc1",
+  "applicantAddress": "0xd2CDE3A0e267b7f8CFf979ee9dC5Ae0A8304ec10"
+}

@@ -35,14 +35,11 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "Project": "thebank",
-  "Applicant Type": "INDIVIDUAL",
-  "OSS Directory": "",
-  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x0bF1fEe0f3DBb4031e4C12E2985df93F267D53AB.json",
-  "Githubs": "",
-  "Tags": "COLLECTIVE_GOVERNANCE",
-  "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Blockchain Infrastructure, Governance Tokens",
-  "pwIsFlagged": false,
-  "pwCategory": "Collective Governance"
+  "displayName": "thebank",
+  "applicantName": "thebank",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x0bF1fEe0f3DBb4031e4C12E2985df93F267D53AB.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x0bF1fEe0f3DBb4031e4C12E2985df93F267D53AB.jpeg",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x0bF1fEe0f3DBb4031e4C12E2985df93F267D53AB.json",
+  "RPGF3_Application_UID": "0x951563f89bebf9f3d554d2f51086233c983aa4561682c7acf2ef04369971f2d1",
+  "applicantAddress": "0x0bF1fEe0f3DBb4031e4C12E2985df93F267D53AB"
 }

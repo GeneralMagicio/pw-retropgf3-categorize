@@ -1,0 +1,53 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://addrs.to/",
+  "bio": "addrs is free a tool to replace addresses with a one tap web2 payment UX.",
+  "contributionDescription": "Weve developed a platform that allows users to create payment profiles that function like a Linktree, containing all of their cryptocurrency addresses in one place with web2 payment UX.\n\nWhat is addrs?\naddrs is a platform that allows users to create payment profiles containing all of their cryptocurrency addresses in one place, making it easier to send and receive cryptocurrency. When someone clicks on the link, their wallet will open with your address automatically entered, eliminating the need to manually input long addresses. Any ETH wallet. addrs is a non-custodial platform, meaning that we do not hold onto your cryptocurrency or private keys. This gives users full control over their assets and adds an extra layer of security. We support OP on Optimism aswell as ETH AND stables.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://addrs.to/",
+      "description": "App"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://addrs.to/pr0/OPETH?amount=.01",
+      "description": "Sample OP ETH UX"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "In addition to the convenient link-based system for sending and receiving cryptocurrency, addrs also offers the ability to receive crypto using a Visa/MC/Bank and have it deposited directly into their wallet without the need for a custodial account. This allows for Optimism to be used to onramp payments\n\nYou can also easily embed addrs directly into your site using our optimized embed.addrs.to embeds. Just plug and play and itll handle the rest. This allows for anyone to accept Crypto payments with a simple UX.",
+  "impactMetrics": [
+    {
+      "description": "Users",
+      "number": 1600,
+      "url": "https://twitter.com/addrsTo"
+    },
+    {
+      "description": "Assets supported",
+      "number": 22,
+      "url": "https://addrs.to/"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 0,
+      "description": "Self Funded. Never received any funding."
+    }
+  ],
+  "payoutAddress": "0x14B214CA36249b516B59401B3b221CB87483b53C",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "addrs",
+  "applicantName": "addrs",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x14B214CA36249b516B59401B3b221CB87483b53C.json",
+  "RPGF3_Application_UID": "0x41447f20a6679e0c01e470acb3392b51d88742a34ada25831ac607459266aee1",
+  "applicantAddress": "0x14B214CA36249b516B59401B3b221CB87483b53C"
+}

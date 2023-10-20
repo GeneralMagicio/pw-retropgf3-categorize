@@ -1,0 +1,51 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://launchifi.xyz",
+  "bio": "Empowering the next generation of creators and founders with the tools to launch their web3 projects at speed, while lowering the barriers to entry for all.",
+  "contributionDescription": "We’re a company built with the mission to empower the next generation of creators and founders with the tools to launch their web3 projects at speed, while lowering the barriers to entry for all. At Launchifi, we’re building the most advanced no-code web3 ecosystem that enables anybody to deploy their projects onchain in less than a minute. ",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://mint.launchifi.xyz",
+      "description": "Mint Marketplace"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://app.launchifi.xyz",
+      "description": "No Code Launchpad"
+    }
+  ],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "We are building an ecosystem that enables the next generation of creators to easily join the web3 revolution through full ownership of their smart contracts, protection against ill-intentioned bad actors in the space, and the democratization of utility and tools that otherwise would not be available to them. ",
+  "impactMetrics": [
+    {
+      "description": "# of Smart Contracts Deployed",
+      "number": 340,
+      "url": "https://launchifi.xyz"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 0,
+      "description": "We were selected in RetroPGF to receive approximately 3400 OP however never did."
+    }
+  ],
+  "payoutAddress": "0x64249ED5Ef7a004d268A508092851e987482a175",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Launchifi",
+  "applicantName": "Launchifi",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x64249ED5Ef7a004d268A508092851e987482a175.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x64249ED5Ef7a004d268A508092851e987482a175.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x64249ED5Ef7a004d268A508092851e987482a175.json",
+  "RPGF3_Application_UID": "0x9bc691b1ab0e6a2ce16c4cdacb1b2a980d9b841b4fd51ba0a6d54b9c75d9845b",
+  "applicantAddress": "0x64249ED5Ef7a004d268A508092851e987482a175"
+}

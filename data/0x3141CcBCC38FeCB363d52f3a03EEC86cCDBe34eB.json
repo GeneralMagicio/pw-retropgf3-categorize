@@ -1,0 +1,36 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://twitter.com/yunlong_yin",
+  "bio": " continuous learning and adapting to change are the keys to success.",
+  "contributionDescription": "I am particularly focused on self-improvement and committed to continuous learning and development. I believe that continuous learning and adapting to change are the keys to success. Additionally, I am a helpful person who enjoys assisting others in overcoming challenges and achieving their goals",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/tx/0x520b8843226422b667d0f8e7421a416b6f754795b316b0de5c43cceb39a67d6a",
+      "description": "hhh"
+    }
+  ],
+  "impactCategory": [
+    "OP_STACK"
+  ],
+  "impactDescription": "I am particularly focused on self-improvement and committed to continuous learning and development. I believe that continuous learning and adapting to change are the keys to success. Additionally, I am a helpful person who enjoys assisting others in overcoming challenges and achieving their goals",
+  "impactMetrics": [
+    {
+      "description": "pv",
+      "number": 1,
+      "url": "https://optimistic.etherscan.io/tx/0x520b8843226422b667d0f8e7421a416b6f754795b316b0de5c43cceb39a67d6a"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x3141CcBCC38FeCB363d52f3a03EEC86cCDBe34eB",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "yunlong",
+  "applicantName": "yunlong",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x3141CcBCC38FeCB363d52f3a03EEC86cCDBe34eB.json",
+  "RPGF3_Application_UID": "0x60a42cd93f9d0b29382846ea61e8b9eef2997451a212cb9e5ff9d3f68ee87010",
+  "applicantAddress": "0x3141CcBCC38FeCB363d52f3a03EEC86cCDBe34eB"
+}

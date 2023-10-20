@@ -1,0 +1,36 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://twitter.com/oblivious_says",
+  "bio": "i use projects that r doing great works for web3 development..",
+  "contributionDescription": "i am a regular user pf optimism, u can check my transaction history..i have completed optimism quests also.. i share infos through social media about whatever optimism is doing.. thats may not be enough but i do my bit...not a techie so cant help with that part, sorry guys if i am wasting your time..",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://twitter.com/oblivious_says",
+      "description": "0xa271369dC0575b2a1fD2D5882240A263EC3fb974"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "users like me r the base of any ecosystem.. if we normal users r not there, how will a project evolve..it cant be solely made for techie guys if normal users dont use it..op is like regular passenger buses which anybody can aboard, may be hypothetical but thats true..\n",
+  "impactMetrics": [
+    {
+      "description": "nothing",
+      "number": 0,
+      "url": "https://twitter.com/oblivious_says"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0xa271369dC0575b2a1fD2D5882240A263EC3fb974",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "oblivious",
+  "applicantName": "oblivious",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xa271369dC0575b2a1fD2D5882240A263EC3fb974.json",
+  "RPGF3_Application_UID": "0x3b27de2c85a625e29de2a8d57566b982f90f47d1b3916515c9b5b71660d17c20",
+  "applicantAddress": "0xa271369dC0575b2a1fD2D5882240A263EC3fb974"
+}

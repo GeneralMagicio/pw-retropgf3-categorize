@@ -1,0 +1,172 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://linktr.ee/robiomarine",
+  "bio": "I am a reef scientist, who is exploring the integration of public goods and DeSci with web3 communities to innovate and create a protopian a world in Latam Ü",
+  "contributionDescription": "I seek solo recognition for funding public goods through DeSci/ReFi in the Optimism ecosystem. This includes initiatives like community-building, grants, educational events, conservation efforts, and innovative projects. My contributions aim to support sustainability and make a positive impact. My efforts encompass community building, diverse funding sources, educational outreach, sustainable innovation discussions, collaborative meetups, coral reef regeneration, transparent reporting, thought leadership engagement, targeted outreach, and innovative NFT ventures, all contributing to the growth and impact of Optimism.\n\nPublic goods thrive with Optimism! ",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x6C5503B95c6cF373a52462A948F4faF493BDf901",
+      "description": "1. First QF GreenPill network local chapters on Optimism."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/GreenPillMexico/status/1663678107230904320",
+      "description": "1.1. Twitter Post on First QF GreenPill Mexico local chapters on Optimism."
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/tx/0x4cd0e35083f48424e147c5f01daf7ba0bdec47c570d9dccae74badec98f34231",
+      "description": "2. Grant of GreenPill México/Nación Bankless/Camino Optimista (Optimism)."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/watch?v=ufrkiITSzZk",
+      "description": "2.1 Videocall talking about Optimism for Spanic Communities and GG18"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/0xBlockLab/status/1702028767512633586?s=20",
+      "description": "3. Talk about Regen Cryptoecosystems as part of Camino Optimista (Optimism)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/GreenPillMexico/status/1702944725093789825",
+      "description": "4. Meetup Part of Camino Optimista (Optimism)+Nación Bankless+GreenPill México"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x1848F1a85fCBC349016e63150D1E605c6d7fAa0B",
+      "description": "5. MesoReefDAO Regenerating Coral Reefs on QF on Gitcoin GG18 in Optimism"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/MesoReefDAO/status/1690942283724566530?s=20",
+      "description": "5.1. MesoReefDAO Twitter Account where you can see the impact of Optimism funds"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/GreenPillMexico/status/1682692046794964992",
+      "description": "6. Twitter Space of distribution mechanisms in the regenerative cryptoeconomy"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://weekinethereumnewses.substack.com/",
+      "description": "7. Week in Ethereum News (ES) for hispanic people to incentivize to use Optimism"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://opensea.io/hileaves/collected?search[chains][0]=OPTIMISM&search[chains][1]=ZORA",
+      "description": "8. NFTs, and mirror entrances with cryptobenthic🐠.eth & this one"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "These Optimism initiatives have had a profound impact. They include establishing the QF GreenPill Mexico chapter, securing grants for various projects, engaging the Hispanic community, showcasing sustainable innovation, and emphasizing real-world impact through initiatives like MesoReefDAO. Additionally, exploring and distribution mechanisms and collecting NFTs on Zora and OP adding further innovation to the collective. Creation of mirror.xyz entries regarding to Ethereum first cohort of writers, greenpill regen cohort and DeSci. These efforts collectively drive towards a more inclusive and sustainable future within the Optimism community to Latam. Divulgation of sentences for Optimism updates and news in Week Ethereum News (ES) for hispanic people.",
+  "impactMetrics": [
+    {
+      "description": "1. Contributors GreenPill Mexico QF",
+      "number": 10,
+      "url": "https://gov.gitcoin.co/t/greenpill-network-5k-qf-round-wrap-up-review/15277"
+    },
+    {
+      "description": "1.1. Views Twitter QF GreenPillMexico ",
+      "number": 815,
+      "url": "https://twitter.com/GreenPillMexico/status/1663678107230904320"
+    },
+    {
+      "description": "2. USD Grant of Ethereum Mexico",
+      "number": 250,
+      "url": "https://optimistic.etherscan.io/tx/0x4cd0e35083f48424e147c5f01daf7ba0bdec47c570d9dccae74badec98f34231"
+    },
+    {
+      "description": "2.1 Views Videocall of Optimism and GG18",
+      "number": 50,
+      "url": "https://www.youtube.com/watch?v=ufrkiITSzZk"
+    },
+    {
+      "description": "3. # people irl-virtual Regen Crypto",
+      "number": 60,
+      "url": "https://x.com/0xBlockLab/status/1702028767512633586?s=20"
+    },
+    {
+      "description": "4. # people irl Meetup GreenPill México",
+      "number": 15,
+      "url": "https://twitter.com/GreenPillMexico/status/1702944725093789825"
+    },
+    {
+      "description": "5. # Contributors MesoReefDAO QF GG18 OP",
+      "number": 70,
+      "url": "https://docs.google.com/spreadsheets/d/133eTg4V0iSsK0Id3iBMV1eHRogeWhJm91H2t0fWL0WE/edit#gid=254815602"
+    },
+    {
+      "description": "5.1 Tweet Impressions MesoReefDAO GG18OP",
+      "number": 46000,
+      "url": "ipfs://bafkreigxz7hcxum7y7qbycoi3ezpnttfpkbfx5bmecc3q3csw4j74j5r64"
+    },
+    {
+      "description": "6. # Listeners tunned Twitter SpaceRegen",
+      "number": 106,
+      "url": "https://x.com/GreenPillMexico/status/1682692050024644609?s=20"
+    },
+    {
+      "description": "7. Subscriptions WeekinEthereum (ES) ",
+      "number": 1509,
+      "url": "ipfs://bafkreic7mnvlcopbrzci7lkbdi5vfal43txepyjcxlakzrvmpbgnwqqyzm"
+    },
+    {
+      "description": "8. # NFTs, mirror's cryptobenthic🐠.eth",
+      "number": 50,
+      "url": "https://opensea.io/hileaves/collected?search[chains][0]=OPTIMISM&search[chains][1]=ZORA"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 900,
+      "description": "MesoReefDAO: Gitcoin QF Beta Rounds Climate Solutions + Metacrisis + DeSci Round"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 900,
+      "description": "QF GreenPill Experimental Mexico Local Chapter by @owocki (June 2023)"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 3270,
+      "description": "MesoReefDAO Gitcoin GG18 Climate Solutions + Shell Climate Solutions Round"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 5.73,
+      "description": "Giveth MesoReefDAO "
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 250,
+      "description": "From Ethereum Mexico to create irl-virtual events for Camino Optimista (OP)"
+    }
+  ],
+  "payoutAddress": "0x9F000bfB33b0B63fCE685B538B1A8af079b57D93",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Rodrigo NuñΞz",
+  "applicantName": "Rodrigo NuñΞz",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x4D5B28d08e8c00e041053b0dc584e00e6997Daa3.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x4D5B28d08e8c00e041053b0dc584e00e6997Daa3.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x4D5B28d08e8c00e041053b0dc584e00e6997Daa3.json",
+  "RPGF3_Application_UID": "0x8cce00b421d2f19c829d484b423a49f311d41355238c5c5a73b72d62c5c63f56",
+  "applicantAddress": "0x4D5B28d08e8c00e041053b0dc584e00e6997Daa3"
+}

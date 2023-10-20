@@ -1,7 +1,7 @@
 {
   "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://ch.linkedin.com/company/space-metaverse",
-  "bio": "I'm developer of metaverse",
+  "bio": "Developer in metaverse world",
   "contributionDescription": "I will try to create metaverse with a gamehub for players and developers. In my metaverse players will get chance to earn a token of project and mint on chain assets as a nft tokens. All this games will be in one walk thru metaverse and player will be able to pick right game for them.",
   "contributionLinks": [
     {
@@ -37,15 +37,9 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "Project": "Coinlord",
-  "Applicant Type": "INDIVIDUAL",
-  "OSS Directory": "",
-  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xCF8BE0c141fB112eAF8fcC9b8406CBEdbC6F296D.json",
-  "Githubs": "",
-  "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION",
-  "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION",
-  "pwIsFlagged": true,
-  "pwFlaggedReason": "The application should be flagged because it violates the rule against \"Promises of future impact\". The applicant states they \"will try to create metaverse with a game hub\", which is a promise of a future deliverable.",
-  "pwCategory": "Blockchain Gaming"
+  "displayName": "Coinlord",
+  "applicantName": "Coinlord",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xCF8BE0c141fB112eAF8fcC9b8406CBEdbC6F296D.json",
+  "RPGF3_Application_UID": "0x70d877cbfbfe1b4164eae3c2e258e86805d09b535362d9f4cb42feb2145ab10f",
+  "applicantAddress": "0xCF8BE0c141fB112eAF8fcC9b8406CBEdbC6F296D"
 }

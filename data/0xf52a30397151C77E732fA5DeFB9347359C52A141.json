@@ -1,7 +1,7 @@
 {
   "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://thedefisaint.substack.com/",
-  "bio": "Independent L2 Educator ",
+  "bio": "Independent L2 Educator",
   "contributionDescription": "I educate the masses on my Twitter channel by simplifying the core tech of Optimism and also cover important updates and announcements weekly on my weekly Layer 2 Roundup. \n\nAlso, on my newsletter, I cover the present states of L2s which I simplify in details and breakdown important events and updates on Optimism.",
   "contributionLinks": [
     {
@@ -89,14 +89,10 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "Project": "DeFI Saint",
-  "Applicant Type": "INDIVIDUAL",
-  "OSS Directory": "Github Found",
-  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xf52a30397151C77E732fA5DeFB9347359C52A141.json",
-  "Githubs": "https://thedefisaint.substack.com/archive?sort=new",
-  "Tags": "",
-  "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Layer 2 Scaling, Education",
-  "pwIsFlagged": false,
-  "pwCategory": "Education"
+  "displayName": "DeFI Saint ",
+  "applicantName": "DeFI Saint",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xf52a30397151C77E732fA5DeFB9347359C52A141.jpeg",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xf52a30397151C77E732fA5DeFB9347359C52A141.json",
+  "RPGF3_Application_UID": "0x877274b9531669039d60b16f0bb436f30720126fd2c1d4a76d20558a5130a4c4",
+  "applicantAddress": "0xf52a30397151C77E732fA5DeFB9347359C52A141"
 }

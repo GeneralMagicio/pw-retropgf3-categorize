@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://go.zenbit.mx",
-  "bio": "A public good for collaborative governance in cities with plural voting",
+  "bio": "I do R&D @ zenbit.eth, Im building public goods to decentralize urban processes in Querétaro City, México",
   "contributionDescription": "The zengoDAO contracts enable the addition of a decentralized budget for cities, empowering citizens to participate in urban governance with proposals to address community needs in public spaces.\n\nModerators allocate the decentralized budget through an iterative verification process with local, regional, and national government instances. Then, they vote to distribute the funds among the verified submissions with a plural voting round.\n\nZengo results from R&D around urban governance and retroactive funding carried out by zenbit.eth. This process started with the Cities Protocol in 2021 followed by CiudadesDAO in 2022. In the same year, We started to test Optimism, deploying RegensDAO, and Eneagon, and now, in 2023, we are integrating these solutions with Zengo in the OP Goerli testnet.",
   "contributionLinks": [
     {
@@ -166,14 +166,11 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "Project": "zenbit.eth",
-  "Applicant Type": "PROJECT",
-  "OSS Directory": "Not Found",
-  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x04cc6b487566B1C821bEa04d7ac0d23CEDe05cC9.json",
-  "Githubs": "https://github.com/orgs/zenbitETH/repositories",
-  "Tags": "",
-  "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Collaborative Governance, Urban Governance, Decentralized Budget, Plural Voting, Smart Contract Platforms",
-  "pwIsFlagged": false,
-  "pwCategory": "Governance & Tokens"
+  "displayName": "Zengo: Decentralized Budget",
+  "applicantName": "habacuc.eth",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x04cc6b487566B1C821bEa04d7ac0d23CEDe05cC9.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x04cc6b487566B1C821bEa04d7ac0d23CEDe05cC9.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x04cc6b487566B1C821bEa04d7ac0d23CEDe05cC9.json",
+  "RPGF3_Application_UID": "0x68cef3183236e7717d0fc1c7b18e0fa3c6d7f752d2803686712c8168fe21b400",
+  "applicantAddress": "0x04cc6b487566B1C821bEa04d7ac0d23CEDe05cC9"
 }

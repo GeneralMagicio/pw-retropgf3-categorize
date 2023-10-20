@@ -298,6 +298,56 @@
       "type": "OTHER",
       "url": "https://x.com/NacionBankless/status/1664308784330686466?s=20",
       "description": "Tweet in OP radio about OP stack and Celestia"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/NacionBankless/status/1705763860534178002?s=20",
+      "description": "Tweet of an event IRL talking about Optimism RollUp"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/NacionBankless/status/1691521912856252416?s=20",
+      "description": "Nacion Bankless was funded in Optimism tweet"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/NacionBankless/status/1712826707063795898?s=20",
+      "description": "Another L2 rollup (Oct 13)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://nacionbankless.substack.com/p/es-extrano-todavia-revision-de-las?r=yd8n9&utm_campaign=post&utm_medium=web",
+      "description": "RollUp Newsletter with all the L2 ecosystem"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/NacionBankless/status/1695807197836390761?s=20",
+      "description": "Conflict of Interest"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/NacionBankless/status/1708869824539947247?s=20",
+      "description": "Giveth x Optimism participation"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://nacionbankless.substack.com/p/puede-farcaster-hacer-realidad-crypto",
+      "description": "Newsletter about Farcaster"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://nacionbankless.substack.com/p/eas-explicado",
+      "description": "Newsletter about ethereum attestattion service"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://nacionbankless.substack.com/p/bienvenido-a-basepaint",
+      "description": "Newsletter about Base Paint"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://nacionbankless.substack.com/p/bienes-publicos-en-el-mundo-cripto",
+      "description": "Public Goods in the crypto world"
     }
   ],
   "impactCategory": [
@@ -319,12 +369,12 @@
     },
     {
       "description": "Substack Suscribers (Number)",
-      "number": 268,
+      "number": 354,
       "url": "https://www.notion.so/bankless/Substack-ecf0d3af33e64343b12686d855d7df89"
     },
     {
       "description": "Twitter Followers (Number)",
-      "number": 2180,
+      "number": 2227,
       "url": "https://twitter.com/NacionBankless"
     },
     {
@@ -344,7 +394,7 @@
     },
     {
       "description": "YouTube (Subsribers)",
-      "number": 147,
+      "number": 152,
       "url": "https://www.notion.so/bankless/YouTube-cd6aad8b499d4aedaba09da30734490e"
     },
     {
@@ -472,6 +522,18 @@
       "currency": "USD",
       "amount": 750,
       "description": "NounsDAO amgos"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 2144,
+      "description": "Gitcoin  Meta Pool LATAM Round"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 500,
+      "description": "Gitcoin Round #18"
     }
   ],
   "payoutAddress": "0x8eA0749eA936762b7A5BfDD6c0f5beAb02fF0Bf4",
@@ -480,14 +542,9 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "Project": "Nacion Bankless",
-  "Applicant Type": "PROJECT",
-  "OSS Directory": "Address Found",
-  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xA8F0048A0d1A04663Ca5010d0bEaC5BCAEeA0eef.json",
-  "Githubs": "",
-  "Tags": "",
-  "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Blockchain Infrastructure, Content Creation, Community Building, Education, Media Outreach",
-  "pwIsFlagged": false,
-  "pwCategory": "Community Building"
+  "displayName": "Nacion Bankless",
+  "applicantName": "Nación Bankless",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xA8F0048A0d1A04663Ca5010d0bEaC5BCAEeA0eef.json",
+  "RPGF3_Application_UID": "0xd288468561dab001c87bc5ccd2ff5a9277ad161e90adf2895a8c17c67ebd0041",
+  "applicantAddress": "0xA8F0048A0d1A04663Ca5010d0bEaC5BCAEeA0eef"
 }

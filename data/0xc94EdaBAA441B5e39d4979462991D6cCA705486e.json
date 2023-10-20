@@ -1,0 +1,50 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://blocktorch.xyz",
+  "bio": "Hi! I'm Gery, co-founders @ Blocktorch.xyz\nWe are building a monitoring and observability tool for web3 engineers, to fully understand dApps, roll-ups, etc",
+  "contributionDescription": "Our contributions to Optimism are twofold. First, Blocktorch.xyz, our web3 observability platform, plays a vital role in monitoring the Optimism Chain and opStack roll-ups. It enhances network transparency, security, and performance. Second, Opti-mystic, our roll-up discovery service, simplifies the process of identifying and interacting with roll-ups on the opStack, fostering easier adoption and development. These contributions serve as integral pillars supporting developers to build on the Optimism ecosystem. The RetroPGF grants we seek are aimed at fortifying and advancing these vital tools, ensuring the seamless operation and sustainable development of Optimism.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://beta.blocktorch.xyz",
+      "description": "This is the live beta of the blocktorch monitoring platform to try out"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://ethglobal.com/showcase/opti-mystic-ze5mb",
+      "description": "a discovery service to find optimistic rollups and run their nodes in 4 steps"
+    }
+  ],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
+  "impactDescription": "Streamlined Adoption: Opti-mystic, our roll-up discovery service, has simplified the process of discovering and utilizing roll-ups on the opStack. This has lowered the barriers to entry for developers and users, promoting the broader adoption of Optimism solutions.\n\nCommunity Growth: By providing essential tools for monitoring and roll-up discovery, we've contributed to the growth of the Optimism community. More developers and users can actively engage with the network, fostering a larger, more vibrant collective.\n\nEcosystem Resilience: Our contributions support the overall resilience and sustainability of the Optimism ecosystem. With enhanced monitoring and easier access to roll-ups, the network can adapt to challenges and scale more effectively.",
+  "impactMetrics": [
+    {
+      "description": "Optimism Transactions Monitored",
+      "number": 36000000,
+      "url": "https://beta.blocktorch.xyz"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 4000000,
+      "description": "Venture Capital Funding"
+    }
+  ],
+  "payoutAddress": "0xc94EdaBAA441B5e39d4979462991D6cCA705486e",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Blocktorch",
+  "applicantName": "Gery@Blocktorch",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xc94EdaBAA441B5e39d4979462991D6cCA705486e.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xc94EdaBAA441B5e39d4979462991D6cCA705486e.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xc94EdaBAA441B5e39d4979462991D6cCA705486e.json",
+  "RPGF3_Application_UID": "0x6a534fd1cab7d3770c6f747abf1f481807df4220f3c0464d510b35eed65498a6",
+  "applicantAddress": "0xc94EdaBAA441B5e39d4979462991D6cCA705486e"
+}

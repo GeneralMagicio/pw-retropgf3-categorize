@@ -1,0 +1,45 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://web.facebook.com/?_rdc=1&_rdr",
+  "bio": "Optimism is my heart, without it I am basically dead.",
+  "contributionDescription": "My contributions to optimism is that i used it on bridging and minting nfts. With its low gas fees, I can easily interact with different NFT projects and bridging funds. Its super fast and I really love it. Soon, it will surpass etherium and will solve its scalability challenges.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x58fB42964105931A5B5872B6034660191b32b51c",
+      "description": "etherscan"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "My contributions to optimism is that i used it on bridging and minting nfts. With its low gas fees, I can easily interact with different NFT projects and bridging funds. Its super fast and I really love it. Soon, it will surpass etherium and will solve its scalability challenges.",
+  "impactMetrics": [
+    {
+      "description": "BRIDGING",
+      "number": 1,
+      "url": "https://optimistic.etherscan.io/address/0x58fB42964105931A5B5872B6034660191b32b51c"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 24077260.506579876,
+      "description": "RetroPGF 3"
+    }
+  ],
+  "payoutAddress": "0x58fB42964105931A5B5872B6034660191b32b51c",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "JAYSON",
+  "applicantName": "JAYSON",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x58fB42964105931A5B5872B6034660191b32b51c.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x58fB42964105931A5B5872B6034660191b32b51c.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x58fB42964105931A5B5872B6034660191b32b51c.json",
+  "RPGF3_Application_UID": "0x0df24c2dfd1a95aa52d81bcafc266a5a4f080f29cbbc067c97c056e130443498",
+  "applicantAddress": "0x58fB42964105931A5B5872B6034660191b32b51c"
+}

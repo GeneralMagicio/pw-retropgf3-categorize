@@ -1,7 +1,7 @@
 {
   "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://solidity-by-example.org/",
-  "bio": "I share what I learned about Solidity, Vyper and DeFi",
+  "bio": "I share Solidity, Vyper and DeFi on YouTube\n\nhttps://www.youtube.com/@smartcontractprogrammer\n\nAuthor of\nhttps://solidity-by-example.org/",
   "contributionDescription": "My contributions may not be a direct contribution to Optimism.\nI share what I learned about Solidity, Vyper, smart contracts and block chains. \nIn the past I've published Solidity code examples, common vulnerabilities and DeFi examples.  I've also published some videos on how to deploy smart contracts to L2 including Arbitrum and Optimism.\n",
   "contributionLinks": [
     {
@@ -50,15 +50,11 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "Project": "Taz",
-  "Applicant Type": "INDIVIDUAL",
-  "OSS Directory": "Not Found",
-  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xFab488A8Eb04c6c211CBFd15B1da021A9CC0Bd0c.json",
-  "Githubs": "https://github.com/stakewithus/notes",
-  "Tags": "",
-  "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Smart Contract Platforms, Layer 2 Scaling, Decentralized Finance (DeFi)",
-  "pwIsFlagged": true,
-  "pwFlaggedReason": "This application should be flagged because of rule 10. Although the applicant has made contributions to the blockchain community, they openly acknowledge that their contributions are not directly related to Optimism.",
-  "pwCategory": "Education"
+  "displayName": "Taz",
+  "applicantName": "Taz",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xFab488A8Eb04c6c211CBFd15B1da021A9CC0Bd0c.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xFab488A8Eb04c6c211CBFd15B1da021A9CC0Bd0c.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xFab488A8Eb04c6c211CBFd15B1da021A9CC0Bd0c.json",
+  "RPGF3_Application_UID": "0xef2ca4e31c3116f3bc99105c6c10d5bfc7ecfd73b79dde360ea76340c893b105",
+  "applicantAddress": "0xFab488A8Eb04c6c211CBFd15B1da021A9CC0Bd0c"
 }

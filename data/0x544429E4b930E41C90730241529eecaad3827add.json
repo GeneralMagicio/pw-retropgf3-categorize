@@ -1,0 +1,44 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "Https://twitter.com/0xpratama",
+  "bio": "Friendly humans",
+  "contributionDescription": "I wanna to be an Optimism supporter, and if i get some rewards from Oprimism, i will used for help my life. And u know life is a short, The here and the now\nAnd you're only given one shot\nBut could there be more\nHave I lived before\nOr could this be all that we've got?",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "Https://optimism.etherscamn.com",
+      "description": "0x"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "I wanna to be an Optimism supporter, and if i get some rewards from Oprimism, i will used for help my life. And u know life is short, The here and the now\nAnd you're only given one shot\nBut could there be more\nHave I lived before\nOr could this be all that we've got?",
+  "impactMetrics": [
+    {
+      "description": "0x",
+      "number": 1234,
+      "url": "Https://optimism.etherscan.com"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 1000,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0x544429E4b930E41C90730241529eecaad3827add",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "0xchio",
+  "applicantName": "0xchio",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x544429E4b930E41C90730241529eecaad3827add.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x544429E4b930E41C90730241529eecaad3827add.json",
+  "RPGF3_Application_UID": "0x2ad0153ac54ad4d2400c8fecf8a8ebf071cdc50bac66240e4bd49af708f22763",
+  "applicantAddress": "0x544429E4b930E41C90730241529eecaad3827add"
+}

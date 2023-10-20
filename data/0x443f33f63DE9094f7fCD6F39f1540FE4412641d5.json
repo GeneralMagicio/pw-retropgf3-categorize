@@ -1,5 +1,5 @@
 {
-  "applicantType": "INDIVIDUAL",
+  "applicantType": "PROJECT",
   "websiteUrl": "https://mmo90.com/",
   "bio": "hello i am amin",
   "contributionDescription": "i will say with my friend, Some of the best bees on my website are waiting for a chance to talk to you. You should reply before it’s too late, We’re so lucky to have you on mmo90,  So you can adding only fans link to mmo90, in the future\ni will say with my friend, Some of the best bees on my website are waiting for a chance to talk to you. You should reply before it’s too late, We’re so lucky to have you on mmo90,  So you can adding only fans link to mmo90, in the future",
@@ -38,16 +38,10 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "Project": "amintoosad",
-  "Applicant Type": "INDIVIDUAL",
-  "OSS Directory": "",
-  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x443f33f63DE9094f7fCD6F39f1540FE4412641d5.json",
-  "Githubs": "",
-  "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK",
-  "recategorizeReason": "NO, the application is not correctly categorized because it frequently uses first-person pronouns such as \"I\" and \"my\", indicating an individual applicant rather than a project.",
-  "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK",
-  "pwIsFlagged": true,
-  "pwFlaggedReason": "The application should be flagged due to violation of the rule number 1, as it is making promises of future deliverables or impact which is not allowed according to the grant program rules.",
-  "pwCategory": "End User Experience and Adoption"
+  "displayName": "amintoosad",
+  "applicantName": "amintoosad",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x443f33f63DE9094f7fCD6F39f1540FE4412641d5.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x443f33f63DE9094f7fCD6F39f1540FE4412641d5.json",
+  "RPGF3_Application_UID": "0x56f7057bea0d54fbaec4b7d1868f5146c984c78fd698ac29794a5cbba5c4760c",
+  "applicantAddress": "0x443f33f63DE9094f7fCD6F39f1540FE4412641d5"
 }

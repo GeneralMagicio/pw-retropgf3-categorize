@@ -1,0 +1,61 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://crypton.xyz/",
+  "bio": "We are the largest learning ecosystem in Eastern Europe. ",
+  "contributionDescription": "We have a strong media presence. Here are links to videos and posts where we've talked about the Optimism ecosystem. We popularized your ecosystem among our audience, agitated users to do quests, use bridges, explore the ecosystem. In total, you've brought several thousand active users to you. And we have already made instructions on how to work with your ecosystem in our WEB resources",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://youtu.be/UuT4tcXEcGw?si=thHi0fVEmElWC0E8",
+      "description": "YouTube video "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://youtu.be/KT0WuZDgyzQ?si=93O_V1sEsWlVRDs8",
+      "description": "Another than from many other"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://t.me/crypton_off/7308",
+      "description": "One of the many our post in telegram "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://t.me/crypton_off/10582",
+      "description": "Another one"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://tools.crypton.xyz/en/T2/bridges",
+      "description": "This is an aggregator of everything what u need in crypto  "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://t.me/crypton_research_2bot",
+      "description": "This is a service to aggregate news on literally all the top projects in crypto"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "We have a strong media presence. Here are links to videos and posts where we've talked about the Optimism ecosystem. We popularized your ecosystem among our audience, agitated users to do quests, use bridges, explore the ecosystem. In total, you've brought several thousand active users to you. And we have already made instructions on how to work with your ecosystem in our WEB resources",
+  "impactMetrics": [
+    {
+      "description": "12000 views",
+      "number": 1200,
+      "url": "https://www.youtube.com/watch?v=UuT4tcXEcGw"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0xc22Fa161047135dD0A0bAd933e85c20020B69023",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Crypton",
+  "applicantName": "Artem",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xc22Fa161047135dD0A0bAd933e85c20020B69023.json",
+  "RPGF3_Application_UID": "0x303538fa089b13b03aacc52279230fcf1e24139f90e28175594f63d8e075cb3e",
+  "applicantAddress": "0xc22Fa161047135dD0A0bAd933e85c20020B69023"
+}

@@ -1,7 +1,7 @@
 {
   "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://twitter.com/DarkWillow1997",
-  "bio": "Im poorMan wanna change my live not down",
+  "bio": "Poor man just wanna change alive keep spirit!",
   "contributionDescription": "I got optimism at another address and I want to get it again and again. I'm happy with optimism, the team is good and it's fun,maybe I can get another OP by joining this chapter\nI like airdrops, hopefully I can continue in a project even if it's free because I like free things\nallow me",
   "contributionLinks": [
     {
@@ -31,15 +31,10 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "Project": "PoorMan",
-  "Applicant Type": "INDIVIDUAL",
-  "OSS Directory": "",
-  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xe94ECbe410Dc32E8753347ef7DaDF2103811cF74.json",
-  "Githubs": "",
-  "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK",
-  "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Finance (DeFi), Governance Tokens, Developer Ecosystem, End User Experience and Adoption",
-  "pwIsFlagged": true,
-  "pwFlaggedReason": "The application should be flagged for violating rule 1 and 10. The applicant has made promises of future impact and does not highlight any valid past contribution or impact.",
-  "pwCategory": "End User Experience and Adoption"
+  "displayName": "PoorMan",
+  "applicantName": "PoorMan",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xe94ECbe410Dc32E8753347ef7DaDF2103811cF74.jpeg",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xe94ECbe410Dc32E8753347ef7DaDF2103811cF74.json",
+  "RPGF3_Application_UID": "0x3de5a96d79dc4234439a1c55dafa226c8a081723d0af61d735a227a375be7fc5",
+  "applicantAddress": "0xe94ECbe410Dc32E8753347ef7DaDF2103811cF74"
 }

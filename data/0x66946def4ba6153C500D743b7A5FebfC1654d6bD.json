@@ -1,0 +1,44 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://optimism.sdailynews.com/",
+  "bio": "I believe that Optimism has the potential to revolutionize the way we use blockchain technology, and I am eager to be part of that journey.",
+  "contributionDescription": "In the initial two months of its launch, the https://www.optimism.sdailynews.com website garnered an impressive 5,000 visitors. Our strategic goal is to further broaden our outreach and consistently provide top-notch content that will not only retain this audience but also captivate an even larger readership.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://optimism.sdailynews.com/",
+      "description": "Website"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/optimismsdaily/",
+      "description": "Twitter"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "my contributions have been instrumental in expanding awareness, knowledge, community involvement, and the development of strategic relationships within the Optimism Collective. The positive atmosphere and collaborative spirit I've fostered have played a crucial role in the collective's growth and community cohesion.",
+  "impactMetrics": [
+    {
+      "description": "Visitor",
+      "number": 5730,
+      "url": "https://optimism.sdailynews.com/"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x66946def4ba6153C500D743b7A5FebfC1654d6bD",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Optimism Sdailynews",
+  "applicantName": "Optimism.Sdailynews.com",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x66946def4ba6153C500D743b7A5FebfC1654d6bD.jpeg",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x66946def4ba6153C500D743b7A5FebfC1654d6bD.jpeg",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x66946def4ba6153C500D743b7A5FebfC1654d6bD.json",
+  "RPGF3_Application_UID": "0xa300229d85e7b63e8f9b04744200ad30c0741b9c844c1a4f3430e622ed1475a9",
+  "applicantAddress": "0x66946def4ba6153C500D743b7A5FebfC1654d6bD"
+}

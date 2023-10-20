@@ -1,0 +1,105 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://regenscore.io/",
+  "bio": "Regen Score is a reputation system based on on-chain activities to evaluate individual regen behaviours for trust, participation and democratizing governance",
+  "contributionDescription": "RegenScore is an experiment created to support a more inclusive OP Citizen House. It can be used for the qualification of ecosystem members through a transparent, fair, and data-driven approach. Thus providing better governance access for public goods funding to verified regen actors across the wider web3 ecosystem. \n\nCurrent contributions include:\n\n- Analytical model for behaviour scoring described in documentation and supported by statistical sampling\n- A website for checking out your score and minting the on-chain attestation (including a schema, with separate scoring just for OP behaviours) (open source)\n- A series of communications with the OP and web3 community for feedback and engagement over various channels",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://regenscore.io/",
+      "description": "Website"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimism.easscan.org/schema/view/0xa1285d8c9b3164eb94f22a4084d4d01fc7fb66d27c56ddba32033c63a5ed76cd",
+      "description": "Attestation Schema"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://mirror.xyz/0xC5A756D63C5fe67b438acBE468aA62a52093fDEf",
+      "description": "Mirror Blog (detailed description)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://docs.regenscore.io/",
+      "description": "Docs: Scoring Formula & Use Cases"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://gov.optimism.io/t/final-regen-score/6167",
+      "description": "Initial Forum Discussion"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/vacekj/regenscore",
+      "description": "Github"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
+  "impactDescription": "The key impact we see so far is a good number of motivated and high-performing potential candidates for the citizen house:\n\n- Within a limited communication campaign the number of good candidates is already comparable to the current citizen house, proving the growth potential\n- Scores vary, but a median score of attested users is close to the level of the current OP Delegates (based on the formula and on-chain stats) \n- Users needed to pay a small fee on OP (to cover the fees for the on-chain writing), so it meant they had funds on the OP chain and were engaged in the reputation/governance game",
+  "impactMetrics": [
+    {
+      "description": "OP on-chain attestations",
+      "number": 270,
+      "url": "https://optimism.easscan.org/schema/view/0xa1285d8c9b3164eb94f22a4084d4d01fc7fb66d27c56ddba32033c63a5ed76cd"
+    },
+    {
+      "description": "# of new high-value contributors",
+      "number": 100,
+      "url": "https://mirror.xyz/0xC5A756D63C5fe67b438acBE468aA62a52093fDEf/fPCQfkM-VtwjaUcVS4jX55aRO5qsdTk9b8aCwWGUFA0"
+    },
+    {
+      "description": "Website visits",
+      "number": 600,
+      "url": "https://regenscore.io/"
+    },
+    {
+      "description": "Views of the forum topic",
+      "number": 2300,
+      "url": "https://gov.optimism.io/t/final-regenscore/6167"
+    },
+    {
+      "description": "Likes on the forum",
+      "number": 89,
+      "url": "https://gov.optimism.io/t/final-regenscore/6167"
+    },
+    {
+      "description": "Impressions on twitter",
+      "number": 15000,
+      "url": "https://twitter.com/regenscoreio"
+    },
+    {
+      "description": "Number of products using our score",
+      "number": 2,
+      "url": "https://docs.regenscore.io/"
+    },
+    {
+      "description": "Number of tracked behaviours",
+      "number": 21,
+      "url": "https://docs.google.com/spreadsheets/d/1yi_0o4wO6AuG0GiItIxfE5sT1jc9Wui5--vXqWbZaE0/edit#gid=0"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 95000,
+      "description": "https://gov.optimism.io/t/final-regenscore/6167 (to be received mid 2024)"
+    }
+  ],
+  "payoutAddress": "0xeCd54dB84c80f451b8dbC91ac31f6b7b900b61C0",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "RegenScore",
+  "applicantName": "RegenScore",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xeCd54dB84c80f451b8dbC91ac31f6b7b900b61C0.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xeCd54dB84c80f451b8dbC91ac31f6b7b900b61C0.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xeCd54dB84c80f451b8dbC91ac31f6b7b900b61C0.json",
+  "RPGF3_Application_UID": "0x6ebde46604a4ff29c1c726d5532a9dea084a1910d1ea83977dc797a8e556c3ba",
+  "applicantAddress": "0xeCd54dB84c80f451b8dbC91ac31f6b7b900b61C0"
+}

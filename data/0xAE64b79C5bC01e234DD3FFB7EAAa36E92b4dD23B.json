@@ -1,0 +1,38 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://pidgin-parlour-crypto-podcast.sounder.fm/",
+  "bio": "Hi, Optimism Collective, we are Pidgin Parlour. A community driving web3 education and adoption among pidgin speaking Africans/people. ",
+  "contributionDescription": "Increased Optimism awareness, adoption and participation among pidgin speakers across Africa and beyond. \n\nWe created series of content that explained Layer 2 and Optimism  in a clear and simple way that pidgin speakers can understand across Africa/beyond. We also provide practical examples and use cases that shows how Optimism and the Layer 2  can solve real problems or create value for Africans. All these were done with the use of Pidgin language, which is widely spoken and understood by millions of Africans across different countries. ",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://docs.google.com/document/d/1dmbM-7v2UEHUhR33qnian3OSW3Bo8B3hNK7ay-_cG_k/edit?usp=sharing",
+      "description": "newsletter"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "Pidgin Parlour helped lots of pidgin speakers in Africa to understand Optimism easily using Pidgin language. We used podcasts, blogs, and newsletters to explain complex things around Optimism. We showed how Optimism could solve real problems for Africans with simple examples. We translated important optimism content to Pidgin so more people could understand.\n\nWe also educated and inspired Pidgin speakers to use Optimism and its tech. We talked about how to use OP tokens, join communities, and more. Our goal was to include everyone and make sure Pidgin speakers felt confident using Optimism and participating in the collective. \n",
+  "impactMetrics": [
+    {
+      "description": "#downloads & views",
+      "number": 7402,
+      "url": "https://docs.google.com/document/d/1dmbM-7v2UEHUhR33qnian3OSW3Bo8B3hNK7ay-_cG_k/edit"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x54e68929409C68B14770A27f126b837A622BEFa6",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Pidgin Parlour",
+  "applicantName": "Pidgin Parlour",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xAE64b79C5bC01e234DD3FFB7EAAa36E92b4dD23B.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xAE64b79C5bC01e234DD3FFB7EAAa36E92b4dD23B.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xAE64b79C5bC01e234DD3FFB7EAAa36E92b4dD23B.json",
+  "RPGF3_Application_UID": "0x4c583402fb44f7b5c40a523b6adcdef402a347eccaec42e0d1e8bb567192150f",
+  "applicantAddress": "0xAE64b79C5bC01e234DD3FFB7EAAa36E92b4dD23B"
+}

@@ -1,0 +1,56 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://twitter.com/Awan80813288",
+  "bio": "making this web 3 more hype in this bear market",
+  "contributionDescription": "will did some task for benefit optimsim in future\nex : swab,bridge,governance (vote) in official dap and the eco of optimism.\nlove to get some exprience in optimism maybe some new task in festival with all eco patnership of optimism will be great.\nsome symbol maybe such us nft for valuable people who get expreince in optimism its would be awesome.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/Awan80813288",
+      "description": "on my twitter account"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://tiktok.com/@yy86_msc",
+      "description": "on my tiktok chanel"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "will did some task for benefit optimsim in future\nex : swab,bridge,governance (vote) in official dap and the eco of optimism.\nlove to get some exprience in optimism maybe some new task in festival with all eco patnership of optimism will be great.\nsome symbol maybe such us nft for valuable people who get expreince in optimism its would be awesome.",
+  "impactMetrics": [
+    {
+      "description": "Infrastructure",
+      "number": 2,
+      "url": "https://app.optimism.io/retropgf-discovery/0x4C0a466DF0628FE8699051b3Ac6506653191cc21"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 100,
+      "description": ""
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 200,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0xE17b8267c83ee70d55A8D244f27c7Ce7b7E19cC2",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "yy86",
+  "applicantName": "yy86",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xE17b8267c83ee70d55A8D244f27c7Ce7b7E19cC2.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xE17b8267c83ee70d55A8D244f27c7Ce7b7E19cC2.json",
+  "RPGF3_Application_UID": "0x4c5d390f4936935e058999d74f7843062e3afb62d6a74140be17a14a2ebc8506",
+  "applicantAddress": "0xE17b8267c83ee70d55A8D244f27c7Ce7b7E19cC2"
+}

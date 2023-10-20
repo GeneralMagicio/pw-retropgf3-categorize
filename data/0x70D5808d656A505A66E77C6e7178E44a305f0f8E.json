@@ -36,14 +36,10 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "Project": "Rishi",
-  "Applicant Type": "INDIVIDUAL",
-  "OSS Directory": "",
-  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x70D5808d656A505A66E77C6e7178E44a305f0f8E.json",
-  "Githubs": "",
-  "Tags": "COLLECTIVE_GOVERNANCE, END_USER_EXPERIENCE_AND_ADOPTION",
-  "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Governance Tokens, End User Experience and Adoption",
-  "pwIsFlagged": false,
-  "pwCategory": "End User Experience and Adoption"
+  "displayName": "Rishi",
+  "applicantName": "Rishi",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x70D5808d656A505A66E77C6e7178E44a305f0f8E.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x70D5808d656A505A66E77C6e7178E44a305f0f8E.json",
+  "RPGF3_Application_UID": "0x76e52fb240b76b57c5bf8bc5c0fffe616427cddb19e41fb7bddc473bfa9b70a1",
+  "applicantAddress": "0x70D5808d656A505A66E77C6e7178E44a305f0f8E"
 }

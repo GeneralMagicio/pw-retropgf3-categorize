@@ -1,0 +1,38 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://www.diogosetgo.com",
+  "bio": "Production Designer ",
+  "contributionDescription": "I’m a digital content creator which intends to gain creative expression in the crypto realm. Optimism $OP seems to be  an effective way to develop transactions of my digital creative assets. Optimism transactions are quick and reliable. I believe in the power of digital illustrators to create content that generates meaningful links in digital communities. I believe Optimism will help to mediate, in an effective way, such creative connections.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://www.diogosetgo.com/",
+      "description": "Digital Portfolio "
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM"
+  ],
+  "impactDescription": "I’m a digital content creator which intends to gain creative expression in the crypto realm. Optimism $OP seems to be  an effective way to develop transactions of my digital creative assets. Optimism transactions are quick and reliable. I believe in the power of digital illustrators to create content that generates meaningful links in digital communities. I believe Optimism will help to mediate, in an effective way, such creative connections.",
+  "impactMetrics": [
+    {
+      "description": "50",
+      "number": 50,
+      "url": "https://diogosetgo.com/"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x3db1fce8aB79052A489c26c82779E32f87d453bE",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "DiogoSet",
+  "applicantName": "DiogoSet",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xD5E602342754B14D8777F48aB418f6977E18f745.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xD5E602342754B14D8777F48aB418f6977E18f745.json",
+  "RPGF3_Application_UID": "0xd70f0c9463530591b3007b0f322b92bb60b052e2da707598eb9354bafdfc70ba",
+  "applicantAddress": "0xD5E602342754B14D8777F48aB418f6977E18f745"
+}

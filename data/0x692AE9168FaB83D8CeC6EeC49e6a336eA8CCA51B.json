@@ -1,0 +1,38 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://www.youtube.com/@BlockchainWoman",
+  "bio": "Welcome! I'm Victoria, a girl who is passionate about blockchain technology, the Web3 and The Optimism project!",
+  "contributionDescription": "Many women do not have sufficient experience about blockchain technology, so I decided, through my YouTube channel, to provide educational content in order to create a generation of women who have the ability to participate in blockchain projects and have the experience to use the Optimism project and also participate in governance.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/@BlockchainWoman",
+      "description": "A collection of videos to teach CIS women about blockchain and Optimism"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "Through my channel, there are women who have gained knowledge about blockchain and the Optimism project and are ready to start their career in Web 3, They also learned about governance and how to participate.\nThe series of videos on my channel brought many views and good feedback",
+  "impactMetrics": [
+    {
+      "description": "Views and watch time",
+      "number": 5500,
+      "url": "https://docs.google.com/document/d/1G6bQLQwXxuTtqtpbvKImMYnkrVUzKulcV8AruYMmmGA/edit?usp=sharing"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x692AE9168FaB83D8CeC6EeC49e6a336eA8CCA51B",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "BlockchainWoman",
+  "applicantName": "BlockchainWoman",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x692AE9168FaB83D8CeC6EeC49e6a336eA8CCA51B.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x692AE9168FaB83D8CeC6EeC49e6a336eA8CCA51B.json",
+  "RPGF3_Application_UID": "0xbc77e29635539c48958bbb674f687a19531eacf13baf2015f8962d6e67fd96a2",
+  "applicantAddress": "0x692AE9168FaB83D8CeC6EeC49e6a336eA8CCA51B"
+}

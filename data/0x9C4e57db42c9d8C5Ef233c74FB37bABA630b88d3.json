@@ -1,7 +1,7 @@
 {
   "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://nangkos88",
-  "bio": "Crypto Enthusiast",
+  "bio": "I'm crypto enthusiast",
   "contributionDescription": "My contributions to Optimism help improve its scalability, security, and usability, ultimately supporting the broader Ethereum ecosystem by providing a Layer 2 solution that can handle high volume transactions while maintaining Ethereum's security guarantees. I once minted NFTs with Optimism Network, minting NFTs is very cheap. NFTs I own, Thehaqq, sup optimisem, omnia, mfop, getthevirtual, oat, eboos, dob, bulid on base, etc The presence of Researchers like me can contribute by exploring and proposing new ideas to improve solutions, increase security, and consensus mechanisms in the Optimism ecosystem. And I was in position Testing too: Rigorous testing and quality assurance are essential. Contributors can help by testing smart contracts, network functionality, and security features.",
   "contributionLinks": [
     {
@@ -28,15 +28,10 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "Project": "Nangkos88",
-  "Applicant Type": "INDIVIDUAL",
-  "OSS Directory": "",
-  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x9C4e57db42c9d8C5Ef233c74FB37bABA630b88d3.json",
-  "Githubs": "",
-  "Tags": "END_USER_EXPERIENCE_AND_ADOPTION",
-  "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Layer 2 Scaling, Smart Contract Platforms, Digital Identity, Blockchain Infrastructure, END_USER_EXPERIENCE_AND_ADOPTION",
-  "pwIsFlagged": true,
-  "pwFlaggedReason": "This application should be flagged for promising future impact which is not allowed as per the grant program rules.",
-  "pwCategory": "Layer 2 Scaling"
+  "displayName": "Nangkos88",
+  "applicantName": "Nangkos88",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9C4e57db42c9d8C5Ef233c74FB37bABA630b88d3.jpeg",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x9C4e57db42c9d8C5Ef233c74FB37bABA630b88d3.json",
+  "RPGF3_Application_UID": "0x91c35217e956acc70ad43c9cd4ec1900c5ed4c74f1366a69398e4b1520682779",
+  "applicantAddress": "0x9C4e57db42c9d8C5Ef233c74FB37bABA630b88d3"
 }

@@ -1,7 +1,7 @@
 {
   "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://warpcast.com/brianjckim.eth",
-  "bio": "Hanging out on Farcaster",
+  "bio": "I'm currently navigating the consumer crypto idea maze. I mostly hang out on Farcaster.",
   "contributionDescription": "I built an image-focused client for Farcaster, which recently migrated to OP Mainnet. Given that most of the existing Farcaster clients focus on \"words\", I wanted to provide a way for users to showcase all of their visual content on the Farcaster network. Users can view feeds of images sorted by Farcaster channels (which are like decentralized subreddits organized around an NFT) and by different users, including the ones they've liked. Although it's a relatively simple application, I've received great feedback from the community so far.",
   "contributionLinks": [
     {
@@ -63,14 +63,10 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "Project": "Brian Kim",
-  "Applicant Type": "INDIVIDUAL",
-  "OSS Directory": "",
-  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xa35156ca4294c13fe256B10091F3D6595E3Bf7d7.json",
-  "Githubs": "",
-  "Tags": "END_USER_EXPERIENCE_AND_ADOPTION",
-  "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Digital Identity, NFTs, END_USER_EXPERIENCE_AND_ADOPTION",
-  "pwIsFlagged": false,
-  "pwCategory": "End User Experience and Adoption"
+  "displayName": "Brian Kim",
+  "applicantName": "brianjckim",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xa35156ca4294c13fe256B10091F3D6595E3Bf7d7.jpeg",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xa35156ca4294c13fe256B10091F3D6595E3Bf7d7.json",
+  "RPGF3_Application_UID": "0x83b63f78793a42b790fc046ef62adc58f278b8555e6faed25c2fbcfa28122238",
+  "applicantAddress": "0xa35156ca4294c13fe256B10091F3D6595E3Bf7d7"
 }

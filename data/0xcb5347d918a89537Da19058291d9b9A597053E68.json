@@ -1,0 +1,40 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://twitter.com/THAER982",
+  "bio": "viva Crypto",
+  "contributionDescription": "at first i am willing to be more active in op Dao using all privileges i have like staking voting doing all the good work ' to be honest i am not that rich or have a huge portfolio but i am hard worker and do respect the community in other words i will never let you down",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://twitter.com/THAER982",
+      "description": "here you go"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "at first i am willing to be more active in op Dao using all privileges i have like staking voting doing all the good work ' to be honest i am not that rich or have a huge portfolio but i am hard worker and do respect the community in other words i will never let you down",
+  "impactMetrics": [
+    {
+      "description": "5",
+      "number": 2,
+      "url": "https://twitter.com/THAER982"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0xcb5347d918a89537Da19058291d9b9A597053E68",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Innov8",
+  "applicantName": "Innov8",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xcb5347d918a89537Da19058291d9b9A597053E68.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xcb5347d918a89537Da19058291d9b9A597053E68.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xcb5347d918a89537Da19058291d9b9A597053E68.json",
+  "RPGF3_Application_UID": "0x3266427386f40003fa4e3d74b3f225a58c9de0cd713fb87b62a66ebd13d9ca02",
+  "applicantAddress": "0xcb5347d918a89537Da19058291d9b9A597053E68"
+}

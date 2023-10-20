@@ -1,0 +1,47 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": " https://github.com/vyperlang/titanoboa",
+  "bio": "An interpreter for Vyper which provides a modern, advanced and integrated devex",
+  "contributionDescription": "Titanoboa makes it possible to run comprehensive and granular tests on a smart contract suite. Besides coverage reports, print statements, a fork mode, time travel, EVM state patching, Titanoboa offers advanced testing features such automated fuzzing strategies and custom precompiles. Opcode patching also enables testing new EVM opcodes to test contracts on different versions of the EVM, such as Mainnet vs Optimism.\n\nTitanoboa's highly optimized backend can reduce the time it takes to run a test suite from several hours to under a minute. Boa does so by replacing slow external RPC calls with an embedded EVM running contracts directly as Python.\n\nIntegration with Jupyter means that one can spin up a notebook on Google Collab and start collaborating and prototyping their smart contract idea.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/vyperlang/titanoboa",
+      "description": "Official repository for Titanoboa"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/curvefi/curve-stablecoin/tree/master/tests",
+      "description": "Tests for Curve's new stablecoin/lending product, written with titanoboa"
+    }
+  ],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "OP_STACK"
+  ],
+  "impactDescription": "OP Stack:\n- Titanoboa's embedded EVM, granular gas profiler and advanced testing features enhance contract security and efficiency within the OP Stack, as well as validating differences between optimism and mainnet EVMs.\n\nDeveloper Ecosystem:\n\n- Features such as integration with Jupyter notebooks, live blockchain interactions, and pure Python execution are pivotal for fast and efficient contract deployments.\n- Titanoboa's testing features are essential for smart-contract developers working on multiple networks such as Optimism and Mainnet.\n- Titanoboa allows Vyper developers to quickly prototype as well as thoroughly test their smart contracts.",
+  "impactMetrics": [
+    {
+      "description": "Runtime optimization metrics",
+      "number": 0,
+      "url": "https://twitter.com/big_tech_sux/status/1671051375361560576"
+    },
+    {
+      "description": "Jupyter notebook showcase",
+      "number": 0,
+      "url": "https://twitter.com/big_tech_sux/status/1668305117605662720"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0xAbfA48BCc0F96Fc70be7a4156b0a74Ea350167fD",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Titanoboa",
+  "applicantName": "Charles",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xAbfA48BCc0F96Fc70be7a4156b0a74Ea350167fD.json",
+  "RPGF3_Application_UID": "0xc457be3a57bddfe68c852f20202b06ecf07a41c510a44bdf41afb1f77e63f78d",
+  "applicantAddress": "0xAbfA48BCc0F96Fc70be7a4156b0a74Ea350167fD"
+}

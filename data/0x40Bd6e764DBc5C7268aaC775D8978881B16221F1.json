@@ -56,14 +56,9 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "Project": "Sonne Finance",
-  "Applicant Type": "PROJECT",
-  "OSS Directory": "Address & Github Found",
-  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x40Bd6e764DBc5C7268aaC775D8978881B16221F1.json",
-  "Githubs": "https://github.com/sonne-finance",
-  "Tags": "",
-  "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Lending, Layer 2 Scaling, DeFi, Cross-Chain Platforms, Smart Contract Platforms",
-  "pwIsFlagged": false,
-  "pwCategory": "Decentralized Finance (DeFi)"
+  "displayName": "Sonne Finance ",
+  "applicantName": "Sonne Finance",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x40Bd6e764DBc5C7268aaC775D8978881B16221F1.json",
+  "RPGF3_Application_UID": "0x67268a35086153681270e531c0ba637e0a1b752b40a4d0661b88b32bef59b0dc",
+  "applicantAddress": "0x40Bd6e764DBc5C7268aaC775D8978881B16221F1"
 }

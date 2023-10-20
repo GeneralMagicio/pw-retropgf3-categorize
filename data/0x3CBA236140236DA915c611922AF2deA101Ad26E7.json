@@ -1,0 +1,51 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://mirror.xyz/nhatvinh.eth",
+  "bio": "I'm an Optimism Ambassador. I like to learn and share summarized information about new announcements or updates about Optimism.",
+  "contributionDescription": "Since the beginning of season 4, I have been writing various original articles and summary about new governance announcements, proposals, or new activities on the Optimism network and have also shared these summarize information through my Twitter account.\n\nMost of my content is created in my native language, Vietnamese, so that users in my country can know more about the proposals, how to participate in governance and can understand the content of what they are voting on. Moreover, they can also learn about how Optimism is currently working, both in terms of activity in governance and about campaigns.\n\nNote: I'm a part of the Ambassador program. This application is used to nominate individual contribution to the Collective outside of the Ambassador program. ",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://docs.google.com/spreadsheets/d/1i1Jg_qFnZIBJcDzfasVXX4rkl8j5LnmD4PN1NhE7APQ/edit?usp=sharing",
+      "description": "Summarize of different activities on Optimism (governance, RPGF, upgrade,...)"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "By summarizing various articles, many users in my language were able to learn about the activities and governance proposals, which can be found in the amount of impression on twitter and through some of their questions and discussions on the Optimism Discord server.\n\nMoreover, my written guide on how to use the new Optimism's voting website was released when the platform first came out, and it has been given a shoutout by the Agora team through their Feedback thread on the Optimism forum.\n",
+  "impactMetrics": [
+    {
+      "description": "Impression",
+      "number": 20188,
+      "url": "https://docs.google.com/spreadsheets/d/1i1Jg_qFnZIBJcDzfasVXX4rkl8j5LnmD4PN1NhE7APQ/edit?usp=sharing"
+    },
+    {
+      "description": "Shoutout from the Agora team",
+      "number": 1,
+      "url": "https://gov.optimism.io/t/agora-vote-optimism-io-feedback-thread/5358"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 0,
+      "description": "I have not received any funding for these nominated contributions."
+    }
+  ],
+  "payoutAddress": "0x3CBA236140236DA915c611922AF2deA101Ad26E7",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Tân Binh",
+  "applicantName": "Tân Binh",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3CBA236140236DA915c611922AF2deA101Ad26E7.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x3CBA236140236DA915c611922AF2deA101Ad26E7.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x3CBA236140236DA915c611922AF2deA101Ad26E7.json",
+  "RPGF3_Application_UID": "0xc24e1993c71ad5625494e2487911bdcd731cb7ef833812f396a5c2e42c26ea0f",
+  "applicantAddress": "0x3CBA236140236DA915c611922AF2deA101Ad26E7"
+}

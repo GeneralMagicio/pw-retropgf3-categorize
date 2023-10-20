@@ -38,15 +38,9 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "Project": "Tonyxb",
-  "Applicant Type": "INDIVIDUAL",
-  "OSS Directory": "",
-  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xB4244A468c035EB3fB42D4aA93040c4Bf1Bcc7b5.json",
-  "Githubs": "",
-  "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK",
-  "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Collective Governance, Developer Ecosystem, End User Experience and Adoption, OP Stack",
-  "pwIsFlagged": true,
-  "pwFlaggedReason": "The application should be flagged because the applicant is claiming a contribution that is outside of the RetroPGF's scope, as user transactions on the OP network are not recognized as valid contributions eligible for rewards.",
-  "pwCategory": "End User Experience and Adoption"
+  "displayName": "Tonyxb",
+  "applicantName": "Tonyxb",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xB4244A468c035EB3fB42D4aA93040c4Bf1Bcc7b5.json",
+  "RPGF3_Application_UID": "0xa7c36cea04332c77d8fcdbc895a131cff62c2b6179d9ee52f6ad6538479caf5f",
+  "applicantAddress": "0xB4244A468c035EB3fB42D4aA93040c4Bf1Bcc7b5"
 }

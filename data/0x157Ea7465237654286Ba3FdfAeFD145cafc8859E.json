@@ -1,0 +1,48 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://twitter.com/CrytoMoony",
+  "bio": "I am an NFT collector who really enjoy and love Optimism.\nI started create a content of the dapp on Optimism on twitter to contribute and spread something good.",
+  "contributionDescription": "My contribution has been to be an honest user who tells my friends how I feel about the experience when I use any applications on Optimism. I wrote the contents and texts in either Thai or English. Moreover, I really love the NFT communities on OP: Bored Town, Apetimism, Optichads, etc so that I am a strong holder. ",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://x.com/CrytoMoony/status/1677734353747730432?s=20",
+      "description": "I join @subli event for showing my strategy for earning more $OP on Optimism"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/CrytoMoony/status/1683068184218468353?s=20",
+      "description": "I did create a content on Giveth to share what I learned on this cool platform"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/CrytoMoony/status/1703957405250531477?s=20",
+      "description": "This is how I spread my appreciation and love about Optimism"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "When I shared my thoughts on Optimism Collective, I consistently approached it with honesty and genuineness. Just as I often relay the positive aspects of life to my friends, I brought that same enthusiasm to the contents. By focusing on the 'good stuff' that I'm passionate about, I aimed to uplift and inspire others.",
+  "impactMetrics": [
+    {
+      "description": "Impressions",
+      "number": 1448,
+      "url": "https://twitter.com/CrytoMoony/status/1683068184218468353/analytics"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x157Ea7465237654286Ba3FdfAeFD145cafc8859E",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "PapaChoi",
+  "applicantName": "PapaChoi",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x157Ea7465237654286Ba3FdfAeFD145cafc8859E.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x157Ea7465237654286Ba3FdfAeFD145cafc8859E.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x157Ea7465237654286Ba3FdfAeFD145cafc8859E.json",
+  "RPGF3_Application_UID": "0x62ee3d8a19aa3da0308e73cc27179f3c9c55437506ac0817b574916340f2229c",
+  "applicantAddress": "0x157Ea7465237654286Ba3FdfAeFD145cafc8859E"
+}

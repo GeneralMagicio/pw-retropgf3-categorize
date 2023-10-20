@@ -1,7 +1,7 @@
 {
   "applicantType": "INDIVIDUAL",
-  "websiteUrl": "https://www.catotechlab.com",
-  "bio": "Trader #Solana Holdler NFT king ",
+  "websiteUrl": "https://www.catotechlab.com/",
+  "bio": "Trader #Solana NFT KING #Airdrop Hunter",
   "contributionDescription": "Delegates for op for the further infrastructure, Support for team and there events, my contribution to Optimism is to help users navigate the platform and make the most of their experience and i will share my experience with them  While my contributions may not have a direct impact on the collective as a whole, they can help to improve the experience of individual users and contribute to a more positive overall experience on the platform.",
   "contributionLinks": [
     {
@@ -31,14 +31,9 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "Project": "Manojboi",
-  "Applicant Type": "INDIVIDUAL",
-  "OSS Directory": "",
-  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x6deBF7Bc0EEdd7c51A9334d7f1E01c84678e3Ae7.json",
-  "Githubs": "",
-  "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK",
-  "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK",
-  "pwIsFlagged": false,
-  "pwCategory": "End User Experience and Adoption"
+  "displayName": "Manojboi",
+  "applicantName": "Manojboi",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x6deBF7Bc0EEdd7c51A9334d7f1E01c84678e3Ae7.json",
+  "RPGF3_Application_UID": "0xe308f8338ff498fc7b4ae77454d547582f99ff721d8c82130d0ad92c2fdafffb",
+  "applicantAddress": "0x6deBF7Bc0EEdd7c51A9334d7f1E01c84678e3Ae7"
 }

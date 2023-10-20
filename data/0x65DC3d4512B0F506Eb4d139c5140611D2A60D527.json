@@ -1,7 +1,7 @@
 {
   "applicantType": "INDIVIDUAL",
-  "websiteUrl": "Https://thenastymariol.nft",
-  "bio": "Author Composer Artist",
+  "websiteUrl": "https://thenastymariol.nft",
+  "bio": "Author \nComposer\nArtist",
   "contributionDescription": "Simple user fully enjoyed by the quality of this blockchain and its team.\nLooking for the perfect place to launch a token and a project.\nVery interesting upgradable modifiable optimist nft profile.\nGreat platform, website, tokenomic and projects.\nGood job OP!",
   "contributionLinks": [
     {
@@ -35,14 +35,10 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "Project": "GH0x111",
-  "Applicant Type": "INDIVIDUAL",
-  "OSS Directory": "",
-  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x65DC3d4512B0F506Eb4d139c5140611D2A60D527.json",
-  "Githubs": "",
-  "Tags": "END_USER_EXPERIENCE_AND_ADOPTION",
-  "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Blockchain Infrastructure",
-  "pwIsFlagged": false,
-  "pwCategory": "End User Experience and Adoption"
+  "displayName": "GH0x111",
+  "applicantName": "GH0x111",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x65DC3d4512B0F506Eb4d139c5140611D2A60D527.jpeg",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x65DC3d4512B0F506Eb4d139c5140611D2A60D527.json",
+  "RPGF3_Application_UID": "0x5dbdb1bfbdb381cb59c7e8c6eed98f4cd248cbef32e93ce65d58186ca5bf38b8",
+  "applicantAddress": "0x65DC3d4512B0F506Eb4d139c5140611D2A60D527"
 }

@@ -1,8 +1,8 @@
 {
   "applicantType": "PROJECT",
-  "websiteUrl": "https://protocol.berlin/decentralization/",
-  "bio": "Collective of people from Berlin: Protocol Berg, Goerli Testnet.",
-  "contributionDescription": "The Department of Decentralization is a collective of people from various crypto- and blockchain communities in and around Berlin. The group assembled to organize events like ETHBerlin, Protocol Berg, or GoerliCon and has been providing infrastructure such as the Goerli and (soon) the Holešky testnet.\n\nWe aim to be an agnostic vehicle to drive adoption, educate newcomers, and raise awareness of the challenges and benefits of decentralization and open-source software.\n\nOptimism benefits from public infrastructure such as the Goerli testnet, which has been the primary layer-1 for the optimistic Goerli testnet in the past year.  In addition, the Optimism Foundation has been represented at the past year's ETHBerlin and Protocol Berg.",
+  "websiteUrl": "https://dod.ngo",
+  "bio": "DoD is a collective of people from decentralization communities. It organized events like Protocol Berg and provided infrastructure like the Goerli Testnet.",
+  "contributionDescription": "The Department of Decentralization is a collective of people from various crypto- and blockchain communities in and around Berlin. The group assembled to organize events like ETHBerlin, Protocol Berg, or GoerliCon and has been providing infrastructure such as the Goerli and now the Holešky testnet.\n\nWe aim to be an agnostic vehicle to drive adoption, educate newcomers, and raise awareness of the challenges and benefits of decentralization and open-source software.\n\nOptimism benefits from public infrastructure such as the Goerli testnet, which has been the primary layer-1 for the optimistic Goerli testnet in the past year.  In addition, the Optimism Foundation has been represented at the past year's ETHBerlin and Protocol Berg.",
   "contributionLinks": [
     {
       "type": "OTHER",
@@ -28,33 +28,54 @@
       "type": "OTHER",
       "url": "https://protocol.berlin/",
       "description": "Protocol Berg - the decentralized protocol and infrastructure conference."
-    },
-    {
-      "type": "OTHER",
-      "url": "https://speak.protocol.berlin/protocol-berg/talk/QZM8PM/",
-      "description": "Protocol Berg - Evolution of Optimistic Rollup proofs (protolambda)"
-    },
-    {
-      "type": "OTHER",
-      "url": "https://speak.protocol.berlin/protocol-berg/talk/EEPMJU/",
-      "description": "Protocol Berg - Retroactive Public Goods Funding: 2 Rounds in (Jonas Seiferth)"
     }
   ],
   "impactCategory": [
     "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
     "OP_STACK"
   ],
-  "impactDescription": "The Goerli testnet is still the most frequented public Ethereum testnet by all metrics, seeing more than 240 million transactions and 28 million active accounts to date. The optimistic Goerli testnet has seen 30 million transactions with more than 4 million active accounts.",
+  "impactDescription": "The Goerli testnet is still the most frequented public Ethereum testnet by all metrics, seeing more than 240 million transactions and 28 million active accounts. The optimistic Goerli testnet has seen 30 million transactions with over 4 million active accounts. The events we organize host roughly 1000 hackers and attendees. Our social media community has 11k followers.",
   "impactMetrics": [
     {
-      "description": "OP Goerli Transactions",
+      "description": "OP Goerli transactions",
       "number": 30376282,
       "url": "https://goerli-optimism.etherscan.io/txs"
     },
     {
-      "description": "L1 Goerli Transactions",
+      "description": "L1 Goerli transactions",
       "number": 241691153,
       "url": "https://goerli.etherscan.io/txs"
+    },
+    {
+      "description": "Holešky validators",
+      "number": 1473730,
+      "url": "https://holesky.beaconcha.in/validators"
+    },
+    {
+      "description": "Twitter followers",
+      "number": 11553,
+      "url": "https://twitter.com/ETHBerlin"
+    },
+    {
+      "description": "ETHBerlin hackers (2022)",
+      "number": 850,
+      "url": "https://ethberlin.ooo/gallery"
+    },
+    {
+      "description": "Protocol Berg attendees (2023)",
+      "number": 650,
+      "url": "https://protocol.berlin/gallery"
+    },
+    {
+      "description": "Talks and workshops",
+      "number": 140,
+      "url": "https://www.youtube.com/@departmentofdecentralization/playlists"
+    },
+    {
+      "description": "ETHBerlin projects (2022)",
+      "number": 100,
+      "url": "https://ethberlin.devfolio.co/projects"
     }
   ],
   "fundingSources": [
@@ -63,6 +84,24 @@
       "currency": "OP",
       "amount": 143507.74,
       "description": "RetroPGF 2 funding for the Goerli Testnet"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 10000,
+      "description": "Ethereum Foundation Grant"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 10000,
+      "description": "Polkadot Treasury"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 0,
+      "description": "Tickets to our events are always free of charge!"
     }
   ],
   "payoutAddress": "0x59cc3Fc56B8B2988F259EC1E6f3446907130f728",
@@ -71,14 +110,11 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "Project": "Department of Decentralization",
-  "Applicant Type": "PROJECT",
-  "OSS Directory": "Not Found",
-  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x59cc3Fc56B8B2988F259EC1E6f3446907130f728.json",
-  "Githubs": "https://github.com/eth-clients/goerli, https://github.com/eth-clients/holesky",
-  "Tags": "",
-  "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, Testnet Infrastructure",
-  "pwIsFlagged": false,
-  "pwCategory": "Community Building"
+  "displayName": "Department of Decentralization",
+  "applicantName": "Afri",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x59cc3Fc56B8B2988F259EC1E6f3446907130f728.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x59cc3Fc56B8B2988F259EC1E6f3446907130f728.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x59cc3Fc56B8B2988F259EC1E6f3446907130f728.json",
+  "RPGF3_Application_UID": "0xe5bdbe7427fa9a86f70ede69c07f4a14ad6d2af60658b84ac2134b77c6f53845",
+  "applicantAddress": "0x59cc3Fc56B8B2988F259EC1E6f3446907130f728"
 }

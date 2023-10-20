@@ -1,0 +1,48 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://landtorn.com",
+  "bio": "LandTorn is a publisher and distributor of Base-native games. Building an interconnected system of experiences.",
+  "contributionDescription": "LandTorn is a digital gaming hub built on Base, acting as a publisher and distributor of games with a focus on on-chain innovation and cross-platform experiences. Our innovations encompass a deep usage of fully keeping the in-game state on-chain, experimentation in asset ownership, and a smart, large-scope system of smart contract interactivity. Our cross-platform experiences allow us to create amazing web2 games with limited web3 tech, making a deeper use of fully keeping the in-game state on-chain.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://landtorn.com",
+      "description": "Landtorn Website"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "Our first game, Lorak, is an experimental on-chain idle game built using the ERC-6551 standard. It tests the limits of Token Bound accounts, or in simpler terms, it assesses the feasibility of managing hundreds of NFTs inside a Character NFT with a built-in ruleset. This deepens the gameplay while providing a full on-chain experience.\n\nThe idea here is that the core NFT you mint becomes an account. This means it's like a smart contract embedded into your NFT that holds and performs actions with other assets. From the perspective of blockchain gaming, this concept becomes incredibly interesting from multiple standpoints. \n\nOur impact has been felt through over 350,000 transactions since the start of the project, seeking ways to add value and improve the entire ecosystem.",
+  "impactMetrics": [
+    {
+      "description": "Spoil Transactions",
+      "number": 30000,
+      "url": "https://basescan.org/address/0x9f9401eE604F7725255c756B99e416754BA0B910"
+    },
+    {
+      "description": "Settlers Minted",
+      "number": 80650,
+      "url": "https://basescan.org/token/0xB311Ec23c4A7578a4c18F66774a5d7b51DD1DD07"
+    },
+    {
+      "description": "Dungeons Transactions",
+      "number": 359000,
+      "url": "https://basescan.org/token/0x9f9401eE604F7725255c756B99e416754BA0B910"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x1D3b64679DE5526070237d127E14346eC911615d",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "LandTorn",
+  "applicantName": "Yako",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xD4cD61Ea9E2dbe67E1cFa454fD10113ba6D647c9.jpeg",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xD4cD61Ea9E2dbe67E1cFa454fD10113ba6D647c9.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xD4cD61Ea9E2dbe67E1cFa454fD10113ba6D647c9.json",
+  "RPGF3_Application_UID": "0x059532acb1dfc35a7df149ff9e8261d27df04ed82a348930938be84d6aec40fa",
+  "applicantAddress": "0xD4cD61Ea9E2dbe67E1cFa454fD10113ba6D647c9"
+}

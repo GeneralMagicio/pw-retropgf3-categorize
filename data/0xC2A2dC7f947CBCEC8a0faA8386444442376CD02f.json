@@ -1,0 +1,38 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://www.facebook.com/roy.millar.54",
+  "bio": "ako po si gloc 9 taga binangonan rizal , isang makatang maririnig kahit saang lugar ,at kahit di nakatapos ng pag aaral halika , ",
+  "contributionDescription": "I DO WHATEVER IT TAKES .. i believe in this project ..  i will support it .. \nI DO WHATEVER IT TAKES .. i believe in this project ..  i will support it .. \nI DO WHATEVER IT TAKES .. i believe in this project ..  i will support it .. \nI DO WHATEVER IT TAKES .. i believe in this project ..  i will support it .. ",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://github.com/astignoh12/airdrops",
+      "description": "just trying to make my dream come true thru airdroping"
+    }
+  ],
+  "impactCategory": [
+    "OP_STACK"
+  ],
+  "impactDescription": "I DO WHATEVER IT TAKES .. i believe in this project ..  i will support it .. \nI DO WHATEVER IT TAKES .. i believe in this project ..  i will support it .. \nI DO WHATEVER IT TAKES .. i believe in this project ..  i will support it .. \nI DO WHATEVER IT TAKES .. i believe in this project ..  i will support it .. ",
+  "impactMetrics": [
+    {
+      "description": "1",
+      "number": 3,
+      "url": "https://github.com/astignoh12/airdrops"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0xC2A2dC7f947CBCEC8a0faA8386444442376CD02f",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "astignoh12",
+  "applicantName": "astignoh12",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xC2A2dC7f947CBCEC8a0faA8386444442376CD02f.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xC2A2dC7f947CBCEC8a0faA8386444442376CD02f.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xC2A2dC7f947CBCEC8a0faA8386444442376CD02f.json",
+  "RPGF3_Application_UID": "0x071984b66aed13c5f46fd0b142fd4a76d5e49d5ab423bb402b5e1701ff596b39",
+  "applicantAddress": "0xC2A2dC7f947CBCEC8a0faA8386444442376CD02f"
+}

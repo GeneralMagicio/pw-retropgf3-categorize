@@ -1,6 +1,6 @@
 {
   "applicantType": "PROJECT",
-  "websiteUrl": "https://synthfund.gitbook.io/synth/",
+  "websiteUrl": "https://synthfund.gitbook.io/synth",
   "bio": "Multi-strategy cryptocurrency active management hedge fund",
   "contributionDescription": "Created some uniswap liquidity pools for Synth token on OP.\nAdded Synth token to default OP bridge. Thank you, team. :D\nReady to expand in the OP system.\nAlready published news about new pools on OP.\nSynth gitbook has a separate section for OP.\nSo Synth ready to move more liquidity to OP.\nWe have created many Zealy quests for users in the OP ecosystem. Users must interact with the OP network and the liquidity pools on it. Just look! :D",
   "contributionLinks": [
@@ -101,14 +101,10 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "Project": "Synth",
-  "Applicant Type": "PROJECT",
-  "OSS Directory": "",
-  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x84D36eA4044161232803c216BF1D103469713943.json",
-  "Githubs": "",
-  "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK",
-  "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Finance (DeFi), Liquidity Pools, Cross-Chain Platforms, Tokenization Platforms, Developer Ecosystem.",
-  "pwIsFlagged": false,
-  "pwCategory": "Decentralized Finance (DeFi)"
+  "displayName": "Synth",
+  "applicantName": "Synth",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x84D36eA4044161232803c216BF1D103469713943.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x84D36eA4044161232803c216BF1D103469713943.json",
+  "RPGF3_Application_UID": "0x6bba68dec034f1715e3f70366abc7db1df1a003b264b79cf3c1cb3218a36b847",
+  "applicantAddress": "0x84D36eA4044161232803c216BF1D103469713943"
 }

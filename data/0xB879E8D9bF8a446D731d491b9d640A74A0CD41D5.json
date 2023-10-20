@@ -1,0 +1,39 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://x.com/LMBOMNs",
+  "bio": "☯️♊️🌬🌀🤪🤘",
+  "contributionDescription": "I would like to contribute as an artist and writer. I'm willing to come up with good ideas for art, and I love writing. I can write useful articles on any topic. I am honestly rooting for Optimism, this has been the best chain i have came across  so far.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/Lamia1s",
+      "description": "Great"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "I would like to contribute as an artist and writer. I'm willing to come up with good ideas for art, and I love writing. I can write useful articles on any topic. I am honestly rooting for Optimism, this has been the best chain i have came across  so far.",
+  "impactMetrics": [
+    {
+      "description": "Linea bulid",
+      "number": 1,
+      "url": "https://goerli.lineascan.build//address/0xB879E8D9bF8a446D731d491b9d640A74A0CD41D5"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0xB879E8D9bF8a446D731d491b9d640A74A0CD41D5",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Lamia",
+  "applicantName": "Lamia ",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xB879E8D9bF8a446D731d491b9d640A74A0CD41D5.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xB879E8D9bF8a446D731d491b9d640A74A0CD41D5.json",
+  "RPGF3_Application_UID": "0x9702aa8ae18c6b93ee1259afb41ad1df56c85160b723a69402c4ff826074e1fb",
+  "applicantAddress": "0xB879E8D9bF8a446D731d491b9d640A74A0CD41D5"
+}

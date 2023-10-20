@@ -1,7 +1,7 @@
 {
   "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://kristo.ph",
-  "bio": "Music producer and project manager releasing onchain since 2020.",
+  "bio": "Music producer.",
   "contributionDescription": "I am a recipient of the initial airdrop as I have been an avid user since the protocol's early days. I currently release music on an Optimism-based application called Sound.xyz. Besides my own work, I assist new artists in guidance on release schedule and marketing of on-chain music, and I am looking to receive a grant to invest in new projects to be launched via Optimism. This includes both production and marketing fees.",
   "contributionLinks": [
     {
@@ -60,14 +60,10 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "Project": "Kristoph Galland",
-  "Applicant Type": "INDIVIDUAL",
-  "OSS Directory": "",
-  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xb3397A6FeEdff2b9fCe9Ca1086CB1Bdd617c16Bf.json",
-  "Githubs": "",
-  "Tags": "END_USER_EXPERIENCE_AND_ADOPTION",
-  "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "NFTs, Smart Contract Platforms, Blockchain Infrastructure, Decentralized Finance, Digital Identity",
-  "pwIsFlagged": false,
-  "pwCategory": "End User Experience and Adoption"
+  "displayName": "Kristoph Galland",
+  "applicantName": "Kristoph Galland",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xb3397A6FeEdff2b9fCe9Ca1086CB1Bdd617c16Bf.jpeg",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xb3397A6FeEdff2b9fCe9Ca1086CB1Bdd617c16Bf.json",
+  "RPGF3_Application_UID": "0xe8ad8841e7307dbac8a6c716bbade689858fd26200f8c91d52493c781aef0ee0",
+  "applicantAddress": "0xb3397A6FeEdff2b9fCe9Ca1086CB1Bdd617c16Bf"
 }

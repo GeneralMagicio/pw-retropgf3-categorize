@@ -1,0 +1,41 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://twitter.com/Zergan30105656",
+  "bio": "Limited Balance",
+  "contributionDescription": "In my role in the Optimism Chain, I have strived to be a living example, sharing my success stories and inspiring others to see the bright side of every challenge. I am confident that when we radiate positive energy, we not only improve ourselves but also provide a boost to others to reach their full potential.\n",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x946e86495BC2F2e9E963f16e7C480Bd1527fF5fD",
+      "description": "nice "
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "\nI have been actively involved in supporting programs and initiatives aimed at enhancing optimism in society. I have participated in social campaigns, acted as a mentor, and delivered inspirational lectures to motivate individuals and groups. I take pride in seeing the positive changes that have occurred in many lives thanks to these efforts.\n\n",
+  "impactMetrics": [
+    {
+      "description": "kdaisuke",
+      "number": 100,
+      "url": "https://twitter.com/Zergan30105656"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x946e86495BC2F2e9E963f16e7C480Bd1527fF5fD",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "KDaisuke",
+  "applicantName": "KDaisuke",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x946e86495BC2F2e9E963f16e7C480Bd1527fF5fD.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x946e86495BC2F2e9E963f16e7C480Bd1527fF5fD.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x946e86495BC2F2e9E963f16e7C480Bd1527fF5fD.json",
+  "RPGF3_Application_UID": "0xc1f4709752ec5ed170fe1e51722f6900c925c8e825fc3a46e5c24adeac79a7d8",
+  "applicantAddress": "0x946e86495BC2F2e9E963f16e7C480Bd1527fF5fD"
+}

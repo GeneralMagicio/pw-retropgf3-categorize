@@ -1,7 +1,7 @@
 {
   "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://www.linkedin.com/in/sunarto-sihite-csa-91627788",
-  "bio": "I am an analyst, trader & educator market",
+  "bio": "I am an market analyst ",
   "contributionDescription": "Make more people using optimsm & get more adoption for optimsm chain on dex trade, staking, voted, claim badge & pass for verified personal account. Hopefully optimsm using on banking system, actualy in Indonesia & make more event on my country. Intregate on twitter, google pay, apple pay for payment & also expansion on gaming platform. I hope in 2024 optimsm can be faster & more cheapest gass fee transaction. ",
   "contributionLinks": [
     {
@@ -38,15 +38,11 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "Project": "sunarto sihite",
-  "Applicant Type": "INDIVIDUAL",
-  "OSS Directory": "",
-  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xe968C0151F9855089140e03F2365B11b18e6a5d3.json",
-  "Githubs": "",
-  "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK",
-  "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Finance (DeFi), Governance Tokens, Developer Ecosystem, End User Experience and Adoption, Layer 2 Scaling",
-  "pwIsFlagged": true,
-  "pwFlaggedReason": "This application should be flagged for promising future impact, which is in violation of rule one. The applicant speaks about hopes and expectations for the future, such as hoping that Optimism will be used in the banking system and claiming that Optimism will have a faster and cheaper gas fee by 2024.",
-  "pwCategory": "End User Experience and Adoption"
+  "displayName": "sunarto sihite",
+  "applicantName": "Sunarto Ang",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xe968C0151F9855089140e03F2365B11b18e6a5d3.jpeg",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xe968C0151F9855089140e03F2365B11b18e6a5d3.jpeg",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xe968C0151F9855089140e03F2365B11b18e6a5d3.json",
+  "RPGF3_Application_UID": "0x35faed722621cd7ac6a87d8ab18b5948188d80b0dd398918d82d5a92537fc16d",
+  "applicantAddress": "0xe968C0151F9855089140e03F2365B11b18e6a5d3"
 }

@@ -1,0 +1,44 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://nuggetsnews.com.au/",
+  "bio": "Cryptocurrency, finance & economics education since 2017.",
+  "contributionDescription": "I believe my tutorial was the first covering how to use Optimism, connect wallet, bridge to Uniswap & so on. It has been viewed by 10s of 1000s of people on Youtube, Facebook & Twitter. I have also been an ongoing supporter of the Optimism ecosystem & it's projects to this day. ",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://youtu.be/l5iaOkW81vg?si=2s52zeUSvIc_z1vO",
+      "description": "First tutorial on how to use Optimism on Youtube, Twitter & Facebook."
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "Hopefully this tutorial covering how to use Optimism, connect wallet, bridge to Uniswap & so on has helped many people do so safely, educate them on how to use other projects & protocols in the Optimism ecosystem & helped the growth of users in Optimism in general.",
+  "impactMetrics": [
+    {
+      "description": "Views",
+      "number": 15000,
+      "url": "https://youtu.be/l5iaOkW81vg?si=2s52zeUSvIc_z1vO"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 1400,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0x87e92EF9f04631B9471674FA72347341EfAFF8CC",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Alex",
+  "applicantName": "Alex",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x87e92EF9f04631B9471674FA72347341EfAFF8CC.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x87e92EF9f04631B9471674FA72347341EfAFF8CC.json",
+  "RPGF3_Application_UID": "0x31f4c20441b6b2e30e85c03e2aceee220d2e148af31f4b6fe94a69d22878d101",
+  "applicantAddress": "0x87e92EF9f04631B9471674FA72347341EfAFF8CC"
+}

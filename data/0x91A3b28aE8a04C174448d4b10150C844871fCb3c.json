@@ -1,0 +1,70 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://ethereum-on-arm-documentation.readthedocs.io/",
+  "bio": "Ethereum on ARM allows users to run a ~$300 PnP Ethereum full/archive/staking L1 & L2 node based on affordable ARM boads that use only ~10 watts of power.",
+  "contributionDescription": "Our primary contributions lie in the development of Optimism/Base packages and comprehensive documentation that enable general users to run an Optimism node on affordable and low-powered ARM64 boards, including Op-Geth, Op-node clients and Base configurations.\n\nThis work lower the barriers to entry by automating complex processes, ultimately encouraging more users to participate in the network. This contributes directly to network decentralization.\n\nAdditionally, our work empowers developers by providing them with the tools necessary to run a development or testing node. This includes running a L1 node on a similar device so L2 nodes can connect to it.\n\nLastly, we focused on enabling support for the Superchain (via Optimism+Base) to contribute to the multi-chain idea of scaling Ethereum.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/EOA-Blockchain-Labs/ethereumonarm/tree/main/fpm-package-builder/l2-clients/optimism-base",
+      "description": "Ethereum on ARM Optimism/Base code"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://ethereum-on-arm-documentation.readthedocs.io/en/latest/user-guide/running-l2-clients.html#id5",
+      "description": "Optimism node howto on Ethereum on ARM node"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://ethereum-on-arm-documentation.readthedocs.io/en/latest/user-guide/running-l2-clients.html#base",
+      "description": "Base node howto on Ethereum on ARM node"
+    }
+  ],
+  "impactCategory": [
+    "OP_STACK"
+  ],
+  "impactDescription": "Our impact is best illustrated through community engagement and the growth in the number of independently operated nodes contributing to network's decentralization:\n\nCommunity Engagement: Our announcements on social platforms, especially Twitter, have garnered substantial attention, with numerous retweets, likes, and comments, indicating a strong community interest.\n\nDecentralization Contribution: Although challenging to quantify precisely, the requests for help in our Discord channel (for both Optimism and recently Base) indicates a direct contribution to the network's decentralization. Every new node introduced to the network enhances Ethereum's resilience.",
+  "impactMetrics": [
+    {
+      "description": "User support requests (Optimsm/Base)",
+      "number": 3,
+      "url": "https://discord.com/channels/822548812472123404"
+    },
+    {
+      "description": "Optimism support Twitter visualizations",
+      "number": 13700,
+      "url": "https://twitter.com/EthereumOnARM/status/1673635447501647872"
+    },
+    {
+      "description": "Base PoC Twitter visualizations",
+      "number": 10900,
+      "url": "https://twitter.com/EthereumOnARM/status/1706233723111256281"
+    },
+    {
+      "description": "Base support Twitter visualizations",
+      "number": 2042,
+      "url": "https://twitter.com/EthereumOnARM/status/1713825728125382656"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 13173.17,
+      "description": "Gitcoin Grants Alpha round"
+    }
+  ],
+  "payoutAddress": "0x91A3b28aE8a04C174448d4b10150C844871fCb3c",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Ethereum on ARM",
+  "applicantName": "Ethereum on ARM",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x91A3b28aE8a04C174448d4b10150C844871fCb3c.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x91A3b28aE8a04C174448d4b10150C844871fCb3c.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x91A3b28aE8a04C174448d4b10150C844871fCb3c.json",
+  "RPGF3_Application_UID": "0x4f7632e3e0f326540df67ffc795342a3485a3fbe0d82566bb9738867cd0c7736",
+  "applicantAddress": "0x91A3b28aE8a04C174448d4b10150C844871fCb3c"
+}

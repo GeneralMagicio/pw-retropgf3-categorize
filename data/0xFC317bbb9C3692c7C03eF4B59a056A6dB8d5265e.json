@@ -1,0 +1,48 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://www.twitter.com/yudhistiraelham",
+  "bio": "hallo, wie geht's?\nFreut mich",
+  "contributionDescription": "testing all function and checking there is a mistake or missleading information. when it happen i hope tell you to fix. running node as well with a compatible device\n\n\n\n\n..............................................................................................",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xFC317bbb9C3692c7C03eF4B59a056A6dB8d5265e",
+      "description": "here is my etherscan address"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "for developer ecosystem i try to contribute running node and develop some project with optimism network. there some project right now combine with crypto network such as friend tech. that is a social media combine with cyrpto tech, user can bought a share of people",
+  "impactMetrics": [
+    {
+      "description": "#",
+      "number": 10,
+      "url": "https://optimistic.etherscan.io/address/0xFC317bbb9C3692c7C03eF4B59a056A6dB8d5265e"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 10,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0xFC317bbb9C3692c7C03eF4B59a056A6dB8d5265e",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "yudhistira",
+  "applicantName": "yudh1st",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xFC317bbb9C3692c7C03eF4B59a056A6dB8d5265e.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xFC317bbb9C3692c7C03eF4B59a056A6dB8d5265e.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xFC317bbb9C3692c7C03eF4B59a056A6dB8d5265e.json",
+  "RPGF3_Application_UID": "0x26e764d3578b9b68d6175786c043a98ad83bbbe8f38fc869b8cc72a3f63f6202",
+  "applicantAddress": "0xFC317bbb9C3692c7C03eF4B59a056A6dB8d5265e"
+}

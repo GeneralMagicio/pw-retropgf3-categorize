@@ -1,0 +1,36 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://twitter.com",
+  "bio": "Free",
+  "contributionDescription": "This part of your application helps badgeholders understand how your work has benefitted the Optimism Collective. We strongly encourage you spend time going into detail here Describe your contribution(s) to Optimism\nPlease share the contributions you wish to receive RetroPGF for.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com",
+      "description": "Free"
+    }
+  ],
+  "impactCategory": [
+    "OP_STACK"
+  ],
+  "impactDescription": "This part of your application helps badgeholders understand how your work has benefitted the Optimism Collective. We strongly encourage you spend time going into detail here free Describe your contribution(s) to Optimism\nPlease share the contributions you wish to receive RetroPGF for.",
+  "impactMetrics": [
+    {
+      "description": "Download",
+      "number": 250,
+      "url": "https://twitter.com/download"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x3124337ef2654d4a5820d6ce8da2d4617Ee8695B",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Susija",
+  "applicantName": "JRenooe",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x3124337ef2654d4a5820d6ce8da2d4617Ee8695B.json",
+  "RPGF3_Application_UID": "0xcba14301a424939c10007b06fe13a0786fabe52bb31581fb074f39cc5adb3d62",
+  "applicantAddress": "0x3124337ef2654d4a5820d6ce8da2d4617Ee8695B"
+}

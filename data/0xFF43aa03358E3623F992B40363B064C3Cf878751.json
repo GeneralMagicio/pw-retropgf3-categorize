@@ -1,7 +1,7 @@
 {
-  "applicantType": "PROJECT",
+  "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://www.optimism.io",
-  "bio": "Good guy",
+  "bio": "Im a good guy .",
   "contributionDescription": "Optimism is a layer-2 scaling solution for Ethereum, designed to improve its scalability and reduce transaction fees. Any contributions or developments related to Optimism would be the work of the developers and contributors directly involved with the project.",
   "contributionLinks": [
     {
@@ -28,15 +28,10 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "Project": "Neko",
-  "Applicant Type": "PROJECT",
-  "OSS Directory": "",
-  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xFF43aa03358E3623F992B40363B064C3Cf878751.json",
-  "Githubs": "",
-  "Tags": "OP_STACK",
-  "recategorizeReason": "NO, the application is incorrectly categorized as individual whereas it should be \"PROJECT\" since the application talks about work by the developers and contributors involved in the Optimism project, not an individual accomplishment.",
-  "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Layer 2 Scaling, Ethereum",
-  "pwIsFlagged": false,
-  "pwCategory": "Blockchain Infrastructure"
+  "displayName": "Neko",
+  "applicantName": "Neko",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xFF43aa03358E3623F992B40363B064C3Cf878751.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xFF43aa03358E3623F992B40363B064C3Cf878751.json",
+  "RPGF3_Application_UID": "0x2a1be3bb76a9666b0ceace81186bbd34907aa9fc1ac042a1dc610903e13c0ed7",
+  "applicantAddress": "0xFF43aa03358E3623F992B40363B064C3Cf878751"
 }

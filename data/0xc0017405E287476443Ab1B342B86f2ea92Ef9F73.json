@@ -1,0 +1,51 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://willemolding.github.io/",
+  "bio": "I'm the R&D program lead at ChainSafe Systems and a contributor to open source in my spare time. Hackathon addict and passionate about provable computation.",
+  "contributionDescription": "Over the past 6 months we have advanced the Rust tooling for Cannon from a small template repo to a full stack of tooling. This involved the following:\n\n- Changes to support that latest version of Cannon and the updated pre-image oracle\n- A docker builder image for easy cross-compilation of MIPS binaries\n- `cargo cannon` CLI tool to make it simple to bootstrap and build projects\n- Updated API for retrieving pre-image oracle data that is safer and more rust idiomatic\n\nCannon-rs is currently used by ChainSafe Systems and Sygma to develop production applications that use Cannon and the OP stack.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/badboilabs/Cannon-rs",
+      "description": "Github Repo"
+    }
+  ],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "OP_STACK"
+  ],
+  "impactDescription": "A number of projects (Sygma, Coinbase Base) are planning to use Rust to develop alternative clients for Cannon and the OP stack. Cannon-rs can speeds up this development by proving low level system APIs for Cannon upon which more complex provable programs can be built.\n\nProviding developers with a way to develop with Rust for Cannon improves adoption and diversity of code that can be proven using Cannon.",
+  "impactMetrics": [
+    {
+      "description": "GitHub Stars",
+      "number": 28,
+      "url": "https://github.com/BadBoiLabs/Cannon-rs"
+    },
+    {
+      "description": "Projects depending on Cannon-rs",
+      "number": 2,
+      "url": "https://github.com/BadBoiLabs/Cannon-rs"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 5900,
+      "description": "This was incredibly valuable in getting the project to where it is today"
+    }
+  ],
+  "payoutAddress": "0xc0017405E287476443Ab1B342B86f2ea92Ef9F73",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Cannon-rs",
+  "applicantName": "Wollum",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xc0017405E287476443Ab1B342B86f2ea92Ef9F73.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xc0017405E287476443Ab1B342B86f2ea92Ef9F73.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xc0017405E287476443Ab1B342B86f2ea92Ef9F73.json",
+  "RPGF3_Application_UID": "0xebfde003ee2e4a52eb4a22d74759fdff01dfea6712dce0df1212dfa95341819c",
+  "applicantAddress": "0xc0017405E287476443Ab1B342B86f2ea92Ef9F73"
+}

@@ -1,0 +1,100 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://www.launchcaster.xyz/",
+  "bio": "Launchcaster is a community platform for sharing, discovering, and owning web3 projects. It is built on Farcaster, Lens, Ethereum, Optimism, Base, and Zora.",
+  "contributionDescription": "Launchcaster built a solution and a community for builders to launch and discover the best projects on the Superchain. Think Product Hunt, but for the Superchain!\n\nHow Launchcaster works:\n1. Builders post to Farcaster or Lens\n2. Builders reply with @launch to launch\n3. Anyone can connect their wallet, upvote, and see wallet supporters\n\nLaunchcaster’s contributions:\n- Launch using social protocols, including Farcaster and Lens.\n- Discover Superchain launches using home, user, project, and newsletter feeds.\n- Explore Superchain builders by browsing through their profiles and leaderboards.\n- Discover Superchain apps through product pages, top app leaderboard, search, and ecosystems.\n- Deploy, import, and mint Superchain NFTs for apps and launches.\n- And so much more 🙏",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://www.launchcaster.xyz/",
+      "description": "Launchcaster Home"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://warpcast.com/launch",
+      "description": "@launch bot"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.launchcaster.xyz/weekly",
+      "description": "Launchcaster Weekly Newsletter - Never miss a Superchain launch"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://www.launchcaster.xyz/launchcaster/6499df3d78e92419ccdeba36",
+      "description": "OP Launch & App NFTs"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.launchcaster.xyz/launchcaster/650472445403d7677d4776a9",
+      "description": "Base Launch & App NFTs"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.launchcaster.xyz/launchers/0x3e6c23CdAa52B1B6621dBb30c367d16ace21F760",
+      "description": "Launchcaster Builder Profiles (Example: macbudkowski.eth)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.launchcaster.xyz/launchcaster/650876e75403d7677d948d9b",
+      "description": "Launchcaster Ecosystems MVP"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.launchcaster.xyz/fabric",
+      "description": "Launchcaster Product Pages (Example: Fabric)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.launchcaster.xyz/launchcaster/652fdff6a7f8a813910c3cd1",
+      "description": "First Anniversary 🥲"
+    }
+  ],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "Launchcaster has amassed over 10K builders, more than half of active ETH developers. It has also attracted over 50K unique users and facilitated over 1K successful Superchain launches. Many of these launches are built on the OP stack!\n\nLaunchcaster Weekly, our weekly newsletter summarizing the top launches of the week, has sent over 150K emails to 5K subscribers.\n\nLaunchcaster has assisted in deploying over 40 Superchain NFTs, processing +9K mints, importing thousands, and indexing millions.",
+  "impactMetrics": [
+    {
+      "description": "Builders",
+      "number": 10500,
+      "url": "https://www.launchcaster.xyz/"
+    },
+    {
+      "description": "Subscribers",
+      "number": 4000,
+      "url": "https://www.launchcaster.xyz/weekly/51"
+    },
+    {
+      "description": "Emails sent",
+      "number": 150000,
+      "url": "https://www.launchcaster.xyz/weekly/1"
+    },
+    {
+      "description": "NFT deploys",
+      "number": 40,
+      "url": "https://www.launchcaster.xyz/launchcaster/64230ef76223efe884d64833"
+    },
+    {
+      "description": "NFT transactions",
+      "number": 9000,
+      "url": "https://www.launchcaster.xyz/launchcaster/650472445403d7677d4776a9"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0xD0DA14f46595850627bcDB19060bdFb0F4Cc5E8f",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Launchcaster",
+  "applicantName": "Launchcaster.eth",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xD0DA14f46595850627bcDB19060bdFb0F4Cc5E8f.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xD0DA14f46595850627bcDB19060bdFb0F4Cc5E8f.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xD0DA14f46595850627bcDB19060bdFb0F4Cc5E8f.json",
+  "RPGF3_Application_UID": "0x52a5eb33b424f5d62f6cdac8943d4b180adb5cdd5d0dbd861c0d38f522386542",
+  "applicantAddress": "0xD0DA14f46595850627bcDB19060bdFb0F4Cc5E8f"
+}

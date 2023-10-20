@@ -1,7 +1,7 @@
 {
   "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://twitter.com/glbkst",
-  "bio": "musician",
+  "bio": "musician\n",
   "contributionDescription": "\"open to all Optimism artists, creators\".  So well i guess my contribution might be more on a symbolic level, but in the beginning of 2023 when i thought a lot about which L2 to use i went for Optimism because at that time there was mainly the choice between Arbitrum, Optimism and the sort-of L2 Polygon PoS. Arbitrum seemed very DeFi focused, Optimism had at least a NFT marketplace even though with obviously little real use.\nAnd there is this NFT tool platform decent.xyz which supported Optimism. At that time more or less the only platform. It felt a bit lonely at that time with Optimism music NFTs, not many others existed.  Mint success was negligible, but well still fun.\nBecause it ofc is also somehow exciting to be an early user of something.\n",
   "contributionLinks": [
     {
@@ -43,14 +43,10 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "Project": "glbkst",
-  "Applicant Type": "INDIVIDUAL",
-  "OSS Directory": "",
-  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x46642e15d77BbE0bDfcfbf348C38b06153D16049.json",
-  "Githubs": "",
-  "Tags": "END_USER_EXPERIENCE_AND_ADOPTION",
-  "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "END_USER_EXPERIENCE_AND_ADOPTION",
-  "pwIsFlagged": false,
-  "pwCategory": "End User Experience and Adoption"
+  "displayName": "glbkst",
+  "applicantName": "glbkst",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x46642e15d77BbE0bDfcfbf348C38b06153D16049.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x46642e15d77BbE0bDfcfbf348C38b06153D16049.json",
+  "RPGF3_Application_UID": "0x27eb25beed952d1bce0f7e595b03edc986967067224e65870eca75cd2a2944f1",
+  "applicantAddress": "0x46642e15d77BbE0bDfcfbf348C38b06153D16049"
 }

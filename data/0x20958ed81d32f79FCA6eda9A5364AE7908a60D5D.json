@@ -1,0 +1,138 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://cryptomind.group/research/",
+  "bio": "We are Cryptomind Research, recognized as one of the leading crypto researchers in Thailand with the biggest community and audience.",
+  "contributionDescription": "We make Optimism widely known and understood in Thailand. \n\nWe have made contents that provide knowledge about Optimism. We have helped the Thai community to better understand Optimism, including the fundamentals of Optimism, the potential growth opportunities for Optimism in the future, various upgrades, and extensive information about the projects in Optimism ecosystem.\n\nWe are Cryptomind Research, recognized as one of the leading crypto researchers in Thailand. We are the most well known crypto research house in Thailand with the biggest community and audience. Our articles and reports are from one of the most experienced teams in crypto space.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://cryptomind.group/research/an-introduction-to-the-optimism/",
+      "description": "Introduction to optimism (Article)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://cryptomind.group/research/ethereum-layer-2/",
+      "description": "Layer 2 (Article)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://cryptomind.group/research/synthetix-deepdive/",
+      "description": "Synthetix Deep Dive (Article)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://cryptomind.group/research/mantle-network-potential-disruptor-in-the-rollup-ecosystem-2/",
+      "description": "Mantle Network (Article)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://cryptomind.group/research/gho-stablecoin-aave-launch-ethereum/",
+      "description": "AAVE GHO Stablecoin (Article)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://cryptomind.group/research/pendle-finance-deep-dive/",
+      "description": "Pendle Finance Deep Dive (Article)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://cryptomind.group/research/uniswapx-free-gas-mev-protection/",
+      "description": "Uniswap X (Article)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://cryptomind.group/research/introduction-to-layer-2-by-cryptomind-research-full-version/",
+      "description": "Introduction to Layer 2 Full Version (Book)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/CMResearchTeams/status/1658852543626203137",
+      "description": "Optimism Bedrock Upgrade (Twitter Thread)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/CMResearchTeams/status/1670978455394189312",
+      "description": "opBNB (Twitter Thread)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/watch?v=Z99YJLSCV4E",
+      "description": "Layer 2 Deep Dive (Video)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/watch?v=52QERVJstcU",
+      "description": "Ethereum Shanghai Upgrade (Video)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/watch?v=HwH4f_ZoTTw&pp=ygUYY3J5cHRvbWluZCByZXNlYXJjaCB0YWxr",
+      "description": "Velodrome (Video)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.blockchain-th.com/",
+      "description": "Hosting biggest Blockchain event in Thailand (Event)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://cryptomind.group/research/",
+      "description": "300+ Article about Crypto ecosystem."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/@CryptomindGroup/featured",
+      "description": "300+ Video about Crypto ecosystem."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.facebook.com/CryptomindResearch",
+      "description": "300+ Facebook post about Crypto ecosystem."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/CMResearchTeams",
+      "description": "1,000+ Twitter post about Crypto ecosystem."
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "We have contributed to the development of the crypto community in Thailand, with a focus on providing a wealth of knowledge on various topics. These include explanations about different projects, the technologies, various upgrades, security aspects, etc.\n\nWe provide knowledge in many aspects, including articles, videos, books, podcasts, etc. We also organize various offline events to provide knowledge in Thailand and help building web3 ecosystem in Thailand.",
+  "impactMetrics": [
+    {
+      "description": "Website (impression)",
+      "number": 100000,
+      "url": "https://cryptomind.group/research/"
+    },
+    {
+      "description": "Twitter (impression)",
+      "number": 5000000,
+      "url": "https://twitter.com/CMResearchTeams"
+    },
+    {
+      "description": "Facebook (impression)",
+      "number": 500000,
+      "url": "https://www.facebook.com/CryptomindResearch"
+    },
+    {
+      "description": "Youtube (impression)",
+      "number": 400000,
+      "url": "https://www.youtube.com/@CryptomindGroup/featured"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x20958ed81d32f79fca6eda9a5364ae7908a60d5d",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Cryptomind Research",
+  "applicantName": "Cryptomind Research",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x20958ed81d32f79FCA6eda9A5364AE7908a60D5D.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x20958ed81d32f79FCA6eda9A5364AE7908a60D5D.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x20958ed81d32f79FCA6eda9A5364AE7908a60D5D.json",
+  "RPGF3_Application_UID": "0xad533925a428c7a85a0c69be650285c01feecc1d6eaa75ab47f96be1d8db811c",
+  "applicantAddress": "0x20958ed81d32f79FCA6eda9A5364AE7908a60D5D"
+}

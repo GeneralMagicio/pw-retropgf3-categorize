@@ -37,14 +37,11 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "Project": "Wizberry",
-  "Applicant Type": "INDIVIDUAL",
-  "OSS Directory": "",
-  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xb4df3154b7Aa88ece7C91679DfdD35C6491719D6.json",
-  "Githubs": "",
-  "Tags": "COLLECTIVE_GOVERNANCE, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK",
-  "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Collective Governance, End User Experience and Adoption, OP Stack",
-  "pwIsFlagged": false,
-  "pwCategory": "Optimism Ambassador"
+  "displayName": "Wizberry ",
+  "applicantName": "Wizberry",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xb4df3154b7Aa88ece7C91679DfdD35C6491719D6.jpeg",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xb4df3154b7Aa88ece7C91679DfdD35C6491719D6.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xb4df3154b7Aa88ece7C91679DfdD35C6491719D6.json",
+  "RPGF3_Application_UID": "0x2f8b4211b0e797cbe413348ade7632481d298e9be3d6da342fd4adc43a9b8829",
+  "applicantAddress": "0xb4df3154b7Aa88ece7C91679DfdD35C6491719D6"
 }

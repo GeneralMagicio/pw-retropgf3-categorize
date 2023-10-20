@@ -1,0 +1,67 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://nftearth.exchange",
+  "bio": "Non-fungible Human.",
+  "contributionDescription": "I've contributed to Optimism by to expanding access to NFTs for thousands of users on Optimism. I got involved with building a project called NFTEarth upon the news of the closure of the largest OP native marketplace, Quix. I helped to design the strategy for launch, the token NFTE, the airdrop campaign, build the team, deploy the marketplace contracts (we cloned OpenSea Seaport in the first iteration) and get the marketplace up and running in ~40 days. There were several competing teams in early 2023 vying to launch a Quix replacement - a badly needed solution, but only 2 teams actually ever did launch (NFTEarth and Zonic). The team also built the only self-hosted Indexer from Reservoirs open-source repository. NFTEarth code can be seen on the GitHub profile link provided.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xfa1c8cd6b3a5ead9499b8d09f9747c4068f88f37",
+      "description": "NFTE Token Airdrop Contract on Optimism"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x90baa8714afc2089ed4c9afb21707fea6fc82157",
+      "description": "Music NFT-gated Contract on Optimism"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "1,689 addresses claiming an NFT marketplace token was not an insignificant number of users, and the project launched with great promise for promoting Layer2 adoption, specifically to Optimism, for non-fungible technology and all the interesting and novel potential use cases for NFTs. Additionally, the NFTEarth team worked to creatively showcase a proof-of-concept model that music NFTs could be made to potentially transform the entire music industry by using non-fungible technology to remove intermediaries and improved the relationship between Artist/Consumer. 4,771 token-gated music NFTs, called Better With L2 (a tribute to the song made by musician 3LAU), were minted on Optimism. ",
+  "impactMetrics": [
+    {
+      "description": "Unique Addresses to Claim Airdrop",
+      "number": 1689,
+      "url": "https://optimistic.etherscan.io/address/0xfa1c8cd6b3a5ead9499b8d09f9747c4068f88f37"
+    },
+    {
+      "description": "NFT Mints of \"Better With L2\"",
+      "number": 4771,
+      "url": "https://optimistic.etherscan.io/address/0x90baa8714afc2089ed4c9afb21707fea6fc82157"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 0,
+      "description": ""
+    },
+    {
+      "type": "PARTNER_FUND",
+      "currency": "OP",
+      "amount": 27500,
+      "description": "Original Incubation in January, 2023."
+    },
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 600,
+      "description": "Note* This $OP has not been received by the team yet."
+    }
+  ],
+  "payoutAddress": "0xD131F1BcDd547e067Af447dD3C36C99d6be9FdEB",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "NFTEarth",
+  "applicantName": "WΞston",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xD131F1BcDd547e067Af447dD3C36C99d6be9FdEB.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xD131F1BcDd547e067Af447dD3C36C99d6be9FdEB.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xD131F1BcDd547e067Af447dD3C36C99d6be9FdEB.json",
+  "RPGF3_Application_UID": "0x52f7491efe1ee24db5a3d2f6a988d7f575e4818666e7c1e86133d6975de2a255",
+  "applicantAddress": "0xD131F1BcDd547e067Af447dD3C36C99d6be9FdEB"
+}

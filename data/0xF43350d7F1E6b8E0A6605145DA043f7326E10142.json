@@ -1,0 +1,60 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://tenderly.co",
+  "bio": "Full-stack infrastructure solution for fast and reliable dApp development.",
+  "contributionDescription": "We are working towards achieving full Solidity and Ethereum tools redundancy, and more importantly portability across various networks, enabling teams to start building instantly and move across the Web3 space with ease, focusing on their project and core value they are creating, instead of spending a significant amount of their time building up infrastructure or tooling they need for the job at hand.\n\nHaving a full-fledged development environment and a robust infrastructure with all the necessary tooling is and will continue to be one of the most important factors in maturing not just the Optimism stack but Web3 as a whole, bringing in new users and projects based on real value, in a sustainable and retentive fashion.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/Tenderly",
+      "description": "GitHub Repository"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://blog.tenderly.co/optimistic-ethereum-integration-now-available-on-tenderly/",
+      "description": "Official support on Tenderly for Optimism released"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://blog.tenderly.co/how-to-build-on-base-network-with-tenderly/",
+      "description": "Official support on Tenderly for Base released"
+    }
+  ],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
+  "impactDescription": "Projects using Tenderly on Optimism have been executing 100.000+ events/month on average (this includes running simulations and creating forks, alerts, web3 actions, debugging, gas optimizations, etc). 8 out of 10 leading projects on Optimism rely on our services.\n\nThere are also several projects that heavily rely on our Web3 Gateway (hosted node service), most notably Yearn, Zora, thirdweb, Endaoment, DeFi Yield, Frax, Kwenta with 250.000.000+ compute units spent in total between them per month.\n\nIn a bid to support the Superchain, Tenderly also integrated Base from day one, where projects are already executing more than 200.000.000+ compute units per month.",
+  "impactMetrics": [
+    {
+      "description": "Avg. Monthly Simulations (per account)",
+      "number": 100000,
+      "url": "https://docs.tenderly.co/simulations-and-forks/simulation-rpc"
+    },
+    {
+      "description": "Monthly Tenderly Units Spent",
+      "number": 250000000,
+      "url": "https://docs.tenderly.co/other/tenderly-units-tu"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 0,
+      "description": "We do not have direct revenue coming from our support of Optimism"
+    }
+  ],
+  "payoutAddress": "0xF43350d7F1E6b8E0A6605145DA043f7326E10142",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Tenderly",
+  "applicantName": "Miljan Tekic - Tenderly",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xF43350d7F1E6b8E0A6605145DA043f7326E10142.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xF43350d7F1E6b8E0A6605145DA043f7326E10142.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xF43350d7F1E6b8E0A6605145DA043f7326E10142.json",
+  "RPGF3_Application_UID": "0xcb6ac0e12379465dc8d9c9ef5396ef4b8fbbfc17067e20b21c01b4cf56657636",
+  "applicantAddress": "0xF43350d7F1E6b8E0A6605145DA043f7326E10142"
+}

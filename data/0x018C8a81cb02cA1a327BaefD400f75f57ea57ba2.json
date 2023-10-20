@@ -1,8 +1,8 @@
 {
   "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://linktr.ee/subli_defi",
-  "bio": "Optimism Ambassador, Project advisors",
-  "contributionDescription": "Through this application to RPGF, i’ll be covering my involvement at contributing to the Optimism Team to assist/support the onboarding of new projects on Optimism. The support consisted in providing support to project team about Governance (incl. grant), Ecosystem connections, technical information about the OP Stack, co-marketing support, filtering projects for the OP team (whether top tiers or not yet ready) in view of co-marketing support by the OP team, guiding them towards Demo-day on Optimism discord. \n\nMy involvement has been discussed & has been conducted through the support of the Optimism Team\n",
+  "bio": "I'm Subli, Opimism Ambassador, Defi Researcher , Content Creator and founder of The Optimist, with one Goal : breaking down Defi protocols for All. ",
+  "contributionDescription": "Through this application to RPGF, i’ll be covering my involvement at contributing to the Optimism Team to assist/support the onboarding of new projects on Optimism. The support consisted in providing support to project team about Governance (incl. grant), Ecosystem connections, technical information about the OP Stack, co-marketing support, filtering projects for the OP team (whether top tiers or not yet ready) in view of co-marketing support by the OP team, guiding them towards Demo-day on Optimism discord. \n\nMy involvement has been discussed & has been conducted through the support of the Optimism Team\n\nI'm also part of the Ambassador Program on this RPGF round. While being a supet ambassador helped a lot the above, work & impact are clearly different. ",
   "contributionLinks": [
     {
       "type": "OTHER",
@@ -45,15 +45,10 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "Project": "Subli",
-  "Applicant Type": "INDIVIDUAL",
-  "OSS Directory": "",
-  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x018C8a81cb02cA1a327BaefD400f75f57ea57ba2.json",
-  "Githubs": "",
-  "Tags": "END_USER_EXPERIENCE_AND_ADOPTION",
-  "recategorizeReason": "NO, the application is categorized as \"INDIVIDUAL\", but the inclusion of a project name \"Subli\" at the end could create confusion.",
-  "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Optimism Ambassador, Project advisors, Governance Tokens",
-  "pwIsFlagged": false,
-  "pwCategory": "End User Experience and Adoption"
+  "displayName": "Subli",
+  "applicantName": "Subli",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x018C8a81cb02cA1a327BaefD400f75f57ea57ba2.jpeg",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x018C8a81cb02cA1a327BaefD400f75f57ea57ba2.json",
+  "RPGF3_Application_UID": "0x278f45939b63b7b5c84fb0a81701aca4a1153fc8a6a7c35af87cebe1fad70d55",
+  "applicantAddress": "0x018C8a81cb02cA1a327BaefD400f75f57ea57ba2"
 }

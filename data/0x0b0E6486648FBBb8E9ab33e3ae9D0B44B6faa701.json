@@ -1,0 +1,36 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://zeroknowledge.fm/",
+  "bio": "Zero Knowledge is a podcast focused on zk tech and the decentralized web",
+  "contributionDescription": "We have had an ep about Optimism in 2021, and generally have been working in the Ethereum ecosystem for a long while. More generally, the ZKPodcast covers the latest in zero knowledge research and applications, the open web as well as future technologies and paradigms that promise to change the way we interact — and transact — with one another online. ",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://zeroknowledge.fm/",
+      "description": "website"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "Helped with education. We have had an ep about Optimism in 2021, and generally have been working in the Ethereum ecosystem for a long while. More generally, the ZKPodcast covers the latest in zero knowledge research and applications, the open web as well as future technologies and paradigms that promise to change the way we interact — and transact — with one another online. ",
+  "impactMetrics": [
+    {
+      "description": "Number of episodes",
+      "number": 300,
+      "url": "https://zeroknowledge.fm/"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x0b0E6486648FBBb8E9ab33e3ae9D0B44B6faa701",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Zero Knowledge Podcast",
+  "applicantName": "Zero Knowledge Podcast",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x0b0E6486648FBBb8E9ab33e3ae9D0B44B6faa701.json",
+  "RPGF3_Application_UID": "0xabf8a11afc616116d966b45900c77737cbe34dcdab0198c17c3376e1526d6403",
+  "applicantAddress": "0x0b0E6486648FBBb8E9ab33e3ae9D0B44B6faa701"
+}

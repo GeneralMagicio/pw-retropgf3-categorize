@@ -1,7 +1,7 @@
 {
   "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://twitter.com/0xAlex_",
-  "bio": "Web3 engineer",
+  "bio": "Software engineer with extensive experience building in web3. Currently building a web3 product studio, fugu.works.",
   "contributionDescription": "I built op-stack-hooks (https://github.com/AlexBHarley/op-stack-hooks) one of the first OP Stack Mods. op-stack-hooks allows registering listeners on the L2 for events that happen on the L1. ie, \n\n- listening and reacting to swaps made on Uniswap\n- permissionless & automated Chainlink feeds on the L2.\n\nThe mod includes changes to op-node, for deriving events and an additional predeploy for registering events.",
   "contributionLinks": [
     {
@@ -29,14 +29,10 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "Project": "Alex Harley",
-  "Applicant Type": "INDIVIDUAL",
-  "OSS Directory": "Not Found",
-  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x4444d38c385d0969C64c4C8f996D7536d16c28B9.json",
-  "Githubs": "https://github.com/AlexBHarley/op-stack-hooks",
-  "Tags": "",
-  "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Smart Contract Platforms",
-  "pwIsFlagged": false,
-  "pwCategory": "Layer 2 Scaling"
+  "displayName": "Alex Harley",
+  "applicantName": "0xalex",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x4444d38c385d0969C64c4C8f996D7536d16c28B9.jpeg",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x4444d38c385d0969C64c4C8f996D7536d16c28B9.json",
+  "RPGF3_Application_UID": "0x14301a25159fd1057d2e3ca076116e44e5e2dda5b49987190f07bac4c7ba5047",
+  "applicantAddress": "0x4444d38c385d0969C64c4C8f996D7536d16c28B9"
 }

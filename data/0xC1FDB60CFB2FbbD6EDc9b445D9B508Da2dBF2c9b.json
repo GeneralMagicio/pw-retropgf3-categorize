@@ -1,0 +1,58 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://gashawk.io/",
+  "bio": "GasHawk saves users and institutions up to 95% on fees by monitoring the network and predicting the optimal time to submit a transaction over any time frame.",
+  "contributionDescription": "GasHawk provides a non custodial, automated, transaction manager focused on gas savings that can be used by end users, contract deployers, institutions and projects building on the OP Stack. We have already integrated with multiple apps in the ecosystem and provide much needed tooling and developer infrastructure which enables developers to cheaply and securely deploy and interact with dapps, improving the quality and security of applications, drive considerable value to the Optimism ecosystem, help retain projects and developers, and unlock new application designs.\n\nWe have also spent considerable amounts of time and resources providing research and implementation into Optimism Sequencer Address which shows we can save Optimism millions per year.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://gashawk.io/",
+      "description": "Website"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://dhannum8.mirror.xyz/jfTJHSfPyRbO2_alyTsrZnkW_kk56llj7KKKjZGiGck",
+      "description": "Mirror Article on GasHawks work for Optimisms Sequencer Address"
+    }
+  ],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "GasHawk has helped to improve adoption and create stronger developer tooling and infrastructure. This infrastructure has helped developers, individuals and dapps on Optimism. We are currently a public good and do not charge users for use of our service or take any % of the amount we save.\n\nGasHawk is a versatile service designed for a wide range of users, including developers deploying contracts, artists releasing NFT collections, platforms, protocols, relayers, collectors, investors, and everyday users.\n\nGasHawk has successfully processed 16,281 transactions for 4,005 users.\n\nAdditionally we have shown that at minimum GasHawk can save Optimism millions of dollars per year with our intelligent submission strategies for its sequencer address.",
+  "impactMetrics": [
+    {
+      "description": "Savings",
+      "number": 1200000,
+      "url": "https://dhannum8.mirror.xyz/jfTJHSfPyRbO2_alyTsrZnkW_kk56llj7KKKjZGiGck"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 10535.97,
+      "description": "We were awarded 10.5K OP Tokens in RetroPGF2"
+    },
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 40000,
+      "description": "We were awarded a 40k OP Builders Grant"
+    }
+  ],
+  "payoutAddress": "0x44F00C29a0b8514D017ac20fBDb0AA5078b860cE",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "GasHawk",
+  "applicantName": "DHannum8",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xC1FDB60CFB2FbbD6EDc9b445D9B508Da2dBF2c9b.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xC1FDB60CFB2FbbD6EDc9b445D9B508Da2dBF2c9b.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xC1FDB60CFB2FbbD6EDc9b445D9B508Da2dBF2c9b.json",
+  "RPGF3_Application_UID": "0xe1a29c6b0fb801ec1a0339fbfaa421fd55be8f3f2557997a892273ae9c240eed",
+  "applicantAddress": "0xC1FDB60CFB2FbbD6EDc9b445D9B508Da2dBF2c9b"
+}

@@ -1,5 +1,5 @@
 {
-  "applicantType": "INDIVIDUAL",
+  "applicantType": "PROJECT",
   "websiteUrl": "https://t.me/NFTunchainedClubChannel",
   "bio": "Founder of NFTunchained Club",
   "contributionDescription": "I love optimism since day one, i tell my community to stake and hold OP as much as they can, i know that on bullran OP will rise and shine and it's our destiny.\nGive me a chance to contribute in the future of layer2 blockchains, hope u can hear how god whispers!",
@@ -33,16 +33,10 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "Project": "krajekis",
-  "Applicant Type": "INDIVIDUAL",
-  "OSS Directory": "",
-  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xF82EF19932F5297655EF69774dE2a2AbadefDe9d.json",
-  "Githubs": "",
-  "Tags": "END_USER_EXPERIENCE_AND_ADOPTION",
-  "recategorizeReason": "NO. This application is incorrectly categorized as a PROJECT while in the description it's indicated that it's from an INDIVIDUAL stating \"I'm CEO of NFTunchained Club\", \"Give me a chance to contribute in the future of layer2 blockchains\".",
-  "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Layer 2 Scaling",
-  "pwIsFlagged": true,
-  "pwFlaggedReason": "This application should be flagged for violating rule 1, as it contains promises of future impact such as \"Give me a chance to contribute in the future of layer2 blockchains\".",
-  "pwCategory": "Community Building"
+  "displayName": "krajekis",
+  "applicantName": "krajekis",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xF82EF19932F5297655EF69774dE2a2AbadefDe9d.jpeg",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xF82EF19932F5297655EF69774dE2a2AbadefDe9d.json",
+  "RPGF3_Application_UID": "0x4c66c2aaf056b3edad20fee9894fee6b4584fe5617d1b4542488a923fd0b3019",
+  "applicantAddress": "0xF82EF19932F5297655EF69774dE2a2AbadefDe9d"
 }

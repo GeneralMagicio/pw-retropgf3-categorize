@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://apeworx.io",
-  "bio": "Smart contract devtool for Pythonistas, Data Scientists & Security Professionals",
+  "bio": "Contributor to Ape, Vyper, and Yearn",
   "contributionDescription": "Ape maintains an Optimism plugin, which allows developers using our framework to interact with Optimism and OP Stack-based networks easily, safely, and reliably. We will continue to maintain the Optimism plugin, improving it's functionality to make it as useful as possible for our community, including supporting our own product activities where Optimism is our primary deployment network.",
   "contributionLinks": [
     {
@@ -49,14 +49,11 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "Project": "ApeWorX LTD",
-  "Applicant Type": "PROJECT",
-  "OSS Directory": "Github Found",
-  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x1C277bD41A276F87D3E92bccD50c7364aa2FFc69.json",
-  "Githubs": "https://github.com/ApeWorX/ape-optimism, https://github.com/ApeWorX/ape-base, https://github.com/ApeWorX/ape",
-  "Tags": "",
-  "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Smart Contract Platforms, Layer 2 Scaling",
-  "pwIsFlagged": false,
-  "pwCategory": "Developer Ecosystem"
+  "displayName": "ApeWorX LTD",
+  "applicantName": "fubuloubu",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x1C277bD41A276F87D3E92bccD50c7364aa2FFc69.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x1C277bD41A276F87D3E92bccD50c7364aa2FFc69.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x1C277bD41A276F87D3E92bccD50c7364aa2FFc69.json",
+  "RPGF3_Application_UID": "0x48000bf0277f99726173a59b47d05aa6371ea320866e3e9a77e4241a083a4009",
+  "applicantAddress": "0x1C277bD41A276F87D3E92bccD50c7364aa2FFc69"
 }

@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://tecommons.org/",
-  "bio": "Ethical, safe, resilient and diverse economic systems to benefit the world.",
+  "bio": "The TEC enables the creation of ethical, safe, resilient and diverse economic systems to benefit societies around the world.",
   "contributionDescription": "The Token Engineering Commons (TEC) supports the economic development of the field of token engineering. Since its launch in early 2022, the TEC has granted $470K to bringing engineering rigor to the development of crypto-economic systems. These grants build public faith that is critical to the widespread adoption of blockchain technologies. Our support has also directly benefited Optimism, including Inverter’s programmable smart contract workflows, cadCAD’s Ethereum models, Gravity DAO’s dispute resolution, Praise’s peer-based attested reputation, and the Token Engineering Academy’s graduates. Additionally, the TEC attracts token engineering practitioners to the Optimism developer ecosystem by running our Gitcoin Token Engineering Grants Round on Optimism.",
   "contributionLinks": [
     {
@@ -98,14 +98,11 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "Project": "Token Engineering Commons",
-  "Applicant Type": "PROJECT",
-  "OSS Directory": "",
-  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xfc1436EAb5943F90A4cae9fd1aD6ba66408cDe9B.json",
-  "Githubs": "",
-  "Tags": "DEVELOPER_ECOSYSTEM, OP_STACK",
-  "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Token Engineering Commons, Developer Ecosystem, Optimism Stack",
-  "pwIsFlagged": false,
-  "pwCategory": "Developer Ecosystem"
+  "displayName": "Token Engineering Commons",
+  "applicantName": "Token Engineering Commons",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xfc1436EAb5943F90A4cae9fd1aD6ba66408cDe9B.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xfc1436EAb5943F90A4cae9fd1aD6ba66408cDe9B.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xfc1436EAb5943F90A4cae9fd1aD6ba66408cDe9B.json",
+  "RPGF3_Application_UID": "0x9e5ea1680af47702c711090ece55c5ce8a73d1122196274c4ffcdd60a2004972",
+  "applicantAddress": "0xfc1436EAb5943F90A4cae9fd1aD6ba66408cDe9B"
 }

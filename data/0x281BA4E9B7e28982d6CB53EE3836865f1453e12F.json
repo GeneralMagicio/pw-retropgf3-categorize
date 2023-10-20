@@ -1,0 +1,96 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://cryptoversidad.com/",
+  "bio": "Our mission is to: accelerate the mass adoption of Web3 technologies. We produce high-quality educational content that helps understand and use web3 tools.",
+  "contributionDescription": "Over recent months, we've achieved valuable milestones we're proud and excited to share:\n\nWeb3 Course in Spanish: Funded by RetroPGF 2, our web3 course covers blockchain, smart contracts, and scalability. We've launched it in collaboration with 10+ Latam communities.\n\nOptimism Videos: We've developed a bilingual video library to demystify Optimism, making it accessible to a global audience.\n\nBuilders Program: Between May-September, our program supported 10 individuals in gaining web3 skills and contributing to the ecosystem. Several have achieved noteworthy successes.\n\nStrong Team: Cryptoversidad now comprises 7 dedicated professionals, fostering a culture of value-add and collaboration.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://cryptoversidad.thinkific.com/courses/Intro-a-web3",
+      "description": "Intro to web3 course"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/playlist?list=PLWqn8qbq_bAHka5oVHvcX6o8kXrVsN5-t",
+      "description": "Optimism explainer videos"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/cryptoversidad/status/1679289369075621888",
+      "description": "Builders program Cryptoversidad"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://cryptoversidad.notion.site/Impact-links-RPGF-3-07a1078385814259a2873a3d5b0f3eaa?pvs=4",
+      "description": "Technical articles explain EIP’s and ERC’s"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/playlist?list=PLWqn8qbq_bAG8GWkE3R7cJksWDw6b1w8h",
+      "description": "Cryptography workshops"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://cryptoversidad.com/about-us/",
+      "description": "Cryptoversidad Team"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "While we are very proud of our contributions and work, we know it is not perfect, we can do better and there’s a lot to learn. But in short, we’ve created valuable resources for people to learn, understand and use Optimism and with our Builders program, we supported 10 people in starting their web3 journey. We will present some numbers to illustrate our progress, but we want to leave it up to you to decide how impactful this work has been. ",
+  "impactMetrics": [
+    {
+      "description": "Students in web3 course",
+      "number": 340,
+      "url": "https://cryptoversidad.thinkific.com/courses/Intro-a-web3"
+    },
+    {
+      "description": "Explainer videos about Optimism",
+      "number": 10,
+      "url": "https://www.youtube.com/playlist?list=PLWqn8qbq_bAHka5oVHvcX6o8kXrVsN5-t"
+    },
+    {
+      "description": "Individuals in our builders cohort",
+      "number": 10,
+      "url": "https://twitter.com/cryptoversidad/status/1679289369075621888"
+    },
+    {
+      "description": "Articles exploring technical topics EIPs",
+      "number": 8,
+      "url": "https://cryptoversidad.notion.site/Impact-links-RPGF-3-07a1078385814259a2873a3d5b0f3eaa?pvs=4"
+    },
+    {
+      "description": "Focused, committed team members",
+      "number": 7,
+      "url": "https://cryptoversidad.com/about-us/"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 10900,
+      "description": "RPGF 2 for our past work (outside of these contributions)"
+    },
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 55000,
+      "description": "Mission proposal to develop Optimism videos"
+    }
+  ],
+  "payoutAddress": "0x281BA4E9B7e28982d6CB53EE3836865f1453e12F",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Cryptoversidad",
+  "applicantName": "Cryptoversidad",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x281BA4E9B7e28982d6CB53EE3836865f1453e12F.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x281BA4E9B7e28982d6CB53EE3836865f1453e12F.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x281BA4E9B7e28982d6CB53EE3836865f1453e12F.json",
+  "RPGF3_Application_UID": "0x6770ebe0a793217fc2f14e4e1561ebea466033cb1985671b98a5b698c32244fd",
+  "applicantAddress": "0x281BA4E9B7e28982d6CB53EE3836865f1453e12F"
+}

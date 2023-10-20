@@ -1,0 +1,48 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://goldsky.com",
+  "bio": "growth at @goldskyio",
+  "contributionDescription": "Problem:\nAccessing Superchain data is painful. Analysts can use cloud platforms and face vendor lock-in, limited flexibility, and expensive query compute and/or storage fees. Many emerging OP-stack chains aren't supported, requiring analytics to run a full node to access the data they need to power analytics on their app or at the chain/multi-chain level.\n\nSolution: indexed.xyz is a public, open, and CC0-licensed dataset that allows anyone to freely download, copy, and analyze chain data (incl. OP-stack chains like Zora and Base) without any restriction. By adopting a local-first approach, we enable builders to leverage their local storage and compute resources, making it easier and more affordable to work with crypto data, all while providing more flexibility and control.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://indexed.xyz",
+      "description": "Homepage"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://docs.indexed.xyz",
+      "description": "Documentation"
+    }
+  ],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
+  "impactDescription": "Benefits: The primary benefit of indexed.xyz is that it increases data accessibility for Optimism chains, with all of the pre-work (indexing & decoding) done by indexed.xyz. In addition, costs to developers are lowered by enabling them to use their existing storage and compute (ie. laptops & local devices), making chain-level analytics use cases that would otherwise be prohibitively expensive, possible.\n\nImpact: Because we require no account to download data, have any trackers to collect information, and one of the primary use cases for indexed.xyz is offline / local analytics, much of the usage of indexed.xyz is not publicly visible outside of data download volume (outlined in the \"impact metrics\" section below).",
+  "impactMetrics": [
+    {
+      "description": "Total data served per month (TB)",
+      "number": 140.23,
+      "url": "https://share.goldsky.com/70cGds7m"
+    },
+    {
+      "description": "Superchain data served per month (TB)",
+      "number": 32.45,
+      "url": "https://share.goldsky.com/70cGds7m"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0xe9cc3a466a922B94d0682B602d6a1f1A7ad49dfE",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "indexed.xyz",
+  "applicantName": "Hemanth",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x888d35cDA7a2E5DF438B75b89e567C6aC6D36Ab9.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x888d35cDA7a2E5DF438B75b89e567C6aC6D36Ab9.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x888d35cDA7a2E5DF438B75b89e567C6aC6D36Ab9.json",
+  "RPGF3_Application_UID": "0xda1670c62e098723eb2771411d114d39fb1da864f5fe3796f5ff9926565cfeda",
+  "applicantAddress": "0x888d35cDA7a2E5DF438B75b89e567C6aC6D36Ab9"
+}

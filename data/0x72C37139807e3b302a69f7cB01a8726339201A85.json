@@ -1,0 +1,41 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://twitter.com/satrio_PC",
+  "bio": "Collective vision\n\nOptimism is a community-owned ecosystem designed to solve coordination failures by rewarding positive impact.",
+  "contributionDescription": "Optimism Builds Resilience\n\nOptimism lets us see disappointing events as temporary situations that we can get past. It strengthens us to try again rather than give up. It allows us to keep our goals and dreams in play so we can act on the motivation to keep working toward them.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/satrio_PC",
+      "description": "Crypto & NFT Enthusiast✨"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "Collective vision\n\nOptimism is a community-owned ecosystem designed to solve coordination failures by rewarding positive impact.\nFeeling optimistic about the situations people find themselves in is critical to experiencing well-being. Increasing optimism in the workplace leads to healthier and more engaged and productive employees. Employers play a key role in facilitating an environment that allows employees to thrive in optimism.",
+  "impactMetrics": [
+    {
+      "description": "Social media reach",
+      "number": 12345,
+      "url": "https://www.sisense.com/blog/5-metrics-to-include-in-your-marketing-dashboard/"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x72C37139807e3b302a69f7cB01a8726339201A85",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "SweetBoy",
+  "applicantName": "SweetBoy ",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x72C37139807e3b302a69f7cB01a8726339201A85.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x72C37139807e3b302a69f7cB01a8726339201A85.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x72C37139807e3b302a69f7cB01a8726339201A85.json",
+  "RPGF3_Application_UID": "0xa41f21d22aeef9b272ad4b642f8bd3bd10193d082e1cc1534ab212b176be0994",
+  "applicantAddress": "0x72C37139807e3b302a69f7cB01a8726339201A85"
+}

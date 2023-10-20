@@ -1,0 +1,79 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://conduit.xyz",
+  "bio": "Founder of Conduit",
+  "contributionDescription": "Working with the Optimism Collective on the Superchain vision and building the market from 0 -> 1.\n\nContributions include but not limited to:\n- Educating developers and the broader ecosystem about rollup technology\n- Educating superchain customers about the product offering, tradeoffs, and how to build a successful chain\n- Gathering customer feedback and identifying high leverage areas for product improvement for the superchain product\n- Helping to build developer ecosystem around the OP Stack with Conduit's integrations (blockscout, superbridge, tenderly, dune, etc.)\n- Working with the core devs to improve the underlying infrastructure\n- Generally, bringing more chains onto the Superchain",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/KAndrewHuang/status/1706685729274007819",
+      "description": "Conduit Elector, an HA sequencing technology for Conduit OP Chains"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/KAndrewHuang/status/1690409338006069248",
+      "description": "Hosting free public RPC endpoints for OP Chains (like Zora)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/KAndrewHuang/status/1692189573080826075",
+      "description": "Conduit Integrations for facilitating broader ecosystem development"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/KAndrewHuang/status/1694002513534660747",
+      "description": "Educational thread on rollup gas tokens"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/KAndrewHuang/status/1696538288256168309",
+      "description": "Educational thread on alt da layers for rollups"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/KAndrewHuang/status/1699804826006393109",
+      "description": "Marketing for Aevo, OP Stack fork"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/KAndrewHuang/status/1679521105051258881",
+      "description": "Marketing for Zora, first OP Chain on Mainnet"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/0xAlex_/status/1711786211138830406",
+      "description": "Superbridge app native integration with Conduit"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/KAndrewHuang/status/1709583241664176613",
+      "description": "Marketing for RPGF Round 3"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "Helping the OP Stack, and Superchain product, become the de-facto standard for layer 2 development through:\n- Improving the core software and identifying areas of high leverage product improvements\n- Building out the developer ecosystem for production-ready integrations (blockscout, superbridge, tenderly, dune, etc.)\n- Personally onboarding chains onto the Superchain, helping customer navigate the technical and business maze of launching a new rollup\n- Educating and marketing information related to rollups, the superchain, and more to drive demand for the product",
+  "impactMetrics": [
+    {
+      "description": "OP Chain L1 Activity",
+      "number": 3,
+      "url": "https://dune.com/oplabspbc/op-stack-chains-l1-activity"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0xefCf0c8faFB425997870f845e26fC6cA6EE6dD5C",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Conduit",
+  "applicantName": "Andrew Huang",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x8D3A410962b1BcEe613f4aA41718cCfe161E9756.json",
+  "RPGF3_Application_UID": "0x4b5d1bb924ecf1996a5c193a61a18ee1603e8f3b71eccb3a1e2e73c059ca4091",
+  "applicantAddress": "0x8D3A410962b1BcEe613f4aA41718cCfe161E9756"
+}

@@ -1,5 +1,5 @@
 {
-  "applicantType": "INDIVIDUAL",
+  "applicantType": "PROJECT",
   "websiteUrl": "Https.://www.twitter.com/Rizkyalpasha2",
   "bio": "Be yourself ",
   "contributionDescription": "make any contribution that always builds a solid community, whatever it is, always be ready to be together..give each other positive input and encouragement so that we can move forward together.\nWhatever is given, I am still very grateful, because the optimism chain will always be in my heart forever. Joining as one of the supporters is already an honor for me.",
@@ -36,15 +36,10 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "Project": "Asian crypto",
-  "Applicant Type": "INDIVIDUAL",
-  "OSS Directory": "",
-  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xD00Dbbe03D11144177C609682b66073f62da9f89.json",
-  "Githubs": "",
-  "Tags": "COLLECTIVE_GOVERNANCE, OP_STACK",
-  "recategorizeReason": "NO. The applicant consistently uses singular pronouns like \"me\" and \"I\" indicating this should be categorized as an individual.",
-  "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, Positive Values, Collective Governance",
-  "pwIsFlagged": false,
-  "pwCategory": "Community Building"
+  "displayName": "Asian crypto",
+  "applicantName": "Raples as",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xD00Dbbe03D11144177C609682b66073f62da9f89.jpeg",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xD00Dbbe03D11144177C609682b66073f62da9f89.json",
+  "RPGF3_Application_UID": "0x253de9e92717e8b2ac31e2f415f0f735aafc1db394e1c66859e385687d7b303d",
+  "applicantAddress": "0xD00Dbbe03D11144177C609682b66073f62da9f89"
 }

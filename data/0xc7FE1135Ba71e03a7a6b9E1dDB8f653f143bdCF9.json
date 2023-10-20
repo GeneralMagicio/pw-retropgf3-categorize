@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
-  "websiteUrl": "https://twitter.com/wehack247",
-  "bio": "Jessy’s Hacker House supports a strong community of builders",
+  "websiteUrl": "https://github.com/0xJepsen",
+  "bio": "My name is Waylon Jepsen. I am a software engineering in the rust ethereum ecosystem. I am passionate about high impact technology, Math and Philosophy. ",
   "contributionDescription": "Jessy's hacker house is a beacon for engineers and innovators in the Ethereum ecosystem, offering a supportive community to navigate this niche industry. We prioritize our residents, fostering an environment where they can collaborate, learn, and form lasting bonds. Our rigorous selection process ensures we house genuine, curious, and resourceful individuals. We view our houses as a public good, never compromising our values for monetary gain. Living and hacking together fosters deeper connections than casual meetups. We value obsession, genuine curiosity, and resourcefulness. We will include a list of all projects built by our residents.",
   "contributionLinks": [
     {
@@ -128,14 +128,10 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "Project": "Jessy's Hacker house",
-  "Applicant Type": "PROJECT",
-  "OSS Directory": "Github Found",
-  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xc7FE1135Ba71e03a7a6b9E1dDB8f653f143bdCF9.json",
-  "Githubs": "https://github.com/primitivefinance/arbiter, https://github.com/cairoeth/arbx, https://github.com/laudiacay/barustenberg, https://github.com/SorellaLabs/ethers-reth, https://github.com/paradigmxyz/reth/issues/3428, https://github.com/bluealloy/revm, https://t.co/IesndP2MsK",
-  "Tags": "",
-  "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, Open-Source Development, Ethereum Ecosystem",
-  "pwIsFlagged": false,
-  "pwCategory": "Community Building"
+  "displayName": "Jessy's Hacker House",
+  "applicantName": "Waylon Jepsen",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xc7FE1135Ba71e03a7a6b9E1dDB8f653f143bdCF9.jpeg",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xc7FE1135Ba71e03a7a6b9E1dDB8f653f143bdCF9.json",
+  "RPGF3_Application_UID": "0x33fcfbefe71202245fd492bd9b161dfe49dc2119edc7a42a0b8a9e5936a416d5",
+  "applicantAddress": "0xc7FE1135Ba71e03a7a6b9E1dDB8f653f143bdCF9"
 }

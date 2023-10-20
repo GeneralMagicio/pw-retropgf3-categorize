@@ -1,7 +1,7 @@
 {
   "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://twitter.com/viethm91",
-  "bio": "I am a music NFT collector",
+  "bio": "I am a music collector on sound.xyz. I spent a considerable amount of money and time to collect the music on there",
   "contributionDescription": "I've been a music NFT collector on sound.xyz since the early days of the OP network. I have spent a lot of time and effort to collect my favorite music. I see the great potential of music NFT and hope it will grow with Optimism Collective. And I also hope that my contributions will help the strong development of music NFT and spread to more people.",
   "contributionLinks": [
     {
@@ -28,14 +28,10 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "Project": "viethm91",
-  "Applicant Type": "INDIVIDUAL",
-  "OSS Directory": "",
-  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xe437BC0fE994a491d01Ea651ed63C0892d85ce45.json",
-  "Githubs": "",
-  "Tags": "COLLECTIVE_GOVERNANCE",
-  "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "NFTs, Music, Optimism Collective",
-  "pwIsFlagged": false,
-  "pwCategory": "Non-Fungible Tokens (NFTs)"
+  "displayName": "viethm91",
+  "applicantName": "viethm91",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xe437BC0fE994a491d01Ea651ed63C0892d85ce45.jpeg",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xe437BC0fE994a491d01Ea651ed63C0892d85ce45.json",
+  "RPGF3_Application_UID": "0x5eb0a26596141c7eb83d58dd927ca560dcc846bc987437d39cda4606588ad33a",
+  "applicantAddress": "0xe437BC0fE994a491d01Ea651ed63C0892d85ce45"
 }

@@ -36,14 +36,11 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "Project": "Billythecrypto",
-  "Applicant Type": "INDIVIDUAL",
-  "OSS Directory": "",
-  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x81F10d99464d604EA1E9242DC71733a506E95b4e.json",
-  "Githubs": "",
-  "Tags": "DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION",
-  "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Developer Ecosystem, End User Experience and Adoption",
-  "pwIsFlagged": false,
-  "pwCategory": "End User Experience and Adoption"
+  "displayName": "Billythecrypto",
+  "applicantName": "Billythecrypto",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x81F10d99464d604EA1E9242DC71733a506E95b4e.jpeg",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x81F10d99464d604EA1E9242DC71733a506E95b4e.jpeg",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x81F10d99464d604EA1E9242DC71733a506E95b4e.json",
+  "RPGF3_Application_UID": "0x3450d07137638546a545333bc3bbc0d84ddfaec7cf9bc91ce8bf0e1657b4f9a4",
+  "applicantAddress": "0x81F10d99464d604EA1E9242DC71733a506E95b4e"
 }

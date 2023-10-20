@@ -38,15 +38,11 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "Project": "MB100",
-  "Applicant Type": "INDIVIDUAL",
-  "OSS Directory": "",
-  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x22a8D39eF6B62B76A8Eb8F16116F57AC061a4c97.json",
-  "Githubs": "",
-  "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK",
-  "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Developer Ecosystem, End User Experience and Adoption, OP_STACK, Collective Governance",
-  "pwIsFlagged": true,
-  "pwFlaggedReason": "This application should be flagged because it promises of future impact and deliverables with statements like \"I still have a lot to do...\" and \"study hard for the future development of the blockchain,\" which are against the Grant Program Rules.",
-  "pwCategory": "Layer 2 Scaling"
+  "displayName": "MB100",
+  "applicantName": "MB100",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x22a8D39eF6B62B76A8Eb8F16116F57AC061a4c97.jpeg",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x22a8D39eF6B62B76A8Eb8F16116F57AC061a4c97.jpeg",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x22a8D39eF6B62B76A8Eb8F16116F57AC061a4c97.json",
+  "RPGF3_Application_UID": "0xc93b432289786fb2e4fd8851a28e11260ec90d823af1855f11e327286824cd07",
+  "applicantAddress": "0x22a8D39eF6B62B76A8Eb8F16116F57AC061a4c97"
 }

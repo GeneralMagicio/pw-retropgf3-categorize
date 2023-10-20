@@ -1,0 +1,47 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://twitter.com/kumahauing10",
+  "bio": "jepe",
+  "contributionDescription": "Amazing  project with great potential. The team's dedication and ingenuity with excellent fan support will make this the envy of the crypto world. Glad to be part.\nhe project supported by experienced and highly qualified team, which in my opinion is able to bring the project to the highest level in the shortest possible time and I hope they succeed.\nWithout doubt, this is one of the best project!",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://kumaha.com",
+      "description": "lfg"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "Amazing  project with great potential. The team's dedication and ingenuity with excellent fan support will make this the envy of the crypto world. Glad to be part.\nhe project supported by experienced and highly qualified team, which in my opinion is able to bring the project to the highest level in the shortest possible time and I hope they succeed.\nWithout doubt, this is one of the best project!",
+  "impactMetrics": [
+    {
+      "description": "kumaha",
+      "number": 1,
+      "url": "https://kumaha.com"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 0,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0x2d39CE499678Ac32c2e5398cD03fFeF098957fA6",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "kumaha",
+  "applicantName": "dani",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2d39CE499678Ac32c2e5398cD03fFeF098957fA6.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x2d39CE499678Ac32c2e5398cD03fFeF098957fA6.json",
+  "RPGF3_Application_UID": "0xddbb3168ca377e6d67c24471c7c18919f8adeba9121cc1e8f69a18767dc0cc24",
+  "applicantAddress": "0x2d39CE499678Ac32c2e5398cD03fFeF098957fA6"
+}

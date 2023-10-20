@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://rotki.com/",
-  "bio": "The local-first, opensource asset tracking and management tool for crypto/tradfi",
+  "bio": "Rotki: Local first, open-source crypto & tradfi portfolio manager giving you a bird's eye view over your holdings. Track, analyze, and manage assets securely.",
   "contributionDescription": "Rotki has made significant contributions to Optimism. From early days, rotki recognized the potential of Optimism as an L2 and was the first EVM chain to be integrated\n\nIt supports many Optimism protocols and superchain capabilities making it a versatile and indispensable tool for those navigating the ecosystem\n\nIts innovative decoding system for transactions has greatly enhanced user experience. Optimism users have praised it as a more user-friendly alternative to Etherscan\n\nIt also offers PnL reports, allowing Optimism users to do accounting in a privacy preserving way\n\nIts contributions encompass opensource code, tracking, protocols support, user-friendly decoding system and PnL accounting. These have solidified rotki's role as a vital platform within the Optimistic Ethereum community",
   "contributionLinks": [
     {
@@ -95,14 +95,11 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "Project": "rotki",
-  "Applicant Type": "PROJECT",
-  "OSS Directory": "Address & Github Found",
-  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x9531C059098e3d194fF87FebB587aB07B30B1306.json",
-  "Githubs": "https://github.com/rotki/rotki, https://github.com/coinyon/buchfink, https://github.com/prettyirrelevant/decodify",
-  "Tags": "",
-  "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Open-Source Asset Tracking, Privacy-Preserving Accounting, Optimism Protocol Support, User-Friendly Transaction Visibility, Ecosystem Collaboration",
-  "pwIsFlagged": false,
-  "pwCategory": "Developer Ecosystem"
+  "displayName": "rotki",
+  "applicantName": "rotki",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9531C059098e3d194fF87FebB587aB07B30B1306.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x9531C059098e3d194fF87FebB587aB07B30B1306.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x9531C059098e3d194fF87FebB587aB07B30B1306.json",
+  "RPGF3_Application_UID": "0xff1e9125432799c370c8074274f6b1d833c49cda519a7724cb3671550680901e",
+  "applicantAddress": "0x9531C059098e3d194fF87FebB587aB07B30B1306"
 }

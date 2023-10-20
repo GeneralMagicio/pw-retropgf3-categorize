@@ -1,0 +1,112 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://github.com/drptbl",
+  "bio": "My name is Jakub, I'm a passionate QA Engineer/SDET and Core Contributor of Synthetix. I have around ~9 years of QA experience (~4 years in web3 ecosystem).",
+  "contributionDescription": "Synpress enhances the quality and security of dApps, protocols, and other Web3 tools. It is a trusted choice for countless dApp projects seeking comprehensive end-to-end (E2E) testing solutions. Many of these projects are closely tied to Optimism, either as direct builds or influential contributors. Our team is committed to providing dedicated 1:1 support to these projects. Furthermore, Synpress serves as the foundational core of OP Labs' Superchain gas monitoring solution, directly impacting the Optimism ecosystem. Since many projects utilize Synpress, we list the most notable ones below.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/ethereum-optimism/optimism/blob/b6104508cb11ac85252484e212c199acf512a874/ufm-test-services/metamask/package.json#L23",
+      "description": "OP Labs leverages Synpress tool in their Superchain gas monitoring service."
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/Synthetixio/synpress/commit/28b054fd7de1e5f57473db2b4e1844fdf5dbdb38",
+      "description": "We've added custom functionalities to Synpress, requested by OP Labs."
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/snapshot-labs/snapshot/blob/c64625e0614d78d768de21151d1397459b6f4e15/package.json#L76",
+      "description": "Snapshot (used widely in Optimism ecosystem) relies on Synpress for e2e testing."
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/agoraxyz/guild.xyz/blob/da3ac229df9a606896bda62b347a4698d558b0b3/package.json#L100",
+      "description": "Guild.xyz uses Synpress. It serves numerous projects within Optimism ecosystem."
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/blocknative/web3-onboard/blob/275a1312b36b3b9e83d363925b8e45a1074dc4ee/test/package.json#L8",
+      "description": "Web3 Onboard utilizes Synpress; used in many dapps within the Optimism ecosystem"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/spruceid/ssx/blob/956d9fa44075618d22da7af2018c35da7e487233/package.json#L41",
+      "description": "SpruceKit uses Synpress to thoroughly test the ERC-4361."
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/LIT-Protocol/js-sdk/blob/70a041a97b56ba1a75724ba2cd56952b622e8a7f/package.json#L145",
+      "description": "Lit Protocol e2e tests functionalities using Synpress; used by many in OP ecosys"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/aragon/app/blob/ffffa89de7f501c28bbce4b048310e879e307c85/package.json#L73",
+      "description": "Aragon depends on Synpress for thorough testing of their dapp - it targets Base."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://github.com/Synthetixio/synpress/network/dependents?package_id=UGFja2FnZS0xNjIwNjMzMjE1",
+      "description": "List of other projects as per the GitHub's dependents page."
+    }
+  ],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "Synpress directly impacts the OP Stack as the core engine behind OP Labs' gas monitoring service for the Superchain. We offer dedicated 1:1 support to the team and have incorporated essential features into Synpress to bring this project to life.\n\nSynpress strengthens security in Optimism and OP Chain projects through end-to-end tooling, which reduces issues, hacks, and negative publicity that boosts user retention. In the past year, we've seen a more than twofold increase in weekly downloads and growing demand for our expertise in testing system design. Reliable interfaces drive adoption and satisfaction.\n\nSynpress offers support across all EVM chains. Providing 1:1 assistance to teams, directly and indirectly impacting the Collective, which grows in tandem with the Ethereum ecosystem.",
+  "impactMetrics": [
+    {
+      "description": "Synpress growth",
+      "number": 0,
+      "url": "https://npm-stat.com/charts.html?package=%40synthetixio%2Fsynpress&from=2022-10-1"
+    },
+    {
+      "description": "Synpress vs competitors",
+      "number": 0,
+      "url": "https://npm-stat.com/charts.html?package=%40synthetixio%2Fsynpress&package=%40tenkeylabs%2Fdappwright&package=%40chainsafe%2Fdappeteer&package=%40guardianui%2Ftest&from=2022-10-01&to=2023-10-16"
+    },
+    {
+      "description": "# of weekly downloads of Synpress",
+      "number": 13500,
+      "url": "https://www.npmjs.com/package/@synthetixio/synpress"
+    },
+    {
+      "description": "# of contributions to Synpress (yearly)",
+      "number": 500,
+      "url": "https://github.com/Synthetixio/synpress/graphs/contributors"
+    },
+    {
+      "description": "# of repositories using Synpress (total)",
+      "number": 300,
+      "url": "https://github.com/Synthetixio/synpress/network/dependents?package_id=UGFja2FnZS0xNjIwNjMzMjE1"
+    },
+    {
+      "description": "# of views/clones of Synpress (monthly)",
+      "number": 7000,
+      "url": "https://github.com/Synthetixio/synpress/graphs/traffic"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 91886,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0x7b57c388e6149b5c197B925037602d5B6bafFbCc",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Synpress",
+  "applicantName": "DRPTBL",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xd35E119782059A27FEAd4EddA8B555f393650BC8.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xd35E119782059A27FEAd4EddA8B555f393650BC8.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xd35E119782059A27FEAd4EddA8B555f393650BC8.json",
+  "RPGF3_Application_UID": "0x23afbebc655637c91f6a42572b8af43c2ae6e61655c55ba52e5ace484eff8e72",
+  "applicantAddress": "0xd35E119782059A27FEAd4EddA8B555f393650BC8"
+}

@@ -1,0 +1,44 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://opensea.io/assets/optimism/0xe20cf4cffb6b5bd1353543dc273299c314a4b4e8/20910/",
+  "bio": "I am a loyal user of Optimism Collective. I participated in Season 1 of Optimism Quests, and I also actively donate to Optimism Collective.",
+  "contributionDescription": "I am a loyal old user of Optimism. I received three rounds of airdrops from Optimism. I firmly hold it and actively participate in community governance. I often pay attention to the development of the Optimistic Project, experience the main network project and the Optimistic Super Chain, and I also participate in donations.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://opensea.io/assets/optimism/0xe20cf4cffb6b5bd1353543dc273299c314a4b4e8/20910/",
+      "description": "participate in donations"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
+  "impactDescription": "I am a loyal old user of Optimism. I received three rounds of airdrops from Optimism. I firmly hold it and actively participate in community governance. I often pay attention to the development of the Optimistic Project, experience the main network project and the Optimistic Super Chain, and I also participate in donations.",
+  "impactMetrics": [
+    {
+      "description": "Donation quantity",
+      "number": 1,
+      "url": "https://opensea.io/assets/optimism/0xe20cf4cffb6b5bd1353543dc273299c314a4b4e8/20910/"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 200,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0x9A4fD7EFD60C37B7D7e61de3F9E642Ed584DF4bF",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "mumu",
+  "applicantName": "mumu",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9A4fD7EFD60C37B7D7e61de3F9E642Ed584DF4bF.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x9A4fD7EFD60C37B7D7e61de3F9E642Ed584DF4bF.json",
+  "RPGF3_Application_UID": "0x86a339548052d6c79c10adef93f72272b33610130a7f7deb37a7756e41b16ee8",
+  "applicantAddress": "0x9A4fD7EFD60C37B7D7e61de3F9E642Ed584DF4bF"
+}

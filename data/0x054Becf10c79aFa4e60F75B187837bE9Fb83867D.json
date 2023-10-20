@@ -1,7 +1,7 @@
 {
-  "applicantType": "PROJECT",
+  "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://www.facebook.com/CoinRuay",
-  "bio": "Gluer's Co-Working Space 😎🤪😜",
+  "bio": "CoinRuay is a Thai blockchain club passionate about Optimism. We educate the Thai community through content to help Optimism grow and make a positive impact.",
   "contributionDescription": "Creating content about Optimism in Thai language.\n\n- CoinRuay believes that it is important to have high-quality content about Optimism available in Thai language. They plan to create a variety of content, such as blog posts, articles, and videos, about Optimism in Thai.\n\nCollaborating with other Optimism ambassadors.\n\n- CoinRuay believes that collaboration is essential for the growth of the Optimism community. They plan to continue to collaborate with other Optimism ambassadors around the world to grow the Optimism community in Thailand.",
   "contributionLinks": [
     {
@@ -28,16 +28,11 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "Project": "CoinRuay",
-  "Applicant Type": "PROJECT",
-  "OSS Directory": "",
-  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x054Becf10c79aFa4e60F75B187837bE9Fb83867D.json",
-  "Githubs": "",
-  "Tags": "END_USER_EXPERIENCE_AND_ADOPTION",
-  "recategorizeReason": "NO, the application is not correctly categorized. Although the applicant type is labeled as \"INDIVIDUAL\", the application refers to \"CoinRuay\" in third person, suggesting that it is a PROJECT, not an individual.",
-  "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Blockchain Education, Community Building",
-  "pwIsFlagged": true,
-  "pwFlaggedReason": "This application should be flagged because it violates rule 10. The application produces content in a language other than English.",
-  "pwCategory": "Content Creation"
+  "displayName": "CoinRuay",
+  "applicantName": "CoinRuay",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x054Becf10c79aFa4e60F75B187837bE9Fb83867D.jpeg",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x054Becf10c79aFa4e60F75B187837bE9Fb83867D.jpeg",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x054Becf10c79aFa4e60F75B187837bE9Fb83867D.json",
+  "RPGF3_Application_UID": "0xd25c3f909e7c842a12a1e1bbec872a5ec769c885234cb03faca80bde1a0c1cfa",
+  "applicantAddress": "0x054Becf10c79aFa4e60F75B187837bE9Fb83867D"
 }

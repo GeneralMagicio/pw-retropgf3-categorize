@@ -1,7 +1,7 @@
 {
-  "applicantType": "PROJECT",
-  "websiteUrl": "https://twitter.com/mamsky8619",
-  "bio": "optimism project is awesome",
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://x.com/mamsky8619?s=21",
+  "bio": "keep building in good projects of optimism",
   "contributionDescription": "i want to explore optimism ecosystem and improve op stack in RetroPGF \nRetroPGF is already having a huge impact in the ecosystem and changing the way people think about public goods\nThe Optimism Collective is executing on the core values that brought us to crypto in the first place: creating a self-sustaining ecosystem, where rewards are redistributed to the people directly responsible for growing and scaling the technology and values that power it. We're accomplishing this by rewarding contributions to the greater good through Retroactive Public Goods Funding–the mechanism used to reward past demonstrable positive impact to the Optimism Collective.\n",
   "contributionLinks": [
     {
@@ -35,16 +35,10 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "Project": "Mamsky86",
-  "Applicant Type": "PROJECT",
-  "OSS Directory": "",
-  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x3c28CAEF950AE11973A007440929d0689d8eaD8D.json",
-  "Githubs": "",
-  "Tags": "OP_STACK",
-  "recategorizeReason": "NO. The application is from an individual but they are talking about their involvement in a project named 'RetroPGF', as a result, it should be categorized as \"PROJECT\".",
-  "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Governance Tokens",
-  "pwIsFlagged": true,
-  "pwFlaggedReason": "This application violates rule 1: promises of future impact. The applicant has not demonstrated any past impacts to the Optimism Collective but rather expresses intent to explore and improve the ecosystem in the future.",
-  "pwCategory": "Developer Ecosystem"
+  "displayName": "Mamsky86",
+  "applicantName": "Mamsky86",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x3c28CAEF950AE11973A007440929d0689d8eaD8D.jpeg",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x3c28CAEF950AE11973A007440929d0689d8eaD8D.json",
+  "RPGF3_Application_UID": "0x900ef885d13e838f514c4431478e5f6ad589496c53cf399d6a43be637f3b25fd",
+  "applicantAddress": "0x3c28CAEF950AE11973A007440929d0689d8eaD8D"
 }

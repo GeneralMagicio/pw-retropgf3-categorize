@@ -1,7 +1,7 @@
 {
   "applicantType": "INDIVIDUAL",
-  "websiteUrl": "https://vraig.com",
-  "bio": "Binance Feed Content Creator and Blogger. Full stack mobile developer.",
+  "websiteUrl": "https://vraig.com/",
+  "bio": "As a Binance Feed Content Creator and Blogger, I specialize in dissecting the crypto landscape. I analyze the latest news / trends offering insightful reviews.",
   "contributionDescription": "My contributions to Optimism extend beyond merely covering it as a topic. I've authored numerous in-depth articles that delve into the project's intricacies, innovations, and impact on the broader crypto ecosystem. These pieces serve as educational material for my community, demystifying complex technical aspects and highlighting its value proposition.\n\nBeyond written content, I've also creatively engaged with my community through contests and riddles centered around Optimism. These interactive elements enhance awareness and understanding of the project.",
   "contributionLinks": [
     {
@@ -44,14 +44,11 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "Project": "Vertual",
-  "Applicant Type": "INDIVIDUAL",
-  "OSS Directory": "",
-  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x85BD6874CE656b3ab058DF04d1b64f30b15d350d.json",
-  "Githubs": "",
-  "Tags": "DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION",
-  "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Developer Ecosystem, End User Experience and Adoption",
-  "pwIsFlagged": false,
-  "pwCategory": "Education"
+  "displayName": "Vertual",
+  "applicantName": "Vertual",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x85BD6874CE656b3ab058DF04d1b64f30b15d350d.jpeg",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x85BD6874CE656b3ab058DF04d1b64f30b15d350d.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x85BD6874CE656b3ab058DF04d1b64f30b15d350d.json",
+  "RPGF3_Application_UID": "0x7f7423b5913b53ace36c02846e66d025ab09740af4f6f8dede5600ad21971e84",
+  "applicantAddress": "0x85BD6874CE656b3ab058DF04d1b64f30b15d350d"
 }

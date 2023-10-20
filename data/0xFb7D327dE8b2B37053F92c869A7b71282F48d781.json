@@ -1,0 +1,48 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://t.me/AirdropQuest",
+  "bio": "Web3 is Decentralization.",
+  "contributionDescription": "I will find best guys those explorer like a hacker. but Optimists see the positive side of things. They expect things to turn out well. They believe they have the skill and ability to make good things happen. What is a good example of optimism?\nAn example of an optimistic person is one who chooses to believe that \"there is always tomorrow.\" This will lead them to have more opportunities. They also choose to focus on what they have, such as \"the glass is half full.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://t.me/AirdropQuest",
+      "description": "bero koni"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "we will take action weak hands. What is a good example of optimism?\nAn example of an optimistic person is one who chooses to believe that \"there is always tomorrow.\" This will lead them to have more opportunities. They also choose to focus on what they have, such as \"the glass is half full.\"17-Aug-2022",
+  "impactMetrics": [
+    {
+      "description": "dg",
+      "number": 54,
+      "url": "https://t.me/AirdropQuest"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 50000,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0xFb7D327dE8b2B37053F92c869A7b71282F48d781",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "naren251",
+  "applicantName": "naren251",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xFb7D327dE8b2B37053F92c869A7b71282F48d781.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xFb7D327dE8b2B37053F92c869A7b71282F48d781.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xFb7D327dE8b2B37053F92c869A7b71282F48d781.json",
+  "RPGF3_Application_UID": "0x4da757a3146c46e7a8f3734d313cfcd12cb00af1b172b936370761fa9fb5359b",
+  "applicantAddress": "0xFb7D327dE8b2B37053F92c869A7b71282F48d781"
+}

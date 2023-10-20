@@ -1,0 +1,79 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://twitter.com/odtublockchain",
+  "bio": "Established in 2021 in Ankara, Turkey by ODTU students to create an innovative and dynamic community. We are proudly contributing for the past 2 years. 🎉",
+  "contributionDescription": "In a Medium article, \"Ether's Phoenix: Optimistic Vision,\" we highlighted public goods' significance in various domains, introduced Optimistic Vision and Optimism's grant programs. Ether's Phoenix is explained alongside RetroPGF. We delve into RetroPGF's funding sources and governance model involving the Token and Citizens' House.\nIn our GG18 article,we encouraged Web3 ecosystem contributors to join Gitcoin's GG18 on OP Mainnet, emphasized the relevance of quadratic funding and inspiring active participation in QF rounds.\nDuring a regular F2F builder meetup,we did a presentation about Optimism, including Superhack, Superchain, OP-Stack development, developer tools,and infra. We also did Q&A and discussed measuring impact in the ecosystem, explored app ideas for tracking impact.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://medium.com/odtublockchain/ethers-phoenix-optimistic-vision-1a0fc2c18edb",
+      "description": "The Medium article named \"Ether's Phoenix: Optimistic Vision\" we have written"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://medium.com/odtublockchain/bir-ihtimal-daha-var-o-da-qf-mi-dersin-3641f66b0bf8",
+      "description": "The Medium article about public goods funding and GG18 happening on Optimism"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/odtublockchain/status/1696094075894566950/photo/2",
+      "description": "(2nd photo) Our Builder meetup with presentation about Superchain and OP-Stack"
+    }
+  ],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "Our contributions made a decent impact on the Optimism Collective by raising awareness and driving increased utilization of Optimism. 2 of our Medium articles garnered 2,337 and 3,127 views, sparking interest and understanding in Optimism's mission. Our support for GG18 drew in 160 participants, further emphasized of QF round on OP Mainnet. Our builder meetups coverage was instrumental in achieving 1,710 views and actively engaging 22 builders, propelling the importance of Superchain and utilization of OP-Stack. Our posts, shared with a network of 10,100 followers, expanded Optimism's outreach within the Turkish ecosystem. These efforts communicated the significance of public goods and motivated participation in Optimism initiatives, ultimately elevating the awareness of Optimism.",
+  "impactMetrics": [
+    {
+      "description": "# of views of Medium article post on X",
+      "number": 2337,
+      "url": "https://x.com/odtublockchain/status/1704880701009498521"
+    },
+    {
+      "description": "# of views of gg Medium article post",
+      "number": 3127,
+      "url": "https://twitter.com/odtublockchain/status/1700937793650725077"
+    },
+    {
+      "description": "# of supporters in GG18 on OP Mainnet",
+      "number": 160,
+      "url": "https://explorer.gitcoin.co/#/round/10/0x2871742b184633f8dc8546c6301cbc209945033e/0x2871742b184633f8dc8546c6301cbc209945033e-24"
+    },
+    {
+      "description": "# of view of builder meetup announcement",
+      "number": 5415,
+      "url": "https://twitter.com/odtublockchain/status/1693688385473245231"
+    },
+    {
+      "description": "# of builders at that builder meet-up",
+      "number": 22,
+      "url": "https://x.com/odtublockchain/status/1696094075894566950"
+    },
+    {
+      "description": "# of views of our builder meet-up post",
+      "number": 1710,
+      "url": "https://x.com/odtublockchain/status/1696094075894566950"
+    },
+    {
+      "description": "# of followers we're sharing posts to",
+      "number": 10100,
+      "url": "https://twitter.com/odtublockchain"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x07fa3338a53cfaa1911a255f0c3054e800873e77",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "ODTU Blockchain",
+  "applicantName": "ODTU Blockchain",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x07fA3338a53CFAA1911A255F0c3054E800873e77.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x07fA3338a53CFAA1911A255F0c3054E800873e77.jpeg",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x07fA3338a53CFAA1911A255F0c3054E800873e77.json",
+  "RPGF3_Application_UID": "0xfe10e068dafa65cc7d3acd39b5f5f415de69b70be75a67c338bd367dbdad7850",
+  "applicantAddress": "0x07fA3338a53CFAA1911A255F0c3054E800873e77"
+}

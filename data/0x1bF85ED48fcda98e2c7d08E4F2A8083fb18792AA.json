@@ -1,0 +1,74 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://www.tryethernal.com",
+  "bio": "Software engineer. Founder of www.bannerman.com & www.tryethernal.com",
+  "contributionDescription": "Ethernal has three main use cases\n1. Individual contributors\nDevelopers can spin up a full block explorer connected to their local development chain in a few minutes.\nBlocks & txs are automatically synced and processed, and give detailed info to the developer. ABIs can also be synced in order to generate an UI to interact with the contract.\n2. Teams\nThrough either the UI or the API, teams can connect their hosted testnet RPC and get a full explorer accessible through a public url (can be their own domain), making easier to do internal/user testing.\n3. Appchains\nIt can be block explorer for Optimism L2s. It takes a few seconds to launch and everything is handled automatically.\nIt has an API to launch explorers on demand (especially important considering all the \"L2 as a service\" launching).",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/tryethernal",
+      "description": "Repo of all Ethernal code"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.tryethernal.com",
+      "description": "Website"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/tryethernal/hardhat-ethernal",
+      "description": "Hardhat plugin"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://medium.com/cvgfinance/testing-sagittarius-0x-7b9265dc66d6",
+      "description": "Blog post from a customer showing one of the main use case of Ethernal"
+    }
+  ],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
+  "impactDescription": "A lot of new developers have been using Ethernal when they get started as it easier to understand blockchains when you can see what's going on through a dashboard that connects to your local development chain.\n\nDevelopers are already using Ethernal to develop smart contracts that have been deployed on Optimism. It has sped up their development time by providing them with a set of basic tools (transactions visualisation + contract interaction) that allows them to focus on building their contracts, instead of spending time on various \"quality of life\" scripts.",
+  "impactMetrics": [
+    {
+      "description": "Stars",
+      "number": 266,
+      "url": "https://github.com/tryethernal"
+    },
+    {
+      "description": "Forks",
+      "number": 49,
+      "url": "https://github.com/tryethernal"
+    },
+    {
+      "description": "Hardhat plugin weekly downloads",
+      "number": 1200,
+      "url": "https://www.npmjs.com/package/hardhat-ethernal"
+    },
+    {
+      "description": "CLI weekly downloads",
+      "number": 116,
+      "url": "https://www.npmjs.com/package/ethernal"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 2000,
+      "description": "Monthly recurring revenue"
+    }
+  ],
+  "payoutAddress": "0x1bF85ED48fcda98e2c7d08E4F2A8083fb18792AA",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Antoine",
+  "applicantName": "Ethernal",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x1bF85ED48fcda98e2c7d08E4F2A8083fb18792AA.jpeg",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x1bF85ED48fcda98e2c7d08E4F2A8083fb18792AA.json",
+  "RPGF3_Application_UID": "0xde309e83b1ceb3e9597c33601142d0cffe1b7d632e7312cddb30e9faa79cd1e1",
+  "applicantAddress": "0x1bF85ED48fcda98e2c7d08E4F2A8083fb18792AA"
+}

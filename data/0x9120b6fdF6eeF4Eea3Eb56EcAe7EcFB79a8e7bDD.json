@@ -1,0 +1,76 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://youbuidl.dev",
+  "bio": "cofounder and frontend dev at GiveStation ",
+  "contributionDescription": "\nSince testnet program ended with over 3000 testers across 5 blockchains to launching on mainnet in August, 2023, we have improved the platform by adding OP tokens rewards for contributors who funds projects. \n\nThis feature wasn't present on testnet but with the help of the grant from RGPF 2, we were able to integrate this feature.\n\nThis means any contributor will not only get to fund projects but also earn OP tokens daily along with BuidlPoints. ",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xCA091f771124dF584620af06C43ddF49e0BB502D",
+      "description": "during GiveStation testnet, we recorded over 3000 users across all the 5 chains"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xebc9d1060112f38164991950f6ca175730efb569",
+      "description": "projects on optimism"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://mumbai.polygonscan.com/address/0x3D2d157070A4F7254E64f90d9A7ceb0e633BCf12",
+      "description": "givestation on polygon (testnet)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://testnet.bscscan.com/address/0x690f275c8e0a57007305a36d353d50ccf0da12b3",
+      "description": "givestation on testnet (projects and contributions)"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "http://github.com/Givestation",
+      "description": "Github"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://opensea.io/collection/givnaut-nft-givestation/analytics",
+      "description": "Givnaut NFT on Optimism"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://youbuidl.dev/",
+      "description": "Contributors who fund buidls on Optimism can now claim daily OP tokens."
+    }
+  ],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "Rpgf 2 strongly motivated our team as it is one of our dapp formerly known as app.givestation.org will now be moved to YouBuidl.dev while other products also are there too.\n\nYouBuidl makes it easy for both developers, creators, contributors and even investors to participate in the growing world of decentralized finance and web3 applications. So whether you’re an innovator looking for funding or an investor seeking opportunities, YouBuidl is the perfect platform for you.",
+  "impactMetrics": [
+    {
+      "description": "Allocating op tokens for contributors .",
+      "number": 1152,
+      "url": "https://youbuidl.dev/ptojects"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 1152,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0x96Cd3AC1e5c2E4FB021B97dA3a6D57e8e665EDc3",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "GiveStation (youbuidl)",
+  "applicantName": "0xmikki",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9120b6fdF6eeF4Eea3Eb56EcAe7EcFB79a8e7bDD.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x9120b6fdF6eeF4Eea3Eb56EcAe7EcFB79a8e7bDD.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x9120b6fdF6eeF4Eea3Eb56EcAe7EcFB79a8e7bDD.json",
+  "RPGF3_Application_UID": "0x6b85d1e6159c2dd0613159b2e4708ae23f8e3a1554a5557590534e63aa282eb8",
+  "applicantAddress": "0x9120b6fdF6eeF4Eea3Eb56EcAe7EcFB79a8e7bDD"
+}

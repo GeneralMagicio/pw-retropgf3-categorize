@@ -1,7 +1,7 @@
 {
   "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://www.optimism.io/",
-  "bio": "Crypto Enthusiast & Optimism Ambassador",
+  "bio": "Hi I'm Oplion, a crypto enthusiast and Optimism Ambassador.  ",
   "contributionDescription": "Since becoming aware of Optimism, I have been promoting and advocating for the adoption of the Optimism layer 2 network within my crypto enthusiast community and beyond. Through informative discussions, educational materials, and community meetups, I have actively worked to raise awareness about the benefits and potential of Optimism. By consistently showcasing its advantages and facilitating its integration into our crypto ecosystem, I have encouraged my friends, fellow enthusiasts, and the broader community to embrace Optimism as a valuable solution, fostering its growth and adoption within the cryptocurrency space",
   "contributionLinks": [
     {
@@ -35,14 +35,10 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "Project": "OpLion",
-  "Applicant Type": "INDIVIDUAL",
-  "OSS Directory": "",
-  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xd3814dc9CE28F8388e6254aA48429a8f9BC08b95.json",
-  "Githubs": "",
-  "Tags": "END_USER_EXPERIENCE_AND_ADOPTION",
-  "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Layer 2 Scaling, Smart Contract Platforms, Community Building",
-  "pwIsFlagged": false,
-  "pwCategory": "Web3 Advocacy"
+  "displayName": "OpLion",
+  "applicantName": "OPlion",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xd3814dc9CE28F8388e6254aA48429a8f9BC08b95.jpeg",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xd3814dc9CE28F8388e6254aA48429a8f9BC08b95.json",
+  "RPGF3_Application_UID": "0x67f2e548967b67b551ebd103dfb09b3417c3b7af2ae330e48b855318cb718caf",
+  "applicantAddress": "0xd3814dc9CE28F8388e6254aA48429a8f9BC08b95"
 }

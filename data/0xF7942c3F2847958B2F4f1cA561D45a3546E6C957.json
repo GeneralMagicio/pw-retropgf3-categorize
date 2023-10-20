@@ -35,15 +35,10 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "Project": "Kaushik8627",
-  "Applicant Type": "PROJECT",
-  "OSS Directory": "",
-  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xF7942c3F2847958B2F4f1cA561D45a3546E6C957.json",
-  "Githubs": "",
-  "Tags": "OP_STACK",
-  "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Blockchain Infrastructure",
-  "pwIsFlagged": true,
-  "pwFlaggedReason": "This application should be flagged for violating the rule of \"outside of RetroPGF's scope\". The contribution or project does not clearly relate to the Web3/blockchain space, appears to be about behavioral science and organization behavior instead.",
-  "pwCategory": "The project description provided does not relate to any category in the context of Web3/blockchain domain. It rather appears to refer to organizational behavior studies. Please provide a relevant description to allow for the correct categorization."
+  "displayName": "Kaushik8627",
+  "applicantName": "Kaushik8627",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xF7942c3F2847958B2F4f1cA561D45a3546E6C957.jpeg",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xF7942c3F2847958B2F4f1cA561D45a3546E6C957.json",
+  "RPGF3_Application_UID": "0x77c1540041653c380ae26b3dbe0d348c46de50e70515c60e77dfebfedf40419d",
+  "applicantAddress": "0xF7942c3F2847958B2F4f1cA561D45a3546E6C957"
 }

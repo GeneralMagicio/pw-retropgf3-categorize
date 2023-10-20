@@ -1,7 +1,7 @@
 {
   "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://bio.link/shubzybaker",
-  "bio": "Amplifying your impact with strategic precision ",
+  "bio": "Maurice Andrew • Amplifying your impact with strategic precision | LDN 🇬🇧 📍",
   "contributionDescription": "Joining and building relationships on X with the Cre8ors everyday. I will be building daily on X with them and I will be sharing the work they are doing. Also I will be attending IRL events to help push the branding and the word of Optimism as much as possible",
   "contributionLinks": [
     {
@@ -29,14 +29,11 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "Project": "ShubzyBaker",
-  "Applicant Type": "INDIVIDUAL",
-  "OSS Directory": "",
-  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x02C435d8189D9a983CDBD77F2109fdd5663A33BB.json",
-  "Githubs": "",
-  "Tags": "COLLECTIVE_GOVERNANCE, END_USER_EXPERIENCE_AND_ADOPTION",
-  "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Collective Governance, End User Experience and Adoption",
-  "pwIsFlagged": false,
-  "pwCategory": "Community Building"
+  "displayName": "ShubzyBaker",
+  "applicantName": "Shubzy Baker",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x02C435d8189D9a983CDBD77F2109fdd5663A33BB.jpeg",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x02C435d8189D9a983CDBD77F2109fdd5663A33BB.jpeg",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x02C435d8189D9a983CDBD77F2109fdd5663A33BB.json",
+  "RPGF3_Application_UID": "0x30ea268a292242e7f16896d20a1ab0dc817230cad95dbcac03013f62e7908e6d",
+  "applicantAddress": "0x02C435d8189D9a983CDBD77F2109fdd5663A33BB"
 }

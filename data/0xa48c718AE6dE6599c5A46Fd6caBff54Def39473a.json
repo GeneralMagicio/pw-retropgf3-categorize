@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
-  "websiteUrl": "https://coinpassport.net/",
-  "bio": "Proof of Personhood from your government ID",
+  "websiteUrl": "https://numtel.github.io",
+  "bio": "Hello, I'm an independent developer building dApps.",
   "contributionDescription": "Proof of Personhood is one way to enable democratic systems on chain that distribute voting power to each person instead of based on the size of the wallet. Coinpassport makes it easy to provide a strong signal to your individual humanity by linking your passport to your Ethereum wallet. For a fee of 3 USDC, Coinpassport uses Stripe Identity to verify your face matches your passport.\n\nCoinpassport has been live on Optimism mainnet since May 14, 2022 and has received 22 fee payments in that time.",
   "contributionLinks": [
     {
@@ -45,14 +45,11 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "Project": "Coinpassport",
-  "Applicant Type": "PROJECT",
-  "OSS Directory": "Address & Github Found",
-  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xa48c718AE6dE6599c5A46Fd6caBff54Def39473a.json",
-  "Githubs": "https://github.com/coinpassport",
-  "Tags": "",
-  "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Digital Identity",
-  "pwIsFlagged": false,
-  "pwCategory": "Decentralized Identity"
+  "displayName": "Coinpassport",
+  "applicantName": "numtel",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xa48c718AE6dE6599c5A46Fd6caBff54Def39473a.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xa48c718AE6dE6599c5A46Fd6caBff54Def39473a.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xa48c718AE6dE6599c5A46Fd6caBff54Def39473a.json",
+  "RPGF3_Application_UID": "0xc41ab9383d84993cbf54be96513d0acc942b7300a585c4ce9b896621dc3e4aaf",
+  "applicantAddress": "0xa48c718AE6dE6599c5A46Fd6caBff54Def39473a"
 }

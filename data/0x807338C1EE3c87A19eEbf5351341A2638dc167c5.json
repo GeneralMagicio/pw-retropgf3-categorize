@@ -41,15 +41,10 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "Project": "schlienger damien",
-  "Applicant Type": "INDIVIDUAL",
-  "OSS Directory": "",
-  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x807338C1EE3c87A19eEbf5351341A2638dc167c5.json",
-  "Githubs": "",
-  "Tags": "DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION",
-  "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Developer Ecosystem, End user experience and adoption",
-  "pwIsFlagged": true,
-  "pwFlaggedReason": "Flagged: This application violates Grant program rules 1 and 10, due to the applicant making promises of the network's great potential future and their activity not being described as something requiring a minimum time commitment of 1 hour, instead, they just express liking and using the network.",
-  "pwCategory": "End User Experience and Adoption"
+  "displayName": "schlienger damien",
+  "applicantName": "FuRi3n",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x807338C1EE3c87A19eEbf5351341A2638dc167c5.jpeg",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x807338C1EE3c87A19eEbf5351341A2638dc167c5.json",
+  "RPGF3_Application_UID": "0x87e7d0d19fb03a0e6ac8504f489e10cb0561ff1bab83e8a4ef28540c9f32e86b",
+  "applicantAddress": "0x807338C1EE3c87A19eEbf5351341A2638dc167c5"
 }

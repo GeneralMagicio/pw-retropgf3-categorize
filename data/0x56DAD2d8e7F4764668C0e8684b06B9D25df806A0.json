@@ -1,0 +1,36 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://app.optimism.io/profile/rpgf-application/basic-info",
+  "bio": "2221",
+  "contributionDescription": "111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://app.optimism.io/profile/rpgf-application/impact-statement",
+      "description": "1"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
+  "impactDescription": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+  "impactMetrics": [
+    {
+      "description": "11",
+      "number": 1,
+      "url": "https://app.optimism.io/profile/rpgf-application/impact-statement"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x56DAD2d8e7F4764668C0e8684b06B9D25df806A0",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "ds",
+  "applicantName": "88",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x56DAD2d8e7F4764668C0e8684b06B9D25df806A0.json",
+  "RPGF3_Application_UID": "0x72423c306b5cb9871bac620d129488f20424abd7e0788f7132281d9b60883b2e",
+  "applicantAddress": "0x56DAD2d8e7F4764668C0e8684b06B9D25df806A0"
+}

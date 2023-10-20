@@ -29,14 +29,9 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "Project": "Baustalla",
-  "Applicant Type": "INDIVIDUAL",
-  "OSS Directory": "",
-  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xe0278bc20A01494cCf0Dc51AEe9ad21b3Ff5Cd1a.json",
-  "Githubs": "",
-  "Tags": "COLLECTIVE_GOVERNANCE, OP_STACK",
-  "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Collective Governance, OP Stack",
-  "pwIsFlagged": false,
-  "pwCategory": "Collective Governance"
+  "displayName": "Baustalla",
+  "applicantName": "Baustalla",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xe0278bc20A01494cCf0Dc51AEe9ad21b3Ff5Cd1a.json",
+  "RPGF3_Application_UID": "0x00f9182dc0ad27c122267eee7950d744c278a43b130989daf97d547d2175cf9c",
+  "applicantAddress": "0xe0278bc20A01494cCf0Dc51AEe9ad21b3Ff5Cd1a"
 }

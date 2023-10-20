@@ -1,0 +1,91 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://bloomnetwork.earth",
+  "bio": "Local Bloom hubs do food security, relationship repair, and build local economies. Our social network facilitates a networked economy with bounties.",
+  "contributionDescription": "Bloom Network, in collaboration with Inverter Network, developed a regenerative action bounties system that rewards grassroots participants for doing real world climate actions. Bounty claims are reviewed by an approved regional verifier who has relationships with people on the ground, and tokens are then automatically issued. This on-chain system can integrate with other impact certification tools such as Hypercerts, to boost visibility of local economic sovereignty work to potential funders and supporters. Bloom designed a token engineering model so tokens can additionally be used as a community currency to circulate forms of surplus in cash-poor communities. Grants and profits from Bloom’s social network can flow into local small scale impact projects, in a trusted, transparent way.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://bloomnetwork.earth",
+      "description": "Our media site that aggregates impact stories from Local Bloom coalitions"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://goerli.etherscan.io/address/0x4FB5adc63fB08c7E7864Ce3f77714af6B8B50D9f#readContract",
+      "description": " An autonomous payout system for impact work. "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/watch?v=ZfB99leZ1Uo",
+      "description": "Impact Bounties walk-through video"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.loom.com/share/8053eb29438748199dcdec5783dea1b8",
+      "description": "Walk-through of the members features of Bloom, like LinkedIn for regens"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "Bloom Network has been developing the social and governance architecture to run a global federated DAO impact economy since 2008. Our 15 years of R&D has landed in the bounties contracts, the core of our financial system. It opens the door for millions of non-technical users to onboard and successfully intercooperate on real world challenges.",
+  "impactMetrics": [
+    {
+      "description": "Users of our reporting network prototype",
+      "number": 100,
+      "url": "https://bloomnetwork.earth"
+    },
+    {
+      "description": "Members participating on the ground ",
+      "number": 30000,
+      "url": "https://bloomnetwork.earth/engage/localBlooms"
+    },
+    {
+      "description": "Local gardens and farms started",
+      "number": 300,
+      "url": "https://lbfresh.org/"
+    },
+    {
+      "description": "Businesses and projects incubated",
+      "number": 2000,
+      "url": "https://giveth.io/project/Diamante-Bridge-Collective-0"
+    },
+    {
+      "description": "Regional economic networks started",
+      "number": 4,
+      "url": "https://bloomnetwork.earth/view/community-sustaining-art-and-agroecology-3fff039bb089"
+    },
+    {
+      "description": "Regenerative Actions Mapped",
+      "number": 600,
+      "url": "https://docs.google.com/spreadsheets/d/1h5KWim-Fj-NIgxhs0XOoeV5VjU_JO-p31Br2RrPbmME/edit#gid=0"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 120000,
+      "description": "This amount built our social platform only (LinkedIn for regens)"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 0,
+      "description": "No compensation yet for the smart contracts or 15 years of global R&D"
+    }
+  ],
+  "payoutAddress": "0x5219ffb88175588510e9752A1ecaA3cd217ca783",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Bloom Network",
+  "applicantName": "Bloom Network",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5219ffb88175588510e9752A1ecaA3cd217ca783.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x5219ffb88175588510e9752A1ecaA3cd217ca783.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x5219ffb88175588510e9752A1ecaA3cd217ca783.json",
+  "RPGF3_Application_UID": "0xc58cb06f158be715a79979b82c17da1958629a4dfae313d1b123af405afdc615",
+  "applicantAddress": "0x5219ffb88175588510e9752A1ecaA3cd217ca783"
+}

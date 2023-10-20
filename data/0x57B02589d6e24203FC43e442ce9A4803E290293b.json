@@ -1,0 +1,50 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://www.joinfire.xyz/",
+  "bio": "Making crypto safer by making it easier. Protecting wallets across Ethereum, Polygon, Optimism, Arbitrum and Base. \n",
+  "contributionDescription": "Web3 is hard to use. Self-custody and interacting directly with the blockchain today is overly complicated for the consumer, leading to the average user losing their funds and quitting the ecosystem. UX today is fraught with “gotchas” and pitfalls.\n\nFire - the Chrome extension that simulates transactions, showing you exactly what will go in and out of your wallet before you sign the contract.\n\nWe protect wallets on Optimism and Base today. We want this number to grow, helping support the Optimism ecosystem as well as onboard new users to it!",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://www.joinfire.xyz/",
+      "description": "Website"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "Since February 2023, Fire has conducted over 1 million simulations, providing transparency and control over a users' wallet on the Optimism network. Our Fire Optimism cards had 16,234 minted for our users when onboarding to Fire.\n\nFurthermore, the recent introduction of Base support expands our reach, allowing a broader range of users, projects, and companies to benefit from our services. This addition is a testament to our commitment to innovation and user satisfaction, and it solidifies our impact on the Optimism Collective by contributing to a more inclusive and robust ecosystem.",
+  "impactMetrics": [
+    {
+      "description": "Optimism Fire Card Mints",
+      "number": 16234,
+      "url": "https://dune.com/jbreite/optimism-fire-card"
+    },
+    {
+      "description": "Optimism Simulatiuons",
+      "number": 1170392,
+      "url": "https://docs.google.com/spreadsheets/d/1383Amsn_4TNpH-S1k75zBl8vosaMvRQGsydRnivbu9w/edit?usp=sharing"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_1",
+      "currency": "USD",
+      "amount": 18633.11,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0x24ee055Ff80321cab8583a64a68Db12652dC60ea",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Fire",
+  "applicantName": "Josh Breite",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x57B02589d6e24203FC43e442ce9A4803E290293b.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x57B02589d6e24203FC43e442ce9A4803E290293b.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x57B02589d6e24203FC43e442ce9A4803E290293b.json",
+  "RPGF3_Application_UID": "0x8879309f2fcaea2302c281212c36d7a1446914ed6fa2f88162b0918d09b25fdd",
+  "applicantAddress": "0x57B02589d6e24203FC43e442ce9A4803E290293b"
+}

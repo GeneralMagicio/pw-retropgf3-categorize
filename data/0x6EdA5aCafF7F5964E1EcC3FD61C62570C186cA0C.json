@@ -1,0 +1,65 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://gov.optimism.io/u/michael/summary",
+  "bio": "I am Michael, an independent contributor to the OP Collective. My biggest contributions are through the organizing and hosting of community events for Optimism.",
+  "contributionDescription": "This submission is for a) Optimism’s official bi-weekly community calls and b) other organized community events including mission pitch sessions, discord discussions, and badgeholder speed networking events. The community calls have provided a central place for updates, discussion, decision-making, and onboarding of new governance members. The additional events have filled communication needs for the community as they have surfaced. The mission pitch session allowed for a rapid display of mission proposals. The badgeholder speed networking provided a necessary medium for badgeholders to network and grow community around their shared commitment to the OP Collective.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://gov.optimism.io/t/optimism-community-call-recaps-thread/6937",
+      "description": "Link to Community Call Recaps and Records"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://gov.optimism.io/t/optimism-badgeholder-speed-networking-event/6924",
+      "description": "Link to Badgeholder Speed Networking Annoucement"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
+  "impactDescription": "These calls have become a pillar of Optimism Governance infrastructure, and have had an outsized impact as the main place where governance decisions are made and important updates and announcements are shared. Many impactful decisions were facilitated by these calls; for example a large number of improvements to missions being implemented in Season 5 stemmed directly from community feedback on call #23. In addition, these calls have helped transition many delegates from new to active-and-contributing by being the go-to place for onboarding. The pitch session for mission proposals aided delegates in making better voting decisions for the batch of missions. The speed-networking for badgeholders fostered connection amongst a diverse group of individuals centered around Optimism.",
+  "impactMetrics": [
+    {
+      "description": "Community Call Testimonials",
+      "number": 0,
+      "url": "https://docs.google.com/document/d/10WoFfTG8WbrSk_-C8Di-gmwTtzMvKtUlbb1TWgWaNkY/edit?usp=sharing"
+    },
+    {
+      "description": "Community Call Recap Thread Views",
+      "number": 4659,
+      "url": "https://docs.google.com/spreadsheets/d/1XmG_8N-_k14eET0ORXzEwxJUhov0lP_zokOkLb7OwcM/edit?usp=sharing"
+    },
+    {
+      "description": "Mission Pitch Session Participants",
+      "number": 39,
+      "url": "https://docs.google.com/spreadsheets/d/1DH_rVTT1Uk33DTYQW5vnr_Phe_H-S3NglN_5PBWRI0g/edit#gid=0"
+    },
+    {
+      "description": "Speed Networking Testimonials",
+      "number": 0,
+      "url": "https://docs.google.com/document/d/1ZBORfxogQd9LdvdZkbRiGkGcutbIsArnofqW6Euvi6A/edit"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 56300,
+      "description": "This included calls until March & my youtube channel"
+    }
+  ],
+  "payoutAddress": "0x6EdA5aCafF7F5964E1EcC3FD61C62570C186cA0C",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Optimism Community Governance Calls (Michael)",
+  "applicantName": "Optimism Community Governance Calls",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x6EdA5aCafF7F5964E1EcC3FD61C62570C186cA0C.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x6EdA5aCafF7F5964E1EcC3FD61C62570C186cA0C.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x6EdA5aCafF7F5964E1EcC3FD61C62570C186cA0C.json",
+  "RPGF3_Application_UID": "0x3049e55f433120f538188df5837e7c3a15063e4cba01f14f1ca4181bbe6f5cfe",
+  "applicantAddress": "0x6EdA5aCafF7F5964E1EcC3FD61C62570C186cA0C"
+}

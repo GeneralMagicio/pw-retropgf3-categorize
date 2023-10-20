@@ -1,7 +1,7 @@
 {
   "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://twitter.com/MuhammadImamKu1",
-  "bio": "Want to learn more about crypto.",
+  "bio": "I'm very interesting about crypto and want to know more deep. I just an helper in project.",
   "contributionDescription": "I want to make optimism familiar and easy use for people around the world. And also can be use to passive income. No doubt about it that optimism is Pioneer of life change. Where can badgeholders find out more about your contributions? Examples: a website, GitHub repository, on-chain contract.",
   "contributionLinks": [
     {
@@ -35,15 +35,10 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "Project": "Muhammad Imam Kurniawan",
-  "Applicant Type": "INDIVIDUAL",
-  "OSS Directory": "",
-  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xCd5367827fc644E00db7d48f29A785D622Dd9E83.json",
-  "Githubs": "",
-  "Tags": "END_USER_EXPERIENCE_AND_ADOPTION",
-  "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Layer 2 Scaling, Smart Contract Platforms, END_USER_EXPERIENCE_AND_ADOPTION",
-  "pwIsFlagged": true,
-  "pwFlaggedReason": "This application should be flagged for rule 1 violation: promises of future impact. The applicant did not provide clear evidence of past contributions but instead promises to \"make optimism familiar and easy use for people around the world.\"",
-  "pwCategory": "End User Experience and Adoption"
+  "displayName": "Muhammad Imam Kurniawan ",
+  "applicantName": "Cryptolution",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xCd5367827fc644E00db7d48f29A785D622Dd9E83.jpeg",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xCd5367827fc644E00db7d48f29A785D622Dd9E83.json",
+  "RPGF3_Application_UID": "0x2fccfdfda25152a0a201758b94cc299f465fc3da26b2a7e15f8e12148ed9412e",
+  "applicantAddress": "0xCd5367827fc644E00db7d48f29A785D622Dd9E83"
 }

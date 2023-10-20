@@ -1,0 +1,44 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://twitter.com/Igorek1488_",
+  "bio": "I am a brewer. In the last 2 years I began to dive into cryptocurrency. This got me very interested and I want to know a lot of information on this topic.",
+  "contributionDescription": "I am a holder of optimism tokens. I constantly participate in voting because I want to help in choosing the best path for optimism. Since I’m interested in the future of the project, I follow the news and updates. I tell my friends about optimism and how important this project is for the Ethereum network. In the past I participated in quests. ",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/Igorek1488_",
+      "description": "On my Twitter I follow the project and retweet"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "participation in voting, which I think everyone should have. Testing bridges in the network optimism clearly has a positive impact on the Optimism Collective. With my help, two new people appeared in the optimism community, which increases the number of users.",
+  "impactMetrics": [
+    {
+      "description": "My wallet in OP network ",
+      "number": 1,
+      "url": "https://optimistic.etherscan.io/address/0x67Bf7CA0ab030930238Ed52d7AAc327d54B94985"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 182,
+      "description": "reward for holding and participation in voting"
+    }
+  ],
+  "payoutAddress": "0x67Bf7CA0ab030930238Ed52d7AAc327d54B94985",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "IGOR",
+  "applicantName": "IGOR",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x67Bf7CA0ab030930238Ed52d7AAc327d54B94985.json",
+  "RPGF3_Application_UID": "0x9af820852623eb48f56e8c03e9168afb18e2e723b065013353a494bbd4386c8b",
+  "applicantAddress": "0x67Bf7CA0ab030930238Ed52d7AAc327d54B94985"
+}

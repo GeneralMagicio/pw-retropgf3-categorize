@@ -1,0 +1,46 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://twitter.com/zhongji15849020",
+  "bio": "L2用户",
+  "contributionDescription": "投票治理 链上活跃Applications for RetroPGF Round 3 are open!\n\nIn this round 30M OP will be allocated to the builders, artists, creators, and educators who have demonstrated their impact in building the Optimism Collective.\n\nSign up now: https://app.optimism.io/retropgf-signup",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://twitter.com/zhongji15849020",
+      "description": "RetroPGF Round 3"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "Applications for RetroPGF Round 3 are open!\n\nIn this round 30M OP will be allocated to the builders, artists, creators, and educators who have demonstrated their impact in building the Optimism Collective.\n\nSign up now: https://app.optimism.io/retropgf-signup",
+  "impactMetrics": [
+    {
+      "description": "RetroPGF Round 3",
+      "number": 200,
+      "url": "https://twitter.com/zhongji15849020"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 200,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0x6ea24f3cDDDF5B88F90B73A2d7df7ad9C0f9BEC4",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "zhongjin",
+  "applicantName": "zhongjin",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x6ea24f3cDDDF5B88F90B73A2d7df7ad9C0f9BEC4.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x6ea24f3cDDDF5B88F90B73A2d7df7ad9C0f9BEC4.json",
+  "RPGF3_Application_UID": "0x4ffd4e47ed5fcbb58427303011819c20b897cd7d3678634fad11c1b75d564a5e",
+  "applicantAddress": "0x6ea24f3cDDDF5B88F90B73A2d7df7ad9C0f9BEC4"
+}

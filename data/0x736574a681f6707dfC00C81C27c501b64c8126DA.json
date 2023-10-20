@@ -28,14 +28,10 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "Project": "SuperRisingSr",
-  "Applicant Type": "INDIVIDUAL",
-  "OSS Directory": "",
-  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x736574a681f6707dfC00C81C27c501b64c8126DA.json",
-  "Githubs": "",
-  "Tags": "END_USER_EXPERIENCE_AND_ADOPTION",
-  "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Optimism Chain, Adoption",
-  "pwIsFlagged": false,
-  "pwCategory": "End User Experience and Adoption"
+  "displayName": "SuperRisingSr",
+  "applicantName": "SuperRisingSR",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x736574a681f6707dfC00C81C27c501b64c8126DA.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x736574a681f6707dfC00C81C27c501b64c8126DA.json",
+  "RPGF3_Application_UID": "0x6c81d43651a32c4b0b769f41f4c7ccd2a6b8a1ec1137d061e24f42606858e037",
+  "applicantAddress": "0x736574a681f6707dfC00C81C27c501b64c8126DA"
 }

@@ -1,7 +1,7 @@
 {
   "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://twitter.com/DLaunchpadKing",
-  "bio": "Individual seeking financial freedom through blockchain and cryptocurrencies",
+  "bio": "Here to support optimistic rollups for the blockchain ecosystem",
   "contributionDescription": "My contribution to Optimism by helping with testnet phases and interacting with several protocols is an important and valuable role in the development and deployment of Layer 2 scaling solutions for Ethereum. Here's an elaboration on my contribution:\nTestnet Participation: My active involvement in testnet phases demonstrates my commitment to ensuring the robustness and reliability of Optimism's infrastructure. Testnets are essential for identifying and resolving issues before deploying to the Ethereum mainnet.Protocol Interaction: By interacting with several protocols, you play a crucial role in testing the compatibility and interoperability of Optimism with v\n",
   "contributionLinks": [
     {
@@ -29,14 +29,10 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "Project": "EzWada",
-  "Applicant Type": "INDIVIDUAL",
-  "OSS Directory": "",
-  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xE4369BE6dF50Aa406DB8212Ae00CF81917C848ea.json",
-  "Githubs": "",
-  "Tags": "COLLECTIVE_GOVERNANCE, END_USER_EXPERIENCE_AND_ADOPTION",
-  "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Layer 2 Scaling, Protocol Testing, Community Building, Scalability Testing",
-  "pwIsFlagged": false,
-  "pwCategory": "Layer 2 Scaling"
+  "displayName": "EzWada",
+  "applicantName": "EzWada",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xE4369BE6dF50Aa406DB8212Ae00CF81917C848ea.jpeg",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xE4369BE6dF50Aa406DB8212Ae00CF81917C848ea.json",
+  "RPGF3_Application_UID": "0x39bd021f3a6dc1910f3fcc2a6aaab06f545b93277498a283542f4d3c62db7008",
+  "applicantAddress": "0xE4369BE6dF50Aa406DB8212Ae00CF81917C848ea"
 }

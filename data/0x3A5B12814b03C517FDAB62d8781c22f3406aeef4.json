@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://yoki.finance/",
-  "bio": "Web3 recurring payments infrastructure",
+  "bio": "Marketing Director Yoki Finance",
   "contributionDescription": "Yoki Finance has built a Web3 Dollar-Cost-Averaging app as a public good. It is an open, gasless, and free solution that could be used by retail users, projects, and devs.\n\nThe \n\nThe application creates an auto-buy smart contract for the user and automates the swaps according to the chosen frequency, sum, and pair.",
   "contributionLinks": [
     {
@@ -49,14 +49,10 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "Project": "Yoki Finance",
-  "Applicant Type": "PROJECT",
-  "OSS Directory": "Not Found",
-  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x3A5B12814b03C517FDAB62d8781c22f3406aeef4.json",
-  "Githubs": "https://github.com/yokifinance/yoki-dca-protocol-foundry/",
-  "Tags": "",
-  "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Finance (DeFi), Smart Contract Platforms, Payment Solutions",
-  "pwIsFlagged": false,
-  "pwCategory": "Smart Contract Platforms"
+  "displayName": "Yoki Finance",
+  "applicantName": "KS",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3A5B12814b03C517FDAB62d8781c22f3406aeef4.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x3A5B12814b03C517FDAB62d8781c22f3406aeef4.json",
+  "RPGF3_Application_UID": "0xcb72b4a9f6e5950ccccf6689630e054658457421989cc37842dbd8ddaacd19d8",
+  "applicantAddress": "0x3A5B12814b03C517FDAB62d8781c22f3406aeef4"
 }

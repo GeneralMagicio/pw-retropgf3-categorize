@@ -1,0 +1,61 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://twitter.com/Hilmi_Al_Hafizh",
+  "bio": "Just an ordinary Man who seeks for free airdrop :))",
+  "contributionDescription": "1) active onchain transaction\n2) using optimism in daily or weekly basis\n3) have been with optimism since the begining\n4) i got OP airdrop, which means that i support optimism since the beginning\n5) i actively joined many Galxe, collect many optimism OAT and badge\n6) participated in some optimism network Gitcoin grants\n7) have done delegate to participate in optimism governance, and done some vote also",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://optimistic.etherscan.io/address/0x2db4625a9ece077cb432d1a84b85b03c15721be6",
+      "description": "my wallet address transaction history on Optimism Explorer"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://debank.com/profile/0x2db4625a9ece077cb432d1a84b85b03c15721be6",
+      "description": "my wallet address transaction history on DeBank"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://ibb.co/qMDQg16",
+      "description": "my galxe profile showing score etc"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://ibb.co/2szT00Q",
+      "description": "my profile on opensea showing how many NFT i have collected so far"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "1) active onchain transaction\n2) using optimism in daily or weekly basis\n3) have been with optimism since the begining\n4) i got OP airdrop, which means that i support optimism since the beginning\n5) i actively joined many Galxe, collect many optimism OAT and badge\n6) participated in some optimism network Gitcoin grants\n7) have done delegate to participate in optimism governance, and done some vote also",
+  "impactMetrics": [
+    {
+      "description": "DeBank profile information, Badge, NFTs",
+      "number": 1000,
+      "url": "https://debank.com/profile/0x2db4625a9ece077cb432d1a84b85b03c15721be6"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 1000,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0x2Db4625A9eCe077CB432D1A84b85b03c15721BE6",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "hilmialhafizh89",
+  "applicantName": "hilmialhafizh89",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2Db4625A9eCe077CB432D1A84b85b03c15721BE6.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x2Db4625A9eCe077CB432D1A84b85b03c15721BE6.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x2Db4625A9eCe077CB432D1A84b85b03c15721BE6.json",
+  "RPGF3_Application_UID": "0xfd48534f329ae008e758c3b977b29651d47d8fb0a916c5fe4e628864c2e253f5",
+  "applicantAddress": "0x2Db4625A9eCe077CB432D1A84b85b03c15721BE6"
+}

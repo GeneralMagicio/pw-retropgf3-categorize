@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
-  "websiteUrl": "https://www.web3bridge.com/",
-  "bio": "Grooming Web3 developer in Africa for global contribution ",
+  "websiteUrl": "https://web3bridge.com/",
+  "bio": "Web3bridge is a program dedicated to training Web3 developers in Africa from Nigeria",
   "contributionDescription": "Web3bridge has in the last 4years introduced over 4,000 Africans across six (6) countries (Nigeria, Ghana, Kenya, Uganda, South Africa, Zimbabwe) to Web3 development and graduated one hundred and fifty (150) Web3 developers with twenty-seven (27) currently in the ongoing cohort.\n\nWeb3bridge run a cohort-based online and in-person boot camp with a facility in Lagos where developers are groomed to contribute to the ecosystem.",
   "contributionLinks": [
     {
@@ -35,14 +35,10 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "Project": "Web3bridge",
-  "Applicant Type": "PROJECT",
-  "OSS Directory": "",
-  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x067ca205aaF09A8B724Cadd2f70A38f9AF2d150A.json",
-  "Githubs": "",
-  "Tags": "DEVELOPER_ECOSYSTEM",
-  "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Developer Ecosystem",
-  "pwIsFlagged": false,
-  "pwCategory": "Developer Ecosystem"
+  "displayName": "Web3bridge",
+  "applicantName": "Web3bridge",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x067ca205aaF09A8B724Cadd2f70A38f9AF2d150A.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x067ca205aaF09A8B724Cadd2f70A38f9AF2d150A.json",
+  "RPGF3_Application_UID": "0x07cdfb60650fd3060411253b3c91abdab2739c0b122047ab6d014436fe912282",
+  "applicantAddress": "0x067ca205aaF09A8B724Cadd2f70A38f9AF2d150A"
 }

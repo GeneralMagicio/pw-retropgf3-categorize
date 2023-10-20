@@ -1,0 +1,37 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://twitter.com/panaloaq",
+  "bio": "go go",
+  "contributionDescription": "Optimism’s vision is to build a global system where positive impact to the collective is rewarded by profit to the individual. RetroPGF is an experimental mechanism to realize this goal of By funding public goods sustainably, the Collective can create a rich ecosystem and a better economy",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/tx/0xf36e50968d20d1dd8bc78526c41416e514e668b7b5cfa02f0b27310347c5bdb7",
+      "description": "0xf36e50968d20d1dd8bc78526c41416e514e668b7b5cfa02f0b27310347c5bdb7"
+    }
+  ],
+  "impactCategory": [
+    "OP_STACK"
+  ],
+  "impactDescription": "Optimism’s vision is to build a global system where positive impact to the collective is rewarded by profit to the individual. RetroPGF is an experimental mechanism to realize this goal of By funding public goods sustainably, the Collective can create a rich ecosystem and a better economy",
+  "impactMetrics": [
+    {
+      "description": "guides",
+      "number": 2,
+      "url": "https://community.optimism.io/docs/governance/retropgf-2/"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0xF3265d275a4D3C888B36afEB177C87f782D60D62",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "ghie0922",
+  "applicantName": "ghie0922",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xF3265d275a4D3C888B36afEB177C87f782D60D62.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xF3265d275a4D3C888B36afEB177C87f782D60D62.json",
+  "RPGF3_Application_UID": "0xa34714740a449dbdac80a0b51a9d4bfdb633e251880ed253b322e74efcc55dcb",
+  "applicantAddress": "0xF3265d275a4D3C888B36afEB177C87f782D60D62"
+}

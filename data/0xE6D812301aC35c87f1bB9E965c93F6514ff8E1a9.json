@@ -1,0 +1,43 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://x.com/ikanucull/status/1714992364694262010?s=20",
+  "bio": "good guy",
+  "contributionDescription": "i think i want a new expirience and i interest about crypto,\nmy contribution is participan every transaction buy, sell, trying the fitures of optimism project and it will be good for me because i want a try new expirience so i  try the optimism first and it from my friend recomendation",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://explorer.optimism.io/address/0xE6D812301aC35c87f1bB9E965c93F6514ff8E1a9",
+      "description": "this is my transactions"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "if i try the fiture, we can looking for the bug, and give a feedback for optimism.\nand i think it will be good for the future of optimism project.\nand not only that, i am also part of optimism.\ni have a little bit of token optimism.\nand that is what keeps market prices stable",
+  "impactMetrics": [
+    {
+      "description": "ikanucul#2023",
+      "number": 5666,
+      "url": "https://explorer.optimism.io/address/0xE6D812301aC35c87f1bB9E965c93F6514ff8E1a9"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 1,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0xE6D812301aC35c87f1bB9E965c93F6514ff8E1a9",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "ikanucul",
+  "applicantName": "ikanucul",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xE6D812301aC35c87f1bB9E965c93F6514ff8E1a9.json",
+  "RPGF3_Application_UID": "0x29d3afbc071102437450eba3f716c07581e4daae53a3b50771169b0d791b44fc",
+  "applicantAddress": "0xE6D812301aC35c87f1bB9E965c93F6514ff8E1a9"
+}

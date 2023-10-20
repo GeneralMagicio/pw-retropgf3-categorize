@@ -1,0 +1,47 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://linktr.ee/Rohan9110",
+  "bio": "🚀#Crypto Enthusiast & ❤️#Influencer,💰 #Airdrop Hunter,📈Trader,🤑#Nft Early Adopter-My opinion is mine.🌐Exploring Web3.0.",
+  "contributionDescription": "I want to receive RetroPGF so that I can get new equipment for node running so that I can give better feedback for new project that are under development. This RetroGPF will help me a lot and also give me motivation to fulfill my goal . I want to become one of the best Project tester in the world.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://linktr.ee/Rohan9110",
+      "description": "I have participated in various testnet."
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "I want to receive RetroPGF so that I can get new equipment for node running so that I can give better feedback for new project that are under development. This RetroGPF will help me a lot and also give me motivation to fulfill my goal . I want to become one of the best Project tester in the world.",
+  "impactMetrics": [
+    {
+      "description": "26 test done",
+      "number": 26,
+      "url": "https://linktr.ee/Rohan9110"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 10000,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0x109B1f6cE3CAF4079163ea0de392b818ed9144a2",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Rohan",
+  "applicantName": "Rohan9110",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x109B1f6cE3CAF4079163ea0de392b818ed9144a2.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x109B1f6cE3CAF4079163ea0de392b818ed9144a2.json",
+  "RPGF3_Application_UID": "0x27e1865521c1509768a0d06971b66863babfb71fb83322cfc8794c463c6146ce",
+  "applicantAddress": "0x109B1f6cE3CAF4079163ea0de392b818ed9144a2"
+}

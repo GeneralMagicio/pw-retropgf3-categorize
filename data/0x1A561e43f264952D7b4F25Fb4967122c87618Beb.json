@@ -1,8 +1,8 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://copin.io",
-  "bio": "Explore, analyze and copy on-chain traders from the top of the perpetual DEX",
-  "contributionDescription": "About Copin\n- Copin enables users to explore, analyze, and copy on-chain traders from top perpetual DEXs like GMX, Kwenta, and more. \n- The platform is designed to serve both traders and investors in the crypto market. These users may have varying levels of knowledge about the market but lack the time for regular market monitoring and trading. They utilize Copin to discover and analyze suitable on-chain traders, begin tracking their activities, and copy their trades. This offers them a new investment channel, with passive income potential, while requiring minimal time commitment.\n- Copin began its development journey in April 2023, and it currently comprises a team of 15 members. The project has already introduced a private beta version for initial users. ",
+  "bio": "Copin.io is an analytics infrastructure for Perpetual DEX protocols. Copin allows users to explore, analyze, and copy on-chain traders from the Perpetual DEXs.",
+  "contributionDescription": "Copin.io is an analytics infrastructure solution for Perpetual DEX protocols. Copin allows users to explore, analyze, and copy on-chain traders from the Perpetual DEXs. \n\nCopin enhances the project as a decentralized copy trading aggregator that delivers a user experience (UX/UI) to a new level of simplicity, user-friendliness, and comprehensive information for both new and professional users. This will help users easily find valuable insights from on-chain traders, instilling confidence in their decision-making when copying on-chain traders.\n\nAfter we launched a private beta version that boasts 360 users who have executed over 11,000 copy orders, at a trading volume of $3.7M. And notably, Synthetix has granted our contributions regarding the trader profile explore feature.",
   "contributionLinks": [
     {
       "type": "OTHER",
@@ -17,45 +17,59 @@
     {
       "type": "OTHER",
       "url": "https://docs.copin.io",
-      "description": "Copin documents"
+      "description": "Documents"
     },
     {
       "type": "OTHER",
       "url": "https://copin.substack.com/p/copin-analyzer-building-the-leading",
-      "description": "Copin blog's"
+      "description": "Blog"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/copin-protocol",
+      "description": "Github "
     }
   ],
   "impactCategory": [
     "END_USER_EXPERIENCE_AND_ADOPTION"
   ],
-  "impactDescription": "The impacts are as follows:\n\n- Providing traders on perpetual DEX platforms like Synthetix (such as Kwenta, ...) with powerful tools to analyze their own behavior, performance, and the habits of other traders. This helps enhance their skills and improve their psychology when trading.\n- Driving trading volume on Synthetix's protocol through investor copy trading and trader trading volume.\n- Contributing to positioning and enhancing the brand of the Synthetix ecosystem, particularly its perpetual DEX products",
+  "impactDescription": "Copin is confident in its contributions to the Optimism ecosystem, offering the following values: We provide an additional layer to the Optimism ecosystem, with a specific focus on Synthetix. This addition brings value to the users and trader community of Synthetix by offering a comprehensive on-chain perpetual trader analysis tool for behavior, transaction history, performance statistics, and insightful data regarding traders on Kwenta and Polynomial. \n\nIn doing so, Copin helps new users access the Synthetix future market by utilizing data from Kwenta and Polynomial, making its mark on Synthetix with a pioneering Copy Trading on-boarding product that brings millions of users from Web2, non-DeFi.",
   "impactMetrics": [
     {
       "description": "Total copiers",
-      "number": 270,
+      "number": 360,
       "url": "https://app.copin.io/stats"
     },
     {
       "description": "Total volume",
-      "number": 3346567,
+      "number": 3702313,
+      "url": "https://app.copin.io/stats"
+    },
+    {
+      "description": "Total orders",
+      "number": 11416,
       "url": "https://app.copin.io/stats"
     }
   ],
-  "fundingSources": [],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 50000,
+      "description": ""
+    }
+  ],
   "payoutAddress": "0x1A561e43f264952D7b4F25Fb4967122c87618Beb",
   "understoodKYCRequirements": true,
   "understoodFundClaimPeriod": true,
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "Project": "Copin.io",
-  "Applicant Type": "PROJECT",
-  "OSS Directory": "",
-  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x1A561e43f264952D7b4F25Fb4967122c87618Beb.json",
-  "Githubs": "",
-  "Tags": "END_USER_EXPERIENCE_AND_ADOPTION",
-  "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Exchanges (DEXs), Copy Trading, Crypto Analytics, Trading Tools, Market Monitoring",
-  "pwIsFlagged": false,
-  "pwCategory": "Trading Tools"
+  "displayName": "Copin.io",
+  "applicantName": "Copin.io",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x1A561e43f264952D7b4F25Fb4967122c87618Beb.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x1A561e43f264952D7b4F25Fb4967122c87618Beb.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x1A561e43f264952D7b4F25Fb4967122c87618Beb.json",
+  "RPGF3_Application_UID": "0x5f8df8b9433d455d6ddd42a1cbb9c3d659f4f982ee772722be1365a7916fbd31",
+  "applicantAddress": "0x1A561e43f264952D7b4F25Fb4967122c87618Beb"
 }

@@ -1,0 +1,48 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://gov.optimism.io/tag/security-council",
+  "bio": "Group of beta testers with diverse levels of expertise and backgrounds",
+  "contributionDescription": "As beta testers, this group provided numerous valuable contributions to the preparation and readiness of the Optimism Security Council:\n\n- Participated in multiple draft reviews of diverse documents, both internal and external, providing critical feedback on phrasing, procedural clarity, guidelines, and other aspects. \n\n- Volunteered significant time for live rehearsals of Council operations, including mock upgrade approval flows. This hands-on testing surfaced ambiguity in the drafted procedures that could be resolved prior to launch.\n\n- Reported detailed bugs uncovered during reviews and live rehearsals. The issues spanned different areas. Identifying these bugs early was crucial.\n",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/ethereum-optimism/superchain-ops/tree/main/mainnet-rehearsals/",
+      "description": "Superchain Operations, Security Council Rehearsals"
+    }
+  ],
+  "impactCategory": [
+    "OP_STACK"
+  ],
+  "impactDescription": "The exhaustive testing, feedback, and bug discovery provided by the Security Council beta testers delivered immense value for reducing risk and increasing preparedness as a foundational governance component was launched.\n\nBy thoroughly stressing testing the procedures and systems during the rehearsals, problematic gaps were identified that could have led to issues down the line. The group's participation enabled ambiguities and vulnerabilities to be addressed proactively before the Council went live.",
+  "impactMetrics": [
+    {
+      "description": "Feedback was mostly qualitative",
+      "number": 1,
+      "url": "https://github.com/ethereum-optimism/superchain-ops/tree/main/mainnet-rehearsals/"
+    },
+    {
+      "description": "Members",
+      "number": 5,
+      "url": "about:blank"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 0,
+      "description": "The Beta Testers were volunteering their time in good faith."
+    }
+  ],
+  "payoutAddress": "0xD52FCd0F86bAb7bFA70F0A33f9c90D3afE87d675",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "OP Security Council Rehearsal Beta Testers",
+  "applicantName": "One Positive",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xD52FCd0F86bAb7bFA70F0A33f9c90D3afE87d675.json",
+  "RPGF3_Application_UID": "0xfbcd52f5224f9974c60a56a33a8d956b7103cb5e1f01b879612bed4dd8809946",
+  "applicantAddress": "0xD52FCd0F86bAb7bFA70F0A33f9c90D3afE87d675"
+}

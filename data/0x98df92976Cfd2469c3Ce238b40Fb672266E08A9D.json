@@ -1,7 +1,7 @@
 {
   "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://twitter.com/Last_Moon_0001?t=NQFW8QLYyrzSAJuWEH0E3A&s=09",
-  "bio": "Never Give up. Always Run 0001",
+  "bio": "0001",
   "contributionDescription": " OP is the native governance token of Optimism, a Layer-2 network built to address Ethereum’s scalability challenges.\nOptimism utilises a technology called optimistic rollups to bundle transactions and reduce fees on the Ethereum network.\nOP token holders can participate in the governance of Optimism through the Optimism Collective.\nUsers can acquire OP tokens through exchanges, trading platforms, airdrops, or by participating in Optimism’s ecosystem.",
   "contributionLinks": [
     {
@@ -43,15 +43,10 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "Project": "Zor0001",
-  "Applicant Type": "INDIVIDUAL",
-  "OSS Directory": "",
-  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x98df92976Cfd2469c3Ce238b40Fb672266E08A9D.json",
-  "Githubs": "",
-  "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK",
-  "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Layer-2 Scaling, Governance Tokens, Developer Ecosystem, End User Experience and Adoption",
-  "pwIsFlagged": true,
-  "pwFlaggedReason": "This application should be flagged for violating rule 2 (False statements & deception) and rule 10 (Outside of RetroPGF's scope). The applicant does not provide any concrete evidence or specific examples of their contributions to the project, but instead, just provides general knowledge about Optimism and OP tokens, which is outside of RetroPGF's scope.",
-  "pwCategory": "Governance Tokens"
+  "displayName": "Zor0001",
+  "applicantName": "Zor0001",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x98df92976Cfd2469c3Ce238b40Fb672266E08A9D.jpeg",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x98df92976Cfd2469c3Ce238b40Fb672266E08A9D.json",
+  "RPGF3_Application_UID": "0x4780f02020e27dad28cff95737eff1683f44b9f0b422a5da31527278f16671b8",
+  "applicantAddress": "0x98df92976Cfd2469c3Ce238b40Fb672266E08A9D"
 }

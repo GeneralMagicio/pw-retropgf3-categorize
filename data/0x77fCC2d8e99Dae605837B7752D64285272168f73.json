@@ -1,0 +1,46 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://x.com/irtayhan",
+  "bio": "I’m an active user or Optimism. Saddest part is I didn’t receive Optimism 1 & 3 Airdrop. But i wanna contribute more for Optimism Foundation",
+  "contributionDescription": "I have promoted it through Telegram and Twitter.\nAnd\nI wish to receive RetroPGF for contributing onchain and this.\n\nUID: 0xe656668a751e9c166d57f16dd1f19050746bf17a23a5c2478bce167898d4d1d7\nWeb Link: https://optimism.easscan.org/attestation/view/0xe656668a751e9c166d57f16dd1f19050746bf17a23a5c2478bce167898d4d1d7\n",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimism.easscan.org/attestation/view/0xe656668a751e9c166d57f16dd1f19050746bf17a23a5c2478bce167898d4d1d7",
+      "description": "Contribution"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "OP_STACK"
+  ],
+  "impactDescription": "It will be helpful for the Optimism Company and its whole community as every transaction counts. Im financially not stable to i didn't able to contribute well and also i'm not so educative and a well speaker in english. So, if i do something wrong with the info you need for. Please perdon me! i'm trying my best to do what best for Optimism and RetroPGF",
+  "impactMetrics": [
+    {
+      "description": "onchain contracts",
+      "number": 1,
+      "url": "https://optimism.easscan.org/attestation/view/0xe656668a751e9c166d57f16dd1f19050746bf17a23a5c2478bce167898d4d1d7"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 7,
+      "description": "Received this from Optimism Airdrop Round 2"
+    }
+  ],
+  "payoutAddress": "0x77fCC2d8e99Dae605837B7752D64285272168f73",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Tayhan",
+  "applicantName": "Tayhan",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x77fCC2d8e99Dae605837B7752D64285272168f73.jpeg",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x77fCC2d8e99Dae605837B7752D64285272168f73.jpeg",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x77fCC2d8e99Dae605837B7752D64285272168f73.json",
+  "RPGF3_Application_UID": "0x94ccb6453b78b53530342101c0554ba4b74274a5e85906577001e888005d8552",
+  "applicantAddress": "0x77fCC2d8e99Dae605837B7752D64285272168f73"
+}

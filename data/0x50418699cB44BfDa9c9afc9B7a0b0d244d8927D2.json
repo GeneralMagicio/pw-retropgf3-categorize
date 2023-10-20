@@ -1,0 +1,70 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://linktr.ee/paul_burg",
+  "bio": "Environmental scientists, blockchain and space enthusiast | Founder: EcoSynthesisX , ReFi Phangan & GreenPill Phangan| Founding Steward @DeSpaceQF |",
+  "contributionDescription": "* Promoting Optimism and onboarding new users through X posts and spaces.\n* As an Optimism enthusiast, I look for opportunities at in-person events to spread awareness of its capabilities and opportunities.\n* I educate both individuals and communities on how Optimism can help address issues of high gas fees and network congestion. And how Optimism support public goods funding and make world better.\n* In my efforts to further adoption, I recently applied to become a Local Optimist representative in my area to organize meetups and workshops",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://x.com/paulburg_/status/1707335499730632797?s=46&t=5VQQIz8HA0Yf7tgLe5R0WA",
+      "description": "X post  about event"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/paulburg_/status/1706994696541950003?s=46&t=5VQQIz8HA0Yf7tgLe5R0WA",
+      "description": "X Post about banners "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/luncosim/status/1707244380808151162?s=46&t=5VQQIz8HA0Yf7tgLe5R0WA",
+      "description": "X post mentioning me and banner"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/paulburg_/status/1711396290087772557?s=46&t=5VQQIz8HA0Yf7tgLe5R0WA",
+      "description": "X post invite to donate via Optimism "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/paulburg_/status/1706849364013101295?s=46&t=5VQQIz8HA0Yf7tgLe5R0WA",
+      "description": "X post mentions Optimism public good funding efforts "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/paulburg_/status/1711950710127128782?s=46&t=5VQQIz8HA0Yf7tgLe5R0WA",
+      "description": "X post mentioning start of Optimism QF on Giveth"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "* Promoting & onboarding via X posts: Increased awareness, education, and participation in Optimism .\n* Promoting via X shill spaces: Enhanced reputation and influence of Optimism and its ecosystem.\n* Promoting & onboarding individuals and community during irl events: Improved social capital and cohesion of Optimism and its ecosystem.\n* Applied to be Local Optimist: Contributed to leadership and innovation of Optimism and its ecosystem.",
+  "impactMetrics": [
+    {
+      "description": "Amount of donors for Phangan projects",
+      "number": 13,
+      "url": "https://giveth.io/project/refi-phangan?referrer_id=dRYlkF9FPINMyPmZIAv4yTv7Nvv2"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 0,
+      "description": "No grants or funding for the described contributions"
+    }
+  ],
+  "payoutAddress": "0x50418699cB44BfDa9c9afc9B7a0b0d244d8927D2",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Paul Burg",
+  "applicantName": "Paul Burg",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x50418699cB44BfDa9c9afc9B7a0b0d244d8927D2.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x50418699cB44BfDa9c9afc9B7a0b0d244d8927D2.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x50418699cB44BfDa9c9afc9B7a0b0d244d8927D2.json",
+  "RPGF3_Application_UID": "0x0044f3f713acfa58a80899a841e6f417f27c3f151d6302815944c89834a0db97",
+  "applicantAddress": "0x50418699cB44BfDa9c9afc9B7a0b0d244d8927D2"
+}

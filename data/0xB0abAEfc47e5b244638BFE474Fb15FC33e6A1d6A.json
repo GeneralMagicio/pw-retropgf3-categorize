@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://www.sum.pictures/",
-  "bio": "  Sum Pictures integrates blockchain technology into the production process.",
+  "bio": "WhiteRabbit is an independent film producer building a web 3 platform to facilitate the production process.",
   "contributionDescription": "\n\nSum Pictures is a Production Company… built on the Optimism network.\n\nWe are dedicated to crafting tailored solutions for today's content creators. Our driving force is the seamless integration of blockchain technology into the production process, empowering content creators and elevating the storytelling quality.\n\nWe believe in audience involvement in the filmmaking journey. Through interactive production dynamics, we invite our community to co-create films, ensuring impactful cinematic experiences.\n\nOur ecosystem combines innovative financing, audience insights, pre-screening mechanisms, and strategic distribution. This convergence fuels collaboration between content creators and audiences, ushering in a new entertainment era marked by the potential of blockchain integration.",
   "contributionLinks": [
     {
@@ -35,14 +35,10 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "Project": "White Rabbit",
-  "Applicant Type": "PROJECT",
-  "OSS Directory": "",
-  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xB0abAEfc47e5b244638BFE474Fb15FC33e6A1d6A.json",
-  "Githubs": "",
-  "Tags": "COLLECTIVE_GOVERNANCE",
-  "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Blockchain Infrastructure, Tokenization Platforms, Decentralized Finance (DeFi)",
-  "pwIsFlagged": false,
-  "pwCategory": "Media Production"
+  "displayName": "White Rabbit",
+  "applicantName": "White Rabbit",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xB0abAEfc47e5b244638BFE474Fb15FC33e6A1d6A.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xB0abAEfc47e5b244638BFE474Fb15FC33e6A1d6A.json",
+  "RPGF3_Application_UID": "0xb8bf90d384d4b252d7261962ba275ec5baf24c53633f4db5540d4573a9bf35c8",
+  "applicantAddress": "0xB0abAEfc47e5b244638BFE474Fb15FC33e6A1d6A"
 }

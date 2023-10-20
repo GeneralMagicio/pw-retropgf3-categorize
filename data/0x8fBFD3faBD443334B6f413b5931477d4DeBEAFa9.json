@@ -38,14 +38,10 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "Project": "METE DAMLI",
-  "Applicant Type": "INDIVIDUAL",
-  "OSS Directory": "",
-  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x8fBFD3faBD443334B6f413b5931477d4DeBEAFa9.json",
-  "Githubs": "",
-  "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK",
-  "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Collective Governance, Developer Ecosystem, End User Experience and Adoption, OP Stack",
-  "pwIsFlagged": false,
-  "pwCategory": "Community Building"
+  "displayName": "METE DAMLI",
+  "applicantName": "Mete",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x8fBFD3faBD443334B6f413b5931477d4DeBEAFa9.jpeg",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x8fBFD3faBD443334B6f413b5931477d4DeBEAFa9.json",
+  "RPGF3_Application_UID": "0x26d5b9ca05873ac83eb10786078206c337f40b3b457ba33c08c27bfd59079ce6",
+  "applicantAddress": "0x8fBFD3faBD443334B6f413b5931477d4DeBEAFa9"
 }

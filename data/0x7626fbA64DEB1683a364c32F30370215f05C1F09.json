@@ -1,7 +1,7 @@
 {
   "applicantType": "INDIVIDUAL",
-  "websiteUrl": "https://mp.weixin.qq.com/s/RMWpdzaI7ZFjwAeBJwhIYw",
-  "bio": "Chinese influencer",
+  "websiteUrl": "https://mp.weixin.qq.com/s/z6qV1J3FarjrXS_aus-NPg",
+  "bio": "share OP latest information to my 27k Chinese community.",
   "contributionDescription": "1.I introduced Op to my 27K Chinese followers and encouraged them to join OP ecosystem.\nThousands of readers know OP through my articles. I also promoted OP in 2022 to compared with other L2s.\nhttps://mp.weixin.qq.com/s/3CJC-7jEObhevA36Kag7Cw\nhttps://mp.weixin.qq.com/s/fBMA80ySVNpWRmhBO3w-lw\nhttps://mp.weixin.qq.com/s/RMWpdzaI7ZFjwAeBJwhIYw\n2. In the future, I will post OP development and its news on my WeChat platform and let more Chinese developers and lovers know Optimism network.",
   "contributionLinks": [
     {
@@ -75,15 +75,11 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "Project": "coinman",
-  "Applicant Type": "INDIVIDUAL",
-  "OSS Directory": "",
-  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x7626fbA64DEB1683a364c32F30370215f05C1F09.json",
-  "Githubs": "",
-  "Tags": "END_USER_EXPERIENCE_AND_ADOPTION",
-  "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Layer 2 Scaling, Governance Tokens, Chinese Influencer, Community Building",
-  "pwIsFlagged": true,
-  "pwFlaggedReason": "The application should be flagged because it violates Rule 1: \"Promises of future impact - promises of future deliverables or impact are not allowed.\" The applicant promises to post OP development in the future.",
-  "pwCategory": "Influencer Marketing"
+  "displayName": "coinman",
+  "applicantName": "Coinman",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7626fbA64DEB1683a364c32F30370215f05C1F09.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x7626fbA64DEB1683a364c32F30370215f05C1F09.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x7626fbA64DEB1683a364c32F30370215f05C1F09.json",
+  "RPGF3_Application_UID": "0x5f1659971bba849bbc9df6026dfb178ebc7575984664bef41d8a7e4f34880cd1",
+  "applicantAddress": "0x7626fbA64DEB1683a364c32F30370215f05C1F09"
 }

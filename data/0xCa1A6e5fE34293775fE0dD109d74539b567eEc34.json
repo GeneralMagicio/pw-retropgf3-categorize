@@ -31,14 +31,9 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "Project": "Nguyễn Đức Việt",
-  "Applicant Type": "INDIVIDUAL",
-  "OSS Directory": "",
-  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xCa1A6e5fE34293775fE0dD109d74539b567eEc34.json",
-  "Githubs": "",
-  "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK",
-  "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "NFTs, Music, Community Building, Blockchain Technology",
-  "pwIsFlagged": false,
-  "pwCategory": "Non-Fungible Tokens (NFTs)"
+  "displayName": "Nguyễn Đức Việt",
+  "applicantName": "Nguyen Duc Viet",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xCa1A6e5fE34293775fE0dD109d74539b567eEc34.json",
+  "RPGF3_Application_UID": "0x8403168d4dc2943e640f0e257e4ca8f26ccf15e58985e82e8f35d1e1ba189b55",
+  "applicantAddress": "0xCa1A6e5fE34293775fE0dD109d74539b567eEc34"
 }

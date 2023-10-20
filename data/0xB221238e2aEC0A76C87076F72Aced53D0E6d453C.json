@@ -1,0 +1,44 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://pinocchionz.github.io/",
+  "bio": "crypto enthusiast",
+  "contributionDescription": "First and foremost, I would want to emphasize my belief in the vision and goals of RetroPGF. RetroPGF, as I understand it, aims to bring about positive change in the gaming industry by combining the nostalgia of retro games with the possibilities of blockchain technology. This idea resonates with me because it not only captures the essence of classic gaming experiences but also introduces innovation through blockchain, potentially enhancing ownership, authenticity, and monetization for gamers and developers alike",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/tx/0x02bf5028ebed2987ecd2ade6f4370eed0922588f2481dbd0713cf2180c7e11ba",
+      "description": "optimistic bunnies nft"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "In conclusion, I would wish to receive the RetroPGF airdrop as a testament to my dedication and support for the project. I believe that my active involvement and commitment to its success would make me a valuable member of the RetroPGF community. I look forward to being part of this exciting journey and helping RetroPGF achieve its goals.",
+  "impactMetrics": [
+    {
+      "description": "optimistic bunnies nft",
+      "number": 2879,
+      "url": "https://optimistic.etherscan.io/tx/0x02bf5028ebed2987ecd2ade6f4370eed0922588f2481dbd0713cf2180c7e11ba"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 10,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0xB221238e2aEC0A76C87076F72Aced53D0E6d453C",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "umbuadiumbu",
+  "applicantName": "umbuadiumbu",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xB221238e2aEC0A76C87076F72Aced53D0E6d453C.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xB221238e2aEC0A76C87076F72Aced53D0E6d453C.json",
+  "RPGF3_Application_UID": "0x5226b1f6b528a910bd6cb6c82d58756f4783d81f45df5c697da441aaffb9213d",
+  "applicantAddress": "0xB221238e2aEC0A76C87076F72Aced53D0E6d453C"
+}

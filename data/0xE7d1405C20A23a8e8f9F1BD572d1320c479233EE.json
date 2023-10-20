@@ -1,0 +1,38 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://twitter.com/0xKofi",
+  "bio": "Onchain Data Nerd\nContributing @ DefiLlama and Alchemy",
+  "contributionDescription": "𝗧𝗟𝗗𝗥\nA Dune dataset that makes it easy to query revenues and costs for all OP stack rollups and other L2s\n\n𝗗𝗲𝘀𝗰𝗿𝗶𝗽𝘁𝗶𝗼𝗻\nI created a Dune Spell table that has data on rollup \n- on-chain revenues (transaction fees)\n- costs (posting data to L1) \n- and raw materials (L1 calldata) of rollups\n\nIt automatically updates to support new OP stack rollups.\n\nHere is a demo showing how to query Base revenue using the new Spell\nhttps://youtu.be/T2_j_JlGeDQ\n\nThe dataset is a great tool that analysts can use to generate rollup business metrics for OP stack teams and their communities.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/duneanalytics/spellbook/commits/main/models/rollup_economics/ethereum",
+      "description": "Github history of the dataset. You can see that I created and updated the spell."
+    }
+  ],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "This Dune Spell is an open-source model that makes it easy for analysts to surface useful rollup economics insights and share those with the community. \n\nIt's already being used by popular L2 Dune dashboards with more than 730 stars combined. For example, \n- https://dune.com/niftytable/rollup-economics (built by me)\n- https://dune.com/sealaunch/rollups-profits (built by the SeaLaunch team)\n\nThe open-source code is also being used by analytics platforms outside of Dune::\n\n\"At Artemis, we routinely use the roll-up economics spellbook as a reference to understand how to calculate profit across OP Mainnet, OP Stack chains, and other roll-ups in the Ethereum ecosystem.\"\n- Nirmal Krishnan\n  [Head of Engineering at Artemis.xyz]",
+  "impactMetrics": [
+    {
+      "description": "Dune Stars of dashboards using the spell",
+      "number": 739,
+      "url": "https://dune.com/browse/dashboards?q=rollup&order=favorites&time_range=all"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x701E37643DADa13DE79e66A74E7d6187FC48faD2",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Rollup Economics Dune Spell",
+  "applicantName": "0xKofi",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xE7d1405C20A23a8e8f9F1BD572d1320c479233EE.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xE7d1405C20A23a8e8f9F1BD572d1320c479233EE.json",
+  "RPGF3_Application_UID": "0x319e92614fd4d193ae32199f9459862ba5def14978cf005b19343843ca2e0693",
+  "applicantAddress": "0xE7d1405C20A23a8e8f9F1BD572d1320c479233EE"
+}

@@ -1,7 +1,7 @@
 {
   "applicantType": "INDIVIDUAL",
-  "websiteUrl": "https://utkuomer.on.fleek.co/#/",
-  "bio": "Hi, this is Utku from developing commite at ITU Blockchain. I'm a junior dev.",
+  "websiteUrl": "https://utkuomer.on.fleek.co/",
+  "bio": "Hi, this is Utku, since early 2022 I have been developing for Blockchains. Since then I joined 5 hackathons and won 3 finalist badges. I've built for OP too!",
   "contributionDescription": "I unknowingly submitted my project with my team as if it was my own project. I'm sorry for taking up your time. There was no other way to withdraw my application, so I am resubmitting it this way. I'm sorry again.I'm sorry again.I'm sorry again.I'm sorry again.",
   "contributionLinks": [
     {
@@ -28,15 +28,9 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "Project": "Utku Ömer Kılıç",
-  "Applicant Type": "INDIVIDUAL",
-  "OSS Directory": "Not Found",
-  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xb9D795B50542920618b2176d3675B6d8Be4d5838.json",
-  "Githubs": "https://github.com/",
-  "Tags": "",
-  "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Smart Contract Platforms, Blockchain Infrastructure",
-  "pwIsFlagged": true,
-  "pwFlaggedReason": "The application should be flagged because it is a duplicate submission intended to correct a previous application error, which can be considered as spam.",
-  "pwCategory": "The project description doesn't provide enough information to categorize the project into one of the provided categories."
+  "displayName": "Utku Ömer Kılıç",
+  "applicantName": "Utku",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xb9D795B50542920618b2176d3675B6d8Be4d5838.json",
+  "RPGF3_Application_UID": "0xa23a373bdf7c828482542ee8ee951703107ef15bba900b6b0c0de8b4ef11e85a",
+  "applicantAddress": "0xb9D795B50542920618b2176d3675B6d8Be4d5838"
 }

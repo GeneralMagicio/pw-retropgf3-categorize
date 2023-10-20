@@ -1,0 +1,45 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://twitter.com/goudanxiaokui",
+  "bio": "love Optimism  here ",
+  "contributionDescription": "Through my creations, I guide people to participate in the construction of the OP community. My creations are paintings with the theme of sunshine, because the sunshine is warm and bright, it can guide us all in the direction and illuminate our way forward as long as there is a clear path. Only in this way can we keep moving forward on the road of hope. Even if this road is full of dangers, we can still not be afraid of it. This is also the power of faith. The OP community plays this kind of guiding role. The community is like sunshine. It also gives us unlimited strength and hope for support so that we can run through all the obstacles. This is what I created with the theme of the Sunshine OP community.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/goudanxiaokui",
+      "description": "Sunshine OP Community "
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "Through my creations, I guide people to participate in the construction of the OP community. My creations are paintings with the theme of sunshine, because the sunshine is warm and bright, it can guide us all in the direction and illuminate our way forward as long as there is a clear path. Only in this way can we keep moving forward on the road of hope. Even if this road is full of dangers, we can still not be afraid of it. This is also the power of faith. The OP community plays this kind of guiding role. The community is like sunshine. It also gives us unlimited strength and hope for support so that we can run through all the obstacles. This is what I created with the theme of the Sunshine OP community.",
+  "impactMetrics": [
+    {
+      "description": "view",
+      "number": 10000,
+      "url": "https://twitter.com/goudanxiaokui"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 1000,
+      "description": "sun of op "
+    }
+  ],
+  "payoutAddress": "0xa7126F204c3Dc45eF9F920C72E70C9e5474E6434",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "OP  like the Sun",
+  "applicantName": "xiaokui",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xa7126F204c3Dc45eF9F920C72E70C9e5474E6434.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xa7126F204c3Dc45eF9F920C72E70C9e5474E6434.json",
+  "RPGF3_Application_UID": "0x1b12284b91fd42da8b9759ec271c868e9a1cc69e213b536d6837fdef8c5063f1",
+  "applicantAddress": "0xa7126F204c3Dc45eF9F920C72E70C9e5474E6434"
+}

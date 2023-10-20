@@ -1,0 +1,77 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://givepraise.xyz",
+  "bio": "Unlock the full potential of your community with reputation scores, rewards and deep insights",
+  "contributionDescription": "Onchain attestations based on Praise data captures the essence of who did what, when, and to what impact in the Optimism community. We recently built and deployed the attestation feature specifically for the needs of Optimism. Praise attestations, in tandem with other types like Gitcoin Passport and Regen Score, play a pivotal role in determining eligibility for Optimism Citizens. Moreover, our newly launched citizen attestation explorer facilitates community members in examining the attestations and their associated impact scores.\n\nPraise dashboard currently have 100+ users & 400+ praises. Praise integrates with RegenScore & Gitcoin Passport, emphasizing trust. Metrics, led by a rewards group, quantify praises, aiding in governance.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://optimism.givepraise.xyz/",
+      "description": "Praise Dashboard for Optimism"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://citizen-attestations.xyz",
+      "description": "OP attestation explorer relevant for the OP Citizens eligibility process."
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/givepraise/praise",
+      "description": "Praise open source repo, including attestation feature for Optimism"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "Praise dashboard currently have 100+ users & 400+ praises. Praise integrates with RegenScore & Gitcoin Passport, emphasizing trust. Metrics, led by a rewards group, quantify praises, aiding in governance.\n\nCitizens Explorer: Our newly launched citizen attestation explorer allows community members to lookup relevant Praise attestations as well as attestations from the following projects:\n- Gitcoin Passport (Passport score)\n- Regen Score (Regen score)\n- Optimist Profiles (User profiles)\n\nCommunity Involvement & Analysis: Praise goes beyond just recognition. We've initiated a metrics system, steered by a dedicated rewards working group, that quantifies each praise. This data-driven approach aids in determining rewards and reputation, streamlining the path to active governance participation.",
+  "impactMetrics": [
+    {
+      "description": "OP Praise given",
+      "number": 400,
+      "url": "https://optimism.givepraise.xyz"
+    },
+    {
+      "description": "OP Praise users",
+      "number": 100,
+      "url": "https://optimism.givepraise.xyz"
+    },
+    {
+      "description": "Optimist profiles displayed",
+      "number": 5500,
+      "url": "https://citizen-attestations.xyz/schema/0xac4c92fc5c7babed88f78a917cdbcdc1c496a8f4ab2d5b2ec29402736b2cf929/1"
+    },
+    {
+      "description": "Praise Optimist Attestations minted",
+      "number": 45,
+      "url": "https://citizen-attestations.xyz/schema/0x1c622d3fdb24759ed71266b218c4750ad54549a7612451851f3b0432ce167e68/1"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 9286,
+      "description": ""
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 114000,
+      "description": "Mission - Governance Accessibility S4"
+    }
+  ],
+  "payoutAddress": "0x0B7246eF74Ca7b37Fdc3D15be4f0b49876622F95",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Praise",
+  "applicantName": "Praise",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x0B7246eF74Ca7b37Fdc3D15be4f0b49876622F95.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x0B7246eF74Ca7b37Fdc3D15be4f0b49876622F95.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x0B7246eF74Ca7b37Fdc3D15be4f0b49876622F95.json",
+  "RPGF3_Application_UID": "0xa1a22d2fb5735459c54bf2861adb1f30ed77cca44536c06070587aced21d97d9",
+  "applicantAddress": "0x0B7246eF74Ca7b37Fdc3D15be4f0b49876622F95"
+}

@@ -1,7 +1,7 @@
 {
   "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://x.com/abkkumo67?t=0N8d9-V-2fgeYTfLFDv3rw&s=09",
-  "bio": "A blockchain researcher ",
+  "bio": "Abubakar Haruna Kumo",
   "contributionDescription": "The optimist pursues their goals on a longer timeline than the pessimist. The ability to decide what you want in the future, hold the vision in your mind, delay gratification, and consistently act under your goals will lead to success, even if it takes time.",
   "contributionLinks": [
     {
@@ -35,15 +35,10 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "Project": "Abkkumo67",
-  "Applicant Type": "INDIVIDUAL",
-  "OSS Directory": "",
-  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xc509ae016D87DefBB6240807FE9f9BfC256EF3eA.json",
-  "Githubs": "",
-  "Tags": "END_USER_EXPERIENCE_AND_ADOPTION",
-  "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "End User Experience and Adoption",
-  "pwIsFlagged": true,
-  "pwFlaggedReason": "This application should be flagged for violating the grant program rule of promises of future impact. The contribution description talks about future goals and visions without clear past or ongoing impacts.",
-  "pwCategory": "End User Experience and Adoption"
+  "displayName": "Abkkumo67 ",
+  "applicantName": "Abkkumo67",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xc509ae016D87DefBB6240807FE9f9BfC256EF3eA.jpeg",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xc509ae016D87DefBB6240807FE9f9BfC256EF3eA.json",
+  "RPGF3_Application_UID": "0x3a201e7415c2252038aafcfddc22066d13d2fe1eaa0b20b22325e1ade525ddf6",
+  "applicantAddress": "0xc509ae016D87DefBB6240807FE9f9BfC256EF3eA"
 }

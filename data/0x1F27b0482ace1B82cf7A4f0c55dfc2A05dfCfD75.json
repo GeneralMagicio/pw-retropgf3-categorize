@@ -1,7 +1,7 @@
 {
   "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://twitter.com/PriewPeter",
-  "bio": "I'm a Teacher love learning about Optimism ecosystem for educate my followers ",
+  "bio": "I'm a Teacher, and I'm passionate about Blockchain Technology, especially Ethereum and Layer 2 Solution. I share my knowledge about Optimism with everyone.",
   "contributionDescription": "Educated to my followers about Optimism such as OP Tokenomics / Introduce OP Airdrop 1-3 / Optimism ecosystem / Translate article for analysis/ Security on DeFi / Introduce new upgrade from OP Mainnet / Share important news with the community about Optimism. So that everyone can receive good information to help make good decisions.",
   "contributionLinks": [
     {
@@ -108,14 +108,11 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "Project": "Peter Priew Sommon",
-  "Applicant Type": "INDIVIDUAL",
-  "OSS Directory": "",
-  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x1F27b0482ace1B82cf7A4f0c55dfc2A05dfCfD75.json",
-  "Githubs": "",
-  "Tags": "END_USER_EXPERIENCE_AND_ADOPTION",
-  "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Finance (DeFi), Education and Awareness",
-  "pwIsFlagged": false,
-  "pwCategory": "Education"
+  "displayName": "Peter Priew Sommon",
+  "applicantName": "peterpriew",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x1F27b0482ace1B82cf7A4f0c55dfc2A05dfCfD75.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x1F27b0482ace1B82cf7A4f0c55dfc2A05dfCfD75.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x1F27b0482ace1B82cf7A4f0c55dfc2A05dfCfD75.json",
+  "RPGF3_Application_UID": "0x1a1bdc52701cf3b33ef4d4169a3ff001f866aaf4294ef7b9398f01c5e2e00637",
+  "applicantAddress": "0x1F27b0482ace1B82cf7A4f0c55dfc2A05dfCfD75"
 }

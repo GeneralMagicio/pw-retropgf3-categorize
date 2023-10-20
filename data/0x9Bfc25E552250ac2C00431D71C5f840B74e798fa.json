@@ -31,15 +31,10 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "Project": "lu2",
-  "Applicant Type": "INDIVIDUAL",
-  "OSS Directory": "",
-  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x9Bfc25E552250ac2C00431D71C5f840B74e798fa.json",
-  "Githubs": "",
-  "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK",
-  "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK",
-  "pwIsFlagged": true,
-  "pwFlaggedReason": "Flagged for spam due to the unclear and vague project description and lack of concrete details about its impact or contribution to the Web3/blockchain space.",
-  "pwCategory": "Governance Tokens"
+  "displayName": "lu2",
+  "applicantName": "lu2",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x9Bfc25E552250ac2C00431D71C5f840B74e798fa.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x9Bfc25E552250ac2C00431D71C5f840B74e798fa.json",
+  "RPGF3_Application_UID": "0xc2cbd2c9781a76f0bc8b6a34c50adaaf7af8aef13faf0692a53c12411ce2132f",
+  "applicantAddress": "0x9Bfc25E552250ac2C00431D71C5f840B74e798fa"
 }

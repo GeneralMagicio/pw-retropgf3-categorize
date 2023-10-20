@@ -1,7 +1,7 @@
 {
   "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://x.com/CollinsX100?t=pFhq1XCOJ5EoR29hetorgw&s=09",
-  "bio": "A DeFi enthusiast obsessed with layer 2 and Ethereum development ",
+  "bio": "A DeFi Enthusiast obsessed with layer 2 blockchains development , Ethereum and account abstraction ",
   "contributionDescription": "I've played a significant role in educating the blockchain community through informative threads about the OP Stack narrative. These threads focus on Optimistic Rollups, a key element of the OP Stack, and its implications for the broader Optimism ecosystem.\n\nThe OP Stack is a critical advancement in Ethereum scalability, and my threads have made it easier for both newcomers and experienced enthusiasts to understand its significance. I've provided insights into the potential benefits and challenges of these innovations, aiming to bridge the knowledge gap.\n\nIn summary, my goal has been to inform and prepare readers for the evolving landscape of blockchain technology, fostering anticipation and confidence in the Optimism ecosystem.",
   "contributionLinks": [
     {
@@ -47,14 +47,10 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "Project": "Collins",
-  "Applicant Type": "INDIVIDUAL",
-  "OSS Directory": "",
-  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xC643aE4336736989dbBF0D20B3641B2A32e77Bb1.json",
-  "Githubs": "",
-  "Tags": "COLLECTIVE_GOVERNANCE, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK",
-  "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Layer 2 Scaling, Smart Contract Platforms, Governance Tokens",
-  "pwIsFlagged": false,
-  "pwCategory": "Education"
+  "displayName": "Collins ",
+  "applicantName": "Collins",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xC643aE4336736989dbBF0D20B3641B2A32e77Bb1.jpeg",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xC643aE4336736989dbBF0D20B3641B2A32e77Bb1.json",
+  "RPGF3_Application_UID": "0xb5de46d5d5a820977a5bbf1d7ce3540fc91f43c39e4cc2f9da634430bdd9a957",
+  "applicantAddress": "0xC643aE4336736989dbBF0D20B3641B2A32e77Bb1"
 }

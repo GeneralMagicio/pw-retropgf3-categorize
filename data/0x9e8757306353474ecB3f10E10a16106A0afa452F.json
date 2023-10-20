@@ -1,0 +1,44 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://twitter.com/nishiok14852091",
+  "bio": "happy",
+  "contributionDescription": "One of the things I love about it is that it's great with the clock and it brings back experiences that let us experience how many hours of electrons there are, it's one of the things I like the most.The project brings people's trust it works great ,bring interesting experiences to everyone ",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://twitter.com/nishiok14852091",
+      "description": "ok"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
+  "impactDescription": "One of the things I love about it is that it's great with the clock and it brings back experiences that let us experience how many hours of electrons there are, it's one of the things I like the most.The project brings people's trust it works great ,bring interesting experiences to everyone",
+  "impactMetrics": [
+    {
+      "description": "420",
+      "number": 420,
+      "url": "https://twitter.com/nishiok14852091"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 10,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0x9e8757306353474ecB3f10E10a16106A0afa452F",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "tai",
+  "applicantName": "tai",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9e8757306353474ecB3f10E10a16106A0afa452F.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x9e8757306353474ecB3f10E10a16106A0afa452F.json",
+  "RPGF3_Application_UID": "0x2bb14a34b57ff8c02efc366404d2af9f0b9d68ed6d3643a9dc55c52aed7cc568",
+  "applicantAddress": "0x9e8757306353474ecB3f10E10a16106A0afa452F"
+}

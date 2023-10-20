@@ -38,15 +38,9 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "Project": "Duong Viet Phuc",
-  "Applicant Type": "INDIVIDUAL",
-  "OSS Directory": "",
-  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x5635388c4E0a2117fd1Fe9501Aa6E1FCeb31cca6.json",
-  "Githubs": "",
-  "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK",
-  "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Tokenization Platforms, Digital Identity, Blockchain Gaming, Blockchain Infrastructure, Governance Tokens",
-  "pwIsFlagged": true,
-  "pwFlaggedReason": "This application should be flagged for promises of future deliverables or impact which is against the Grant program rule 1. The applicant is hoping to get investment from the project which indicates a future intent or impact.",
-  "pwCategory": "Non-Fungible Tokens (NFTs)"
+  "displayName": "Duong Viet Phuc",
+  "applicantName": "PLeo",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x5635388c4E0a2117fd1Fe9501Aa6E1FCeb31cca6.json",
+  "RPGF3_Application_UID": "0x3e9e26c38a584e8ccf72c8b48057789cd7c760812b745b1ac9fc45f79d0d3e13",
+  "applicantAddress": "0x5635388c4E0a2117fd1Fe9501Aa6E1FCeb31cca6"
 }

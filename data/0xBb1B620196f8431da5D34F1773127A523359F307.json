@@ -1,7 +1,7 @@
 {
   "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://mirror.xyz/sibileva.eth/tWm6-6zckzzNEZq3Tl-cwCVX9f8Z_fPLulPExaBAzHY",
-  "bio": "Research on Cryptotechnology from the Perspective of Ukrainian Law ",
+  "bio": "Legal Futurist from Ukraine",
   "contributionDescription": "I conduct scientific research on how crypto technologies can enhance contemporary law. I focus specifically on studying this within Ukrainian law, as I am a Ukrainian citizen.\n\nI believe that the values upon which crypto technologies are built, such as transparency, integrity, and legality, are shared with the foundations of modern law. In particular, I see smart contracts as a new agreement form in the contemporary legal landscape.\n\nI believe that if Ukrainian law adopts algorithmic structures, it will gain more trust, as contracts will be executed, and evidence and actions of individuals will be public.\"",
   "contributionLinks": [
     {
@@ -35,14 +35,10 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "Project": "i.vovkotrub.eth",
-  "Applicant Type": "INDIVIDUAL",
-  "OSS Directory": "",
-  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xBb1B620196f8431da5D34F1773127A523359F307.json",
-  "Githubs": "",
-  "Tags": "END_USER_EXPERIENCE_AND_ADOPTION",
-  "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Blockchain Infrastructure, Smart Contract Platforms, Digital Identity, Governance Tokens, Tokenization Platforms",
-  "pwIsFlagged": false,
-  "pwCategory": "Education"
+  "displayName": "i.vovkotrub.eth",
+  "applicantName": "i.vovkotrub.eth",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xBb1B620196f8431da5D34F1773127A523359F307.jpeg",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xBb1B620196f8431da5D34F1773127A523359F307.json",
+  "RPGF3_Application_UID": "0x1f51e7d5fc5febf03e5675b226c9cefad845ab1636a16c661bc145c8dd6d4741",
+  "applicantAddress": "0xBb1B620196f8431da5D34F1773127A523359F307"
 }

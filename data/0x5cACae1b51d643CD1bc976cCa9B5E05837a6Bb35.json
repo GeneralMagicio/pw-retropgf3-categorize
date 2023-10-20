@@ -1,7 +1,7 @@
 {
   "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://twitter.com/FA40Ziv",
-  "bio": "social media persona with focus on OP with focus on Velodrome",
+  "bio": "My name is Ziv also known as Finance After 40.\n\nBeen doing social media for about 3 years now with last year's focus on Velodrome day 1 on X/YT/Discord ",
   "contributionDescription": "I was tweeting about Velodrome from day 1 all the way from June/July of last year.\n\nI educated about 8,500 followers on how Velodrome works and got my followers to show interest in the OP ecosystem in general and Velodrome in specific.\n\nI also did a couple of YT educational videos for 28k followers on how to use Velo website.\n\nI have a private paid discord group with around 100 members where we talk about hidden gems but the real focus is of course Velodrome and Optimism and every Wednesday I remind the people to vote so they can get their share of passive income.\n\nVelodrome protocol on OP helped me and many others survive this harsh bear market and I'm glad to bring awareness for OP as a whole and Velodrome in particular for over a year now.\n\n",
   "contributionLinks": [
     {
@@ -50,14 +50,11 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "Project": "FA40Ziv",
-  "Applicant Type": "INDIVIDUAL",
-  "OSS Directory": "",
-  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x5cACae1b51d643CD1bc976cCa9B5E05837a6Bb35.json",
-  "Githubs": "",
-  "Tags": "END_USER_EXPERIENCE_AND_ADOPTION",
-  "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Social Media Promotion",
-  "pwIsFlagged": false,
-  "pwCategory": "End User Experience and Adoption"
+  "displayName": "FA40Ziv",
+  "applicantName": "FA40Ziv",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5cACae1b51d643CD1bc976cCa9B5E05837a6Bb35.jpeg",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x5cACae1b51d643CD1bc976cCa9B5E05837a6Bb35.jpeg",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x5cACae1b51d643CD1bc976cCa9B5E05837a6Bb35.json",
+  "RPGF3_Application_UID": "0x4bb60c496de67ce58a23e11e2778c03a65efe0f93421c45c85532bd8e30111c4",
+  "applicantAddress": "0x5cACae1b51d643CD1bc976cCa9B5E05837a6Bb35"
 }

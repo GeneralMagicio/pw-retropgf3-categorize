@@ -1,0 +1,47 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": " https://x.com/saltu33",
+  "bio": "chill",
+  "contributionDescription": "Optimism lets us see disappointing events as temporary situations that we can get past. It strengthens us to try again rather than give up. It allows us to keep our goals and dreams in play so we can act on the motivation to keep working toward them.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/tx/0x8f446e05260bb683c06904d1a49e326938f0e65c12903fdac6e70fac21657e70",
+      "description": "Transaction Details"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "Optimism is a community-owned ecosystem designed to solve coordination failures by rewarding positive impact.\nCelebrate the strengths of your people. A Gallup report states that more than 80% of employees are motivated by recognition that's honest, authentic and personalized. ...\nKeep your employees informed. ...\nNormalize work flexibility. ...\nTrust your employees.\n",
+  "impactMetrics": [
+    {
+      "description": "#1",
+      "number": 9,
+      "url": "https://optimistic.etherscan.io/tx/0x8f446e05260bb683c06904d1a49e326938f0e65c12903fdac6e70fac21657e70"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 1,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0x0cdC6Abc4c2c4cd5ac500deF7fc1bF90BC3d4812",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "minhaj",
+  "applicantName": "Minhaj",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x0cdC6Abc4c2c4cd5ac500deF7fc1bF90BC3d4812.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x0cdC6Abc4c2c4cd5ac500deF7fc1bF90BC3d4812.json",
+  "RPGF3_Application_UID": "0xbec8198c2a9730ef82b6005ac6a34583751e97fea5d6f9efc4457241aed6eebf",
+  "applicantAddress": "0x0cdC6Abc4c2c4cd5ac500deF7fc1bF90BC3d4812"
+}

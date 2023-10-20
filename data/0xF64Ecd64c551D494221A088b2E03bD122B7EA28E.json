@@ -1,0 +1,49 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://x.com/TTScofield_",
+  "bio": "Crypto Enthusiast, Blockchain lover, investor/huntor",
+  "contributionDescription": "As a result of my help and guidiance new users are able to onboard easily into the optimism ecosystem daily. I am always happy to help my community and answer  questions related to the optimism ecosystem daily. As a result of my help and guidiance new users are able to onboard easily into the optimism ecosystem daily. I am always happy to help my community and answer  questions related to the optimism ecosystem daily.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xF64Ecd64c551D494221A088b2E03bD122B7EA28E",
+      "description": "https://optimistic.etherscan.io/"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xF64Ecd64c551D494221A088b2E03bD122B7EA28E",
+      "description": "0xF64Ecd64c551D494221A088b2E03bD122B7EA28E"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "As a result of my help and guidiance new users are able to onboard easily into the optimism ecosystem daily. I am always happy to help my community and answer  questions related to the optimism ecosystem daily. \nhttps://optimistic.etherscan.io/address/0xF64Ecd64c551D494221A088b2E03bD122B7EA28E",
+  "impactMetrics": [
+    {
+      "description": "https://optimistic.etherscan.io/address/",
+      "number": 10,
+      "url": "https://optimistic.etherscan.io/address/0xF64Ecd64c551D494221A088b2E03bD122B7EA28E"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 10,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0xF64Ecd64c551D494221A088b2E03bD122B7EA28E",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "TTScofield",
+  "applicantName": "TTScofield",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xF64Ecd64c551D494221A088b2E03bD122B7EA28E.json",
+  "RPGF3_Application_UID": "0x00279c5fc732e0a66f2088dbe4f24e4f9ebd455cf4906ea8106a1c5c86c43bb7",
+  "applicantAddress": "0xF64Ecd64c551D494221A088b2E03bD122B7EA28E"
+}

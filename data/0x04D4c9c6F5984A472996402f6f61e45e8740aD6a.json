@@ -1,0 +1,39 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://facebook.com/atmygpab",
+  "bio": "Gian From Ph a airdrop hunter",
+  "contributionDescription": "Tangible Benefits:\nFinancial Rewards: Contributions can result in monetary gains, such as receiving payment for services rendered or generating income through investments.\n\nIntangible Benefits:\nSatisfaction: Many people find satisfaction in contributing to causes or projects they believe in, even if there are no immediate tangible benefits.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x04D4c9c6F5984A472996402f6f61e45e8740aD6a",
+      "description": "My Address"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "Optimism can have a positive impact on a person's well-being, as it can lead to reduced stress, improved resilience, and a more hopeful attitude. It's important to note that while optimism is generally seen as a positive trait, it should be balanced with realism to make well-informed decisions.",
+  "impactMetrics": [
+    {
+      "description": "1",
+      "number": 100,
+      "url": "https://optimistic.etherscan.io/address/0x04D4c9c6F5984A472996402f6f61e45e8740aD6a"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x04D4c9c6F5984A472996402f6f61e45e8740aD6a",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Gian Paul",
+  "applicantName": "Gian",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x04D4c9c6F5984A472996402f6f61e45e8740aD6a.json",
+  "RPGF3_Application_UID": "0xca30a57faf68cbf75e9bdeec97ea43409e046453e52bd4651c9561c9f2ed38d4",
+  "applicantAddress": "0x04D4c9c6F5984A472996402f6f61e45e8740aD6a"
+}

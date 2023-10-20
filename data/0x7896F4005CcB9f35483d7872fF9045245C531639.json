@@ -1,0 +1,40 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://alofood.com.vn",
+  "bio": "thích tiền điện tử",
+  "contributionDescription": "tôi thích op , tôi sẽ cố gắng xây dựng mạng lưới op, tôi sẽ hold op nếu được trúng thưởng, tôi cảm ơn dự án, tôi không biết nói gì hơn, tôi xin trân thành cảm ơn dự án, tôi hi vọng mình sẽ được chọn, tôi rất biết ơn, tôi xin hứa những điều trên hoàn toàn là sự thật",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://alofood.com.vn",
+      "description": "tôi xin hứa những điều trên hoàn toàn là sự thật"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "tôi thích op , tôi sẽ cố gắng xây dựng mạng lưới op, tôi sẽ hold op nếu được trúng thưởng, tôi cảm ơn dự án, tôi không biết nói gì hơn, tôi xin trân thành cảm ơn dự án, tôi hi vọng mình sẽ được chọn, tôi rất biết ơn, tôi xin hứa những điều trên hoàn toàn là sự thật",
+  "impactMetrics": [
+    {
+      "description": "https://alofood.com.vn",
+      "number": 420,
+      "url": "https://alofood.com.vn"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x7896F4005CcB9f35483d7872fF9045245C531639",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "nang1990",
+  "applicantName": "nang1990",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7896F4005CcB9f35483d7872fF9045245C531639.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x7896F4005CcB9f35483d7872fF9045245C531639.json",
+  "RPGF3_Application_UID": "0xb32638cca2046c4cb8387d60b66766cda66fad87f9ce78004edfa0f04d18e141",
+  "applicantAddress": "0x7896F4005CcB9f35483d7872fF9045245C531639"
+}

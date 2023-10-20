@@ -1,7 +1,7 @@
 {
   "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://dickygaluhkurniawan.my.id/",
-  "bio": "Supporting Optimism Collective: education and research for positive impact.",
+  "bio": "Dicky Galuh Kurniawan, Blockchain student at Universitas Islam Indonesia, committed to advancing tech with Optimism Collective.",
   "contributionDescription": "As a computer science student at UII, focusing on blockchain studies, I have significant opportunities to play a role in the development of the blockchain ecosystem and Optimism technology. I can choose to be a code developer by mastering Solidity, a researcher delving into Optimism, or an educator who educates the community about blockchain. Contributions to open-source projects, sharing knowledge through articles, and collaborating with Optimism projects can also help enhance this ecosystem. By actively contributing, I can earn incentives from the Optimism Collective and significantly advance the adoption of Optimism technology.",
   "contributionLinks": [
     {
@@ -35,14 +35,10 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "Project": "Dicky Galuh Kurniawan",
-  "Applicant Type": "INDIVIDUAL",
-  "OSS Directory": "",
-  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xe359A6feBe48E326efA7dBe7a36b31207F9bdA81.json",
-  "Githubs": "",
-  "Tags": "END_USER_EXPERIENCE_AND_ADOPTION",
-  "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Educational Platform, Developer Community, Incentive Program",
-  "pwIsFlagged": false,
-  "pwCategory": "End User Experience and Adoption"
+  "displayName": "Dicky Galuh Kurniawan",
+  "applicantName": "dickygaluhkrnwn",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xe359A6feBe48E326efA7dBe7a36b31207F9bdA81.jpeg",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xe359A6feBe48E326efA7dBe7a36b31207F9bdA81.json",
+  "RPGF3_Application_UID": "0xe8ce1e5d2b6f3e0eee6836d6e4340d831ecc80dd4571dfe98c3f89c3e1a8022b",
+  "applicantAddress": "0xe359A6feBe48E326efA7dBe7a36b31207F9bdA81"
 }

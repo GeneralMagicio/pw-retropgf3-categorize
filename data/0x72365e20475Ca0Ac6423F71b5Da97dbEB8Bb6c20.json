@@ -1,7 +1,7 @@
 {
   "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://spotify.link/sbtUP8aSnDb",
-  "bio": "Musician and salesman. I want to sell things for crypto. ",
+  "bio": "I’m a musician, car salesman and peddler/entrepreneur. Looking to make a space in Web three and become the bridge between web 2 function and web 3 protocol.  ",
   "contributionDescription": "I have not contributed much. I have interacted with the chain. However if given an opportunity to have access to some of these spaces. Finances being the biggest barrier for me. I know I can meet the people who can help me get more artists selling music on optimism. Find a way for companies like carmax or caravan to accept crypto through there online delivery apps. Imagine buying a car without ever seeing a salesperson all with your air drop you spent months farming for. All without ever touching fiat. I want to build that space.",
   "contributionLinks": [
     {
@@ -35,15 +35,10 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "Project": "JamesCamsHouse",
-  "Applicant Type": "INDIVIDUAL",
-  "OSS Directory": "",
-  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x72365e20475Ca0Ac6423F71b5Da97dbEB8Bb6c20.json",
-  "Githubs": "",
-  "Tags": "END_USER_EXPERIENCE_AND_ADOPTION",
-  "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Tokenization Platforms, Decentralized Finance (DeFi), Digital Identity, Supply Chain Management, END_USER_EXPERIENCE_AND_ADOPTION",
-  "pwIsFlagged": true,
-  "pwFlaggedReason": "YES, this application should be flagged because the applicant has not clearly made contributions to the Web3/blockchain space within the minimum required time commitment. The application appears to contain pledges of future contributions rather than actual work, violating rule 1 and possibly rule 10.",
-  "pwCategory": "End User Experience and Adoption"
+  "displayName": "JamesCamsHouse ",
+  "applicantName": "JamesCamsHouse ",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x72365e20475Ca0Ac6423F71b5Da97dbEB8Bb6c20.jpeg",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x72365e20475Ca0Ac6423F71b5Da97dbEB8Bb6c20.json",
+  "RPGF3_Application_UID": "0x65bc528baf43938245203e63f2f5fe34e691002fa31f5a119b6388bf3504858d",
+  "applicantAddress": "0x72365e20475Ca0Ac6423F71b5Da97dbEB8Bb6c20"
 }

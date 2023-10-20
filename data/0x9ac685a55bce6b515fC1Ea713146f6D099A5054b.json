@@ -1,0 +1,64 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://www.ethaccra.xyz/",
+  "bio": "We are a passionate group of local people that wants to help grow the local Ethereum ecosystem in West Africa. ",
+  "contributionDescription": "ETHAccra 2023 has come and gone, and we are so excited for the impact we have created. It was a local community initiative to help grow the Ethereum & L2(Optimism) ecosystem in West Africa. ETHAccra hackaton enabled participants to connect, learn, hack and build elevating web3 to solve local solutions.\nETHAccra successfully conducted a developer campus tour across Ghana with the goal in training developers, ignited the passion in budding web3 leaders, recruited new builders, armed them with practical know-how and unlock a universe of opportunities in the ecosystem, Optimism included. \n",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://docs.google.com/document/d/13_3pLlXotb6qt_FwHsK8ARHAz869c2ubwZvXzrmbKCQ/edit#heading=h.b5ztap71vxac",
+      "description": "Link to Smart Contracts Deployed on Optimism during ETHAccra hackathon."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://docs.google.com/document/d/1m1kxZ9CMTFJVu78yfeScyI-iVAgENkzUnwECjwWlATE/edit",
+      "description": "Number of wallet addresses created by users onboarded during educational program"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://docs.google.com/document/d/1XZSBfl_hZRkz2oICSQDrN6ncd_StvG4vDKzN66jshdY/edit#heading=h.19pbc4v9x9p",
+      "description": "ETHAccra Hackathon Facts & Figures"
+    }
+  ],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "Developer Ecosystem\nThe hackathon marked a significant milestone as the first of its kind in Ghana, paving the way for further innovation in the region. Many of the participants were first-time builders who were new to web3 technology. Hence ETHAccra has successfully welcomed and integrated these new builders into the ecosystem, and we remain committed to this mission. \n\nEnd User Experience and Adoption\nAdditionally during the Developer Campus tour we have onboard many participants into the Optimism ecosystem by setting up a web3 wallet and introducing them into the ecosystem. We also provided them with educational learning material on how to better navigate in the Optimism L2 ecosystem.\n",
+  "impactMetrics": [
+    {
+      "description": "Developer Campus Tour",
+      "number": 3,
+      "url": "https://docs.google.com/document/d/1lOFH65I5RZ0NOIwH1ayKDQbJo4jc7rqHCw7geO5O_GM/edit"
+    },
+    {
+      "description": "Smart Contract Deployed on Optimism",
+      "number": 9,
+      "url": "https://docs.google.com/document/d/13_3pLlXotb6qt_FwHsK8ARHAz869c2ubwZvXzrmbKCQ/edit#heading=h.b5ztap71vxac"
+    },
+    {
+      "description": "User onboarding - Number of wallets",
+      "number": 24,
+      "url": "https://docs.google.com/document/d/1m1kxZ9CMTFJVu78yfeScyI-iVAgENkzUnwECjwWlATE/edit#heading=h.h98a053ipago"
+    },
+    {
+      "description": "ETHAccra Hackathon Participants",
+      "number": 97,
+      "url": "https://docs.google.com/document/d/1XZSBfl_hZRkz2oICSQDrN6ncd_StvG4vDKzN66jshdY/edit#heading=h.19pbc4v9x9p"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0xbceED60F2a551C3729C11ebb7EcAc181BaA0F8F8",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "ETHAccra",
+  "applicantName": "ETHAccra",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9ac685a55bce6b515fC1Ea713146f6D099A5054b.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x9ac685a55bce6b515fC1Ea713146f6D099A5054b.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x9ac685a55bce6b515fC1Ea713146f6D099A5054b.json",
+  "RPGF3_Application_UID": "0xf41f199697d23be53eb353e02947670e439498081fd2c733ff8befea0c974c37",
+  "applicantAddress": "0x9ac685a55bce6b515fC1Ea713146f6D099A5054b"
+}

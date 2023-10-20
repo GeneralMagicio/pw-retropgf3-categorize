@@ -1,7 +1,7 @@
 {
   "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://707trades.com",
-  "bio": "Blockchain adopter since 2015",
+  "bio": "Lets make web3 the new world order!!!!",
   "contributionDescription": "I have been a founder of 2 start ups, one of them was based on web3.\nI can help in Governance, Developer Ecosystem and mainly in adoption of OP stack.\nKnowledge and understanding the use case of the chain is most important.\nI have been part of the blockchain since 2016, with LTC and XRP. \nMy focus areas will be of End user experience, if they are liking the UI/UX interface, speed, rpc chains working efficiently and more.\n\nhttps://www.forbes.com/sites/anniebrown/2020/11/19/mental-health--privacy-in-the-era-of-data-for-revenue-algorithmic-models/?sh=7f09c119577b",
   "contributionLinks": [
     {
@@ -30,14 +30,9 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "Project": "En Crypted",
-  "Applicant Type": "INDIVIDUAL",
-  "OSS Directory": "",
-  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xD6cb436B1634d9c4DEe2D6967b8A6aDABC2f89Ac.json",
-  "Githubs": "",
-  "Tags": "DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK",
-  "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Governance, Developer Ecosystem, End User Experience and Adoption, OP Stack",
-  "pwIsFlagged": false,
-  "pwCategory": "End User Experience and Adoption"
+  "displayName": "En Crypted",
+  "applicantName": "EnCrypted",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xD6cb436B1634d9c4DEe2D6967b8A6aDABC2f89Ac.json",
+  "RPGF3_Application_UID": "0x9af8dd1fdea2b169b6536a8cda0cfaa9c48b013a67a6c66349a4ceae251b6d98",
+  "applicantAddress": "0xD6cb436B1634d9c4DEe2D6967b8A6aDABC2f89Ac"
 }

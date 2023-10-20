@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://fugu.works",
-  "bio": "Web3 product studio",
+  "bio": "Web3 product studio, contributing to the Optimism Superchain",
   "contributionDescription": "We built the Superbridge (https://superbridge.app), an all in one solution for bridging assets to and from chains in the Superchain.\n\nThe Superbridge supports bridging ETH and ERC20 tokens to and from OP Mainnet, Base and Zora. With deployments to Mode, PGN, Orderly Network, Ancient8, Lyra and Aevo planned in the short term.\n\nWe've also partnered with Conduit (https://conduit.xyz), offering all testnets launched via their platform a free deployment of the Superbridge. You can read their announcement about the integration here https://twitter.com/KAndrewHuang/status/1707065523274739854.",
   "contributionLinks": [
     {
@@ -28,14 +28,10 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "Project": "Fugu Works",
-  "Applicant Type": "PROJECT",
-  "OSS Directory": "",
-  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xd3cedfC7b4cd9b5aa63AAFcD0287C85fBFc188aB.json",
-  "Githubs": "",
-  "Tags": "END_USER_EXPERIENCE_AND_ADOPTION",
-  "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Token Bridge",
-  "pwIsFlagged": false,
-  "pwCategory": "User Experience & Adoption"
+  "displayName": "Fugu Works",
+  "applicantName": "Fugu Works",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xd3cedfC7b4cd9b5aa63AAFcD0287C85fBFc188aB.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xd3cedfC7b4cd9b5aa63AAFcD0287C85fBFc188aB.json",
+  "RPGF3_Application_UID": "0x56a583f32463e7a80c30639a43a52fc5071bcff4ab3f068e6ae7d2c57db0b623",
+  "applicantAddress": "0xd3cedfC7b4cd9b5aa63AAFcD0287C85fBFc188aB"
 }

@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://sourcify.dev",
-  "bio": "Decentralized and open-source Solidity contract source code verification service",
+  "bio": "Sourcify is a decentralized and open-sourced Solidity contract source code verification service",
   "contributionDescription": "Sourcify provides an open-source alternative to existing proprietary source code verification tools for contracts\n\nAnyone can run their own Sourcify to trustlessly verify contracts. It's also a knowledge-gathering point for verification, whereas with close source tools, the learnings in verification and the exceptions that need to be handled are not shared with the community.\n\nThe data is open. You don't need to scrape to bulk download contracts. The contract repository is published to IPFS and S3 buckets regularly. \n\nSourcify also aims to foster the \"full matches\" with contract metadata hashes. This ensures cryptographic guarantees for the exactness of the contract. It's nicely demonstrated at playground.sourcify.dev.",
   "contributionLinks": [
     {
@@ -57,14 +57,11 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "Project": "Sourcify",
-  "Applicant Type": "PROJECT",
-  "OSS Directory": "Github Found",
-  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x92347362ACc955A6f3Dc7F9D34945AAaC944FFBF.json",
-  "Githubs": "https://github.com/ethereum/sourcify, https://github.com/sourcifyeth",
-  "Tags": "",
-  "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Smart Contract Platforms, Open Source, Contract Verification",
-  "pwIsFlagged": false,
-  "pwCategory": "Smart Contract Platforms"
+  "displayName": "Sourcify",
+  "applicantName": "sourcify.eth",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x92347362ACc955A6f3Dc7F9D34945AAaC944FFBF.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x92347362ACc955A6f3Dc7F9D34945AAaC944FFBF.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x92347362ACc955A6f3Dc7F9D34945AAaC944FFBF.json",
+  "RPGF3_Application_UID": "0x0cdf83271ae4293cc360b68edb92f4438ecf6d054ec1ec04a82fd7bd5b96c7ad",
+  "applicantAddress": "0x92347362ACc955A6f3Dc7F9D34945AAaC944FFBF"
 }

@@ -1,0 +1,47 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://twitter.com/lxg86861",
+  "bio": "hello ! It's great to be here.",
+  "contributionDescription": "I am actively involved in projects on Optimism and participate in collective governance. optimism is very rich in projects and I have had interactive experiences with trading, pledging, NFTs, contracts and more! It's a great program and I hope that optimism will grow and more and more people will participate in it!",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x4EE809D0e7b4Ab90474C515329E1409F16Ed9a26",
+      "description": "It contains a wealth of records"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "Promote optimism, let more people know about OP and get involved, participate in collective governance, make the data more fair, transparent and democratic, submit a suggestion after interacting with the program and the program might do something about it.",
+  "impactMetrics": [
+    {
+      "description": "onchain contracts",
+      "number": 1288,
+      "url": "https://optimistic.etherscan.io/address/0x4EE809D0e7b4Ab90474C515329E1409F16Ed9a26"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 918,
+      "description": "Roughly 900 incentives received."
+    }
+  ],
+  "payoutAddress": "0x4ee809d0e7b4ab90474c515329e1409f16ed9a26",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "cgxuanyu",
+  "applicantName": "xgxuanyu",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x4EE809D0e7b4Ab90474C515329E1409F16Ed9a26.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x4EE809D0e7b4Ab90474C515329E1409F16Ed9a26.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x4EE809D0e7b4Ab90474C515329E1409F16Ed9a26.json",
+  "RPGF3_Application_UID": "0x0b5a2d64f0627db0ef56efc257bd5c2c9dd2b163f6f79fa545ea9a6ab306ab43",
+  "applicantAddress": "0x4EE809D0e7b4Ab90474C515329E1409F16Ed9a26"
+}

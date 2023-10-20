@@ -1,0 +1,37 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://twitter.com/wesiyowesi69",
+  "bio": "when opportunity meets ability it is more than luck",
+  "contributionDescription": "In addition to participating in various events, my contribution to the optimism community is only to enliven them and to use the optimism network since it is the most optimistic in regards to facilitating transactions. Additionally, I assist in responding to problems or bugs within the optimism network.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://twitter.com/wesiyowesi69",
+      "description": "when opportunity meets ability it is more than luck"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "OP_STACK"
+  ],
+  "impactDescription": "Through my contribution to the optimism community, I enhance the various events held and utilize the optimism network in order to ensure that transactions are conducted efficiently. Moreover, I help to resolve any bugs or problems in the optimism network.",
+  "impactMetrics": [
+    {
+      "description": "downloads",
+      "number": 10,
+      "url": "https://twitter.com/wesiyowesi69"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x00024eACb7936b04ba5E07eDDFd7Fe701E7c66e0",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Agya Firdani",
+  "applicantName": "Agya Firdani",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x00024eACb7936b04ba5E07eDDFd7Fe701E7c66e0.json",
+  "RPGF3_Application_UID": "0x234eabde5e056bc8396967a9cb7f61e34a73cc7ecd21aaff8e12086b7400178a",
+  "applicantAddress": "0x00024eACb7936b04ba5E07eDDFd7Fe701E7c66e0"
+}

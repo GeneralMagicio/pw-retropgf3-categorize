@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
-  "websiteUrl": "https://github.com/optimism-java/hildr",
-  "bio": "Hildr is an OP Stack rollup client written in latest Java with GraalVM native.",
+  "websiteUrl": "https://grapebaba.github.io/",
+  "bio": "I am an OSS developer focus on blockchain area. I am working on a project Hildr which expect to implement the whole OP tech stack with Java/Kotlin. ",
   "contributionDescription": "For OP rollup client diversity, I created Hildr project which implemented OP rollup client with Java. It already supported Bedrock mainnet, testnet and Base mainnet, testnet. It is the third rollup client implementation besides the official Go version and a16z Rust version.",
   "contributionLinks": [
     {
@@ -46,14 +46,10 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "Project": "grapebaba",
-  "Applicant Type": "PROJECT",
-  "OSS Directory": "Address & Github Found",
-  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x56EdF679B0C80D528E17c5Ffe514dc9a1b254b9c.json",
-  "Githubs": "https://github.com/optimism-java/hildr",
-  "Tags": "",
-  "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Layer 2 Scaling, Blockchain Infrastructure",
-  "pwIsFlagged": false,
-  "pwCategory": "Blockchain Infrastructure"
+  "displayName": "grapebaba",
+  "applicantName": "grapebaba",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x56EdF679B0C80D528E17c5Ffe514dc9a1b254b9c.jpeg",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x56EdF679B0C80D528E17c5Ffe514dc9a1b254b9c.json",
+  "RPGF3_Application_UID": "0x4d6a8934a57ef082939fbf87ce03b8c57abaf7cb436eaa819fb9b5f9736ecd79",
+  "applicantAddress": "0x56EdF679B0C80D528E17c5Ffe514dc9a1b254b9c"
 }

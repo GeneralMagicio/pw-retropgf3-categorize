@@ -1,0 +1,113 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://www.turboeth.xyz/",
+  "bio": "Gm Frens! I'm Justin a core contributor to TurboETH. ",
+  "contributionDescription": "TurboETH is a web3 build system that helps developers scaffold a full-stack web3 application in minutes. Instead of manually integrating the protocols and tools that you need into your application, TurboETH lets devs easily pick the tools they want to use via our CLI, and automatically adds the integration alongside helper functions to the project. \n\nWe’ve also launched an open-source web3 component library called BUIDL. The library is an extension of shadcnUI, and gives devs pre-built components for their most common crypto interactions.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://www.turboeth.xyz/",
+      "description": "Home page for the project that showcases our integrations and documentation. "
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/turbo-eth/template-web3-app",
+      "description": "Project’s Github for the site and template application."
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/turbo-eth/create-turbo-eth",
+      "description": "We currently have a separate Github for the CLI tool."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://app.dework.xyz/turboeth/main-space-4251",
+      "description": "You can see the bounties we've given to our community here."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.figma.com/file/9dx62vlIjxFqNu4iU4g4kx/BUIDL-Core-Design-Kit?type=design&node-id=401-72&mode=design&t=zOi7qbb0cnvDEzlw-0",
+      "description": "The designs behind BUIDL components."
+    }
+  ],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "Our goal is to streamline the full-stack web3 application development process. In our experience, building a full-stack application is often a mess that leaves developers juggling dependencies, SDKs, and APIs. \n\nTurboETH helps application developers by making it extremely easy to add a new decentralized protocol or web3 service to your app. Over the course of this year, we’ve created a go-to destination for builders who want to make the jump from smart contracts to full-stack applications. And with ~80% of our builders being new to crypto or more junior developers, we believe that TurboETH is not only increasing the number of active builders in the Optimism Collective, but also helping to retain developers in their transition from launching contracts to building applications.",
+  "impactMetrics": [
+    {
+      "description": "Integrations",
+      "number": 21,
+      "url": "https://github.com/turbo-eth/template-web3-app/tree/integrations/integrations"
+    },
+    {
+      "description": "CLI Monthly Downloads",
+      "number": 525,
+      "url": "https://npm-stat.com/charts.html?package=create-turbo-eth&from=2022-09-28&to=2023-09-28"
+    },
+    {
+      "description": "GitClones",
+      "number": 600,
+      "url": "https://github.com/turbo-eth/template-web3-app/graphs/traffic"
+    },
+    {
+      "description": "Github Stars",
+      "number": 233,
+      "url": "https://github.com/turbo-eth/template-web3-app"
+    },
+    {
+      "description": "Github Forks",
+      "number": 62,
+      "url": "https://github.com/turbo-eth/template-web3-app"
+    },
+    {
+      "description": "Discord Community",
+      "number": 165,
+      "url": "https://discord.com/invite/U4jy7Xfh76"
+    },
+    {
+      "description": "OP Bounties and Funding for builders",
+      "number": 9387,
+      "url": "https://optimistic.etherscan.io/advanced-filter?fadd=0x4B5509687117aE7308188753ECbAEd61B3B1233c&tadd=0x4B5509687117aE7308188753ECbAEd61B3B1233c&txntype=2&tkn=0x4200000000000000000000000000000000000042&__cf_chl_rt_tk=.d5I4cf577V3W7.BQLznI7ZC2ZQju8pHOtvQNdhVcmk-1696962684-0-gaNycGzNDbs"
+    },
+    {
+      "description": "USDC Bounties and Funding for builders",
+      "number": 1906,
+      "url": "https://etherscan.io/advanced-filter?fadd=0xfdA84CFC7D83d9D744590280289160F8118966E5&txntype=2&tkn=0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 18271.88,
+      "description": ""
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 774.95,
+      "description": "Gitcoin Grants Round 18"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 633.52,
+      "description": "Gitcoin OSS Beta Round"
+    }
+  ],
+  "payoutAddress": "0x4B5509687117aE7308188753ECbAEd61B3B1233c",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "⚡️ TurboETH",
+  "applicantName": "Justin",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3417aD1d79D9508912E8d7f3B9167085500b12CE.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x3417aD1d79D9508912E8d7f3B9167085500b12CE.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x3417aD1d79D9508912E8d7f3B9167085500b12CE.json",
+  "RPGF3_Application_UID": "0xf4afe5bc5e36f35bdef48817c59d4e35a52bbab17bfbb946f0df3ef819539202",
+  "applicantAddress": "0x3417aD1d79D9508912E8d7f3B9167085500b12CE"
+}

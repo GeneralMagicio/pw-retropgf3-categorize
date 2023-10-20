@@ -1,0 +1,68 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://github.com/rakita/",
+  "bio": "revm author.\nReth core contributor.\npreviously OpenEthereum core contributor.",
+  "contributionDescription": "Revm has become a critical core component of the Ethereum ecosystem, \nused by various builders, researchers, devs, tooling, and even the client.\n\nRevm is an EVM written in the Rust that is focused on speed and simplicity. It has a fast and flexible implementation with a simple interface for easy consumption.\n\nNotably, Revm plays a central role in various high-impact projects. The Foundry was an early adopter, while Hardhat initiated its transition to Revm for their EDR runtime (previously known as rethnet) last year. On the infrastructure front, Revm is integrated inside Reth (Ethereum Execution Client), it enabled risc0 to effortlessly make zeth (a zkEVM), and has support for Optimism transactions, among other usages.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/bluealloy/revm/pull/682",
+      "description": "revm has support for Optimism transactions"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/foundry-rs/foundry/tree/master",
+      "description": "revm is the EVM that foundry leverages"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/paradigmxyz/reth",
+      "description": "revm is the EMV used by reth"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/NomicFoundation/hardhat/tree/rethnet/main",
+      "description": "Hardhat is transitioning to revm with their EDR upgrade."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.risczero.com/news/zeth-release",
+      "description": "zeth uses revm to create a zkEVM"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/ziyadedher/evm-bench",
+      "description": "revm is very fast"
+    }
+  ],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "OP_STACK"
+  ],
+  "impactDescription": "In essence, Revm is a library within the Ethereum ecosystem, powering key projects, fostering innovation, and contributing to the network's overall robustness and growth, it allows the Rust Ethereum ecosystem to flourish.\n\nIts impact is on both the tooling and the infrastructure, as it is a library its impact is propagated through the projects that use it, as mentioned above. It is unique as it provides common ground for a lot of different groups that have a need to use fast, stable and dependable Ethereum Virtual Machine in Rust.",
+  "impactMetrics": [
+    {
+      "description": "lib all time downloads",
+      "number": 216.385,
+      "url": "https://crates.io/crates/revm"
+    },
+    {
+      "description": "github stars",
+      "number": 1050,
+      "url": "https://github.com/bluealloy/revm/stargazers"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x98ea1E15E93fF392755Fd79E739c3ED60808B56B",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "revm",
+  "applicantName": "draganrakita",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x98ea1E15E93fF392755Fd79E739c3ED60808B56B.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x98ea1E15E93fF392755Fd79E739c3ED60808B56B.json",
+  "RPGF3_Application_UID": "0xfd039c82990da0bed2f74f106936835555b458adc3c45e7eb7caef7ed6b4e778",
+  "applicantAddress": "0x98ea1E15E93fF392755Fd79E739c3ED60808B56B"
+}

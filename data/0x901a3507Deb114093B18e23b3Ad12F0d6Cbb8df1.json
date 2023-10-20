@@ -1,0 +1,100 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://app.shapeshift.com/",
+  "bio": "Your Multichain Hub",
+  "contributionDescription": "ShapeShift DAO contributed to Optimism in two primary ways:\n\n1. Integration of OP Mainnet across ShapeShift's open-source stack in February 2023. \n\n2. Implementation of an OP Growth Grant (Cycle 11) for a novel incentive program executed in partnership with Gitcoin Passport and Thrivecoin. A no-sale rule was implemented by the Growth Council starting in Cycle 10, and ShapeShift DAO therefore shouldered all building costs associated with this program to support the End User Experience & Adoption of Optimism.\n",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/shapeshift/unchained/tree/develop/node/coinstacks/optimism",
+      "description": "Unchained [OP Mainnet]"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/shapeshift/hdwallet",
+      "description": "HD Wallet"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://app.shapeshift.com",
+      "description": "Web app"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://apps.apple.com/us/app/shapeshift-crypto-platform/id996569075",
+      "description": "iOS app"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://play.google.com/store/apps/details?id=com.shapeshift.droid_shapeshift&hl=en_US&gl=US&pli=1",
+      "description": "Android app"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://gov.optimism.io/t/gf-phase-2-growth-proposal-shapeshift-dao/5568/15",
+      "description": "OP Growth Grant [Proposal & Reporting]"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://app.thrivecoin.com/communities/shapeshift",
+      "description": "OP Growth Grant [Tracking & Distribution]"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "The no-sale Growth Grant onboarded over 27,000 unique users to OP Mainnet with 23,542 bridging txns, 22,311 swap txns, and over 1,648 fiat onramp txns. (Data source: Thrivecoin)\n\nOP-themed NFT campaign with over 2,000 unique mints. (Data source: OpenSea, Mercle)\n\nIncentive program and sybil-resistance knowledge sharing via OP forum; over 5,700 sybils removed and 45k OP saved. (Data source: Gitcoin Passport)\n\nOur interface has facilitated over $2.3m in bridging volume, $1.5m in trading volume, and continues to provide aggregated fiat on-ramp support to OP Mainnet for users in different jurisdictions worldwide. (Data sources: 0x, Lifi, Onramper/Banxa/MtPelerin)",
+  "impactMetrics": [
+    {
+      "description": "Growth Experiment Link 1 (All metrics)",
+      "number": 1,
+      "url": "https://docs.google.com/spreadsheets/d/19-PC4vRMJMPmoALOx6wch6-c3tCyC6SdMl_zjv5p338/edit#gid=843254530"
+    },
+    {
+      "description": "Growth Experiment Link 2 (Thrivecoin UI)",
+      "number": 2,
+      "url": "https://app.thrivecoin.com/communities/shapeshift"
+    },
+    {
+      "description": "Sybil Resistance [Case Study, OP Saved]",
+      "number": 45000,
+      "url": "https://www.gitcoin.co/blog/protecting-shapeshifts-op-rewards-program-a-case-study"
+    },
+    {
+      "description": "NFT Gear Minted",
+      "number": 2000,
+      "url": "https://opensea.io/collection/foxatar"
+    },
+    {
+      "description": "Bridging to OP Mainnet [LiFi furnished]",
+      "number": 2320928,
+      "url": "https://li.fi/"
+    },
+    {
+      "description": "Trading Volume [0x furnished]",
+      "number": 1568996,
+      "url": "https://0x.org/"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 0,
+      "description": "Growth Grant awarded in Cycle 11 was for END USERS only; no funding for the DAO."
+    }
+  ],
+  "payoutAddress": "0x6268d07327f4fb7380732dc6d63d95F88c0E083b",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "ShapeShift DAO",
+  "applicantName": "ShapeShift DAO",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x901a3507Deb114093B18e23b3Ad12F0d6Cbb8df1.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x901a3507Deb114093B18e23b3Ad12F0d6Cbb8df1.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x901a3507Deb114093B18e23b3Ad12F0d6Cbb8df1.json",
+  "RPGF3_Application_UID": "0x7074a17e86a1120f20f9da403aed0e6adcaacc844d22fc10f7d6fd8088e8c50f",
+  "applicantAddress": "0x901a3507Deb114093B18e23b3Ad12F0d6Cbb8df1"
+}

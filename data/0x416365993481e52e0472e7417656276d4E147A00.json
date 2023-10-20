@@ -1,0 +1,43 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://twitter.com/Mi884510",
+  "bio": "web3 Experiencer",
+  "contributionDescription": "Participate actively in optimism's community governance by voting on various decisions and important directions, while experiencing cross-chain experiences at different L2 levels. For fuel cost loss between L2s. optimism is more suitable for general users in terms of different fuel costs, convenience, and speed.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x416365993481e52e0472e7417656276d4e147a00",
+      "description": "Chain interaction data"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
+  "impactDescription": "Participate actively in optimism's community governance by voting on various decisions and important directions, while experiencing cross-chain experiences at different L2 levels. For fuel cost loss between L2s. optimism is more suitable for general users in terms of different fuel costs, convenience, and speed.",
+  "impactMetrics": [
+    {
+      "description": "Chain interaction data",
+      "number": 0,
+      "url": "https://optimistic.etherscan.io/address/0x416365993481e52e0472e7417656276d4e147a00"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 6000,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0x416365993481e52e0472e7417656276d4E147A00",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "1000",
+  "applicantName": "1000",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x416365993481e52e0472e7417656276d4E147A00.json",
+  "RPGF3_Application_UID": "0x5f1b13f7fec9d83e8627cfbf886f18945bef57ef9601cbe159b9e8a62410444d",
+  "applicantAddress": "0x416365993481e52e0472e7417656276d4E147A00"
+}

@@ -1,0 +1,57 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://linktr.ee/newtroarts",
+  "bio": "Newtro Arts, is a Latin American artists collective that aims to promote, educate, and introduce artists and cultural agents to blockchain technology and NFTs.",
+  "contributionDescription": "- Our partnership with Zora has led to monthly collective drops, generating so far an impressive 23,000 mints and $26,000 in revenue for artists. \n- Hosted pioneering panels in collaboration with renowned NFT creators like @botfrula, and curating innovative physical and tokenized exhibitions. \n- Tokenized artworks from indigeneous cultures featured at the Carrousel du Louvre, preserving indigenous cultural heritage. \n- We've educated more than 150 artists and connected with over 500 crypto enthusiasts through our free 'Arts and W3B' workshops since late 2022, fostering meaningful connections with influential Latin American NFT artists. \n\n\nNewtro Arts is empowering Latin American artists, preserving cultural heritage, and leaving an enduring legacy in the digital art and blockchain world",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://docs.google.com/document/d/1GJviAkZ42k-fgUDP-RMUK99BG-tKW2bwPZNjGQH5HyI/edit?usp=sharing",
+      "description": "File with more in depth exposition of our actions."
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "Through our monthly output of content and workshops, we are steadily onboarding artists to the Zora blockchain. We have already succesfully help migrate 60 top of the line latin american Tezos artists to the Zora blockchain. +23000 mints, +26000 total sales.\nThe Zora team has demonstrated to be deeply satisfied with our efforts, coordination and responsability. A contract has been signed to keep deploying Latin American collective drops in Zora. We are also negotiating a more artistic content related support with Zora.\nWe also won an Energy DAO (Zora blockchain) grant to make our web3 website, actually in early development.\n\nWe have demonstrated to be a well organized, hard working artistic collective, with a true organic relationship with the latin american artistic NFT ecosystem.",
+  "impactMetrics": [
+    {
+      "description": "Check the link!",
+      "number": 1,
+      "url": "https://docs.google.com/document/d/152qGH6jNAlKXyfYhsiSIosNNWDKLQq0fNabPwBxDNZs/edit?usp=sharing"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 1000,
+      "description": "Received for the first 2 collective drops in Zora"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 1600,
+      "description": "1 ETH grant from Energy DAO"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 1,
+      "description": "As long as we receive resources, we can create impact (as demonstrated)"
+    }
+  ],
+  "payoutAddress": "0xc83638AA24A3ee76846eBa0a1275045a5EBefaE9",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Newtro Arts",
+  "applicantName": "Newtro Arts",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x33912a0d6bEFf5Fb8e5B70688CE858D5e7E8104E.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x33912a0d6bEFf5Fb8e5B70688CE858D5e7E8104E.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x33912a0d6bEFf5Fb8e5B70688CE858D5e7E8104E.json",
+  "RPGF3_Application_UID": "0xee4fa88a475e80c188306d12d648ff98e2147d74970f06e662dfcfd602d08514",
+  "applicantAddress": "0x33912a0d6bEFf5Fb8e5B70688CE858D5e7E8104E"
+}

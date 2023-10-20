@@ -1,0 +1,80 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://optimism.curiahub.xyz/",
+  "bio": "Empowering DAOs with data-driven insights | Bridging goals and informed decisions 🚩🌐",
+  "contributionDescription": "The “OP Governance Analytics Dashboard” team has worked to democratize information within the Optimism Collective by developing a comprehensive DAO Governance Analytics Dashboard. Our contribution focused on amplifying governance accessibility by providing a user-friendly platform that distills complex governance metrics, such as participation, voter behavior, and power structures, into understandable insights. We also open-source our dashboard website repository for the community to use. Our mission is to foster informed participation, nurturing an inclusive decision-making environment, and reinforcing the effectiveness of the governance process. ",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://optimism.curiahub.xyz/",
+      "description": "Main dashboard website"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/curiahub/curia-gov-dashboard",
+      "description": "Open-source repository for the Curia Governance Dashboard website"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
+  "impactDescription": "Empowering and impacting the Optimism Collective, our OP Dashboard has elevated governance through transparent, data-driven strategies. By refining features and democratizing essential metrics (Participation, Voting Power, and more), we've enriched stakeholder engagement and decision-making, catalyzing a culture of accountable and astute governance across the collective.",
+  "impactMetrics": [
+    {
+      "description": "Users",
+      "number": 338,
+      "url": "https://curia.notion.site/OP-Governance-Analytics-Dashboard-5066b512c8774499891f8dced47d380e?pvs=4"
+    },
+    {
+      "description": "Views",
+      "number": 3950,
+      "url": "https://curia.notion.site/OP-Governance-Analytics-Dashboard-5066b512c8774499891f8dced47d380e?pvs=4"
+    },
+    {
+      "description": "Average Engagement Time",
+      "number": 3.28,
+      "url": "https://curia.notion.site/OP-Governance-Analytics-Dashboard-5066b512c8774499891f8dced47d380e?pvs=4"
+    },
+    {
+      "description": "Number of clicks to Agora",
+      "number": 106,
+      "url": "https://curia.notion.site/OP-Governance-Analytics-Dashboard-5066b512c8774499891f8dced47d380e?pvs=4"
+    },
+    {
+      "description": "Feedbacks & Interview",
+      "number": 68,
+      "url": "https://gov.optimism.io/t/final-op-governance-analytics-dashboard/6171/31?u=v3naru_curia"
+    },
+    {
+      "description": "API Key Request",
+      "number": 1,
+      "url": "https://curia.notion.site/OP-Governance-Analytics-Dashboard-5066b512c8774499891f8dced47d380e?pvs=4"
+    },
+    {
+      "description": "More delegate recognized",
+      "number": 8,
+      "url": "https://gov.optimism.io/t/retro-delegate-rewards-season-4/6878/17?u=v3naru_curia"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 24500,
+      "description": "We received the highest vote for Season 4, Intent 4 Mission."
+    }
+  ],
+  "payoutAddress": "0xE829ee7E7c45c4743576D1576245B97E02fAbF11",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "OP Governance Analytics Dashboard",
+  "applicantName": "OP Governance Analytics Dashboard",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x17296956b4E07Ff8931E4ff4eA06709FaB70b879.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x17296956b4E07Ff8931E4ff4eA06709FaB70b879.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x17296956b4E07Ff8931E4ff4eA06709FaB70b879.json",
+  "RPGF3_Application_UID": "0x7aa5c6b5ae2a379986944609e9c2486f58a0f5f0c50c5355633bcd470934c486",
+  "applicantAddress": "0x17296956b4E07Ff8931E4ff4eA06709FaB70b879"
+}

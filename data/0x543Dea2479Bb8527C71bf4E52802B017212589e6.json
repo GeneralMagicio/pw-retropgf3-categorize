@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://cryptoast.fr/",
-  "bio": "1st French-speaking media about crypto",
+  "bio": "Since 2017, Cryptoast has been the 1st French-language media dedicated to cryptocurrencies, educating and informing an audience of several million readers.",
   "contributionDescription": "As an education and information medium, we've been following Optimism's progress closely and have detailed it in numerous articles.\n\nVery early on (in April 2022) we offered a comprehensive guide to our community, entitled \"Optimism: the first optimistic rollups solution to improve Ethereum (ETH) scalability\". This enabled them to discover the ecosystem and understand how it works, as well as its advantages.\n\nAfterwards, we covered a number of news items, such as the $150 million fundraising in March 2022, the airdrop in June 2022, or more technical topics like the improvements brought about by the Bedrock update. We also reported on the network's successes, with articles on the number of active addresses and the number of transactions.",
   "contributionLinks": [
     {
@@ -58,14 +58,11 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "Project": "Cryptoast",
-  "Applicant Type": "PROJECT",
-  "OSS Directory": "",
-  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x543Dea2479Bb8527C71bf4E52802B017212589e6.json",
-  "Githubs": "",
-  "Tags": "END_USER_EXPERIENCE_AND_ADOPTION",
-  "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Finance (DeFi), Layer 2 Scaling, Education and Information, Media, Optimistic Rollups",
-  "pwIsFlagged": false,
-  "pwCategory": "Blockchain Education"
+  "displayName": "Cryptoast",
+  "applicantName": "Cryptoast",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x543Dea2479Bb8527C71bf4E52802B017212589e6.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x543Dea2479Bb8527C71bf4E52802B017212589e6.jpeg",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x543Dea2479Bb8527C71bf4E52802B017212589e6.json",
+  "RPGF3_Application_UID": "0x57cf04bdf56d0fae837e4c57625d7ce61acf6d20504b143308a4adca752a53ce",
+  "applicantAddress": "0x543Dea2479Bb8527C71bf4E52802B017212589e6"
 }

@@ -1,0 +1,135 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://linktr.ee/briciaguzman",
+  "bio": "Project Manager at General Magic, Co-Founder of Ethereum Mexico & Delegate at Optimism. Passionate about female/LATAM communities in web3. ",
+  "contributionDescription": "My journey with Optimism began in April when I embraced the role of a delegate advocating in Twitter Spaces, podcasts, and conducted workshops. I've fostered connections with diverse communities across Latin America. My aim is to empower anyone, regardless of their background, to participate and contribute to Optimism's Governance. I've collaborated with various groups and guided individuals in navigating the governance landscape. I also participated in a mission with H.E.R. LATAM, offering a workshop on governance principles and guiding aspiring delegates. My passion lies in bridging the gap between newcomers and governance.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://youtu.be/Oxt-4h25Cwk",
+      "description": "Delegate Corner Ep 2 with Bricia Guzman. Host: Sinkas"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/watch?v=u_i6MifH_eg ",
+      "description": "Optimism is changing the game with Brichis.eth (Spanish) Host: Espacio Cripto"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/i/spaces/1OdKrzzVgaqKX ",
+      "description": "More voices, more governance (Spanish) Host: Optimism en Español"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/i/spaces/1YqKDogydQoxV?s=20 ",
+      "description": "¿What is Retro PGF? | Opportunities within Optimism (Spanish) Host: Cryptonikas"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/elblockchainguy/status/1695901378550370324?s=20 ",
+      "description": "The RetroPGF Podcast #5: Ethereum Mexico. Host: Michael Vander Maiden"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://mirror.xyz/brichis.eth/S9xHag1bSjCnI4yD96U_iJFK0VTvZ6Y2vwk5uaBbF_w ",
+      "description": "Article: Optimism will change the politic in LATAM (Spanish) EC Newsletter"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/herdaolatam/status/1701789324721717676?s=20 ",
+      "description": "Introduction to Optimism (Spanish) Host: BIT Day at Cuernavaca"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/EspacioCripto/status/1701389445029605755?s=20",
+      "description": "Panel: The potential of public goods (Spanish) Host: Espacio Cripto"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/solowcripto/status/1702427034981707884?s=20 ",
+      "description": "Knowing Optimism with Brichis - Radiografía Solow #17 (Spanish) Host: Solow"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/EspacioCripto/status/1703883204174700749?s=20",
+      "description": "AMA RetroPGF (Spanish) Host: Espacio Cripto"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/CriptoCuriosas/status/1711760034340782160?s=20",
+      "description": "Governance, public goods and an Optimistic vision (Spanish) Host: Criptocuriosas"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://t.co/8M6fb7Ggpb",
+      "description": "Public Goods in web3 (Spanish) Host: Criptoconexión"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://mirror.xyz/brichis.eth/QHGzCpToK5WP1GDysdrundv8IlKfV9nTfDr-P1QlJvc ",
+      "description": "Article: Bridge to a Brighter Future (Spanish) HER LATAM Newsletter*"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/watch?v=4HyVVd4aEpc ",
+      "description": "Workshop: Governance in Optimism (Spanish) HER LATAM*"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/PushEnEspanol/status/1713926887439733206?s=20",
+      "description": "Talk on introduction to DAO governance (Spanish) Host: Push en Español"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
+  "impactDescription": "I naturally connected with diverse communities, inviting them to join Optimism's governance journey. My guidance and support facilitated participation in missions and grants, impacting communities like Espacio Cripto, Cryptoversidad, H.E.R. LATAM, and Cryptonikas. I also offered guidance to individuals and communities interested in governance. My passion lies in onboarding, and I intend to keep nurturing these connections.",
+  "impactMetrics": [
+    {
+      "description": "Support in project applications",
+      "number": 7,
+      "url": "https://docs.google.com/spreadsheets/d/1VKn6FC3Wcch3asxEXUhxvfnLmh95aToE1oq-SkMisIU/edit#gid=0"
+    },
+    {
+      "description": "1:1 Calls",
+      "number": 6,
+      "url": "https://docs.google.com/spreadsheets/d/16YqQHYBbxHxkKzX3NQFCi7jHYCqeynSEt3_qUyz8xjc/edit?usp=sharing"
+    },
+    {
+      "description": "Increase in delegated tokens (OP)",
+      "number": 56977.88,
+      "url": "https://optimism.curiahub.xyz/delegates/0x7fc80fad32ec41fd5cfcc14eee9c31953b6b4a8b"
+    },
+    {
+      "description": "Workshops about Optimism Gov (Spanish)",
+      "number": 1,
+      "url": "https://www.youtube.com/watch?v=4HyVVd4aEpc "
+    },
+    {
+      "description": "# of communities with which I interacted",
+      "number": 8,
+      "url": "https://docs.google.com/spreadsheets/d/14gpOVAyi8mzAib-FV5GGTFRewuCT9OUkDYXlSnewF6M/edit?usp=sharing"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 2240,
+      "description": "Part of the HER LATAM's mission that correspond to me"
+    }
+  ],
+  "payoutAddress": "0x0d2a8109e4a4572788210e01c45355ff5642d826",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Brichis",
+  "applicantName": "Brichis",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7fC80faD32Ec41fd5CfcC14EeE9C31953b6B4a8B.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x7fC80faD32Ec41fd5CfcC14EeE9C31953b6B4a8B.jpeg",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x7fC80faD32Ec41fd5CfcC14EeE9C31953b6B4a8B.json",
+  "RPGF3_Application_UID": "0xc372b8138f712875d1b7e852d7b78d58a6655caf672692565a310ae8d2405017",
+  "applicantAddress": "0x7fC80faD32Ec41fd5CfcC14EeE9C31953b6B4a8B"
+}

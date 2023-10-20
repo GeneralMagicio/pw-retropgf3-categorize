@@ -1,0 +1,71 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://buidlguidl.com",
+  "bio": "A curated group of Ethereum builders creating open source products, prototypes, and tutorials:\n\n🏗 Scaffold-ETH-2\n🏃‍♀️ SpeedRunEthereum.com",
+  "contributionDescription": "We built and actively maintain 🏗 Scaffold-ETH-2 which allows for rapid prototyping and full scale dApp development on Ethereum.  We also provide a free curriculum at 🏃‍♀️ SpeedRunEthereum.com. A hands on, guided series of challenges to learn how to code and deploy smart contracts all while receiving the assistance of our community. We are also giving small grants to up-and-coming high-impact developers. A yolo to 🏰 BuidlGuidl is a yolo to Ethereum and Optimism builders!!!\n\nWe are also building a tool to help with the next round of retropgf voting and project discovery. We weren't picked to be the main tool but we have built a great app and we think it will be a community favorite! ",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2.git",
+      "description": "Scaffold-ETH-2"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://speedrunethereum.com",
+      "description": "SpeedRunEthereum.com"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://BuidlGuidl.com",
+      "description": "BuidlGuidl.com lists all our cohort streams and small grants programs. "
+    }
+  ],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "BuidlGuidl focuses on developer growth and mentoring. We build tools and educational content to teach the next wave of builders how/what they can build on Ethereum and Optimism. \n\nWe have SpeedRunEthereum.com and Scaffold-ETH-2 as our main offerings but we are also creating lots of handy tools like abi.ninja!\n\nWe are constantly trying new things and building prototypes on the cutting edge.",
+  "impactMetrics": [
+    {
+      "description": "Builders Completing SpeedRunEthereum",
+      "number": 923,
+      "url": "https://speedrunethereum.com"
+    },
+    {
+      "description": "Builds/Prototypes",
+      "number": 890,
+      "url": "https://app.buidlguidl.com"
+    },
+    {
+      "description": "ETH streamed to ecosystem builders",
+      "number": 578.83,
+      "url": "https://buidlguidl.com"
+    },
+    {
+      "description": "ETH streamed to cohorts",
+      "number": 61.11,
+      "url": "https://buidlguidl.com"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 221154.75,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0x6746E304b9e37cb4B878ca9878f8b6fd7F7fBf85",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "🏰 BuidlGuidl",
+  "applicantName": "🏰 BuidlGuidl",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x6746E304b9e37cb4B878ca9878f8b6fd7F7fBf85.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x6746E304b9e37cb4B878ca9878f8b6fd7F7fBf85.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x6746E304b9e37cb4B878ca9878f8b6fd7F7fBf85.json",
+  "RPGF3_Application_UID": "0x8e8fab198e1f1e986b4d0c24992f1a57d42722a835c8afd80c5150184727b433",
+  "applicantAddress": "0x6746E304b9e37cb4B878ca9878f8b6fd7F7fBf85"
+}

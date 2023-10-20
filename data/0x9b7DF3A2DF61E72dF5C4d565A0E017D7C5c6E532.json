@@ -1,0 +1,55 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://chroniclelabs.org/",
+  "bio": "Head of BD & Growth at Chronicle Labs",
+  "contributionDescription": "\nThe Maker Oracle team, now known as \"Chronicle\", along with the Maker Protocol Engineering team developed a canonical DAI bridge named \"Teleport\" in late 2021. The design feature allowed for \"Fast Withdrawals\" of DAI from L2 to L1. The first deployments went live on Optimism and Arbitrum in November 2022 which allowed users to teleport DAI from L2 to L1 instantaneously. In practice, Teleport utilized off-chain Maker Oracle Feeds to communicate between L1 and L2. The Oracle implementation of Teleport provided the cross chain communication messaging while the Protocol Engineering team developed the smart contracts. \n\n\n\n",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/makerdao/dss-teleport",
+      "description": "Dai Teleport "
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x18d2CF2296c5b29343755E6B7e37679818913f88",
+      "description": "Optimism Teleport Contract "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.coindesk.com/tech/2022/11/16/defi-giant-makerdao-speeds-up-dai-transactions-and-withdrawals-expands-to-arbitrum-osmosis/",
+      "description": "Coindesk article about Teleport "
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "The development of a canonical DAI bridge following the launch of Optimism on mainnet in 2021 offered technical improvement for Optimism users as the 7 day fraud-proof waiting requirements were able to be bypassed for the first time. The initial debt ceiling per minting/burning was set to $1M DAI by Maker governance. Since the initial deployment of Teleport in November 2022, Maker governance has voted to change its multi-chain roadmap due to the “Endgame” which resulted in pausing further growth of Teleport, however it did provide an early technical improvement for Optimism users and was a pioneer in native asset burning/minting on chain.",
+  "impactMetrics": [
+    {
+      "description": "Dai debt ceiling for Teleport ",
+      "number": 999999,
+      "url": "https://mips.makerdao.com/mips/details/MIP69#authorization"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 0,
+      "description": "Chronicle has not received any grants or financial funds from Optimism"
+    }
+  ],
+  "payoutAddress": "0xfc9a6551Fd46f15358E266cE08216aaDcbd948Ba",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Chronicle Labs",
+  "applicantName": "Js",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x9b7DF3A2DF61E72dF5C4d565A0E017D7C5c6E532.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x9b7DF3A2DF61E72dF5C4d565A0E017D7C5c6E532.json",
+  "RPGF3_Application_UID": "0x71e4915fe3b20feeb949e572cfa4204ab8e0a62ae385a0cbb8474071fb86eb80",
+  "applicantAddress": "0x9b7DF3A2DF61E72dF5C4d565A0E017D7C5c6E532"
+}

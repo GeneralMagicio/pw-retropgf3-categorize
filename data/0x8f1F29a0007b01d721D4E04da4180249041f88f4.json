@@ -1,0 +1,61 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://ethereans.app",
+  "bio": "Build, maintain, and grow true DAOs effortlessly. Innovate without limits!",
+  "contributionDescription": "We are seeking funding to support three groundbreaking components that have revolutionized the decentralized space:\n\nOrganizations Contracts: Realize decentralized organizations with ultimate power in the hands of token holders, thanks to Optimism's cost-efficient governance infrastructure.\n\nColonies Contracts: Bridge Ethereum and Optimism for seamless multi-chain operations, enabling funds to flow effortlessly between platforms.\n\nCovenants Farming Contracts: Optimize Uniswap v2 and v3 farming on Optimism, incentivizing liquidity providers and utilizing v3's unique features.\n\nOur crowning achievement is our commitment to accessibility. Any individual can deploy these contracts using our factory system, armed with nothing more than a browser and devoid of intricate coding tools.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/EthereansOS/ETHComputationalOrgs",
+      "description": "The EthereansOS Protocol"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x092990aBbB3b3a4ae7deD38352602c4791a34829",
+      "description": "DAO created with EthereansOS Protocol"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "Organizations Contracts: We've launched decentralized DAOs on Optimism, empowering token holders and enhancing decentralized autonomy. Using Optimism's L2 scaling, we've led cost-effective governance innovations, enriching the Collective and reinforcing Ethereum's core values.\n\nColonies Contracts: Our efforts in linking Ethereum and Optimism through cross chain business models.\n\nCovenants Farming Contracts: Our farming contracts for Uniswap v2 and v3 on Optimism allow for rapid bootstrapping of liquidity in the Collective. \n\nOur primary achievement is democratizing access. We've enabled the Collective to easily deploy contracts, merging advanced solutions with user accessibility. The Optimism Collective is now a symbol of innovation and inclusivity.",
+  "impactMetrics": [
+    {
+      "description": "Farming Contract",
+      "number": 1,
+      "url": "https://optimistic.etherscan.io/address/0x9dccd9b2034652af13ad0dd424fe4eb046e7e659"
+    },
+    {
+      "description": "# of Commits",
+      "number": 415,
+      "url": "https://github.com/EthereansOS/Covenants-Core"
+    },
+    {
+      "description": "# of commits",
+      "number": 16,
+      "url": "https://github.com/EthereansOS/ETHComputationalOrgs/tree/new_org_factory"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 5990.16,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0x8f1F29a0007b01d721D4E04da4180249041f88f4",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "EthereansOS",
+  "applicantName": "Vasapower",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x8f1F29a0007b01d721D4E04da4180249041f88f4.json",
+  "RPGF3_Application_UID": "0xf09ece1ed5aae7b6bce0ec7a84e36117b2ef91cc27b4d7b5734bdde5d3c5b170",
+  "applicantAddress": "0x8f1F29a0007b01d721D4E04da4180249041f88f4"
+}

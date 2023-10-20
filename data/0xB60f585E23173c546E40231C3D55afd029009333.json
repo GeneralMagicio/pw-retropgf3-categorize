@@ -44,14 +44,10 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "Project": "Buildooor",
-  "Applicant Type": "INDIVIDUAL",
-  "OSS Directory": "Not Found",
-  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xB60f585E23173c546E40231C3D55afd029009333.json",
-  "Githubs": "https://github.com/buildooor/optimism-gas-tracker, https://github.com/buildooor/optimism-transaction-replay-tool, https://github.com/buildooor/github-attestation-action, https://github.com/buildooor/github-attestation-bot",
-  "Tags": "",
-  "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Smart Contract Platforms, Layer 2 Scaling, Blockchain Infrastructure",
-  "pwIsFlagged": false,
-  "pwCategory": "Developer Ecosystem"
+  "displayName": "Buildooor",
+  "applicantName": "Buildooor",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xB60f585E23173c546E40231C3D55afd029009333.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xB60f585E23173c546E40231C3D55afd029009333.json",
+  "RPGF3_Application_UID": "0x3bf8db795aafd69b9382756dfeeffa5a2f3353adb60158beb60665f4dd2a3f4d",
+  "applicantAddress": "0xB60f585E23173c546E40231C3D55afd029009333"
 }

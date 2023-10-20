@@ -1,7 +1,7 @@
 {
   "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://twitter.com/mrobitosan",
-  "bio": "BTC/ETH/BNB/OP/ARB Learn/Earn and Repeat",
+  "bio": "BTC/ETH/BNB/OP/ARB\nLearn/Earn and Repeat",
   "contributionDescription": "Early Adopter: I was among the early believers in Optimism, having been involved since the very first airdrop. My belief in its potential was clear from the start, and my early involvement not only gave me a deep understanding of its trajectory but also allowed me to support its initial phases.\nGovernance Participation: Recognizing the importance of decentralized decision-making, I have actively participated in voting on several governance matters. My votes were cast after thorough research, ensuring that I was making informed decisions that would further the success and health of the ecosystem.\n",
   "contributionLinks": [
     {
@@ -48,14 +48,11 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "Project": "Obito",
-  "Applicant Type": "INDIVIDUAL",
-  "OSS Directory": "",
-  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xa02d34e0f2235661F4b46b8A7BEDB42c4cce104b.json",
-  "Githubs": "",
-  "Tags": "COLLECTIVE_GOVERNANCE, END_USER_EXPERIENCE_AND_ADOPTION",
-  "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Governance Tokens, Early Adoption, Decentralized Governance, Community Building, User Adoption",
-  "pwIsFlagged": false,
-  "pwCategory": "Collective Governance"
+  "displayName": "Obito",
+  "applicantName": "Obito",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xa02d34e0f2235661F4b46b8A7BEDB42c4cce104b.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xa02d34e0f2235661F4b46b8A7BEDB42c4cce104b.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xa02d34e0f2235661F4b46b8A7BEDB42c4cce104b.json",
+  "RPGF3_Application_UID": "0x023156eb54bfb224875c849f104b21b599aa301262ed6ec425751a5429660693",
+  "applicantAddress": "0xa02d34e0f2235661F4b46b8A7BEDB42c4cce104b"
 }

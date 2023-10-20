@@ -38,14 +38,11 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "Project": "Proofivy",
-  "Applicant Type": "PROJECT",
-  "OSS Directory": "",
-  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x38189D98110A395A1366F1c95875f81fD458a6C3.json",
-  "Githubs": "",
-  "Tags": "END_USER_EXPERIENCE_AND_ADOPTION",
-  "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Identity, Adoption",
-  "pwIsFlagged": false,
-  "pwCategory": "User Experience & Adoption"
+  "displayName": "Proofivy",
+  "applicantName": "Proofivy",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x38189D98110A395A1366F1c95875f81fD458a6C3.jpeg",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x38189D98110A395A1366F1c95875f81fD458a6C3.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x38189D98110A395A1366F1c95875f81fD458a6C3.json",
+  "RPGF3_Application_UID": "0xf295943be951d3e4968d8c5e42378e5ace7da7c801f83033ae6b06b8c7fe9f03",
+  "applicantAddress": "0x38189D98110A395A1366F1c95875f81fD458a6C3"
 }

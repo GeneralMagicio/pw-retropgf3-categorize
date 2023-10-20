@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://clique.social/",
-  "bio": "Leading identity oracle & zk attestation provider on OP",
+  "bio": "We build identity oracles that allow users to create attestations based on arbitrary web2 private data by using cryptographic tools like TEE, ZKP, and MPC.",
   "contributionDescription": "As a leading identity data provider on Optimism, Clique has issued 1.14M out of total 1.49M attestations on OP AttestationStation, which are then used by major OP ecosystem protocols like Bungee, Tally, BoredTown, Clipper, Synapse, Perpetual, Orbiter, Aloe, Angle, and many others, for purposes like user screening, Sybil resistance, directional incentive issuance, etc. The attestations encompass users' Twitter metrics, GitHub prowess, Discord interactions, and on-chain behaviors.\nWe actively bring technical innovations to the OP ecosystem such as building the first-ever ZKP-based attestations, TEE-based web2 data attestations, as well as identity-based governance processes. In addition, we are an active contributor to the OP governance itself as a part of its protocol delegation program.",
   "contributionLinks": [
     {
@@ -72,14 +72,11 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "Project": "Clique",
-  "Applicant Type": "PROJECT",
-  "OSS Directory": "Address Found",
-  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x649c2DFCA22a41D30F0ddEFEA53C4D5f4797051a.json",
-  "Githubs": "",
-  "Tags": "",
-  "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Identity, Web2 Data Attestations, Governance Tokens",
-  "pwIsFlagged": false,
-  "pwCategory": "Decentralized Identity"
+  "displayName": "Clique",
+  "applicantName": "Clique",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x649c2DFCA22a41D30F0ddEFEA53C4D5f4797051a.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x649c2DFCA22a41D30F0ddEFEA53C4D5f4797051a.jpeg",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x649c2DFCA22a41D30F0ddEFEA53C4D5f4797051a.json",
+  "RPGF3_Application_UID": "0x33fda246eee3e56ffd2ae97a87574bdd1278439dde91e33a235368913d6da48a",
+  "applicantAddress": "0x649c2DFCA22a41D30F0ddEFEA53C4D5f4797051a"
 }

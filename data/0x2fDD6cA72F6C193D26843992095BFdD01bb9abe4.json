@@ -1,0 +1,37 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://t.co/QaPTBtqpU8",
+  "bio": "hi im full stack",
+  "contributionDescription": "i have many transaction on optimism network, i am an active user bridger to optimism network. i do this from task on rabbithole, that platform have many quest for transaction on optimism network. its very helpfull for explore optimism network. i do task on galxe and taho wallet too for explore optimism network more.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x2fDD6cA72F6C193D26843992095BFdD01bb9abe4",
+      "description": "i have 265 transaction on optimism network"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "As an Optimism Network user, I contribute by storing valuable data in the blockchain, actively participating in open-source projects, providing feedback, and engaging in community discussions to enhance technology development. Holding the network's cryptocurrency supports liquidity and growth, while adhering to regulations and participating in social networks and communities fosters knowledge sharing. These multifaceted contributions aim to actively support Optimism Network's development and success.",
+  "impactMetrics": [
+    {
+      "description": "address",
+      "number": 265,
+      "url": "https://optimistic.etherscan.io/address/0x2fDD6cA72F6C193D26843992095BFdD01bb9abe4"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x2fDD6cA72F6C193D26843992095BFdD01bb9abe4",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Herdian",
+  "applicantName": "Kyunxixixi",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2fDD6cA72F6C193D26843992095BFdD01bb9abe4.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x2fDD6cA72F6C193D26843992095BFdD01bb9abe4.json",
+  "RPGF3_Application_UID": "0x020c6f636e1a7ce30186fb1bdf49dad5cbe3d6462fed2312da1c48258911bdce",
+  "applicantAddress": "0x2fDD6cA72F6C193D26843992095BFdD01bb9abe4"
+}

@@ -1,0 +1,38 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://twitter.com/farid_agourram",
+  "bio": "Crypto enthusiast",
+  "contributionDescription": "I am a proud Op token holder and user of some protocols on the Optimism ecosystem such as using some Bridges buying tokens using Uniswap and staking getting some NFTs interacting with the optimism foundation by claiming the first airdrop and sending some tokens...",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x15A13De998735Ab46d2d6BD5C73Bee84bd57aCfF",
+      "description": "Optimism"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "I started promoting the Optimism project when it was called Optimistic, I was sharing the advantages of Optimism network such as how the gas fees are way lower than the ETH Network and also the huge difference in the term of transaction speed and the amout of transactions per sec.. i used gmail and twiter ",
+  "impactMetrics": [
+    {
+      "description": "R",
+      "number": 100,
+      "url": "https://twitter.com/farid_agourram"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x15A13De998735Ab46d2d6BD5C73Bee84bd57aCfF",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Redfa",
+  "applicantName": "Redfa",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x15A13De998735Ab46d2d6BD5C73Bee84bd57aCfF.json",
+  "RPGF3_Application_UID": "0x91185f543bc464bae440e857273be6d2e77efed8e8d262084e6c016d83878621",
+  "applicantAddress": "0x15A13De998735Ab46d2d6BD5C73Bee84bd57aCfF"
+}

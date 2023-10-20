@@ -29,14 +29,10 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "Project": "egosys-records",
-  "Applicant Type": "PROJECT",
-  "OSS Directory": "",
-  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x39485bE2B0b994B7F7696984187c130041deD1B5.json",
-  "Githubs": "",
-  "Tags": "END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK",
-  "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Media Production Studio, Music Industry, Community Engagement, Multi-chain Initiative, User Experience and Adoption",
-  "pwIsFlagged": false,
-  "pwCategory": "Community Building"
+  "displayName": "egosys-records",
+  "applicantName": "egosys",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x39485bE2B0b994B7F7696984187c130041deD1B5.jpeg",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x39485bE2B0b994B7F7696984187c130041deD1B5.json",
+  "RPGF3_Application_UID": "0xdf44dd08e3b52c7a89905f4c0cb5725742d9e07c57e1f85e42a80b7cfab60ed9",
+  "applicantAddress": "0x39485bE2B0b994B7F7696984187c130041deD1B5"
 }

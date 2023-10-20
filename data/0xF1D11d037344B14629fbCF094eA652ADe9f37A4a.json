@@ -1,7 +1,7 @@
 {
   "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://twitter.com/R0meji",
-  "bio": "Just its me :D",
+  "bio": "I'm passionate about crypto-currencies and decentralized finance, I like to follow and contribute to the technological evolution of this sector. ",
   "contributionDescription": "I've translated about 42 articles from the Optimism blog, which you can read on my medium : \nhttps://medium.com/@Romeji/list/optimism-france-947c184fb663\n\nI've made a few twitter threads about optimism technology: https://x.com/R0meji/status/1703090598675104184?s=20",
   "contributionLinks": [
     {
@@ -50,14 +50,11 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "Project": "romeji",
-  "Applicant Type": "INDIVIDUAL",
-  "OSS Directory": "",
-  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xF1D11d037344B14629fbCF094eA652ADe9f37A4a.json",
-  "Githubs": "",
-  "Tags": "END_USER_EXPERIENCE_AND_ADOPTION",
-  "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "END_USER_EXPERIENCE_AND_ADOPTION",
-  "pwIsFlagged": false,
-  "pwCategory": "End User Experience and Adoption"
+  "displayName": "romeji",
+  "applicantName": "romeji",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xF1D11d037344B14629fbCF094eA652ADe9f37A4a.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xF1D11d037344B14629fbCF094eA652ADe9f37A4a.jpeg",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xF1D11d037344B14629fbCF094eA652ADe9f37A4a.json",
+  "RPGF3_Application_UID": "0x42973831828c000d6c8d01712c57be954f9510d5d5eb9785b2c9288093682394",
+  "applicantAddress": "0xF1D11d037344B14629fbCF094eA652ADe9f37A4a"
 }

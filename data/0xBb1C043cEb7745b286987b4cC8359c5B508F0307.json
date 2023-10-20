@@ -1,29 +1,39 @@
 {
   "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://www.sound.xyz/user/nhagio.eth",
-  "bio": "┣▇▇▇═─Garbage Collector 🏴‍☠️👀",
-  "contributionDescription": "I have minted a lot of music on the OP chain. Since the leading onchain music platform Sound.xyz transitioned to the OP chain, I have eagerly switched to this and continued to mint my favorite songs. This not only shows support and solidarity with web3 artists in this music revolution but also helps me discover and enjoy their unique and creative musical works. I hope that minting music on the OP chain will contribute to the development and expansion of web3 music platforms while creating a fair and diverse environment for independent artists.",
+  "bio": "Garbage Collector 👀🏴‍☠️🩸",
+  "contributionDescription": "I was a very early supporter of web3 artists, especially in the music industry, having collected/minted a lot of music on various platforms such as Sound, Decent, Zora, Anotherblock, Base,... especially especially when these support the OP blockchain. I currently have thousands of editions music onchain on the OP blockchain in my collection. Not only does this show support for web3 artists, but it also helps me discover and enjoy their unique, creative music.\n\nIn addition, I constantly write reviews, introducing artists and their music to the public so that more people know. My reviews attract a lot of people interested in learning about web3 music as well as collecting onchain music, especially through Sound, the leading web3 music platform today.",
   "contributionLinks": [
     {
       "type": "OTHER",
       "url": "https://www.sound.xyz/user/nhagio.eth",
-      "description": "My profile on sound.xyz"
+      "description": "My profile on sound.xyz for collecting, minting"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/nhagio_o",
+      "description": "My X profile for writing review artists, music"
     }
   ],
   "impactCategory": [
     "END_USER_EXPERIENCE_AND_ADOPTION"
   ],
-  "impactDescription": "I am an early supporter of web3 artists and have minted many of their music releases on web3 music platforms. I am thrilled that the leading music platform, Sound.xyz, has transitioned to the OP chain, further affirming the potential and future of web3 music. I am excited to be a part of this community and share the unique musical works of web3 artists. Additionally, I have introduced many friends to join the #MusicNFT movement and support independent artists. I believe that spreading awareness and encouraging others to join this community will contribute to the growth and prosperity of web3 music. I am proud to be a part of the web3 music revolution and will continue to support and participate in its development, as well as the development of the OP chain.",
+  "impactDescription": "I hope that the extremely easy and cheap collecting/minting of music on the OP chain will contribute to the development and expansion of the web3 music industry, and create a fair and diverse environment for artists, creators, contributing to helping the creative economy grow stronger.\n\nAs a reviewer, I hope to bring the public useful information about music, artists and creators, helping more people know and participate in the onchain music movement in particular and creative economy in general as well as supporting artists and creators, and demonstrating the great potential of OP chain, showing everyone the great advantages of OP chain and worthy of being an L2 blockchain today leading with a lot of potential for future development.",
   "impactMetrics": [
     {
       "description": "Artist Backed",
-      "number": 33,
+      "number": 47,
       "url": "https://www.sound.xyz/user/nhagio.eth"
     },
     {
       "description": "Collected",
-      "number": 309,
+      "number": 359,
       "url": "https://www.sound.xyz/user/nhagio.eth"
+    },
+    {
+      "description": "Review post",
+      "number": 20,
+      "url": "https://twitter.com/nhagio_o"
     }
   ],
   "fundingSources": [],
@@ -33,14 +43,11 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "Project": "Windy|∞🦇🔊🛡🐫",
-  "Applicant Type": "INDIVIDUAL",
-  "OSS Directory": "",
-  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xBb1C043cEb7745b286987b4cC8359c5B508F0307.json",
-  "Githubs": "",
-  "Tags": "END_USER_EXPERIENCE_AND_ADOPTION",
-  "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Music Platforms",
-  "pwIsFlagged": false,
-  "pwCategory": "End User Experience and Adoption"
+  "displayName": "Windy|∞🦇🔊🛡🐫",
+  "applicantName": "Windy",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xBb1C043cEb7745b286987b4cC8359c5B508F0307.jpeg",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xBb1C043cEb7745b286987b4cC8359c5B508F0307.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xBb1C043cEb7745b286987b4cC8359c5B508F0307.json",
+  "RPGF3_Application_UID": "0x1d760b52bc3b6c68b367deac9ba5c07c7d92bb5ff78cd7ddfc8202924bce639d",
+  "applicantAddress": "0xBb1C043cEb7745b286987b4cC8359c5B508F0307"
 }

@@ -1,0 +1,162 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://linktr.ee/banklessua",
+  "bio": "Bankless Ukraine, Is the part of The International Media Nodes, translate and create content for people who speak Ukrainian\n",
+  "contributionDescription": "Bankless Ukraine participated in Optimism DAOs Season 4 to create multimedia content in Ukranian langauge. We are young crypto enthusiasts who are passionate about the achievements of the Optimism ecosystem, and we would be happy to share information about your excellent network with Ukrainian-speaking people.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://banklessua.substack.com/",
+      "description": "Here, you can explore numerous articles about the Optimism network/ecosystem. "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/banklessUA",
+      "description": "here u can find a lot of our posts about Optimism"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://mirror.xyz/banklessua.eth/oJpPBJnK_GCYE2G-g448-CHTpwWNHRNBvGhL0Y5xQsA",
+      "description": "Mirror page"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "We were able to help propagate the Optimistic Vision and mission to a community of Ukranian speakers via \n\nNewsletters 1.4k views per month\n\n1. The Bankless Guide to Base \n2. Optimism Provides a Shared Resource For DAOs\n3. The Optimism Collective’s RetroPGF Learning Journey | Layer 2 Review\n4. Welcoming Base\n5. OP Grants Stack: The Wellspring of Regenerative Cryptoeconomics | Layer 2 Review\n6. What Is the Law of Chains?\n7. Optimism Synthesizes a New Economic Paradigm | Layer 2 Review\n8. Hands-On Learning for Optimistic Hearts | BanklessDAO Weekly Rollup\n9. Optimism’s Governance Is Tuned Into Community\n10. From the Ashes of Moloch, Ether’s Phoenix Rises | Layer 2 Review\n\nSocial Media posts 2k+ views and 200+ Engagement \n\n1. Posts on Telegram + X (Twitter)\n",
+  "impactMetrics": [
+    {
+      "description": "Views",
+      "number": 97,
+      "url": "https://banklessua.substack.com/p/base-bankless"
+    },
+    {
+      "description": "Views",
+      "number": 76,
+      "url": "https://banklessua.substack.com/p/dao-optimism-colective"
+    },
+    {
+      "description": "Views",
+      "number": 73,
+      "url": "https://banklessua.substack.com/p/retropgf-optimism"
+    },
+    {
+      "description": "Views",
+      "number": 62,
+      "url": "https://banklessua.substack.com/p/base"
+    },
+    {
+      "description": "Views",
+      "number": 60,
+      "url": "https://banklessua.substack.com/p/op-layer2-grands"
+    },
+    {
+      "description": "Views",
+      "number": 69,
+      "url": "https://banklessua.substack.com/p/zakon-lancuhiv-optimism"
+    },
+    {
+      "description": "Views",
+      "number": 61,
+      "url": "https://banklessua.substack.com/p/layer2"
+    },
+    {
+      "description": "Views",
+      "number": 62,
+      "url": "https://banklessua.substack.com/p/0f3"
+    },
+    {
+      "description": "Views",
+      "number": 72,
+      "url": "https://banklessua.substack.com/p/optimism-upravlinnja-spilnota"
+    },
+    {
+      "description": "Views",
+      "number": 70,
+      "url": "https://banklessua.substack.com/p/layer-2"
+    },
+    {
+      "description": "Views",
+      "number": 356,
+      "url": "https://t.me/banklessUA/331"
+    },
+    {
+      "description": "Views",
+      "number": 414,
+      "url": "https://t.me/banklessUA/345"
+    },
+    {
+      "description": "53 engagement and Views",
+      "number": 508,
+      "url": "https://x.com/banklessUA/status/1713461309650383132?s=20"
+    },
+    {
+      "description": "30 engagement  and Views -",
+      "number": 201,
+      "url": "https://x.com/banklessUA/status/1708130213350035709?s=20"
+    },
+    {
+      "description": "Views",
+      "number": 86,
+      "url": "https://x.com/banklessUA/status/1702620875982336338?s=20"
+    },
+    {
+      "description": "Collected/mints",
+      "number": 6,
+      "url": "https://mirror.xyz/banklessua.eth/R7lwEJ4AwmE5l6x_VQgSCFRFYwcgb9wgtX0HPXXG5cM"
+    },
+    {
+      "description": "Collected/mints",
+      "number": 3,
+      "url": "https://mirror.xyz/banklessua.eth/uo1MJk0Z-4pBPwimOD3tUioljj_es81_LpTXmQjoQP8"
+    },
+    {
+      "description": "Collected/mints",
+      "number": 3,
+      "url": "https://mirror.xyz/banklessua.eth/ojExveCfcLFs7o0e628qlXMQbalPzPeRJH27p4K1_2U"
+    },
+    {
+      "description": "Views",
+      "number": 119,
+      "url": "https://x.com/banklessUA/status/1698383887271944351?s=20"
+    },
+    {
+      "description": "Views",
+      "number": 74,
+      "url": "https://x.com/banklessUA/status/1686094111651041280?s=20"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 600,
+      "description": "RPGF2 600OP Part of BanklessDAO RPGF2 distribution"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 348.46,
+      "description": "Giveth"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 1300,
+      "description": "Gitcoin GG18"
+    }
+  ],
+  "payoutAddress": "0xCEe10DA6B44B83b8F336fAF006Fe44612885B905",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "BanklessUA",
+  "applicantName": "Romko and BanklessUA team",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7292667C8A55bd56d496D2EDcB5Cfb37D554f943.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x7292667C8A55bd56d496D2EDcB5Cfb37D554f943.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x7292667C8A55bd56d496D2EDcB5Cfb37D554f943.json",
+  "RPGF3_Application_UID": "0x611994cd316c183dad42d5973cb2f5e6886082804e67611ee772d2cf7914a133",
+  "applicantAddress": "0x7292667C8A55bd56d496D2EDcB5Cfb37D554f943"
+}

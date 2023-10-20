@@ -1,0 +1,76 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://twitter.com/MalluXcapital",
+  "bio": "I'm a defi nerd who loves charts and their patterns. I create content in Malayalam ( a local Indian language) to educate others about important topics.",
+  "contributionDescription": "I have been an early adopter of the Optimism ecosystem since Synthetix launched on the platform. I actively participate in various DeFi communities such as Synthetix, Polynomial, and Velodrome, contributing in multiple ways and providing feedback to these projects.\n\nOne of my main activities is creating content in Malayalam, a local Indian language, to educate people in my community about Optimism and its DeFi protocols. My goal is to onboard as many individuals as possible by providing them with the right knowledge and guidance in content creation.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/@mallucryptologist",
+      "description": "My main content creation platform is YouTube, where I educate prople"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "As an early Synthetix user, I firmly believe that Optimism played a crucial role in the protocol's success. I actively participated in community meetings and discussions to foster the growth of Optimism within the DeFi ecosystem.\n\nOn my part, I created educational content about Optimism and layer 2 mechanisms for the Malayalam-speaking community. The feedback from the community was overwhelmingly positive, and I believe I played a role in onboarding new users and realistically educating them about Optimism.",
+  "impactMetrics": [
+    {
+      "description": "Views",
+      "number": 418,
+      "url": "https://youtu.be/Cw2m9KPFBrA"
+    },
+    {
+      "description": "Watch hour",
+      "number": 23.1,
+      "url": "https://youtu.be/Cw2m9KPFBrA"
+    },
+    {
+      "description": "Impressions",
+      "number": 3300,
+      "url": "https://youtu.be/Cw2m9KPFBrA"
+    },
+    {
+      "description": "Like",
+      "number": 43,
+      "url": "https://twitter.com/MalluXcapital/status/1572316136653426691"
+    },
+    {
+      "description": "Retweet",
+      "number": 43,
+      "url": "https://twitter.com/MalluXcapital/status/1572316136653426691"
+    },
+    {
+      "description": "Likes",
+      "number": 38,
+      "url": "https://twitter.com/MalluXcapital/status/1570458916039036928"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 404,
+      "description": "Revenue got from Youtube in the past 2 years of content creation."
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 1000,
+      "description": "https://twitter.com/MalluXcapital/status/1474440972591198209 Push proto contest"
+    }
+  ],
+  "payoutAddress": "0x9CDb231Cd70B7522c2b43ad18240649f9599F4BE",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "mallucryptologist",
+  "applicantName": "mallucryptologist",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9CDb231Cd70B7522c2b43ad18240649f9599F4BE.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x9CDb231Cd70B7522c2b43ad18240649f9599F4BE.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x9CDb231Cd70B7522c2b43ad18240649f9599F4BE.json",
+  "RPGF3_Application_UID": "0xca890c41ec9593d08f94d8d1bcb7d88a99c430824ec57953a9005c43eb421b9d",
+  "applicantAddress": "0x9CDb231Cd70B7522c2b43ad18240649f9599F4BE"
+}

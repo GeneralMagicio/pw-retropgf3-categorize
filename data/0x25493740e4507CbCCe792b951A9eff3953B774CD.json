@@ -1,0 +1,38 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://github.com/galechus",
+  "bio": "I'm a seasoned front/UI/UX programmer with a deep passion for and enthusiasm about blockchain technology.",
+  "contributionDescription": "My aim is to host training sessions that showcase the practical synergy between front-end technologies, such as React.js and Next.js, and blockchain technology on the Optimism network. Through these workshops, participants will gain hands-on experience in bridging the worlds of web development and blockchain on a network known for its scalability and efficiency. I'm passionate about demystifying this innovative combination, enabling attendees to harness the potential of blockchain within their web applications. These sessions will serve as a platform for fostering understanding and proficiency in this exciting intersection of technologies, making it accessible and applicable in real-world projects.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/galechus",
+      "description": "My GitHub"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "My contribution involves introducing new developers to Optimism technology. This effort aims to expand the talent pool and expertise within the Optimism community, fostering growth and innovation. By nurturing and educating fresh talents, I intend to empower the collective with a stronger developer base, enabling the network to reach new heights in scalability and efficiency.",
+  "impactMetrics": [
+    {
+      "description": "I don't know what to write here...",
+      "number": 0,
+      "url": "https://github.com/galechus"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x25493740e4507CbCCe792b951A9eff3953B774CD",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "galechus",
+  "applicantName": "galechus",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x25493740e4507CbCCe792b951A9eff3953B774CD.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x25493740e4507CbCCe792b951A9eff3953B774CD.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x25493740e4507CbCCe792b951A9eff3953B774CD.json",
+  "RPGF3_Application_UID": "0x7f762688e0e60985bdeaf73e01d14dcb28e97a24790f28945ca67bd5ea61c05a",
+  "applicantAddress": "0x25493740e4507CbCCe792b951A9eff3953B774CD"
+}

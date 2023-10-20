@@ -1,7 +1,7 @@
 {
   "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://github.com/Synnott5",
-  "bio": "Cryptomania",
+  "bio": "I love the crypto actuality and everything that develops around it!",
   "contributionDescription": "I love the crypto actuality and everything that develops around it! I ear some podcast every day for to be up-to-date. I read on some official site.  I invest, hodl and invest in DEFI. Have a nice day day community!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
   "contributionLinks": [
     {
@@ -30,15 +30,9 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "Project": "Synnott5",
-  "Applicant Type": "INDIVIDUAL",
-  "OSS Directory": "Not Found",
-  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xC255261650448b444E81432eAF76b160d8179765.json",
-  "Githubs": "https://github.com/Synnott5",
-  "Tags": "",
-  "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Finance (DeFi)",
-  "pwIsFlagged": true,
-  "pwFlaggedReason": "This application should be flagged for violating the rules on promises of future impact, lack of clarity on valid contribution, and potentially being outside of the RetroPGF's scope. The applicant only vaguely suggests they will stay active and up-to-date, without mentioning any specific past impacts or contributions. The impact metrics also do not seem relevant or measurable.",
-  "pwCategory": "End User Experience and Adoption"
+  "displayName": "Synnott5",
+  "applicantName": "Synnott5",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xC255261650448b444E81432eAF76b160d8179765.json",
+  "RPGF3_Application_UID": "0xa033e366651ff34cd910415177a960c9e67caef010d4c1ad80bb6bf3ba8532fe",
+  "applicantAddress": "0xC255261650448b444E81432eAF76b160d8179765"
 }

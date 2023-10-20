@@ -1,0 +1,112 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://github.com/0xs34n",
+  "bio": "Building dapps with rollups",
+  "contributionDescription": "I built open-source educational and implementational materials for blockchains. I was a hacker-in-residence for L4 Ventures in Toronto in 2017, where I built www.blockchaindemo.io www.coindemo.io, and blockchain open-source projects totaling over 4,000 GitHub stars.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/0xs34n/blockchain-cli",
+      "description": "A minimal blockchain command-line interface implementation"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/0xs34n/coin-cli",
+      "description": "A minimal cryptocurrency CLI implementation in TypeScript "
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/0xs34n/blockchain",
+      "description": "Code for learning the blockchain data structure"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://blockchaindemo.io",
+      "description": "Visual demonstration of blockchain technology"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.producthunt.com/products/blockchain-demo#blockchain-demo-2",
+      "description": "Product Reception of Visual demonstration of blockchain technology"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://coindemo.io",
+      "description": "Visual demonstration of how bitcoin transactions work"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://producthunt.com/products/coin-demo#coin-demo",
+      "description": "Product Reception of Visual demonstration of how bitcoin transactions work"
+    }
+  ],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "Developer Ecosystem:\n\nMy work on block-cli, coin-cli, and blockchain code resources has helped developers understand the underlying technology of Optimism, the blockchain.  It allowed developers to create their own implementation of the blockchain with a reference to a concise, clear, and explicit code base. I've achieved over 2,000 GitHub stars for thousands of developers worldwide.\n\nEnd User Experience & AdoptionL:\n\nMy work on blockchaindemo.io and coindemo.io has been a go-to educational resource for teaching blockchain worldwide. It has been used in university lectures, law school, and conferences to explain the blockchain architecture. It has been used by hundreds of thousands of crypto-curious people worldwide. It has been awarded the no. 1 Product on Product Hunt.",
+  "impactMetrics": [
+    {
+      "description": "Downloads all-time - Blockchain CLI NPM",
+      "number": 8120,
+      "url": "https://www.npmjs.com/package/blockchain-cli"
+    },
+    {
+      "description": "GitHub Stars - Blockchain CLI",
+      "number": 1100,
+      "url": "https://github.com/0xs34n/blockchain-cli"
+    },
+    {
+      "description": "Users all-time - Blockchaindemo.io",
+      "number": 313900,
+      "url": "https://blockchaindemo.io"
+    },
+    {
+      "description": "Users all-time - Coindemo.io",
+      "number": 59910,
+      "url": "https://coindemo.io"
+    },
+    {
+      "description": "GitHub Stars - Blockchain Demo Code",
+      "number": 898,
+      "url": "https://github.com/0xs34n/blockchain"
+    },
+    {
+      "description": "Downloads all-time - Coin CLI NPM",
+      "number": 734,
+      "url": "https://www.npmjs.com/package/coin-cli"
+    },
+    {
+      "description": "GitHub Stars - Coin CLI ",
+      "number": 188,
+      "url": "https://github.com/0xs34n/coin-cli"
+    },
+    {
+      "description": "Product Hunt Votes - Blockchain Demo",
+      "number": 3601,
+      "url": "https://www.producthunt.com/products/blockchain-demo#blockchain-demo-2"
+    },
+    {
+      "description": "Product Hunt Votes - Blockchain Demo 2.0",
+      "number": 2034,
+      "url": "https://www.producthunt.com/products/blockchain-demo#blockchain-demo-2-0-2"
+    },
+    {
+      "description": "Product Hunt Votes - Coin Demo",
+      "number": 1001,
+      "url": "https://www.producthunt.com/products/coin-demo#coin-demo"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0xA0B39867b0999DcF7Af65ea674c3C975EaD99158",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "0xs34n",
+  "applicantName": "0xs34n",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xA0B39867b0999DcF7Af65ea674c3C975EaD99158.json",
+  "RPGF3_Application_UID": "0x3cda55b2201bc6838291f6dc8d6325d321f4b011d91f4e6dcd14371751ee3a2b",
+  "applicantAddress": "0xA0B39867b0999DcF7Af65ea674c3C975EaD99158"
+}

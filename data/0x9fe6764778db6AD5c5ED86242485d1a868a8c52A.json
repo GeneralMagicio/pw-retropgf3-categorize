@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://defi-lab.xyz/",
-  "bio": "DefiLab: Open-source tools for DeFi risk & reward analysis. Founded in 2020",
+  "bio": "Small independent team creating tools to help Defi Users quantify the risks and the rewards of providing Liquidity to various Defi Protocols. ",
   "contributionDescription": "We are actively contributing to the Optimism ecosystem by developing open-source tools designed to help DeFi users make informed decisions about liquidity provision. Our tools are free to use and focus on quantifying both the risks and rewards associated with various DeFi protocols. Specifically, we have created two key tools tailored for Optimism:\n\nUniswap V3 Strategy Simulator and Backtester for Optimism\nPerpetual Protocol Strategy Simulator and Backtester for Optimism",
   "contributionLinks": [
     {
@@ -51,14 +51,11 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "Project": "Defi-lab.xyz",
-  "Applicant Type": "PROJECT",
-  "OSS Directory": "Address & Github Found",
-  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x9fe6764778db6AD5c5ED86242485d1a868a8c52A.json",
-  "Githubs": "https://github.com/DefiLab-xyz",
-  "Tags": "",
-  "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "DeFi, Risk Analysis, Open-source Tools, Optimism, Liquidity Provision",
-  "pwIsFlagged": false,
-  "pwCategory": "Decentralized Finance (DeFi)"
+  "displayName": "Defi-lab.xyz",
+  "applicantName": "Festa lab",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9fe6764778db6AD5c5ED86242485d1a868a8c52A.jpeg",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x9fe6764778db6AD5c5ED86242485d1a868a8c52A.jpeg",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x9fe6764778db6AD5c5ED86242485d1a868a8c52A.json",
+  "RPGF3_Application_UID": "0x36e009bec6acb4c7adbe206a5cf88f8678ddf794f2f5e868e0118fcbd543055f",
+  "applicantAddress": "0x9fe6764778db6AD5c5ED86242485d1a868a8c52A"
 }

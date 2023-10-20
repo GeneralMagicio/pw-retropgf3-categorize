@@ -1,0 +1,74 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://nomic.foundation/",
+  "bio": "The Nomic Foundation is a non-profit advancing Ethereum. We provide open-source engineering software to empower developers to build decentralized software.",
+  "contributionDescription": "We built Hardhat, one of the most widely used smart contract development environments. Hardhat allows users to compile, test, debug, deploy, and operate their Solidity smart contracts. We collaborated with the OP team in different ways to improve support for the OP community, as well as their own internal usage of the tool.\n\nWe built Hardhat for VSCode, an extension that adds advanced Solidity editing assistance to VSCode. We also repurposed the LSP backing it and built coc-solidity, which provides advanced Solidity editing assistance in Vim as well.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://hardhat.org/",
+      "description": "Hardhat website"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/nomicfoundation/hardhat",
+      "description": "Hardhat repo"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://marketplace.visualstudio.com/items?itemName=NomicFoundation.hardhat-solidity",
+      "description": "Hardhat VSCode extension"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/NomicFoundation/hardhat-vscode",
+      "description": "Hardhat VSCode repo"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://hardhat.org/hardhat-vscode/docs/overview",
+      "description": "Hardhat VSCode site"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://github.com/NomicFoundation/hardhat-vscode/blob/development/coc/README.md",
+      "description": "coc-solidity repo & site"
+    }
+  ],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "OP_STACK"
+  ],
+  "impactDescription": "- HH was used to build the OP protocol.\n- The OP team used HH to bootstrap the platform. They built plugins so HH would work with OP, which made it the first dev tool available for OP users.\n- OP team built Smock on top of HH to make contract testing easier.\n- The community used HH to build projects that run on OP.\n- The OP team used HH to operate the protocol.\n- The OP team used HH to deploy the Optimist NFT.\n- The OP team used HH to deploy the Bedrock contracts.\n- Optimism SDK uses HH to operate the protocol.\n- HH is used in teaching materials and guides for OP.\n- The OP community uses Hardhat VSCode and vim's coc-solidity for coding in Solidity.\n\nhttps://nomicfoundation.notion.site/HH-RetroPGF-3-impact-proof-links-38f52d0c59744a6d98642340c1525304",
+  "impactMetrics": [
+    {
+      "description": "Hardhat NPM weekly downloads",
+      "number": 200000,
+      "url": "https://www.npmjs.com/package/hardhat"
+    },
+    {
+      "description": "Hardhat for VSCode total downloads",
+      "number": 172000,
+      "url": "https://marketplace.visualstudio.com/items?itemName=NomicFoundation.hardhat-solidity"
+    },
+    {
+      "description": "Hardhat dependent Github repos",
+      "number": 179500,
+      "url": "https://github.com/NomicFoundation/hardhat/network/dependents"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0xBFFF244f4f76F5F983e320f1D4708A7c91E7d3d2",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Hardhat",
+  "applicantName": "Nomic Foundation",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x329Ee91AE6A0A28a0a2B729B80adC50855ceE2d2.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x329Ee91AE6A0A28a0a2B729B80adC50855ceE2d2.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x329Ee91AE6A0A28a0a2B729B80adC50855ceE2d2.json",
+  "RPGF3_Application_UID": "0xe0031e9ff51d941d62bcb1545812bdd132151a24d8767f4cc0d552b82c8567ac",
+  "applicantAddress": "0x329Ee91AE6A0A28a0a2B729B80adC50855ceE2d2"
+}

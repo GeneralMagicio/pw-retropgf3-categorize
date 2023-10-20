@@ -1,0 +1,43 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://www.jcclub.xyz/",
+  "bio": "I'm Jamee Cornelia from Atlanta, GA based out in LA. I am a Creative Director & Visual Marketing Director to some of the most innovative projects in Web3 ",
+  "contributionDescription": "I am looking to expand my creative direction and marketing services to creators developers and builders on Optimism so that we can expand outside our current community. Through years of Marketing experience in and out of web3 I am able to see where web3 fails to connect with the people and that is through lack of convenience and easily digestible marketing and culturally centered experiences with ROI in mind for BOTH sides. ",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://glass.xyz/",
+      "description": "Formally worked for a Video Distribution Service "
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "Through my work at glass before the company eventually dissolved we we added Optimism to our rebuilt platform. Although I believe our internal model of Video distribution needed improvement Optimism was my favorite blockchain to build on because of its ease of use for new users. I believe incorporating that with other Freelance and distribution service industries would be the smoothest and most stable out of all the block chains",
+  "impactMetrics": [
+    {
+      "description": "Users",
+      "number": 50,
+      "url": "https://glass.xyz/"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 0,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0x8962B4ebe444f2fa4eF74e631a084726Ad9BDc3D",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Jamee Cornelia",
+  "applicantName": "Jamee Cornelia",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x8962B4ebe444f2fa4eF74e631a084726Ad9BDc3D.json",
+  "RPGF3_Application_UID": "0x21a3da365a629f3d317292d835c6ecc1e513ee1caca3c24237a349ec707c97d7",
+  "applicantAddress": "0x8962B4ebe444f2fa4eF74e631a084726Ad9BDc3D"
+}

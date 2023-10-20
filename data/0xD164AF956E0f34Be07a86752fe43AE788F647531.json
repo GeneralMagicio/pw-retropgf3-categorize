@@ -1,0 +1,48 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://ethcolombia.co/",
+  "bio": "We are a group of enthusiasts from all over the country who support each other to teach about Ethereum and connect the local community to the world.",
+  "contributionDescription": "We wish to receive RetroPGF for our work educating the Colombian and LatinAmerican community into blockchain technologies and layer 2s, and for testing good practices managing our decentralized community as a DAO having presence in different territories of our country through autonomous nodes that collectively manages a treasury.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://x.com/ethcobogota/status/1696515635335872898?s=20",
+      "description": "Twitter space: OptimismxLATAM: Acercando Optimism a la comunidad"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://giveth.io/qf",
+      "description": "Onboarded many projects for Giveth's Optimism QF round"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "We have helped people from initial phases to understand what's Ethereum and how it could benefit their lives, then onboard them to solutions like Optimism as a Layer 2. We have extensive experience conducting workshops, talks, and online events for our community. To date, we have successfully organized over +40 workshops, +60 talks, and +60 online events. These gatherings have consistently attracted a substantial audience, with an average of 15 attendees per workshop, 50 attendees per talk, and 20 attendees per online event.",
+  "impactMetrics": [
+    {
+      "description": "Twitter space listeners",
+      "number": 196,
+      "url": "https://x.com/ethcobogota/status/1696515635335872898?s=20"
+    },
+    {
+      "description": "Optimism POAP",
+      "number": 32,
+      "url": "https://poap.family/event/148676"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0xD164AF956E0f34Be07a86752fe43AE788F647531",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Ethereum Colombia",
+  "applicantName": "Ethereum Colombia",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xD164AF956E0f34Be07a86752fe43AE788F647531.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xD164AF956E0f34Be07a86752fe43AE788F647531.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xD164AF956E0f34Be07a86752fe43AE788F647531.json",
+  "RPGF3_Application_UID": "0xf136f5a299e27269045ab60239a6c3897826e7019fb2c534344ad448a16cef8a",
+  "applicantAddress": "0xD164AF956E0f34Be07a86752fe43AE788F647531"
+}

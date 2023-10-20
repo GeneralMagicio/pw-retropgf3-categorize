@@ -1,0 +1,98 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://youtube.com/kmanus88",
+  "bio": "I´m KManuS88, committed to fostering adoption into web3 by creating videos that simplify the space for newcomers.",
+  "contributionDescription": "I center my contributions on empowering the Latin American community, elucidating the potential of Superchain within the Web3 ecosystem. I utilize diverse mediums—videos, reels, AMAs—to showcase projects from Optimism and blockchains using the OP Stack. Every piece of content I create is designed to further education and encourage adoption.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/watch?v=ZHpQoc2ggi0",
+      "description": "What is Layer-2, Why Optimism, 5 projects from Optimism with huge potential."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/shorts/6uSbqoDjZws",
+      "description": "Explaining how Optimism help its builders through RetroPGF."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.instagram.com/reel/Cuaj516r1Qb/?igshid=NjIwNzIyMDk2Mg==",
+      "description": "Explaining how Optimism help its builders through RetroPGF."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://vm.tiktok.com/ZMj4XusNX/",
+      "description": "Explaining how Optimism help its builders through RetroPGF."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/watch?v=_fCUTfmjo_U&t=2s",
+      "description": "This one is about QF. It showcases Optimism as a great case of success."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/watch?v=FLAbVrH_pLM",
+      "description": "BASE, the new blockchain by Coinbase using OP Stack"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/KmanuS88/status/1673434792090632199",
+      "description": "Optimism Friends #001 - Web3 Beach"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/i/spaces/1vOxwMyNmagGB",
+      "description": "Optimism Friends #002 - OPCHADS - Atlantis World - Geo Web"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/KmanuS88/status/1684278676794269710?s=20",
+      "description": "Optimism Friends #003 - ACROSS PROTOCOL"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/KmanuS88/status/1687554819223875584?s=20",
+      "description": "Optimism Friends #004 - GITCOIN"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/KmanuS88/status/1690109424054964224?s=20",
+      "description": "Optimism Friends #005 - OPTICHADS"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "As a result, a big segment of my community established 'OP Friends.' This group consists of community members dedicated to the Optimism ecosystem. The next step is to create a collection specifically for this community within the blockchain, allowing them to have representation within the system itself.",
+  "impactMetrics": [
+    {
+      "description": "Views",
+      "number": 94900,
+      "url": "https://docs.google.com/spreadsheets/d/1c1LE1x_xGgK8RtSNkfFhEQQC2HSov68dhMLAoQkv1LY/edit?usp=sharing"
+    },
+    {
+      "description": "Impressions",
+      "number": 506000,
+      "url": "https://docs.google.com/spreadsheets/d/1c1LE1x_xGgK8RtSNkfFhEQQC2HSov68dhMLAoQkv1LY/edit?usp=sharing"
+    },
+    {
+      "description": "Spaces Attendees",
+      "number": 3002,
+      "url": "https://docs.google.com/spreadsheets/d/1c1LE1x_xGgK8RtSNkfFhEQQC2HSov68dhMLAoQkv1LY/edit?usp=sharing"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0xEdd9701C99a17Bf8Ab54f160217Da55aBe9C56FF",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "KManuS88",
+  "applicantName": "KManuS88",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xEdd9701C99a17Bf8Ab54f160217Da55aBe9C56FF.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xEdd9701C99a17Bf8Ab54f160217Da55aBe9C56FF.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xEdd9701C99a17Bf8Ab54f160217Da55aBe9C56FF.json",
+  "RPGF3_Application_UID": "0x0c85937f85dae88febd296c6f519f496063cff8970dc90bac38f25908f788fac",
+  "applicantAddress": "0xEdd9701C99a17Bf8Ab54f160217Da55aBe9C56FF"
+}

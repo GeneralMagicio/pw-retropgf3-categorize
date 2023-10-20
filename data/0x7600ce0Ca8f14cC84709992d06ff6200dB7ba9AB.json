@@ -1,0 +1,43 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://www.instagram.com/arriezkypratamaa/?hl=en",
+  "bio": "Crypto learner",
+  "contributionDescription": "I really want to be participate in this great work. Please count me in. I’m a great crypto enthusiast. And i know optimistic had great chain. Still alive and bigger. I’m so curious for what happening next. I didn’t expect what contribution i will receive later, but i love how this crypto world never stop amaze me. Thanks. I hope you count me in.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://www.instagram.com/arriezkypratamaa/?",
+      "description": "I’m a crypto enthusiast and still learning"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "well i think i’m just a big user on Optimism chain. I do lot of tx on Optimism. I buy lots of nfts and sold them as well. Sadly i never get on round 1 and 2 but it’s ok, I never have problem with that. Probably it just misunderstood. I did a little bit of stacking so yeah i think i have lots of contribution tu this chain",
+  "impactMetrics": [
+    {
+      "description": "1",
+      "number": 1,
+      "url": "https://optimistic.etherscan.io/address/0xa0c5fe75d174b7bf3105ddedea9d16adbdb4474a#tokentxnsErc721"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 0,
+      "description": "I don’t know why i didn’t receive anything til this day"
+    }
+  ],
+  "payoutAddress": "0xA0c5fE75D174B7bf3105dDEdEa9D16adbDb4474A",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Muhammad Arriezky Pratama",
+  "applicantName": "Athena",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x7600ce0Ca8f14cC84709992d06ff6200dB7ba9AB.json",
+  "RPGF3_Application_UID": "0x1ec49d6cd4f72981852d346d6baa7886ae100603ceb81788a77826a9cacf2dff",
+  "applicantAddress": "0x7600ce0Ca8f14cC84709992d06ff6200dB7ba9AB"
+}

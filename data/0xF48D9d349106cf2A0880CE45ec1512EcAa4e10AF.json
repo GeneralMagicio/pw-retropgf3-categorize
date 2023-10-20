@@ -1,5 +1,5 @@
 {
-  "applicantType": "INDIVIDUAL",
+  "applicantType": "PROJECT",
   "websiteUrl": "https://twitter.com/PawanKu83112567",
   "bio": "builder",
   "contributionDescription": "i am,contribute this project 2 year ago but i aonly build youur platform without any profit Early Bird Campaign starts today! 🐦\nAs an Early Bird, you'll gain exclusive access to a private Discord channel and be the first to receive FREE access to the Nym VPN alpha. 🛡️\n\nDon't miss a chance at the 2.5M $NYM prize pool! 🏆 #NymShipy",
@@ -38,16 +38,11 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "Project": "Pawan Kumar",
-  "Applicant Type": "INDIVIDUAL",
-  "OSS Directory": "",
-  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xF48D9d349106cf2A0880CE45ec1512EcAa4e10AF.json",
-  "Githubs": "",
-  "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK",
-  "recategorizeReason": "NO, this application is not correctly categorized since the contribution description uses first person pronouns (\"i\", \"me\"), which implies that the application is from an individual rather than a project.",
-  "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Collective Governance, Developer Ecosystem, End User Experience and Adoption, Op Stack",
-  "pwIsFlagged": true,
-  "pwFlaggedReason": "This application should be flagged because it violates rule 1 promising future impact with the Early Bird campaign and also violates rule 6 by promoting a token sale ($NYM prize pool).",
-  "pwCategory": "Community Building"
+  "displayName": "Pawan Kumar",
+  "applicantName": "Pawan",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xF48D9d349106cf2A0880CE45ec1512EcAa4e10AF.jpeg",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xF48D9d349106cf2A0880CE45ec1512EcAa4e10AF.jpeg",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xF48D9d349106cf2A0880CE45ec1512EcAa4e10AF.json",
+  "RPGF3_Application_UID": "0xab4e474f1e5df80135a4a31070946347a6c3d15b7130ba0dcd6e586d36270077",
+  "applicantAddress": "0xF48D9d349106cf2A0880CE45ec1512EcAa4e10AF"
 }

@@ -1,0 +1,36 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://twitter.com/OmiSaiful",
+  "bio": "I am too sweet for ",
+  "contributionDescription": "I have been using optimism chain from the very beginning. I regularly used various dapps and defi platform and collect various projects nft. I love to use optimism chain continuously for web 3. It’s optimistic ruller is very affective in web3. For me it’s the best layer 2 solution.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x340e0850fae2f6E81110Dab949A9da949859bAE0#tokentxnsErc721",
+      "description": "U can find my account transaction here"
+    }
+  ],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
+  "impactDescription": "I think continuous contribution is very impactive for a blockchains broader development. My continuous usage of various dapps and platform will bring them incourageous to bring good product in web3. My transaction and tvl will help various dapps and defi",
+  "impactMetrics": [
+    {
+      "description": "Debank",
+      "number": 1,
+      "url": "https://debank.com/profile/0x340e0850fae2f6e81110dab949a9da949859bae0/history"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x340e0850fae2f6E81110Dab949A9da949859bAE0",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Nawaj",
+  "applicantName": "Nawaj",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x340e0850fae2f6E81110Dab949A9da949859bAE0.json",
+  "RPGF3_Application_UID": "0xdd0c9a82d761227670cd40dbc047cb8d2f9896e41012b99a9b90604b048b7bb6",
+  "applicantAddress": "0x340e0850fae2f6E81110Dab949A9da949859bAE0"
+}

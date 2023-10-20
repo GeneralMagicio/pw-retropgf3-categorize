@@ -1,0 +1,45 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://medium.com/@ramafadillah9876",
+  "bio": "web3 enthusiastic",
+  "contributionDescription": "I always share information on social media or personal channels such as my personal Medium and Telegram channels, and some explanations about this OP program. through all the information available on the official page, so that people participate and understand about OP's other great programs",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://t.me/signalxairdrop/9304",
+      "description": "I provide information about retropgf via the Telegram channel"
+    }
+  ],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "I always share information on social media or personal channels such as my personal Medium and Telegram channels, and some explanations about this OP program. through all the information available on the official page, so that people participate and understand about OP's other great programs",
+  "impactMetrics": [
+    {
+      "description": "s",
+      "number": 3,
+      "url": "https://t.me/signalxairdrop/9304"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "PARTNER_FUND",
+      "currency": "OP",
+      "amount": 10,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0xBe236b156768801CCAF59d3AeE864f51133aeEee",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "ramafadillah",
+  "applicantName": "ramafadillah",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xBe236b156768801CCAF59d3AeE864f51133aeEee.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xBe236b156768801CCAF59d3AeE864f51133aeEee.json",
+  "RPGF3_Application_UID": "0xcfcc2d5d3738b68e997dc80b4ab2a8340ef851bc96f7715861347d0a8215243f",
+  "applicantAddress": "0xBe236b156768801CCAF59d3AeE864f51133aeEee"
+}

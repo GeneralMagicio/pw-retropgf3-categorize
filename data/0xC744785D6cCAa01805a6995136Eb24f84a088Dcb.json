@@ -1,7 +1,7 @@
 {
   "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://twitter.com/ZahkAV",
-  "bio": "Trader and DeFi Influencer",
+  "bio": "I am a trader and a teacher in both the @Alpha__Ventures and @ZZZMoneyClub community. I work with other Finance and DeFi experts to teach others.",
   "contributionDescription": "I've taught thousands of people how to be successful in DeFi. In doing so, i've talked about Optimism as the place to find: opportunity, availability, scalability, and community. I enjoy teaching people that DeFi is approachable to all and Optimism continues to be a favorite that I talk about in each of my communities whether on Twitter or Alpha Ventures/ZZZMoneyClub.",
   "contributionLinks": [
     {
@@ -35,14 +35,10 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "Project": "Zahk",
-  "Applicant Type": "INDIVIDUAL",
-  "OSS Directory": "",
-  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xC744785D6cCAa01805a6995136Eb24f84a088Dcb.json",
-  "Githubs": "",
-  "Tags": "COLLECTIVE_GOVERNANCE",
-  "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Finance (DeFi), Optimism, Community Building, Education, Governance Tokens",
-  "pwIsFlagged": false,
-  "pwCategory": "Collective Governance"
+  "displayName": "Zahk",
+  "applicantName": "Zahk",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xC744785D6cCAa01805a6995136Eb24f84a088Dcb.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xC744785D6cCAa01805a6995136Eb24f84a088Dcb.json",
+  "RPGF3_Application_UID": "0x6488d7afb6264e45eb95fb110894ee5dfa9193bcf1e6d5926055809c233300fe",
+  "applicantAddress": "0xC744785D6cCAa01805a6995136Eb24f84a088Dcb"
 }

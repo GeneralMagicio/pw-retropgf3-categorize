@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
-  "websiteUrl": "https://optimism.easscan.org/attestation/view/0xc5847921fce07181329154719cc02a2b54bdf4b343d40b519f950402f5aca5cc",
-  "bio": "dj",
+  "websiteUrl": "https://app.optimism.io/profile/edit",
+  "bio": "kjnwkjadnkjawnd",
   "contributionDescription": "coool coollc ool coool coollc ool coool coollc ool coool coollc ool coool coollc ool coool coollc ool coool coollc ool coool coollc ool coool coollc ool coool coollc ool coool coollc ool coool coollc ool coool coollc ool coool coollc ool coool coollc ool coool coollc ool coool coollc ool coool coollc ool coool coollc ool coool coollc ool coool coollc ool coool coollc ool coool coollc ool coool coollc ool coool coollc ool coool coollc ool coool coollc ool coool coollc ool coool coollc ool coool coollc ool coool coollc ool coool coollc ool coool coollc ool coool coollc ool coool ",
   "contributionLinks": [
     {
@@ -41,15 +41,9 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "Project": "very cool",
-  "Applicant Type": "PROJECT",
-  "OSS Directory": "",
-  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x3977492b0d15488A57aD4c5bd2ECDe7e2572d7FE.json",
-  "Githubs": "",
-  "Tags": "COLLECTIVE_GOVERNANCE, OP_STACK",
-  "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Tokenization Platforms, Blockchain Infrastructure, Governance Tokens",
-  "pwIsFlagged": true,
-  "pwFlaggedReason": "The application should be flagged for violating the rule against spam - the contribution description and impact description are vague, incoherent, and repetitive.",
-  "pwCategory": "Governance & Tokens"
+  "displayName": "very cool",
+  "applicantName": "Jonas",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x3977492b0d15488A57aD4c5bd2ECDe7e2572d7FE.json",
+  "RPGF3_Application_UID": "0x78a11c3f0adf404b1a4adec4d313fd792d38415b6e4cb92e879ec28d858befb6",
+  "applicantAddress": "0x3977492b0d15488A57aD4c5bd2ECDe7e2572d7FE"
 }

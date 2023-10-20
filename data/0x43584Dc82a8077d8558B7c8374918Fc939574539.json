@@ -1,0 +1,49 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://t.me/HinkoK",
+  "bio": "I'm a web3 influencer",
+  "contributionDescription": "I've made posts about Optimism and delegating tokens. I think that my posts helped Optimism ecosystem because many people started to delegate their tokens and actively participate in the governance.\n\nhttps://t.me/HinkoK/1442\nhttps://t.me/HinkoK/1550\n",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://t.me/HinkoK/1442",
+      "description": "Post in telegram"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://t.me/HinkoK/1550",
+      "description": "Post in telegram"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "A lot of people started using Optimism ecosystem after I made posts about OP quests, after second airdrop, and I've made post about importance of delegating tokens and actively participating in the governance. So my main countribution is attracting new users to the OP ecosystem.",
+  "impactMetrics": [
+    {
+      "description": "My post viewed more than 6000 people",
+      "number": 6000,
+      "url": "https://t.me/HinkoK/1442"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 0,
+      "description": "I haven't received any yet"
+    }
+  ],
+  "payoutAddress": "0x43584Dc82a8077d8558B7c8374918Fc939574539",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "HinkoK",
+  "applicantName": "HinkoK",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x43584Dc82a8077d8558B7c8374918Fc939574539.json",
+  "RPGF3_Application_UID": "0x66d6757cb534340caf14f6677b3dbed90ab084fa88f3a982323e91ea4062da34",
+  "applicantAddress": "0x43584Dc82a8077d8558B7c8374918Fc939574539"
+}

@@ -1,0 +1,46 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://twitter.com/Gajanan02830213",
+  "bio": "🪙Crypto Since '17 | 🕵️ Analyst & Researcher |  💎Follow Me For Hidden Gem,🪂Airdrops |👷Builder|🧑‍🎓Advisor |💸 α ",
+  "contributionDescription": "This project is really great, the features are interesting and there are some things that make me really like it, namely: 1. the transaction is fast 2. Elegant and easy to use 3. the user can understand the menu perfectly 4. There are no defects in the design 5. the product runs according to what the user expects always success and hopefully it can be a promising project when mainnet arrives.\n",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://vote.optimism.io/",
+      "description": "stake and vote optimism governence"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "This project is really great, the features are interesting and there are some things that make me really like it, namely: 1. the transaction is fast 2. Elegant and easy to use 3. the user can understand the menu perfectly 4. There are no defects in the design 5. the product runs according to what the user expects always success and hopefully it can be a promising project when mainnet arrives.\n",
+  "impactMetrics": [
+    {
+      "description": "invest",
+      "number": 5,
+      "url": "https://vote.optimism.io/"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 5,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0x3dbaa423956599188d686D7D156CB28A9e0a81D1",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Gajanand Saini",
+  "applicantName": "Gajanand2000",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3dbaa423956599188d686D7D156CB28A9e0a81D1.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x3dbaa423956599188d686D7D156CB28A9e0a81D1.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x3dbaa423956599188d686D7D156CB28A9e0a81D1.json",
+  "RPGF3_Application_UID": "0xe1fbfa9141f2c53d44c1c08ad862c5dbd4406801defed44107c448e7ffeddd08",
+  "applicantAddress": "0x3dbaa423956599188d686D7D156CB28A9e0a81D1"
+}

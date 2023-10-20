@@ -1,5 +1,5 @@
 {
-  "applicantType": "INDIVIDUAL",
+  "applicantType": "PROJECT",
   "websiteUrl": "https://www.sound.xyz/user/vtcking.eth",
   "bio": "I am a Blockchain user, NFT Holder, token, coin..",
   "contributionDescription": "I want to receive a worthy reward for the effort and dedication I have put into supporting the project and I would be very grateful if I receive those rewards, which shows the fairness and recognition of the project. project with my contributions. Reward is a reward and also a measure and motivation for a blockchain community to develop, which makes us come closer together and work together better.",
@@ -37,15 +37,9 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "Project": "Vtcking",
-  "Applicant Type": "INDIVIDUAL",
-  "OSS Directory": "",
-  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x1014d57aDa2F05b967578Beb253e28Fa31172C39.json",
-  "Githubs": "",
-  "Tags": "COLLECTIVE_GOVERNANCE, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK",
-  "recategorizeReason": "NO, it is not correctly categorized. The application should be categorized as \"INDIVIDUAL\" as they use terms such as \"I\" and \"me\".",
-  "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "NFTs, Collective Governance, End User Experience and Adoption, OP Stack",
-  "pwIsFlagged": false,
-  "pwCategory": "Community Building"
+  "displayName": "Vtcking",
+  "applicantName": "Vcking",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x1014d57aDa2F05b967578Beb253e28Fa31172C39.json",
+  "RPGF3_Application_UID": "0x91e1ebf03d5fa55dcf3fccd5ce8837e81fc60d9daabef4c7e96d31c2e67ccff2",
+  "applicantAddress": "0x1014d57aDa2F05b967578Beb253e28Fa31172C39"
 }

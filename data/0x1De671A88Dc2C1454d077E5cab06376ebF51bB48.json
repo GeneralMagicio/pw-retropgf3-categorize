@@ -1,0 +1,40 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://instagram.com/dotaku.id",
+  "bio": "Just Amateur on Optimism Chain",
+  "contributionDescription": "Code contributions, such as implementing new features, fixing bugs, or improving the performance of the network\nDocumentation contributions, such as writing or translating documentation for new features or existing code\nCommunity contributions, such as answering questions from other developers or users, or helping to improve the user experience of Optimism",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x1De671A88Dc2C1454d077E5cab06376ebF51bB48",
+      "description": "my wallet"
+    }
+  ],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "Developing a new wallet that is optimized for Optimism. This would make it easier for people to use Optimism and its decentralized applications (DApps).\nCreating a user-friendly guide to Optimism. This would help people to learn about Optimism and how to use it, even if they have no prior experience with Web3.\nTranslating the Optimism documentation and website into multiple languages. This would make Optimism more accessible to people all over the world.\nRunning a social media campaign to promote Optimism to new audiences. This could involve sharing educational content about Optimism, or running contests and giveaways to attract new users.",
+  "impactMetrics": [
+    {
+      "description": "transaction",
+      "number": 20,
+      "url": "https://optimistic.etherscan.io/address/0x1De671A88Dc2C1454d077E5cab06376ebF51bB48"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x1De671A88Dc2C1454d077E5cab06376ebF51bB48",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Nakagami Eori",
+  "applicantName": "Nakagami Eori",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x1De671A88Dc2C1454d077E5cab06376ebF51bB48.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x1De671A88Dc2C1454d077E5cab06376ebF51bB48.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x1De671A88Dc2C1454d077E5cab06376ebF51bB48.json",
+  "RPGF3_Application_UID": "0x398c3a223cf7c362fa3fd46f35612b0a4f1c255152d87e8d95ab38aedcfad020",
+  "applicantAddress": "0x1De671A88Dc2C1454d077E5cab06376ebF51bB48"
+}

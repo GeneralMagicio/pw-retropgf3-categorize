@@ -56,14 +56,9 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "Project": "G",
-  "Applicant Type": "INDIVIDUAL",
-  "OSS Directory": "",
-  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x56656e5C76B5B552F5e89a82fc46912d95790480.json",
-  "Githubs": "",
-  "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK",
-  "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Collective Governance, Developer Ecosystem, End User Experience and Adoption, OP Stack",
-  "pwIsFlagged": false,
-  "pwCategory": "Web3 Advocacy"
+  "displayName": "G",
+  "applicantName": "G ",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x56656e5C76B5B552F5e89a82fc46912d95790480.json",
+  "RPGF3_Application_UID": "0x07a1f27b3f5119790e32539468f729bf34adffea1ffd4259f2da85828cc7f7ec",
+  "applicantAddress": "0x56656e5C76B5B552F5e89a82fc46912d95790480"
 }

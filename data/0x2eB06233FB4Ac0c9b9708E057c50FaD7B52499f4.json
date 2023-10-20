@@ -1,0 +1,40 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://x.com/DIAWindwalker?t=cRXBJgnQT8a2zlN90yuHaA&s=09",
+  "bio": "Crypto to the world ",
+  "contributionDescription": "It has helped optimism become a stronger chain as well as improve the quality of the token.\n\nI have delegated tokens multiple times. I also engage twitter and increase the impressions of optimism on twitter. \n\nI ensure my presence as well as support is felt by the optimism chain. ",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://x.com/DIAWindwalker?t=cRXBJgnQT8a2zlN90yuHaA&s=09",
+      "description": "Nn"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "It has helped optimism become a stronger chain as well as improve the quality of the token.\n\nI have delegated tokens multiple times. I also engage twitter and increase the impressions of optimism on twitter. \n\nI ensure my presence as well as support is felt by the optimism chain. ",
+  "impactMetrics": [
+    {
+      "description": "100",
+      "number": 420,
+      "url": "https://x.com/DIAWindwalker?t=cRXBJgnQT8a2zlN90yuHaA&s=09"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x2eB06233FB4Ac0c9b9708E057c50FaD7B52499f4",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Francis Ejike Ukeje ",
+  "applicantName": "Diamond windwalker ",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2eB06233FB4Ac0c9b9708E057c50FaD7B52499f4.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x2eB06233FB4Ac0c9b9708E057c50FaD7B52499f4.json",
+  "RPGF3_Application_UID": "0x852065a0a85848eed442a06524163ee46927f83e02f58f0252436dbbd4f5d9a7",
+  "applicantAddress": "0x2eB06233FB4Ac0c9b9708E057c50FaD7B52499f4"
+}

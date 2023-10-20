@@ -1,0 +1,45 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://twitter.com/Cryptotrader900",
+  "bio": "hello world",
+  "contributionDescription": "\nI believe this is a faithful project.The projector has a lot of attractions so hopefully the project will be better in the future and will be the best.\nI love it and congratulations to the team for their efforts and dedication and highly appreciated the visionary thought of the projector and it will create history",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://twitter.com/Cryptotrader900",
+      "description": "dont have "
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "I believe this is a faithful project.The projector has a lot of attractions so hopefully the project will be better in the future and will be the best.\nI love it and congratulations to the team for their efforts and dedication and highly appreciated the visionary thought of the projector and it will create history",
+  "impactMetrics": [
+    {
+      "description": "#Koe Asu",
+      "number": 3116,
+      "url": "https://twitter.com/Cryptotrader900"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 1,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0xAeF7A9E8053b8975E05147dee76CfCcA9187955D",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Gilang Saputra",
+  "applicantName": "metallfunky",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xAeF7A9E8053b8975E05147dee76CfCcA9187955D.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xAeF7A9E8053b8975E05147dee76CfCcA9187955D.json",
+  "RPGF3_Application_UID": "0xcc95ade24ed84718345bda285036f51bb6a3e224b162e4db51df6561c16d3f8c",
+  "applicantAddress": "0xAeF7A9E8053b8975E05147dee76CfCcA9187955D"
+}

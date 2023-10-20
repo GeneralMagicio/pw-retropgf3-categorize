@@ -1,0 +1,45 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://x.com/HasanNulHuda8",
+  "bio": "Hii.. Supp",
+  "contributionDescription": "Maybe I can't contribute much regarding optimism, but I will try my best to contribute in whatever field I can. Because I Have Very Less Experience About The BlockChain World.Might Be One Of The Stack Ops I Can Do. But even that is a rather difficult thing for me. with this meager income.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x7b56389e9C46f17a1493437598081041dc728C0B",
+      "description": "This is my wallet address"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "Maybe I can't contribute much regarding optimism, but I will try my best to contribute in whatever field I can. Because I Have Very Less Experience About The BlockChain World.Might Be One Of The Stack Ops I Can Do. But even that is a rather difficult thing for me. with this meager income.",
+  "impactMetrics": [
+    {
+      "description": "Download",
+      "number": 1,
+      "url": "https://optimistic.etherscan.io/address/0x7b56389e9C46f17a1493437598081041dc728C0B"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 500,
+      "description": "Month"
+    }
+  ],
+  "payoutAddress": "0x7b56389e9C46f17a1493437598081041dc728C0B",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "BukuBukuChagama",
+  "applicantName": "BukuBukuChagama",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7b56389e9C46f17a1493437598081041dc728C0B.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x7b56389e9C46f17a1493437598081041dc728C0B.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x7b56389e9C46f17a1493437598081041dc728C0B.json",
+  "RPGF3_Application_UID": "0x60624c19da56350dcb951c78386c67304eff7704987d1c16b157885580f01d0f",
+  "applicantAddress": "0x7b56389e9C46f17a1493437598081041dc728C0B"
+}

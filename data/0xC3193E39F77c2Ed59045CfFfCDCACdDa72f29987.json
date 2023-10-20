@@ -1,7 +1,7 @@
 {
   "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://twitter.com/CryptoMemePanda",
-  "bio": "Social worker by day, crypto/forex trader by night. Embracing change since 2018.",
+  "bio": "Social worker by day, professional trader by night. Passionate about positive change in both realms, with Crypto universally leading the way.",
   "contributionDescription": "Dear RetroPGF Committee,\nI am dedicated to advancing Optimism as a cost-effective, secure Ethereum alternative. Focusing on the badge collective, Ve(3,3) models like Velodrome, and community governance, I've worked to onboard individuals onto the crypto network since 2018. Working closely with @FA40Ziv, as one of only two moderators in his Discord community, I've guided both new and experienced members, making Optimism accessible to all.\n\nAs a devoted father of a newborn, I'm driven to promote scalable solutions in the blockchain space. The Optimism network's OP Mainnet, built by Ethereum developers, provides a fast, stable, and cost-effective L2 blockchain. Its EVM-equivalent architecture ensures seamless scalability for Ethereum applications. I believe this is the future!\n",
   "contributionLinks": [
     {
@@ -45,14 +45,11 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "Project": "CryptoPanda",
-  "Applicant Type": "INDIVIDUAL",
-  "OSS Directory": "",
-  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xC3193E39F77c2Ed59045CfFfCDCACdDa72f29987.json",
-  "Githubs": "",
-  "Tags": "COLLECTIVE_GOVERNANCE",
-  "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Governance",
-  "pwIsFlagged": false,
-  "pwCategory": "Collective Governance"
+  "displayName": "CryptoPanda",
+  "applicantName": "CryptoPanda",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xC3193E39F77c2Ed59045CfFfCDCACdDa72f29987.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xC3193E39F77c2Ed59045CfFfCDCACdDa72f29987.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xC3193E39F77c2Ed59045CfFfCDCACdDa72f29987.json",
+  "RPGF3_Application_UID": "0x5526e506626916e2ae4c40f3ccb08a200f6b4fe72a510a9e43771164e4647990",
+  "applicantAddress": "0xC3193E39F77c2Ed59045CfFfCDCACdDa72f29987"
 }

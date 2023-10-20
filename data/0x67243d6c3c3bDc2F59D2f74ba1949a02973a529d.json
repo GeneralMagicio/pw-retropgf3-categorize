@@ -1,0 +1,108 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://www.boilerrat.xyz/",
+  "bio": "My name is boiler, sometimes known as boilerrat, my Mom and Wife call me Chris.\nI am a contributor at Public HAUS, DAOhaus, and DAO Masons. ",
+  "contributionDescription": "PublicHAUS governs DAOhaus, offering tools like DAOhaus SDK for easier Moloch DAO management. The DAOhaus Monorepo facilitates collaborative development through core, utility, data, and UI libraries. Community engagement is highlighted in events like Haus Party: 12 Days of DAOcember, exploring DAO topics. Community Calls on Discord foster open discussion on DAO/Web 3 topics. The infrastructure and community initiatives drive a collaborative ecosystem, making decentralized governance more accessible and streamlined.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/HausDAO",
+      "description": "DAOhaus Organization on Github, includes our monorepo, shamans repo, docs etc."
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x3e0eade343ddc556a6cf0f858e4f685ba303ce71",
+      "description": "V3 DAO Factory Contract"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/HausDAO/Baal/blob/feat/baalZodiac/src/addresses/deployed.ts",
+      "description": "List of all deployments of DAOhaus contracts."
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x1aCFF11474B9C6D15966Da7A08eD23438CDE23D4#code",
+      "description": "Public HAUS DAO Eco Fund on Optimisim"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://links.daohaus.club/",
+      "description": "Our linktree where you can find much of the DAOhaus and Public HAUS surface."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://thegraph.com/explorer/subgraph?id=GfHFdFmiSwW1PKtnDhhcxhArwtTjVuMnXxQ5XcETF1bP&view=Overview",
+      "description": "Subgraph"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://flipsidecrypto.xyz/santtee/dao-haus-dashboard-gP6ort",
+      "description": "Analytics"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x01B8b6384298D4848E3BE63D4C9D17830EeE488A#code",
+      "description": "HAUS token on Etherscan"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/playlist?list=PL-ArYfrJv7VR30Y1FvbnQXdE8WqxLx2HE",
+      "description": "DAOcember playlist"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://youtu.be/OQ-CyuAUyVQ?si=ki0gaQvOlPqM5NBw",
+      "description": "Recent Demo Day"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM"
+  ],
+  "impactDescription": "PublicHAUS enhanced DAOhaus Protocol's scalability and accessibility on Optimism, lowering technical hurdles via DAOhaus SDK. Events and Community Calls spurred engagement, while educational content on various platforms enriched DAO/web3 understanding. Governance simplification empowered individuals, benefiting Optimists and projects seeking decentralized governance. Cross-community collaborations fostered by PublicHAUS's ethos enriched both ecosystems with diverse insights, creating a robust, community-centric protocol essential for decentralized governance.",
+  "impactMetrics": [
+    {
+      "description": "DAOhaus V3 Dashboard",
+      "number": 1,
+      "url": "https://flipsidecrypto.xyz/santtee/dao-haus-dashboard-gP6ort"
+    },
+    {
+      "description": "DAOhaus V2 Dashboard",
+      "number": 1,
+      "url": "https://dune.com/banana/DAO-Haus-and-dollarHAUS-Token"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 90000,
+      "description": "Paid for audit of moloch V3 contracts"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 50000,
+      "description": "From the Graph to pay for Sub Graph services"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 2000000,
+      "description": "Community Contribution Raise, paid for the development of V3"
+    }
+  ],
+  "payoutAddress": "0x1aCFF11474B9C6D15966Da7A08eD23438CDE23D4",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Public HAUS",
+  "applicantName": "boiler",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x67243d6c3c3bDc2F59D2f74ba1949a02973a529d.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x67243d6c3c3bDc2F59D2f74ba1949a02973a529d.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x67243d6c3c3bDc2F59D2f74ba1949a02973a529d.json",
+  "RPGF3_Application_UID": "0x243299d981be04f31e310b35c53b842cb2d875a1eccc273d9f752fab0bb0dfcb",
+  "applicantAddress": "0x67243d6c3c3bDc2F59D2f74ba1949a02973a529d"
+}

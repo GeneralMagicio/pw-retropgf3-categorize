@@ -1,0 +1,217 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://linktr.ee/optimismenesp",
+  "bio": "Spanish-language community dedicated to the Optimism ecosystem",
+  "contributionDescription": "At Optimism Español we have continued to work tirelessly during these months to continue spreading the Optimism Vision and the benefits of OP Mainnet to as many people in Latin America as possible.\n\nAfter having benefited during the RPGF2 round, we have not given up and we continue to press the accelerator, thus reinforcing our commitment to the entire Optimism Collective.\n\nAmong the activities we carry out are: translations of articles and newsletters, creation of original content, Twitter Spaces with different communities in LATAM, technical workshops, IRL talks, and presence at events.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://gov.optimism.io/t/optimism-espanol-general-communication-thread/6383/5",
+      "description": "Optimism Español - General Communication Thread"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/OptimismESP",
+      "description": "Optimism Español - Twitter"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://t.me/OptimismESP",
+      "description": "Optimism Español - Telegram Group"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/@optimismespanol",
+      "description": "Optimism Español - YouTube Channel"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://mirror.xyz/0x3e4865634EC54dFF742E1a7452a456919B8e277b",
+      "description": "Optimism Español - Mirror"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.notion.so/optimismesp/Optimism-Espa-ol-aa3589094de94f7c8bbe65968653073d?pvs=4",
+      "description": "Optimism Español - Notion Page"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "We value the importance of the OP Stack and have been actively working to spread its knowledge. We organize technical workshops in Spanish to empower more developers building on Optimism.\n\nTo boost governance in LATAM, we delegated 50% of our treasury to delegates from the region. We have participated in talks, and in face-to-face events, and translations to bring governance news to Latin America.\n\nWe want more people to know and use Optimism. We have organized Twitter Spaces with communities in several countries. We represented Optimism at the ETH Argentina conference and collaborated in translating Subli's - The Optimist, a newsletter about the Superchain.\n\nWe are committed to promoting Optimism in LATAM, offering education, and participating in governance.",
+  "impactMetrics": [
+    {
+      "description": "# of Certificates as NFT's - Workshop",
+      "number": 106,
+      "url": "https://opensea.io/collection/certificados-optimism-workshop-series-1"
+    },
+    {
+      "description": "# minted POAPs - Class 1",
+      "number": 85,
+      "url": "https://poap.gallery/event/123922"
+    },
+    {
+      "description": "# minted POAPs - Class 2",
+      "number": 65,
+      "url": "https://poap.gallery/event/124505"
+    },
+    {
+      "description": "# minted POAPs - Class 3",
+      "number": 33,
+      "url": "https://poap.gallery/event/126214"
+    },
+    {
+      "description": "# Views - Class #1: Intro to OP Stack",
+      "number": 189,
+      "url": "https://www.youtube.com/live/VL79L8bGtbI?si=bBWluoVdLyvwGF_x"
+    },
+    {
+      "description": "# Views - Class #2: Deploy an OP Chain",
+      "number": 140,
+      "url": "https://www.youtube.com/live/fQ3tF29gR4w?si=eHK1gQpW9_D-eEgl"
+    },
+    {
+      "description": "# Views - Class#3:Connect block explorer",
+      "number": 75,
+      "url": "https://www.youtube.com/live/ln0rmUphqq8?si=hq8izie0E-3IrIxm"
+    },
+    {
+      "description": "# Reproductions -Announce OP Delegations",
+      "number": 8732,
+      "url": "https://twitter.com/OptimismESP/status/1679253562034094080"
+    },
+    {
+      "description": "# Views -IRL Talk - The Future of OP Gov",
+      "number": 50,
+      "url": "https://www.youtube.com/watch?v=OgqQXsYGch0"
+    },
+    {
+      "description": "# POAPs minted - Governance Day",
+      "number": 107,
+      "url": " https://poap.gallery/event/147293"
+    },
+    {
+      "description": "# POAPs minted - OpEsp @ ETH Argentina",
+      "number": 66,
+      "url": "https://poap.gallery/event/147768"
+    },
+    {
+      "description": "# Listeners -  Bedrock is live!",
+      "number": 328,
+      "url": "https://twitter.com/i/spaces/1mnxeRQbMePKX"
+    },
+    {
+      "description": "# Listeners - OP Gov - w/ brichis.eth",
+      "number": 98,
+      "url": "https://twitter.com/i/spaces/1OdKrzzVgaqKX"
+    },
+    {
+      "description": "# Listeners - OPxLATAM w/ ETH Lima",
+      "number": 305,
+      "url": "https://twitter.com/i/spaces/1BdGYyrmkBDGX"
+    },
+    {
+      "description": "# Listeners - OPxLATAM w/ ETH Honduras",
+      "number": 357,
+      "url": "https://twitter.com/i/spaces/1kvJpmvOBwbxE"
+    },
+    {
+      "description": "# Listeners - OPxLATAM w/ ETH Bogotá",
+      "number": 196,
+      "url": "https://twitter.com/i/spaces/1kvJpmyXwkbxE"
+    },
+    {
+      "description": "# Listeners - OPxLATAM w/ ETH Uruguay",
+      "number": 132,
+      "url": "https://twitter.com/i/spaces/1BRJjZgEDLRJw"
+    },
+    {
+      "description": "# Reproductions - CEXs that support OP",
+      "number": 3765,
+      "url": "https://twitter.com/OptimismESP/status/1676366647291006977"
+    },
+    {
+      "description": "# Views - Welcome to OP Stack",
+      "number": 666,
+      "url": "https://twitter.com/OptimismESP/status/1630681301039628288"
+    },
+    {
+      "description": "# Views - Bedrock: a month after",
+      "number": 813,
+      "url": "https://twitter.com/OptimismESP/status/1678426370320519168"
+    },
+    {
+      "description": "# Views - Bedrock explanation",
+      "number": 1930,
+      "url": "https://twitter.com/OptimismESP/status/1668758910210297856"
+    },
+    {
+      "description": "# Views - Gov Season 4 explained",
+      "number": 2484,
+      "url": "https://twitter.com/OptimismESP/status/1655709176683974656"
+    },
+    {
+      "description": "# Views - The Future of OP Gov",
+      "number": 233,
+      "url": "https://twitter.com/OptimismESP/status/1684340557366321153"
+    },
+    {
+      "description": "# Views - Intro to Law of Chains",
+      "number": 698,
+      "url": "https://twitter.com/OptimismESP/status/1684583239707684864"
+    },
+    {
+      "description": "# Views - Chains OP Stack Pt.1",
+      "number": 1144,
+      "url": "https://twitter.com/OptimismESP/status/1698819778767643050"
+    },
+    {
+      "description": "# Views - Chains OP Stack Pt.2",
+      "number": 258,
+      "url": "https://x.com/OptimismESP/status/1711398785031806976"
+    },
+    {
+      "description": "# Views - OP Stack multi proof ",
+      "number": 202,
+      "url": "https://twitter.com/OptimismESP/status/1684945429589590016?s=20"
+    },
+    {
+      "description": "# Views - Intro to OP Stack Mods",
+      "number": 217,
+      "url": "https://twitter.com/OptimismESP/status/1686136165613912064"
+    },
+    {
+      "description": "# Views - RPGF3 round design",
+      "number": 615,
+      "url": "https://twitter.com/OptimismESP/status/1701978598662603058"
+    },
+    {
+      "description": "# Views -RPGF3 applications open",
+      "number": 798,
+      "url": "https://twitter.com/OptimismESP/status/1706279000107372671"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 45900,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0xEfc42814bebfCF02e56856988daf7D80F2b7fbb7",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Optimism Español",
+  "applicantName": "Optimism Español",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3e4865634EC54dFF742E1a7452a456919B8e277b.jpeg",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x3e4865634EC54dFF742E1a7452a456919B8e277b.jpeg",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x3e4865634EC54dFF742E1a7452a456919B8e277b.json",
+  "RPGF3_Application_UID": "0x8c6ef03ae9da84c0fc10a72d404ac170d884ba0252512c08ee58f8fde8131079",
+  "applicantAddress": "0x3e4865634EC54dFF742E1a7452a456919B8e277b"
+}

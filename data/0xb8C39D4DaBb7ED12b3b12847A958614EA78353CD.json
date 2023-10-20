@@ -1,7 +1,7 @@
 {
   "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://x.com/lexim__?s=09",
-  "bio": "Apasionado el trading. Siempre al día . En busca de la libertad",
+  "bio": "Apasionado del trading. En busca de la libertad ",
   "contributionDescription": "I Have done all the nft program. I have tested a lot of applications from optimism. I love this blockchain and I will keep testing it.  I would like to count with some help to keep doing it and to test an develop everything I could. Im waiting for NFT airdrop too ;)",
   "contributionLinks": [
     {
@@ -48,14 +48,9 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "Project": "Lexim",
-  "Applicant Type": "INDIVIDUAL",
-  "OSS Directory": "",
-  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xb8C39D4DaBb7ED12b3b12847A958614EA78353CD.json",
-  "Githubs": "",
-  "Tags": "COLLECTIVE_GOVERNANCE, END_USER_EXPERIENCE_AND_ADOPTION",
-  "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Governance Tokens, End User Experience and Adoption",
-  "pwIsFlagged": false,
-  "pwCategory": "End User Experience and Adoption"
+  "displayName": "Lexim",
+  "applicantName": "Lexim",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xb8C39D4DaBb7ED12b3b12847A958614EA78353CD.json",
+  "RPGF3_Application_UID": "0xc6055ead2ae4e61dfba1ec5c8b547768f5842b047d9f60e912d68e4af2c38f03",
+  "applicantAddress": "0xb8C39D4DaBb7ED12b3b12847A958614EA78353CD"
 }

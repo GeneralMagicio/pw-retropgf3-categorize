@@ -1,0 +1,49 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "http://github.com/playerx",
+  "bio": "Software Engineer since 2005. I love creating online games 👾 entertaining people 🤡",
+  "contributionDescription": "The goal of the project is to simplify the user onboarding flow by combining the web standard - WebAuthn (FaceID/Fingerprint Authentication) with Account Abstraction (ERC-4337).\n\nInstalling a chrome extension, or a mobile app to use a wallet is a big blocker for user onboarding. Instead, we should use modern standards like WebAuthn, Account Abstraction and create a SDK, which can be integrated into any website in a few lines of code.\n\nWebAuthn is already available in all major browsers, including mobile browsers, like Safari on iOS and Chrome on Android. There is no approval necessary from authorities (Apple, Google, etc.) to use this new approach.\n\nUsers don't need to know anything about blockchain to do the onboarding using this approach.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/G7DAO/account-abstraction-webauthn",
+      "description": "Repo for the project"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://web3-onboarding-example.game7.io",
+      "description": "Demo for the new user onboarding flow"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://goerli-optimism.etherscan.io/address/0xF5e93E83383CaBBC90aee394f2a9dB665ffE9eBd#code",
+      "description": "Account Factory Contract for Account Abstraction (ERC-4337)"
+    }
+  ],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "I don't have any past contributions on the Optimism Collective.\nHowever, this new approach of onboarding users will help engineers to onboard millions of users without any friction. We are preparing an SDK + Contracts, which can be integrated easily into any website and onboard users instantly.",
+  "impactMetrics": [
+    {
+      "description": "Prizes won at ETH Global",
+      "number": 5,
+      "url": "https://ethglobal.com/showcase/avatar-protocol-z6md2"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0xE5F48897E47530af72a818e03381A8C7d13e1Db9",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Smart Onboarding SDK",
+  "applicantName": "playerx",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x91D76D31080ca88339a4E506aFfB4dED4b192bCb.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x91D76D31080ca88339a4E506aFfB4dED4b192bCb.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x91D76D31080ca88339a4E506aFfB4dED4b192bCb.json",
+  "RPGF3_Application_UID": "0xccaf5bb802ca9e40522ef61eb345a4bd36e4a96375071d90990f45102a7386f6",
+  "applicantAddress": "0x91D76D31080ca88339a4E506aFfB4dED4b192bCb"
+}

@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://thegraph.com/",
-  "bio": "The Graph organizes and makes usable web3 data for dapps via GraphQL. ",
+  "bio": "Director of Global Business at Edge & Node, the initial team behind The Graph and now one of 6 core developer teams working on the technology for the world.\n",
   "contributionDescription": "The Graph has supported Optimism since the initial launch of mainnet. More on that here: https://thegraph.com/blog/graph-optimistic-ethereum/. \n\nSince Optimism mainnet launch, The Graph's hosted service, subsidized by The Graph ecosystem (meaning completely free for dapps) has served:\n\n22.7B queries\n1.15K subgraphs\nwith a 99.97% query success rate.\n\nOver the past 30 days alone, The Graph has served 1.24B queries.\nAlso, The Graph supports Optimism Goerli and Kovan, and on testnet has served:\n\nGoerli\n1.24B queries\n272 subgraphs\n99.98% query success\n\nKovan\n173M queries\n154 subraphs\n99.99% query success",
   "contributionLinks": [
     {
@@ -37,14 +37,10 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "Project": "Kyle Rojas",
-  "Applicant Type": "PROJECT",
-  "OSS Directory": "",
-  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x9e8B73b5563c9aF1C35e5Aad588B67B6A414576b.json",
-  "Githubs": "",
-  "Tags": "DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK",
-  "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Developer Ecosystem, End User Experience and Adoption, Op Stack",
-  "pwIsFlagged": false,
-  "pwCategory": "Blockchain Infrastructure"
+  "displayName": "Kyle Rojas",
+  "applicantName": "Kyle Rojas",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9e8B73b5563c9aF1C35e5Aad588B67B6A414576b.jpeg",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x9e8B73b5563c9aF1C35e5Aad588B67B6A414576b.json",
+  "RPGF3_Application_UID": "0x37778fd600ab6787836d52df46503c401a7b482ca5b63b42b2e84e7f2f2508d0",
+  "applicantAddress": "0x9e8B73b5563c9aF1C35e5Aad588B67B6A414576b"
 }

@@ -1,7 +1,7 @@
 {
   "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://www.linkedin.com/in/theazeemkhan/",
-  "bio": "Azeem Khan is the Head of Impact at Gitcoin.",
+  "bio": "Azeem Khan is the Head of Impact at Gitcoin, a leading DAO that has distributed over $60 million in grants.",
   "contributionDescription": "As the Head of Impact at Gitcoin I'm leading BD, Sales, Partnerships, and so on at Gitcoin DAO for all five of the products and offerings we have. One of those is the Public Goods Network (PGN), which is OP Stack L2 that we recently launched, and part of my role at Gitcoin has been to help further efforts on PGN. This means doing things like connecting the team to individuals at DEXs, wallets, bridges, and so on. ",
   "contributionLinks": [
     {
@@ -33,14 +33,11 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "Project": "azeem",
-  "Applicant Type": "INDIVIDUAL",
-  "OSS Directory": "",
-  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x9600e2eE6377DAdad7299B120026661c336A5e6d.json",
-  "Githubs": "",
-  "Tags": "OP_STACK",
-  "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Layer 2 Scaling, Decentralized Exchanges (DEXs), Blockchain Infrastructure",
-  "pwIsFlagged": false,
-  "pwCategory": "Layer 2 Scaling"
+  "displayName": "azeem",
+  "applicantName": "azeem",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9600e2eE6377DAdad7299B120026661c336A5e6d.jpeg",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x9600e2eE6377DAdad7299B120026661c336A5e6d.jpeg",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x9600e2eE6377DAdad7299B120026661c336A5e6d.json",
+  "RPGF3_Application_UID": "0xd094dcd58c54c1addca413ae47fc9c858093af889a40c05d9b4024b27c658d3c",
+  "applicantAddress": "0x9600e2eE6377DAdad7299B120026661c336A5e6d"
 }

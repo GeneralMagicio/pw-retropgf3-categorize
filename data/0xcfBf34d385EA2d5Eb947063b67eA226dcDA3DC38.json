@@ -1,39 +1,85 @@
 {
-  "applicantType": "PROJECT",
-  "websiteUrl": "https://onchainmagic.xyz",
-  "bio": "Onchain Magic is a mobile-first application for musicians. Live on OP mainnet.",
-  "contributionDescription": "Onchain Magic: Simplifying Onchain Music Publishing for Musicians\n\nProblem Solved: Bringing a song to the blockchain can be daunting for musicians, demanding multiple steps from wallet creation to smart contract deployment.\n\nSolution: Onchain Magic, at https://onchainmagic.xyz, transforms this. \n\nMusicians:\n1. Install our Progressive Web App.\n2. Sign in via Gmail; wallet creation is automatic.\n3. Upload content - stories, songs, or videos.\n4. Effortlessly post as a Zora Drop on Optimism for $0.17 (gas fees).\n\nImpact: 10+ creators have used our tool, especially in hyperinflation-hit Buenos Aires, making blockchain affordable. Artists earn 0.000444 ETH per sold edition.\n\n",
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://github.com/sweetmantech/",
+  "bio": "I am a software engineer. I've been building core infrastructure and applications on OP / Base & Zora for the past 12+ months. I write open source code.",
+  "contributionDescription": "Software Engineer: Onchain Solutions for Musicians\n\nProblem: Musicians face hurdles integrating with blockchain, especially in mobile-first and economically challenging regions.\n\nSolutions:\nOnchain Magic (https://onchainmagic.xyz): Simplified onchain media publishing, with gas fees covered. Vital for creators in Buenos Aires.\nOnchain Albums: Streamlined smart wallet creation for musicians.\nZora Rewards Leaderboard: Transparent revenue data for Zora Protocol creators.\nRelief: A game using Zora's onchain assets, enhancing Heno's album experience.\nAdditionally, developed infrastructure for Decent.xyz, Defient.co, Mesa & more on OP.",
   "contributionLinks": [
     {
-      "type": "OTHER",
-      "url": "https://www.onchainmagic.xyz/",
-      "description": "Visit on mobile to download the application"
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x8Ae36b1459678f234C9d9C2fe383246909982EEf",
+      "description": "Custom Party Minter for Collectible Drops written by for Onchain Magic"
     },
     {
       "type": "GITHUB_REPO",
-      "url": "https://github.com/SweetmanTech/pwa-privy",
-      "description": "private repository for the application code"
+      "url": "https://github.com/SweetmanTech/Heno-Relief-Game",
+      "description": "Code for Relief Game for Heno.'s Album Drop."
     },
     {
-      "type": "CONTRACT_ADDRESS",
-      "url": "https://optimistic.etherscan.io/address/0x78b524931e9d847c40BcBf225c25e154a7B05fDA",
-      "description": "Zora1155 contracts we use to deploy music-related content onchain"
+      "type": "OTHER",
+      "url": "https://play.mynameisheno.com/",
+      "description": "Relief Game for Heno.'s Album Drop."
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/SweetmanTech/",
+      "description": "My personal Github with open-source contributions"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/SweetmanTech/zora-reward-leaderboard",
+      "description": "Code for Zora Rewards Leaderboard"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://leaderboard.onchainmagic.xyz/",
+      "description": "Zora Rewards Leaderboard: Transparent revenue data for Zora Protocol creators."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.onchainmagic.xyz/",
+      "description": "Onchain Magic: Simplified onchain media publishing, with gas fees covered."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.onchainalbum.xyz/",
+      "description": "Onchain Albums: Streamlined smart wallet creation for musicians"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/SweetmanTech/ERC6551-Create-UI",
+      "description": "Code for Onchain Albums"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/@onchainexperiments",
+      "description": "Onchain Experiments - my YouTube Channel"
     }
   ],
   "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
     "END_USER_EXPERIENCE_AND_ADOPTION"
   ],
-  "impactDescription": "Benefits:\n\n- Tangible: Introduced musicians like SolSiete.eth and DavydMusic.eth to onchain publishing. Artists who never profited from social platforms now earn ETH.\n- Intangible: Simplified entry into the blockchain world, enhancing Optimism's user base and showcasing a user-friendly blockchain experience.\n\nBeneficiaries:\n- Musicians: e.g., Sol Siete, DavydMusic.\n- Collectives: Collaborated with MusicaW3 and Invest in Music.\n- Fans: sebas.eth and bosco.eth are active participants.\n\nMerging digital art's potential with Optimism's affordability, Onchain Magic empowers everyday musicians in the blockchain era.",
+  "impactDescription": "Benefits:\n\n- Tangible: Introduced musicians like SolSiete.eth and DavydMusic.eth to onchain publishing. Artists who never profited from social platforms now earn ETH.\n- Intangible: Simplified entry into the blockchain world, enhancing Optimism's user base and showcasing a user-friendly blockchain experience.\n\nBeneficiaries:\n- Musicians: e.g., Sol Siete, DavydMusic & Warroking.\n- Collectives: MusicaW3 and Invest in Music.\n- Fans: sebas.eth and bosco.eth are active participants.\n\nMerging digital art's potential with Optimism's affordability, Onchain Magic empowers everyday musicians in the blockchain era.",
   "impactMetrics": [
     {
+      "description": "number of subscribers on YouTube",
+      "number": 1150,
+      "url": "https://www.youtube.com/@onchainexperiments"
+    },
+    {
       "description": "number of posts on Optimism",
-      "number": 18,
-      "url": "https://testnet.zora.co/collect/ogor:0x8bed50b9f74eed9049a9d5178aa5a8a8e7c9cfa2"
+      "number": 201,
+      "url": "https://optimistic.etherscan.io/address/0x7d1a46c6e614A0091c39E102F2798C27c1fA8892"
     },
     {
       "description": "number of unique creators",
-      "number": 5,
+      "number": 65,
       "url": "https://testnet.zora.co/collect/ogor:0x8bed50b9f74eed9049a9d5178aa5a8a8e7c9cfa2"
+    },
+    {
+      "description": "ETH earned by creators",
+      "number": 0.5,
+      "url": "https://leaderboard.onchainmagic.xyz/"
     }
   ],
   "fundingSources": [],
@@ -43,14 +89,11 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "Project": "Onchain Magic",
-  "Applicant Type": "PROJECT",
-  "OSS Directory": "Not Found",
-  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xcfBf34d385EA2d5Eb947063b67eA226dcDA3DC38.json",
-  "Githubs": "https://github.com/SweetmanTech/pwa-privy",
-  "Tags": "",
-  "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Tokenization Platforms, Digital Identity, Blockchain Infrastructure, Blockchain Gaming",
-  "pwIsFlagged": false,
-  "pwCategory": "Content Creation"
+  "displayName": "Sweetman",
+  "applicantName": "Sweetman",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xcfBf34d385EA2d5Eb947063b67eA226dcDA3DC38.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xcfBf34d385EA2d5Eb947063b67eA226dcDA3DC38.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xcfBf34d385EA2d5Eb947063b67eA226dcDA3DC38.json",
+  "RPGF3_Application_UID": "0x32c22612166b2cf9a33335b6426914eb962d5afcefe48ed4983792cf6a168326",
+  "applicantAddress": "0xcfBf34d385EA2d5Eb947063b67eA226dcDA3DC38"
 }

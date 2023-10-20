@@ -1,0 +1,53 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://www.sphinx.dev",
+  "bio": "DevOps platform for smart contract deployments",
+  "contributionDescription": "Sphinx automates the smart contract deployment process, making it easier to reliably deploy smart contracts across many chains. Sphinx's Foundry plugin makes the deployment process idempotent, which means that each transaction in a deployment will be executed exactly once, even if the script exits midway or if the script is executed more than once. Sphinx also provides a deployment preview, which allows developers to see exactly what they're deploying before it's executed. Sphinx also has an opt-in DevOps platform that makes it easy to deploy from a CI process, and also takes care of funding and executing deployments.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://sphinx.dev",
+      "description": "Website"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/sphinx-labs/sphinx",
+      "description": "GitHub"
+    }
+  ],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
+  "impactDescription": "Sphinx's library has been downloaded over 2,000 times on npm and currently has 186 stars on GitHub. Sphinx has been used by Wonderland (https://defi.sucks/) in production. Their CTO said, \"Sphinx is a game changer for deploying smart contracts across chains. Finally, we can say goodbye to deploying from local computers, getting gas tokens on every chain, and using private keys in .env files! I believe these types of solutions are more than just nice-to-have; they're critical in the space.\"",
+  "impactMetrics": [
+    {
+      "description": "Downloads",
+      "number": 2000,
+      "url": "https://npmtrends.com/@sphinx-labs/plugins"
+    },
+    {
+      "description": "GitHub stars",
+      "number": 186,
+      "url": "https://github.com/sphinx-labs/sphinx"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 27967.65,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0x41F01050a26d45F1621AF2C84527813306C729CB",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Sphinx (formerly ChugSplash)",
+  "applicantName": "Sam Goldman",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x1A3DAA6F487A480c1aD312b90FD0244871940b66.json",
+  "RPGF3_Application_UID": "0xfaf9206c9d5c4c2df0edd60d2abef094b823610341f042e359e1c871956ee084",
+  "applicantAddress": "0x1A3DAA6F487A480c1aD312b90FD0244871940b66"
+}

@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://t.me/mirror_curator_dao",
-  "bio": "A DAO for high quality Web3 contents curation",
+  "bio": "Mirror Curator DAO is a DAO for curating high quality Web3 related contents including Mirror articles, tweets, blogs and spreading with our telegram channel.",
   "contributionDescription": "Now information distribution is mainly dependent on algorithms but the problem is most of them are useless. At Mirror Curator DAO we sync Web3 contents on Mirror and read them one by one.We also browse contents on Twitter. Then we share high quality contents based on our understanding. By doing so readers get more valuable knowledge while creators receive more attention.",
   "contributionLinks": [
     {
@@ -40,14 +40,10 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "Project": "mcdao",
-  "Applicant Type": "PROJECT",
-  "OSS Directory": "",
-  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xd35C826BF2bEd9a6a448A184026199B500D60514.json",
-  "Githubs": "",
-  "Tags": "END_USER_EXPERIENCE_AND_ADOPTION",
-  "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Content Curation and Discovery",
-  "pwIsFlagged": false,
-  "pwCategory": "Content Creation"
+  "displayName": "mcdao",
+  "applicantName": "Mirror Curator DAO",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xd35C826BF2bEd9a6a448A184026199B500D60514.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xd35C826BF2bEd9a6a448A184026199B500D60514.json",
+  "RPGF3_Application_UID": "0x7ff743bfaa6a5a7c982fb76e983d668b977af06905ba9a2ffda541ea055b91e8",
+  "applicantAddress": "0xd35C826BF2bEd9a6a448A184026199B500D60514"
 }

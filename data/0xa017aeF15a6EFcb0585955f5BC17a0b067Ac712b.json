@@ -1,0 +1,47 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://twitter.com/Junipero47",
+  "bio": "I'm a crypto developer,enthusiastic,Defi degen trader,community manger ",
+  "contributionDescription": "I'm a crypto developer working tirelessly to explore the optimism evm,where technology meets web3,I'm a community moderate,social media influencer,lover of Defi and and investor,I would love to explore the op ecosystem and help build and bring out that which op has through RetroPGF",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://etherscan.com",
+      "description": "In this badge holders can be able to find out my contributions"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "I'm a crypto developer working tirelessly to explore the optimism evm,where technology meets web3,I'm a community moderate,social media influencer,lover of Defi and and investor,I would love to explore the op ecosystem and help build and bring out that which op has through RetroPGF",
+  "impactMetrics": [
+    {
+      "description": "#16",
+      "number": 10,
+      "url": "https://etherscan.com"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 10,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0xa017aeF15a6EFcb0585955f5BC17a0b067Ac712b",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Junipero",
+  "applicantName": "Junipero",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xa017aeF15a6EFcb0585955f5BC17a0b067Ac712b.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xa017aeF15a6EFcb0585955f5BC17a0b067Ac712b.json",
+  "RPGF3_Application_UID": "0x3e5afdbbc70bb1a81f85f0bb093d22d450e8d933ba41b2675e49a4ec7c45397d",
+  "applicantAddress": "0xa017aeF15a6EFcb0585955f5BC17a0b067Ac712b"
+}

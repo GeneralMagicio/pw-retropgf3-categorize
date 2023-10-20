@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
-  "websiteUrl": "https://app.alphaday.com",
-  "bio": "Alphaday builds crypto experience dashboards.",
+  "websiteUrl": "https://app.alphaday.com/b/optimism/",
+  "bio": "Alphaday is a powerful workflow aggregator that pulls in crypto news, on-chain data, social media, web3 services and much more into one customizable UI.",
   "contributionDescription": "We have built an Optimism Community Dashboard to serve the Community. By having all the latest Optimism-related social feeds, blogs, on-chain metrics and access to dapps themselves, community members can quickly stay informed and interact with the Optimism ecosystem.\nOur complete proposal was published on Optimism Grants here: https://app.charmverse.io/op-grants/page-13585052320942648\nWe were redirected to RPGF's through feedback.",
   "contributionLinks": [
     {
@@ -50,14 +50,10 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "Project": "Mike-Alphaday",
-  "Applicant Type": "PROJECT",
-  "OSS Directory": "Not Found",
-  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x4C67a8bA135012B7ab124A323E08448a673bb8Dc.json",
-  "Githubs": "https://github.com/AlphadayHQ",
-  "Tags": "",
-  "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Finance (DeFi), Layer 2 Scaling, Smart Contract Platforms, Blockchain Infrastructure",
-  "pwIsFlagged": false,
-  "pwCategory": "Community Building"
+  "displayName": "Mike-Alphaday",
+  "applicantName": "Mike-Alphaday",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x4C67a8bA135012B7ab124A323E08448a673bb8Dc.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x4C67a8bA135012B7ab124A323E08448a673bb8Dc.json",
+  "RPGF3_Application_UID": "0x90e526cef4cd77bfe4db1564426afc54b633f47bb2a47cda7c5c99674d0a2183",
+  "applicantAddress": "0x4C67a8bA135012B7ab124A323E08448a673bb8Dc"
 }

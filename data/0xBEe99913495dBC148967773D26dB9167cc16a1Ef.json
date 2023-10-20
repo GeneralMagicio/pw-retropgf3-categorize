@@ -1,0 +1,40 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://twitter.com/Yuelle5",
+  "bio": "crypto is mystery",
+  "contributionDescription": "help the ecosysytem mint nfts,explore what kind of chain is optimism,very cheap than ethereum virtual machine transaction and also in other chain thts why i totally will use this in every day more affordable and very fast connection also cheap,.more building to come optimism congrats",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://twitter.com/Yuelle5",
+      "description": "cryto is mystery"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "help the ecosysytem mint nfts,explore what kind of chain is optimism,very cheap than ethereum virtual machine transaction and also in other chain thts why i totally will use this in every day more affordable and very fast connection also cheap,.more building to come optimism congrats",
+  "impactMetrics": [
+    {
+      "description": "download",
+      "number": 49,
+      "url": "https://twitter.com/Yuelle5"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0xBEe99913495dBC148967773D26dB9167cc16a1Ef",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "blincke",
+  "applicantName": "blincke",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xBEe99913495dBC148967773D26dB9167cc16a1Ef.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xBEe99913495dBC148967773D26dB9167cc16a1Ef.json",
+  "RPGF3_Application_UID": "0xe3774374ab661c3fefef4da65be71d45cd372bc81888acb213c287f6ec374a6e",
+  "applicantAddress": "0xBEe99913495dBC148967773D26dB9167cc16a1Ef"
+}

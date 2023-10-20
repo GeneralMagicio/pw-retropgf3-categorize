@@ -1,0 +1,75 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://linktr.ee/refiphangan",
+  "bio": "Advocating for regenerative economical approach | Onboarding and Edu events | Welcome Hub for the community",
+  "contributionDescription": "* We are Promoting and onboarding to optimism during irl events \n* We are Promoting and onboarding to optimism via X posts & spaces\n* We are using Optimism chain for our 1st Community Member NFT. Promoting during future NFT shill campaigns              ",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://x.com/refiphangan/status/1711766987276460347?",
+      "description": "Banner during event "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/refiphangan/status/1712400738914320477?",
+      "description": "X post about NFT"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/refiphangan/status/1713058607812788250?s",
+      "description": "X post about Optimism QF on Giveth"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://x.com/refiphangan/status/1712817661166719154?",
+      "description": "X post about Optimism QF on Giveth"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/refiphangan/status/1712281176193577087?",
+      "description": "X post about event banner"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/refiphangan/status/1712483115267142073?",
+      "description": "X space on NFT launch on Optimism "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/refiphangan/status/1704831928036454851?",
+      "description": "X post promoting donations via Optimism"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "Promoting at in-person events - This would help raise awareness of Optimism among attendees and attract new users, developers, and projects to build on it.\n\nPromoting via social media - Engaging communities on platforms like Twitter and Discord would help spread the word about Optimism to a wider online audience.\n\nUsing Optimism for a community NFT project - Successfully issuing and trading NFTs on Optimism would demonstrate its functionality and capabilities. Promoting future drops could encourage others to also use Optimism for applications.",
+  "impactMetrics": [
+    {
+      "description": "Donations via Optimism ",
+      "number": 11,
+      "url": "https://giveth.io/project/refi-phangan"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 0,
+      "description": "No"
+    }
+  ],
+  "payoutAddress": "0xa8258ED271BB9be9d7E16c5818E45eF6F2577d92",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Refi Phangan",
+  "applicantName": "ReFi Phangan",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xa8258ED271BB9be9d7E16c5818E45eF6F2577d92.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xa8258ED271BB9be9d7E16c5818E45eF6F2577d92.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xa8258ED271BB9be9d7E16c5818E45eF6F2577d92.json",
+  "RPGF3_Application_UID": "0x7f66e162c6ff0ebfc20fe8198af210936ff4917fc06c1c47630b89f3000958b4",
+  "applicantAddress": "0xa8258ED271BB9be9d7E16c5818E45eF6F2577d92"
+}

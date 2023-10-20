@@ -1,0 +1,73 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://nicenode.xyz",
+  "bio": "Set up a node in no-time on every modern computer without any technical knowledge",
+  "contributionDescription": "With just a few clicks, you can run an OP Stack node and other OP native nodes - like a Farcaster Hub!\n\nNiceNode supports chains that implement the OP Stack’s node - an OP execution (op-geth, op-erigon, op-nethermind, etc.) and consensus client (op-node). Users can start and stop the OP node, change its settings, and monitor its status and usage.\n\nAdditionally, an OP native protocol - Farcaster - is supported. A Farcaster Hub stores the state of the decentralized social media protocol. Users can easily run a Farcaster Hub, Hubble, using NiceNode's UI with only a few clicks! \n\nNiceNode works great on Ubuntu and other Linux distros work well now and is available to try on Mac and Windows.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://tape.xyz/channel/johnsgresham",
+      "description": "Tape (Lenstube) Channel"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/NiceNode/nice-node",
+      "description": "Github repository"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://mirror.xyz/nicenode.eth",
+      "description": "Blog (Mirror)"
+    }
+  ],
+  "impactCategory": [
+    "OP_STACK"
+  ],
+  "impactDescription": "NiceNode provides the most simple way for users to run nodes. This gives Optimists a non-intimidating way to participate in the long-term health, resiliency, and decentralization of the Collective. \n\nWe just released Optimism Sepolia, Base node, and Farcaster Hub support and have not marketed or tracked usage for these capabilities fully. We have had limited impact at this time. There are on the order of tens of users experimenting with the app. The app downloads from our Github repo has reached +9500 downloads!",
+  "impactMetrics": [
+    {
+      "description": "# of total downloads",
+      "number": 9500,
+      "url": "https://github.com/NiceNode/nice-node#nicenode"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 21521.52,
+      "description": ""
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 40000,
+      "description": "Ethereum Ecosystem Support Program Grant"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 60000,
+      "description": "Sum of Lifetime Gitcoin Grants funding"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 10000,
+      "description": "CityDAO Grant"
+    }
+  ],
+  "payoutAddress": "0x9cce47E9cF12C6147c9844adBB81fE85880c4df4",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "NiceNode",
+  "applicantName": "NiceNode",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9cce47E9cF12C6147c9844adBB81fE85880c4df4.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x9cce47E9cF12C6147c9844adBB81fE85880c4df4.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x9cce47E9cF12C6147c9844adBB81fE85880c4df4.json",
+  "RPGF3_Application_UID": "0xdee444308961ba4f353fc5912a3cf87ffb002fb4c3f5674182e4dbab75bf0622",
+  "applicantAddress": "0x9cce47E9cF12C6147c9844adBB81fE85880c4df4"
+}

@@ -38,15 +38,10 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "Project": "mrlawyer88",
-  "Applicant Type": "INDIVIDUAL",
-  "OSS Directory": "",
-  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xa47dCC127BD2487B01477D8e381dCEd5de5e5033.json",
-  "Githubs": "",
-  "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK",
-  "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "End User Experience and Adoption, Developer Ecosystem, Collective Governance",
-  "pwIsFlagged": true,
-  "pwFlaggedReason": "This application should be flagged for violating the first rule by promising future deliverables or impact. The applicant mentions wanting to give lectures on financial literacy and how to use blockchain technologies with optimism in the future.",
-  "pwCategory": "Education"
+  "displayName": "mrlawyer88",
+  "applicantName": "mrlawyer88",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xa47dCC127BD2487B01477D8e381dCEd5de5e5033.jpeg",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xa47dCC127BD2487B01477D8e381dCEd5de5e5033.json",
+  "RPGF3_Application_UID": "0x177ae4c4d07533553746b930a101c752aa1a676163db5bc2666b8eacf06920c3",
+  "applicantAddress": "0xa47dCC127BD2487B01477D8e381dCEd5de5e5033"
 }

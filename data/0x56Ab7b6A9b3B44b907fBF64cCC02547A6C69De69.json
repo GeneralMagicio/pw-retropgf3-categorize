@@ -1,0 +1,37 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://app.optimism.io/profile/rpgf-application/basic-info",
+  "bio": "12",
+  "contributionDescription": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://app.optimism.io/profile/rpgf-application/impact-statement",
+      "description": "1"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
+  "impactDescription": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+  "impactMetrics": [
+    {
+      "description": "1",
+      "number": 1,
+      "url": "https://app.optimism.io/profile/rpgf-application/impact-statement"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x56Ab7b6A9b3B44b907fBF64cCC02547A6C69De69",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "eqw",
+  "applicantName": "xxoo",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x56Ab7b6A9b3B44b907fBF64cCC02547A6C69De69.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x56Ab7b6A9b3B44b907fBF64cCC02547A6C69De69.json",
+  "RPGF3_Application_UID": "0x265fc522319383aaebbf7393090586262a6b9ec87cca47fd5744d1aadcfd86d9",
+  "applicantAddress": "0x56Ab7b6A9b3B44b907fBF64cCC02547A6C69De69"
+}

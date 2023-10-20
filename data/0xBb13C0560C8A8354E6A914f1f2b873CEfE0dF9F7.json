@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
-  "websiteUrl": "https://twitter.com/Digital3states",
-  "bio": "🏡Exploring Web3 real estate opportunities. Earn while you hold. Rentable Airbnb",
+  "websiteUrl": "https://twitter.com/AlphaminerETH",
+  "bio": "🏡 Exploring #web3 real estate opportunities | Earn while you hold. | NFT-backed investing | Join the future of #RealEstate | Founder - \n@Alphaminereth",
   "contributionDescription": "Hello and good morning,\n\nI'm launching a real estate investment opportunity leveraging my 20 years of experience building homes with my father. Together, we bring over 40 years of expertise in crafting custom homes.\n\nWe're seeking $500-650K USD to:\n1.) Purchase land\n2.) Construct the home\n3.) Furnish it\n\nOnce completed, the property joins our rental program, generating income for investors. With our housing background, investors should recoup their investment by year 5.\n\nAfterward, we sell the home and share the profits. Investors can also use the property, akin to a timeshare but without pesky fees. This property pays you back over time, and we never charge maintenance fees.",
   "contributionLinks": [
     {
@@ -28,15 +28,10 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "Project": "Digital Estates",
-  "Applicant Type": "PROJECT",
-  "OSS Directory": "",
-  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xBb13C0560C8A8354E6A914f1f2b873CEfE0dF9F7.json",
-  "Githubs": "",
-  "Tags": "END_USER_EXPERIENCE_AND_ADOPTION",
-  "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Real Estate Investment, Web3 Business Model",
-  "pwIsFlagged": true,
-  "pwFlaggedReason": "This application should be flagged for violating rule 1: \"Promises of future impact - promises of future deliverables or impact are not allowed.\" The applicant promises future deliverables such as the construction of a home and future income for investors.",
-  "pwCategory": "Real Estate Tokenization Platforms"
+  "displayName": "Digital Estates",
+  "applicantName": "Alphaminer",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xBb13C0560C8A8354E6A914f1f2b873CEfE0dF9F7.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xBb13C0560C8A8354E6A914f1f2b873CEfE0dF9F7.json",
+  "RPGF3_Application_UID": "0x7a860cd4ac680eeccebbf9244be8a82990e9aff851db16e291fe13c1b04800c9",
+  "applicantAddress": "0xBb13C0560C8A8354E6A914f1f2b873CEfE0dF9F7"
 }

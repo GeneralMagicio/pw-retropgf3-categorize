@@ -1,7 +1,7 @@
 {
   "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://t.me/+EzJIMyD0Ov02YzU0",
-  "bio": "I offering tutorials with telegram on testnets for new projects and blockchains",
+  "bio": "I quickly drawn to the qualities of blockchain and became passionate about this world. I have a twitter account that allows me to  share my knowledge. ",
   "contributionDescription": "I give tutorial, informations on new blockchain projects and quest/tutorial airdrop on telegram and show stepby step how to add a contract on blockchain with remix.\nI m also a testing user for applications like Oyabum on Optimism chain. \nI also help my followers vote for governance by reminding them of important events.",
   "contributionLinks": [
     {
@@ -34,14 +34,10 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "Project": "sporapok",
-  "Applicant Type": "INDIVIDUAL",
-  "OSS Directory": "",
-  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x43075f64faF7D910bD4fc644c12F2fffBBb8c536.json",
-  "Githubs": "",
-  "Tags": "DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION",
-  "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Developer Ecosystem, End User Experience and Adoption",
-  "pwIsFlagged": false,
-  "pwCategory": "Education"
+  "displayName": "sporapok",
+  "applicantName": "sporapok",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x43075f64faF7D910bD4fc644c12F2fffBBb8c536.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x43075f64faF7D910bD4fc644c12F2fffBBb8c536.json",
+  "RPGF3_Application_UID": "0xd96f608ed991ad278bcceb432b3b69834307de82f8213ab4da67c31d2677821e",
+  "applicantAddress": "0x43075f64faF7D910bD4fc644c12F2fffBBb8c536"
 }

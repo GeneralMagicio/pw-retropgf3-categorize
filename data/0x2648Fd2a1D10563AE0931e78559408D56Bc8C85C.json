@@ -1,0 +1,70 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://otterscan.io/",
+  "bio": "Otterscan is a fast, local, free and open source Ethereum block explorer",
+  "contributionDescription": "Otterscan is a fast, local, private and opensource block explorer. It has a very low footprint, which allows it to run in consumer hardware, not requiring much more resources than a regular archive node.\n\nIt has a decoupled architecture, which means it is composed by an UI and an API which can be used separately. That enabled an increasing ecosystem to flourish:\n\n- Hosted APIs by Llamanodes and Quicknode\n- Community-develop Dappnode packages\n- Otterscan API implemented in Anvil, allowing Otterscan UI to be used in local development.\n- OP-Otterscan fork developed by Test-in-Prod team.\n\nThe last one enabled the OP collective to use Otterscan since the bedrock upgrade, and now Optimism can benefit from all innovations we are building in Otterscan.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://otterscan.mainnet.testinprod.io/",
+      "description": "Public version of OP-Otterscan, hosted and maintained by Test-in-Prod team"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/otterscan/otterscan",
+      "description": "Project GitHub"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/otterscan",
+      "description": "Project Twitter"
+    }
+  ],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "OP_STACK"
+  ],
+  "impactDescription": "Optimism has been pushing for client diversity through the OP-Stack. But it is hard to justify diversity to end users when they see no clear benefit from it.\n\nOtterscan, through OP-Otterscan/OP-Erigon brings a strong motivation for a different client to be used, along with a killer dapp that can be used with it. So, supporting Otterscan means creating more incentives to justify the entire OP-Stack architecture.\n\nDeveloper ecosystem: explorers are a fundamental piece of software for developers to understand what's happening onchain. The market leader is a closed source product; we are opensource and able to be run on developers' machines. We also promote open datasets, like Sourcify for contract verification.\n\nSupporting Otterscan means less reliance on vendor lock-in and closed databases.",
+  "impactMetrics": [
+    {
+      "description": "Docker image downloads",
+      "number": 10000,
+      "url": "https://hub.docker.com/r/otterscan/otterscan"
+    },
+    {
+      "description": "Project stars on GitHub",
+      "number": 1027,
+      "url": "https://github.com/otterscan/otterscan/stargazers"
+    },
+    {
+      "description": "Twitter followers",
+      "number": 1123,
+      "url": "https://twitter.com/otterscan"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 68800,
+      "description": ""
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 40000,
+      "description": "Gitcoin Grants GR16-GG18"
+    }
+  ],
+  "payoutAddress": "0x43a0744e8a1A63C481aaDD5CEA12833D6976F851",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Otterscan",
+  "applicantName": "Willian Mitsuda",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x2648Fd2a1D10563AE0931e78559408D56Bc8C85C.json",
+  "RPGF3_Application_UID": "0xc96c57a0ae937f815981807f33703080463e59f59b9bc3449a2528870eda970c",
+  "applicantAddress": "0x2648Fd2a1D10563AE0931e78559408D56Bc8C85C"
+}

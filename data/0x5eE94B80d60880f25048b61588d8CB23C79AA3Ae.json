@@ -1,0 +1,69 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://www.superchain.eco/",
+  "bio": "A platform to accelerate the adoption and development of the OP stack. ",
+  "contributionDescription": "The Superchain Eco aims to become the primary platform for OP Stack and Superchain information, updates, and insights. We aim to accelerate the adoption and development of the OP stack, aiming to produce more and better Public Goods. The platform provides an overview of the OP Stack Ecosystem, The Superchain Ecosystem and the Ecosystems built on top of it. We are creating overviews, reports, guides, video content and infographics, while leveraging the reach to initiate gatherings between OP Stack builders to increase alignment and coordination.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://www.superchain.eco/",
+      "description": "Superchain Eco site offers a comprehensive overview of the Superchain ecosystem."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://mirror.xyz/0x5eE94B80d60880f25048b61588d8CB23C79AA3Ae",
+      "description": "Superchain Sunday is a weekly newsletter where we provides the latest updates. "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/SuperchainEco",
+      "description": "Our twitter is to distribute and spread the word of everything Superchain"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "Superchain Eco’s deep OP stack perspective has enriched the Optimism collective by offering comprehensive ecosystem insights, fostering cross-network initiatives, and nurturing a long-term community of engaged builders. Our platform is becoming a hub for education, collaboration, and innovation within the OP stack, propelling both new and existing developers towards enhanced solutions and meaningful participation in the Optimism ecosystem.\n\nWe're also working on creating a easy to access OP-stack metadata registry as prescribed here: https://github.com/ethereum-optimism/op-analytics/issues/249",
+  "impactMetrics": [
+    {
+      "description": "Subscribers via Website",
+      "number": 11,
+      "url": "https://docs.google.com/spreadsheets/d/1Xp7itQ3BfgPXnjPEQ4jdtvDEFz5FuEePrS9c38Ybx2M/edit?usp=sharing"
+    },
+    {
+      "description": "Superchain Pages/Blogs",
+      "number": 55,
+      "url": "https://www.superchain.eco/"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 0,
+      "description": "As our Platform is completely public and free, we haven't made any revenue"
+    },
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 0,
+      "description": "We applied for OP Grants 14 to build Superchain Eco, but came 1.5 points short"
+    }
+  ],
+  "payoutAddress": "0xfAD384709D78fDd8B3Cb557a9943bfaab0a31391",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Superchain Eco",
+  "applicantName": "Superchain Eco",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5eE94B80d60880f25048b61588d8CB23C79AA3Ae.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x5eE94B80d60880f25048b61588d8CB23C79AA3Ae.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x5eE94B80d60880f25048b61588d8CB23C79AA3Ae.json",
+  "RPGF3_Application_UID": "0x7f2e8ef2821d238e8d62001c389cf1bf2a387aad76a14cc993417862a4eac3ab",
+  "applicantAddress": "0x5eE94B80d60880f25048b61588d8CB23C79AA3Ae"
+}

@@ -1,0 +1,88 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://ducttape.events/",
+  "bio": "Elevating Ethereum events worldwide. 200k+ EUR prize pool in 2 hackathons. Support our efforts!",
+  "contributionDescription": "At Duct Tape, we are enabling the Optimism and Ethereum communities to grow into a way that’s aligned with our core values. Out of the 9 events we organized in the past, we accepted only support from Ethereum-aligned groups, excluding most alt L1 and venture. Hackers receive free event access, underscoring our focus on empowering builders within the community. At ETHPrague 2023, we proudly had support from the Optimism ecosystem as a sponsor, and utilized Base as a payment system on-site. Karl Floersch delivered a talk on the superchain and its developer implications. Notably, we facilitated coffee and merchandise payments through Optimism, enhancing user experience.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://ethprague.com/",
+      "description": "Seeks ideas for future Ethereum potential. Focus: future challenges and impact."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://ethereumzuri.ch/",
+      "description": "First Ethereum Community Conference in Switzerland."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.cnbc.com/2022/07/19/ethcc-paris-crypto-developers-gather-as-turmoil-grips-industry.html",
+      "description": "ETHCC's annual catacombs event organised by us, featured in CNBC"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.cnbc.com/2023/08/06/prague-institute-of-crypto-anarchy-plotting-to-bring-down-the-dollar-.html",
+      "description": "How we contributed to the local crypto community in Eastern Europe."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://ducttape.events/",
+      "description": "Our portfolio"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "We are pushing for real world adoption when possible. We encourage L2 payments on the ground without being guided by the core team. \nWe have scaled from a hackers congress to ETHPrague, to EthereumZuri.ch, and continue to educate and grow the ecosystem in Europe. ",
+  "impactMetrics": [
+    {
+      "description": "Number of speakers at @ ETHPrague 2022",
+      "number": 57,
+      "url": "https://www.youtube.com/playlist?list=PLkCRcxMT8qhZ7BJXscrgRS3bBUtjrfu8x"
+    },
+    {
+      "description": "Number of attendees at @ ETHPrague 2022",
+      "number": 600,
+      "url": "https://www.youtube.com/watch?v=Gvv-lTjmQ9o"
+    },
+    {
+      "description": "Number of speakers at @ ETHPrague 2023",
+      "number": 116,
+      "url": "https://www.youtube.com/playlist?list=PLkCRcxMT8qhbiwMX7S8FvmS9O1jp4xaVs"
+    },
+    {
+      "description": "Number of attendees at @ ETHPrague 2023",
+      "number": 2000,
+      "url": "https://www.youtube.com/watch?v=bOIYk4Hrjhw"
+    },
+    {
+      "description": "Number of speakers at @ PragueDeFiSummit",
+      "number": 56,
+      "url": "https://www.youtube.com/watch?v=Kt8oJZ2rujM&list=PLkCRcxMT8qhby2qvM91Pv3Vo2lUxJF3WG"
+    },
+    {
+      "description": "Number of attendees at @ EthereumZuri.ch",
+      "number": 500,
+      "url": "https://www.youtube.com/watch?v=ambDuD4tEqA"
+    },
+    {
+      "description": "Number of recorded talks",
+      "number": 232,
+      "url": "https://www.youtube.com/@ducttapeevents/playlists"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0xADfA088BDE3a712AB2559c7e927Ca13AA9AB9D9C",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Duct Tape ",
+  "applicantName": "Duct Tape Events",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xCD465b3998917c42D5296d9234488A7D3148AB82.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xCD465b3998917c42D5296d9234488A7D3148AB82.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xCD465b3998917c42D5296d9234488A7D3148AB82.json",
+  "RPGF3_Application_UID": "0x4227de0db7d9388d6c08f297043098cb2de64c8ecc89d08b6bef8b71d4493e47",
+  "applicantAddress": "0xCD465b3998917c42D5296d9234488A7D3148AB82"
+}

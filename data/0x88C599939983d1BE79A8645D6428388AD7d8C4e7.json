@@ -1,7 +1,7 @@
 {
   "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://budiganteng.blogspot",
-  "bio": "I'm an airdropper who works on developer projects",
+  "bio": "I am an airdropper who is involved in developer projects to expand the market for future developments",
   "contributionDescription": "I contribute to the crypto community to develop the project in the future, to make the project more advanced and developed, in the future there will certainly be more airdopers and the community will expand even more,The PGF retro project is a very good project to develop in the future",
   "contributionLinks": [
     {
@@ -38,15 +38,10 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "Project": "budi ganteng",
-  "Applicant Type": "INDIVIDUAL",
-  "OSS Directory": "",
-  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x88C599939983d1BE79A8645D6428388AD7d8C4e7.json",
-  "Githubs": "",
-  "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK",
-  "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK",
-  "pwIsFlagged": true,
-  "pwFlaggedReason": "This application should be flagged for violating the rule against promises of future impact. The applicant repeatedly claims to contribute to the development of the project in the future, without providing specific examples of past or current impact.",
-  "pwCategory": "Developer Ecosystem"
+  "displayName": "budi ganteng",
+  "applicantName": "Budi Ganteng",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x88C599939983d1BE79A8645D6428388AD7d8C4e7.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x88C599939983d1BE79A8645D6428388AD7d8C4e7.json",
+  "RPGF3_Application_UID": "0xbd6baefff2b6bd31b2bb17ef43ef59ad3abcfa3dbafe4782d06c9f6312cb155c",
+  "applicantAddress": "0x88C599939983d1BE79A8645D6428388AD7d8C4e7"
 }

@@ -1,0 +1,37 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://twitter.com/TrollsUser",
+  "bio": "Jongsjon Yourself",
+  "contributionDescription": "I try to be active in the ecosystem and community, and I also try to run the beta testnet within the optimism ecosystem itself. starting from voting profosal, and beridge. maybe only a little, but I hope I can contribute more to this big ecosystem on crypto",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://snapshot.org/#/stgdao.eth/proposal/0x1a1199e257551beac23b21fdba98f6efba2773a52135ad848fc6ad5b22b5d627",
+      "description": "https://snapshot.org/#/stgdao.eth"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM"
+  ],
+  "impactDescription": "I try to be active in the ecosystem and community, and I also try to run the beta testnet within the optimism ecosystem itself. starting from voting profosal, and beridge. maybe only a little, but I hope I can contribute more to this big ecosystem on crypto",
+  "impactMetrics": [
+    {
+      "description": "https://snapshot.org/#/stgdao.eth",
+      "number": 8,
+      "url": "https://snapshot.org/#/stgdao.eth/proposal/0x1a1199e257551beac23b21fdba98f6efba2773a52135ad848fc6ad5b22b5d627"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0xfa33A22d2CC6F497888036F3B34Dde59e6E79533",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "trollsuser",
+  "applicantName": "sat0sh1",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xfa33A22d2CC6F497888036F3B34Dde59e6E79533.json",
+  "RPGF3_Application_UID": "0x8f9d9c9473c915a1b491149a49e59bf1ff1fe6d7a2edd295af76faa1926325ee",
+  "applicantAddress": "0xfa33A22d2CC6F497888036F3B34Dde59e6E79533"
+}

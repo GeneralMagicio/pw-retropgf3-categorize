@@ -1,5 +1,5 @@
 {
-  "applicantType": "INDIVIDUAL",
+  "applicantType": "PROJECT",
   "websiteUrl": "https://forocoches.com",
   "bio": "A little Elf",
   "contributionDescription": "I have only contributed through delegation of votes. I am very interested in DAOs and the entire OP ecosystem, which is why I am always attentive to all new news regarding OP and its development. I think that everything it is building has enormous potential. Including its SDK to be able to build.",
@@ -37,16 +37,11 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "Project": "Soyduende",
-  "Applicant Type": "INDIVIDUAL",
-  "OSS Directory": "",
-  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x5ab75f5e8b00E54671EaB7F1A4F483FB52FC2D4E.json",
-  "Githubs": "",
-  "Tags": "COLLECTIVE_GOVERNANCE, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK",
-  "recategorizeReason": "NO, it's an application from an individual as the applicant uses first person pronouns such as \"I\" and \"me\" in the description.",
-  "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "COLLECTIVE_GOVERNANCE, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK",
-  "pwIsFlagged": true,
-  "pwFlaggedReason": "Flagged: The application primarily mentions contributions through 'delegation of votes' which does not meet the minimum time commitment requirement mentioned in the grant program rules.",
-  "pwCategory": "Collective Governance"
+  "displayName": "Soyduende",
+  "applicantName": "Soyduende",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5ab75f5e8b00E54671EaB7F1A4F483FB52FC2D4E.jpeg",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x5ab75f5e8b00E54671EaB7F1A4F483FB52FC2D4E.jpeg",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x5ab75f5e8b00E54671EaB7F1A4F483FB52FC2D4E.json",
+  "RPGF3_Application_UID": "0x170f0050060e0233bee25c373ebc3e170a39690ac46268e434ae452d793857c9",
+  "applicantAddress": "0x5ab75f5e8b00E54671EaB7F1A4F483FB52FC2D4E"
 }

@@ -1,0 +1,125 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://trueblocks.io",
+  "bio": "Thomas Rush, TrueBlocks' founder, is a two-time recipient of Ethereum Foundation grants. His firm, TrueBlocks delivers fast indexing data for blockchains.",
+  "contributionDescription": "TrueBlocks built a fully decentralized, open-source data indexing solution available to EVM-based blockchains (Optimism, Ethereum Mainnet, and others).\n\nUsers who want censorship-resistant, private, cheap, and fast access to unquestionably accurate chain data–free of any intermediaries and their direct or indirect costs–use TrueBlocks' local-first software.\n\nTrueBlocks uniquely enables Optimism and Ethereum users of all types to:\n\n- Build complete indexes as it looks for “every appearance of every address on the blockchain,”\n- Access pre-built indexes via IPFS and TrueBlocks’ Unchained Index smart contracts, which cheaply and equitably share the index for the public good,\n- Retrieve their on-chain data directly, cheaply, and quickly with consumer-grade hardware.\n\n",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/TrueBlocks/trueblocks-core",
+      "description": "Our main code repository"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/watch?v=c9Yx3Niv-Gs",
+      "description": "A talk I gave that very well explains our project."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://trueblocks.io",
+      "description": "Our website"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://unchainedindex.io",
+      "description": "An explanation of the Unchained Index"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://trueblocks.io/blog",
+      "description": "Our blog"
+    }
+  ],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "OP_STACK"
+  ],
+  "impactDescription": "TrueBlocks gives users a viable and scalable indexing alternative that:\n\n- Does not compromise on Optimism's nor Web 3.0’s core values of decentralization, open access, and data sovereignty.\n- Helps reduce the community’s reliance on web 2.0-like data intermediaries that put us at risk of censorship, user capture, privacy invasion, and rent-seeking,\n- Expands the utility of the node software, giving users another reason to run a node, thereby promoting decentralization,\n- Inspires node enhancement via EIP proposals and demonstrates how true decentralization can work,\n- Better insulate the entire community from regulatory overreach.\n",
+  "impactMetrics": [
+    {
+      "description": "# of stars on our repo",
+      "number": 921,
+      "url": "https://github.com/TrueBlocks/trueblocks-core"
+    },
+    {
+      "description": "Number of docker downloads",
+      "number": 3900,
+      "url": "https://dockerhub.com"
+    },
+    {
+      "description": "# of forks of our repo",
+      "number": 179,
+      "url": "https://github.com/TrueBlocks/trueblocks-core"
+    },
+    {
+      "description": "Summary of recent activity",
+      "number": 1,
+      "url": "https://medium.com/@tjayrush/trueblocks-final-report-for-ef-grant-d784653c830d"
+    },
+    {
+      "description": "Sampling of recent community recognition",
+      "number": 1,
+      "url": "https://medium.com/@tjayrush/tweets-about-trueblocks-3fdd6b9cad84"
+    },
+    {
+      "description": "Cost to produce and publish the index",
+      "number": 0,
+      "url": "https://unchainedindex.io/"
+    },
+    {
+      "description": "# of address appearances on Mainnet",
+      "number": 3790497523,
+      "url": "https://trueblocks.io/blog"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 71866.56,
+      "description": "In the Infrastructure category"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 125000,
+      "description": "Ethereum Foundation grant summer 2022"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 125000,
+      "description": "Ethereum Foundation grant summer 2018"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 95000,
+      "description": "Moloch DAO grant 2019"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 5000,
+      "description": "IPFS grant 2020"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 45000,
+      "description": "1,000s of GitCoin Grants through all 17 rounds since inception"
+    }
+  ],
+  "payoutAddress": "0xf503017d7baf7fbc0fff7492b751025c6a78179b",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "TrueBlocks / Unchained Index",
+  "applicantName": "Thomas Jay Rush",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xf503017D7baF7FBC0fff7492b751025c6A78179b.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xf503017D7baF7FBC0fff7492b751025c6A78179b.json",
+  "RPGF3_Application_UID": "0x1ecdeab23aea56e92ee2161bc0af97565d6b6d666e46fc3c1db106708ed50d97",
+  "applicantAddress": "0xf503017D7baF7FBC0fff7492b751025c6A78179b"
+}

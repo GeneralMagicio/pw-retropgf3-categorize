@@ -1,0 +1,91 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://pairwise.generalmagic.io/",
+  "bio": "Empowering decisions in Web3. 🌐 Pairwise simplifies choices, and boosts community impact.",
+  "contributionDescription": "Pairwise simplifies complex decision-making by presenting only two projects at a time for voting. This method eases voting and introduces a system where Optimism citizens can curate and share project lists with budget allocations. Facing the RetroPGF 2 challenge of assigning percentages to 196 projects, Pairwise categorizes and emphasizes individual expertise. Citizens highlight their knowledge areas, ensuring informed votes. The algorithm mirrors the Elo system used in games like League of Legends, where project comparison leads to more precise decisions. Experience the transformative power of Pairwise in RetroPGF!",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/GeneralMagicio/pw-frontend",
+      "description": "Optimism game UI with Rainbow Kit wallet connect."
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/GeneralMagicio/pw-backend",
+      "description": "Backend for Optimism game: collations & algorithm."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://pairwise.generalmagic.io/",
+      "description": "Witness innovative list creation & reshaping of community decisions."
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
+  "impactDescription": "Pairwise has been a transformative force in the Optimism Collective's decision-making. It streamlines choices, making decisions more intuitive for citizens. With expertise-driven voting, members engage with projects suited to their knowledge, ensuring better decisions. The dynamic unlocking feature keeps the process engaging, allowing greater influence over time. Strategic allocation ensures votes align with individual visions for the ecosystem. Beyond simplification, Pairwise amplifies voices, championing true digital democracy. Committed to enhancing decision-making for public good DAOs, Pairwise heralds a more democratic and inclusive future in the Optimism ecosystem, valuing every voice.",
+  "impactMetrics": [
+    {
+      "description": "Number of Citizen Users (before Oct 23)",
+      "number": 10,
+      "url": "https://pairwise.generalmagic.io/"
+    },
+    {
+      "description": "Total list created (before Oct 23)",
+      "number": 30,
+      "url": "https://pairwise.generalmagic.io/"
+    },
+    {
+      "description": "Areas Unlocked (before Oct 23)",
+      "number": 5,
+      "url": "https://pairwise.generalmagic.io/"
+    },
+    {
+      "description": "Feedback Received",
+      "number": 5,
+      "url": "https://pairwise.generalmagic.io/"
+    },
+    {
+      "description": "Projects Reached Out To",
+      "number": 100,
+      "url": "https://pairwise.generalmagic.io/"
+    },
+    {
+      "description": "Community Discussions",
+      "number": 1,
+      "url": "https://pairwise.generalmagic.io/"
+    },
+    {
+      "description": "Spot Noisy Applications with AI",
+      "number": 1,
+      "url": "https://pairwise.generalmagic.io/"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 7805.18,
+      "description": "RetroPGF 2"
+    },
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 95000,
+      "description": "Grant by the Token House"
+    }
+  ],
+  "payoutAddress": "0xd1B8dB70Ded72dB850713b2ce7e1A4FfAfAD95d1",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Pairwise",
+  "applicantName": "Pairwise",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xd1B8dB70Ded72dB850713b2ce7e1A4FfAfAD95d1.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xd1B8dB70Ded72dB850713b2ce7e1A4FfAfAD95d1.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xd1B8dB70Ded72dB850713b2ce7e1A4FfAfAD95d1.json",
+  "RPGF3_Application_UID": "0xd2388e27bb149f01f2a6ff7687a75422f91dde23920ed7c103ff01613f90d3d3",
+  "applicantAddress": "0xd1B8dB70Ded72dB850713b2ce7e1A4FfAfAD95d1"
+}

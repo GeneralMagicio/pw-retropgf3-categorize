@@ -1,0 +1,40 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://twitter.com/Offero_B",
+  "bio": "maxxi",
+  "contributionDescription": "i helped improve governance and promote decentralization,  by voting frequently on proposals that aim at improving the blockchain. i have also  worked in close ties to few projects on optimism that helps improve the metrics and onboarding into the chain.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://twitter.com/Offero_B",
+      "description": "maxxi"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "i helped improve governance and promote decentralization,  by voting frequently on proposals that aim at improving the blockchain. i have also  worked in close ties to few projects on optimism that helps improve the metrics and onboarding into the chain.",
+  "impactMetrics": [
+    {
+      "description": "governance",
+      "number": 100,
+      "url": "https://twitter.com/Offero_B"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x247373d6cb4a090a19d3b7de6c11b6cd2c50841e",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "offero",
+  "applicantName": "offero",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x247373D6cb4a090A19D3b7De6c11B6cd2c50841e.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x247373D6cb4a090A19D3b7De6c11B6cd2c50841e.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x247373D6cb4a090A19D3b7De6c11B6cd2c50841e.json",
+  "RPGF3_Application_UID": "0x4241fe27feb02836bc73b366ad3ab6a28a8b2626924d8f564bf988f730114ce0",
+  "applicantAddress": "0x247373D6cb4a090A19D3b7De6c11B6cd2c50841e"
+}

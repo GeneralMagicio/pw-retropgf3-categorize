@@ -1,7 +1,7 @@
 {
   "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://medium.com/@Optimismindonesia",
-  "bio": "Optimism Indonesia is a place to convey information about the Optimism.",
+  "bio": "Translator at Optimism Indonesia \n\nCommunity Manager at The Sandbox Indonesian\n\nbe careful there are a lot of scams out there\n\nAlways DYOR :)",
   "contributionDescription": "In addition to OP token trading on Binance, my contribution to optimism is as an Article Translator into Indonesian and a Crowdin Indonesian Translator. In addition, I also disseminated about OP As a token that is good to buy and hold long-term, this I conveyed on Telegram LBank Indonesia with my second telegram account, Alvarez. Because LBank users often Also ask me about OP. I would also like to plan to do an AMA at LBank Indonesia about Optimism.",
   "contributionLinks": [
     {
@@ -36,14 +36,10 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "Project": "Optimism Indonesia",
-  "Applicant Type": "INDIVIDUAL",
-  "OSS Directory": "",
-  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x0403c342E9F2d829864c95e51857A7187381F7DA.json",
-  "Githubs": "",
-  "Tags": "COLLECTIVE_GOVERNANCE, END_USER_EXPERIENCE_AND_ADOPTION",
-  "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Governance Tokens, User Experience and Adoption.",
-  "pwIsFlagged": false,
-  "pwCategory": "Collective Governance"
+  "displayName": "Optimism Indonesia",
+  "applicantName": "Ramadhan",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x0403c342E9F2d829864c95e51857A7187381F7DA.jpeg",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x0403c342E9F2d829864c95e51857A7187381F7DA.json",
+  "RPGF3_Application_UID": "0x0a7435424cf672ef4166ab32cc1343381c329f33cbc492a657a41e55bb430775",
+  "applicantAddress": "0x0403c342E9F2d829864c95e51857A7187381F7DA"
 }

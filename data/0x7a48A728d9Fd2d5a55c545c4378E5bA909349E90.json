@@ -1,7 +1,7 @@
 {
   "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://twitter.com/bitsplaining",
-  "bio": "Author of \"Layer 2 Landscape\" threads, & manager of node infra at Infura.",
+  "bio": "Hello! 👋 I'm an Engineering Manager at Infura, previously a lead engineer at Truffle. In my free time I write the \"Layer 2 Landscape\" Twitter thread. ",
   "contributionDescription": "My \"Layer 2 Landscape\" threads are a labor of love intended as a public good & educational resource. My threads focus on protocol updates, writings around difficult questions such as prover architecture, & educational materials written by the amazing giga-brains in our niche of the Ethereum world. By the time voting begins on this round, I will have written over 70 threads.\n\nI've also made contributions to the Optimism ecosystem in my role at Consensys. At Truffle, I built the Optimism Truffle Box & lead the Optimism Bridge Box as a starting point for developers. Now as an Engineering Manager at Infura, I'm responsible for the operation of Infura’s nodes, including Optimism & Base. Further, I continue to educate my colleagues about Layer 2 & how we can best support Ethereum scaling.\n",
   "contributionLinks": [
     {
@@ -55,14 +55,11 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "Project": "Faina",
-  "Applicant Type": "INDIVIDUAL",
-  "OSS Directory": "Address & Github Found",
-  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x7a48A728d9Fd2d5a55c545c4378E5bA909349E90.json",
-  "Githubs": "https://github.com/truffle-box/optimism-box, https://github.com/truffle-box/optimism-bridge-box",
-  "Tags": "",
-  "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Layer 2 Scaling, Blockchain Infrastructure, Ethereum Scaling",
-  "pwIsFlagged": false,
-  "pwCategory": "Education"
+  "displayName": "Faina",
+  "applicantName": "Faina",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7a48A728d9Fd2d5a55c545c4378E5bA909349E90.jpeg",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x7a48A728d9Fd2d5a55c545c4378E5bA909349E90.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x7a48A728d9Fd2d5a55c545c4378E5bA909349E90.json",
+  "RPGF3_Application_UID": "0x708fb4bb4efcfdf20a0ef673daf2df7944f0f2f91f0b607069a2ff822e2cd871",
+  "applicantAddress": "0x7a48A728d9Fd2d5a55c545c4378E5bA909349E90"
 }

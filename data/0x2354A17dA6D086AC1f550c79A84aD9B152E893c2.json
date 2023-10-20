@@ -1,7 +1,7 @@
 {
   "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://app.optimism.io/governance",
-  "bio": "Trader holder",
+  "bio": "Trader holder ",
   "contributionDescription": "I'm contributer of optimism network platform because optimism is a great good team with huge potential project.i always following every social accounts of optimism network I loved optimism network platformmnnmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmdn",
   "contributionLinks": [
     {
@@ -38,15 +38,10 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "Project": "Harishchauhan911",
-  "Applicant Type": "INDIVIDUAL",
-  "OSS Directory": "",
-  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x2354A17dA6D086AC1f550c79A84aD9B152E893c2.json",
-  "Githubs": "",
-  "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK",
-  "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Collective Governance, Developer Ecosystem, End User Experience and Adoption, Op Stack",
-  "pwIsFlagged": true,
-  "pwFlaggedReason": "This application should be flagged for violation of rules 1 and 11. The applicant did not provide an accurate description of their contributing efforts (rule 1) and the content is spammy with repeated and irrelevant phrases (rule 11).",
-  "pwCategory": "Developer Ecosystem"
+  "displayName": "Harishchauhan911 ",
+  "applicantName": "arishchauhan911",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2354A17dA6D086AC1f550c79A84aD9B152E893c2.jpeg",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x2354A17dA6D086AC1f550c79A84aD9B152E893c2.json",
+  "RPGF3_Application_UID": "0x6b9d6e39051557b8a9aa6929187265ed910bc5f1bd56f1f25d2e3d79843dffb3",
+  "applicantAddress": "0x2354A17dA6D086AC1f550c79A84aD9B152E893c2"
 }

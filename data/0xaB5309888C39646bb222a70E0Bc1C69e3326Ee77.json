@@ -1,7 +1,7 @@
 {
   "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://mirror.xyz/renoeth.eth",
-  "bio": "Reno, 44, tech enthusiast. Passionate about informatics",
+  "bio": "Reno, 44, tech enthusiast. Passionate about informatics, I explore the digital world through code and innovation. Let's embark on this tech journey together!",
   "contributionDescription": "Contributing to PoolTogether's beta testing phase allows users to identify bugs, provide valuable feedback on user experience, test application performance, assess features, and evaluate the game mechanics. This active participation helps developers refine the application, ensuring a smoother and more enjoyable experience for all users upon official launch. ",
   "contributionLinks": [
     {
@@ -38,14 +38,10 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "Project": "Reno",
-  "Applicant Type": "INDIVIDUAL",
-  "OSS Directory": "",
-  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xaB5309888C39646bb222a70E0Bc1C69e3326Ee77.json",
-  "Githubs": "",
-  "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK",
-  "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Developing Community, DeFi, User Experience and Adoption",
-  "pwIsFlagged": false,
-  "pwCategory": "End User Experience and Adoption"
+  "displayName": "Reno",
+  "applicantName": "Reno",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xaB5309888C39646bb222a70E0Bc1C69e3326Ee77.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xaB5309888C39646bb222a70E0Bc1C69e3326Ee77.json",
+  "RPGF3_Application_UID": "0x2ad4d24dcd6ba320862a09353baa3756f80aaf9027ac8ab246294c6467447495",
+  "applicantAddress": "0xaB5309888C39646bb222a70E0Bc1C69e3326Ee77"
 }

@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://castle.link/",
-  "bio": "Castle is a multi-chain EOA and multi-sig aggregator for NFTs and coins on OP.",
+  "bio": "My name is Mehran and I'm the CTO at Castle. We're working on making NFTs and other token standards safe and easy to use. We're built on Optimism and Safe.",
   "contributionDescription": "We help users manage multiple wallets on Optimism and Base blockchains. Users can connect multiple EOAs, multi-sigs (across both Optimism and Base) and manage their NFTs and coins. We integrate with NFT marketplaces and 0x to enable trading on Optimism and Base too.\n\nThe multi-sig creation process on our app is simplified. We leverage CREATE2 and multi-send to streamline onboarding for users. Users can securely manage their assets across major chains through us.",
   "contributionLinks": [
     {
@@ -45,14 +45,10 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "Project": "mehran @ castle",
-  "Applicant Type": "PROJECT",
-  "OSS Directory": "",
-  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x071D9fe61cE306AEF04b7889780f889f444D7BF7.json",
-  "Githubs": "",
-  "Tags": "END_USER_EXPERIENCE_AND_ADOPTION",
-  "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "NFT Aggregator, Wallet Management",
-  "pwIsFlagged": false,
-  "pwCategory": "Wallet Management"
+  "displayName": "mehran @ castle",
+  "applicantName": "mehran",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x071D9fe61cE306AEF04b7889780f889f444D7BF7.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x071D9fe61cE306AEF04b7889780f889f444D7BF7.json",
+  "RPGF3_Application_UID": "0xb9df52b520c2f18ab2bd7468e08a1a4b0f9c048f797466369efa61618ec19476",
+  "applicantAddress": "0x071D9fe61cE306AEF04b7889780f889f444D7BF7"
 }

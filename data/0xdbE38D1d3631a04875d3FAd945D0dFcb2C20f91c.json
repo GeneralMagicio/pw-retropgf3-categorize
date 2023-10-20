@@ -1,7 +1,7 @@
 {
   "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://dune.com/springzhang",
-  "bio": "Dune Wizards data analyst, created lots of usefule onchain data dashboards.",
+  "bio": "Onchain Data Analyst, Dune Wizards",
   "contributionDescription": "I created quite many useful dashboards on Dune, some of them are for Optimism. Will try to contribute more. I created quite many useful dashboards on Dune, some of them are for Optimism. Will try to contribute more. I created quite many useful dashboards on Dune, some of them are for Optimism. Will try to contribute more. I created quite many useful dashboards on Dune, some of them are for Optimism. Will try to contribute more.",
   "contributionLinks": [
     {
@@ -35,14 +35,10 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "Project": "Spring Zhang",
-  "Applicant Type": "INDIVIDUAL",
-  "OSS Directory": "",
-  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xdbE38D1d3631a04875d3FAd945D0dFcb2C20f91c.json",
-  "Githubs": "",
-  "Tags": "END_USER_EXPERIENCE_AND_ADOPTION",
-  "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "END_USER_EXPERIENCE_AND_ADOPTION",
-  "pwIsFlagged": false,
-  "pwCategory": "End User Experience and Adoption"
+  "displayName": "Spring Zhang",
+  "applicantName": "Spring Zhang",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xdbE38D1d3631a04875d3FAd945D0dFcb2C20f91c.jpeg",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xdbE38D1d3631a04875d3FAd945D0dFcb2C20f91c.json",
+  "RPGF3_Application_UID": "0xc7250199ce808d8825b8781a546c6944338ee82505570d0e33d7505d341a04bd",
+  "applicantAddress": "0xdbE38D1d3631a04875d3FAd945D0dFcb2C20f91c"
 }

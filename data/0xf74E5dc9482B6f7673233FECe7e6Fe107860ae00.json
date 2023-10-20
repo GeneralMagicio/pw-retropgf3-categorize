@@ -1,0 +1,41 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://digitransformagency.id",
+  "bio": "Marketing Agency Founder",
+  "contributionDescription": "being a marketer in optismn project ecosystem, being a marketer is also developing their products in web 3 space. I have been experienced being a promoter and marketer in several project in any ecosystem. From sui, ethereum, polygon, solana and many more",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://digitransformagency.id",
+      "description": "helping marketing project to develop in web 3"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "creating a good collection in optimism network by creating generated NFT arts that will afforadble for the people space in crypto space and also developing product and utility between the space. Like giveaways, 2nd collection, another whitelist opportunity and many more",
+  "impactMetrics": [
+    {
+      "description": "#jpg",
+      "number": 420,
+      "url": "https://digitransformagencyu.id"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0xf74E5dc9482B6f7673233FECe7e6Fe107860ae00",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Mathew Surya",
+  "applicantName": "Mathew Surya",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xf74E5dc9482B6f7673233FECe7e6Fe107860ae00.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xf74E5dc9482B6f7673233FECe7e6Fe107860ae00.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xf74E5dc9482B6f7673233FECe7e6Fe107860ae00.json",
+  "RPGF3_Application_UID": "0xc6769011683fb9986ab5dedf63370514bb0418685cef9e6fa6e3e4a94525ab94",
+  "applicantAddress": "0xf74E5dc9482B6f7673233FECe7e6Fe107860ae00"
+}

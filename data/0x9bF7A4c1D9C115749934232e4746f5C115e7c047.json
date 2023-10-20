@@ -1,0 +1,45 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://duckycity.io/",
+  "bio": "We are a metaverse, gamefi, socialfi project developed on Optimist",
+  "contributionDescription": "We are in the process of development, and currently, we have implemented support for connecting and logging in to our metaverse system using the OP network.\n\nHere's a brief introduction to our business model:\n\nPremium: The packages in the metaverse include various types such as Verification, VIP 1, VIP 2, etc. Users need to pay to upgrade to premium. \nSkins:\nThere will be special and limited skins and users will have to pay to own them.\nCelebrity space: Celebrities can create private spaces to meet with fans, and users must have a \"KEY\" to enter the space. \nOnline office: Users need to pay to use the online office.\n\nWe will use the OP network to carry out all transactions in our business model.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://ducky.city/",
+      "description": "Connect Ducky City with OP network"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "We are in the process of development, and currently, we have implemented support for connecting and logging in to our metaverse system using the OP network.\n\nHere's a brief introduction to our business model:\n\nPremium: The packages in the metaverse include various types such as Verification, VIP 1, VIP 2, etc. Users need to pay to upgrade to premium. \nSkins:\nThere will be special and limited skins and users will have to pay to own them.\nCelebrity space: Celebrities can create private spaces to meet with fans, and users must have a \"KEY\" to enter the space. \nOnline office: Users need to pay to use the online office.\n\nWe will use the OP network to carry out all transactions in our business model.",
+  "impactMetrics": [
+    {
+      "description": "Metaverse",
+      "number": 1,
+      "url": "https://ducky.city/"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 500000,
+      "description": "We will try to develop to contribute to building a strong Optimist ecosystem"
+    }
+  ],
+  "payoutAddress": "0x1a284BFeC7172A4A81C71B0c8c75BE58c5F73486",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Ducky City",
+  "applicantName": "Dukcy City",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9bF7A4c1D9C115749934232e4746f5C115e7c047.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x9bF7A4c1D9C115749934232e4746f5C115e7c047.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x9bF7A4c1D9C115749934232e4746f5C115e7c047.json",
+  "RPGF3_Application_UID": "0xc67c6f5fa8c400c7bc308a221d04bcf69db2d4c481d0692112386fb1624fcb8a",
+  "applicantAddress": "0x9bF7A4c1D9C115749934232e4746f5C115e7c047"
+}

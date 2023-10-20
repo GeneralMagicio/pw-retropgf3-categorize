@@ -1,7 +1,7 @@
 {
   "applicantType": "INDIVIDUAL",
-  "websiteUrl": "https://NOTYOURGALLERY.XYZ",
-  "bio": "To utilise my knowledge to assist fellow designer that are not being exposed to.",
+  "websiteUrl": "http://www.notyourgallery.xyz",
+  "bio": "I'm just a university student, using my own resources, trying to chase my dream with the resources and opportunity available right now in time turned advocate.",
   "contributionDescription": "My only promise is that if ever resources are readily made available at free cost for people that cannot or otherwise imagine it before, I'll do my best to help them see, and help them realise their dream is nothing impossible. Even if that means going against people that doesn't want the mainstream user to know much about these resources.",
   "contributionLinks": [
     {
@@ -38,15 +38,11 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "Project": "NOTYOURGALLERY",
-  "Applicant Type": "INDIVIDUAL",
-  "OSS Directory": "",
-  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xea2D97CE7c18Cf20613ed8eeE4d0f1A8b4493368.json",
-  "Githubs": "",
-  "Tags": "COLLECTIVE_GOVERNANCE, DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION, OP_STACK",
-  "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Developer Ecosystem, End User Experience and Adoption, Op Stack",
-  "pwIsFlagged": true,
-  "pwFlaggedReason": "This application should be flagged for violating rule 1, as the applicant makes a promise of future impact by stating \"My only promise is that if ever resources are readily made available at free cost for people that cannot or otherwise imagine it before, I'll do my best to help them see, and help them realise their dream is nothing impossible.\"",
-  "pwCategory": "End User Experience and Adoption"
+  "displayName": "NOTYOURGALLERY",
+  "applicantName": "Fraderklin",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xea2D97CE7c18Cf20613ed8eeE4d0f1A8b4493368.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xea2D97CE7c18Cf20613ed8eeE4d0f1A8b4493368.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xea2D97CE7c18Cf20613ed8eeE4d0f1A8b4493368.json",
+  "RPGF3_Application_UID": "0xc3de42501b975c53346f0b862f8891bbe2b3be195c33851f9a5a5e0283b5061e",
+  "applicantAddress": "0xea2D97CE7c18Cf20613ed8eeE4d0f1A8b4493368"
 }

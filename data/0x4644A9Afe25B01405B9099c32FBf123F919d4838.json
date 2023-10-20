@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://squirtle0x.dev/",
-  "bio": "Frontend Developer | Web3 builder | Glass always half full | Staker",
+  "bio": "I'm Squirtle0x, a frontend developer and crypto enthusiast since 2020. Constantly working on web3 projects be the bull or bear.",
   "contributionDescription": "Contributed to UX research for multiple Applications on OP. These deep dives into the applications experience resulted in improvements and valuable feedback for those apps/teams.\n\nI included images and solutions to issues / potential improvements I found. I believe it's important to provide solutions to the bugs found.\n\nProjects I did a review for can be seen on the github ecosystem contributions issues. \n- Hop Exchange UX Audit\n- PoolTogether UX Audit\n- Beefy UX Audit",
   "contributionLinks": [
     {
@@ -49,14 +49,11 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "Project": "Squirtle0x",
-  "Applicant Type": "PROJECT",
-  "OSS Directory": "",
-  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x4644A9Afe25B01405B9099c32FBf123F919d4838.json",
-  "Githubs": "",
-  "Tags": "DEVELOPER_ECOSYSTEM, END_USER_EXPERIENCE_AND_ADOPTION",
-  "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "UX Audit, Developer Ecosystem, End User Experience and Adoption",
-  "pwIsFlagged": false,
-  "pwCategory": "User Experience & Adoption"
+  "displayName": "Squirtle0x",
+  "applicantName": "Squirtle0x",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x4644A9Afe25B01405B9099c32FBf123F919d4838.jpeg",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x4644A9Afe25B01405B9099c32FBf123F919d4838.jpeg",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x4644A9Afe25B01405B9099c32FBf123F919d4838.json",
+  "RPGF3_Application_UID": "0xbeacd91e385918f18b4feb083757e7a4258008f313ad2aaa60ec90238e8153c1",
+  "applicantAddress": "0x4644A9Afe25B01405B9099c32FBf123F919d4838"
 }

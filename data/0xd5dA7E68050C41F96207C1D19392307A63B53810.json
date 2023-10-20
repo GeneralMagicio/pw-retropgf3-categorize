@@ -1,7 +1,7 @@
 {
   "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://www.ipaddress.my/?lang=zh_cn",
-  "bio": "加密货币爱好者",
+  "bio": "我是FFKQ，在OP刚上线我就开始屯OP,并不断累积，当然是在OK交易所里，并订阅了MIRROR时刻关注着OP的发展，并购买了发行的NFT,前两次空投都没有赶上，希望这次有机会获得空投！非常感谢！",
   "contributionDescription": "I have been holding and accumulating OP from the beginning of the issuance to now. I am always paying attention to the development of OP. I have subscribed to MIRROR and purchased NFT. As the second-layer network of Ethereum, I believe there will be more supporters! As a supporter of OP, I hope that more friends will join OP’s team. Of course, there are more competitors in the second-tier network than OP, such as ARB. Of course, I hope that OP can win in the numerous competitions. Stand out and hope to have the same bright future as Ethereum! This requires the joint support and efforts of you and me! ! ! If I am lucky enough to receive an airdrop, I will invest in OP for a longer period of time. In fact, the development of OP is inseparable from cryptocurrency support ",
   "contributionLinks": [
     {
@@ -36,15 +36,10 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "Project": "FFKQ",
-  "Applicant Type": "INDIVIDUAL",
-  "OSS Directory": "",
-  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xd5dA7E68050C41F96207C1D19392307A63B53810.json",
-  "Githubs": "",
-  "Tags": "COLLECTIVE_GOVERNANCE, END_USER_EXPERIENCE_AND_ADOPTION",
-  "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "NFTs, Layer 2 Scaling, Governance Tokens, End User Experience and Adoption",
-  "pwIsFlagged": true,
-  "pwFlaggedReason": "The application should be flagged for violating rule 1. The applicant promises future impact by stating \"If I am lucky enough to receive an airdrop, I will invest in OP for a longer period of time.\" They have not made a clear contribution with measurable impact in the past.",
-  "pwCategory": "End User Experience and Adoption"
+  "displayName": "FFKQ",
+  "applicantName": "FFKQ",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xd5dA7E68050C41F96207C1D19392307A63B53810.jpeg",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xd5dA7E68050C41F96207C1D19392307A63B53810.json",
+  "RPGF3_Application_UID": "0xd21f25e11370cd67f22758c99c157ffdc445ec78e852dac6d810e7dbd3f5e39c",
+  "applicantAddress": "0xd5dA7E68050C41F96207C1D19392307A63B53810"
 }

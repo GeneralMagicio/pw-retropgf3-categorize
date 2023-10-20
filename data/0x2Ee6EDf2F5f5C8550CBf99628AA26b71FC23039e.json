@@ -1,7 +1,7 @@
 {
   "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://www.youtube.com/@patrickalphac",
-  "bio": "Smart Contract Engineer, Security Researcher, and Educator",
+  "bio": "🐸 Blockend Engineer & Advocate 🥑 \n🔑 cyfrin.io. 🗝️ \n🦅 codehawks.com 🦅\n🟪 solodit.xyz 🟪\n🐸 web3education.dev 🎓\n🌲 linktr.ee/PatrickAlphaC 🌴",
   "contributionDescription": "I make educational content for web3 developers, specifically courses and educational content. I have created the #1 and #2 most watched solidity courses on all of YouTube.\n\n1. https://www.youtube.com/watch?v=M576WGiDBdQ \n- 3.3M views (#1 most viewed solidity course on YouTube)\n2. https://www.youtube.com/watch?v=gyMwXuJrbJQ\n- 2.2M views (#2 most viewed solidity course on YouTube)\n3. https://www.youtube.com/watch?v=p36tXHX1JD8\n- 230k views\n4. https://www.youtube.com/watch?v=umepbfKp5rI\n- 215k views\n\nAdditionally, I answer questions on Ethereum stack exchange, make mock & demo projects for people to use, and write developer focused blogs and tweet threads.",
   "contributionLinks": [
     {
@@ -140,14 +140,11 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "Project": "PatrickAlphaC",
-  "Applicant Type": "INDIVIDUAL",
-  "OSS Directory": "Not Found",
-  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x2Ee6EDf2F5f5C8550CBf99628AA26b71FC23039e.json",
-  "Githubs": "https://github.com/Cyfrin/foundry-full-course-f23",
-  "Tags": "",
-  "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Education, Developer Resources",
-  "pwIsFlagged": false,
-  "pwCategory": "Education"
+  "displayName": "PatrickAlphaC",
+  "applicantName": "patrickalphac",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2Ee6EDf2F5f5C8550CBf99628AA26b71FC23039e.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x2Ee6EDf2F5f5C8550CBf99628AA26b71FC23039e.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x2Ee6EDf2F5f5C8550CBf99628AA26b71FC23039e.json",
+  "RPGF3_Application_UID": "0xd1e86a9b127451b05ffe296b0c0dca96d1067402c84b8a075c00cc32bd26da5f",
+  "applicantAddress": "0x2Ee6EDf2F5f5C8550CBf99628AA26b71FC23039e"
 }

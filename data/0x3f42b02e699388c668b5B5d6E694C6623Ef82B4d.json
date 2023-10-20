@@ -1,0 +1,52 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://vmex.finance/",
+  "bio": "Hello everyone! I'm J, the founder of VMEX Finance. ",
+  "contributionDescription": "We have built and launched VMEX Finance. A lending protocol that uses isolated pools to support the responsible expansion of collateral in DeFi. Our focus is to enable staked LP & vault positions as collateral — giving users an easy way to borrow against their unique assets. \n\nSo far, we have partnered and/or built support for Beethoven & Aura, Velodrome, Yearn,  Curve, and Beefy\n\nOptimism projects may struggle to get protocol and deposit assets listed on lending markets due to having more “complex” assets. VMEX provides a live sandbox for assets to build a track record as quality collateral.\n\nOur goal is to be the go-to partner for protocols that want their assets listed on a lending protocol and to provide users a safe and reliable place to borrow against their staked LP and vault assets",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/VMEX-finance/vmex",
+      "description": "Github Repository for VMEX Finance"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://app.vmex.finance/",
+      "description": "Dapp for VMEX Finance"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://docs.vmex.finance/vmex-finance-documentation/faq/contract-addresses",
+      "description": "List of contract addresses deployed on Optimism"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "We created an opportunity for Optimism protocols, who otherwise wouldn’t be able to, to get their protocol and deposit assets listed on a lending protocol. Additionally, VMEX is a reliable & risk focused place for users to borrow against and maximize rewards on their staked LP and vault assets. This adds desired utility that is beneficial to both the protocols and users.\n\nSo far we have built out support for Beethoven, Aura, Velodrome, Yearn, Curve, and Beefy LP / Vault positions and have more in the works! \n\nAlthough we may have a small base of TVL now, we are just starting to ramp up our marketing and plan to roll out an incentives program to onboard new users",
+  "impactMetrics": [
+    {
+      "description": "TVL",
+      "number": 26000,
+      "url": "https://app.vmex.finance/"
+    },
+    {
+      "description": "Users",
+      "number": 20,
+      "url": "https://app.vmex.finance/"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x6BfCF01CcdbA163c2A01F4DD99508790aBc20509",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "VMEX Finance",
+  "applicantName": "J.",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3f42b02e699388c668b5B5d6E694C6623Ef82B4d.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x3f42b02e699388c668b5B5d6E694C6623Ef82B4d.json",
+  "RPGF3_Application_UID": "0xfa3462fae5e6305802212e022903900ed2b64c10481a8865898493e810903682",
+  "applicantAddress": "0x3f42b02e699388c668b5B5d6E694C6623Ef82B4d"
+}

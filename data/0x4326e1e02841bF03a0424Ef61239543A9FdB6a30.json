@@ -1,0 +1,37 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://twitter.com/CAcryptolawyer",
+  "bio": "I am a lawyer by trade and a crypto degen. Optimism stands for the future of Ethereum and I aim to be a pioneer on this frontier.",
+  "contributionDescription": "I contribute to Optimism through content writing posts in support of the Optimistic Collective and encouraging adoption among retail and experienced users. I have encouraged multiple holders to delegate. I also provide anon legal advice to projects in the Optimistic Ethereum ecosystem to include review of documents as well as collaborating on LEX articles. ",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/CAcryptolawyer",
+      "description": "twitter posts, articles"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "I hope the impact of my posts throughout X (Twitter) are encouraging to new users to join the Optimism Collective. My legal advice has kept at least one team out of hot water so they could continue to focus on building the Optimism ecosystem. My collaboration on articles is hopefully helpful to those new lawyers coming into the space. ",
+  "impactMetrics": [
+    {
+      "description": "followers",
+      "number": 784,
+      "url": "https://twitter.com/CAcryptolawyer"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x4326e1e02841bF03a0424Ef61239543A9FdB6a30",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "cryptolawyer",
+  "applicantName": "cryptolawyer",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x4326e1e02841bF03a0424Ef61239543A9FdB6a30.json",
+  "RPGF3_Application_UID": "0x218c7688e5dcf819ab26a3dac0f2ecdfe87dd445814bc9c49701b84bde3f1888",
+  "applicantAddress": "0x4326e1e02841bF03a0424Ef61239543A9FdB6a30"
+}

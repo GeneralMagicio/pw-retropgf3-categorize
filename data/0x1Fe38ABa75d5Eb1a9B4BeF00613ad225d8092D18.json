@@ -1,7 +1,7 @@
 {
   "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://mall.jurnal6b.com/",
-  "bio": "YOUNG",
+  "bio": "Young and Attractive",
   "contributionDescription": "\nContributions to an optimism network are actions and efforts made to foster and promote a positive and hopeful outlook within a broader community or group of individuals. Here's how you might describe your contributions to an optimism network:\n\nPositive Content Creation: You actively create and share positive content on social media, blogs, or other platforms. This content may include inspirational quotes, uplifting stories, or tips for maintaining a positive mindset.\n\nSupportive Community Building: You work to build and nurture a community of like-minded individuals who share the goal of spreading optimism. This might involve organizing events, forums, or online groups where people can come together to share their experiences and support each other.\n",
   "contributionLinks": [
     {
@@ -35,14 +35,10 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "Project": "Malzz",
-  "Applicant Type": "INDIVIDUAL",
-  "OSS Directory": "",
-  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x1Fe38ABa75d5Eb1a9B4BeF00613ad225d8092D18.json",
-  "Githubs": "",
-  "Tags": "COLLECTIVE_GOVERNANCE",
-  "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Blockchain Infrastructure, Governance Tokens",
-  "pwIsFlagged": false,
-  "pwCategory": "Community Building"
+  "displayName": "Malzz",
+  "applicantName": "Mocengz",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x1Fe38ABa75d5Eb1a9B4BeF00613ad225d8092D18.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x1Fe38ABa75d5Eb1a9B4BeF00613ad225d8092D18.json",
+  "RPGF3_Application_UID": "0x98b40415719019a669738e5fd36a4882255c0f03c72145e15756ea6ed9477a37",
+  "applicantAddress": "0x1Fe38ABa75d5Eb1a9B4BeF00613ad225d8092D18"
 }

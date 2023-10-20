@@ -1,0 +1,46 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://x.com/web3sage_",
+  "bio": "I am Sage, a DeFi trader with 2 yrs of experience in the blockchain space. I make educational content revolving around Web3 and how one can make the most of it.",
+  "contributionDescription": "I am a DeFi researcher, as I always engage myself in different optimism campaigns, trying out different protocol application of optimism. I staked on Velodrome during the Taho campaign, minted NFTs and did other things on-chain. But mostly, I would like to receive the RetroPGF for an optimism onboarding content I wrote: \n\nA detailed guide on HOW TO GET INTO OPTIMISM with Metamask.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://twitter.com/web3sage_/status/1638945389876224012?t=VjNFR5W-Fh4iaZZ5SpPr5A&s=19",
+      "description": "My thread on how to get into Optimism as a Newbie"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "The contents I write has gotten quite the number of reach, bringing new users not only in the defi space but into using the OPTIMISM later 2 chain. So with this I guess it's safe to say that my contribution has;\n\nOnboarded new users into the OPTIMISM chain.\n\nI wish to still do more in the future and I hope to get the grant not only as a form of encouragement but as a source to produce more onboarding user content I to OP stack.",
+  "impactMetrics": [
+    {
+      "description": "Number of Bookmarks",
+      "number": 20,
+      "url": "https://twitter.com/web3sage_/status/1638945389876224012?t=VjNFR5W-Fh4iaZZ5SpPr5A&s=19"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 10,
+      "description": "Optimism x OmniBTC swap campaign"
+    }
+  ],
+  "payoutAddress": "0xa5f03c8f253bff10eddf5059d0796cff5a3f539a",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Ssge",
+  "applicantName": "Web3Sage",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xA5F03C8f253bFF10EdDf5059d0796CfF5A3f539a.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xA5F03C8f253bFF10EdDf5059d0796CfF5A3f539a.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xA5F03C8f253bFF10EdDf5059d0796CfF5A3f539a.json",
+  "RPGF3_Application_UID": "0x2dff3bae11ae8b70784df4f8f2adf4ca145e47fd1a6b1734335c5cf80960d8da",
+  "applicantAddress": "0xA5F03C8f253bFF10EdDf5059d0796CfF5A3f539a"
+}

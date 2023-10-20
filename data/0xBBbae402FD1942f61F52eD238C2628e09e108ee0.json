@@ -35,15 +35,9 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "Project": "Thuc",
-  "Applicant Type": "INDIVIDUAL",
-  "OSS Directory": "",
-  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xBBbae402FD1942f61F52eD238C2628e09e108ee0.json",
-  "Githubs": "",
-  "Tags": "END_USER_EXPERIENCE_AND_ADOPTION",
-  "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "END_USER_EXPERIENCE_AND_ADOPTION",
-  "pwIsFlagged": true,
-  "pwFlaggedReason": "Yes, this application should be flagged for violating the \"Promises of future impact\" rule. The applicant mentions that \"I will actively vote for the admin, I will do the tasks required by the project, I will actively use the network and give feedback\", which are all promises of future deliverables or impact, which is not allowed.",
-  "pwCategory": "End User Experience and Adoption"
+  "displayName": "Thuc",
+  "applicantName": "thuc",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xBBbae402FD1942f61F52eD238C2628e09e108ee0.json",
+  "RPGF3_Application_UID": "0xdea5b7630cc398b2b9a5b105c866e72a9f6d1a98dac7830b9d94ad8916f67110",
+  "applicantAddress": "0xBBbae402FD1942f61F52eD238C2628e09e108ee0"
 }

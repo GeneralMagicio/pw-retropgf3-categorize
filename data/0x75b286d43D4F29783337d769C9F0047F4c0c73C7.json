@@ -1,7 +1,7 @@
 {
   "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://twitter.com/nft_kard",
-  "bio": "NFT Enthusiast ",
+  "bio": "NFT Enthusiast",
   "contributionDescription": "I'm real good advisor with a good connects and followers along all blockchain ecosystem. \n\nI'm very happy with the work done by the Optimism team and that is why I am applying as an advertiser to promote the latest network updates and projects. \n\nAlso the adoption of the network is massive, and add the good track record of the $OP token. ",
   "contributionLinks": [
     {
@@ -35,15 +35,10 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "Project": "kardhus",
-  "Applicant Type": "INDIVIDUAL",
-  "OSS Directory": "",
-  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x75b286d43D4F29783337d769C9F0047F4c0c73C7.json",
-  "Githubs": "",
-  "Tags": "END_USER_EXPERIENCE_AND_ADOPTION",
-  "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": ", ADVERTISING",
-  "pwIsFlagged": true,
-  "pwFlaggedReason": "The application should be flagged for \"Promises of future impact\" as the applicant mentions they're applying as an advertiser to promote the latest network updates and projects, which indicates future deliverables.",
-  "pwCategory": "Influencer Marketing"
+  "displayName": "kardhus",
+  "applicantName": "kardhus",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x75b286d43D4F29783337d769C9F0047F4c0c73C7.jpeg",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x75b286d43D4F29783337d769C9F0047F4c0c73C7.json",
+  "RPGF3_Application_UID": "0xbfcc5de9d3e7355097b94061f8795524e3680a6c95617a1863bba3cb10c74fd5",
+  "applicantAddress": "0x75b286d43D4F29783337d769C9F0047F4c0c73C7"
 }

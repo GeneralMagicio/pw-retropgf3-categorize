@@ -1,0 +1,50 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://opensea.io/Waskita05",
+  "bio": "I am a trader and I also like looking for opportunities in airdrops, both blockchain, defi, protocol, and so on, including retroactive.",
+  "contributionDescription": "carry out several transactions via hop.protocol on the bridge between networks and minted NFTs on mirrors with the Optimism network and also sold Nfts on Opensea with the Optimism network with several Nfts.Those are some of the things I do to contribute to Optimism",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x7E89CAbc9aAa7b25f5F3e9bB48753367654e9b5F",
+      "description": "some transactions I made on the Optimism network"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://opensea.io/Waskita05",
+      "description": "Nft that is on my profile"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "Selling Nft on various Nft market place platforms including Opensea and especially those linked to the Optimism network and Nft on Optimism such as on Mirror. I also sold Nft several times on Opensea with the Optimism network, letting some and most people know. about what the Optimism network is.",
+  "impactMetrics": [
+    {
+      "description": "Opensea Nft",
+      "number": 407,
+      "url": "https://opensea.io/Waskita05"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 1000,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0x7E89CAbc9aAa7b25f5F3e9bB48753367654e9b5F",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Waskita05 ",
+  "applicantName": "Waskita05",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7E89CAbc9aAa7b25f5F3e9bB48753367654e9b5F.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x7E89CAbc9aAa7b25f5F3e9bB48753367654e9b5F.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x7E89CAbc9aAa7b25f5F3e9bB48753367654e9b5F.json",
+  "RPGF3_Application_UID": "0x53a731a48dd62be463d4a902acf952c032d0b7db4ddc0b6de2635633437fec77",
+  "applicantAddress": "0x7E89CAbc9aAa7b25f5F3e9bB48753367654e9b5F"
+}

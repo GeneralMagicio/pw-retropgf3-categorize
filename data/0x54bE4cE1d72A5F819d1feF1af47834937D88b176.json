@@ -1,0 +1,41 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://www.youtube.com/channel/UCno1TiuqG5HPtF2ow-wLg1A",
+  "bio": "enthusiasim",
+  "contributionDescription": "Optimism can be fostered by acknowledging and celebrating accomplishments, setting achievable goals, and adopting a positive attitude. By focusing on the potential for growth and improvement, individuals and communities can cultivate a more optimistic outlook on life. 😊",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/tx/0x7fa571f71f9ea3b41b090dc672bb241f8b9601516276bfaadbdd5ff063710af5",
+      "description": "Transaction Hash"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "The contribution had a significant impact on the Optimism Collective. It helped to fund various projects, increase outreach and raise awareness about important social issues. Thanks to this contribution, the Optimism Collective can continue to inspire positivity and make a difference in the world. 🌟",
+  "impactMetrics": [
+    {
+      "description": "1",
+      "number": 1,
+      "url": "https://optimistic.etherscan.io/tx/0x7fa571f71f9ea3b41b090dc672bb241f8b9601516276bfaadbdd5ff063710af5"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x54bE4cE1d72A5F819d1feF1af47834937D88b176",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "haisen",
+  "applicantName": "haisen",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x54bE4cE1d72A5F819d1feF1af47834937D88b176.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x54bE4cE1d72A5F819d1feF1af47834937D88b176.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x54bE4cE1d72A5F819d1feF1af47834937D88b176.json",
+  "RPGF3_Application_UID": "0x2a99347793106b36c240aaa274ce82e67a09e5d49a0326b614ece53062e1d6d7",
+  "applicantAddress": "0x54bE4cE1d72A5F819d1feF1af47834937D88b176"
+}

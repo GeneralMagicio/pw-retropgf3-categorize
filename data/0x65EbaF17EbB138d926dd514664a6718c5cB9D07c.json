@@ -1,7 +1,7 @@
 {
-  "applicantType": "PROJECT",
-  "websiteUrl": "https://www.artislamic.com",
-  "bio": "Online digital art and photography gallery since 1999.",
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://www.Artislamic.com",
+  "bio": "Online digital art gallery since 1999. We have been in the NFT market for over 2 years. We plan to showcase our artworks in the NFT space in the future.",
   "contributionDescription": "We plan to showcase our artworks, old and new, in the NFT space in the future. Artislamic.com is an online digital art and photography gallery since 1999. Here you will find about 5500 specially designed 2D and 3D graphics, drawings, digital motifs and specially taken photos. Our gallery contains landscape and nature views, flower photos, mixed digital motifs exhibition; artworks with the name of Allah (God), with the name of the Last Prophet Muhammad and with various religious phrases. There is also \"99 Excellent Names of Your Creator\" artworks and classic Islamic calligraphy exhibition. You can send any artwork you like as free e-card to your friends or download them as wallpapers for using on your computer. ",
   "contributionLinks": [
     {
@@ -33,16 +33,11 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "Project": "Artislamic",
-  "Applicant Type": "PROJECT",
-  "OSS Directory": "",
-  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x65EbaF17EbB138d926dd514664a6718c5cB9D07c.json",
-  "Githubs": "",
-  "Tags": "DEVELOPER_ECOSYSTEM",
-  "recategorizeReason": "NO, it is not correctly categorized. The application refers to \"we\" several times, indicating that it's a group or project rather than an individual.",
-  "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "NFTs, Digital Art, Online Gallery",
-  "pwIsFlagged": true,
-  "pwFlaggedReason": "The application should be flagged because it violates rules number 1 and 6 - it promises future deliverables and uses the application to showcase something they are selling, specifically their NFT artworks.",
-  "pwCategory": "NFT Aggregator"
+  "displayName": "Artislamic",
+  "applicantName": "Artislamic.com",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x65EbaF17EbB138d926dd514664a6718c5cB9D07c.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x65EbaF17EbB138d926dd514664a6718c5cB9D07c.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x65EbaF17EbB138d926dd514664a6718c5cB9D07c.json",
+  "RPGF3_Application_UID": "0xb8e7d4769cf7d5aa1acd62b8550427f99cb01cd5c006bcc845f07bd3e924e914",
+  "applicantAddress": "0x65EbaF17EbB138d926dd514664a6718c5cB9D07c"
 }

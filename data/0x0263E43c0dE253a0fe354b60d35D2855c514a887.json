@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://www.youtube.com/@inbestprogram",
-  "bio": "Helping Mass Adoption",
+  "bio": "Inbest is a community of Spanish speaking crypto enthusiast, our mision is to help the mass adoption of blockchain technologies by helping people understand",
   "contributionDescription": "At inbest we are a bridge between the cutting edge blockchain technologies and the end users who do not understand it, sometime is hard to find information other than the extensive documentation that gets to technical for most users.\n\nOur role is to find this information, digest it, and then feed it to the audience on a specific manner that tends to be easier to understand. \n\nIn spanish is even more dificult to find objective and well created content that explains this technologies and how they work so that the regular users gain more interest!\n\nthis will greatly impact the growth and adoption of the SuperChain! \n\nif you type \"la super cadena op\" you will see a lot of \"airdrop\" videos, but only one actually explaining the technology and talking about the op stack in spanish.",
   "contributionLinks": [
     {
@@ -23,6 +23,11 @@
       "type": "CONTRACT_ADDRESS",
       "url": "https://www.youtube.com/@inbestprogram/videos",
       "description": "the cannel has many vids about OP, and we want to grow and keep creating"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://ethereum.cr/day",
+      "description": "Speaker in ETHEREUM COSTA RICA. Topic: Scaling Erthereum with L2s"
     }
   ],
   "impactCategory": [
@@ -35,6 +40,11 @@
       "description": "Growth and interactions",
       "number": 1,
       "url": "https://drive.google.com/file/d/1oslqvCZxy2m5DsfnpqZBCx4EJG3h7RnS/view?usp=drive_link"
+    },
+    {
+      "description": "Speaker at ETH Costa Rica Colab",
+      "number": 1,
+      "url": "https://twitter.com/EthereumCR/status/1715012474595057789"
     }
   ],
   "fundingSources": [],
@@ -44,14 +54,11 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "Project": "Inbest Program",
-  "Applicant Type": "PROJECT",
-  "OSS Directory": "",
-  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x0263E43c0dE253a0fe354b60d35D2855c514a887.json",
-  "Githubs": "",
-  "Tags": "COLLECTIVE_GOVERNANCE, END_USER_EXPERIENCE_AND_ADOPTION",
-  "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Education, Content Creation, Community Building, Adoption, Governance",
-  "pwIsFlagged": false,
-  "pwCategory": "Blockchain Education"
+  "displayName": "Inbest Program",
+  "applicantName": "inbest",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x0263E43c0dE253a0fe354b60d35D2855c514a887.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x0263E43c0dE253a0fe354b60d35D2855c514a887.jpeg",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x0263E43c0dE253a0fe354b60d35D2855c514a887.json",
+  "RPGF3_Application_UID": "0x4384f12001b8b7bcbf3abe9d0a354378851b34f68634ef0e9cec92152c18c1c2",
+  "applicantAddress": "0x0263E43c0dE253a0fe354b60d35D2855c514a887"
 }

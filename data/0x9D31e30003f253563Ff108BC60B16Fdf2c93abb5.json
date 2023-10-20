@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "http://scry.finance/",
-  "bio": "Scry is the ONLY self-hostable oracle infra. With crosschain data, VRFs and more",
+  "bio": "Builder. Cofounded the Cryptodevs community. Auth EIP5075. Built synth infra, oracle infra, NFT infra",
   "contributionDescription": "Scry has directly enabled new use cases like being able to allow a mint for an NFT held on ETH or Base to unlock access on OP, or for games, or to allow protocols to distribute fees on other protocols to token holders on OP or even access assets on other networks such as Base to allow for easy compatibility in an increasing diverse space, especially with OP Stack.",
   "contributionLinks": [
     {
@@ -92,14 +92,9 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "Project": "PR0",
-  "Applicant Type": "PROJECT",
-  "OSS Directory": "Address & Github Found",
-  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x9D31e30003f253563Ff108BC60B16Fdf2c93abb5.json",
-  "Githubs": "https://github.com/ScryProtocol/",
-  "Tags": "",
-  "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Oracles, Cross-Chain Compatibility, Data Access, NFT Verification, Blockchain Infrastructure",
-  "pwIsFlagged": false,
-  "pwCategory": "Blockchain Infrastructure"
+  "displayName": "PR0",
+  "applicantName": "PR0",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x9D31e30003f253563Ff108BC60B16Fdf2c93abb5.json",
+  "RPGF3_Application_UID": "0xa56c22c8a230b721d39e7dd1615802db826a3c5dfb1ffa86967afa5db890b5ea",
+  "applicantAddress": "0x9D31e30003f253563Ff108BC60B16Fdf2c93abb5"
 }

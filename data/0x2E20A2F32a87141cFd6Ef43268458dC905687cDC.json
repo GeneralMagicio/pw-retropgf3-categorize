@@ -1,0 +1,44 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://twitter.com/eko_vodk",
+  "bio": "bismillah",
+  "contributionDescription": "recently installed a Nest thermostat in my house. Nest has been around for a while, but I’ve been hesitant to get one. I won’t go into the details of why we finally pulled the trigger, but it made sense to have more control of our home environment.\n\nWhen the box arrived, I was excited. I felt like I was stepping into the future. Once I got it all wired up and began the setup, though, my original hesitation came flooding back.\n\nNest would like to use your location.\n\nI almost bailed. This is when Nest stopped feeling like a fun, helpful device and started to feel like an intrusive portal. Yet another keyhole for a company (or whomever else) to peer into my family’s life. It was probably okay, I rationalized. It’s probably just sharing location and temperature data, I thought to myself.\n",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/eko_vodk",
+      "description": "lfg"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "I wouldn’t have had this conversation with myself a decade ago. As the internet grew and the iPhone came on the scene, it was exciting. I felt a reverence, almost gratitude for everything it enabled. Driven by curiosity and optimism, I signed up for any new service just to see what the future might hold. I was on the leading edge of early adopters.",
+  "impactMetrics": [
+    {
+      "description": "jjj",
+      "number": 100,
+      "url": "https://twitter.com/eko_vodk"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 99,
+      "description": "lfg"
+    }
+  ],
+  "payoutAddress": "0x2e20a2f32a87141cfd6ef43268458dc905687cdc",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "albatross",
+  "applicantName": "albatross",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2E20A2F32a87141cFd6Ef43268458dC905687cDC.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x2E20A2F32a87141cFd6Ef43268458dC905687cDC.json",
+  "RPGF3_Application_UID": "0x81013316b0e45ffb30352472e40c6436285bc7be688a0e7167877d48b97991c1",
+  "applicantAddress": "0x2E20A2F32a87141cFd6Ef43268458dC905687cDC"
+}

@@ -1,0 +1,49 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://link3.to/readyfirstplayer",
+  "bio": "Welcome",
+  "contributionDescription": "RetroPGF is a core part of Optimism’s vision. If done right, it will form the backbone for a new type of economy. As with any complex system, though, this new process can’t be centrally planned or designed all at once. The only way to build it well is to build it together. This journey will require care, open-mindedness, patience, and, of course, optimism!",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xe52DA775afFBE83acC6814dbE4A18c8A58161aad",
+      "description": "This is my address"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "I can contribute towards the collective in a million different ways, and there is no way we could make processes for all of these contributions. Nor would we want to! However, getting from 0 to 1 is the hardest step. So we have made a few ways to get you up to speed and contributing in no time!",
+  "impactMetrics": [
+    {
+      "description": "Mypage",
+      "number": 1,
+      "url": "https://optimistic.etherscan.io/address/0xe52DA775afFBE83acC6814dbE4A18c8A58161aad"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 10,
+      "description": ""
+    },
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 10,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0xe52DA775afFBE83acC6814dbE4A18c8A58161aad",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "excelpic",
+  "applicantName": "excelpic",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xe52DA775afFBE83acC6814dbE4A18c8A58161aad.json",
+  "RPGF3_Application_UID": "0xf436bf31e6c4541af74e2ebb75b0f4c6d3edc8c6a2a85599000acd478bc30e79",
+  "applicantAddress": "0xe52DA775afFBE83acC6814dbE4A18c8A58161aad"
+}

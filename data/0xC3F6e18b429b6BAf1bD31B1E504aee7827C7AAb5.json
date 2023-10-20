@@ -1,0 +1,45 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://spaghett-eth.com",
+  "bio": "SpaghettETH is the umbrella collective of the italian ETH communities. We provide seasonal events, coordination on R&D, educational material and micro-funding.",
+  "contributionDescription": "We run conferences for the wider ETH italian community on a seasonal basis, with one main national event (SpaghettETH) + coordination for smaller meetups on the territory. We always make sure that our ticketing system operate on both L2s (via https://mego.cx/#/) and to invite speakers from the OP ecosystem at every turn. ",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/spaghettETH",
+      "description": "open source Map for ETH communities (adopted by LatAm Chapters)"
+    }
+  ],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
+  "impactDescription": "As L2 supporters, we always mentor new projects to run their DApps on either Optimism or Arbitrum, and network them to get in touch with core developers in the OP collective. We also provide educational modules for crypto newbies in our country and feature demos on all L2s",
+  "impactMetrics": [
+    {
+      "description": "# of communities genereated in 1 year",
+      "number": 12,
+      "url": "https://www.spaghett-eth.com/"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 0,
+      "description": "none"
+    }
+  ],
+  "payoutAddress": "0xF7E72865CF3e2C4f6970F628b2E84bdf3EDCa222",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "SpaghettETH",
+  "applicantName": "SpaghettETH",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xC3F6e18b429b6BAf1bD31B1E504aee7827C7AAb5.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xC3F6e18b429b6BAf1bD31B1E504aee7827C7AAb5.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xC3F6e18b429b6BAf1bD31B1E504aee7827C7AAb5.json",
+  "RPGF3_Application_UID": "0x8785599241f957b73e9e24576741bb3e02943bfbd38570135566a1cc61134168",
+  "applicantAddress": "0xC3F6e18b429b6BAf1bD31B1E504aee7827C7AAb5"
+}

@@ -1,0 +1,75 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://www.velocimeter.xyz/",
+  "bio": "Velocimeter is a ve33 Dex offering options tokens as emissions and as a service.",
+  "contributionDescription": "One of the first dexes on Base supporting 100s of tokens/projects since launch.\nAirdropped oBVM to our users from Fantom Canto & Pulse during our launch phase.\nPioneered options tokens as emissions which funded over $300,000 in $ETH rewards for LPs on Velocimeter.\n\nCumulative 40m in volume across the chains we are deployed (source DeFi Llama) on. ~10m on Base.\n\nVelocimeter Pro Options as a service - which we invented supports projects such as BMX w/ oBMX.\n\nGranted veBVM to dozens of projects creators & contributors via our contributer program.\n\nOnboarded 1000s of users to Base via our Zealy program.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://defillama.com/protocol/velocimeter",
+      "description": "Defi Llama "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://zealy.io/c/velocimeter/questboard",
+      "description": "Velocimeter Zealy Quests"
+    }
+  ],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "Provided launchpad contracts and frontend to friendtech33 who raised $400,000 using our contracts and frontend launchpad.\n\nSeveral other projects are in various stages of launching via our launchpad on Base.\n\nHelped to onboard projects such as Firebird Finance, Beefy, Qi DAO, Ethos Reserve & many more to Base via veBVM grants & emmissions.",
+  "impactMetrics": [
+    {
+      "description": "Amount raised",
+      "number": 400000,
+      "url": "https://launch.velocimeter.xyz/"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 0,
+      "description": ""
+    },
+    {
+      "type": "PARTNER_FUND",
+      "currency": "OP",
+      "amount": 0,
+      "description": ""
+    },
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 0,
+      "description": ""
+    },
+    {
+      "type": "RETROPGF_1",
+      "currency": "USD",
+      "amount": 0,
+      "description": ""
+    },
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 0,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0x069e85d4f1010dd961897dc8c095fbb5ff297434",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Velocimeter",
+  "applicantName": "Velocimeter",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x069e85D4F1010DD961897dC8C095FBB5FF297434.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x069e85D4F1010DD961897dC8C095FBB5FF297434.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x069e85D4F1010DD961897dC8C095FBB5FF297434.json",
+  "RPGF3_Application_UID": "0x5ba34710a69f42f2ab26237f6e8dfc7a7236425a9f7e0b5d77c0a16ac8a48d5a",
+  "applicantAddress": "0x069e85D4F1010DD961897dC8C095FBB5FF297434"
+}

@@ -1,7 +1,7 @@
 {
   "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://web3datadegens.substack.com/",
-  "bio": "I create dashboards, tools, and content to make web3 data easier to navigate.",
+  "bio": "Educating everyone on web3 data, and creating ecosystem tools to aid in that mission.",
   "contributionDescription": "Between the last round and this round, my main contribution relevant to Optimism is creating a multi-chain tracker of all ERC standards. This makes it easier for everyone to understand what an ERC is, and find trending examples of it on any chain.\n\nFor example, I believe people have used my dashboard to track down newer ERCs like ERC4337 and ERC6551. For some ERCs like ERC4337, I've done deeper data dives and explanations.\n\nOn top of that, I've gone to lengths to explain to people advanced data patterns as well as the modular stack. ",
   "contributionLinks": [
     {
@@ -50,14 +50,10 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "Project": "Andrew Hong (ilemi)",
-  "Applicant Type": "INDIVIDUAL",
-  "OSS Directory": "",
-  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x2Ae8c972fB2E6c00ddED8986E2dc672ED190DA06.json",
-  "Githubs": "",
-  "Tags": "DEVELOPER_ECOSYSTEM",
-  "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Education, Data Analysis",
-  "pwIsFlagged": false,
-  "pwCategory": "Education"
+  "displayName": "Andrew Hong (ilemi)",
+  "applicantName": "Andrew Hong",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2Ae8c972fB2E6c00ddED8986E2dc672ED190DA06.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x2Ae8c972fB2E6c00ddED8986E2dc672ED190DA06.json",
+  "RPGF3_Application_UID": "0x1d0fd9b7e22d5104b7581d43eca15536106894dc0800877f624b2acac306f234",
+  "applicantAddress": "0x2Ae8c972fB2E6c00ddED8986E2dc672ED190DA06"
 }

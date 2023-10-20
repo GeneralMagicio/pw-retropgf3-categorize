@@ -1,7 +1,7 @@
 {
   "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://twitter.com/masterbrum",
-  "bio": "Physician and Crypto Enthusiast ",
+  "bio": "Physician and Crypto Enthusiast",
   "contributionDescription": "I staked USDC.e in Pooltogether protocol since end of 2022 and beggining of this year (About 190 USDC.e). Used the mainnet to mint sometimes, also used optimism in several bridges using Layerzero. Yesterday I supplied Layerzero through Optmism Pool with more than 1000 USDC.",
   "contributionLinks": [
     {
@@ -53,14 +53,11 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "Project": "Rafael",
-  "Applicant Type": "INDIVIDUAL",
-  "OSS Directory": "",
-  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x0ca34B96F8c33fF40dCB463a6e976697B6ff7010.json",
-  "Githubs": "",
-  "Tags": "END_USER_EXPERIENCE_AND_ADOPTION",
-  "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Layer 2 Scaling, Tokenization Platforms, Decentralized Finance (DeFi), Blockchain Infrastructure, Cross-Chain Platforms",
-  "pwIsFlagged": false,
-  "pwCategory": "End User Experience and Adoption"
+  "displayName": "Rafael ",
+  "applicantName": "Masterbrum",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x0ca34B96F8c33fF40dCB463a6e976697B6ff7010.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x0ca34B96F8c33fF40dCB463a6e976697B6ff7010.jpeg",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x0ca34B96F8c33fF40dCB463a6e976697B6ff7010.json",
+  "RPGF3_Application_UID": "0x8deca4b11ad408c50f746627fd74d8ce41687aff75cd1f6ba03262a96e266973",
+  "applicantAddress": "0x0ca34B96F8c33fF40dCB463a6e976697B6ff7010"
 }

@@ -1,0 +1,56 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://twitter.com/cryptogutzz",
+  "bio": "i love optimism since day 1",
+  "contributionDescription": "Sempre  na minha maneira possivel que posso,neste momento em bearmarket nao eatá facil mas sempre que posso o farei  e faço.\nPois é a melhor blokchain com um futuro promissor e que deixa as outras blockchains bem para tras. \nnao tenho qualificaçoes mas tenho aprendendo ao maximo e adoro esta L2 ,\nsempre a crescer e aprender sobre",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://twitter.com/cryptogutzz",
+      "description": "@cryptogutzz "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/cryptogutzz",
+      "description": "love"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://twitter.com/cryptogutzz",
+      "description": "love"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "Sempre  na minha maneira possivel que posso,neste momento em bearmarket nao eatá facil mas sempre que posso o farei  e faço.\nPois é a melhor blokchain com um futuro promissor e que deixa as outras blockchains bem para tras. \nnao tenho qualificaçoes mas tenho aprendendo ao maximo e adoro esta L2 ,\nsempre a crescer e aprender sob",
+  "impactMetrics": [
+    {
+      "description": "lol",
+      "number": 2,
+      "url": "https://opensea.io/assets/optimism/0xa95579592078783b409803ddc75bb402c217a924/52439"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 11,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0xB25769a98bA57b8e2eC7348E70Aba6b93fA913F0",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "gutzz",
+  "applicantName": "gutzz",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xB25769a98bA57b8e2eC7348E70Aba6b93fA913F0.jpeg",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xB25769a98bA57b8e2eC7348E70Aba6b93fA913F0.json",
+  "RPGF3_Application_UID": "0x014c0d69d6bb49e98394c19b2b1b60876894e67d25aadd0f7f3c101eca9624c6",
+  "applicantAddress": "0xB25769a98bA57b8e2eC7348E70Aba6b93fA913F0"
+}

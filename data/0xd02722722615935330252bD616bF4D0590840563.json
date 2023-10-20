@@ -1,0 +1,67 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://kitkryptodao.gitbook.io/",
+  "bio": "A Common Developer, Co-Host of KITKryptoDAO",
+  "contributionDescription": "We unite KIT alumni who are already deeply involved in the blockchain industry and have rich experience in the industry and practical experience in projects. Through the regular internal events of KITKryptoDAO (e.g. Saturday Crypto Meetings, which has been successfully held for 4 consecutive weeks), we provide members who do not yet have sufficient knowledge and practical experience with the opportunities for theoretical learning and knowledge exchanges, technical practice (e.g. Solidity Live Coding, which is in the process of being organized), and in-depth understanding of blockchain-related industries. We use OP Mainnet as well as Testnet for our practices and Live Coding events, and our DAO initiator Zion Zhan is a experienced OP Stack developer and core team member of Orderly Network.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://kitkryptodao.gitbook.io/",
+      "description": "Gitbook of KITKrypto DAO"
+    }
+  ],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "By contributing as described above, we become an evangelist for the OP Stack and related knowledge, and cultivate more forward-thinking and solid hands-on experience for the OP Collective and the OP ecosystem with well-educated and technically inclined developers from KIT alumnis.",
+  "impactMetrics": [
+    {
+      "description": "# of current DAO Members",
+      "number": 18,
+      "url": "https://t.me/kit_krypto_dao"
+    },
+    {
+      "description": "# of current DAO Events",
+      "number": 5,
+      "url": "https://kitkryptodao.gitbook.io/main/educational-content/topic-cache#0x02-solidity-live-coding"
+    },
+    {
+      "description": "# of DAO Treasury SAFE (Base)",
+      "number": 1,
+      "url": "https://basescan.org/address/0xE031e06e87daEaC44B5429BfA4F65b797Acc2E20"
+    },
+    {
+      "description": "# of DAO Treasury SAFE (OP)",
+      "number": 1,
+      "url": "https://optimistic.etherscan.io/address/0xDC808D9c1430939AC7039F7904bDb3737f78473a"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 100,
+      "description": "Donations from the DAO initiator Zion Zhan"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 100,
+      "description": "Donations from the DAO Co-Host Hannes Gao"
+    }
+  ],
+  "payoutAddress": "0xDC808D9c1430939AC7039F7904bDb3737f78473a",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "KITKryptoDAO",
+  "applicantName": "Hannes Gao",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xd02722722615935330252bD616bF4D0590840563.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xd02722722615935330252bD616bF4D0590840563.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xd02722722615935330252bD616bF4D0590840563.json",
+  "RPGF3_Application_UID": "0x272801a4d001331f5b64a34425d39e7cd9dfeef1da58617b6a45bccd6a768dcc",
+  "applicantAddress": "0xd02722722615935330252bD616bF4D0590840563"
+}

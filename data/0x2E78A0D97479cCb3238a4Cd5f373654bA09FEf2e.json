@@ -1,0 +1,51 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://debank.com/profile/0x2e78a0d97479ccb3238a4cd5f373654ba09fef2e",
+  "bio": "I am an early Optimism investor who wants to spread the word about the great opportunities that can change lives.",
+  "contributionDescription": "I am a crypto investor who shares valuable information with the vision of capitalizing on my community and raising awareness of the risks in crypto and just as there are many risks, there are many opportunities. I want to share my experience, about governance, investment options, airdrop eligibility criteria and crypto security.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/matrix_s_root",
+      "description": "Twitter profile"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://debank.com/profile/0x2e78a0d97479ccb3238a4cd5f373654ba09fef2e",
+      "description": "Debank profile"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "I am a crypto investor who shares valuable information with the vision of capitalizing on my community and raising awareness of the risks in crypto and just as there are many risks, there are many opportunities. I want to share my experience, about governance, investment options, airdrop eligibility criteria and crypto security.",
+  "impactMetrics": [
+    {
+      "description": "100",
+      "number": 100,
+      "url": "https://twitter.com/matrix_s_root"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 1,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0x2E78A0D97479cCb3238a4Cd5f373654bA09FEf2e",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Julian432hz",
+  "applicantName": "julian432hz",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2E78A0D97479cCb3238a4Cd5f373654bA09FEf2e.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x2E78A0D97479cCb3238a4Cd5f373654bA09FEf2e.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x2E78A0D97479cCb3238a4Cd5f373654bA09FEf2e.json",
+  "RPGF3_Application_UID": "0x74e67614842fa181a8028461a5e0f48b1c94261264264e8437ff0a8a648a4714",
+  "applicantAddress": "0x2E78A0D97479cCb3238a4Cd5f373654bA09FEf2e"
+}

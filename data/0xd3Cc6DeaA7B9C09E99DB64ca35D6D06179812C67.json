@@ -1,0 +1,39 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://github.com/tudorpintea999",
+  "bio": "A guy honestly passionate about automating things.",
+  "contributionDescription": "The installation process was time-consuming, often taking up to 6 hours to complete. \nWith the introduction of Validato, we've slashed the installation time down to a mere 5 minutes. This represents a time reduction of over 99%, enabling rapid deployment and integration.\n\n\nThe installation process was complex, requiring technical expertise. This barrier prevented many potential users, especially those without a technical background.\nNow, even non-technical individuals can run and install the node. This widens the user base.\n\n\nWith the installation process simplified, the ecosystem is poised for faster growth. In essence, Validato has not only brought about efficiency but has also set the stage for accelerated growth in the ecosystem.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/validatoxyz",
+      "description": "The scripts to run and install the validator node on mainnet & testnet."
+    }
+  ],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "\nValidato is designed to streamline processes that were previously manual and time-consuming. While exact time savings are yet to be quantified, the tool aims to significantly reduce the time users spend on installing the node.\n\n\nOrganizations and individuals can potentially reallocate resources more effectively. Instead of dedicating time and manpower to manual tasks, they can focus on strategic initiatives and growth opportunities.\n\n\n\n While the immediate impact is the tool itself, the long-term impact is fostering a culture of innovation and adaptability.\nAutomation reduces the chances of human error.\nWhile the exact numbers and achievements will provide a clearer picture in the future, the anticipated benefits of the Validato position it as a game-changer for the ecosystem.",
+  "impactMetrics": [
+    {
+      "description": "TWT",
+      "number": 3,
+      "url": "https://twitter.com/validatoxyz"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0xd3Cc6DeaA7B9C09E99DB64ca35D6D06179812C67",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Validato",
+  "applicantName": "validato.eth",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xd3Cc6DeaA7B9C09E99DB64ca35D6D06179812C67.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xd3Cc6DeaA7B9C09E99DB64ca35D6D06179812C67.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xd3Cc6DeaA7B9C09E99DB64ca35D6D06179812C67.json",
+  "RPGF3_Application_UID": "0x7b62eacad7ec6b3b02b03ded58a65bc8b3747679c8bdb2054d0d5936fc25744a",
+  "applicantAddress": "0xd3Cc6DeaA7B9C09E99DB64ca35D6D06179812C67"
+}

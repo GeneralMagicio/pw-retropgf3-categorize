@@ -1,0 +1,41 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://twitter.com/yusufhidayat221",
+  "bio": "https://twitter.com/yusufhidayat221",
+  "contributionDescription": "i will try more task and joined all social account in this project, and i will share more updated in my communities and my channel. please give me a chance to join on your project. i will do best action for optimism and it's will a boom on the future.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://twitter.com/yusufhidayat221",
+      "description": "best"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "i will try more task and joined all social account in this project, and i will share more updated in my communities and my channel. please give me a chance to join on your project. i will do best action for optimism and it's will a boom on the future.",
+  "impactMetrics": [
+    {
+      "description": "download",
+      "number": 420,
+      "url": "https://twitter.com/yusufhidayat221"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x03A1a32e15BB05E3144410b4627FC03138a55720",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "yusuf",
+  "applicantName": "yusuf",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x03A1a32e15BB05E3144410b4627FC03138a55720.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x03A1a32e15BB05E3144410b4627FC03138a55720.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x03A1a32e15BB05E3144410b4627FC03138a55720.json",
+  "RPGF3_Application_UID": "0x1d7277fe87a750b95e345a6d3e7476f5ebd2b164a585543d61c35c5f48bca663",
+  "applicantAddress": "0x03A1a32e15BB05E3144410b4627FC03138a55720"
+}

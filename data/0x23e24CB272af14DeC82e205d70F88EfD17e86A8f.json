@@ -1,0 +1,38 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "HTTPS://bassytoneautos.com",
+  "bio": "I’m a crypto trader and car seller ",
+  "contributionDescription": "I’ve spent my time over the line to introduce my family members, friends and my crypto students and community to interact with optimism chain. I love the way optimism operates and I must say, it’s one of the very few projects out there in the crypto space that offers the lowest gas fee for transactions.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/tx/0x91923560257abc3ee3e306f00d0dee7a6195144d937ae7f88763b8f39fa4ea85",
+      "description": "Interacted with a smart contract on the network "
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "I’ve brought in a large number of crypto trader into the optimism community and they’ve been interacting with the project. I’ve also spread the awareness of crypto security regarding optimism chain to avoid the loss of funds and assets. Many people are ignorant of cyber frauds.",
+  "impactMetrics": [
+    {
+      "description": "158",
+      "number": 158,
+      "url": "https://X.com/bassytone101"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x23e24CB272af14DeC82e205d70F88EfD17e86A8f",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Bassytone101 ",
+  "applicantName": "Bassytone101",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x23e24CB272af14DeC82e205d70F88EfD17e86A8f.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x23e24CB272af14DeC82e205d70F88EfD17e86A8f.json",
+  "RPGF3_Application_UID": "0x24b213c497cf7fc3102747e1e69167872469e6bac5dba2070ffbad0c806bde5b",
+  "applicantAddress": "0x23e24CB272af14DeC82e205d70F88EfD17e86A8f"
+}

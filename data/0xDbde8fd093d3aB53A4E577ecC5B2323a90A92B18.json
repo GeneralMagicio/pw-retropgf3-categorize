@@ -1,0 +1,39 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://twitter.com/tyfnddf",
+  "bio": "I was born in Turkey, I am 24 years old,",
+  "contributionDescription": "vv                                                                                                                                                                                                                                                                            \n",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/tx/0x39f7138a12ebf55c76037d945f17df0f4228cbcef2edcb31f79bd11385315459",
+      "description": "description"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "v vv vvvv                                                                                                                                                                                                                                                                          ",
+  "impactMetrics": [
+    {
+      "description": "34",
+      "number": 345,
+      "url": "https://optimistic.etherscan.io/tx/0x39f7138a12ebf55c76037d945f17df0f4228cbcef2edcb31f79bd11385315459"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0xDbde8fd093d3aB53A4E577ecC5B2323a90A92B18",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "vintek",
+  "applicantName": "vintek",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xDbde8fd093d3aB53A4E577ecC5B2323a90A92B18.json",
+  "RPGF3_Application_UID": "0x3285600743e52026b85a0052084deac3afbefdaaf9e93f700de66be550e702f2",
+  "applicantAddress": "0xDbde8fd093d3aB53A4E577ecC5B2323a90A92B18"
+}

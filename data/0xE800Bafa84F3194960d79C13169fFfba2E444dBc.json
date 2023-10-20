@@ -1,0 +1,117 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://espaciocripto.io/",
+  "bio": "We're the largest web3 community and podcast in Mexico. We've been producing educational content since December 2020. ",
+  "contributionDescription": "Here are some activities we delivered outside of the scope of the mission we presented and of Retro PGF2: \nWe gave grants for 3 people to assist Permissionless, we paid for the accommodation and the conference tickets. In total, the grants represented more than $4,000 USD\nWe provided scholarships for 7 devs to take a Development bootcamp with LeWagon; in total, there were more than $16,000 USD in scholarships\nWe've produced more than 50 episodes since we received the last RetroPGF\nWe released a specific episode to discuss a report we created about Optimism. The report was part of the mission, but the podcast episode was not part of the scope \nWe've produced more than 45 newsletters with diverse educational content; \nWe have invested more than 20,000 USD in educational content",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://www.instagram.com/p/Cvz9fAeuoCR/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA== ",
+      "description": "Grants we gave people to assist to Permissionless"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.instagram.com/p/Cu8fipwuWlU/?img_index=1  https://www.instagram.com/p/Cv2wR21uAQc/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA== ",
+      "description": "Scolarships for 7 devs"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://open.spotify.com/show/3aTbNIU9dcaWtkbd2QzaQz?si=19986cb752e54843",
+      "description": "More than 50 new episodes produced"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.espaciocripto.io/#OptimismReport",
+      "description": "Espacio Cripto Optimism Report"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://espaciocripto.substack.com/ ",
+      "description": "Our newsletter"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://t.me/espaciocripto/66766 ",
+      "description": "Telegram survey on how Espacio Cripto helped the community understand Optimism"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "Some examples of how Espacio Cripto has helped the Optimistic vision:\nWeb3 name: brichis, Optimism Delegate\nEC has been instrumental in my journey, offering me a platform to inspire others. Here, I learned that success isn't about bull markets; it's about building for the future #WinandHelpWin\nWeb3 name: Chuy García, Dappnode community manager\nEC kickstarted communities nationwide by establishing the free sharing of knowledge as a core value in its own community. Most of us Mexicans in the ecosystem are here, in one way or another, thanks to Espacio Cripto.\nWeb3 name: AnaTech, Community manager @ Arbitrum Foundation\nEC was my starting point, where I found many friends and opportunities. At Espacio Cripto, I continued to share, learn, and gain new abilities and friends. ",
+  "impactMetrics": [
+    {
+      "description": "# of downloads in 2023",
+      "number": 77429,
+      "url": "https://docs.google.com/presentation/d/19hWxi8nbLNfObjIyVnJt-0NVZxg91HHFToHdig8Wak0/edit#slide=id.g182b50d2c12_0_326"
+    },
+    {
+      "description": "Newsletter subscribers",
+      "number": 1183,
+      "url": "https://docs.google.com/presentation/d/19hWxi8nbLNfObjIyVnJt-0NVZxg91HHFToHdig8Wak0/edit#slide=id.g1e94ffe1695_0_43"
+    },
+    {
+      "description": "News letter impressions",
+      "number": 60000,
+      "url": "https://docs.google.com/presentation/d/19hWxi8nbLNfObjIyVnJt-0NVZxg91HHFToHdig8Wak0/edit#slide=id.g1e94ffe1695_0_43"
+    },
+    {
+      "description": "Newsletter open rate",
+      "number": 33.49,
+      "url": "https://docs.google.com/presentation/d/19hWxi8nbLNfObjIyVnJt-0NVZxg91HHFToHdig8Wak0/edit#slide=id.g1e94ffe1695_0_43"
+    },
+    {
+      "description": "Twitter followers",
+      "number": 7060,
+      "url": "https://twitter.com/EspacioCripto"
+    },
+    {
+      "description": "Twitter impressions",
+      "number": 445000,
+      "url": "https://docs.google.com/presentation/d/19hWxi8nbLNfObjIyVnJt-0NVZxg91HHFToHdig8Wak0/edit#slide=id.g1e94ffe1695_0_60"
+    },
+    {
+      "description": "Members in our Telegram Community",
+      "number": 1658,
+      "url": "https://t.me/espaciocripto"
+    },
+    {
+      "description": "Instagram followers",
+      "number": 5576,
+      "url": "https://www.instagram.com/espaciocripto.eth/"
+    },
+    {
+      "description": "Dev bootcamp scolarships",
+      "number": 8,
+      "url": "https://www.instagram.com/p/Cv2wR21uAQc/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA=="
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 9910,
+      "description": "Rewarded for our work up until then"
+    },
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 45600,
+      "description": "Mission:Let’s take the Optimistic Vision to LATAM with EC. locked tokens"
+    }
+  ],
+  "payoutAddress": "0xE800Bafa84F3194960d79C13169fFfba2E444dBc",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Espacio Cripto",
+  "applicantName": "Espacio Cripto",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xE800Bafa84F3194960d79C13169fFfba2E444dBc.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xE800Bafa84F3194960d79C13169fFfba2E444dBc.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xE800Bafa84F3194960d79C13169fFfba2E444dBc.json",
+  "RPGF3_Application_UID": "0xf16d4e5a02c22a3c903a56d614b049b5d83bf9d6705f811b1cd1f4464f5b4ed1",
+  "applicantAddress": "0xE800Bafa84F3194960d79C13169fFfba2E444dBc"
+}

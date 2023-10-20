@@ -1,0 +1,102 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://x.com/raybankless",
+  "bio": "BanklessDAO Turkish Node: Bridging global Bankless & Turkish community with localized web3 resources & education for financial sovereignty.",
+  "contributionDescription": "Bankless Turkish participated in Optimism DAOs Season 4 to create multimedia content in Turkish. We carried our blog from web2 to web3 by selecting Mirror and allowing our community to mint articles on optimism.\n\nWe organised a physical onboarding workshop creating new wallets and doing hands on onboarding with token transfers and NFT minting. Collaborated with Otterspace.xyz for souldbound NFTs on Optimism.\n\nWe also collaborated with Greenpill Turkey and shared our know how about grants and fundraising. With their connections to legal NGOs, we opened an account for Greenpill on giveth.io and onboarded 4 NGOs for fundraising using Safe{Wallet} on Optimism.\n\nSince there is quite a bit of articles and tweets, we made a spreadsheet with the list in the first link.\n\n\n\n",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://docs.google.com/spreadsheets/d/1tP8X4I3vzZyOVC8FcTAfA4MiIpTXdXDHUEPWKvfu62E/edit?usp=sharing",
+      "description": "The list of articles that are translated to Turkish along with associated tweets"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/GreenPillTR/status/1710058018765767048?s=20",
+      "description": "The tweet about our onboarding event with @marunblockchain"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.canva.com/design/DAFupF0qecI/398tuWPckaSnV9glmqowyw/edit?utm_content=DAFupF0qecI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+      "description": "The presentation used in the onboarding"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://giveth.io/project/robotel-3d-printed-prosthesis",
+      "description": "NGO#1- Robotel - 3D Printed Prosthesis"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://giveth.io/project/yersu-holistic-healthy-living-association",
+      "description": "NGO#2- Yersu Holistic Healthy Living Association"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://giveth.io/project/ayder-pioneering-inclusive-solutions-in-turkey",
+      "description": "NGO#3- AYDER - Pioneering Inclusive Solutions in Turkey"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://giveth.io/project/ekodoku-ethical-silk-production-sustainable-textile",
+      "description": " EkoDoku - Ethical Silk Production & Sustainable Textile"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "We propagated the Optimistic Vision to Turkish speakers via:\n\nNewsletters:\n\nFrom the Ashes of Moloch, Ether’s Phoenix Rises\nOptimism’s Governance Is Tuned Into Community\nHands-On Learning for Optimistic Hearts\nWhat Is the Law of Chains?\nOP Grants Stack: The Wellspring of Regenerative Cryptoeconomics\nOptimism Provides a Shared Resource For DAOs\nThe Optimism Collective’s RetroPGF Learning Journey\nSupporting tweets for newsletters + Info on collective.\n\nOnboarding:\n\nDAO & Bankless Overview\nWeb3 Intro & Tools\nOptimistic Onboarding\nContribution Post-Onboarding\nFunding Mechanisms (direct, retro, qf, crowd)\nCommunity Vibes.\n\n\n",
+  "impactMetrics": [
+    {
+      "description": "# of Article Views",
+      "number": 1574,
+      "url": "https://docs.google.com/document/d/1flMcSKoA7-CsLst67OS09EgQ4CqLwzxVyrVqv0scZy8/edit?usp=sharing"
+    },
+    {
+      "description": "# of onboarding wallets created",
+      "number": 8,
+      "url": "https://docs.google.com/spreadsheets/d/1a8mNzdfcHaHl5uRCcrF7XSiUSrT3q-xeLKva9SZDZ44/edit?usp=sharing"
+    },
+    {
+      "description": "# of onboarding transactions made",
+      "number": 40,
+      "url": "https://docs.google.com/spreadsheets/d/1a8mNzdfcHaHl5uRCcrF7XSiUSrT3q-xeLKva9SZDZ44/edit?usp=sharing"
+    },
+    {
+      "description": "# of NGOs onboarded",
+      "number": 4,
+      "url": "https://ibb.co/Wyk75vx"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 170,
+      "description": "Part of the BanklessDAO Campaign"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 350,
+      "description": "BanklessDAO Grant: 2000 BANK per article, 10000 BANK per event Total 114000 BANK"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 100,
+      "description": "Part of Gitcoin Citizens Round BanklessDAO Project"
+    }
+  ],
+  "payoutAddress": "0xf23b85AD3928f6c50B12065375E1cE5613c02d32",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "BanklessDAO Turkish",
+  "applicantName": "Bankless Turkish",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xBd55b361700c3349794aF68879B8a9E0921640Ed.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xBd55b361700c3349794aF68879B8a9E0921640Ed.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xBd55b361700c3349794aF68879B8a9E0921640Ed.json",
+  "RPGF3_Application_UID": "0xc8e743bd0385565571a95fe4333b3a4892fc8f846b76489d3b417e1fb61fad73",
+  "applicantAddress": "0xBd55b361700c3349794aF68879B8a9E0921640Ed"
+}

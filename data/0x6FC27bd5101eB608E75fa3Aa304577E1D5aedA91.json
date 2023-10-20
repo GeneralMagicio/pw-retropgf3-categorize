@@ -1,7 +1,7 @@
 {
   "applicantType": "INDIVIDUAL",
-  "websiteUrl": "https://medium.com/@ekojaweephraim/retroactive-public-goods-funding-retro-pgf-3-e3396f2eeec2",
-  "bio": "Educational.",
+  "websiteUrl": "https://twitter.com/ehima_ephraim",
+  "bio": "Ephraim, i'm a creator.",
   "contributionDescription": "Financial Support: Many contributors seek retroactive funding primarily for financial support. This can include reimbursement for expenses incurred during your work, compensation for your time and effort, or even a source of income to sustain your continued contributions.\n\nValidation and Recognition: Some contributors value the validation and recognition that retroactive funding provides. It's a way to acknowledge the importance and impact of your work within the community, which can be a significant motivator.\n\nResources for Future Projects: Retroactive funding can provide you with the resources necessary to pursue future projects or initiatives. This can include funding for research, development, or other activities that contribute to the growth and improvement of the Optimism ecosystem.",
   "contributionLinks": [
     {
@@ -36,14 +36,9 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "Project": "Ephraim",
-  "Applicant Type": "INDIVIDUAL",
-  "OSS Directory": "",
-  "Link": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x6FC27bd5101eB608E75fa3Aa304577E1D5aedA91.json",
-  "Githubs": "",
-  "Tags": "COLLECTIVE_GOVERNANCE, END_USER_EXPERIENCE_AND_ADOPTION",
-  "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Educational, Financial Support, Resources for Future Projects, Collective Governance, End User Experience and Adoption",
-  "pwIsFlagged": false,
-  "pwCategory": "Developer Ecosystem"
+  "displayName": "Ephraim",
+  "applicantName": "Ephraim",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x6FC27bd5101eB608E75fa3Aa304577E1D5aedA91.json",
+  "RPGF3_Application_UID": "0xbe0c6e86722601271a5015835ce38e9e774969de5606e6298d11744cb6af3524",
+  "applicantAddress": "0x6FC27bd5101eB608E75fa3Aa304577E1D5aedA91"
 }

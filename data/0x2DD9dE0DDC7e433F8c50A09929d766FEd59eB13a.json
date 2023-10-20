@@ -1,0 +1,59 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://twitter.com/ryanberckmans",
+  "bio": "Hi! I'm Ryan Berckmans. I spent four years researching the app layer and helping the community by writing about discoveries that seemed novel and important.",
+  "contributionDescription": "In four years full-time of writing research posts with tens of millions of impressions, I helped attract builders, investors, policymakers, and news media to Ethereum and Optimism, and I helped ensure builders were maximally informed about important and novel opportunities and threats.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/ryanberckmans/status/1199048565248733185",
+      "description": "An early contribution to fee economics research when I was new to ethereum"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/ryanberckmans/status/1470579967637475329",
+      "description": "L2 network effects research to help transition the community to the L2 era"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/ryanberckmans/status/1476032294771171332",
+      "description": "Research on symbiosis between ETH and L2 native tokens, when L2 tokens were new"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/ryanberckmans/status/1560661012742750209",
+      "description": "An early research product into extensible and censorship-resistant dApp UIs"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://github.com/web3-byoa/whitepaper/blob/main/byoa%20whitepaper.pdf",
+      "description": "Whitepaper for our extensible and censorship-resistant dApp UIs"
+    }
+  ],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "The opportunity for Ethereum and Optimism to become globally ubiquitous is path-dependent and not guaranteed to be realized.\n\nThe quicker we can all learn, understand, and act on novel and important information, the more likely it is that our infinite garden successfully becomes a globally ubiquitous level playing field for all of humanity.\n\nMy years of work to discover and write about novel and important principles, opportunities, and threats helped our community move faster and focus on the right problems.",
+  "impactMetrics": [
+    {
+      "description": "Approx. total research post impressions",
+      "number": 30000000,
+      "url": "https://hive.one/p/ryanberckmans"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x56329ACd726a373177f8Bf2f94Ca601C0BB3C4FA",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Ryan Berckmans",
+  "applicantName": "Ryan Berckmans",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2DD9dE0DDC7e433F8c50A09929d766FEd59eB13a.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x2DD9dE0DDC7e433F8c50A09929d766FEd59eB13a.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x2DD9dE0DDC7e433F8c50A09929d766FEd59eB13a.json",
+  "RPGF3_Application_UID": "0xcb3b30c752b2594f4fc4377496ab5c301dc299abd8701507f4b1674b99e2cf8a",
+  "applicantAddress": "0x2DD9dE0DDC7e433F8c50A09929d766FEd59eB13a"
+}

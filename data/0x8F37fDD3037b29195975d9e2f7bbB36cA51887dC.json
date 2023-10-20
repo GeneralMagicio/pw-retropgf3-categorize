@@ -1,0 +1,48 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://nextme.one/dtai93.eth",
+  "bio": "- I'm developer: PHP, JS\n- I love crypto. Start Hunt Gem #airdrops in crypto with me! \n- I really like #travel #relax #funny #pet and some thing #beautiful #art",
+  "contributionDescription": "I have shared articles about optimism similar to: https://twitter.com/dtai93/status/1714815739704873139\nand telegram channels\n\nI have participated in interactive tasks to experience projects on the optimism network ecosystem with platforms such as galxe, questn, layer3...\n\nI participated in votes on snapshots, delegates...",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://galxe.com/optimism",
+      "description": "Joined galxe quest"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://app.questn.com/",
+      "description": "Joined questn quest"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://layer3.xyz/category/optimism",
+      "description": "Joined layer3 quest"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "Experience many projects on the optimism ecosystem. From there, evaluate potential projects for long-term use. and I am impressed with optimism that it is very fast and gas fees are very cheap compared to all other blockchains. i hope this will be maintained and never have a very high gas situation like ethereum",
+  "impactMetrics": [
+    {
+      "description": "transaction on optimism chain",
+      "number": 420,
+      "url": "https://optimistic.etherscan.io/address/0x8F37fDD3037b29195975d9e2f7bbB36cA51887dC"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x8F37fDD3037b29195975d9e2f7bbB36cA51887dC",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "dtai93",
+  "applicantName": "dtai93",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x8F37fDD3037b29195975d9e2f7bbB36cA51887dC.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x8F37fDD3037b29195975d9e2f7bbB36cA51887dC.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x8F37fDD3037b29195975d9e2f7bbB36cA51887dC.json",
+  "RPGF3_Application_UID": "0x4b9b980c710c584446cec04d5282f93e6780df75e170d149efad8efce6157bbc",
+  "applicantAddress": "0x8F37fDD3037b29195975d9e2f7bbB36cA51887dC"
+}

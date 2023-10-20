@@ -1,0 +1,47 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://twitter.com/Kizzdave",
+  "bio": "Good things comes to those who wait …\nWeb3 marketer ",
+  "contributionDescription": "My contribution was solid and I believe the team will look into it and also Help badgeholders understand the impact you had by going into detail and sharing metrics. This part of your application helps badgeholders understand how your work has benefitted the Optimism Collective. We strongly encourage you spend time going into detail here.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://plaid-cement-e44.notion.site/RetroPGF-3-Application-Guidelines-6942e743b28e4cc1a53a5e7d781f2bf4",
+      "description": "Op site "
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "Where can badgeholders find out more about your contributions? Examples: a website, GitHub repository, on-chain contract Work that provided impact to application developers in the Optimism Collective, or helped bring new developers into the Collective",
+  "impactMetrics": [
+    {
+      "description": "https://plaid-cement-e44.notion.site/R",
+      "number": 440,
+      "url": "https://plaid-cement-e44.notion.site/RetroPGF-3-Application-Guidelines-6942e743b28e4cc1a53a5e7d781f2bf4"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_1",
+      "currency": "USD",
+      "amount": 100,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0x20fde6fc55e4e825d5c6d28196d302074b4aa2f1",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Kizzdave",
+  "applicantName": "Kizzdave",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x20fDE6FC55E4E825D5C6D28196d302074B4AA2F1.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x20fDE6FC55E4E825D5C6D28196d302074B4AA2F1.json",
+  "RPGF3_Application_UID": "0xcdcf69c64698690b02bfbcc0197930be801105dca411d998844e54c9a4d5ffa5",
+  "applicantAddress": "0x20fDE6FC55E4E825D5C6D28196d302074B4AA2F1"
+}
