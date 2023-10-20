@@ -42,7 +42,7 @@ export async function exportTwitterCsv() {
     const application = JSON.parse(doc.pageContent);
 
     applications.push({
-      project: application.Project,
+      project: application.displayName,
       twitterUrl: twitterUrl,
       applicantType: application.applicantType,
       pwIsFlagged: application.pwIsFlagged,

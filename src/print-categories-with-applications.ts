@@ -35,7 +35,7 @@ export async function printCategoriesWithApplications(filter: string) {
         application.pwCategory === category &&
         application.pwIsFlagged === false
       ) {
-        console.log(`◆  - ${application.Project}`);
+        console.log(`◆  - ${application.displayName}`);
         counter++;
       }
     }
@@ -50,7 +50,7 @@ export async function printCategoriesWithApplications(filter: string) {
     const application = JSON.parse(doc.pageContent);
 
     if (application.pwIsFlagged) {
-      console.log(`◆  - ${application.Project}`);
+      console.log(`◆  - ${application.displayName}`);
       counter++;
       noiseCounter++;
     }
@@ -68,7 +68,9 @@ export async function printCategoriesWithApplications(filter: string) {
     }
 
     if (categories.indexOf(application.pwCategory) === -1) {
-      console.log(`◆  - ${application.Project} (${application.pwCategory})`);
+      console.log(
+        `◆  - ${application.displayName} (${application.pwCategory})`
+      );
       counter++;
     }
   }
@@ -95,7 +97,7 @@ export async function printCategoriesWithApplications(filter: string) {
 
     if (!application.pwCategory && !application.pwIsFlagged) {
       emptyCategories++;
-      console.log(`◆  - ${application.Project}`);
+      console.log(`◆  - ${application.displayName}`);
     }
   }
 

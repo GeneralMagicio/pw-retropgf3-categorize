@@ -37,7 +37,7 @@ export class ApplicationCategoryLoader implements BaseDocumentLoader {
             pageContent: doc.pwCategorySuggestions,
             metadata: {
               source: this.path,
-              project: doc.Project,
+              project: doc.displayName,
             },
           }),
         ]);
