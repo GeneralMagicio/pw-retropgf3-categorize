@@ -46,5 +46,6 @@
   "RPGF3_Application_UID": "0x245b63367b41c9dd64170309ed03a878a5ed402f809a491dc8ff0e4a94e4adc9",
   "applicantAddress": "0xF90f56AFa1DaE825Db57fc305B2F8F1Ccf337531",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "Flagged: The application promises future impact, specifically the onboarding of 100+ new crypto users to Optimism from Q1 to Q4 2022, which is against rule 1 of the grant program rules."
+  "pwFlaggedReason": "Flagged: The application promises future impact, specifically the onboarding of 100+ new crypto users to Optimism from Q1 to Q4 2022, which is against rule 1 of the grant program rules.",
+  "pwApplicantTypeChecked": true
 }

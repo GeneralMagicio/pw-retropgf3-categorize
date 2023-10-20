@@ -62,5 +62,8 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x978A2E2D98ca029Ab0f7268Cb069528333D748C1.json",
   "RPGF3_Application_UID": "0xe8f04c3924fd97f5c6509b93c9a342b9d9f50f1841d3d68a3bf4376c045c032d",
   "applicantAddress": "0x978A2E2D98ca029Ab0f7268Cb069528333D748C1",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "recategorizeToType": "INDIVIDUAL",
+  "recategorizeReason": "NO, it is categorized as a project but the application is from an individual named Billy.",
+  "pwApplicantTypeChecked": true
 }

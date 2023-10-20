@@ -41,5 +41,6 @@
   "RPGF3_Application_UID": "0x97dcccd2bb2aff2fee1dc3b5170686cd29e4d4aad566dfaab0f2140594e9047e",
   "applicantAddress": "0x8B0428ffb862a5FA81AC63Df5904C036ABbF3bbe",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "The application should be flagged for promising future impact which is against the rules of the grant program."
+  "pwFlaggedReason": "The application should be flagged for promising future impact which is against the rules of the grant program.",
+  "pwApplicantTypeChecked": true
 }

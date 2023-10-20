@@ -36,5 +36,8 @@
   "RPGF3_Application_UID": "0xd25c3f909e7c842a12a1e1bbec872a5ec769c885234cb03faca80bde1a0c1cfa",
   "applicantAddress": "0x054Becf10c79aFa4e60F75B187837bE9Fb83867D",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "This application should be flagged for violating the rules of the grant program: promises of future impact are not allowed, yet the applicant mentions future plans for creating content and collaborating with other ambassadors."
+  "pwFlaggedReason": "This application should be flagged for violating the rules of the grant program: promises of future impact are not allowed, yet the applicant mentions future plans for creating content and collaborating with other ambassadors.",
+  "recategorizeToType": "PROJECT",
+  "recategorizeReason": "NO, the application is incorrectly categorized as an \"INDIVIDUAL\" while it should be categorized as a \"PROJECT\" because \"CoinRuay\" refers to a blockchain club, not an individual.",
+  "pwApplicantTypeChecked": true
 }

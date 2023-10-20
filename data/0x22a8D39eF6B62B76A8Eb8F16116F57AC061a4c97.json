@@ -46,5 +46,6 @@
   "RPGF3_Application_UID": "0xc93b432289786fb2e4fd8851a28e11260ec90d823af1855f11e327286824cd07",
   "applicantAddress": "0x22a8D39eF6B62B76A8Eb8F16116F57AC061a4c97",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "The application should be flagged for violating the rules on promises of future impact and outside of RetroPGF's scope as the applicant is substantially detailing future plans and predicted impacts, and doesn't provide a clear description or evidence of a valid past contribution to Optimism as required."
+  "pwFlaggedReason": "The application should be flagged for violating the rules on promises of future impact and outside of RetroPGF's scope as the applicant is substantially detailing future plans and predicted impacts, and doesn't provide a clear description or evidence of a valid past contribution to Optimism as required.",
+  "pwApplicantTypeChecked": true
 }

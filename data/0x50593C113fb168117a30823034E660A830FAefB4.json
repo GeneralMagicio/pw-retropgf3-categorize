@@ -38,5 +38,8 @@
   "RPGF3_Application_UID": "0xfe56cec679d8dfe1eba84bd5e496060ce3b2671ce333fe9fa520937bff20f70e",
   "applicantAddress": "0x50593C113fb168117a30823034E660A830FAefB4",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "The application should be flagged because it violates rule number 11, which states that applications in languages other than English are not allowed. The bio and contribution description are written in a language other than English."
+  "pwFlaggedReason": "The application should be flagged because it violates rule number 11, which states that applications in languages other than English are not allowed. The bio and contribution description are written in a language other than English.",
+  "recategorizeToType": "PROJECT",
+  "recategorizeReason": "NO, the application should be categorized as a PROJECT, not an INDIVIDUAL, based on the nature of the contribution and impact descriptions which focus on an initiative or project, rather than an individual's work.",
+  "pwApplicantTypeChecked": true
 }

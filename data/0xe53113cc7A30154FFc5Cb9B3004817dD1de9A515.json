@@ -45,5 +45,6 @@
   "RPGF3_Application_UID": "0x9de095b560901650579c87a02d87873770d693e4ea4917aadcd3f996580f1a7d",
   "applicantAddress": "0xe53113cc7A30154FFc5Cb9B3004817dD1de9A515",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "This application should be flagged for violating rule 2: False statements & deception, rule 4: Deceiving badgeholders, and rule 10: Outside of RetroPGF's scope because the applicant has made false claims about his contribution, not providing any valid contribution or impact to the platform, and is also using misleading and potentially deceptive language."
+  "pwFlaggedReason": "This application should be flagged for violating rule 2: False statements & deception, rule 4: Deceiving badgeholders, and rule 10: Outside of RetroPGF's scope because the applicant has made false claims about his contribution, not providing any valid contribution or impact to the platform, and is also using misleading and potentially deceptive language.",
+  "pwApplicantTypeChecked": true
 }

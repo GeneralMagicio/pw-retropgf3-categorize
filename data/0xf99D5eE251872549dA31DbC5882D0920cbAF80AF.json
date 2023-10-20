@@ -35,5 +35,8 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xf99D5eE251872549dA31DbC5882D0920cbAF80AF.json",
   "RPGF3_Application_UID": "0x02a9c34a468d33bc28a5f434f7116eb92137e65e34d75ab1ceab0aa3c67c65ab",
   "applicantAddress": "0xf99D5eE251872549dA31DbC5882D0920cbAF80AF",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "recategorizeToType": "PROJECT",
+  "recategorizeReason": "NO, the use of \"we\" in the bio indicates this might be a group or project, not an individual.",
+  "pwApplicantTypeChecked": true
 }

@@ -38,5 +38,8 @@
   "RPGF3_Application_UID": "0x6a1164b92ba2ad25641e86afbe8f01d2b656272e622a4f1ea72da26bab344e7a",
   "applicantAddress": "0xd0AAdCFE1905b10c64E95D5095457f201a46e39C",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "Flag the application for violating rule 1: this application promises future deliverables or impact, which is not allowed as per the grant program rules."
+  "pwFlaggedReason": "Flag the application for violating rule 1: this application promises future deliverables or impact, which is not allowed as per the grant program rules.",
+  "recategorizeToType": "PROJECT",
+  "recategorizeReason": "NO, the applicant talks about a project and its impact, so it should be categorized as \"PROJECT\".",
+  "pwApplicantTypeChecked": true
 }

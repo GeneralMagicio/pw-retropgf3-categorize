@@ -41,5 +41,8 @@
   "RPGF3_Application_UID": "0xbd8a564498500fddb0601d96b2fe90d09aa0dc56e40df97bdc10a869a5de8851",
   "applicantAddress": "0x67C60C3F028eF4Ff82de53189f236388ca7A5f6A",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "The application should be flagged for violation of rule 11. The impact description contains non-English text."
+  "pwFlaggedReason": "The application should be flagged for violation of rule 11. The impact description contains non-English text.",
+  "recategorizeToType": "PROJECT",
+  "recategorizeReason": "NO, the application should be categorized as a PROJECT as the \"contributionDescription\" and \"impactDescription\" clearly describe an initiative or project (the Superchain token list), not an individual.",
+  "pwApplicantTypeChecked": true
 }

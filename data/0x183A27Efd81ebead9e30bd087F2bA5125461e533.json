@@ -37,5 +37,8 @@
   "RPGF3_Application_UID": "0x48f1812a7d174818dbe5e08013d3ff0adc2a6e44528010ab46c2d368f1cffbdc",
   "applicantAddress": "0x183A27Efd81ebead9e30bd087F2bA5125461e533",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "Flagged: The application violates rule 10 as the described contribution is user interaction – sending transactions, which is not eligible for rewards according to the grants program's rules."
+  "pwFlaggedReason": "Flagged: The application violates rule 10 as the described contribution is user interaction – sending transactions, which is not eligible for rewards according to the grants program's rules.",
+  "recategorizeToType": "INDIVIDUAL",
+  "recategorizeReason": "NO, the application is incorrectly categorized. The \"bio\" field indicates this is an individual, stating \"I'm a testor and airdrop hunter\", thus the \"applicantType\" field should be \"INDIVIDUAL\" and not \"PROJECT\".",
+  "pwApplicantTypeChecked": true
 }

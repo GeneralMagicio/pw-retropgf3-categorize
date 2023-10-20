@@ -62,5 +62,8 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x9FD0C742D81B6f08817F3eF11D09Cb4a9f54eE5f.json",
   "RPGF3_Application_UID": "0xe74ccd71062e114e4bbdbc6364d516b65b9003bdb3611de1bf8f774ae63b46f9",
   "applicantAddress": "0x9FD0C742D81B6f08817F3eF11D09Cb4a9f54eE5f",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "recategorizeToType": "INDIVIDUAL",
+  "recategorizeReason": "NO, the application is not correctly categorized. Despite being named as a project, the submission has individualistic language such as \"I'm the creator of the open source project Blockchain ETL and a co-founder of the blockchain analytics platform Nansen.ai\".",
+  "pwApplicantTypeChecked": true
 }

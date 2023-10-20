@@ -79,5 +79,8 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x95224178293c24219c287d7bfc6ad148c99dcFdE.json",
   "RPGF3_Application_UID": "0x04c658f109c8c51753a72ebd727024f3ea0c6766d3b579252a805f53c5a60ace",
   "applicantAddress": "0x95224178293c24219c287d7bfc6ad148c99dcFdE",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "recategorizeToType": "INDIVIDUAL",
+  "recategorizeReason": "NO, it's not correctly categorized. The \"bio\" section indicates this is an individual application since the applicant refers to themselves as \"I\".",
+  "pwApplicantTypeChecked": true
 }

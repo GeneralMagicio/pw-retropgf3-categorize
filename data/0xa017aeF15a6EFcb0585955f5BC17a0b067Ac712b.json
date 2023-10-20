@@ -45,5 +45,8 @@
   "RPGF3_Application_UID": "0x3e5afdbbc70bb1a81f85f0bb093d22d450e8d933ba41b2675e49a4ec7c45397d",
   "applicantAddress": "0xa017aeF15a6EFcb0585955f5BC17a0b067Ac712b",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "The application should be flagged for false statements & deception and lack of verifiable contribution. The applicant did not provide specific and verifiable details showing past contributions or impact in the blockchain/web3 space."
+  "pwFlaggedReason": "The application should be flagged for false statements & deception and lack of verifiable contribution. The applicant did not provide specific and verifiable details showing past contributions or impact in the blockchain/web3 space.",
+  "recategorizeToType": "INDIVIDUAL",
+  "recategorizeReason": "NO, the application is not correctly categorized because the applicant talks about \"I\" and \"me\" indicating that this is an individual, not a project.",
+  "pwApplicantTypeChecked": true
 }

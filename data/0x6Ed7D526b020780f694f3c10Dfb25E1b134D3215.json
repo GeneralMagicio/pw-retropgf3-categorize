@@ -61,5 +61,6 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x6Ed7D526b020780f694f3c10Dfb25E1b134D3215.json",
   "RPGF3_Application_UID": "0xd0f85e82439cc4c58186702cec1e6ef21d07a3540799a5938dc54551bf7ce18b",
   "applicantAddress": "0x6Ed7D526b020780f694f3c10Dfb25E1b134D3215",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

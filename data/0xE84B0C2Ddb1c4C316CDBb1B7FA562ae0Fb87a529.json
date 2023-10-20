@@ -38,5 +38,6 @@
   "RPGF3_Application_UID": "0x0ac35692e249b554c0145083e31ca8f3544f17f26dd0fc833be19c12984f731b",
   "applicantAddress": "0xE84B0C2Ddb1c4C316CDBb1B7FA562ae0Fb87a529",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "Flag the application. The contribution description is vague and doesn't clearly highlight a valid contribution to the Optimism ecosystem."
+  "pwFlaggedReason": "Flag the application. The contribution description is vague and doesn't clearly highlight a valid contribution to the Optimism ecosystem.",
+  "pwApplicantTypeChecked": true
 }

@@ -35,5 +35,6 @@
   "RPGF3_Application_UID": "0xd35da6036938ee0b58afe8cdbe942ba27c55977ff933c44970b581e37f3371cc",
   "applicantAddress": "0xc9755626C038578269Fb30AEF53B44D1C7214007",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "This application should be flagged because the contributions and impact metric descriptions are in a language other than English, which is against the rules of the grant program."
+  "pwFlaggedReason": "This application should be flagged because the contributions and impact metric descriptions are in a language other than English, which is against the rules of the grant program.",
+  "pwApplicantTypeChecked": true
 }

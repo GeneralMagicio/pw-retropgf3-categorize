@@ -52,5 +52,8 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x56EdF679B0C80D528E17c5Ffe514dc9a1b254b9c.json",
   "RPGF3_Application_UID": "0x4d6a8934a57ef082939fbf87ce03b8c57abaf7cb436eaa819fb9b5f9736ecd79",
   "applicantAddress": "0x56EdF679B0C80D528E17c5Ffe514dc9a1b254b9c",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "recategorizeToType": "INDIVIDUAL",
+  "recategorizeReason": "NO, this application should be categorized as INDIVIDUAL because the bio refers to \"I\" and \"me\", indicating that the applicant is an individual.",
+  "pwApplicantTypeChecked": true
 }

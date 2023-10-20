@@ -43,5 +43,6 @@
   "RPGF3_Application_UID": "0xe5fa19cbd3ba0172e14ec5f04da93cf4eb092ad07f5ae2005c203c751a15e5d9",
   "applicantAddress": "0x8Bac937c3727B89F273dAbE81898227A0e3Afe6F",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "The application should be flagged for violating the rules by promising future deliverables, as the applicant states they will bring their work to the Optimism Ecosystem next year."
+  "pwFlaggedReason": "The application should be flagged for violating the rules by promising future deliverables, as the applicant states they will bring their work to the Optimism Ecosystem next year.",
+  "pwApplicantTypeChecked": true
 }

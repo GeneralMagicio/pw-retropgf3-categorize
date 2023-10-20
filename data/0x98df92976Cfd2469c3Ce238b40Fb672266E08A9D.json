@@ -49,5 +49,8 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x98df92976Cfd2469c3Ce238b40Fb672266E08A9D.json",
   "RPGF3_Application_UID": "0x4780f02020e27dad28cff95737eff1683f44b9f0b422a5da31527278f16671b8",
   "applicantAddress": "0x98df92976Cfd2469c3Ce238b40Fb672266E08A9D",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "recategorizeToType": "PROJECT",
+  "recategorizeReason": "NO, the application is incorrectly categorized as it seems to be for a project rather than an individual given the description of a governance token and ecosystem related to Optimism, a Layer-2 network.",
+  "pwApplicantTypeChecked": true
 }

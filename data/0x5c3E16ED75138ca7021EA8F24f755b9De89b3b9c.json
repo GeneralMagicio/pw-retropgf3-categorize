@@ -42,5 +42,8 @@
   "RPGF3_Application_UID": "0x1146efadf741b59fd35c825060fdfc4257a8170a3e525735f066b34280eee9e4",
   "applicantAddress": "0x5c3E16ED75138ca7021EA8F24f755b9De89b3b9c",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "The application should be flagged for containing spam as it has irrelevant and vague descriptions, and does not clearly explain the contribution to the Web3/blockchain space."
+  "pwFlaggedReason": "The application should be flagged for containing spam as it has irrelevant and vague descriptions, and does not clearly explain the contribution to the Web3/blockchain space.",
+  "recategorizeToType": "INDIVIDUAL",
+  "recategorizeReason": "NO, it is not correctly categorized. This is likely an INDIVIDUAL application because it is frequently speaking in the first person such as \"i follow this project\" and \"i try optimism bridge\".",
+  "pwApplicantTypeChecked": true
 }

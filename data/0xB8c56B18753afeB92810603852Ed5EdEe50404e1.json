@@ -35,5 +35,6 @@
   "RPGF3_Application_UID": "0xf76e4ce36ac19a35ce181c7c7645bdee020894aaf087aae27717a691c97d8a0b",
   "applicantAddress": "0xB8c56B18753afeB92810603852Ed5EdEe50404e1",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "This application should be flagged because there are no clear and specific contributions to the Web3 or blockchain space as required by the grant program rules."
+  "pwFlaggedReason": "This application should be flagged because there are no clear and specific contributions to the Web3 or blockchain space as required by the grant program rules.",
+  "pwApplicantTypeChecked": true
 }

@@ -51,5 +51,8 @@
   "RPGF3_Application_UID": "0xf8fbc850514674e773252363aefa57d813b123694f6b8dfc9248f1b494885070",
   "applicantAddress": "0x2E3a1d2cCe3618F276CF6e5e3e8F2B3a81fCeA7c",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "The application should be flagged for violation of rule 1, as the applicant promises future support and success of the project without providing evidence of past or current contributions."
+  "pwFlaggedReason": "The application should be flagged for violation of rule 1, as the applicant promises future support and success of the project without providing evidence of past or current contributions.",
+  "recategorizeToType": "PROJECT",
+  "recategorizeReason": "NO, the application is incorrectly categorized as \"INDIVIDUAL\". The contribution description, impact description, and the provided website URL suggest that this is a project rather than an individual.",
+  "pwApplicantTypeChecked": true
 }

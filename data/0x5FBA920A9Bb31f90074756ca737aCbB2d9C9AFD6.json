@@ -46,5 +46,6 @@
   "RPGF3_Application_UID": "0x507dcdad72649b51e87a621be707df278d8acdd8d77350bbe86b72e0984f517e",
   "applicantAddress": "0x5FBA920A9Bb31f90074756ca737aCbB2d9C9AFD6",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "This application should be flagged for violating the rule about \"Promises of future impact\". The applicant mentions their project, the TokenHunters Dapp, is set to launch in Q4 2023 and requires funding for future optimization and expansion, which are future deliverables."
+  "pwFlaggedReason": "This application should be flagged for violating the rule about \"Promises of future impact\". The applicant mentions their project, the TokenHunters Dapp, is set to launch in Q4 2023 and requires funding for future optimization and expansion, which are future deliverables.",
+  "pwApplicantTypeChecked": true
 }

@@ -35,5 +35,8 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x9c3f12CBfDAd4A9056A6863f1aD92504ee7Fc2C0.json",
   "RPGF3_Application_UID": "0xc7717eaf1635302d867ef6013c95edb50248b7de2b66e0e541561ac791143db6",
   "applicantAddress": "0x9c3f12CBfDAd4A9056A6863f1aD92504ee7Fc2C0",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "recategorizeToType": "PROJECT",
+  "recategorizeReason": "NO, the application is not correctly categorized as the applicant mentions a collective effort (\"We provided over 100 OP News updates\") indicating it's a PROJECT, not an INDIVIDUAL.",
+  "pwApplicantTypeChecked": true
 }

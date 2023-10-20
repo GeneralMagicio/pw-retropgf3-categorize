@@ -43,5 +43,6 @@
   "RPGF3_Application_UID": "0xd10cb6bcc0a8dd9023a891b152f2586e77f744c3313128b85c7faccbdbbf254a",
   "applicantAddress": "0x29EFbf4e18AC525340C2656f55D26acd37c8b4Eb",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "The application should be flagged due to rule 11: spam. The application includes irrelevant and nonsensical text in the contribution and impact descriptions."
+  "pwFlaggedReason": "The application should be flagged due to rule 11: spam. The application includes irrelevant and nonsensical text in the contribution and impact descriptions.",
+  "pwApplicantTypeChecked": true
 }

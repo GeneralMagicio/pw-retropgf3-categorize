@@ -77,5 +77,6 @@
   "RPGF3_Application_UID": "0x799bbd58af4bc0700864c9737a8f098f0320af8ce80dc0601bb664a33b1a65d3",
   "applicantAddress": "0x4baB6aBb0358FF5624316450f52C9191291928Ee",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "Flagged: The application is in English but the links and the content provided are mostly in Russian. This violates Rule 11 which states applications must be in English."
+  "pwFlaggedReason": "Flagged: The application is in English but the links and the content provided are mostly in Russian. This violates Rule 11 which states applications must be in English.",
+  "pwApplicantTypeChecked": true
 }

@@ -39,5 +39,6 @@
   "RPGF3_Application_UID": "0xe11b75248d9099a980f661dd828bc4f520d53f1b9ccb83486c3dbebb0cd14cd0",
   "applicantAddress": "0xA975E551c3EacF89aB96420dBb1B63947F1BC282",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "This application should be flagged for violating rule 10 as the contributions mentioned such as making a lot of transactions and minting NFTs are user interactions, which are not in scope to be rewarded in this grant program."
+  "pwFlaggedReason": "This application should be flagged for violating rule 10 as the contributions mentioned such as making a lot of transactions and minting NFTs are user interactions, which are not in scope to be rewarded in this grant program.",
+  "pwApplicantTypeChecked": true
 }

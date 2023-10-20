@@ -37,5 +37,6 @@
   "RPGF3_Application_UID": "0xea78eba44c16e04d85dee3bb49fefc63cefee8299d5cf1588036053cf151eb73",
   "applicantAddress": "0x2eb6896CE4F45192140b5321F61D11E9eDA82F2B",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "The application should be flagged for being spam. The applicant includes content that is repeated, plagiarized, and irrelevant, violating rule 11."
+  "pwFlaggedReason": "The application should be flagged for being spam. The applicant includes content that is repeated, plagiarized, and irrelevant, violating rule 11.",
+  "pwApplicantTypeChecked": true
 }

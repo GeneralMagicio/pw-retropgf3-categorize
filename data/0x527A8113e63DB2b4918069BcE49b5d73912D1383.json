@@ -42,5 +42,8 @@
   "RPGF3_Application_UID": "0x00babc95abc3fb8290282cf9853ec34dcc9dec737e7e60df4db98aec6140e874",
   "applicantAddress": "0x527A8113e63DB2b4918069BcE49b5d73912D1383",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "The application should be flagged because it violates rule 11 - the application is not written in English."
+  "pwFlaggedReason": "The application should be flagged because it violates rule 11 - the application is not written in English.",
+  "recategorizeToType": "INDIVIDUAL",
+  "recategorizeReason": "NO, the application is not correctly categorized. It talks about \"I\" and \"me\", indicating that the applicant is an individual, not a project.",
+  "pwApplicantTypeChecked": true
 }

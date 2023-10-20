@@ -134,5 +134,8 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xc7FE1135Ba71e03a7a6b9E1dDB8f653f143bdCF9.json",
   "RPGF3_Application_UID": "0x33fcfbefe71202245fd492bd9b161dfe49dc2119edc7a42a0b8a9e5936a416d5",
   "applicantAddress": "0xc7FE1135Ba71e03a7a6b9E1dDB8f653f143bdCF9",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "recategorizeToType": "INDIVIDUAL",
+  "recategorizeReason": "NO, it is not correctly categorized. Despite the individual Waylon Jepsen being mentioned, the main focus and contributions of the application are centered around a project named \"Jessy's Hacker House,\" not the contributions of Waylon Jepsen as an individual. Hence the applicantType should be \"PROJECT\".",
+  "pwApplicantTypeChecked": true
 }

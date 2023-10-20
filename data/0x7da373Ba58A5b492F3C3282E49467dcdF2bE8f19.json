@@ -36,5 +36,8 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x7da373Ba58A5b492F3C3282E49467dcdF2bE8f19.json",
   "RPGF3_Application_UID": "0x28a9b486cc8ece9a26c2ecb9bc5890484b253b652b4ad7ed94873cac7753d5c4",
   "applicantAddress": "0x7da373Ba58A5b492F3C3282E49467dcdF2bE8f19",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "recategorizeToType": "INDIVIDUAL",
+  "recategorizeReason": "NO. The application is submitted by an individual, not a project, as indicated by phrases such as \"I'm the sole creator and developer behind ImaginAIryNFTs\".",
+  "pwApplicantTypeChecked": true
 }

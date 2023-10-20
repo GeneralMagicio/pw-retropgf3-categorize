@@ -55,5 +55,6 @@
   "RPGF3_Application_UID": "0x795c02e18131bf22626db5172ecbe21e0ee7316ed73921ad079b4d2989dce8b6",
   "applicantAddress": "0xd66190FAE43F6094665cD1aBCbd9Cc70Dfa8BA03",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "This application should be flagged for promising future deliverables or impact, which goes against the rule 1 of the program. The application states that their work has not yet been released with the goal of significantly reducing Optimism's fees though Deneb fork."
+  "pwFlaggedReason": "This application should be flagged for promising future deliverables or impact, which goes against the rule 1 of the program. The application states that their work has not yet been released with the goal of significantly reducing Optimism's fees though Deneb fork.",
+  "pwApplicantTypeChecked": true
 }

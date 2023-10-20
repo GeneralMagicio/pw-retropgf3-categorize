@@ -39,5 +39,8 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xB491c205a8663c1678C30e7d18d60844Dba62440.json",
   "RPGF3_Application_UID": "0x4ea9534a329b40233a55e4d3cd1c49082e2ba1ca1359c3aae8bb7c3f8aa388a3",
   "applicantAddress": "0xB491c205a8663c1678C30e7d18d60844Dba62440",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "recategorizeToType": "INDIVIDUAL",
+  "recategorizeReason": "NO, this application should be categorized as an INDIVIDUAL since the applicant refers to themselves as \"I\" and \"My\" throughout the application, indicating that it's a single person rather than a team or organization.",
+  "pwApplicantTypeChecked": true
 }

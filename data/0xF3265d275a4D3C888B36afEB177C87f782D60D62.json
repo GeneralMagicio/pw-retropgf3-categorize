@@ -34,5 +34,8 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xF3265d275a4D3C888B36afEB177C87f782D60D62.json",
   "RPGF3_Application_UID": "0xa34714740a449dbdac80a0b51a9d4bfdb633e251880ed253b322e74efcc55dcb",
   "applicantAddress": "0xF3265d275a4D3C888B36afEB177C87f782D60D62",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "recategorizeToType": "PROJECT",
+  "recategorizeReason": "NO, the application seems to represent a project (Optimism or RetroPGF) rather than an individual.",
+  "pwApplicantTypeChecked": true
 }

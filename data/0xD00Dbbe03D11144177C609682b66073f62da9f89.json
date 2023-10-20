@@ -43,5 +43,8 @@
   "RPGF3_Application_UID": "0x253de9e92717e8b2ac31e2f415f0f735aafc1db394e1c66859e385687d7b303d",
   "applicantAddress": "0xD00Dbbe03D11144177C609682b66073f62da9f89",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "This application should be flagged for promises of future impact as the applicant states they will \"maximize my performance,\" and for vague contribution descriptions that do not specify the time commitment or true impact to the Collective."
+  "pwFlaggedReason": "This application should be flagged for promises of future impact as the applicant states they will \"maximize my performance,\" and for vague contribution descriptions that do not specify the time commitment or true impact to the Collective.",
+  "recategorizeToType": "INDIVIDUAL",
+  "recategorizeReason": "NO, the application is categorized as a \"PROJECT\" but the use of first person pronouns such as \"I\" and \"me\" suggests that it should be categorized as an \"INDIVIDUAL\".",
+  "pwApplicantTypeChecked": true
 }

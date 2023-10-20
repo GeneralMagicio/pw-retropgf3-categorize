@@ -45,5 +45,6 @@
   "RPGF3_Application_UID": "0x580f87a2e1fd61c65ba0d3bcfadc86dc5e53174099deac254b4e0a0176c9a721",
   "applicantAddress": "0x31c326038DDF4E693eCdb3F2ec50A849c734ACa1",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "This application should be flagged for violating the rule about false statements and deception. The contribution description is poorly worded and vague, which could potentially mislead others. The contribution link provided also appears to be irrelevant to the stated contribution."
+  "pwFlaggedReason": "This application should be flagged for violating the rule about false statements and deception. The contribution description is poorly worded and vague, which could potentially mislead others. The contribution link provided also appears to be irrelevant to the stated contribution.",
+  "pwApplicantTypeChecked": true
 }

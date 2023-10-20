@@ -46,5 +46,8 @@
   "RPGF3_Application_UID": "0xec3ef11f8435bc1750c32927ec47ed0fd0380748ebb9be64977ad4d0c99d123c",
   "applicantAddress": "0x3fAA14B5090ae062b415bEE336D2584657D8052b",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "The application should be flagged for spam because it contains repetitive and irrelevant sentences in the sections for \"contributionDescription\" and \"impactDescription\"."
+  "pwFlaggedReason": "The application should be flagged for spam because it contains repetitive and irrelevant sentences in the sections for \"contributionDescription\" and \"impactDescription\".",
+  "recategorizeToType": "PROJECT",
+  "recategorizeReason": "NO, the application should be categorized as \"PROJECT\" as it talks about a professional and experienced team making and implementing a project and there is no mention of \"I\" or \"me\" to indicate an individual.",
+  "pwApplicantTypeChecked": true
 }

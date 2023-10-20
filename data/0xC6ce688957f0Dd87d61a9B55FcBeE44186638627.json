@@ -43,5 +43,8 @@
   "RPGF3_Application_UID": "0x84734925741ef69e0d33dc58bbdc36eccbddbb3248fc03b06358f7384c8acd29",
   "applicantAddress": "0xC6ce688957f0Dd87d61a9B55FcBeE44186638627",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "This application should be flagged because the contribution description contains promises of future outcomes and it does not describe a specific, tangible contribution that the individual has made to the Web3/blockchain space."
+  "pwFlaggedReason": "This application should be flagged because the contribution description contains promises of future outcomes and it does not describe a specific, tangible contribution that the individual has made to the Web3/blockchain space.",
+  "recategorizeToType": "PROJECT",
+  "recategorizeReason": "NO, this application should be categorized as PROJECT instead of INDIVIDUAL because although the applicant name is not a legal name, the terms 'collective' and 'companies, communities, and citizens working together' suggest it's not an individual's effort.",
+  "pwApplicantTypeChecked": true
 }

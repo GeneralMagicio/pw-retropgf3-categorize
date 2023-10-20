@@ -36,5 +36,6 @@
   "RPGF3_Application_UID": "0x7e132e41d42b9019da06968ac9e53fd072f1474c514c5a256b04ca74b0a75ebb",
   "applicantAddress": "0xBC72198d65075Fdad2CA7B8db79EfF5B51c8B30D",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "The application should be flagged because it violates rule number 1, \"Promises of future impact - promises of future deliverables or impact are not allowed.\" The applicant explicitly states they fully expect their protocol to drive future adoption and educate many new users about the Collective."
+  "pwFlaggedReason": "The application should be flagged because it violates rule number 1, \"Promises of future impact - promises of future deliverables or impact are not allowed.\" The applicant explicitly states they fully expect their protocol to drive future adoption and educate many new users about the Collective.",
+  "pwApplicantTypeChecked": true
 }

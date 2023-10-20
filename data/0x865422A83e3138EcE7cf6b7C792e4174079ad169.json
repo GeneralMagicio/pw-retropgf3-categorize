@@ -39,5 +39,6 @@
   "RPGF3_Application_UID": "0x5835a6d546ac2aa3f9888813a995a46b0e720a370bd6c8ed1634c001c6c0f968",
   "applicantAddress": "0x865422A83e3138EcE7cf6b7C792e4174079ad169",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "Flag the application. The application is ambiguous and does not clearly specify the contributions or impact the individual has made in the Web3/blockchain space."
+  "pwFlaggedReason": "Flag the application. The application is ambiguous and does not clearly specify the contributions or impact the individual has made in the Web3/blockchain space.",
+  "pwApplicantTypeChecked": true
 }

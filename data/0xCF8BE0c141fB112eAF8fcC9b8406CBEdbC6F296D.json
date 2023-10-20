@@ -43,5 +43,8 @@
   "RPGF3_Application_UID": "0x70d877cbfbfe1b4164eae3c2e258e86805d09b535362d9f4cb42feb2145ab10f",
   "applicantAddress": "0xCF8BE0c141fB112eAF8fcC9b8406CBEdbC6F296D",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "The application should be flagged for promising future deliverables or impact, which is against the grant program rules."
+  "pwFlaggedReason": "The application should be flagged for promising future deliverables or impact, which is against the grant program rules.",
+  "recategorizeToType": "PROJECT",
+  "recategorizeReason": "NO, the application is categorized as an INDIVIDUAL but should be categorized as a PROJECT as the applicant talks about creating a metaverse project.",
+  "pwApplicantTypeChecked": true
 }

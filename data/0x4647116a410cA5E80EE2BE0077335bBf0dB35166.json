@@ -43,5 +43,6 @@
   "RPGF3_Application_UID": "0x835b7939249b63d66b122e57d68d7c48735c21906182a5b1ea408f219bd736d6",
   "applicantAddress": "0x4647116a410cA5E80EE2BE0077335bBf0dB35166",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "The application should be flagged for violation of rule 1 - promises of future deliverables are not allowed. The applicant states their future plans on contributing to the project and what they want to achieve."
+  "pwFlaggedReason": "The application should be flagged for violation of rule 1 - promises of future deliverables are not allowed. The applicant states their future plans on contributing to the project and what they want to achieve.",
+  "pwApplicantTypeChecked": true
 }

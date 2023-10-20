@@ -43,5 +43,8 @@
   "RPGF3_Application_UID": "0x89953a603d33deea10fcef5d274d0792c0bb1e3d22f827a108a16a5476f922e7",
   "applicantAddress": "0xb17e67ea75880420c4cf9Fdd4c57E28cBFf4C433",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "This application should be flagged for violating the rules of promising future impact and potential deception. The individual's contribution and impact descriptions unpersuasively state a vague intent of future help without showing a clear past contribution or impact in the Web3 or blockchain space."
+  "pwFlaggedReason": "This application should be flagged for violating the rules of promising future impact and potential deception. The individual's contribution and impact descriptions unpersuasively state a vague intent of future help without showing a clear past contribution or impact in the Web3 or blockchain space.",
+  "recategorizeToType": "PROJECT",
+  "recategorizeReason": "NO, the application is not correctly categorized. Although \"applicantType\" is mentioned as \"INDIVIDUAL\", the contribution and impact description are pertaining to a project \"Optimism Collective\", suggesting it should be categorized as a \"PROJECT\".",
+  "pwApplicantTypeChecked": true
 }

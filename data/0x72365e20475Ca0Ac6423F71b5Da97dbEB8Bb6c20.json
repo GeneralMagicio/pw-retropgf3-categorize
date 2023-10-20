@@ -42,5 +42,6 @@
   "RPGF3_Application_UID": "0x65bc528baf43938245203e63f2f5fe34e691002fa31f5a119b6388bf3504858d",
   "applicantAddress": "0x72365e20475Ca0Ac6423F71b5Da97dbEB8Bb6c20",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "The application should be flagged because it violates rule 1: promises of future impact. The applicant claims they will interact in future projects if given the opportunity and funds."
+  "pwFlaggedReason": "The application should be flagged because it violates rule 1: promises of future impact. The applicant claims they will interact in future projects if given the opportunity and funds.",
+  "pwApplicantTypeChecked": true
 }

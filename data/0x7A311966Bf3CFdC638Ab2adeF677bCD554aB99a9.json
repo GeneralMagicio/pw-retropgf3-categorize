@@ -43,5 +43,6 @@
   "RPGF3_Application_UID": "0x42d5cbfd486c61ac140e355ead12ae4208cd7fd203e60ce4c22c4599eafe8bb2",
   "applicantAddress": "0x7A311966Bf3CFdC638Ab2adeF677bCD554aB99a9",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "This application should be flagged for violating rule 10. The applicant just making transactions on the Optimism Network and following its social media does not count as a contribution."
+  "pwFlaggedReason": "This application should be flagged for violating rule 10. The applicant just making transactions on the Optimism Network and following its social media does not count as a contribution.",
+  "pwApplicantTypeChecked": true
 }

@@ -45,5 +45,6 @@
   "RPGF3_Application_UID": "0x3684d4fa6e768718b1465d0dad20509ee9f97899337aee25da262e8215f30648",
   "applicantAddress": "0x90AEA21B1f8365513873eFB99F133Dc1a7fA812a",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "The application should be flagged because it includes promises of future deliverables, specifically opening a data market and planning to use ERC-721 to define user data, which violates Rule 1 of the grant program rules."
+  "pwFlaggedReason": "The application should be flagged because it includes promises of future deliverables, specifically opening a data market and planning to use ERC-721 to define user data, which violates Rule 1 of the grant program rules.",
+  "pwApplicantTypeChecked": true
 }

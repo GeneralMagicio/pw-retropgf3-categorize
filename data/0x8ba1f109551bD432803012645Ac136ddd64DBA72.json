@@ -68,5 +68,8 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x8ba1f109551bD432803012645Ac136ddd64DBA72.json",
   "RPGF3_Application_UID": "0xf3e6f4737869efd0967440e4f97ea91b3ce3611c801675319874ea02f4d7a668",
   "applicantAddress": "0x8ba1f109551bD432803012645Ac136ddd64DBA72",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "recategorizeToType": "INDIVIDUAL",
+  "recategorizeReason": "NO, the application is categorized as a PROJECT, but the bio section indicates that it's an individual (\"A random Canadian developer, dedicating his time to a variety of open source projects\").",
+  "pwApplicantTypeChecked": true
 }

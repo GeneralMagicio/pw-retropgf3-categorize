@@ -43,5 +43,6 @@
   "RPGF3_Application_UID": "0x62df9de8ccfd5713c6338c6746bf75d35147b01c5274b62da837ab6fa9c29247",
   "applicantAddress": "0x0C8c73a772D9a2d05B6fDdD6F22A9e1268B75a81",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "The application should be flagged for violating rule 1 as the applicant makes promises of future impact and deliverables such as developing the ecosystem and being a useful member for everyone."
+  "pwFlaggedReason": "The application should be flagged for violating rule 1 as the applicant makes promises of future impact and deliverables such as developing the ecosystem and being a useful member for everyone.",
+  "pwApplicantTypeChecked": true
 }

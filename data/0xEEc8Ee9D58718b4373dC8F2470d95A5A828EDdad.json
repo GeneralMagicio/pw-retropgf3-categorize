@@ -37,5 +37,6 @@
   "RPGF3_Application_UID": "0xaf86e6aab94047cc4f9deabee48cb88dee9bc812fc788edee5ac0e5d5c9160f5",
   "applicantAddress": "0xEEc8Ee9D58718b4373dC8F2470d95A5A828EDdad",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "This application should be flagged for promising future impact and impact metrics do not indicate any measurable past contributions."
+  "pwFlaggedReason": "This application should be flagged for promising future impact and impact metrics do not indicate any measurable past contributions.",
+  "pwApplicantTypeChecked": true
 }

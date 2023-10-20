@@ -41,5 +41,8 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xFA233cC0dccf4892E688Ff4118866244196565E8.json",
   "RPGF3_Application_UID": "0x40181ddc99a6a842fddba07597390a53c27b70c386b8efc588455735e0a94093",
   "applicantAddress": "0xFA233cC0dccf4892E688Ff4118866244196565E8",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "recategorizeToType": "INDIVIDUAL",
+  "recategorizeReason": "NO, the application is about an individual contribution to a project, not the project itself. The applicant talks about \"I\" and has LinkedIn profile - signs of being an individual.",
+  "pwApplicantTypeChecked": true
 }

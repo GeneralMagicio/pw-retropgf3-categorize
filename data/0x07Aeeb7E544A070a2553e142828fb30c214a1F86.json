@@ -78,5 +78,8 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x07Aeeb7E544A070a2553e142828fb30c214a1F86.json",
   "RPGF3_Application_UID": "0x7a09be22acae5e2d531965a619820b6b9d985f60051c524c2e2b5036aac7489b",
   "applicantAddress": "0x07Aeeb7E544A070a2553e142828fb30c214a1F86",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "recategorizeToType": "INDIVIDUAL",
+  "recategorizeReason": "NO, it is not correctly categorized because despite having an individual's name (Noah), the application talks more about the project (Cannon) and its impacts rather than focusing on individual achievements.",
+  "pwApplicantTypeChecked": true
 }

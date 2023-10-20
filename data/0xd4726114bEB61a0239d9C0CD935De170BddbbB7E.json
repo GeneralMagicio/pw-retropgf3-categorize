@@ -42,5 +42,6 @@
   "RPGF3_Application_UID": "0x363f0886ba1d56b016b9df1936664cb87311abb87c23ec3a57e74fd2853f9de2",
   "applicantAddress": "0xd4726114bEB61a0239d9C0CD935De170BddbbB7E",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "This application should be flagged for being in a language other than English."
+  "pwFlaggedReason": "This application should be flagged for being in a language other than English.",
+  "pwApplicantTypeChecked": true
 }

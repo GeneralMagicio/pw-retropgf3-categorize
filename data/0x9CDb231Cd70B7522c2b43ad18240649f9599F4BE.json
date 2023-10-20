@@ -74,5 +74,6 @@
   "RPGF3_Application_UID": "0xca890c41ec9593d08f94d8d1bcb7d88a99c430824ec57953a9005c43eb421b9d",
   "applicantAddress": "0x9CDb231Cd70B7522c2b43ad18240649f9599F4BE",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "The application should be flagged because they are submitting content in a language other than English."
+  "pwFlaggedReason": "The application should be flagged because they are submitting content in a language other than English.",
+  "pwApplicantTypeChecked": true
 }

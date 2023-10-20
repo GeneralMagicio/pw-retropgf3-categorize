@@ -36,5 +36,6 @@
   "RPGF3_Application_UID": "0xb2589fa4dec282a6072de8010b28e505d91717edcc95d8088a9ee6cf0a12a80b",
   "applicantAddress": "0xdc4C44943bFBC9f87D0f1FE11d69a4b814D3608c",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "Flagged for promising future impact. The applicant states their hopes to get airdropped in the third round, indicating a future expectation."
+  "pwFlaggedReason": "Flagged for promising future impact. The applicant states their hopes to get airdropped in the third round, indicating a future expectation.",
+  "pwApplicantTypeChecked": true
 }

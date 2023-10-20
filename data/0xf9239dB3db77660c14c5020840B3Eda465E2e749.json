@@ -36,5 +36,8 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xf9239dB3db77660c14c5020840B3Eda465E2e749.json",
   "RPGF3_Application_UID": "0x23595e7907e94f71978b057ffcbb35a18ff0c925d12374594a0fd5a6efe6b069",
   "applicantAddress": "0xf9239dB3db77660c14c5020840B3Eda465E2e749",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "recategorizeToType": "PROJECT",
+  "recategorizeReason": "NO, the application is categorized as \"INDIVIDUAL\", but the applicant seems to be representing a project or a community, not just an individual.",
+  "pwApplicantTypeChecked": true
 }

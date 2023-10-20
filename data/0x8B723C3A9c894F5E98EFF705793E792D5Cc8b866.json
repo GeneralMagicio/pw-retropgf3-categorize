@@ -46,5 +46,6 @@
   "RPGF3_Application_UID": "0x23695566afb145fcb90ea65ffa3218cbf264b0243bd43af908d9a0d7638794c7",
   "applicantAddress": "0x8B723C3A9c894F5E98EFF705793E792D5Cc8b866",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "The application should be flagged for violation of rule 10 - it does not provide a clear contribution or demonstrate measurable impact."
+  "pwFlaggedReason": "The application should be flagged for violation of rule 10 - it does not provide a clear contribution or demonstrate measurable impact.",
+  "pwApplicantTypeChecked": true
 }

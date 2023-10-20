@@ -39,5 +39,6 @@
   "RPGF3_Application_UID": "0x37d155658e0376ebe886a0f29290b19ddbabee2cdc34c879663ce5a6820d1369",
   "applicantAddress": "0x8F2c951926C62fE0E5382c3d5f79aFc81C559829",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "Flag the application because both the contribution and impact descriptions are composed entirely of the repeated word \"test,\" which indicates lack of a valid or serious contribution and impact."
+  "pwFlaggedReason": "Flag the application because both the contribution and impact descriptions are composed entirely of the repeated word \"test,\" which indicates lack of a valid or serious contribution and impact.",
+  "pwApplicantTypeChecked": true
 }

@@ -38,5 +38,8 @@
   "RPGF3_Application_UID": "0x2306a990e7bb926bffc037c0fd03b51ee6a633ef7a22a9b8aa42b7e68b52057c",
   "applicantAddress": "0x1230Ce84E9480dA831ca1271ed755b196897Aa20",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "This application should be flagged for spam because the contribution description and impact description contain repetitious and irrelevant content, violating the spam rule."
+  "pwFlaggedReason": "This application should be flagged for spam because the contribution description and impact description contain repetitious and irrelevant content, violating the spam rule.",
+  "recategorizeToType": "PROJECT",
+  "recategorizeReason": "NO. Although the application is listed as an individual, the description of the contributions and impacts sounds more like a project or a freelancer platform rather than a single individual.",
+  "pwApplicantTypeChecked": true
 }

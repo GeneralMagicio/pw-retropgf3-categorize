@@ -36,5 +36,8 @@
   "RPGF3_Application_UID": "0x30e1364d28f9877a551a539aeb45c15ac36089ed8f4e4c39d0086dced06fbdce",
   "applicantAddress": "0x9BF3aebe6eb7cb0AB720EA7CD85d0AD2948B0037",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "This application should be flagged for false statements & deception. The applicant did not provide clear examples of their own contributions but rather provided a general description of the RetroPGF initiative."
+  "pwFlaggedReason": "This application should be flagged for false statements & deception. The applicant did not provide clear examples of their own contributions but rather provided a general description of the RetroPGF initiative.",
+  "recategorizeToType": "PROJECT",
+  "recategorizeReason": "NO. The application seems to be from a project (\"Optimism Collective\") rather than an individual.",
+  "pwApplicantTypeChecked": true
 }

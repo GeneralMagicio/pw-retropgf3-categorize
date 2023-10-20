@@ -42,5 +42,8 @@
   "RPGF3_Application_UID": "0xf072e70fc79bb535ba993010f063e7a00e19e9df39282829ea53a6435267bc80",
   "applicantAddress": "0xAA1869DA4F5302eE98A3053a4aE3f7ea156CDf87",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "This application should be flagged for violating rule 1, promises of future impact, and rule 11, as it appears to contain spam or irrelevant answers."
+  "pwFlaggedReason": "This application should be flagged for violating rule 1, promises of future impact, and rule 11, as it appears to contain spam or irrelevant answers.",
+  "recategorizeToType": "INDIVIDUAL",
+  "recategorizeReason": "NO, this seems to be an INDIVIDUAL applicant as the bio and descriptions use singular pronouns such as \"I\" and \"me\".",
+  "pwApplicantTypeChecked": true
 }

@@ -42,5 +42,6 @@
   "RPGF3_Application_UID": "0xbfcc5de9d3e7355097b94061f8795524e3680a6c95617a1863bba3cb10c74fd5",
   "applicantAddress": "0x75b286d43D4F29783337d769C9F0047F4c0c73C7",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "The application should be flagged because it seems to violate rule 6 - it appears the applicant is seeking to use this grant program to advertise and promote network updates and projects."
+  "pwFlaggedReason": "The application should be flagged because it seems to violate rule 6 - it appears the applicant is seeking to use this grant program to advertise and promote network updates and projects.",
+  "pwApplicantTypeChecked": true
 }

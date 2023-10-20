@@ -42,5 +42,6 @@
   "RPGF3_Application_UID": "0x2ad0153ac54ad4d2400c8fecf8a8ebf071cdc50bac66240e4bd49af708f22763",
   "applicantAddress": "0x544429E4b930E41C90730241529eecaad3827add",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "The application should be flagged because the applicant has not demonstrated any real past contribution to the Web3/blockchain space as per the rules."
+  "pwFlaggedReason": "The application should be flagged because the applicant has not demonstrated any real past contribution to the Web3/blockchain space as per the rules.",
+  "pwApplicantTypeChecked": true
 }

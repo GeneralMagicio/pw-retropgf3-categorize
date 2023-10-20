@@ -39,5 +39,8 @@
   "RPGF3_Application_UID": "0xe3546b853f3efc4d184fdbe58d222a3e946bcb2af9d4285f15b8085cf3cd4feb",
   "applicantAddress": "0x153509e78Fd04144d482E27716aE14c52d7932B0",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "Flag the application - the contribution and impact descriptions are repetitive and vague, and don't clearly highlight a valid contribution to Optimism technology."
+  "pwFlaggedReason": "Flag the application - the contribution and impact descriptions are repetitive and vague, and don't clearly highlight a valid contribution to Optimism technology.",
+  "recategorizeToType": "INDIVIDUAL",
+  "recategorizeReason": "NO, it should be categorized as \"INDIVIDUAL\", because it repeatedly uses first person reference such as \"For me\" in the description.",
+  "pwApplicantTypeChecked": true
 }

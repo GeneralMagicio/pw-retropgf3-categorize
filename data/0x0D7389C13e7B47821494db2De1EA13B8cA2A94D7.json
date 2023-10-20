@@ -48,5 +48,6 @@
   "RPGF3_Application_UID": "0xf91eb6db77cccef91ca4543237e230bfd74bdf944391b79eb1c92693c2854b35",
   "applicantAddress": "0x0D7389C13e7B47821494db2De1EA13B8cA2A94D7",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "This application should be flagged for promising future impact: \"I will now get a million users to Optimism by the trivia platform we have created, with telco partnerships.\""
+  "pwFlaggedReason": "This application should be flagged for promising future impact: \"I will now get a million users to Optimism by the trivia platform we have created, with telco partnerships.\"",
+  "pwApplicantTypeChecked": true
 }

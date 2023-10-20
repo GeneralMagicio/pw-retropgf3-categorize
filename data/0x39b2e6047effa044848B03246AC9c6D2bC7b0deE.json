@@ -34,5 +34,6 @@
   "RPGF3_Application_UID": "0x836e768312882578585af3237a011a2716e210473b44edf5506dfd27974773c7",
   "applicantAddress": "0x39b2e6047effa044848B03246AC9c6D2bC7b0deE",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "The application should be flagged because it violates rule 10; the grant applicant's description of their contribution is mainly centered around personal trading, which per the rule, simply sending transactions wouldn't qualify as a valid contribution."
+  "pwFlaggedReason": "The application should be flagged because it violates rule 10; the grant applicant's description of their contribution is mainly centered around personal trading, which per the rule, simply sending transactions wouldn't qualify as a valid contribution.",
+  "pwApplicantTypeChecked": true
 }

@@ -42,5 +42,8 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xdF8b970454FF568bEBa2526B2FBe455A75F84F64.json",
   "RPGF3_Application_UID": "0xfc46cce7b5eba4c9439d2e84b26b94e6899e44469bedb42ad0690d1b6b516dbc",
   "applicantAddress": "0xdF8b970454FF568bEBa2526B2FBe455A75F84F64",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "recategorizeToType": "INDIVIDUAL",
+  "recategorizeReason": "NO, it is not correctly categorized. Despite the \"applicantType\" field being marked as \"PROJECT\", the applicant uses first person pronouns such as \"I\" and \"we\" indicating that the applicant may be an individual.",
+  "pwApplicantTypeChecked": true
 }

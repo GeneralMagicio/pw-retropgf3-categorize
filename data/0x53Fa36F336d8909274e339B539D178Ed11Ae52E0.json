@@ -43,5 +43,8 @@
   "RPGF3_Application_UID": "0x32f23f393c664acdfa5f35c0f9f263992357fd2cae298bc9d4f2b351ee1ad8c8",
   "applicantAddress": "0x53Fa36F336d8909274e339B539D178Ed11Ae52E0",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "The application should be flagged for making promises of future impact in the \"contributionDescription\" and \"impactDescription\" fields, which is a violation of the rules."
+  "pwFlaggedReason": "The application should be flagged for making promises of future impact in the \"contributionDescription\" and \"impactDescription\" fields, which is a violation of the rules.",
+  "recategorizeToType": "INDIVIDUAL",
+  "recategorizeReason": "NO, the application is incorrectly categorized because it uses first-person pronouns like \"I\" and \"me\" which indicate an individual, not a project.",
+  "pwApplicantTypeChecked": true
 }

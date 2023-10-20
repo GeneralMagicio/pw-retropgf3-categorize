@@ -38,5 +38,8 @@
   "RPGF3_Application_UID": "0xfe1ef833cc381d0975b46615c4d1e56e71661737b93a9ddd45c763d3388f0e46",
   "applicantAddress": "0xD78a07187afBdcF3c93602A9cdD2367Cfa64048f",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "This application should be flagged for violating rules 2 (False statements & deception) and 11 (Spam). The applicant has simply copied generic information about the Optimism project and has not provided clear, original detail about their own project or specific contributions, and the impact metrics provided are unclear and seem unrelated."
+  "pwFlaggedReason": "This application should be flagged for violating rules 2 (False statements & deception) and 11 (Spam). The applicant has simply copied generic information about the Optimism project and has not provided clear, original detail about their own project or specific contributions, and the impact metrics provided are unclear and seem unrelated.",
+  "recategorizeToType": "PROJECT",
+  "recategorizeReason": "NO, the application seems to be incorrectly categorized as \"INDIVIDUAL\". The contribution description and impact description are about an initiative called \"Optimism Collective\", implying this is a group effort or project rather than an individual contribution.",
+  "pwApplicantTypeChecked": true
 }

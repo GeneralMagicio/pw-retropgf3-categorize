@@ -45,5 +45,8 @@
   "RPGF3_Application_UID": "0x56f7057bea0d54fbaec4b7d1868f5146c984c78fd698ac29794a5cbba5c4760c",
   "applicantAddress": "0x443f33f63DE9094f7fCD6F39f1540FE4412641d5",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "This application should be flagged for promising future impact, which is against the grant program rules."
+  "pwFlaggedReason": "This application should be flagged for promising future impact, which is against the grant program rules.",
+  "recategorizeToType": "INDIVIDUAL",
+  "recategorizeReason": "NO, it is not correctly categorized. The application uses first person pronouns like \"I\" and \"my\", indicating it is from an individual, not a project.",
+  "pwApplicantTypeChecked": true
 }

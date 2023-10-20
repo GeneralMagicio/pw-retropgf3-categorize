@@ -35,5 +35,6 @@
   "RPGF3_Application_UID": "0x93af5d3777e96b250f1ac09710b669be0d95e9c5e9c29989db2d0eeab08b63c7",
   "applicantAddress": "0x44E9d827D83746F2817C55AD7071f4426759B78E",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "The application should be flagged for violating rule 11 as it is not in English."
+  "pwFlaggedReason": "The application should be flagged for violating rule 11 as it is not in English.",
+  "pwApplicantTypeChecked": true
 }

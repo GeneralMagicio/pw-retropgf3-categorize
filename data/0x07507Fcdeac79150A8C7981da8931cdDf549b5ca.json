@@ -35,5 +35,6 @@
   "RPGF3_Application_UID": "0xcd6b4efa5a00948a63aa116d39fd4775eec060ec3155808a4c3baadf0de8c857",
   "applicantAddress": "0x07507Fcdeac79150A8C7981da8931cdDf549b5ca",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "This application should be flagged for promising future impact. The applicant states that they will distribute 48M OP to various addresses over a 12 hour period."
+  "pwFlaggedReason": "This application should be flagged for promising future impact. The applicant states that they will distribute 48M OP to various addresses over a 12 hour period.",
+  "pwApplicantTypeChecked": true
 }

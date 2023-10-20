@@ -34,5 +34,8 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x425d8A3F3DC894d2EC4785A048178f421711e91B.json",
   "RPGF3_Application_UID": "0xa5860afa0d020feb2fdc3cfb9b21a99d6dbcfad6d76d0c6616ea7f0b0028f363",
   "applicantAddress": "0x425d8A3F3DC894d2EC4785A048178f421711e91B",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "recategorizeToType": "INDIVIDUAL",
+  "recategorizeReason": "NO, it is not correctly categorized. The application contains the use of \"I\" and \"me\", indicating it is from an individual, not a project.",
+  "pwApplicantTypeChecked": true
 }

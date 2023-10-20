@@ -57,5 +57,8 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xa908B6B5247d83Fc8f4856fAaCb9Cb5df30E7Cbd.json",
   "RPGF3_Application_UID": "0x1b243949f14790252d540489c7b9e41c5c0460da72f4fcd106125abfaace055c",
   "applicantAddress": "0xa908B6B5247d83Fc8f4856fAaCb9Cb5df30E7Cbd",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "recategorizeToType": "INDIVIDUAL",
+  "recategorizeReason": "NO, the application is categorized as a project but the bio section introduces an individual, suggesting it should be categorized as an INDIVIDUAL.",
+  "pwApplicantTypeChecked": true
 }

@@ -46,5 +46,6 @@
   "RPGF3_Application_UID": "0x51946f06191845fcc2a1184f31a39e269b103fc7b2e1844e607d306aa84d5c6d",
   "applicantAddress": "0xacd628A909DeB3142ecb91A0d618bFbE82955177",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "The application should be flagged for containing spam as the contribution description and impact description are repetitive and nonsensical without providing any substantial information about the applicant's contributions and impact."
+  "pwFlaggedReason": "The application should be flagged for containing spam as the contribution description and impact description are repetitive and nonsensical without providing any substantial information about the applicant's contributions and impact.",
+  "pwApplicantTypeChecked": true
 }

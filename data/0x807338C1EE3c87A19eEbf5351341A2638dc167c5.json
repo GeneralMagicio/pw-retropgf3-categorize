@@ -48,5 +48,6 @@
   "RPGF3_Application_UID": "0x87e7d0d19fb03a0e6ac8504f489e10cb0561ff1bab83e8a4ef28540c9f32e86b",
   "applicantAddress": "0x807338C1EE3c87A19eEbf5351341A2638dc167c5",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "Flagged: The application does not provide a clear description of legitimate, specific contributions made to the Optimism network beyond stating usage of the network, which is not in scope for rewards as per RetroPGF rules."
+  "pwFlaggedReason": "Flagged: The application does not provide a clear description of legitimate, specific contributions made to the Optimism network beyond stating usage of the network, which is not in scope for rewards as per RetroPGF rules.",
+  "pwApplicantTypeChecked": true
 }

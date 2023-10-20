@@ -36,5 +36,6 @@
   "RPGF3_Application_UID": "0x7845a5800ada712943143283ac88cc68dd6df27cbf8d94c633db6088e0fc3a01",
   "applicantAddress": "0x1FE95940c8a44aD3a27720A94c1ecC4c33e9480F",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "This application should be flagged for violating the rule 1 - \"Promises of future impact\". The applicant stated they haven't made any contributions yet, but promises to make some in the future."
+  "pwFlaggedReason": "This application should be flagged for violating the rule 1 - \"Promises of future impact\". The applicant stated they haven't made any contributions yet, but promises to make some in the future.",
+  "pwApplicantTypeChecked": true
 }

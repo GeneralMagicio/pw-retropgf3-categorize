@@ -46,5 +46,6 @@
   "RPGF3_Application_UID": "0xc845d963dfc113da7ac5532b20acb76600553f6e05addea52793ac261c34a3b6",
   "applicantAddress": "0xd554664Fb7e5c4ad17A5f32343843F30eb4c093D",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "The application should be flagged for spam because the contribution description and impact description is filled mostly with nonsensical phrases, and it seems likely the applicant is not related to the given project in a meaningful way."
+  "pwFlaggedReason": "The application should be flagged for spam because the contribution description and impact description is filled mostly with nonsensical phrases, and it seems likely the applicant is not related to the given project in a meaningful way.",
+  "pwApplicantTypeChecked": true
 }

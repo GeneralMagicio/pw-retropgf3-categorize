@@ -43,5 +43,8 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x9e8B73b5563c9aF1C35e5Aad588B67B6A414576b.json",
   "RPGF3_Application_UID": "0x37778fd600ab6787836d52df46503c401a7b482ca5b63b42b2e84e7f2f2508d0",
   "applicantAddress": "0x9e8B73b5563c9aF1C35e5Aad588B67B6A414576b",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "recategorizeToType": "INDIVIDUAL",
+  "recategorizeReason": "NO, the application is incorrectly categorized as a \"PROJECT\" but should be \"INDIVIDUAL\" as the bio refers to a person \"Director of Global Business at Edge & Node\" instead of a project.",
+  "pwApplicantTypeChecked": true
 }

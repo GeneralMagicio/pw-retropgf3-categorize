@@ -43,5 +43,8 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xFaaBdFEcC4CEB7c069357558d503465177DBB8A1.json",
   "RPGF3_Application_UID": "0xa76d07e271c9fcb4f0b0944fd1fbb47bdb85f31d7b2f67846f16a2ab558635c2",
   "applicantAddress": "0xFaaBdFEcC4CEB7c069357558d503465177DBB8A1",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "recategorizeToType": "PROJECT",
+  "recategorizeReason": "NO. The application is from an individual, but the nature of the contributions, notably the development of a smart contract, a more complex product usually created by teams or projects, suggests that this might be better categorized as a PROJECT.",
+  "pwApplicantTypeChecked": true
 }

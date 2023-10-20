@@ -7,6 +7,7 @@ import color from "picocolors";
 import { exportFlaggedCsv } from "./exportFlaggedCsv";
 import { exportFullAsJson } from "./exportFullAsJson";
 import { exportTwitterCsv } from "./exportTwitterCsv";
+import { exportWrongCategoryCsv } from "./exportWrongCategoryCsv";
 import { fetchMetadataFiles } from "./fetch-metadata-files";
 import { generateCategoryLists } from "./generate-category-lists";
 import { identifyNoiseApplications } from "./identify-noise-applications";
@@ -61,6 +62,10 @@ async function selectYesNo(message: string): Promise<YesOrNo> {
           label: "Export flagged applications as CSV file",
         },
         {
+          value: "exportWrongCategoryCsv",
+          label: "Export wrong category applications as CSV file",
+        },
+        {
           value: "exportFullAsJson",
           label: "Export full dataset as JSON file",
         },
@@ -106,6 +111,9 @@ async function selectYesNo(message: string): Promise<YesOrNo> {
         break;
       case "exportFlaggedCsv":
         await exportFlaggedCsv();
+        break;
+      case "exportWrongCategoryCsv":
+        await exportWrongCategoryCsv();
         break;
       case "exportFullAsJson":
         await exportFullAsJson();

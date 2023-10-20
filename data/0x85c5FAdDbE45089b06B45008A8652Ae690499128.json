@@ -44,5 +44,8 @@
   "RPGF3_Application_UID": "0x40f7c074ff8d825c81c80a20c64db3c22442ba4faf9434e74fd5fef0c9efa199",
   "applicantAddress": "0x85c5FAdDbE45089b06B45008A8652Ae690499128",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "This application should be flagged for promising future deliverables or impact. The contribution description includes a sentence saying \"I will pay 1m...\", which trickles down to a promise of a future deliverable."
+  "pwFlaggedReason": "This application should be flagged for promising future deliverables or impact. The contribution description includes a sentence saying \"I will pay 1m...\", which trickles down to a promise of a future deliverable.",
+  "recategorizeToType": "PROJECT",
+  "recategorizeReason": "NO, the application is categorized as an individual but it seems to be a project based on website URL, funding sources, and impact metrics, also it does not contain personal pronouns like \"I\" or \"me\".",
+  "pwApplicantTypeChecked": true
 }

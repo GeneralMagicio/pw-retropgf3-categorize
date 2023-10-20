@@ -36,5 +36,8 @@
   "RPGF3_Application_UID": "0xb79b3ed3d80520968427a2080ec28c4fa63e51a0b40f5cb0dd659ebd5bb66fde",
   "applicantAddress": "0xf404c766245E5B43F8241367A22710E4BD89f8B2",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "Flagged: The application includes uncertain promises of future impact and support (e.g., \"If I'm eligible...I will keep support this project until moon\") which violates Rule 1."
+  "pwFlaggedReason": "Flagged: The application includes uncertain promises of future impact and support (e.g., \"If I'm eligible...I will keep support this project until moon\") which violates Rule 1.",
+  "recategorizeToType": "INDIVIDUAL",
+  "recategorizeReason": "NO, this should be categorized as \"INDIVIDUAL\" as the applicant uses first-person pronouns \"I\" and \"me\".",
+  "pwApplicantTypeChecked": true
 }

@@ -40,5 +40,8 @@
   "RPGF3_Application_UID": "0x4c66c2aaf056b3edad20fee9894fee6b4584fe5617d1b4542488a923fd0b3019",
   "applicantAddress": "0xF82EF19932F5297655EF69774dE2a2AbadefDe9d",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "This application should be flagged for promising future impact, which is against the rules of the grant program. The applicant's statements about wanting to contribute in the future to layer2 blockchains suggest that there is no measurable past impact."
+  "pwFlaggedReason": "This application should be flagged for promising future impact, which is against the rules of the grant program. The applicant's statements about wanting to contribute in the future to layer2 blockchains suggest that there is no measurable past impact.",
+  "recategorizeToType": "INDIVIDUAL",
+  "recategorizeReason": "NO, the application is from an individual as the text mentions \"I\" and \"me\".",
+  "pwApplicantTypeChecked": true
 }

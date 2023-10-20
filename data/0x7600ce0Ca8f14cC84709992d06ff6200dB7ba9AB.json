@@ -41,5 +41,6 @@
   "RPGF3_Application_UID": "0x1ec49d6cd4f72981852d346d6baa7886ae100603ceb81788a77826a9cacf2dff",
   "applicantAddress": "0x7600ce0Ca8f14cC84709992d06ff6200dB7ba9AB",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "This application should be flagged due to violating the rule 1 of promising future impact and being vague about their past contributions. The applicant does not provide specific details about his past contributions to the blockchain space, instead chooses to promise his commitment to the future activities."
+  "pwFlaggedReason": "This application should be flagged due to violating the rule 1 of promising future impact and being vague about their past contributions. The applicant does not provide specific details about his past contributions to the blockchain space, instead chooses to promise his commitment to the future activities.",
+  "pwApplicantTypeChecked": true
 }

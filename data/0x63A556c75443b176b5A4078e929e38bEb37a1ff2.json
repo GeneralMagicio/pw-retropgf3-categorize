@@ -46,5 +46,8 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x63A556c75443b176b5A4078e929e38bEb37a1ff2.json",
   "RPGF3_Application_UID": "0x92d9990c0c00410a880b0c24268dda18b7cfc08a38b9f9d499d9c4393354f393",
   "applicantAddress": "0x63A556c75443b176b5A4078e929e38bEb37a1ff2",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "recategorizeToType": "INDIVIDUAL",
+  "recategorizeReason": "NO, the application is not correctly categorized. The application talks about \"I\" and \"my\", making it evident that it is an individual and not a project.",
+  "pwApplicantTypeChecked": true
 }

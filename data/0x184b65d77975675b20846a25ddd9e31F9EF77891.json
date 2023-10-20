@@ -43,5 +43,8 @@
   "RPGF3_Application_UID": "0xeb6d010f55898704677447bea30e40e1a99ec4cdd37a48ee6e73a1b1e4249707",
   "applicantAddress": "0x184b65d77975675b20846a25ddd9e31F9EF77891",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "This application should be flagged as spam because the contribution and impact descriptions are repeated phrases with no meaningful content."
+  "pwFlaggedReason": "This application should be flagged as spam because the contribution and impact descriptions are repeated phrases with no meaningful content.",
+  "recategorizeToType": "INDIVIDUAL",
+  "recategorizeReason": "NO, this application should not be categorized as a PROJECT because it does not provide clear details about a project; instead, it consists of non-informative, repeated phrases.",
+  "pwApplicantTypeChecked": true
 }

@@ -37,5 +37,6 @@
   "RPGF3_Application_UID": "0x50b36df4ea77647cd99211696cd62d0da57591157237c13a617cbabfb3425648",
   "applicantAddress": "0xBa61838207e6Ccb38dF9f9cb76c60b17B065786D",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "This application should be flagged for spam due to irrelevant answers and unrelated impact metrics."
+  "pwFlaggedReason": "This application should be flagged for spam due to irrelevant answers and unrelated impact metrics.",
+  "pwApplicantTypeChecked": true
 }

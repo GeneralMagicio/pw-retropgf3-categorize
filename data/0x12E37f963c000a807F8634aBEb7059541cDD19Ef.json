@@ -35,5 +35,6 @@
   "RPGF3_Application_UID": "0x1111f837bc72d94fca86c1e4ab9f246d615504f2e1302c1c938116aac2f3746f",
   "applicantAddress": "0x12E37f963c000a807F8634aBEb7059541cDD19Ef",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "The application should be flagged for promises of future impact, with the applicant stating that they believe they will have an impact in the future."
+  "pwFlaggedReason": "The application should be flagged for promises of future impact, with the applicant stating that they believe they will have an impact in the future.",
+  "pwApplicantTypeChecked": true
 }

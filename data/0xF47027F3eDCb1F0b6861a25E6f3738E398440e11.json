@@ -45,5 +45,6 @@
   "RPGF3_Application_UID": "0xbd7c52a320978f9d8dadab446e57063a2b164deed1ab935b9c0ee39be5473e10",
   "applicantAddress": "0xF47027F3eDCb1F0b6861a25E6f3738E398440e11",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "The application should be flagged for violating rule 10. It does not present a clear valid contribution to the Web3/Blockchain space, and appears to be primarily focused and reliant on a future potential action (learning and becoming experienced) rather than a past measurable impact. The applicant has admitted to being new and still studying and does not outline any specific measurable or concrete impact."
+  "pwFlaggedReason": "The application should be flagged for violating rule 10. It does not present a clear valid contribution to the Web3/Blockchain space, and appears to be primarily focused and reliant on a future potential action (learning and becoming experienced) rather than a past measurable impact. The applicant has admitted to being new and still studying and does not outline any specific measurable or concrete impact.",
+  "pwApplicantTypeChecked": true
 }

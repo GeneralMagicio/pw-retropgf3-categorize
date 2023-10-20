@@ -47,5 +47,6 @@
   "RPGF3_Application_UID": "0x78a11c3f0adf404b1a4adec4d313fd792d38415b6e4cb92e879ec28d858befb6",
   "applicantAddress": "0x3977492b0d15488A57aD4c5bd2ECDe7e2572d7FE",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "The application should be flagged for spam because the 'bio' and 'contribution description' sections contain nonsensical and repetitive content."
+  "pwFlaggedReason": "The application should be flagged for spam because the 'bio' and 'contribution description' sections contain nonsensical and repetitive content.",
+  "pwApplicantTypeChecked": true
 }

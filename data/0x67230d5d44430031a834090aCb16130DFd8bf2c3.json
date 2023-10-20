@@ -44,5 +44,6 @@
   "RPGF3_Application_UID": "0x09276beb3468f369a49ffc6f6e15c69526e0e6edb35988ad866f74df970361f6",
   "applicantAddress": "0x67230d5d44430031a834090aCb16130DFd8bf2c3",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "Flagged: The application promises future deliverables such as submitting suggestions to the advertising team and promoting Optimism, which is against grant program rule 1."
+  "pwFlaggedReason": "Flagged: The application promises future deliverables such as submitting suggestions to the advertising team and promoting Optimism, which is against grant program rule 1.",
+  "pwApplicantTypeChecked": true
 }

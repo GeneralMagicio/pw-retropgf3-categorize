@@ -42,5 +42,8 @@
   "RPGF3_Application_UID": "0x81013316b0e45ffb30352472e40c6436285bc7be688a0e7167877d48b97991c1",
   "applicantAddress": "0x2E20A2F32a87141cFd6Ef43268458dC905687cDC",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "The application should be flagged because the applicant's contributions do not have a clear relationship to the Web3/blockchain space, thus violating rule 10."
+  "pwFlaggedReason": "The application should be flagged because the applicant's contributions do not have a clear relationship to the Web3/blockchain space, thus violating rule 10.",
+  "recategorizeToType": "PROJECT",
+  "recategorizeReason": "NO. The application is not correctly categorized because it does not mention any specific contributions from the applicant in the Web3/blockchain space.",
+  "pwApplicantTypeChecked": true
 }

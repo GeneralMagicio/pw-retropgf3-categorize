@@ -43,5 +43,8 @@
   "RPGF3_Application_UID": "0x2372715f589f05acb1dae750b6059a5c13df157be052ca51065420d3aaaef974",
   "applicantAddress": "0x3964F52Bee31b0Ed56C64FD83C050223D2149d9c",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "This application should be flagged for violating the first rule as it includes promises of future impact such as \"we hope that in the future the project will bring a very big change for the community\" and \"you will be successful if you continue to be enthusiastic.\""
+  "pwFlaggedReason": "This application should be flagged for violating the first rule as it includes promises of future impact such as \"we hope that in the future the project will bring a very big change for the community\" and \"you will be successful if you continue to be enthusiastic.\"",
+  "recategorizeToType": "PROJECT",
+  "recategorizeReason": "NO, the application is miscategorized. Although the 'applicantType' is listed as 'INDIVIDUAL', the language used throughout the application frequently refers to 'we', suggesting it's a group or project.",
+  "pwApplicantTypeChecked": true
 }

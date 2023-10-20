@@ -39,5 +39,6 @@
   "RPGF3_Application_UID": "0x19e156b28cd6d7deb9b704553c33fd8a3e7966bcc50775c7bffbbc72cce60456",
   "applicantAddress": "0x2374646285D252abA3a25A06A38a7194BA4254ce",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "Flag the application: The applicant's activities such as interacting, NFT minting, swapping, deploying contracts are based on user interactions on OP Mainnet, which according to Rule 10.2, are not in scope to be rewarded in RetroPGF 3."
+  "pwFlaggedReason": "Flag the application: The applicant's activities such as interacting, NFT minting, swapping, deploying contracts are based on user interactions on OP Mainnet, which according to Rule 10.2, are not in scope to be rewarded in RetroPGF 3.",
+  "pwApplicantTypeChecked": true
 }

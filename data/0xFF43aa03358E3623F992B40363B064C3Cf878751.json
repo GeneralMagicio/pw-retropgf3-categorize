@@ -35,5 +35,8 @@
   "RPGF3_Application_UID": "0x2a1be3bb76a9666b0ceace81186bbd34907aa9fc1ac042a1dc610903e13c0ed7",
   "applicantAddress": "0xFF43aa03358E3623F992B40363B064C3Cf878751",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "This application should be flagged for violating the rules as it contains false statements & deception where the applicant implies being a part of Optimism project, without clearly specifying their individual contribution."
+  "pwFlaggedReason": "This application should be flagged for violating the rules as it contains false statements & deception where the applicant implies being a part of Optimism project, without clearly specifying their individual contribution.",
+  "recategorizeToType": "PROJECT",
+  "recategorizeReason": "NO, the application is miscategorized. The contributions and impacts listed refer to collective efforts of a project rather than the efforts of a single individual.",
+  "pwApplicantTypeChecked": true
 }

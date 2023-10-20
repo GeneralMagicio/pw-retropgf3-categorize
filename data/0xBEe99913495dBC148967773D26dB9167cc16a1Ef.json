@@ -38,5 +38,6 @@
   "RPGF3_Application_UID": "0xe3774374ab661c3fefef4da65be71d45cd372bc81888acb213c287f6ec374a6e",
   "applicantAddress": "0xBEe99913495dBC148967773D26dB9167cc16a1Ef",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "This application should be flagged for violating the rules for being outside of RetroPGF's scope. The application does not demonstrate a clear contribution that aligns with the grant program rules and the descriptions provided are vague and do not detail exact actions or impacts that have been made in the Web3/blockchain space."
+  "pwFlaggedReason": "This application should be flagged for violating the rules for being outside of RetroPGF's scope. The application does not demonstrate a clear contribution that aligns with the grant program rules and the descriptions provided are vague and do not detail exact actions or impacts that have been made in the Web3/blockchain space.",
+  "pwApplicantTypeChecked": true
 }

@@ -42,5 +42,6 @@
   "RPGF3_Application_UID": "0x900ef885d13e838f514c4431478e5f6ad589496c53cf399d6a43be637f3b25fd",
   "applicantAddress": "0x3c28CAEF950AE11973A007440929d0689d8eaD8D",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "The application should be flagged because it contains promises of future impact which violates rule 1 of the grant program rules."
+  "pwFlaggedReason": "The application should be flagged because it contains promises of future impact which violates rule 1 of the grant program rules.",
+  "pwApplicantTypeChecked": true
 }

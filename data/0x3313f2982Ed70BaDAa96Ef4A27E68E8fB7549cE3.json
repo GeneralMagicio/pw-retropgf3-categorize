@@ -42,5 +42,6 @@
   "RPGF3_Application_UID": "0xb47a19bc88420c8c9a936259e68a01a9a1818a7f4d7a3383dc7b557e41862a42",
   "applicantAddress": "0x3313f2982Ed70BaDAa96Ef4A27E68E8fB7549cE3",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "Flagged for violation of grant program rule number 11 - The application contains unrelated and irrelevant answers in the 'contributionDescription' and 'impactDescription' sections."
+  "pwFlaggedReason": "Flagged for violation of grant program rule number 11 - The application contains unrelated and irrelevant answers in the 'contributionDescription' and 'impactDescription' sections.",
+  "pwApplicantTypeChecked": true
 }

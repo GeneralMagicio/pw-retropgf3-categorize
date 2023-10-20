@@ -85,5 +85,8 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xE53F4d44c45dBc16a20aB64f8a8B4404dDbBefEC.json",
   "RPGF3_Application_UID": "0xa6fd2210371758e071a147fc9bec7fe46854456c944996fade17c58eaa8c48a2",
   "applicantAddress": "0xE53F4d44c45dBc16a20aB64f8a8B4404dDbBefEC",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "recategorizeToType": "PROJECT",
+  "recategorizeReason": "NO. It should be categorized as \"PROJECT\" as the applicant talks about their work on \"Web3Comic's in/habitants\" project and related ventures, not individual contributions alone.",
+  "pwApplicantTypeChecked": true
 }

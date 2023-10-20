@@ -46,5 +46,8 @@
   "RPGF3_Application_UID": "0x21ab0e9954a4ca58203c6a04b0066c3be8239361aaed360adc012b618e6cfa66",
   "applicantAddress": "0x343d232420201Fe901E11feF638d74Cd5b148913",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "Flagged because the description of impact is too vague and does not outline specific, distinct contributions made by the individual to the Web3/blockchain space."
+  "pwFlaggedReason": "Flagged because the description of impact is too vague and does not outline specific, distinct contributions made by the individual to the Web3/blockchain space.",
+  "recategorizeToType": "PROJECT",
+  "recategorizeReason": "NO. The applicant seems to be writing about a project called Optimism, therefore the application should be categorized as \"PROJECT\".",
+  "pwApplicantTypeChecked": true
 }

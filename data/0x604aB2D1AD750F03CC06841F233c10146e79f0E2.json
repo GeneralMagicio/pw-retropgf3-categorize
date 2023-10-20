@@ -42,5 +42,8 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x604aB2D1AD750F03CC06841F233c10146e79f0E2.json",
   "RPGF3_Application_UID": "0x887fe36c17a54819f4398a91554dcbbf58e29ffa0acc83c1f32b664b4fbd6d4f",
   "applicantAddress": "0x604aB2D1AD750F03CC06841F233c10146e79f0E2",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "recategorizeToType": "INDIVIDUAL",
+  "recategorizeReason": "NO, the application is incorrectly categorized because it is an individual (\"I offer insights\") applying, not a project.",
+  "pwApplicantTypeChecked": true
 }

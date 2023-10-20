@@ -40,5 +40,8 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xfcFFE7AeA3f70f7975cd64ace7717caa211a706f.json",
   "RPGF3_Application_UID": "0x2918ff987027c2ecc7246ba6b68a46504c1cc41e64e0ec6431dcfb8111b8aca2",
   "applicantAddress": "0xfcFFE7AeA3f70f7975cd64ace7717caa211a706f",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "recategorizeToType": "PROJECT",
+  "recategorizeReason": "NO, it should be categorized as \"PROJECT\" since the application details are in reference to a website project (https://tfexchange.in) and not an individual's contributions.",
+  "pwApplicantTypeChecked": true
 }

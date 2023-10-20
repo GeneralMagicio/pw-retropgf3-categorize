@@ -38,5 +38,6 @@
   "RPGF3_Application_UID": "0xdba2bfeb993650822fb9acfc1361ef787858e75b10a2e989f2ca44355e7721f4",
   "applicantAddress": "0x8d7348A49Ca6eaF126c4FE06B5de60D0f11969fC",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "The application should be flagged for violation of rule number 6: Advertising - the URL provided by the applicant points to a website with a clear advertisement flag."
+  "pwFlaggedReason": "The application should be flagged for violation of rule number 6: Advertising - the URL provided by the applicant points to a website with a clear advertisement flag.",
+  "pwApplicantTypeChecked": true
 }

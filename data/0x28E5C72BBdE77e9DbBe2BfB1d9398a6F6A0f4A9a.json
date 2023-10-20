@@ -35,5 +35,8 @@
   "RPGF3_Application_UID": "0x2f26664dbbde3293ca5c22562eef7f42237be5da96dd20123f98e6f75667e8ff",
   "applicantAddress": "0x28E5C72BBdE77e9DbBe2BfB1d9398a6F6A0f4A9a",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "This application should be flagged because it doesn't provide a clear, relevant explanation of the applicant's actual contributions and their impact on the Web3/blockchain space, violating rule 10. The provided information is more about the concept of 'optimism', not the related digital systems."
+  "pwFlaggedReason": "This application should be flagged because it doesn't provide a clear, relevant explanation of the applicant's actual contributions and their impact on the Web3/blockchain space, violating rule 10. The provided information is more about the concept of 'optimism', not the related digital systems.",
+  "recategorizeToType": "PROJECT",
+  "recategorizeReason": "NO, the application seems to be mis-categorized. Despite being labeled as an \"INDIVIDUAL\" the content of the application refers to  \"Optimism\" which is a known project in the blockchain/Web3 space rather than an individual's contribution.",
+  "pwApplicantTypeChecked": true
 }

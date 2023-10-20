@@ -43,5 +43,6 @@
   "RPGF3_Application_UID": "0x3324ee2bd4082ce6de72fb57c1d12f80d68e477869e96d970da43e427c9f5e31",
   "applicantAddress": "0x2eeA8f64766E51cde601382e64Eb68F50E34e0B6",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "Flagged: The application contains false and irrelevant links for both the contribution and the impact metrics, which goes against the rule about spam."
+  "pwFlaggedReason": "Flagged: The application contains false and irrelevant links for both the contribution and the impact metrics, which goes against the rule about spam.",
+  "pwApplicantTypeChecked": true
 }

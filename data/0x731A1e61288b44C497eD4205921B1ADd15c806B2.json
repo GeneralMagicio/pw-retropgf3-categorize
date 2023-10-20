@@ -43,5 +43,6 @@
   "RPGF3_Application_UID": "0xe897e1148ce5ec148b2f984afc624de3aee32dce47c4fe964887e779caf7d305",
   "applicantAddress": "0x731A1e61288b44C497eD4205921B1ADd15c806B2",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "This application should be flagged for promises of future impact as it mentions anticipations for future rounds of RetroPGF and plans to support builders, creators, and educators, but doesn't provide any past measurable impact on Web3/blockchain space."
+  "pwFlaggedReason": "This application should be flagged for promises of future impact as it mentions anticipations for future rounds of RetroPGF and plans to support builders, creators, and educators, but doesn't provide any past measurable impact on Web3/blockchain space.",
+  "pwApplicantTypeChecked": true
 }

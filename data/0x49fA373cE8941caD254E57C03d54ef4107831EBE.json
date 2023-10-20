@@ -36,5 +36,8 @@
   "RPGF3_Application_UID": "0xdd806183dbf82bd7b27912e667ff0bd7ac2b13d16e82a3fe0cd75d71dffca440",
   "applicantAddress": "0x49fA373cE8941caD254E57C03d54ef4107831EBE",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "The application should be flagged for containing content in a language other than English, which is against the rule number 11."
+  "pwFlaggedReason": "The application should be flagged for containing content in a language other than English, which is against the rule number 11.",
+  "recategorizeToType": "INDIVIDUAL",
+  "recategorizeReason": "NO, it is not correctly categorized. The application mentions \"kami\" which means \"we\" in Indonesian but also uses personal pronouns such as \"saya\" which means \"I\", indicating this could be an application from an individual rather than a project.",
+  "pwApplicantTypeChecked": true
 }

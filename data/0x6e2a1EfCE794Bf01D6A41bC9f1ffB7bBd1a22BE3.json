@@ -35,5 +35,6 @@
   "RPGF3_Application_UID": "0x0ea00c7b92255f1594ccf00a4d59046bbb07be3fd3e16175a871c352611d8a16",
   "applicantAddress": "0x6e2a1EfCE794Bf01D6A41bC9f1ffB7bBd1a22BE3",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "This application should be flagged for violating rule 10. The applicant is an end-user, not a contributor to the collective."
+  "pwFlaggedReason": "This application should be flagged for violating rule 10. The applicant is an end-user, not a contributor to the collective.",
+  "pwApplicantTypeChecked": true
 }

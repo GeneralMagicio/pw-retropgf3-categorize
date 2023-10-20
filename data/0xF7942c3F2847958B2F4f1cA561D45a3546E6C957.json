@@ -42,5 +42,8 @@
   "RPGF3_Application_UID": "0x77c1540041653c380ae26b3dbe0d348c46de50e70515c60e77dfebfedf40419d",
   "applicantAddress": "0xF7942c3F2847958B2F4f1cA561D45a3546E6C957",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "The application should be flagged for being outside of RetroPGF's scope as it does not have a clear link to the Web3/blockchain space."
+  "pwFlaggedReason": "The application should be flagged for being outside of RetroPGF's scope as it does not have a clear link to the Web3/blockchain space.",
+  "recategorizeToType": "INDIVIDUAL",
+  "recategorizeReason": "NO, the application seems to be from an individual using the name \"Kaushik8627\" as the application discusses the individual's contributions in first person context although it's indicated as a PROJECT in the applicant type field.",
+  "pwApplicantTypeChecked": true
 }
