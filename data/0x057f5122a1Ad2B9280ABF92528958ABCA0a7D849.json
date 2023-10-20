@@ -41,5 +41,7 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x057f5122a1Ad2B9280ABF92528958ABCA0a7D849.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x057f5122a1Ad2B9280ABF92528958ABCA0a7D849.json",
   "RPGF3_Application_UID": "0xc3de79673b7d200c5e6ca1f8c15f925a3879f63cf22be4b69a0e12f6a1181a1b",
-  "applicantAddress": "0x057f5122a1Ad2B9280ABF92528958ABCA0a7D849"
+  "applicantAddress": "0x057f5122a1Ad2B9280ABF92528958ABCA0a7D849",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "This application should be flagged for being outside of RetroPGF's scope as user interactions like the transactions mentioned are not considered valid contributions."
 }

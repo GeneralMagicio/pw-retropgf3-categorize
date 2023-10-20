@@ -44,5 +44,7 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xF48D9d349106cf2A0880CE45ec1512EcAa4e10AF.jpeg",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xF48D9d349106cf2A0880CE45ec1512EcAa4e10AF.json",
   "RPGF3_Application_UID": "0xab4e474f1e5df80135a4a31070946347a6c3d15b7130ba0dcd6e586d36270077",
-  "applicantAddress": "0xF48D9d349106cf2A0880CE45ec1512EcAa4e10AF"
+  "applicantAddress": "0xF48D9d349106cf2A0880CE45ec1512EcAa4e10AF",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "This application should be flagged for violating rule 6, as it seems to be promoting and selling the Early Bird Campaign and the $NYM prize pool."
 }

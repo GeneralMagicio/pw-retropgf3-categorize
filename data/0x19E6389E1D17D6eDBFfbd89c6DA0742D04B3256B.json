@@ -33,5 +33,7 @@
   "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x19E6389E1D17D6eDBFfbd89c6DA0742D04B3256B.jpeg",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x19E6389E1D17D6eDBFfbd89c6DA0742D04B3256B.json",
   "RPGF3_Application_UID": "0xc415956e2e4b65da7d46cc91371167371f0656e01018fc410cc6eb4f0f422e7c",
-  "applicantAddress": "0x19E6389E1D17D6eDBFfbd89c6DA0742D04B3256B"
+  "applicantAddress": "0x19E6389E1D17D6eDBFfbd89c6DA0742D04B3256B",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "The application should be flagged for violating the following rules: \"False statements & deception\" due to providing an incorrect contract address URL, and \"Spam\" due to the lack of meaningful and relevant information in the contribution description and impact description."
 }

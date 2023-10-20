@@ -37,5 +37,7 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x08DC8489c7CB11010210Ffe7acA543e2DB18DEaf.jpeg",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x08DC8489c7CB11010210Ffe7acA543e2DB18DEaf.json",
   "RPGF3_Application_UID": "0x2019503804b1c1d39c6cecd1c7d40bfce38c9d95d56226bf89e9316b406c805e",
-  "applicantAddress": "0x08DC8489c7CB11010210Ffe7acA543e2DB18DEaf"
+  "applicantAddress": "0x08DC8489c7CB11010210Ffe7acA543e2DB18DEaf",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "The application should be flagged for violating the rule of \"Promises of future impact\" as the applicant claims that \"Citizens’ House will come live later in 2022\"."
 }

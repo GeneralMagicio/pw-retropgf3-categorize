@@ -43,5 +43,7 @@
   "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xa017aeF15a6EFcb0585955f5BC17a0b067Ac712b.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xa017aeF15a6EFcb0585955f5BC17a0b067Ac712b.json",
   "RPGF3_Application_UID": "0x3e5afdbbc70bb1a81f85f0bb093d22d450e8d933ba41b2675e49a4ec7c45397d",
-  "applicantAddress": "0xa017aeF15a6EFcb0585955f5BC17a0b067Ac712b"
+  "applicantAddress": "0xa017aeF15a6EFcb0585955f5BC17a0b067Ac712b",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "The application should be flagged for false statements & deception and lack of verifiable contribution. The applicant did not provide specific and verifiable details showing past contributions or impact in the blockchain/web3 space."
 }

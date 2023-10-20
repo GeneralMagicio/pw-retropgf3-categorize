@@ -44,5 +44,6 @@
   "applicantName": "One Positive",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xD52FCd0F86bAb7bFA70F0A33f9c90D3afE87d675.json",
   "RPGF3_Application_UID": "0xfbcd52f5224f9974c60a56a33a8d956b7103cb5e1f01b879612bed4dd8809946",
-  "applicantAddress": "0xD52FCd0F86bAb7bFA70F0A33f9c90D3afE87d675"
+  "applicantAddress": "0xD52FCd0F86bAb7bFA70F0A33f9c90D3afE87d675",
+  "pwIsFlagged": false
 }

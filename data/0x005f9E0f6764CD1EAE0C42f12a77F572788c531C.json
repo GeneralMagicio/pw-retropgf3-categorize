@@ -41,5 +41,8 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x005f9E0f6764CD1EAE0C42f12a77F572788c531C.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x005f9E0f6764CD1EAE0C42f12a77F572788c531C.json",
   "RPGF3_Application_UID": "0x73cab3a3e787c8927dedf86ca125f7fbe55f40e8f8d3b4bd7fc1b29d3bf05d01",
-  "applicantAddress": "0x005f9E0f6764CD1EAE0C42f12a77F572788c531C"
+  "applicantAddress": "0x005f9E0f6764CD1EAE0C42f12a77F572788c531C",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "The application should be flagged for making false statements and deception, as the applicant seems to have copied descriptions about OP Mainnet without providing valid examples of their own contributions or impact on the platform.",
+  "pwApplicantTypeChecked": true
 }

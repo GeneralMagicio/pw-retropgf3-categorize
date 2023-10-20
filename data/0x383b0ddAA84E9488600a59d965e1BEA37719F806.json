@@ -40,5 +40,6 @@
   "applicantName": "ajrony",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x383b0ddAA84E9488600a59d965e1BEA37719F806.json",
   "RPGF3_Application_UID": "0x92aeda809697e45e09f29b3878cdc4047542ea93a4d0954791499469bccbe484",
-  "applicantAddress": "0x383b0ddAA84E9488600a59d965e1BEA37719F806"
+  "applicantAddress": "0x383b0ddAA84E9488600a59d965e1BEA37719F806",
+  "pwIsFlagged": false
 }

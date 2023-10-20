@@ -32,5 +32,7 @@
   "applicantName": "Utku",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xb9D795B50542920618b2176d3675B6d8Be4d5838.json",
   "RPGF3_Application_UID": "0xa23a373bdf7c828482542ee8ee951703107ef15bba900b6b0c0de8b4ef11e85a",
-  "applicantAddress": "0xb9D795B50542920618b2176d3675B6d8Be4d5838"
+  "applicantAddress": "0xb9D795B50542920618b2176d3675B6d8Be4d5838",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "This application should be flagged because it contains repetitive content and does not provide valid contribution details, which may indicate it's spam, and therefore violate Rule 11."
 }

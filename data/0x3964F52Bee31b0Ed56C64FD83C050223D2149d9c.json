@@ -41,5 +41,7 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x3964F52Bee31b0Ed56C64FD83C050223D2149d9c.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x3964F52Bee31b0Ed56C64FD83C050223D2149d9c.json",
   "RPGF3_Application_UID": "0x2372715f589f05acb1dae750b6059a5c13df157be052ca51065420d3aaaef974",
-  "applicantAddress": "0x3964F52Bee31b0Ed56C64FD83C050223D2149d9c"
+  "applicantAddress": "0x3964F52Bee31b0Ed56C64FD83C050223D2149d9c",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "This application should be flagged for violating the first rule as it includes promises of future impact such as \"we hope that in the future the project will bring a very big change for the community\" and \"you will be successful if you continue to be enthusiastic.\""
 }

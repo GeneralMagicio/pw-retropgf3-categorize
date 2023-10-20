@@ -40,5 +40,7 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x7533E4f6110E12b685801352049Fb3E5222D1cc8.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x7533E4f6110E12b685801352049Fb3E5222D1cc8.json",
   "RPGF3_Application_UID": "0x605baca37bf0686d6fc7e67619746622f3bfb85960bf258c430764ed07ea6a2c",
-  "applicantAddress": "0x7533E4f6110E12b685801352049Fb3E5222D1cc8"
+  "applicantAddress": "0x7533E4f6110E12b685801352049Fb3E5222D1cc8",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "The application should be flagged because the application is violating Rule 10, as the contributions mentioned are simply user interactions on OP Mainnet, which do not qualify as valid contributions for RetroPGF 3."
 }

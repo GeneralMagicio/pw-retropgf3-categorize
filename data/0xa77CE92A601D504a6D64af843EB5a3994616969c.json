@@ -33,5 +33,7 @@
   "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xa77CE92A601D504a6D64af843EB5a3994616969c.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xa77CE92A601D504a6D64af843EB5a3994616969c.json",
   "RPGF3_Application_UID": "0x295ed474ea03b9749a6726bc7e774bf24eafe4dfe8b95615253e291b5ae0106e",
-  "applicantAddress": "0xa77CE92A601D504a6D64af843EB5a3994616969c"
+  "applicantAddress": "0xa77CE92A601D504a6D64af843EB5a3994616969c",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "This application should be flagged for violating the rule against \"Promises of future impact - promises of future deliverables or impact are not allowed.\" The applicant is promising the creation of a new platform and its features, which are future deliverables."
 }

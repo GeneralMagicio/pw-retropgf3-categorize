@@ -33,5 +33,7 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xf72cf3Cdc92a2c714EEF8c80954E4Bb339b19235.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xf72cf3Cdc92a2c714EEF8c80954E4Bb339b19235.json",
   "RPGF3_Application_UID": "0xaa26b71a3ecc7a043778eac58f419749b1de9b6f0adc45ef75da6bfceb312d55",
-  "applicantAddress": "0xf72cf3Cdc92a2c714EEF8c80954E4Bb339b19235"
+  "applicantAddress": "0xf72cf3Cdc92a2c714EEF8c80954E4Bb339b19235",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "This application should be flagged for spam due to repetitive zero characters in the contribution description and impact description which provide no valid information about the applicant's contribution and its impact in the blockchain space."
 }

@@ -98,5 +98,7 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xAc756B59a9842aC384696170AC93E1E354F06AfE.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xAc756B59a9842aC384696170AC93E1E354F06AfE.json",
   "RPGF3_Application_UID": "0x3acaf17ee604ba99a7900d7198c8e1cd17e518c6d316ed5520f56e360dbc20ce",
-  "applicantAddress": "0xAc756B59a9842aC384696170AC93E1E354F06AfE"
+  "applicantAddress": "0xAc756B59a9842aC384696170AC93E1E354F06AfE",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "The application should be flagged for promising future impact, which is against the rules of the grant program. The applicant states in their contribution description that they will allocate all RetroPGF grants to future public goods security reviews in the OP ecosystem."
 }

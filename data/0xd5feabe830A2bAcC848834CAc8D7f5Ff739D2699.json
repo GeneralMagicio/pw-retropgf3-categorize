@@ -41,5 +41,6 @@
   "applicantName": "lxh",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xd5feabe830A2bAcC848834CAc8D7f5Ff739D2699.json",
   "RPGF3_Application_UID": "0xeb87df25ba292b20da6da7bb5af5965042b088275177d9efd63f4f1778d3b4b7",
-  "applicantAddress": "0xd5feabe830A2bAcC848834CAc8D7f5Ff739D2699"
+  "applicantAddress": "0xd5feabe830A2bAcC848834CAc8D7f5Ff739D2699",
+  "pwIsFlagged": false
 }

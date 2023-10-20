@@ -37,5 +37,7 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x56b168C92D6Cf3E8f9fB5F4f874cedD3Cb349774.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x56b168C92D6Cf3E8f9fB5F4f874cedD3Cb349774.json",
   "RPGF3_Application_UID": "0x3ab3fdbdaec6b7699f58fc9ef01abf308f6e862fa4618e9c65f49b84e7d4499f",
-  "applicantAddress": "0x56b168C92D6Cf3E8f9fB5F4f874cedD3Cb349774"
+  "applicantAddress": "0x56b168C92D6Cf3E8f9fB5F4f874cedD3Cb349774",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "Flagged. The application violates rule 1, as it promises future impact and contributions for the Optimism network, but no existing or past contributions are listed."
 }

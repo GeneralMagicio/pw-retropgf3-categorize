@@ -32,5 +32,6 @@
   "applicantName": "Saiful",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x2Eb7E1a70366713a2B45c7A27Fe78734775d78d6.json",
   "RPGF3_Application_UID": "0xa1702f5520c861530549db3932ef7d8e92f21aaadf01427ca0af8ba176f9b16f",
-  "applicantAddress": "0x2Eb7E1a70366713a2B45c7A27Fe78734775d78d6"
+  "applicantAddress": "0x2Eb7E1a70366713a2B45c7A27Fe78734775d78d6",
+  "pwIsFlagged": false
 }

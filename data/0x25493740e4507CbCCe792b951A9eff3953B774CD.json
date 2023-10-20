@@ -34,5 +34,7 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x25493740e4507CbCCe792b951A9eff3953B774CD.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x25493740e4507CbCCe792b951A9eff3953B774CD.json",
   "RPGF3_Application_UID": "0x7f762688e0e60985bdeaf73e01d14dcb28e97a24790f28945ca67bd5ea61c05a",
-  "applicantAddress": "0x25493740e4507CbCCe792b951A9eff3953B774CD"
+  "applicantAddress": "0x25493740e4507CbCCe792b951A9eff3953B774CD",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "The application should be flagged due to requirement 1. The applicant promises future impact by hosting training sessions that haven't happened yet."
 }

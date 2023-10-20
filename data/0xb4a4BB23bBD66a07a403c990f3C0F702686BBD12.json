@@ -33,5 +33,7 @@
   "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xb4a4BB23bBD66a07a403c990f3C0F702686BBD12.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xb4a4BB23bBD66a07a403c990f3C0F702686BBD12.json",
   "RPGF3_Application_UID": "0x48b1d2f0f5a9b05280ec0707265cd375bbdb251e1bbfabd91bed3b94b5012403",
-  "applicantAddress": "0xb4a4BB23bBD66a07a403c990f3C0F702686BBD12"
+  "applicantAddress": "0xb4a4BB23bBD66a07a403c990f3C0F702686BBD12",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "This application should be flagged for promising future impact. The applicant promises that they \"will make NFT on op network or somethink , or i can make some token in Op network,\" which goes against Rule 1 of the grant program as it suggests future deliverables."
 }

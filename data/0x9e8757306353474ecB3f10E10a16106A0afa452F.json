@@ -40,5 +40,7 @@
   "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9e8757306353474ecB3f10E10a16106A0afa452F.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x9e8757306353474ecB3f10E10a16106A0afa452F.json",
   "RPGF3_Application_UID": "0x2bb14a34b57ff8c02efc366404d2af9f0b9d68ed6d3643a9dc55c52aed7cc568",
-  "applicantAddress": "0x9e8757306353474ecB3f10E10a16106A0afa452F"
+  "applicantAddress": "0x9e8757306353474ecB3f10E10a16106A0afa452F",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "This application should be flagged for violating rules number 2 and 10. This application contains false or misleading information about the applicant's contributions to the blockchain space, and does not have a clear relationship to Optimism."
 }

@@ -34,5 +34,7 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x49fA373cE8941caD254E57C03d54ef4107831EBE.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x49fA373cE8941caD254E57C03d54ef4107831EBE.json",
   "RPGF3_Application_UID": "0xdd806183dbf82bd7b27912e667ff0bd7ac2b13d16e82a3fe0cd75d71dffca440",
-  "applicantAddress": "0x49fA373cE8941caD254E57C03d54ef4107831EBE"
+  "applicantAddress": "0x49fA373cE8941caD254E57C03d54ef4107831EBE",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "The application should be flagged for containing content in a language other than English, which is against the rule number 11."
 }

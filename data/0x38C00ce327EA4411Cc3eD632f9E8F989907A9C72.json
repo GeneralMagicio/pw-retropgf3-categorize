@@ -44,5 +44,6 @@
   "applicantName": "mattsse",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x38C00ce327EA4411Cc3eD632f9E8F989907A9C72.json",
   "RPGF3_Application_UID": "0x7500c59003e12f46731f0e3bf33ef270085e700ce1d0ec0ae2ae42b4ea655ebe",
-  "applicantAddress": "0x38C00ce327EA4411Cc3eD632f9E8F989907A9C72"
+  "applicantAddress": "0x38C00ce327EA4411Cc3eD632f9E8F989907A9C72",
+  "pwIsFlagged": false
 }

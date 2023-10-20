@@ -546,5 +546,6 @@
   "applicantName": "Nación Bankless",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xA8F0048A0d1A04663Ca5010d0bEaC5BCAEeA0eef.json",
   "RPGF3_Application_UID": "0xd288468561dab001c87bc5ccd2ff5a9277ad161e90adf2895a8c17c67ebd0041",
-  "applicantAddress": "0xA8F0048A0d1A04663Ca5010d0bEaC5BCAEeA0eef"
+  "applicantAddress": "0xA8F0048A0d1A04663Ca5010d0bEaC5BCAEeA0eef",
+  "pwIsFlagged": false
 }

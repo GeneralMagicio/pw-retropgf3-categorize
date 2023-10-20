@@ -32,5 +32,7 @@
   "applicantName": "dinotown",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x199427F3407DDC3E59f2d94c84D2aeE9Dc93196C.json",
   "RPGF3_Application_UID": "0x6c834a1b4b7faf94d0a027794e4ab90dfdfbdbfcf3208701ff424772bc854bab",
-  "applicantAddress": "0x199427F3407DDC3E59f2d94c84D2aeE9Dc93196C"
+  "applicantAddress": "0x199427F3407DDC3E59f2d94c84D2aeE9Dc93196C",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "This application should be flagged for violating the rule of \"Outside of RetroPGF's scope.\" The applicant does not clearly demonstrate a valid contribution in their description, instead focusing mostly on the difficulties they are having with withdrawing their funds."
 }

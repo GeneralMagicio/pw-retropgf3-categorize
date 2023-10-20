@@ -44,5 +44,7 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xFb7D327dE8b2B37053F92c869A7b71282F48d781.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xFb7D327dE8b2B37053F92c869A7b71282F48d781.json",
   "RPGF3_Application_UID": "0x4da757a3146c46e7a8f3734d313cfcd12cb00af1b172b936370761fa9fb5359b",
-  "applicantAddress": "0xFb7D327dE8b2B37053F92c869A7b71282F48d781"
+  "applicantAddress": "0xFb7D327dE8b2B37053F92c869A7b71282F48d781",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "This application should be flagged for \"Promises of future impact\". The applicant does not describe a project or contribution that already happened but mentions what he will do in the future."
 }

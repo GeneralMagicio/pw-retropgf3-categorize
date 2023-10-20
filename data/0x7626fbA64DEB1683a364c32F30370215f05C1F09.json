@@ -81,5 +81,7 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x7626fbA64DEB1683a364c32F30370215f05C1F09.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x7626fbA64DEB1683a364c32F30370215f05C1F09.json",
   "RPGF3_Application_UID": "0x5f1659971bba849bbc9df6026dfb178ebc7575984664bef41d8a7e4f34880cd1",
-  "applicantAddress": "0x7626fbA64DEB1683a364c32F30370215f05C1F09"
+  "applicantAddress": "0x7626fbA64DEB1683a364c32F30370215f05C1F09",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "The application should be flagged because it violates rule 1 of the grant program: the applicant promises future contributions and impact in the statement, \"In the future, I will post OP development and its news on my WeChat platform and let more Chinese developers and lovers know Optimism network.\""
 }

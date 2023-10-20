@@ -45,5 +45,6 @@
   "applicantName": "TTScofield",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xF64Ecd64c551D494221A088b2E03bD122B7EA28E.json",
   "RPGF3_Application_UID": "0x00279c5fc732e0a66f2088dbe4f24e4f9ebd455cf4906ea8106a1c5c86c43bb7",
-  "applicantAddress": "0xF64Ecd64c551D494221A088b2E03bD122B7EA28E"
+  "applicantAddress": "0xF64Ecd64c551D494221A088b2E03bD122B7EA28E",
+  "pwIsFlagged": false
 }

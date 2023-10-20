@@ -36,5 +36,7 @@
   "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x30e25eaA01f60ACF52470ccfc57cAD3e245b43c9.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x30e25eaA01f60ACF52470ccfc57cAD3e245b43c9.json",
   "RPGF3_Application_UID": "0x748554d2ae8bd5a83e097f7d616c27b1b3c3acb16f6d822d8d4dddfa3f2ce573",
-  "applicantAddress": "0x30e25eaA01f60ACF52470ccfc57cAD3e245b43c9"
+  "applicantAddress": "0x30e25eaA01f60ACF52470ccfc57cAD3e245b43c9",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "This application should be flagged for promising future impact, which is against the program rules. The applicant states that the project has the potential to become a game-changer and disrupt the current crypto landscape."
 }

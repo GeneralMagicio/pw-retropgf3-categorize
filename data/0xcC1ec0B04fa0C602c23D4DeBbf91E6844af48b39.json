@@ -40,5 +40,7 @@
   "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xcC1ec0B04fa0C602c23D4DeBbf91E6844af48b39.jpeg",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xcC1ec0B04fa0C602c23D4DeBbf91E6844af48b39.json",
   "RPGF3_Application_UID": "0xf784297328a1e9bb1d0726ba34c519dd1de1cb653531fd349eb7fbc775a56876",
-  "applicantAddress": "0xcC1ec0B04fa0C602c23D4DeBbf91E6844af48b39"
+  "applicantAddress": "0xcC1ec0B04fa0C602c23D4DeBbf91E6844af48b39",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "The application should be flagged for promising future deliverables or impact, which violates Rule 1 of the grant program rules."
 }

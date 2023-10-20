@@ -41,5 +41,7 @@
   "applicantName": "Xonom",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xd2CDE3A0e267b7f8CFf979ee9dC5Ae0A8304ec10.json",
   "RPGF3_Application_UID": "0x7d58bba966d8905f8c4898d739f558a868b3310187bea366b23991094f53ffc1",
-  "applicantAddress": "0xd2CDE3A0e267b7f8CFf979ee9dC5Ae0A8304ec10"
+  "applicantAddress": "0xd2CDE3A0e267b7f8CFf979ee9dC5Ae0A8304ec10",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "This application should be flagged for promising future impact, which is against the grant program rules."
 }

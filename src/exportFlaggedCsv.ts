@@ -27,7 +27,7 @@ export async function exportFlaggedCsv() {
     const application = JSON.parse(doc.pageContent);
     if (application.pwIsFlagged) {
       flaggedApplications.push({
-        project: application.Project,
+        project: application.displayName,
         applicantType: application.applicantType,
         payoutAddress: application.payoutAddress,
         reason: application.pwFlaggedReason,

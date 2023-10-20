@@ -35,5 +35,7 @@
   "applicantName": "ismaonezain",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x97909a4e583F2B8DF6047EF0a6042E7EeF07AebC.json",
   "RPGF3_Application_UID": "0x76e296cd06773c36cf2614222cf086a2fbc54b76ebe92b1dd434e180d922ec2a",
-  "applicantAddress": "0x97909a4e583F2B8DF6047EF0a6042E7EeF07AebC"
+  "applicantAddress": "0x97909a4e583F2B8DF6047EF0a6042E7EeF07AebC",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "Flagged for violation of rule 2. The contribution description and the impact description do not appear to align with each other, suggesting false statements and deception about the applicant's contributions to the Optimism Collective."
 }

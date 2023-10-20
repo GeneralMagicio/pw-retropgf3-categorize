@@ -37,5 +37,7 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xc65394747cCCFc5e5DED39da191Bc1C3f9FDB3a2.jpeg",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xc65394747cCCFc5e5DED39da191Bc1C3f9FDB3a2.json",
   "RPGF3_Application_UID": "0xe5d03885b0526f1c8c7acd0ff8ef85df308d0160f207edbb6c5237cb20c3c9f5",
-  "applicantAddress": "0xc65394747cCCFc5e5DED39da191Bc1C3f9FDB3a2"
+  "applicantAddress": "0xc65394747cCCFc5e5DED39da191Bc1C3f9FDB3a2",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "The application should be flagged for violating rule 6: Advertising, as the applicant is promoting an event where participants can win tokens."
 }

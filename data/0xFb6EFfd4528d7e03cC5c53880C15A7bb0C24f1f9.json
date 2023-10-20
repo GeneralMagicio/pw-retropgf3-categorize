@@ -36,5 +36,7 @@
   "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xFb6EFfd4528d7e03cC5c53880C15A7bb0C24f1f9.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xFb6EFfd4528d7e03cC5c53880C15A7bb0C24f1f9.json",
   "RPGF3_Application_UID": "0x2407fc8e71820e92d758beda0b0d74dc8d59d916a3a5dec436f4d01e3a25ee9e",
-  "applicantAddress": "0xFb6EFfd4528d7e03cC5c53880C15A7bb0C24f1f9"
+  "applicantAddress": "0xFb6EFfd4528d7e03cC5c53880C15A7bb0C24f1f9",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "Flag this application due to violation of Rule 1 as the applicant makes promises of future impact in their contribution."
 }

@@ -39,5 +39,6 @@
   "applicantName": "ilyessghz",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xB135D40581404474Beca15Ba408E2E67A178b4cd.json",
   "RPGF3_Application_UID": "0xcd842be029689ac8c0cb4a6749a1a52875473bc74690e336c076f9f918ec8e5a",
-  "applicantAddress": "0xB135D40581404474Beca15Ba408E2E67A178b4cd"
+  "applicantAddress": "0xB135D40581404474Beca15Ba408E2E67A178b4cd",
+  "pwIsFlagged": false
 }

@@ -36,5 +36,7 @@
   "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xa6ed75D958d66b11E8943825B9ebe5e25562E6bd.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xa6ed75D958d66b11E8943825B9ebe5e25562E6bd.json",
   "RPGF3_Application_UID": "0xe766834726067707183139a97b72f9f68a4768877a2cdd734bea82ddde5ccc84",
-  "applicantAddress": "0xa6ed75D958d66b11E8943825B9ebe5e25562E6bd"
+  "applicantAddress": "0xa6ed75D958d66b11E8943825B9ebe5e25562E6bd",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "Yes, this application should be flagged for violating the rules of the grant program. The contribution description and impact descriptions essentially promise future impact, which is strictly against the rules. The applicant does not provide any clear past contribution or impact."
 }

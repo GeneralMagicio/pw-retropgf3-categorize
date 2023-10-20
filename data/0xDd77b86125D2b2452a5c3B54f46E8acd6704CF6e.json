@@ -36,5 +36,7 @@
   "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xDd77b86125D2b2452a5c3B54f46E8acd6704CF6e.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xDd77b86125D2b2452a5c3B54f46E8acd6704CF6e.json",
   "RPGF3_Application_UID": "0xba4ae72dce9bd185d321d5c91ecedf33669cba7b250517f6a7a34e4a8d1016ed",
-  "applicantAddress": "0xDd77b86125D2b2452a5c3B54f46E8acd6704CF6e"
+  "applicantAddress": "0xDd77b86125D2b2452a5c3B54f46E8acd6704CF6e",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "This application should be flagged because it contains promises of future impact, which is a violation of the grant program rules."
 }

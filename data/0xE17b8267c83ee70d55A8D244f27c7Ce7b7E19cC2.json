@@ -52,5 +52,7 @@
   "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xE17b8267c83ee70d55A8D244f27c7Ce7b7E19cC2.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xE17b8267c83ee70d55A8D244f27c7Ce7b7E19cC2.json",
   "RPGF3_Application_UID": "0x4c5d390f4936935e058999d74f7843062e3afb62d6a74140be17a14a2ebc8506",
-  "applicantAddress": "0xE17b8267c83ee70d55A8D244f27c7Ce7b7E19cC2"
+  "applicantAddress": "0xE17b8267c83ee70d55A8D244f27c7Ce7b7E19cC2",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "This application should be flagged because it promises future deliverables or impact which is violation of Rule 1."
 }

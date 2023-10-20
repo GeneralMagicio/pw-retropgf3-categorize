@@ -76,5 +76,7 @@
   "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x83A771769D1A344deED9Ea24aB58071e9Db2D90A.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x83A771769D1A344deED9Ea24aB58071e9Db2D90A.json",
   "RPGF3_Application_UID": "0x76a3260167144f6bd35d5cb0996e48edf645100aa3b4abcd6302a454d34bcee0",
-  "applicantAddress": "0x83A771769D1A344deED9Ea24aB58071e9Db2D90A"
+  "applicantAddress": "0x83A771769D1A344deED9Ea24aB58071e9Db2D90A",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "This application should be flagged for violation of rule 7 - Bribery. It mentions offering bribes for USX/USDC on Velodrome."
 }

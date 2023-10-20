@@ -40,5 +40,7 @@
   "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xA76483C1bc810fc7aD129AF869439cF05C0b3004.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xA76483C1bc810fc7aD129AF869439cF05C0b3004.json",
   "RPGF3_Application_UID": "0x6b6757ac3fd8594907d1d07aa0d5411b91723cfc2d53a842a3c73a538447cbe2",
-  "applicantAddress": "0xA76483C1bc810fc7aD129AF869439cF05C0b3004"
+  "applicantAddress": "0xA76483C1bc810fc7aD129AF869439cF05C0b3004",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "This application should be flagged because it failed to abide by the rule prohibiting applications in languages other than English."
 }

@@ -39,5 +39,7 @@
   "applicantName": "Jony05",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xc970950185e8a0b62aD29d79518387b73257Ee44.json",
   "RPGF3_Application_UID": "0xe7d15dec4f22c875407a508e1cf6893c92416a50e605636946f5f3c2a1f07bba",
-  "applicantAddress": "0xc970950185e8a0b62aD29d79518387b73257Ee44"
+  "applicantAddress": "0xc970950185e8a0b62aD29d79518387b73257Ee44",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "This application should be flagged as it is unclear whether the work done has made a measurable impact in the Web3/blockchain space and thus could be considered spam."
 }

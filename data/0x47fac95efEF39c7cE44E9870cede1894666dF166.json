@@ -46,5 +46,7 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x47fac95efEF39c7cE44E9870cede1894666dF166.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x47fac95efEF39c7cE44E9870cede1894666dF166.json",
   "RPGF3_Application_UID": "0x7186dac01528d8e2650f696a330e83c35d0a696cd238c65421e2bf58032519bd",
-  "applicantAddress": "0x47fac95efEF39c7cE44E9870cede1894666dF166"
+  "applicantAddress": "0x47fac95efEF39c7cE44E9870cede1894666dF166",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "The application should be flagged for violating rule 1 which states that promises of future deliverables or impact are not allowed. The applicant promises to continue using the Optimism platform to mint musics and contribute to potential artists."
 }

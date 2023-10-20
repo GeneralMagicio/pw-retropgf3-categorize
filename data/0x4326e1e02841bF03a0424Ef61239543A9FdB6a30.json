@@ -33,5 +33,6 @@
   "applicantName": "cryptolawyer",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x4326e1e02841bF03a0424Ef61239543A9FdB6a30.json",
   "RPGF3_Application_UID": "0x218c7688e5dcf819ab26a3dac0f2ecdfe87dd445814bc9c49701b84bde3f1888",
-  "applicantAddress": "0x4326e1e02841bF03a0424Ef61239543A9FdB6a30"
+  "applicantAddress": "0x4326e1e02841bF03a0424Ef61239543A9FdB6a30",
+  "pwIsFlagged": false
 }

@@ -34,5 +34,7 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xCd398440eD0925d1aBed321AB9893c8aCD95088a.jpeg",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xCd398440eD0925d1aBed321AB9893c8aCD95088a.json",
   "RPGF3_Application_UID": "0x0c1fb1b11fef157f809bf6e59984f92d701e47e8642102f70fa9a16a47063060",
-  "applicantAddress": "0xCd398440eD0925d1aBed321AB9893c8aCD95088a"
+  "applicantAddress": "0xCd398440eD0925d1aBed321AB9893c8aCD95088a",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "The application should be flagged because the contribution description and impact description contain nothing but repeated instances of the user's handle, which constitutes spam according to rule 11."
 }

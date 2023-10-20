@@ -43,5 +43,7 @@
   "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x42c6d92A09349cB05b79fE85a740461Fa27c21BF.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x42c6d92A09349cB05b79fE85a740461Fa27c21BF.json",
   "RPGF3_Application_UID": "0x9f34a3d9b4c3810cb0f6e0eea91193137d2d90d1a1685fc944d10b85b046b7a9",
-  "applicantAddress": "0x42c6d92A09349cB05b79fE85a740461Fa27c21BF"
+  "applicantAddress": "0x42c6d92A09349cB05b79fE85a740461Fa27c21BF",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "Flagged: The application contains promises of future impact with \"Hopefully the Op ring will become more and more popular and develop as strongly as ETH and BTC\", which is against the grant program rules."
 }

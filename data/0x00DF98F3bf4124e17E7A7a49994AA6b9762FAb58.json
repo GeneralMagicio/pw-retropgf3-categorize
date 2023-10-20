@@ -41,5 +41,7 @@
   "applicantName": "tellar",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x00DF98F3bf4124e17E7A7a49994AA6b9762FAb58.json",
   "RPGF3_Application_UID": "0x759d7d5632909e2bbaccf6f170049ce038e1f90291e9f4fd96ac2b8d6796330e",
-  "applicantAddress": "0x00DF98F3bf4124e17E7A7a49994AA6b9762FAb58"
+  "applicantAddress": "0x00DF98F3bf4124e17E7A7a49994AA6b9762FAb58",
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

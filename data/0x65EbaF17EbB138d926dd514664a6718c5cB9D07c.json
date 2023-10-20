@@ -39,5 +39,7 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x65EbaF17EbB138d926dd514664a6718c5cB9D07c.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x65EbaF17EbB138d926dd514664a6718c5cB9D07c.json",
   "RPGF3_Application_UID": "0xb8e7d4769cf7d5aa1acd62b8550427f99cb01cd5c006bcc845f07bd3e924e914",
-  "applicantAddress": "0x65EbaF17EbB138d926dd514664a6718c5cB9D07c"
+  "applicantAddress": "0x65EbaF17EbB138d926dd514664a6718c5cB9D07c",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "Yes, this application should be flagged for violating the first rule of the grant program which disallows promises of future impact as the applicant states \"We plan to showcase our artworks in the NFT space in the future.\""
 }

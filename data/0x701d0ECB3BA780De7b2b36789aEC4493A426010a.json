@@ -44,5 +44,6 @@
   "applicantName": "geleeroyale",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x701d0ECB3BA780De7b2b36789aEC4493A426010a.json",
   "RPGF3_Application_UID": "0x4800596e90de0ee85ce24f696d32402d87a406040889df8281221dee58a3698e",
-  "applicantAddress": "0x701d0ECB3BA780De7b2b36789aEC4493A426010a"
+  "applicantAddress": "0x701d0ECB3BA780De7b2b36789aEC4493A426010a",
+  "pwIsFlagged": false
 }

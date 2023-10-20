@@ -33,5 +33,7 @@
   "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2fDD6cA72F6C193D26843992095BFdD01bb9abe4.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x2fDD6cA72F6C193D26843992095BFdD01bb9abe4.json",
   "RPGF3_Application_UID": "0x020c6f636e1a7ce30186fb1bdf49dad5cbe3d6462fed2312da1c48258911bdce",
-  "applicantAddress": "0x2fDD6cA72F6C193D26843992095BFdD01bb9abe4"
+  "applicantAddress": "0x2fDD6cA72F6C193D26843992095BFdD01bb9abe4",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "This application should be flagged for violating rule 10 as the applicant's contributions are mainly user interactions on the Optimism Network, which are not in the scope of the RetroPGF grants program."
 }

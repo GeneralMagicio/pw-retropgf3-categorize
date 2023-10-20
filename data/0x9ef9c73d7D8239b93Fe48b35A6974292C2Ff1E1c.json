@@ -33,5 +33,6 @@
   "applicantName": "timur",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x9ef9c73d7D8239b93Fe48b35A6974292C2Ff1E1c.json",
   "RPGF3_Application_UID": "0xde3cf77111765ef1eb4141bf0ccfe6d729b250807a428b4785a43bb2f8611c12",
-  "applicantAddress": "0x9ef9c73d7D8239b93Fe48b35A6974292C2Ff1E1c"
+  "applicantAddress": "0x9ef9c73d7D8239b93Fe48b35A6974292C2Ff1E1c",
+  "pwIsFlagged": false
 }

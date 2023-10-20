@@ -68,5 +68,7 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x979651d89420431eD2Db5712ef93475c77167969.jpeg",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x979651d89420431eD2Db5712ef93475c77167969.json",
   "RPGF3_Application_UID": "0x62b4d6981157e612e93afd529ca87537076c55b113585bd8283fdcf484465df7",
-  "applicantAddress": "0x979651d89420431eD2Db5712ef93475c77167969"
+  "applicantAddress": "0x979651d89420431eD2Db5712ef93475c77167969",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "Yes, this application should be flagged for promising future impact. The applicant states that they \"can introduce optimism to new users and mentor them\", which implies future activities that are not completed yet."
 }

@@ -33,5 +33,6 @@
   "applicantName": "Mark Gaiser",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xF03214714ddc99856eB9301D2c945195974064da.json",
   "RPGF3_Application_UID": "0x0e82e66b2949507a8858863d4c4d886d2e582341e6f5f8b33ddaa0082edae04d",
-  "applicantAddress": "0xF03214714ddc99856eB9301D2c945195974064da"
+  "applicantAddress": "0xF03214714ddc99856eB9301D2c945195974064da",
+  "pwIsFlagged": false
 }

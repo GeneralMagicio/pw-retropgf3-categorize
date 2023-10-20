@@ -44,5 +44,7 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x3fAA14B5090ae062b415bEE336D2584657D8052b.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x3fAA14B5090ae062b415bEE336D2584657D8052b.json",
   "RPGF3_Application_UID": "0xec3ef11f8435bc1750c32927ec47ed0fd0380748ebb9be64977ad4d0c99d123c",
-  "applicantAddress": "0x3fAA14B5090ae062b415bEE336D2584657D8052b"
+  "applicantAddress": "0x3fAA14B5090ae062b415bEE336D2584657D8052b",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "The application should be flagged for spam because it contains repetitive and irrelevant sentences in the sections for \"contributionDescription\" and \"impactDescription\"."
 }

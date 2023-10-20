@@ -1,5 +1,5 @@
 {
-  "applicantType": "PROJECT",
+  "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://twitter.com/BejornJ",
   "bio": "Developer & Collector  ",
   "contributionDescription": "I educate thai people that blockchain and Layer2 especially op rollup will change the entire finance industry. Now a day I do my step day by day and one person to person. All over it will take quite sometime to do it, but i hope some day people will understand what I am talking about. Let's make OP the history of the space. !!   ",
@@ -44,5 +44,9 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x002748dB885D4CCfe3C7C92143f0805F4eBEEC01.jpeg",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x002748dB885D4CCfe3C7C92143f0805F4eBEEC01.json",
   "RPGF3_Application_UID": "0x747117672689bf3fe3ea5069d77a4ed92d662594b10447e80f9e025faab82f16",
-  "applicantAddress": "0x002748dB885D4CCfe3C7C92143f0805F4eBEEC01"
+  "applicantAddress": "0x002748dB885D4CCfe3C7C92143f0805F4eBEEC01",
+  "pwIsFlagged": false,
+  "Applicant Type": "INDIVIDUAL",
+  "recategorizeReason": "NO, the application is miscategorized. The \"contributionDescription\" and \"impactDescription\" sections use \"I\" indicating an individual applicant, not a project.",
+  "pwApplicantTypeChecked": true
 }

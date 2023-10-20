@@ -39,5 +39,7 @@
   "applicantName": "ikanucul",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xE6D812301aC35c87f1bB9E965c93F6514ff8E1a9.json",
   "RPGF3_Application_UID": "0x29d3afbc071102437450eba3f716c07581e4daae53a3b50771169b0d791b44fc",
-  "applicantAddress": "0xE6D812301aC35c87f1bB9E965c93F6514ff8E1a9"
+  "applicantAddress": "0xE6D812301aC35c87f1bB9E965c93F6514ff8E1a9",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "This application should be flagged for violating rule 10. The applicant's contribution is defined as participating in transactions, which is explicitly noted as not being in scope to be rewarded in RetroPGF 3."
 }

@@ -37,5 +37,7 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xe0B536a468496F9E9590f62e3b97f4A085b30283.jpeg",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xe0B536a468496F9E9590f62e3b97f4A085b30283.json",
   "RPGF3_Application_UID": "0xfde9b834ff2949162c29ca857ea50f0f3fe4c932ae2ae14e40a98562c2ac2dbb",
-  "applicantAddress": "0xe0B536a468496F9E9590f62e3b97f4A085b30283"
+  "applicantAddress": "0xe0B536a468496F9E9590f62e3b97f4A085b30283",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "Flagged: The applicant's contribution description and impact description are vague and do not specify any actual past contributions or impacts to the Web3/blockchain space."
 }

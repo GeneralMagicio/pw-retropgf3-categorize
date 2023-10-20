@@ -36,5 +36,7 @@
   "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2eEaD1E4a1964dc9204A2eE1C08096DA951Fa8FC.jpeg",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x2eEaD1E4a1964dc9204A2eE1C08096DA951Fa8FC.json",
   "RPGF3_Application_UID": "0x59d0b3b1f477cd2ff1d68944e052e1178357a7d2f5f60a2a54bc3a627ed9d089",
-  "applicantAddress": "0x2eEaD1E4a1964dc9204A2eE1C08096DA951Fa8FC"
+  "applicantAddress": "0x2eEaD1E4a1964dc9204A2eE1C08096DA951Fa8FC",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "This application should be flagged because it is potentially advertising and spamming by providing airdrop link as the main contribution. It also has a vague impact description which borders on promising future impact, both of which are in violation of the grant program rules."
 }

@@ -54,5 +54,7 @@
   "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x97A8Eb04be6A16d3aC8A55b12Abc98668A4a0bCD.jpeg",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x97A8Eb04be6A16d3aC8A55b12Abc98668A4a0bCD.json",
   "RPGF3_Application_UID": "0xe58c821fd194e89f6d9632c450d50ac45ae4eef5792c8eec4c1559da080fd622",
-  "applicantAddress": "0x97A8Eb04be6A16d3aC8A55b12Abc98668A4a0bCD"
+  "applicantAddress": "0x97A8Eb04be6A16d3aC8A55b12Abc98668A4a0bCD",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "Flag the application. Reasons include promising of future impact, unclear relationship to the blockchain/Web3 space from the project's description and potential spam as the applicant's description of their project is generic and not directly related to their contribution in Web3/Blockchain."
 }

@@ -76,5 +76,7 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x95205E1Fba8DEE07DD457558c83A6d395910570c.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x95205E1Fba8DEE07DD457558c83A6d395910570c.json",
   "RPGF3_Application_UID": "0x62e461574afff2bd72bb50b5899d174939a344f22cd83b2cb644f143e7644254",
-  "applicantAddress": "0x95205E1Fba8DEE07DD457558c83A6d395910570c"
+  "applicantAddress": "0x95205E1Fba8DEE07DD457558c83A6d395910570c",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "Flagged for promises of future impact - the applicant claims that their 'greatest impact is coming as this project finds greater traction' which is in violation of rule 1."
 }

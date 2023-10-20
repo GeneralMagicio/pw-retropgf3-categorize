@@ -44,5 +44,8 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x0281d04EaAd146FB4101E5B38ee06e0ad829AE25.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x0281d04EaAd146FB4101E5B38ee06e0ad829AE25.json",
   "RPGF3_Application_UID": "0xaf1627b55c1547a164ae675c02b72e8f2bb0428b97cfc0ea255fe998154ce07e",
-  "applicantAddress": "0x0281d04EaAd146FB4101E5B38ee06e0ad829AE25"
+  "applicantAddress": "0x0281d04EaAd146FB4101E5B38ee06e0ad829AE25",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "This application should be flagged because it violates rule 1: it includes promises of future impact such as \"we're shaping the future of blockchain technology\" and suggests users get ready to \"unlock new opportunities and possibilities\".",
+  "pwApplicantTypeChecked": true
 }

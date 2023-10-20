@@ -32,5 +32,7 @@
   "applicantName": "Stepan",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xA18D0226043A76683950f3BAabf0a87Cfb32E1Cb.json",
   "RPGF3_Application_UID": "0x7c2796f6403df506c5a1965b018b673ae3f0aee0414c61ea4794687488b42e13",
-  "applicantAddress": "0xA18D0226043A76683950f3BAabf0a87Cfb32E1Cb"
+  "applicantAddress": "0xA18D0226043A76683950f3BAabf0a87Cfb32E1Cb",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "This application should be flagged for containing spam since the contribution and impact descriptions are irrelevant and filled with repetitive filler words."
 }

@@ -35,5 +35,7 @@
   "applicantName": "Dimzy",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x1859Cf10262c6528F4C53fF96a10D3a524741a38.json",
   "RPGF3_Application_UID": "0x7541c5a638d43ec2675517df86e5dd0fcf38ed4272c4c7fb38f702b62ffdf60d",
-  "applicantAddress": "0x1859Cf10262c6528F4C53fF96a10D3a524741a38"
+  "applicantAddress": "0x1859Cf10262c6528F4C53fF96a10D3a524741a38",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "This application should be flagged for violation of rule 1 (Promises of future impact are not allowed) and rule 2 (False statements & deception is not allowed) as the applicant has not demonstrated a contribution or impact in the Web3/blockchain space; instead, they have copied a general statement about the RetroPGF."
 }

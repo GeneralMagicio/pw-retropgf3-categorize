@@ -109,5 +109,6 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x3e95B8E249c4536FE1db2E4ce5476010767C0A05.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x3e95B8E249c4536FE1db2E4ce5476010767C0A05.json",
   "RPGF3_Application_UID": "0x3d8e96e9e4f6087719baab2c7e24f5aeafaf9c2fbf8dc7069310136d1600c214",
-  "applicantAddress": "0x3e95B8E249c4536FE1db2E4ce5476010767C0A05"
+  "applicantAddress": "0x3e95B8E249c4536FE1db2E4ce5476010767C0A05",
+  "pwIsFlagged": false
 }

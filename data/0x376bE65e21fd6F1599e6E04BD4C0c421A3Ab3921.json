@@ -39,5 +39,7 @@
   "applicantName": "coreleo",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x376bE65e21fd6F1599e6E04BD4C0c421A3Ab3921.json",
   "RPGF3_Application_UID": "0x9866b1a65b3f1a619582a0c905453d8d7ba96231dba78ae2699d654af7dcc11b",
-  "applicantAddress": "0x376bE65e21fd6F1599e6E04BD4C0c421A3Ab3921"
+  "applicantAddress": "0x376bE65e21fd6F1599e6E04BD4C0c421A3Ab3921",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "This application should be flagged because it violates rule 11, as parts of the application are not in English."
 }

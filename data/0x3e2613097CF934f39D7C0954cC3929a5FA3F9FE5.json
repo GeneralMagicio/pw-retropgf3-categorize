@@ -34,5 +34,7 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x3e2613097CF934f39D7C0954cC3929a5FA3F9FE5.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x3e2613097CF934f39D7C0954cC3929a5FA3F9FE5.json",
   "RPGF3_Application_UID": "0xa8857b40f9fe07212777a0ea46c1103eb8b91fa9a3f9db9a3e2191ed508ae308",
-  "applicantAddress": "0x3e2613097CF934f39D7C0954cC3929a5FA3F9FE5"
+  "applicantAddress": "0x3e2613097CF934f39D7C0954cC3929a5FA3F9FE5",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "Flag the application. The contribution description promises future activities which is against the grant program rules."
 }

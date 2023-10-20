@@ -60,5 +60,6 @@
   "applicantName": "Sonne Finance",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x40Bd6e764DBc5C7268aaC775D8978881B16221F1.json",
   "RPGF3_Application_UID": "0x67268a35086153681270e531c0ba637e0a1b752b40a4d0661b88b32bef59b0dc",
-  "applicantAddress": "0x40Bd6e764DBc5C7268aaC775D8978881B16221F1"
+  "applicantAddress": "0x40Bd6e764DBc5C7268aaC775D8978881B16221F1",
+  "pwIsFlagged": false
 }

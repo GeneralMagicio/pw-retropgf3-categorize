@@ -76,7 +76,7 @@ export async function identifyNoiseApplications(analyzeAll: YesOrNo) {
       application.pwIsFlagged = false;
       if (result.content !== "NO") {
         console.log(
-          `\n${pc.gray("│\n")}◆  Application: ${application.Project}`
+          `\n${pc.gray("│\n")}◆  Application: ${application.displayName}`
         );
         console.log(`◆  Reason: ${result.content}${pc.gray("\n│")}`);
 

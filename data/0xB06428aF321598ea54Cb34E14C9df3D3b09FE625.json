@@ -40,5 +40,7 @@
   "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xB06428aF321598ea54Cb34E14C9df3D3b09FE625.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xB06428aF321598ea54Cb34E14C9df3D3b09FE625.json",
   "RPGF3_Application_UID": "0xf613b977f4bf531756777dfba706e1f62a1588f1da1123b461044057f4dacc0b",
-  "applicantAddress": "0xB06428aF321598ea54Cb34E14C9df3D3b09FE625"
+  "applicantAddress": "0xB06428aF321598ea54Cb34E14C9df3D3b09FE625",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "This application should be flagged as it violates rule 10 as it is outside of RetroPGF's scope because it is not directly related to Optimism or blockchain technology."
 }

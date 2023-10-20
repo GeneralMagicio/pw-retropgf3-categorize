@@ -36,5 +36,7 @@
   "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xe9D83837877bDF126Ae99a329F612adb4D70d982.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xe9D83837877bDF126Ae99a329F612adb4D70d982.json",
   "RPGF3_Application_UID": "0xb799a387e078d6bf2adbc97abc1cc2d9dd669f22195f071d1bc95b1f40029f0f",
-  "applicantAddress": "0xe9D83837877bDF126Ae99a329F612adb4D70d982"
+  "applicantAddress": "0xe9D83837877bDF126Ae99a329F612adb4D70d982",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "The application should be flagged for spam as it repeatedly posts the same message, \"I love this project and I desperately need it to build my future project\" without providing any clear, meaningful, or unique contributions or impacts."
 }

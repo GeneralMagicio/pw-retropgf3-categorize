@@ -44,5 +44,7 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xbA95b4a5B130C4c1d27dc9e8adcf7f087CDB4c52.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xbA95b4a5B130C4c1d27dc9e8adcf7f087CDB4c52.json",
   "RPGF3_Application_UID": "0x65c34a8360adbdf38e58f98991dfb39f947c6663198492880ba2609995a3e1d3",
-  "applicantAddress": "0xbA95b4a5B130C4c1d27dc9e8adcf7f087CDB4c52"
+  "applicantAddress": "0xbA95b4a5B130C4c1d27dc9e8adcf7f087CDB4c52",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "The application should be flagged for spam due to the usage of irrelevant and non-English statements."
 }

@@ -34,5 +34,7 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x982e4189F6e0bbb0ED37db7B5570BAb031d28B9d.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x982e4189F6e0bbb0ED37db7B5570BAb031d28B9d.json",
   "RPGF3_Application_UID": "0x9368ae3714d8052fc9150fc68542dc0257df34ed7e317adea0b0e50c21b1c6fa",
-  "applicantAddress": "0x982e4189F6e0bbb0ED37db7B5570BAb031d28B9d"
+  "applicantAddress": "0x982e4189F6e0bbb0ED37db7B5570BAb031d28B9d",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "Flagged: The application should be flagged for violation of rule 10, as the provided contribution description as it purely involves user interactions such as holding NFTs which are not in the scope of rewards in the RetroPGF 3 grant program."
 }

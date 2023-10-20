@@ -41,5 +41,7 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xfaED2693Bbfd56142ba43b02606A66701De0E41E.jpeg",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xfaED2693Bbfd56142ba43b02606A66701De0E41E.json",
   "RPGF3_Application_UID": "0x178f9f67f2cef093085a775fd668a2221463cdd736e042e8b4a7352fe9ae99b0",
-  "applicantAddress": "0xfaED2693Bbfd56142ba43b02606A66701De0E41E"
+  "applicantAddress": "0xfaED2693Bbfd56142ba43b02606A66701De0E41E",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "The application should be flagged for promising future impact and deliverables which is against the rule 1 of the grant program. The applicant says \"I hope this NFT will make some impact\" indicating future impact and also mentions \"next upgrade for this project is stake to earn with zkmine token,\" which is an unfulfilled promise of future deliverables."
 }

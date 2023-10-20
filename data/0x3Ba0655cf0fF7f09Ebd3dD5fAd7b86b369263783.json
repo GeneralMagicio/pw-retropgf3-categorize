@@ -43,5 +43,7 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x3Ba0655cf0fF7f09Ebd3dD5fAd7b86b369263783.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x3Ba0655cf0fF7f09Ebd3dD5fAd7b86b369263783.json",
   "RPGF3_Application_UID": "0x2a053ff4ef0866b5bced6c372982a62b23a0e14b11cc44894c1b4183323ffad3",
-  "applicantAddress": "0x3Ba0655cf0fF7f09Ebd3dD5fAd7b86b369263783"
+  "applicantAddress": "0x3Ba0655cf0fF7f09Ebd3dD5fAd7b86b369263783",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "This application should be flagged for promises of future deliverables or impact, as the applicant primarily speaks about their plans to incorporate web3 features into their businesses and their ambition to grow within the crypto world, instead of focusing on past contributions they have made to the web3/blockchain space."
 }

@@ -44,5 +44,7 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xe968C0151F9855089140e03F2365B11b18e6a5d3.jpeg",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xe968C0151F9855089140e03F2365B11b18e6a5d3.json",
   "RPGF3_Application_UID": "0x35faed722621cd7ac6a87d8ab18b5948188d80b0dd398918d82d5a92537fc16d",
-  "applicantAddress": "0xe968C0151F9855089140e03F2365B11b18e6a5d3"
+  "applicantAddress": "0xe968C0151F9855089140e03F2365B11b18e6a5d3",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "The application should be flagged for violating rule 1: \"Promises of future impact.\" The applicant makes several promises about future achievements such as integrating with various payment platforms, expanding on gaming platforms, and making optimism faster with cheaper gas fees by 2024."
 }

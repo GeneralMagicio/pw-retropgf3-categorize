@@ -33,5 +33,7 @@
   "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xBb13C0560C8A8354E6A914f1f2b873CEfE0dF9F7.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xBb13C0560C8A8354E6A914f1f2b873CEfE0dF9F7.json",
   "RPGF3_Application_UID": "0x7a860cd4ac680eeccebbf9244be8a82990e9aff851db16e291fe13c1b04800c9",
-  "applicantAddress": "0xBb13C0560C8A8354E6A914f1f2b873CEfE0dF9F7"
+  "applicantAddress": "0xBb13C0560C8A8354E6A914f1f2b873CEfE0dF9F7",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "This application should be flagged for violating the rules by promising future deliverables and impact. They clearly break rule 1 by stating \"investors should recoup their investment by year 5\" and discussing their future plans to launch a business and sell homes."
 }

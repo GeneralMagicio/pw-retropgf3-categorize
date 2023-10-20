@@ -33,5 +33,7 @@
   "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x0755A2c4C1808Ca14CC2928d0D727b16a1C467Bd.jpeg",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x0755A2c4C1808Ca14CC2928d0D727b16a1C467Bd.json",
   "RPGF3_Application_UID": "0xa1aa059e3b751071dec0ef0f27443a95522897c1143c04d61c822bf98cad7a6e",
-  "applicantAddress": "0x0755A2c4C1808Ca14CC2928d0D727b16a1C467Bd"
+  "applicantAddress": "0x0755A2c4C1808Ca14CC2928d0D727b16a1C467Bd",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "This application should be flagged for violating rule 10. Outside of RetroPGF's scope - as the contribution mentioned seems to be more of an interaction on the OP Mainnet and does not show clear impact or required time commitment."
 }

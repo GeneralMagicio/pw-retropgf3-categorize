@@ -41,5 +41,7 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x7b56389e9C46f17a1493437598081041dc728C0B.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x7b56389e9C46f17a1493437598081041dc728C0B.json",
   "RPGF3_Application_UID": "0x60624c19da56350dcb951c78386c67304eff7704987d1c16b157885580f01d0f",
-  "applicantAddress": "0x7b56389e9C46f17a1493437598081041dc728C0B"
+  "applicantAddress": "0x7b56389e9C46f17a1493437598081041dc728C0B",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "The application should be flagged for violating rule 1: Promises of future impact. The applicant is making promises about future contributions without providing details of any past contributions or impact in the Web3/blockchain space."
 }

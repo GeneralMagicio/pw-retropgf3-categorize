@@ -43,5 +43,7 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xb3780DBC665aF423DD0B0cFB72465442B13ef46E.jpeg",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xb3780DBC665aF423DD0B0cFB72465442B13ef46E.json",
   "RPGF3_Application_UID": "0xececbfbe455c65ccc5d51e5e62c1ae201a0089877938b5ebf7ccca3a717b6aea",
-  "applicantAddress": "0xb3780DBC665aF423DD0B0cFB72465442B13ef46E"
+  "applicantAddress": "0xb3780DBC665aF423DD0B0cFB72465442B13ef46E",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "Flag the application - The applicant promises future impact by saying they're promoting to onboard more people which goes against rule 1."
 }

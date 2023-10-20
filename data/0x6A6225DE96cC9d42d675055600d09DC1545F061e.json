@@ -39,5 +39,7 @@
   "applicantName": "Oluwatosin",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x6A6225DE96cC9d42d675055600d09DC1545F061e.json",
   "RPGF3_Application_UID": "0x37df10cb5fa8e7527431216353ca89b36a90bd6acb7dcf72b661fc5cfe4a62e3",
-  "applicantAddress": "0x6A6225DE96cC9d42d675055600d09DC1545F061e"
+  "applicantAddress": "0x6A6225DE96cC9d42d675055600d09DC1545F061e",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "This application should be flagged for violating rule number 1: Promises of future impact which is not allowed. The applicant has made several remarks indicating future deliverables, including \"Let's moon it together guys, Hopefully this project will certainly Excel.\" Additionally, the application may violate rule 10 as the user interactions listed may not meet the definition of a contribution as defined by the grant program rules."
 }

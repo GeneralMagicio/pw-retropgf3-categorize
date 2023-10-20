@@ -34,5 +34,7 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x7d00D36C83A93b463ba9ed188b7d59F45855e419.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x7d00D36C83A93b463ba9ed188b7d59F45855e419.json",
   "RPGF3_Application_UID": "0x903f0eda1b8f8a6b6ccfd3ac312b2b1dfc659ece319ce8769f12686db4e11ec2",
-  "applicantAddress": "0x7d00D36C83A93b463ba9ed188b7d59F45855e419"
+  "applicantAddress": "0x7d00D36C83A93b463ba9ed188b7d59F45855e419",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "The application should be flagged because it violates Rule 10 since paying gas fees are not considered a contribution that requires a minimum time commitment of 1 hour and provides impact to the Collective."
 }

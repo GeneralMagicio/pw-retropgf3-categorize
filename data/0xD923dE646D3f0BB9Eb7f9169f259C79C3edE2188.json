@@ -41,5 +41,7 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xD923dE646D3f0BB9Eb7f9169f259C79C3edE2188.jpeg",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xD923dE646D3f0BB9Eb7f9169f259C79C3edE2188.json",
   "RPGF3_Application_UID": "0xb5c6aae7841002e2c93bb73f8c72a8b49a94e516ce91a9858757948017c734cd",
-  "applicantAddress": "0xD923dE646D3f0BB9Eb7f9169f259C79C3edE2188"
+  "applicantAddress": "0xD923dE646D3f0BB9Eb7f9169f259C79C3edE2188",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "This application should be flagged for violating the grant program rules about the promises of future impact. The applicant is promising to use OP every day and to invite friends in the future, which is not allowed according to the rules."
 }

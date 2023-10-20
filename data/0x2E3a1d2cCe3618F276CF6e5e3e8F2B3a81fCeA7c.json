@@ -49,5 +49,7 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x2E3a1d2cCe3618F276CF6e5e3e8F2B3a81fCeA7c.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x2E3a1d2cCe3618F276CF6e5e3e8F2B3a81fCeA7c.json",
   "RPGF3_Application_UID": "0xf8fbc850514674e773252363aefa57d813b123694f6b8dfc9248f1b494885070",
-  "applicantAddress": "0x2E3a1d2cCe3618F276CF6e5e3e8F2B3a81fCeA7c"
+  "applicantAddress": "0x2E3a1d2cCe3618F276CF6e5e3e8F2B3a81fCeA7c",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "The application should be flagged for violation of rule 1, as the applicant promises future support and success of the project without providing evidence of past or current contributions."
 }

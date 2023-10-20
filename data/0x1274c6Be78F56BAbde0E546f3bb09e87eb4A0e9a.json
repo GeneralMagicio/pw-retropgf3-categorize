@@ -34,5 +34,7 @@
   "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x1274c6Be78F56BAbde0E546f3bb09e87eb4A0e9a.jpeg",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x1274c6Be78F56BAbde0E546f3bb09e87eb4A0e9a.json",
   "RPGF3_Application_UID": "0x7653f903f82a3aacec1cdceca94bfa96e8d43428b164afd41e5d491760d1f2a6",
-  "applicantAddress": "0x1274c6Be78F56BAbde0E546f3bb09e87eb4A0e9a"
+  "applicantAddress": "0x1274c6Be78F56BAbde0E546f3bb09e87eb4A0e9a",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "The application should be flagged because it contains a bio and possibly other content in a language other than English, which goes against rule 11."
 }

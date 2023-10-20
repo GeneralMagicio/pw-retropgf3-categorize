@@ -57,5 +57,6 @@
   "applicantName": "Artem",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xc22Fa161047135dD0A0bAd933e85c20020B69023.json",
   "RPGF3_Application_UID": "0x303538fa089b13b03aacc52279230fcf1e24139f90e28175594f63d8e075cb3e",
-  "applicantAddress": "0xc22Fa161047135dD0A0bAd933e85c20020B69023"
+  "applicantAddress": "0xc22Fa161047135dD0A0bAd933e85c20020B69023",
+  "pwIsFlagged": false
 }

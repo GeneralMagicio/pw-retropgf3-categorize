@@ -32,5 +32,6 @@
   "applicantName": "Nawaj",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x340e0850fae2f6E81110Dab949A9da949859bAE0.json",
   "RPGF3_Application_UID": "0xdd0c9a82d761227670cd40dbc047cb8d2f9896e41012b99a9b90604b048b7bb6",
-  "applicantAddress": "0x340e0850fae2f6E81110Dab949A9da949859bAE0"
+  "applicantAddress": "0x340e0850fae2f6E81110Dab949A9da949859bAE0",
+  "pwIsFlagged": false
 }

@@ -35,5 +35,7 @@
   "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xBa61838207e6Ccb38dF9f9cb76c60b17B065786D.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xBa61838207e6Ccb38dF9f9cb76c60b17B065786D.json",
   "RPGF3_Application_UID": "0x50b36df4ea77647cd99211696cd62d0da57591157237c13a617cbabfb3425648",
-  "applicantAddress": "0xBa61838207e6Ccb38dF9f9cb76c60b17B065786D"
+  "applicantAddress": "0xBa61838207e6Ccb38dF9f9cb76c60b17B065786D",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "This application should be flagged for spam due to irrelevant answers and unrelated impact metrics."
 }

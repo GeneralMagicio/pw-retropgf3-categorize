@@ -36,5 +36,7 @@
   "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7896F4005CcB9f35483d7872fF9045245C531639.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x7896F4005CcB9f35483d7872fF9045245C531639.json",
   "RPGF3_Application_UID": "0xb32638cca2046c4cb8387d60b66766cda66fad87f9ce78004edfa0f04d18e141",
-  "applicantAddress": "0x7896F4005CcB9f35483d7872fF9045245C531639"
+  "applicantAddress": "0x7896F4005CcB9f35483d7872fF9045245C531639",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "This application should be flagged for violating the rule against non-English applications and possibly for spam/irrelevancy given the untranslated Vietnamese content and questionable impact metrics."
 }

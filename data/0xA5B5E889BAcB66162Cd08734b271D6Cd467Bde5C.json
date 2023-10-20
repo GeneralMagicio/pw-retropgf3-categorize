@@ -35,5 +35,7 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xA5B5E889BAcB66162Cd08734b271D6Cd467Bde5C.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xA5B5E889BAcB66162Cd08734b271D6Cd467Bde5C.json",
   "RPGF3_Application_UID": "0x0bf0ba0fd6b01e29f62617f1c9e2b7c4e318e96676a12ba723d01a05592f193d",
-  "applicantAddress": "0xA5B5E889BAcB66162Cd08734b271D6Cd467Bde5C"
+  "applicantAddress": "0xA5B5E889BAcB66162Cd08734b271D6Cd467Bde5C",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "Yes, this application should be flagged as it violated rule 10 (outside of the RetroPGF scope) by attributing the contributions solely to sending transactions on OP Mainnet which is clearly stated as not in scope to be rewarded in RetroPGF 3."
 }

@@ -41,5 +41,7 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xE927554Cddbf6145FE7D77afC31d7EAEdEC60162.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xE927554Cddbf6145FE7D77afC31d7EAEdEC60162.json",
   "RPGF3_Application_UID": "0x0a74a085e672d771c13a2205f8c1f5ead04d1b84f27bf93509cebaf1aeb6ece0",
-  "applicantAddress": "0xE927554Cddbf6145FE7D77afC31d7EAEdEC60162"
+  "applicantAddress": "0xE927554Cddbf6145FE7D77afC31d7EAEdEC60162",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "Flagged: The provided contribution link leads to a non-English content which is a violation of the grant program's rules."
 }

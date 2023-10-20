@@ -43,5 +43,7 @@
   "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2354A17dA6D086AC1f550c79A84aD9B152E893c2.jpeg",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x2354A17dA6D086AC1f550c79A84aD9B152E893c2.json",
   "RPGF3_Application_UID": "0x6b9d6e39051557b8a9aa6929187265ed910bc5f1bd56f1f25d2e3d79843dffb3",
-  "applicantAddress": "0x2354A17dA6D086AC1f550c79A84aD9B152E893c2"
+  "applicantAddress": "0x2354A17dA6D086AC1f550c79A84aD9B152E893c2",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "Flagged: The application contains spam text with repetition and gibberish."
 }

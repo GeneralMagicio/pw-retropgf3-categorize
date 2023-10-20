@@ -45,5 +45,7 @@
   "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x28ECb498b2f34Dd717AEE529de358005E88669e5.jpeg",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x28ECb498b2f34Dd717AEE529de358005E88669e5.json",
   "RPGF3_Application_UID": "0x45234a05a27fe5cfb48292edb93c6e691c0b76f3158493ce68a6a88084b9893f",
-  "applicantAddress": "0x28ECb498b2f34Dd717AEE529de358005E88669e5"
+  "applicantAddress": "0x28ECb498b2f34Dd717AEE529de358005E88669e5",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "This application should be flagged for violating the rule of \"Promises of future impact - promises of future deliverables or impact are not allowed\" as the applicant is promising to actively engage and foster a community, collaborate, stay informed, mentor, and seek partnerships, which are future deliverables."
 }

@@ -37,5 +37,7 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x9BB0301B970B182A273Ecb380027E4BE0Efd5553.jpeg",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x9BB0301B970B182A273Ecb380027E4BE0Efd5553.json",
   "RPGF3_Application_UID": "0xde88233494951d96e3089f0faa5eff00b55eb129f41b268b6991c4fd738c663a",
-  "applicantAddress": "0x9BB0301B970B182A273Ecb380027E4BE0Efd5553"
+  "applicantAddress": "0x9BB0301B970B182A273Ecb380027E4BE0Efd5553",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "The application should be flagged for Fraud & Impersonation as it appears to impersonate influential blockchain figure, Vitalik Buterin, based on the provided twitter URL and display name."
 }

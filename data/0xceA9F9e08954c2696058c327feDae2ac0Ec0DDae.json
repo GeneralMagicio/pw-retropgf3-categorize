@@ -41,5 +41,7 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xceA9F9e08954c2696058c327feDae2ac0Ec0DDae.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xceA9F9e08954c2696058c327feDae2ac0Ec0DDae.json",
   "RPGF3_Application_UID": "0xafe18c59c8f8afe1ea23c2d088357bf010e33aaf89f72b0b1a834284225014b5",
-  "applicantAddress": "0xceA9F9e08954c2696058c327feDae2ac0Ec0DDae"
+  "applicantAddress": "0xceA9F9e08954c2696058c327feDae2ac0Ec0DDae",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "The application should be flagged for violating the rules of the grants program, specifically rule 1 (Promises of future impact) and rule 6 (Advertising). The applicant is promoting their NFT collection and promising a future deliverable of a film production."
 }

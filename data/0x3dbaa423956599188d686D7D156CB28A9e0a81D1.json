@@ -42,5 +42,7 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x3dbaa423956599188d686D7D156CB28A9e0a81D1.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x3dbaa423956599188d686D7D156CB28A9e0a81D1.json",
   "RPGF3_Application_UID": "0xe1fbfa9141f2c53d44c1c08ad862c5dbd4406801defed44107c448e7ffeddd08",
-  "applicantAddress": "0x3dbaa423956599188d686D7D156CB28A9e0a81D1"
+  "applicantAddress": "0x3dbaa423956599188d686D7D156CB28A9e0a81D1",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "Flagged for violation of rule 1 - The application makes promises of future impact with the statement \"hopefully it can be a promising project when mainnet arrives.\""
 }

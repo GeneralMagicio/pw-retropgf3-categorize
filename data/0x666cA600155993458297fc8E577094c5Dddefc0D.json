@@ -36,5 +36,7 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x666cA600155993458297fc8E577094c5Dddefc0D.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x666cA600155993458297fc8E577094c5Dddefc0D.json",
   "RPGF3_Application_UID": "0x4644ef56f4433b1142404b45021f44db2bc52f0475257bd4e03ddaa84612bc8c",
-  "applicantAddress": "0x666cA600155993458297fc8E577094c5Dddefc0D"
+  "applicantAddress": "0x666cA600155993458297fc8E577094c5Dddefc0D",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "Flag the application. The contribution description and impact description are vague and do not clearly demonstrate a specific impact on the Web3/blockchain space. The contribution links also lead to a messaging platform, not to a specific project or contribution."
 }

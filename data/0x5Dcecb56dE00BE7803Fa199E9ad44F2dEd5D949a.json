@@ -43,5 +43,7 @@
   "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5Dcecb56dE00BE7803Fa199E9ad44F2dEd5D949a.jpeg",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x5Dcecb56dE00BE7803Fa199E9ad44F2dEd5D949a.json",
   "RPGF3_Application_UID": "0x07fe3536713b0fc787b134d9cc7a64996b5fc1fa39f834820dd74a227a03aa92",
-  "applicantAddress": "0x5Dcecb56dE00BE7803Fa199E9ad44F2dEd5D949a"
+  "applicantAddress": "0x5Dcecb56dE00BE7803Fa199E9ad44F2dEd5D949a",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "This application should be flagged for promises of future impact and for potential false statements and deception. The applicant makes assertions about the improvement of the blockchain in the future without providing concrete evidence or past contribution to back up the claims."
 }

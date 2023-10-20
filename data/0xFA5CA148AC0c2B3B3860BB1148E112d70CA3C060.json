@@ -34,5 +34,7 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xFA5CA148AC0c2B3B3860BB1148E112d70CA3C060.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xFA5CA148AC0c2B3B3860BB1148E112d70CA3C060.json",
   "RPGF3_Application_UID": "0x6f21aa68bab26f757985f105f53a21cf204274dea2b0155d6a13d54f7e1628a7",
-  "applicantAddress": "0xFA5CA148AC0c2B3B3860BB1148E112d70CA3C060"
+  "applicantAddress": "0xFA5CA148AC0c2B3B3860BB1148E112d70CA3C060",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "This application should be flagged for violating rule 11 as it contains repeated phrases in the contribution and impact description and it is not in English."
 }

@@ -36,5 +36,7 @@
   "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xD78a07187afBdcF3c93602A9cdD2367Cfa64048f.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xD78a07187afBdcF3c93602A9cdD2367Cfa64048f.json",
   "RPGF3_Application_UID": "0xfe1ef833cc381d0975b46615c4d1e56e71661737b93a9ddd45c763d3388f0e46",
-  "applicantAddress": "0xD78a07187afBdcF3c93602A9cdD2367Cfa64048f"
+  "applicantAddress": "0xD78a07187afBdcF3c93602A9cdD2367Cfa64048f",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "This application should be flagged for violating rules 2 (False statements & deception) and 11 (Spam). The applicant has simply copied generic information about the Optimism project and has not provided clear, original detail about their own project or specific contributions, and the impact metrics provided are unclear and seem unrelated."
 }

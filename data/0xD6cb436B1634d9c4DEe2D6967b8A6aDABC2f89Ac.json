@@ -34,5 +34,6 @@
   "applicantName": "EnCrypted",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xD6cb436B1634d9c4DEe2D6967b8A6aDABC2f89Ac.json",
   "RPGF3_Application_UID": "0x9af8dd1fdea2b169b6536a8cda0cfaa9c48b013a67a6c66349a4ceae251b6d98",
-  "applicantAddress": "0xD6cb436B1634d9c4DEe2D6967b8A6aDABC2f89Ac"
+  "applicantAddress": "0xD6cb436B1634d9c4DEe2D6967b8A6aDABC2f89Ac",
+  "pwIsFlagged": false
 }

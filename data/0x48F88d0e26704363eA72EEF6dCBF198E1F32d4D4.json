@@ -36,5 +36,7 @@
   "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x48F88d0e26704363eA72EEF6dCBF198E1F32d4D4.jpeg",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x48F88d0e26704363eA72EEF6dCBF198E1F32d4D4.json",
   "RPGF3_Application_UID": "0x3e096ae5a93f1c4d9e33dfc91a17e0d4431e3d41b632ae126a16e5859402d4a3",
-  "applicantAddress": "0x48F88d0e26704363eA72EEF6dCBF198E1F32d4D4"
+  "applicantAddress": "0x48F88d0e26704363eA72EEF6dCBF198E1F32d4D4",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "The application should be flagged for being in a language other than English."
 }

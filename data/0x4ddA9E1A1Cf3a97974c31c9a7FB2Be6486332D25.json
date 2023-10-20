@@ -40,5 +40,7 @@
   "applicantName": "SpanishG",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x4ddA9E1A1Cf3a97974c31c9a7FB2Be6486332D25.json",
   "RPGF3_Application_UID": "0x2542b47819ba92a144e460102644fc8238e8a83c5f4971d45920a14b99fa612f",
-  "applicantAddress": "0x4ddA9E1A1Cf3a97974c31c9a7FB2Be6486332D25"
+  "applicantAddress": "0x4ddA9E1A1Cf3a97974c31c9a7FB2Be6486332D25",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "The application should be flagged for being Outside of RetroPGF's scope as the applicant stated that he is \"voting and having lots of transactions on here\", which is outlined as not in scope for the RetroPGF 3 application."
 }

@@ -62,5 +62,7 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x1810bb2Face5711D20F0C5DA104415B96adad122.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x1810bb2Face5711D20F0C5DA104415B96adad122.json",
   "RPGF3_Application_UID": "0x89082b653552e5d516e5c8e596e6722d39f5e2b4e6442c92a440f1017ee0427e",
-  "applicantAddress": "0x1810bb2Face5711D20F0C5DA104415B96adad122"
+  "applicantAddress": "0x1810bb2Face5711D20F0C5DA104415B96adad122",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "Flag: The application violates rule 10. The main contribution highlighted is user interaction, namely sending transactions, which is explicitly stated to be out of scope for the RetroPGF program."
 }

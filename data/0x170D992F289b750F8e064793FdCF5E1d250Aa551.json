@@ -44,5 +44,7 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x170D992F289b750F8e064793FdCF5E1d250Aa551.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x170D992F289b750F8e064793FdCF5E1d250Aa551.json",
   "RPGF3_Application_UID": "0xe820b2c95b81fa10471a846ac37982123978eb231fa30c8c1c5fd90a1d42f9e1",
-  "applicantAddress": "0x170D992F289b750F8e064793FdCF5E1d250Aa551"
+  "applicantAddress": "0x170D992F289b750F8e064793FdCF5E1d250Aa551",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "The application should be flagged for spam because the contribution description and impact description lacks substance and appears to be filled with irrelevant repetitive text."
 }

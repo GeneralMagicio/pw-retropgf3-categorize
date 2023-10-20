@@ -41,5 +41,7 @@
   "applicantName": "Kingawo",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x15CD1328b9fE4c05a9C668c2FF68A0D5A5D308E2.json",
   "RPGF3_Application_UID": "0xf4369dd68d2a1d3b788ad3a78b8a8cd563631d5259fbe4618fb4e20b33750a18",
-  "applicantAddress": "0x15CD1328b9fE4c05a9C668c2FF68A0D5A5D308E2"
+  "applicantAddress": "0x15CD1328b9fE4c05a9C668c2FF68A0D5A5D308E2",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "The application should be flagged for promising future impact and deliverables in the contribution and impact description."
 }

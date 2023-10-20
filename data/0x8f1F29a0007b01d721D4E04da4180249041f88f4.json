@@ -57,5 +57,6 @@
   "applicantName": "Vasapower",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x8f1F29a0007b01d721D4E04da4180249041f88f4.json",
   "RPGF3_Application_UID": "0xf09ece1ed5aae7b6bce0ec7a84e36117b2ef91cc27b4d7b5734bdde5d3c5b170",
-  "applicantAddress": "0x8f1F29a0007b01d721D4E04da4180249041f88f4"
+  "applicantAddress": "0x8f1F29a0007b01d721D4E04da4180249041f88f4",
+  "pwIsFlagged": false
 }

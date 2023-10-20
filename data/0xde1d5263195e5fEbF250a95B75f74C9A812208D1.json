@@ -37,5 +37,7 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xde1d5263195e5fEbF250a95B75f74C9A812208D1.jpeg",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xde1d5263195e5fEbF250a95B75f74C9A812208D1.json",
   "RPGF3_Application_UID": "0x943e07f6486e49ff994434860ffb4e1447ae59f8b8f83433a6e1f886cea511e4",
-  "applicantAddress": "0xde1d5263195e5fEbF250a95B75f74C9A812208D1"
+  "applicantAddress": "0xde1d5263195e5fEbF250a95B75f74C9A812208D1",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "The application should be flagged because it's in a language that's not English which is against the rules of the Grant program."
 }

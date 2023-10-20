@@ -43,5 +43,7 @@
   "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9300583051cE99b0E7DC9baFe76b3c508750e944.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x9300583051cE99b0E7DC9baFe76b3c508750e944.json",
   "RPGF3_Application_UID": "0x4ce11567db35432d58bc56df64041f47e04a6e64c20b8c89199a5dbfc727d51d",
-  "applicantAddress": "0x9300583051cE99b0E7DC9baFe76b3c508750e944"
+  "applicantAddress": "0x9300583051cE99b0E7DC9baFe76b3c508750e944",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "The application should be flagged because it violates the rule against promises of future impact as the applicant has stated that their project is still in the development and testing stage, implying future deliverables."
 }

@@ -41,5 +41,7 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xd5dA7E68050C41F96207C1D19392307A63B53810.jpeg",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xd5dA7E68050C41F96207C1D19392307A63B53810.json",
   "RPGF3_Application_UID": "0xd21f25e11370cd67f22758c99c157ffdc445ec78e852dac6d810e7dbd3f5e39c",
-  "applicantAddress": "0xd5dA7E68050C41F96207C1D19392307A63B53810"
+  "applicantAddress": "0xd5dA7E68050C41F96207C1D19392307A63B53810",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "The application should be flagged because it is partially in a language other than English which violates rule 11 of the grant program rules."
 }

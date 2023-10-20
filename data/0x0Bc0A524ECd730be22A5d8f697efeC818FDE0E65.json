@@ -37,5 +37,7 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x0Bc0A524ECd730be22A5d8f697efeC818FDE0E65.jpeg",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x0Bc0A524ECd730be22A5d8f697efeC818FDE0E65.json",
   "RPGF3_Application_UID": "0x95acf4968f16cc8efb05366d2c62342537dcc05b791b817fc69340da02d5dc25",
-  "applicantAddress": "0x0Bc0A524ECd730be22A5d8f697efeC818FDE0E65"
+  "applicantAddress": "0x0Bc0A524ECd730be22A5d8f697efeC818FDE0E65",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "This application should be flagged for violating rule 1. Promises of future impact, as the applicant claims future actions such as conducting a security audit and developing an algorithm."
 }

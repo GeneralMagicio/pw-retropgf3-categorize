@@ -40,5 +40,7 @@
   "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x6b4e0ed1A79134D46880E8bF198B22f6091aa164.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x6b4e0ed1A79134D46880E8bF198B22f6091aa164.json",
   "RPGF3_Application_UID": "0x1fb5fafcee66413437335b6b73903c849b26fda511b8e2c298649ede6b5f0465",
-  "applicantAddress": "0x6b4e0ed1A79134D46880E8bF198B22f6091aa164"
+  "applicantAddress": "0x6b4e0ed1A79134D46880E8bF198B22f6091aa164",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "The application should be flagged because it contains sections that are not written in English, violating Rule 11."
 }

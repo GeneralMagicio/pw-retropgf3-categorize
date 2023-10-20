@@ -1,5 +1,5 @@
 {
-  "applicantType": "PROJECT",
+  "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://twitter.com/cahluweh91",
   "bio": "Believe in yourself",
   "contributionDescription": "New and unique ideas that are successfully created, this will bring progress in the future. Keep being the best. \nStay the best and be number one.\nI believe optimism is what prioritizes common welfare. So this will be a good Project for the future. \n",
@@ -44,5 +44,10 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x01869c8857691eF36Dc77c12284711c89630a088.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x01869c8857691eF36Dc77c12284711c89630a088.json",
   "RPGF3_Application_UID": "0xeb96bd208f1c484cd424d2afc216d19cc8e2349b668170a501d849181170e057",
-  "applicantAddress": "0x01869c8857691eF36Dc77c12284711c89630a088"
+  "applicantAddress": "0x01869c8857691eF36Dc77c12284711c89630a088",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "This application should be flagged for violating grant program rule 1 and rule 2. The applicant's impact description is filled with promises of future impact which is not allowed, and the application does not provide verifiable details related to actual contributions or impacts made in the past, this could be seen as false statements & deception.",
+  "Applicant Type": "INDIVIDUAL",
+  "recategorizeReason": "NO, the application should be categorized as an INDIVIDUAL, as the narrative and framing of the contribution and impact descriptions use personal pronouns like \"I\" indicating it is an individual rather than a project.",
+  "pwApplicantTypeChecked": true
 }

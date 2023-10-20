@@ -33,5 +33,6 @@
   "applicantName": "Dudashon",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x4C23eab7Ec0568b5c5BFCE8f4Bdca78eE52C6A7E.json",
   "RPGF3_Application_UID": "0x90467e5085f24817181e0ec194793fe2a8015a0237874c4e30fad6cb212e50e4",
-  "applicantAddress": "0x4C23eab7Ec0568b5c5BFCE8f4Bdca78eE52C6A7E"
+  "applicantAddress": "0x4C23eab7Ec0568b5c5BFCE8f4Bdca78eE52C6A7E",
+  "pwIsFlagged": false
 }

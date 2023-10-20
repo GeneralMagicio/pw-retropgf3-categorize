@@ -50,5 +50,7 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x62F7C2dcdaFCd43463550157821998046DE2526c.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x62F7C2dcdaFCd43463550157821998046DE2526c.json",
   "RPGF3_Application_UID": "0x63d281f732d328ecff605f3e38fac5fea537f6b5ac2d2757cda0b01260e17986",
-  "applicantAddress": "0x62F7C2dcdaFCd43463550157821998046DE2526c"
+  "applicantAddress": "0x62F7C2dcdaFCd43463550157821998046DE2526c",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "The application should be flagged as it violates Rule 11: it's not in English."
 }

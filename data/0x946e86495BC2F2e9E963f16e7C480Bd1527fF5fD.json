@@ -37,5 +37,7 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x946e86495BC2F2e9E963f16e7C480Bd1527fF5fD.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x946e86495BC2F2e9E963f16e7C480Bd1527fF5fD.json",
   "RPGF3_Application_UID": "0xc1f4709752ec5ed170fe1e51722f6900c925c8e825fc3a46e5c24adeac79a7d8",
-  "applicantAddress": "0x946e86495BC2F2e9E963f16e7C480Bd1527fF5fD"
+  "applicantAddress": "0x946e86495BC2F2e9E963f16e7C480Bd1527fF5fD",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "Flagged: The application is not clear about its direct contributions to the Web3/blockchain space and fails to highlight a valid contribution to the RetroPGF."
 }

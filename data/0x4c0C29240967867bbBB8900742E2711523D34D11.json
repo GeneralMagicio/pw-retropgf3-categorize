@@ -34,5 +34,7 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x4c0C29240967867bbBB8900742E2711523D34D11.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x4c0C29240967867bbBB8900742E2711523D34D11.json",
   "RPGF3_Application_UID": "0xa9cf202869cacf8911b8a996be73d135949a8412656d08a99225b28194eaba1c",
-  "applicantAddress": "0x4c0C29240967867bbBB8900742E2711523D34D11"
+  "applicantAddress": "0x4c0C29240967867bbBB8900742E2711523D34D11",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "The application should be flagged for violating the rule of \"Promises of future impact\" as the applicant is indicating plans to convert music files into NFTs but hasn't yet executed or made any impact."
 }

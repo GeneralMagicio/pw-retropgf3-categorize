@@ -108,5 +108,6 @@
   "applicantName": "0xs34n",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xA0B39867b0999DcF7Af65ea674c3C975EaD99158.json",
   "RPGF3_Application_UID": "0x3cda55b2201bc6838291f6dc8d6325d321f4b011d91f4e6dcd14371751ee3a2b",
-  "applicantAddress": "0xA0B39867b0999DcF7Af65ea674c3C975EaD99158"
+  "applicantAddress": "0xA0B39867b0999DcF7Af65ea674c3C975EaD99158",
+  "pwIsFlagged": false
 }

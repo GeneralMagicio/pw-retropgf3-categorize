@@ -41,5 +41,7 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xCb94B70cf011c3Ee99357499d060345daD585C6d.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xCb94B70cf011c3Ee99357499d060345daD585C6d.json",
   "RPGF3_Application_UID": "0x410d6f4fb6a763a2d05c5260504e09fe28be7018afcf7e621f8e86cb34761c3e",
-  "applicantAddress": "0xCb94B70cf011c3Ee99357499d060345daD585C6d"
+  "applicantAddress": "0xCb94B70cf011c3Ee99357499d060345daD585C6d",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "The application should be flagged because it violates the rule regarding promises of future impact. The applicant promises their future contributions would be \"building and testing DApps on the Optimism Mainnet\" and \"beginning to create a community of builders around the OP stack\"."
 }

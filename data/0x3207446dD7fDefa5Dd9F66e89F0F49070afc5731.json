@@ -44,5 +44,7 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x3207446dD7fDefa5Dd9F66e89F0F49070afc5731.jpeg",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x3207446dD7fDefa5Dd9F66e89F0F49070afc5731.json",
   "RPGF3_Application_UID": "0x6c778ff92090cb272c505e66a1f27d1cdc8183d1354d4015ec1d6652f59a1d73",
-  "applicantAddress": "0x3207446dD7fDefa5Dd9F66e89F0F49070afc5731"
+  "applicantAddress": "0x3207446dD7fDefa5Dd9F66e89F0F49070afc5731",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "This application should be flagged for false statements and deception as the contribution links are incoherent and the provided website URL does not directly relate to the applicant's contribution to the Web3/blockchain space."
 }

@@ -35,5 +35,7 @@
   "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x0d148287beFe306d11c6dA1aa664f5692C9b1273.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x0d148287beFe306d11c6dA1aa664f5692C9b1273.json",
   "RPGF3_Application_UID": "0x52f9b753731b07bcda65468c6183745a8a1a7032f840a201b3fb120d9391b435",
-  "applicantAddress": "0x0d148287beFe306d11c6dA1aa664f5692C9b1273"
+  "applicantAddress": "0x0d148287beFe306d11c6dA1aa664f5692C9b1273",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "The application should be flagged for spam as the contribution and impact descriptions are repeated multiple times without clearly describing any valid contributions to the space."
 }

@@ -32,5 +32,6 @@
   "applicantName": "Zero Knowledge Podcast",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x0b0E6486648FBBb8E9ab33e3ae9D0B44B6faa701.json",
   "RPGF3_Application_UID": "0xabf8a11afc616116d966b45900c77737cbe34dcdab0198c17c3376e1526d6403",
-  "applicantAddress": "0x0b0E6486648FBBb8E9ab33e3ae9D0B44B6faa701"
+  "applicantAddress": "0x0b0E6486648FBBb8E9ab33e3ae9D0B44B6faa701",
+  "pwIsFlagged": false
 }

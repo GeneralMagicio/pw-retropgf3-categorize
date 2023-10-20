@@ -68,5 +68,7 @@
   "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xa6Ff4b1C5b33F7Ec3fFe277A919d34E89b205Bf2.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xa6Ff4b1C5b33F7Ec3fFe277A919d34E89b205Bf2.json",
   "RPGF3_Application_UID": "0xc680a548810c4a5bd47521ce9a1335f3d89a47cc8efec8a268f79188d19d9fe1",
-  "applicantAddress": "0xa6Ff4b1C5b33F7Ec3fFe277A919d34E89b205Bf2"
+  "applicantAddress": "0xa6Ff4b1C5b33F7Ec3fFe277A919d34E89b205Bf2",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "Flagged: The application violates rule 10 as the contributions mentioned do not have a clear relationship to Optimism and are not specific to Optimism."
 }
