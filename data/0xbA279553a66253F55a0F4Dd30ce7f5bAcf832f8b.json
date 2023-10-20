@@ -46,5 +46,6 @@
   "applicantAddress": "0xbA279553a66253F55a0F4Dd30ce7f5bAcf832f8b",
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for promising future impacts and deliverable which violates the first rule of the grant program.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Blockchain Infrastructure, Developer Ecosystem, Security Testing, Community Building"
 }

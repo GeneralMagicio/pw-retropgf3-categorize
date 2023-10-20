@@ -51,5 +51,6 @@
   "RPGF3_Application_UID": "0x4fc411cc40e4a1fbfa73f5b1750d11271456dd6ada8234a6e37f44df4e5658d9",
   "applicantAddress": "0xBdB14cfFC78B901299Dc878adD11273C621fF5B8",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Developer Ecosystem, Open Source Contribution, Smart Contract Platforms"
 }

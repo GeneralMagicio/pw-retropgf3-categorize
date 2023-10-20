@@ -43,5 +43,6 @@
   "RPGF3_Application_UID": "0xbc82e6ce400f4ca4ff72f53053e4a747dc9e7be16c9c4523f23c752494aef585",
   "applicantAddress": "0xe1581C10EE235F0DEbb655EA365100bCBD84BAD2",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Decentralized Exchanges (DEXs), Layer 2 Scaling, Non-Fungible Tokens (NFTs), Blockchain Infrastructure, Community Building"
 }

@@ -44,5 +44,6 @@
   "applicantAddress": "0x44207d32b2b7af723d6035c069bC49DBEec589FF",
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for spam due to repeated content in both the contributionDescription and impactDescription sections.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Community Building, Governance & Tokens, Developer Ecosystem, Web3 Community Platform, Cryptocurrency Services"
 }

@@ -45,5 +45,6 @@
   "pwFlaggedReason": "This application should be flagged for violating rule 1, promises of future impact, and rule 11, as it appears to contain spam or irrelevant answers.",
   "recategorizeToType": "INDIVIDUAL",
   "recategorizeReason": "NO, this seems to be an INDIVIDUAL applicant as the bio and descriptions use singular pronouns such as \"I\" and \"me\".",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Smart Contract Platforms, Tokenization Platforms, Blockchain Infrastructure, Decentralized Finance (DeFi), User Experience & Adoption"
 }

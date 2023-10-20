@@ -49,5 +49,6 @@
   "applicantAddress": "0x0D7389C13e7B47821494db2De1EA13B8cA2A94D7",
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for promising future impact: \"I will now get a million users to Optimism by the trivia platform we have created, with telco partnerships.\"",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Blockchain Gaming, NFTs, Web3 Community Platform, Content Creation, User Experience & Adoption"
 }

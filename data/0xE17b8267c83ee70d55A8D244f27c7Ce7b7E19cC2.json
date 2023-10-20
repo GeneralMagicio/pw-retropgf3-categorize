@@ -55,5 +55,6 @@
   "applicantAddress": "0xE17b8267c83ee70d55A8D244f27c7Ce7b7E19cC2",
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged because it promises future deliverables or impact which is violation of Rule 1.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Decentralized Identity, Smart Contract Platforms, Governance Tokens, Content Creation, Community Building"
 }

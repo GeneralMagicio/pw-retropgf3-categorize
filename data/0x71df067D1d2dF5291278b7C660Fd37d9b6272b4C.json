@@ -34,5 +34,6 @@
   "RPGF3_Application_UID": "0xdb7760ac3918bd6aaba6aaf7a84900c313ff3f05093cd87e49738a73b95ad28f",
   "applicantAddress": "0x71df067D1d2dF5291278b7C660Fd37d9b6272b4C",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Smart Contract Optimization, Developer Tool, Blockchain Infrastructure"
 }

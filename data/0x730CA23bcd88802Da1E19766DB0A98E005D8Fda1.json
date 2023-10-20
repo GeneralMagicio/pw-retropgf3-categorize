@@ -44,5 +44,6 @@
   "RPGF3_Application_UID": "0xadc256d0df97ae846c20faedb24c70dc3167b6e2d58d0ce62b9838142e6a5baa",
   "applicantAddress": "0x730CA23bcd88802Da1E19766DB0A98E005D8Fda1",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Governance & Tokens, DAO, Community Building"
 }

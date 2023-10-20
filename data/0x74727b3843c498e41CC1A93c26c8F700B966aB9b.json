@@ -39,5 +39,6 @@
   "RPGF3_Application_UID": "0x83c3cb3d1d962c36cd715cb4583ecbed58ec6dad4936cd517238ea735cb3426b",
   "applicantAddress": "0x74727b3843c498e41CC1A93c26c8F700B966aB9b",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "User Experience & Adoption, Layer 2 Scaling, Blockchain Infrastructure"
 }

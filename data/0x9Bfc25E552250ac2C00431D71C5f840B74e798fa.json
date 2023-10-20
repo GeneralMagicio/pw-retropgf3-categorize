@@ -39,5 +39,6 @@
   "applicantAddress": "0x9Bfc25E552250ac2C00431D71C5f840B74e798fa",
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for spam due to the fact that the contribution description and impact description are incoherent and do not provide specific details about what the contribution is or the impact it had on the collective.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Governance & Tokens"
 }

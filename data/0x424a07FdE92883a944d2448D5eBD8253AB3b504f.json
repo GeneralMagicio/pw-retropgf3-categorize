@@ -40,5 +40,6 @@
   "applicantAddress": "0x424a07FdE92883a944d2448D5eBD8253AB3b504f",
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for promising future deliverables or impact, which is against the grant program rules.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Smart Contract Platforms, Layer 2 Scaling, Tokenization Platforms, Community Building, User Experience & Adoption"
 }

@@ -65,5 +65,6 @@
   "pwIsFlagged": false,
   "recategorizeToType": "PROJECT",
   "recategorizeReason": "NO, it should be categorized as PROJECT because despite an individual being mentioned, the work described and accomplishments listed are all focused on the output of Amaretto Labs, which is a operational agency.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Layer 2 Scaling, Content Creation, Community Building, Education, Social Media Marketing"
 }

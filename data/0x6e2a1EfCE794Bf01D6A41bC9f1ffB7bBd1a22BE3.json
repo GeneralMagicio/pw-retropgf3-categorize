@@ -36,5 +36,6 @@
   "applicantAddress": "0x6e2a1EfCE794Bf01D6A41bC9f1ffB7bBd1a22BE3",
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for violating rule 10. The applicant is an end-user, not a contributor to the collective.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Layer 2 Scaling, User Experience & Adoption, Blockchain Infrastructure, Smart Contract Platforms, Developer Ecosystem"
 }

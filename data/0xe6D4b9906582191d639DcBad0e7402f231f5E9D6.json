@@ -36,5 +36,6 @@
   "applicantAddress": "0xe6D4b9906582191d639DcBad0e7402f231f5E9D6",
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for \"Outside of RetroPGF's scope\" because the applicant explicitly mentions not being involved in any specific projects or organizations, including Optimism or RetroPGF.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Smart Contract Platforms, Blockchain Infrastructure, End-User Experience"
 }

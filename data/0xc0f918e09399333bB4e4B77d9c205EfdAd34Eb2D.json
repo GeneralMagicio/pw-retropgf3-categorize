@@ -37,5 +37,6 @@
   "applicantAddress": "0xc0f918e09399333bB4e4B77d9c205EfdAd34Eb2D",
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for violating the \"Promises of future impact\" rule as the applicant is promising further participation and impact.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "User Experience & Adoption, Web3 Community Platform, Layer 2 Scaling, Tokenization Platforms, Governance & Tokens"
 }

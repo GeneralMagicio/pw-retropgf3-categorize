@@ -37,5 +37,6 @@
   "applicantAddress": "0xeC51aF93a186bAE18a331a167506D68580f21490",
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for promising future impact which is a violation of rule 1. The applicant promises future contributions like building a good and friendly community and supporting all programs by the optimism dev.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Community Building, Developer Ecosystem, Governance & Tokens"
 }

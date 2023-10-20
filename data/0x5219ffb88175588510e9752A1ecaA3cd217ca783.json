@@ -89,5 +89,6 @@
   "RPGF3_Application_UID": "0xc58cb06f158be715a79979b82c17da1958629a4dfae313d1b123af405afdc615",
   "applicantAddress": "0x5219ffb88175588510e9752A1ecaA3cd217ca783",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Community Building, Decentralized Finance (DeFi), Tokenization Platforms, Blockchain Infrastructure, Impact Certifications"
 }

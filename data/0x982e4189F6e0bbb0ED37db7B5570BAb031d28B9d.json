@@ -39,5 +39,6 @@
   "pwFlaggedReason": "Flagged: The application should be flagged for violation of rule 10, as the provided contribution description as it purely involves user interactions such as holding NFTs which are not in the scope of rewards in the RetroPGF 3 grant program.",
   "recategorizeToType": "INDIVIDUAL",
   "recategorizeReason": "NO, the application uses \"I\" and \"me\" indicating this application is by an individual.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "NFT Aggregator, Community Building, User Experience & Adoption, Web3 Community Platform, Tokenization Platforms"
 }

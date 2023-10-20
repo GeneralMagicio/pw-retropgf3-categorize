@@ -48,5 +48,6 @@
   "pwFlaggedReason": "This application should be flagged because it includes content in a language other than English, which is a violation of the rules.",
   "recategorizeToType": "INDIVIDUAL",
   "recategorizeReason": "NO, the application is not correctly categorized. The applicant talks about \"I\", indicating that this is an individual, not a project.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Community Building, Blockchain Education, User Experience & Adoption, Governance & Tokens"
 }

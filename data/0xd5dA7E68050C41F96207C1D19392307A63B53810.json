@@ -44,5 +44,6 @@
   "applicantAddress": "0xd5dA7E68050C41F96207C1D19392307A63B53810",
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged because it is partially in a language other than English which violates rule 11 of the grant program rules.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Community Building, NFTs, Tokenization Platforms, Smart Contract Platforms, Web3 Community Platform"
 }

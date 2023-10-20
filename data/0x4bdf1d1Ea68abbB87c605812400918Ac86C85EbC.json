@@ -36,5 +36,6 @@
   "RPGF3_Application_UID": "0x278e34fa22248dd8e325c4a941412f263838b31db9d30dbc065616a083e7d190",
   "applicantAddress": "0x4bdf1d1Ea68abbB87c605812400918Ac86C85EbC",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Non-Fungible Tokens (NFTs), Smart Contract Platforms, Tokenization Platforms, Cryptocurrency Services"
 }

@@ -43,5 +43,6 @@
   "applicantAddress": "0x9e8757306353474ecB3f10E10a16106A0afa452F",
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for violating rules number 2 and 10. This application contains false or misleading information about the applicant's contributions to the blockchain space, and does not have a clear relationship to Optimism.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Community Building, User Experience & Adoption"
 }

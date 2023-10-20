@@ -53,5 +53,6 @@
   "RPGF3_Application_UID": "0xd2591c94e8666a5f1cf11b49d6ce9e85a970f48606316300793b8fed927ca94b",
   "applicantAddress": "0x9340d7Cabb81E95a8CAC60e997E97543D2371aDd",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Community Building, NFT Aggregator, User Experience & Adoption, Decentralized Finance (DeFi), Beta testing"
 }

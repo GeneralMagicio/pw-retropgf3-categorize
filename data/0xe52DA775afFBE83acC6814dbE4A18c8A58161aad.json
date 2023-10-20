@@ -48,5 +48,6 @@
   "applicantAddress": "0xe52DA775afFBE83acC6814dbE4A18c8A58161aad",
   "pwIsFlagged": true,
   "pwFlaggedReason": "Flag this application. The application's contribution and impact descriptions are vague and non-specific, violating rule 10 regarding contributions without a clear relationship to Optimism and valid contribution details.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Developer Ecosystem, Governance & Tokens, Web3 Community Platform, Blockchain Infrastructure"
 }

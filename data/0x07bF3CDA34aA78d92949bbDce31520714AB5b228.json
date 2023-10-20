@@ -86,5 +86,6 @@
   "pwIsFlagged": false,
   "recategorizeToType": "INDIVIDUAL",
   "recategorizeReason": "NO, it should be categorized as an INDIVIDUAL because the bio starts with \"Hi I'm Pascal,\" which indicates an individual, not a project.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Smart Contract Platforms, Developer Ecosystem, Blockchain Education, Security Engineering, Cryptocurrency Services"
 }

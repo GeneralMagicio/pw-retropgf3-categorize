@@ -39,5 +39,6 @@
   "pwFlaggedReason": "The application should be flagged for having spam content with nonsensical and irrelevant answers in the contribution and impact descriptions.",
   "recategorizeToType": "PROJECT",
   "recategorizeReason": "NO, the application does not provide sufficient information to deduce whether it is from an individual or a project.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Tokenization Platforms, Bridge, NFT, Discord, Transaction"
 }

@@ -82,5 +82,6 @@
   "RPGF3_Application_UID": "0xd97c137fbf6f618c9abd2d26c5c32127f424e253187ef2a83c7c8dc3d0e8cc39",
   "applicantAddress": "0xa984C0338cC374Ce335D3565260e5a0d2a92dbac",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Developer Ecosystem, User Experience & Adoption, Governance & Tokens, Layer 2 Scaling, Community Building"
 }

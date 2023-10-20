@@ -38,5 +38,6 @@
   "pwIsFlagged": false,
   "recategorizeToType": "INDIVIDUAL",
   "recategorizeReason": "NO, it should be categorized as \"INDIVIDUAL\" because the application uses first person pronouns \"I\" or \"me\", indicating an individual not a project.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "NFTs, Layer 2 Scaling, Social Media, Tokenization Platforms, Blockchain Infrastructure"
 }

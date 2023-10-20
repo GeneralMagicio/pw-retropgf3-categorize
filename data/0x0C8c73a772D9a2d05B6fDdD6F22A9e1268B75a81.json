@@ -44,5 +44,6 @@
   "applicantAddress": "0x0C8c73a772D9a2d05B6fDdD6F22A9e1268B75a81",
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for violating rule 1 as the applicant makes promises of future impact and deliverables such as developing the ecosystem and being a useful member for everyone.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Community Building, User Experience & Adoption, Developer Ecosystem, Content Creation, Cryptocurrency Services"
 }

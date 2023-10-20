@@ -51,5 +51,6 @@
   "RPGF3_Application_UID": "0xf721b86e2b7f7195848185852de34ec8bb98f326701ea7d1b773d6110a6db5fa",
   "applicantAddress": "0xe2f6659e0209C3f79132AbDEB95abEBa0f1f672F",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Cross-Chain Platforms, Layer 2 Scaling, Smart Contract Platforms, Developer Ecosystem, Open Source"
 }

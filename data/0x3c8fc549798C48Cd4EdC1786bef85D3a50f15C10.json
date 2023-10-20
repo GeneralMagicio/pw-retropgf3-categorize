@@ -66,5 +66,6 @@
   "RPGF3_Application_UID": "0x87424ebc9410810cf1dd21256369dc96b289302a008f6205aa051219c648766b",
   "applicantAddress": "0x3c8fc549798C48Cd4EdC1786bef85D3a50f15C10",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Decentralized Finance (DeFi)"
 }

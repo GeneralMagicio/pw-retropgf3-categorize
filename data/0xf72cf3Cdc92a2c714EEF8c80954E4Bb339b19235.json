@@ -36,5 +36,6 @@
   "applicantAddress": "0xf72cf3Cdc92a2c714EEF8c80954E4Bb339b19235",
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for spam due to repetitive zero characters in the contribution description and impact description which provide no valid information about the applicant's contribution and its impact in the blockchain space.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Tokenization Platforms, Blockchain Infrastructure, Decentralized Finance (DeFi)"
 }

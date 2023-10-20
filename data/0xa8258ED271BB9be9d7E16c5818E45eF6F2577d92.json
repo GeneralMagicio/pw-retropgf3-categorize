@@ -73,5 +73,6 @@
   "RPGF3_Application_UID": "0x7f66e162c6ff0ebfc20fe8198af210936ff4917fc06c1c47630b89f3000958b4",
   "applicantAddress": "0xa8258ED271BB9be9d7E16c5818E45eF6F2577d92",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Community Building, Education, NFTs, Web3 Community Platform, Media Production"
 }

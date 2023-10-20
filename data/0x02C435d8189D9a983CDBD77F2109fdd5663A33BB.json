@@ -38,5 +38,6 @@
   "applicantAddress": "0x02C435d8189D9a983CDBD77F2109fdd5663A33BB",
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for promising future impact: \"I will be building daily on X with them and I will be sharing the work they are doing. Also I will be attending IRL events to help push the branding and the word of Optimism as much as possible\".",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Community Building, Web3 Community Platform, Media Production, Cryptocurrency Services"
 }

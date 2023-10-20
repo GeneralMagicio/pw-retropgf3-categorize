@@ -46,5 +46,6 @@
   "RPGF3_Application_UID": "0x4b9b980c710c584446cec04d5282f93e6780df75e170d149efad8efce6157bbc",
   "applicantAddress": "0x8F37fDD3037b29195975d9e2f7bbB36cA51887dC",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "End-User Experience, Wallet Management, Developer Ecosystem"
 }

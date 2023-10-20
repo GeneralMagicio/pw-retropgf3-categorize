@@ -42,5 +42,6 @@
   "RPGF3_Application_UID": "0xb8bf90d384d4b252d7261962ba275ec5baf24c53633f4db5540d4573a9bf35c8",
   "applicantAddress": "0xB0abAEfc47e5b244638BFE474Fb15FC33e6A1d6A",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Content Creation, Blockchain Integration, Audience Involvement, Film Production, Tokenization Platforms"
 }

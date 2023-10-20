@@ -48,5 +48,7 @@
   "pwIsFlagged": false,
   "Applicant Type": "INDIVIDUAL",
   "recategorizeReason": "NO, the application is miscategorized. The \"contributionDescription\" and \"impactDescription\" sections use \"I\" indicating an individual applicant, not a project.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Developer Ecosystem, Education, Layer 2 Scaling, Tokenization Platforms, Content Creation",
+  "pwCategory": "Education"
 }

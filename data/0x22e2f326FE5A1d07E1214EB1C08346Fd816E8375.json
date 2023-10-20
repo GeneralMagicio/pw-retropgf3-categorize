@@ -74,5 +74,6 @@
   "RPGF3_Application_UID": "0x15e84020afaeea9626e882207ad748006bbd2fbdc45b313af4cf2414ae657c90",
   "applicantAddress": "0x22e2f326FE5A1d07E1214EB1C08346Fd816E8375",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Education, Community Building, User Experience & Adoption, Governance & Tokens, Smart Contract Platforms"
 }

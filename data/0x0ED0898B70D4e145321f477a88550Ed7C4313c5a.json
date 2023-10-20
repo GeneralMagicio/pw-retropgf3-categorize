@@ -36,5 +36,6 @@
   "applicantAddress": "0x0ED0898B70D4e145321f477a88550Ed7C4313c5a",
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for spam, as the descriptions are repetitious and don't provide clear or distinct information about the applicant's contributions.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Smart Contract Platforms, Web3 Community Platform, Decentralized Finance (DeFi)"
 }

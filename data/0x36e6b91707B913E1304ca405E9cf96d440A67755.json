@@ -36,5 +36,6 @@
   "RPGF3_Application_UID": "0x7ecd22a3ed55853c580e7be7708363094fdd32515492355038a30e402b0cdb73",
   "applicantAddress": "0x36e6b91707B913E1304ca405E9cf96d440A67755",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Content Creation, Community Building, Educator"
 }

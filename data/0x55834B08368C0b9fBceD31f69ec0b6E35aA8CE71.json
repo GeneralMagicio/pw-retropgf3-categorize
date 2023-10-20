@@ -40,5 +40,6 @@
   "applicantAddress": "0x55834B08368C0b9fBceD31f69ec0b6E35aA8CE71",
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for making promises of future impact, which is against the grant program rules.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Community Building, User Experience & Adoption, Media Production, Cryptocurrency Services"
 }

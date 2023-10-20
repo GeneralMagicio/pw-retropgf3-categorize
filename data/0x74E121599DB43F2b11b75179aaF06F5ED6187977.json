@@ -59,5 +59,6 @@
   "RPGF3_Application_UID": "0x8a01f46cc05a14c91165d72e4439cb0e056a7e44844612294dfb3e93d8ed7afe",
   "applicantAddress": "0x74E121599DB43F2b11b75179aaF06F5ED6187977",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Community Building, Developer Ecosystem, End-User Experience, Web3 Community Platform, Social Media Marketing"
 }

@@ -40,5 +40,6 @@
   "pwFlaggedReason": "This application should be flagged for violation of rule 1 (Promises of future impact are not allowed) and rule 2 (False statements & deception is not allowed) as the applicant has not demonstrated a contribution or impact in the Web3/blockchain space; instead, they have copied a general statement about the RetroPGF.",
   "recategorizeToType": "PROJECT",
   "recategorizeReason": "NO, because the applicant refers to themselves as \"I\", indicating they are an individual, but the terminology and content of the application seems more focused on a project, \"Optimism Collective\", and their future plans.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Tokenization Platforms, Community Building, User Experience & Adoption, Governance & Tokens, Developer Ecosystem"
 }

@@ -35,5 +35,6 @@
   "RPGF3_Application_UID": "0x4224f08910bd1647f3dae1b8889cf291a1a5998e8447ed0a2207016b51216747",
   "applicantAddress": "0xa3f13c688d8E124c774fafE73920D47f457F8c8c",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Governance & Tokens, Community Building, Layer 2 Scaling"
 }

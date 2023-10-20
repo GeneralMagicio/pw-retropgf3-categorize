@@ -40,5 +40,6 @@
   "applicantAddress": "0xF5f846fe547B14632e0e894C50f3Ab1F02EF1D3a",
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged because the contribution and impact descriptions are in a language other than English, which violates rule 11.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Community Building, User Experience & Adoption, Developer Ecosystem"
 }

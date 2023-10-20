@@ -43,5 +43,6 @@
   "RPGF3_Application_UID": "0xc67c6f5fa8c400c7bc308a221d04bcf69db2d4c481d0692112386fb1624fcb8a",
   "applicantAddress": "0x9bF7A4c1D9C115749934232e4746f5C115e7c047",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Metaverse, Gamefi, Socialfi, Blockchain Gaming, Tokenization Platforms"
 }

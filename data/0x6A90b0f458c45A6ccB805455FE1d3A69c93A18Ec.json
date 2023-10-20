@@ -43,5 +43,6 @@
   "applicantAddress": "0x6A90b0f458c45A6ccB805455FE1d3A69c93A18Ec",
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged because it contains content in a language other than English.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Developer Ecosystem, Smart Contract Platforms, End-User Experience, Community Building, Investment"
 }

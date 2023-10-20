@@ -44,5 +44,6 @@
   "applicantAddress": "0x7bfa88D2E83d910adAd4C6bc149e35DF864D9Df3",
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged because it is in a language other than English.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Community Building, Tokenization Platforms, End-User Experience"
 }

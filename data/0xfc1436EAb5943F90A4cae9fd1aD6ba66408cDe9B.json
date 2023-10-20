@@ -106,5 +106,6 @@
   "RPGF3_Application_UID": "0x9e5ea1680af47702c711090ece55c5ce8a73d1122196274c4ffcdd60a2004972",
   "applicantAddress": "0xfc1436EAb5943F90A4cae9fd1aD6ba66408cDe9B",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Token Engineering Commons, Grants, Optimism, Programmable Smart Contracts, Ethereum Research"
 }

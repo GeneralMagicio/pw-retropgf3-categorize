@@ -36,5 +36,6 @@
   "RPGF3_Application_UID": "0xcbd7ce5a3a7a13d43a1b169828dc2356c46d818493a6e1165ee7d07fae103e43",
   "applicantAddress": "0x7d3F21bcb6C547737812A3213Ea105192f9e151f",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Developer Tools"
 }

@@ -44,5 +44,6 @@
   "applicantAddress": "0x9CF4DBaB25fd916D09F73217B6852cC2347D14bA",
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for promising future impact, which violates rule 1 of the grant program's rules. The applicant details a project that they want to undertake in the future, rather than detailing any past contributions or impacts made.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Decentralized Identity, Smart Contract Platforms, Funding/Investment, Developer Ecosystem, Web3 Community Platform"
 }

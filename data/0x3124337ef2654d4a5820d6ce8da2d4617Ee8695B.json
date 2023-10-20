@@ -37,5 +37,6 @@
   "pwFlaggedReason": "The application should be flagged because it contains irrelevant and incomplete answers, which violates the grant program rule against spam.",
   "recategorizeToType": "INDIVIDUAL",
   "recategorizeReason": "NO, the application is not correctly categorized because it gives no clear indication whether it's from an individual or a project due to irrelevant and incomplete answers provided.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Web3 Community Platform, Blockchain Infrastructure"
 }

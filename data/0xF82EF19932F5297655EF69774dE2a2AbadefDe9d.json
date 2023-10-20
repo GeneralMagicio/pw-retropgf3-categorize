@@ -43,5 +43,6 @@
   "pwFlaggedReason": "This application should be flagged for promising future impact, which is against the rules of the grant program. The applicant's statements about wanting to contribute in the future to layer2 blockchains suggest that there is no measurable past impact.",
   "recategorizeToType": "INDIVIDUAL",
   "recategorizeReason": "NO, the application is from an individual as the text mentions \"I\" and \"me\".",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Layer 2 Scaling"
 }

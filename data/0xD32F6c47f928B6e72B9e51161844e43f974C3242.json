@@ -47,5 +47,6 @@
   "applicantAddress": "0xD32F6c47f928B6e72B9e51161844e43f974C3242",
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged because the applicant promises of future deliverables which is in violation of rule 1 of the grant program rules.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Blockchain Infrastructure, Community Building, End-User Experience, Developer Ecosystem, Tokenization Platforms"
 }

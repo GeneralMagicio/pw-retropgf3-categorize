@@ -72,5 +72,6 @@
   "RPGF3_Application_UID": "0xc0310996f4bbbf3cb5dc3e045747351a93c7d1fcf6b850e13ad5dc5dafc79728",
   "applicantAddress": "0x9adCe28d1Afa1aac8eE226A47Ef1ef0413388E77",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Smart Contract Platforms, Layer 2 Scaling, NFTs, Developer Ecosystem, Decentralized Identity"
 }

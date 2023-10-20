@@ -46,5 +46,6 @@
   "pwFlaggedReason": "The application should be flagged for making false statements and deception, as the applicant seems to have copied descriptions about OP Mainnet without providing valid examples of their own contributions or impact on the platform.",
   "recategorizeToType": "INDIVIDUAL",
   "recategorizeReason": "NO, the application is not correctly categorized. It appears to be an individual rather than a project, as the applicant has a personal name (\"Herculaz\"), which contrasts with the \"PROJECT\" category listed in the \"applicantType\" field.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Layer 2 Scaling, Smart Contract Platforms, Blockchain Infrastructure, Developer Ecosystem"
 }

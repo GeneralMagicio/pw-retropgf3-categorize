@@ -42,5 +42,6 @@
   "RPGF3_Application_UID": "0x10bb26d88a78177cbec587be4ef3ce56654d9e7f921d58b022b78af7c9261329",
   "applicantAddress": "0xc5892161105D2b8c66312D3EDaDfc9d1a23562E4",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Community Building, Funding and Rewards"
 }

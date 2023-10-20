@@ -38,5 +38,6 @@
   "pwFlaggedReason": "This application should be flagged for containing spam, as it contains irrelevant answers in 'contributionDescription' and 'impactDescription' fields.",
   "recategorizeToType": "PROJECT",
   "recategorizeReason": "NO, the application is not properly categorized due to lack of defining information about the applicant being \"INDIVIDUAL\" or \"PROJECT\", and the spammy content in the 'contributionDescription' and 'impactDescription' fields.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Smart Contract Platforms, Tokenization Platforms, Blockchain Infrastructure, Decentralized Finance (DeFi), Cryptocurrency Services"
 }

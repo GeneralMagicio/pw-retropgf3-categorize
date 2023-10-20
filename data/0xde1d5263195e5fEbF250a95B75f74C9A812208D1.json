@@ -40,5 +40,6 @@
   "applicantAddress": "0xde1d5263195e5fEbF250a95B75f74C9A812208D1",
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged because it's in a language that's not English which is against the rules of the Grant program.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Tokenization Platforms, Layer 2 Scaling, Cryptocurrency Services, End-User Experience."
 }

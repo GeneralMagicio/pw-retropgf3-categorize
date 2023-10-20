@@ -43,5 +43,6 @@
   "applicantAddress": "0xfE3e6ab5d787F4099478Bbe811a740d903E219fb",
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for containing language other than English and for spam content.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Smart Contract Platforms, Tokenization Platforms, Blockchain Infrastructure, Decentralized Finance (DeFi), Content Creation"
 }

@@ -77,5 +77,6 @@
   "RPGF3_Application_UID": "0x9c2c5bfbe81568dc2ffb1106304f3b8cfb0ec4c77634a97c413c28c0f99fb66a",
   "applicantAddress": "0x29C5d8b04178a358dC1AfA0F5Fb2C8f5c64d55a6",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Blockchain Infrastructure, Developer Ecosystem, Smart Contract Platforms"
 }

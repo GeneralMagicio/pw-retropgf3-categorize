@@ -37,5 +37,6 @@
   "applicantAddress": "0x1FE95940c8a44aD3a27720A94c1ecC4c33e9480F",
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for violating the rule 1 - \"Promises of future impact\". The applicant stated they haven't made any contributions yet, but promises to make some in the future.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Community Building, User Experience & Adoption, Governance & Tokens, Developer Ecosystem, Media Production"
 }

@@ -47,5 +47,6 @@
   "RPGF3_Application_UID": "0x0010d963e9a203fb51547f48766e2d044a81a20dae147364bbba86488d9477d5",
   "applicantAddress": "0x9635bcC0E4845126FDB133DE103d1F84DA3f9ece",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "NFTs, Art Contest, Web3 Community Platform, User Experience & Adoption, Decentralized Identity"
 }

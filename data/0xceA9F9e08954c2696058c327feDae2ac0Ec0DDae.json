@@ -44,5 +44,6 @@
   "applicantAddress": "0xceA9F9e08954c2696058c327feDae2ac0Ec0DDae",
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for violating the rules of the grants program, specifically rule 1 (Promises of future impact) and rule 6 (Advertising). The applicant is promoting their NFT collection and promising a future deliverable of a film production.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "NFT Aggregator, Blockchain Gaming, Web3 Community Platform, Media Production, Cryptocurrency Services"
 }

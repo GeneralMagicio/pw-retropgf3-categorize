@@ -39,5 +39,6 @@
   "applicantAddress": "0x48F88d0e26704363eA72EEF6dCBF198E1F32d4D4",
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for being in a language other than English.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Content Creation, Community Building, User Experience & Adoption"
 }

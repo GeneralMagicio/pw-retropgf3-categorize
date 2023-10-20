@@ -45,5 +45,6 @@
   "applicantAddress": "0x6ea24f3cDDDF5B88F90B73A2d7df7ad9C0f9BEC4",
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for containing content in languages other than English.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Community Building"
 }

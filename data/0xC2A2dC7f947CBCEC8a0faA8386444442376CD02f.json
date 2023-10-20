@@ -37,5 +37,6 @@
   "applicantAddress": "0xC2A2dC7f947CBCEC8a0faA8386444442376CD02f",
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged because it contains spam such as irrelevant and repetitive answers in the 'contributionDescription' and 'impactDescription'.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Community Building, User Experience & Adoption, Content Creation"
 }

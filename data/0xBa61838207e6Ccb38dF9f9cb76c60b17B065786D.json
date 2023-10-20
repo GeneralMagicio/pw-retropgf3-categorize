@@ -38,5 +38,6 @@
   "applicantAddress": "0xBa61838207e6Ccb38dF9f9cb76c60b17B065786D",
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for spam due to irrelevant answers and unrelated impact metrics.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Community Building, Web3 Community Platform, Community Management"
 }

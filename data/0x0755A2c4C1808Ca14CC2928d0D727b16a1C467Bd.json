@@ -38,5 +38,6 @@
   "pwFlaggedReason": "This application should be flagged for violating rule 10. Outside of RetroPGF's scope - as the contribution mentioned seems to be more of an interaction on the OP Mainnet and does not show clear impact or required time commitment.",
   "recategorizeToType": "INDIVIDUAL",
   "recategorizeReason": "NO, it is not correctly categorized as a project. The application speaks in first person indicating it's an individual.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Cryptocurrency Services, User Experience & Adoption, Blockchain Infrastructure"
 }

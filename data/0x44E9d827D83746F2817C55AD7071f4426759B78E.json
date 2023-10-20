@@ -36,5 +36,6 @@
   "applicantAddress": "0x44E9d827D83746F2817C55AD7071f4426759B78E",
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for violating rule 11 as it is not in English.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "End-User Experience, Wallet Management, Tokenization Platforms, Cryptocurrency Services"
 }

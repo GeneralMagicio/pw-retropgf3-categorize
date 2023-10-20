@@ -38,5 +38,6 @@
   "applicantAddress": "0xDbde8fd093d3aB53A4E577ecC5B2323a90A92B18",
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for containing spam, as the descriptions of the contribution and impact are filled with irrelevant characters, violating rule 11.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Smart Contract Platforms, Web3 Community Platform, End-User Experience, Cryptocurrency Services"
 }

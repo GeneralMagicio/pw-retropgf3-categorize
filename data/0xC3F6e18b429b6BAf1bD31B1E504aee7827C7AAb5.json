@@ -43,5 +43,6 @@
   "RPGF3_Application_UID": "0x8785599241f957b73e9e24576741bb3e02943bfbd38570135566a1cc61134168",
   "applicantAddress": "0xC3F6e18b429b6BAf1bD31B1E504aee7827C7AAb5",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Community Building, Education, Coordination, Event Organization"
 }

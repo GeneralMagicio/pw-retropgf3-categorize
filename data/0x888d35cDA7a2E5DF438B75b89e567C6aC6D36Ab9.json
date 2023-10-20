@@ -46,5 +46,6 @@
   "RPGF3_Application_UID": "0xda1670c62e098723eb2771411d114d39fb1da864f5fe3796f5ff9926565cfeda",
   "applicantAddress": "0x888d35cDA7a2E5DF438B75b89e567C6aC6D36Ab9",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Blockchain Infrastructure, Data Analysis, Developer Tools, Data Accessibility, Analytics"
 }

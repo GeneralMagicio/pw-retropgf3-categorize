@@ -42,5 +42,6 @@
   "pwFlaggedReason": "This application should be flagged for violating rule 1. Promises of future impact, as the applicant claims future actions such as conducting a security audit and developing an algorithm.",
   "recategorizeToType": "PROJECT",
   "recategorizeReason": "NO, the application is categorized as \"INDIVIDUAL\" but based on the descriptive contributions and actions, it seems more fitting to categorize it as a \"PROJECT\".",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Developer Ecosystem, Smart Contract Platforms, Community Building, Blockchain Infrastructure, Governance & Tokens"
 }

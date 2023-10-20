@@ -66,5 +66,6 @@
   "RPGF3_Application_UID": "0x0c50a589d092ac078d4fecce888b1ec40a22cacd7d5d32b59ea277147113f173",
   "applicantAddress": "0xB352bB4E2A4f27683435f153A259f1B207218b1b",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Decentralized Web Infrastructure, Web3 DNS, Ethereum Name Service (ENS), IPFS/IPNS/Arweave Integration, L2 Scaling"
 }

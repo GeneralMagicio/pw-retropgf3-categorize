@@ -42,5 +42,6 @@
   "RPGF3_Application_UID": "0x6a734fdfa87680c3d655f7e3f847a47c7ae55cde05a46fc39c20e282d3d03d81",
   "applicantAddress": "0x33Ff3C111DE5F4b89Cd4bdCc0ed99c46Ca1e9541",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "NFTs, Layer 2 Scaling, Music, Community Building, User Experience & Adoption"
 }

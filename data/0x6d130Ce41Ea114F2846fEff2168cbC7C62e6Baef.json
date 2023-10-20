@@ -45,5 +45,6 @@
   "RPGF3_Application_UID": "0x2fa3b29003ee325ef8d3f12f3af8d58d3e20e804ef33cfe082975f2a025faf30",
   "applicantAddress": "0x6d130Ce41Ea114F2846fEff2168cbC7C62e6Baef",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Layer 2 Scaling, Smart Contract Platforms, User Experience & Adoption, Web3 Community Platform, Tokenization Platforms"
 }

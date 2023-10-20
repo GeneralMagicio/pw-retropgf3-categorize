@@ -48,5 +48,6 @@
   "pwFlaggedReason": "The application should be flagged for violating the rules because it contains spam and irrelevant answers in the contribution and impact descriptions.",
   "recategorizeToType": "INDIVIDUAL",
   "recategorizeReason": "NO, the application is categorized as a project but the use of first-person pronouns such as \"I\" in the \"contributionDescription\" suggests that this might be an individual.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Blockchain Infrastructure, Content Creation, Web3 Community Platform, Cryptocurrency Services"
 }

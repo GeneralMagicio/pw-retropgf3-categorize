@@ -37,5 +37,6 @@
   "applicantAddress": "0x822087542394899989F2f3041B9d16C65128b560",
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for promising future impact which is a violation of the first rule in the grant program.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Web3 Community Platform, Cryptocurrency Services, Content Creation, Community Building, User Experience & Adoption"
 }

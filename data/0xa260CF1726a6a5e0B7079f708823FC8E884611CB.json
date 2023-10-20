@@ -36,5 +36,6 @@
   "RPGF3_Application_UID": "0xe8df82346f0cd52ce5e0a0a372bedac38762ee97931b498cbfd2b913e49dd01e",
   "applicantAddress": "0xa260CF1726a6a5e0B7079f708823FC8E884611CB",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Community Building"
 }

@@ -113,5 +113,6 @@
   "pwIsFlagged": false,
   "recategorizeToType": "INDIVIDUAL",
   "recategorizeReason": "NO, the application is incorrectly categorized. Although the applicant, Justin, is part of a project (TurboETH), the bio suggests that it is an individual application, not a project one.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Smart Contract Platforms, Developer Ecosystem, Web3 Community Platform"
 }

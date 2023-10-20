@@ -49,5 +49,6 @@
   "RPGF3_Application_UID": "0x937f6473ceb903c6c9c4981ccc8194d7b6f02a90692ec6f8ee3b224fb7cb16d5",
   "applicantAddress": "0x3EF1b0db4D10d2e3cE06699C0BD4EF0aAf897614",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Governance & Tokens, User Experience & Adoption, Developer Ecosystem, Decentralized Governance"
 }

@@ -37,5 +37,6 @@
   "applicantAddress": "0xFA5CA148AC0c2B3B3860BB1148E112d70CA3C060",
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for violating rule 11 as it contains repeated phrases in the contribution and impact description and it is not in English.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Content Creation, Community Building"
 }

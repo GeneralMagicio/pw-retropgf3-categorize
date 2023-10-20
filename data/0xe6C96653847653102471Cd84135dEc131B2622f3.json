@@ -39,5 +39,6 @@
   "pwFlaggedReason": "The application should be flagged because it violates rule 11. The text in the \"contributionDescription\" and \"impactDescription\" fields are in a language other than English.",
   "recategorizeToType": "INDIVIDUAL",
   "recategorizeReason": "NO, the application should be categorized as INDIVIDUAL as the name of the applicant \"Nihat Çelikel\" is a personal name and not a project.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Category suggestions: Blockchain Infrastructure, Content Creation, Community Building, Media Production, Cryptocurrency Services"
 }

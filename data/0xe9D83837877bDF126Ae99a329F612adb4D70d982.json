@@ -39,5 +39,6 @@
   "applicantAddress": "0xe9D83837877bDF126Ae99a329F612adb4D70d982",
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for spam as it repeatedly posts the same message, \"I love this project and I desperately need it to build my future project\" without providing any clear, meaningful, or unique contributions or impacts.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Tokenization Platforms, Blockchain Infrastructure, User Experience & Adoption"
 }

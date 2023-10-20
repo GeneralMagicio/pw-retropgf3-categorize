@@ -41,5 +41,6 @@
   "RPGF3_Application_UID": "0xa97c448ca6377c5fa57fcfb2a4acf93b707164702f8cc3dc2b4ad8dfb5ecb9a8",
   "applicantAddress": "0xE9335f48cFA1f0a55E376dd306BAE6dD2f6Cdb96",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Blockchain Infrastructure, Smart Contract Platforms, Decentralized Finance (DeFi), NFT Aggregator, Wallet Management"
 }

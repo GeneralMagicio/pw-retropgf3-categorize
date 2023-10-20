@@ -36,5 +36,6 @@
   "applicantAddress": "0x12E37f963c000a807F8634aBEb7059541cDD19Ef",
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for promises of future impact, with the applicant stating that they believe they will have an impact in the future.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Community Building, Content Creation, Digital Identity, Blockchain Education"
 }

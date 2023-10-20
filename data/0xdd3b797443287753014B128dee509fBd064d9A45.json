@@ -45,5 +45,6 @@
   "pwFlaggedReason": "This application should be flagged for promising future impact through the development of a startup and introducing optimism to beginners which are future outcomes.",
   "recategorizeToType": "PROJECT",
   "recategorizeReason": "NO, it is not correctly categorized. The application mentions an \"Association of young people\" which implies a group effort, making it more suited to a PROJECT categorization.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Tokenization Platforms, Supply Chain Management, Blockchain Infrastructure, Community Building, Content Creation"
 }

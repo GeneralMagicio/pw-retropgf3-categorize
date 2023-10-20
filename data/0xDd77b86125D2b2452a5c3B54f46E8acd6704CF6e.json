@@ -39,5 +39,6 @@
   "applicantAddress": "0xDd77b86125D2b2452a5c3B54f46E8acd6704CF6e",
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged because it contains promises of future impact, which is a violation of the grant program rules.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Community Building, Governance & Tokens, Developer Ecosystem, Decentralized Finance (DeFi), Tokenization Platforms"
 }

@@ -41,5 +41,6 @@
   "RPGF3_Application_UID": "0xd094dcd58c54c1addca413ae47fc9c858093af889a40c05d9b4024b27c658d3c",
   "applicantAddress": "0x9600e2eE6377DAdad7299B120026661c336A5e6d",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Layer 2 Scaling, Decentralized Exchanges (DEXs), Smart Contract Platforms, Tokenization Platforms, Blockchain Infrastructure"
 }

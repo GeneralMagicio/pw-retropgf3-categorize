@@ -39,5 +39,6 @@
   "pwFlaggedReason": "This application should be flagged for false statements & deception. The applicant did not provide clear examples of their own contributions but rather provided a general description of the RetroPGF initiative.",
   "recategorizeToType": "PROJECT",
   "recategorizeReason": "NO. The application seems to be from a project (\"Optimism Collective\") rather than an individual.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Retroactive Public Goods Funding, Ethereum Ecosystem, Web3 Community Platform, Blockchain Infrastructure"
 }

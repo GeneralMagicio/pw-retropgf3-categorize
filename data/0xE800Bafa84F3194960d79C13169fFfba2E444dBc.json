@@ -115,5 +115,6 @@
   "RPGF3_Application_UID": "0xf16d4e5a02c22a3c903a56d614b049b5d83bf9d6705f811b1cd1f4464f5b4ed1",
   "applicantAddress": "0xE800Bafa84F3194960d79C13169fFfba2E444dBc",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Community Building, Content Creation, Education, Web3 Community Platform, Media Production"
 }

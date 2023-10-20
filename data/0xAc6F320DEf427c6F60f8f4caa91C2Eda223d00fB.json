@@ -39,5 +39,6 @@
   "applicantAddress": "0xAc6F320DEf427c6F60f8f4caa91C2Eda223d00fB",
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for making promises of future impact and contributions that are not yet made.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Content Creation, Community Building, Governance & Tokens, End-User Experience, Cryptocurrency Services"
 }

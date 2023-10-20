@@ -37,5 +37,6 @@
   "applicantAddress": "0xC255261650448b444E81432eAF76b160d8179765",
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for promising future impact which is against rule 1 of the grant program. The applicant has promised future impact in their impact description such as maintaining activity and staying up to date.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Governance & Tokens, Decentralized Finance (DeFi), User Experience & Adoption, Content Creation, Community Building"
 }

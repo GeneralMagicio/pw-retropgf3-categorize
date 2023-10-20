@@ -38,5 +38,6 @@
   "applicantAddress": "0x04D4c9c6F5984A472996402f6f61e45e8740aD6a",
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for potential violation of rule 1 and rule 10 as the applicant describes themselves as an \"airdrop hunter\" and there is no clear or valid contribution provided to the collective, just vague benefits and optimism.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Governance & Tokens"
 }

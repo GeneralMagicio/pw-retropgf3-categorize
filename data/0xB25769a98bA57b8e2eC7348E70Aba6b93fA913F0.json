@@ -55,5 +55,6 @@
   "applicantAddress": "0xB25769a98bA57b8e2eC7348E70Aba6b93fA913F0",
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for violating the rules because it is written in a language other than English.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Optimism L2, Web3 Community Platform, Developer Ecosystem, End-User Experience, Cryptocurrency Services"
 }

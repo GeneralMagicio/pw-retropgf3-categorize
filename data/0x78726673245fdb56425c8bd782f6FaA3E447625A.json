@@ -46,5 +46,6 @@
   "RPGF3_Application_UID": "0xcba0c3ad859a1c164a9a300b587abe5544cdc98e97f6a3e67fb31000e781b803",
   "applicantAddress": "0x78726673245fdb56425c8bd782f6FaA3E447625A",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Crowdfunding, Charitable Organizations, Optimism, Lending Protocols, Donations"
 }

@@ -36,5 +36,6 @@
   "RPGF3_Application_UID": "0x24b213c497cf7fc3102747e1e69167872469e6bac5dba2070ffbad0c806bde5b",
   "applicantAddress": "0x23e24CB272af14DeC82e205d70F88EfD17e86A8f",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Community Building, User Experience & Adoption, Blockchain Education, Cryptocurrency Services"
 }

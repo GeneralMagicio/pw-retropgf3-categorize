@@ -45,5 +45,6 @@
   "RPGF3_Application_UID": "0xe08ededab0d11de83c835f116725ed1edc82d96e18a82762c4f7fff7a83f4a47",
   "applicantAddress": "0x119B062BE4AD3aB595BfE1FED9323951880CCC0e",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Layer 2 Scaling, Smart Contract Platforms, Governance Tokens, Developer Ecosystem, Tokenization Platforms"
 }

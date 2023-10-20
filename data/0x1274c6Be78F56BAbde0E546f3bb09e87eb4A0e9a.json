@@ -37,5 +37,6 @@
   "applicantAddress": "0x1274c6Be78F56BAbde0E546f3bb09e87eb4A0e9a",
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged because it contains a bio and possibly other content in a language other than English, which goes against rule 11.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Community Building, Governance & Tokens, End-User Experience, Tokenization Platforms"
 }

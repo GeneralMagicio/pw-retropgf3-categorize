@@ -44,5 +44,6 @@
   "applicantAddress": "0xfaED2693Bbfd56142ba43b02606A66701De0E41E",
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for promising future impact and deliverables which is against the rule 1 of the grant program. The applicant says \"I hope this NFT will make some impact\" indicating future impact and also mentions \"next upgrade for this project is stake to earn with zkmine token,\" which is an unfulfilled promise of future deliverables.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "NFTs, Layer 2 Scaling, Community Building, Tokenization Platforms, Governance Tokens"
 }

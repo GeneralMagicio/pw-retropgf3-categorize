@@ -42,5 +42,6 @@
   "pwFlaggedReason": "Flag the application - the contribution and impact descriptions are repetitive and vague, and don't clearly highlight a valid contribution to Optimism technology.",
   "recategorizeToType": "INDIVIDUAL",
   "recategorizeReason": "NO, it should be categorized as \"INDIVIDUAL\", because it repeatedly uses first person reference such as \"For me\" in the description.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Web3 Community Platform, Environmental Solutions"
 }

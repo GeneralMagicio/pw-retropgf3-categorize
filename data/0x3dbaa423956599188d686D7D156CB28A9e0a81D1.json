@@ -45,5 +45,6 @@
   "applicantAddress": "0x3dbaa423956599188d686D7D156CB28A9e0a81D1",
   "pwIsFlagged": true,
   "pwFlaggedReason": "Flagged for violation of rule 1 - The application makes promises of future impact with the statement \"hopefully it can be a promising project when mainnet arrives.\"",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Blockchain Infrastructure"
 }

@@ -72,5 +72,6 @@
   "RPGF3_Application_UID": "0x1e744865000a67c4a9a64602582994f193109f115effadf6f51f90ec2d18aadb",
   "applicantAddress": "0x2D85f8682F3dbAe9c65dB9E7ba239E4dE733D8d1",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Blockchain Education, Non-Fungible Tokens (NFTs), Web3 Community Platform, Digital Identity, Content Creation"
 }

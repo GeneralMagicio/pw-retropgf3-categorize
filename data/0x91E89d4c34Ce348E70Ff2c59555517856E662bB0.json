@@ -52,5 +52,6 @@
   "RPGF3_Application_UID": "0xb396a17448c7a2eb8a22f2982ac8bd4e51acb1bca4b5e58bed38aa8df066db0f",
   "applicantAddress": "0x91E89d4c34Ce348E70Ff2c59555517856E662bB0",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Smart Contract Security Tools"
 }

@@ -38,5 +38,6 @@
   "applicantAddress": "0xEEc8Ee9D58718b4373dC8F2470d95A5A828EDdad",
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for promising future impact and impact metrics do not indicate any measurable past contributions.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Tokenization Platforms, Blockchain Infrastructure, Decentralized Finance (DeFi), User Experience & Adoption, Cryptocurrency Services"
 }

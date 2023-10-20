@@ -47,5 +47,6 @@
   "applicantAddress": "0x6cb0Ba1D0D5B9f4AD34D04910Ff82C1E1870d9Bd",
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for violating rule 1: Promises of future impact - promises of future deliverables or impact are not allowed. The applicant's contribution and impact descriptions only express a desire for participating and hopes for the future, but do not detail any actual past contributions or impact.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), User Experience & Adoption, Community Building, Content Creation, Tokenization Platforms"
 }

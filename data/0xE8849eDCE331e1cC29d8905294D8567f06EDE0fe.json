@@ -44,5 +44,6 @@
   "applicantAddress": "0xE8849eDCE331e1cC29d8905294D8567f06EDE0fe",
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged because the applicant does not provide any evidence of past impact or contribution to the Web3/blockchain space, which is a requirement.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Content Creation, Community Building, Governance & Tokens"
 }

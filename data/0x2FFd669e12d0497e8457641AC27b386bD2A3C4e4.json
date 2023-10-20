@@ -35,5 +35,6 @@
   "RPGF3_Application_UID": "0x29e9c64bc59a5218825d47fc58128134181f507186ff6dafb1b420ca04c3645c",
   "applicantAddress": "0x2FFd669e12d0497e8457641AC27b386bD2A3C4e4",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Layer 2 Scaling, Developer Ecosystem, Content Creation, Community Building"
 }

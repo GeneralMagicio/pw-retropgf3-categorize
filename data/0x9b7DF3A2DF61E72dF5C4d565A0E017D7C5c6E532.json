@@ -53,5 +53,6 @@
   "RPGF3_Application_UID": "0x71e4915fe3b20feeb949e572cfa4204ab8e0a62ae385a0cbb8474071fb86eb80",
   "applicantAddress": "0x9b7DF3A2DF61E72dF5C4d565A0E017D7C5c6E532",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Layer 2 Scaling, Smart Contract Platforms"
 }

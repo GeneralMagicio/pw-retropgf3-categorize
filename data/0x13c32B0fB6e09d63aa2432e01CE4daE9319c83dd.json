@@ -36,5 +36,6 @@
   "RPGF3_Application_UID": "0xbf51857d49f36849f119c67f372f843230b139700e141278c7265f0668761264",
   "applicantAddress": "0x13c32B0fB6e09d63aa2432e01CE4daE9319c83dd",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "End-User Experience, Education, Blockchain Infrastructure, Social Media"
 }

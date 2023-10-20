@@ -48,5 +48,6 @@
   "RPGF3_Application_UID": "0xe335a5fbf54f168e20655053d3d3da7d7a04bdbbfa9d0cb419e514087f314db6",
   "applicantAddress": "0x2CbC7aeBfaf07f6Ba1E2B40032228d0b0B919f8F",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Content Creation, Smart Contract Platforms, Blockchain Education, Developer Ecosystem, User Experience & Adoption"
 }

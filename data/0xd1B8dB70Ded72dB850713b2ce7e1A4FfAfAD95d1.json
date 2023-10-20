@@ -89,5 +89,6 @@
   "RPGF3_Application_UID": "0xd2388e27bb149f01f2a6ff7687a75422f91dde23920ed7c103ff01613f90d3d3",
   "applicantAddress": "0xd1B8dB70Ded72dB850713b2ce7e1A4FfAfAD95d1",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Community Building, Governance & Tokens, User Experience & Adoption, Web3 Community Platform, Decentralized Identity"
 }

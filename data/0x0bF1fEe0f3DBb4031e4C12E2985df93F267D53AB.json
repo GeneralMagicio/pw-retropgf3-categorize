@@ -44,5 +44,6 @@
   "applicantAddress": "0x0bF1fEe0f3DBb4031e4C12E2985df93F267D53AB",
   "pwIsFlagged": true,
   "pwFlaggedReason": "Flagged for irrelevant contribution links and lack of clear contribution, as well as an insignificant bio.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Community Building"
 }

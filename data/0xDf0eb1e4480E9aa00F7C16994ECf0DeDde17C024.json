@@ -43,5 +43,6 @@
   "RPGF3_Application_UID": "0x723a82141db5b6f69030c4a9a4a11ce58fb41a268d6ba3f343f7c1f6404262e8",
   "applicantAddress": "0xDf0eb1e4480E9aa00F7C16994ECf0DeDde17C024",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Blockchain Education, Community Building, End-User Experience, Web3 Community Platform"
 }

@@ -49,5 +49,7 @@
   "pwFlaggedReason": "This application should be flagged for violating grant program rule 1 and rule 2. The applicant's impact description is filled with promises of future impact which is not allowed, and the application does not provide verifiable details related to actual contributions or impacts made in the past, this could be seen as false statements & deception.",
   "Applicant Type": "INDIVIDUAL",
   "recategorizeReason": "NO, the application should be categorized as an INDIVIDUAL, as the narrative and framing of the contribution and impact descriptions use personal pronouns like \"I\" indicating it is an individual rather than a project.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Blockchain Infrastructure, Community Building, Governance Tokens, End-User Experience, Cryptocurrency Services",
+  "pwCategory": "Optimism Ambassador"
 }

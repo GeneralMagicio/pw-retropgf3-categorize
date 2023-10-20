@@ -36,5 +36,6 @@
   "applicantAddress": "0xB8c56B18753afeB92810603852Ed5EdEe50404e1",
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged because there are no clear and specific contributions to the Web3 or blockchain space as required by the grant program rules.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Blockchain Education, Community Building, Content Creation"
 }

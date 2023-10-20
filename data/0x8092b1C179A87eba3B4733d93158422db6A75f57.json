@@ -52,5 +52,6 @@
   "applicantAddress": "0x8092b1C179A87eba3B4733d93158422db6A75f57",
   "pwIsFlagged": true,
   "pwFlaggedReason": "Flag the application. The impact described is too general and contains promises of future impact which are against the grant program rules.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Non-Fungible Tokens (NFTs), Layer 2 Scaling, Smart Contract Platforms, Community Building"
 }

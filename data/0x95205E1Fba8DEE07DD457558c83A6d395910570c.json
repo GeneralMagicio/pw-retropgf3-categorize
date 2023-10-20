@@ -81,5 +81,6 @@
   "pwFlaggedReason": "Flagged for promises of future impact - the applicant claims that their 'greatest impact is coming as this project finds greater traction' which is in violation of rule 1.",
   "recategorizeToType": "INDIVIDUAL",
   "recategorizeReason": "NO, it is not correctly categorized. This application includes too many personal pronouns (\"I\", \"me\") which suggest it is from an individual, not a project.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "NFT Marketplace, Staking Platform, Multi-Chain Project, Community Building, Enthusiast"
 }

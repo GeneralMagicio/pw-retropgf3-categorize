@@ -46,5 +46,6 @@
   "applicantAddress": "0xfe1D07F523ED7A45417Ec38bD78515828956c8AE",
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for using a language other than English, as mentioned in the description and impactDescription fields.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Smart Contract Platforms, Layer 2 Scaling, User Experience & Adoption, Governance & Tokens, Developer Ecosystem."
 }

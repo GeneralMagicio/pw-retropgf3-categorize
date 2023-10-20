@@ -42,5 +42,6 @@
   "RPGF3_Application_UID": "0xc7250199ce808d8825b8781a546c6944338ee82505570d0e33d7505d341a04bd",
   "applicantAddress": "0xdbE38D1d3631a04875d3FAd945D0dFcb2C20f91c",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Blockchain Infrastructure, Developer Ecosystem, Web3 Community Platform, User Experience & Adoption, Content Creation"
 }

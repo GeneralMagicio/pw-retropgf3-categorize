@@ -36,5 +36,6 @@
   "RPGF3_Application_UID": "0x325bccfcb0ceacb4ecb809e67bebeba4209314c3d87b2d9c8003617c0e6b5545",
   "applicantAddress": "0xef4c8055bFa5b4476deFc1051850698463B9f8A1",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Trading Tools, User Experience & Adoption"
 }

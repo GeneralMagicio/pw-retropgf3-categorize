@@ -76,5 +76,6 @@
   "applicantAddress": "0x1827741B58403F031A9D65E3AA628f9E9564a5A6",
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for violating the first rule of the grants program, which states that promises of future deliverables or impact are not allowed. The applicant promises to bring a significant number of people to the Optimism network and estimates a particular number of new wallets when new DApps are launched.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Content Creation, Community Building, User Experience & Adoption, Developer Ecosystem, End-User Experience"
 }

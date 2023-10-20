@@ -39,5 +39,6 @@
   "pwFlaggedReason": "This application should be flagged for Spam and False statements & deception as it provides irrelevant and repeated placeholder text in place of actual descriptions of their contributions and impact in the Web3/blockchain space.",
   "recategorizeToType": "INDIVIDUAL",
   "recategorizeReason": "NO. This application is flagged as spam and contains repeated placeholder text rather than any specific details indicating it's a project.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Smart Contract Platforms"
 }

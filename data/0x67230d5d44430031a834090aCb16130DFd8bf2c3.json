@@ -45,5 +45,6 @@
   "applicantAddress": "0x67230d5d44430031a834090aCb16130DFd8bf2c3",
   "pwIsFlagged": true,
   "pwFlaggedReason": "Flagged: The application promises future deliverables such as submitting suggestions to the advertising team and promoting Optimism, which is against grant program rule 1.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Smart Contract Platforms, Governance & Tokens, End-User Experience"
 }

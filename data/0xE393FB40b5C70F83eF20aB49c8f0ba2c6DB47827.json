@@ -36,5 +36,6 @@
   "RPGF3_Application_UID": "0xd179a95e5c7ec855d28c0bfe607b9beb73ba00c6c5bf7e97c265750ee8bb68c0",
   "applicantAddress": "0xE393FB40b5C70F83eF20aB49c8f0ba2c6DB47827",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Governance & Tokens, Layer 2 Scaling, Community Building, Smart Contract Platforms, User Experience & Adoption"
 }

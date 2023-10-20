@@ -49,5 +49,6 @@
   "pwFlaggedReason": "This application should be flagged for violating rule 6, as it seems to be promoting and selling the Early Bird Campaign and the $NYM prize pool.",
   "recategorizeToType": "INDIVIDUAL",
   "recategorizeReason": "NO, the application is talking in the first person (\"i am\"), indicating it's likely an individual, not a project.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Decentralized Identity, Privacy Coins"
 }

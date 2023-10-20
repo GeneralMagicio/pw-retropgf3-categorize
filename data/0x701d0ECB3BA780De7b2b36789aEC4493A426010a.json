@@ -46,5 +46,6 @@
   "RPGF3_Application_UID": "0x4800596e90de0ee85ce24f696d32402d87a406040889df8281221dee58a3698e",
   "applicantAddress": "0x701d0ECB3BA780De7b2b36789aEC4493A426010a",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Community Building, Digital Communication, Web3 Integration"
 }

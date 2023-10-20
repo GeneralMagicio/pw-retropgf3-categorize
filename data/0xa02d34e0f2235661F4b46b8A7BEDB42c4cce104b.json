@@ -56,5 +56,6 @@
   "RPGF3_Application_UID": "0x023156eb54bfb224875c849f104b21b599aa301262ed6ec425751a5429660693",
   "applicantAddress": "0xa02d34e0f2235661F4b46b8A7BEDB42c4cce104b",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Governance & Tokens, Developer Ecosystem, Early Adoption & Advocacy, Web3 Community Platform, Smart Contract Platforms"
 }

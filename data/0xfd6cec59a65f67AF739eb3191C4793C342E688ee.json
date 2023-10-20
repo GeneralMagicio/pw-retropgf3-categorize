@@ -44,5 +44,6 @@
   "applicantAddress": "0xfd6cec59a65f67AF739eb3191C4793C342E688ee",
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for promising future impact (\"i wish in the future i can get more airdrop from optimism and i wish optimism become number one crypto in the world\"), which violates Rule 1 of the grant program.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Tokenization Platforms, Blockchain Infrastructure, Decentralized Finance (DeFi), End-User Experience, Cryptocurrency Services"
 }

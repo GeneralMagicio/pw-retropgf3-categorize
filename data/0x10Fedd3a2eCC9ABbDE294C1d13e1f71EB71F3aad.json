@@ -36,5 +36,6 @@
   "RPGF3_Application_UID": "0xcbc2393ccac0b6b880d588cf670842bbfe83e000256a14bc9f3305e4b6c87cc9",
   "applicantAddress": "0x10Fedd3a2eCC9ABbDE294C1d13e1f71EB71F3aad",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Web3 Community Platform, Layer 2 Scaling, Decentralized Finance (DeFi), Non-Fungible Tokens (NFTs), Community Building"
 }

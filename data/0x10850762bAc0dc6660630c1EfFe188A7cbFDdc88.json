@@ -89,5 +89,6 @@
   "RPGF3_Application_UID": "0xd227bad1198d45803505d562482b21f683b14208a59ceb8a463f03db5e46c926",
   "applicantAddress": "0x10850762bAc0dc6660630c1EfFe188A7cbFDdc88",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "NFTs, Content Creation, Community Building, Media Production, Cryptocurrency Services"
 }

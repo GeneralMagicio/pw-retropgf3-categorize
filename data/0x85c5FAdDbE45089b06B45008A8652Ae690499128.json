@@ -47,5 +47,6 @@
   "pwFlaggedReason": "This application should be flagged for promising future deliverables or impact. The contribution description includes a sentence saying \"I will pay 1m...\", which trickles down to a promise of a future deliverable.",
   "recategorizeToType": "PROJECT",
   "recategorizeReason": "NO, the application is categorized as an individual but it seems to be a project based on website URL, funding sources, and impact metrics, also it does not contain personal pronouns like \"I\" or \"me\".",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Blockchain Infrastructure"
 }

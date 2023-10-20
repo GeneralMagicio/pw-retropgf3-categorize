@@ -59,5 +59,6 @@
   "RPGF3_Application_UID": "0x3f3be3996262f122877efc7d90672555eaf42a3d6cf6de7839a0282626aaa55f",
   "applicantAddress": "0x156Bfd9395371F29489FaD5EDF29269b72908F68",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Decentralized Science, Coral Reef Conservation, Optimism L2, Environmental Stewardship, Quadratic Funding"
 }

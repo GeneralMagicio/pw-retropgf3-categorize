@@ -39,5 +39,6 @@
   "applicantAddress": "0xe94ECbe410Dc32E8753347ef7DaDF2103811cF74",
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for promises of future impact and false statements & deception, as the applicant does not provide a clear previous contribution and instead focuses on what they hope to achieve or receive.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Content Creation, Community Building, User Experience & Adoption, Governance & Tokens"
 }

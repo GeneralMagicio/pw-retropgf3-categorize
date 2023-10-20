@@ -42,5 +42,6 @@
   "pwIsFlagged": false,
   "recategorizeToType": "PROJECT",
   "recategorizeReason": "NO, the application should be categorized as \"PROJECT\" because it refers to \"anotherworld\" which is a Chinese-style PFP NFT project on Optimism.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "NFTs, Chinese Elements, Cryptocurrency Adoption, Cultural Art, Ancient World"
 }

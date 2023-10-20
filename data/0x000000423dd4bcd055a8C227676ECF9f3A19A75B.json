@@ -37,5 +37,6 @@
   "RPGF3_Application_UID": "0x6f87ecd7bbc807ad0d32d330bd26f3da091a4766dc85f6e838350b81128d5d87",
   "applicantAddress": "0x000000423dd4bcd055a8C227676ECF9f3A19A75B",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Tokenization Platforms, Alpha Testing, Decentralized Finance (DeFi)"
 }

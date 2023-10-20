@@ -42,5 +42,6 @@
   "RPGF3_Application_UID": "0x5226b1f6b528a910bd6cb6c82d58756f4783d81f45df5c697da441aaffb9213d",
   "applicantAddress": "0xB221238e2aEC0A76C87076F72Aced53D0E6d453C",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Blockchain Gaming, NFTs, Tokenization Platforms, User Experience & Adoption, Community Building"
 }

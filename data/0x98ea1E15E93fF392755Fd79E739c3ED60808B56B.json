@@ -66,5 +66,6 @@
   "RPGF3_Application_UID": "0xfd039c82990da0bed2f74f106936835555b458adc3c45e7eb7caef7ed6b4e778",
   "applicantAddress": "0x98ea1E15E93fF392755Fd79E739c3ED60808B56B",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Smart Contract Platforms, Blockchain Infrastructure, Developer Ecosystem, Ethereum Ecosystem, Rust Ethereum ecosystem"
 }

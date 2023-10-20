@@ -123,5 +123,6 @@
   "RPGF3_Application_UID": "0x1ecdeab23aea56e92ee2161bc0af97565d6b6d666e46fc3c1db106708ed50d97",
   "applicantAddress": "0xf503017D7baF7FBC0fff7492b751025c6A78179b",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Blockchain Infrastructure, Web3 Community Platform, Decentralized Finance (DeFi), User Experience & Adoption, Developer Ecosystem"
 }

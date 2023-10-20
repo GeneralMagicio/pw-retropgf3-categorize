@@ -37,5 +37,6 @@
   "applicantAddress": "0x2238ac9055150e268662D2398c4B671d386Db0d7",
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for spam as the descriptions and impact metrics provided are repetitive and do not accurately detail the project's contribution to the Web3/blockchain space.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Blockchain Infrastructure"
 }

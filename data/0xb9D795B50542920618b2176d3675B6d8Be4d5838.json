@@ -35,5 +35,6 @@
   "applicantAddress": "0xb9D795B50542920618b2176d3675B6d8Be4d5838",
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged because it contains repetitive content and does not provide valid contribution details, which may indicate it's spam, and therefore violate Rule 11.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Developer Ecosystem, Smart Contract Platforms, Blockchain Infrastructure, Web3 Community Platform, Cryptocurrency Services"
 }

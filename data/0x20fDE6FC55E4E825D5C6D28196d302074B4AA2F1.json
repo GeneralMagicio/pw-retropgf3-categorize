@@ -46,5 +46,6 @@
   "applicantAddress": "0x20fDE6FC55E4E825D5C6D28196d302074B4AA2F1",
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for providing vague statements about contributions made. It lacks specific details and measurable impact metrics.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Web3 Community Platform"
 }

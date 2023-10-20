@@ -42,5 +42,6 @@
   "RPGF3_Application_UID": "0x8acaa7799abc028554f23692d097e616e8132060b8066da5f8ed167125b66946",
   "applicantAddress": "0x067cc134C7439F9be72443c8a52C87021cd744fB",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Smart Contract Platforms, Decentralized Exchanges (DEXs), User Experience & Adoption, End-User Experience, Community Building"
 }

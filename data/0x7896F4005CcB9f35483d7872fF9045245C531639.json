@@ -39,5 +39,6 @@
   "applicantAddress": "0x7896F4005CcB9f35483d7872fF9045245C531639",
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for violating the rule against non-English applications and possibly for spam/irrelevancy given the untranslated Vietnamese content and questionable impact metrics.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Content Creation, Community Building, User Experience & Adoption, Developer Ecosystem, Cryptocurrency Services"
 }

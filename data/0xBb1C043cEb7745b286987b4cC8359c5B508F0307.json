@@ -51,5 +51,6 @@
   "RPGF3_Application_UID": "0x1d760b52bc3b6c68b367deac9ba5c07c7d92bb5ff78cd7ddfc8202924bce639d",
   "applicantAddress": "0xBb1C043cEb7745b286987b4cC8359c5B508F0307",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Content Creation, NFT Aggregator, Trading Tools, Web3 Community Platform, Cryptocurrency Services"
 }

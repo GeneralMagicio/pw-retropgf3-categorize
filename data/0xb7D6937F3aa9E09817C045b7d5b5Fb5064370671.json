@@ -57,5 +57,6 @@
   "RPGF3_Application_UID": "0x636f0588d00d8acbd55654d77b26a181ed68a05bd54aba8deec94344669be7d6",
   "applicantAddress": "0xb7D6937F3aa9E09817C045b7d5b5Fb5064370671",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Non-Fungible Tokens (NFTs), Smart Contract Platforms, User Experience & Adoption, Wallet Management"
 }

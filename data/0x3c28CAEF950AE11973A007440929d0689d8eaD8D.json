@@ -43,5 +43,6 @@
   "applicantAddress": "0x3c28CAEF950AE11973A007440929d0689d8eaD8D",
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged because it contains promises of future impact which violates rule 1 of the grant program rules.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Retroactive Public Goods Funding"
 }

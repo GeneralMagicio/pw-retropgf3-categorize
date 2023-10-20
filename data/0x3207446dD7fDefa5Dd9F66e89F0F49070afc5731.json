@@ -49,5 +49,6 @@
   "pwFlaggedReason": "This application should be flagged for false statements and deception as the contribution links are incoherent and the provided website URL does not directly relate to the applicant's contribution to the Web3/blockchain space.",
   "recategorizeToType": "INDIVIDUAL",
   "recategorizeReason": "NO, this application is incorrectly categorized because the applicant frequently refers to themselves as \"I\" or \"me\", indicating that this application is from an individual, not a project.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Web3 Community Platform"
 }

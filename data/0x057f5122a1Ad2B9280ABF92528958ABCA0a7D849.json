@@ -44,5 +44,6 @@
   "applicantAddress": "0x057f5122a1Ad2B9280ABF92528958ABCA0a7D849",
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for being outside of RetroPGF's scope as user interactions like the transactions mentioned are not considered valid contributions.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Smart Contract Platforms, User Experience & Adoption, NFT Aggregator, Tokenization Platforms"
 }

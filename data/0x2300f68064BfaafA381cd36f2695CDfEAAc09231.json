@@ -54,5 +54,6 @@
   "RPGF3_Application_UID": "0x597fa825bc07f4733e7159d2fe2ad102a57d478bb192c1fa544dba76dc90ee2c",
   "applicantAddress": "0x2300f68064BfaafA381cd36f2695CDfEAAc09231",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Smart Contract Platforms, NFTs, Layer 2 Scaling, Tokenization Platforms, Blockchain Infrastructure"
 }

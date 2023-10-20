@@ -36,5 +36,6 @@
   "RPGF3_Application_UID": "0x39bd021f3a6dc1910f3fcc2a6aaab06f545b93277498a283542f4d3c62db7008",
   "applicantAddress": "0xE4369BE6dF50Aa406DB8212Ae00CF81917C848ea",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Layer 2 Scaling, Testnet Participation, Protocol Interaction, Community Building, Scalability Testing"
 }

@@ -39,5 +39,6 @@
   "applicantAddress": "0x95478Afa758A5693344506bEA10dD7cA95819dB5",
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged as it promises future impact and deliverables, which is a violation of the first rule of the grant program.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Developer Ecosystem, Community Building, Education, Layer 2 Scaling, Optimism Chain"
 }

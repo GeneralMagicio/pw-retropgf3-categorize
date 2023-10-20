@@ -37,5 +37,6 @@
   "pwIsFlagged": false,
   "recategorizeToType": "INDIVIDUAL",
   "recategorizeReason": "NO, the application category is incorrect. The usage of first-person pronouns like \"I\" and \"my\" in the bio and contribution description suggests that the applicant is an individual, not a project.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Photography, NFTs, Community Building, Blockchain Skills, Early Adopter"
 }

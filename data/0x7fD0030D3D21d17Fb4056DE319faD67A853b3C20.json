@@ -52,5 +52,6 @@
   "RPGF3_Application_UID": "0x4a55121a4d6e6e6f70a7a117793940ad6709c14e6339e2b0906315677e4dacf1",
   "applicantAddress": "0x7fD0030D3D21d17Fb4056DE319faD67A853b3C20",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Hardware Wallets, User Experience & Adoption, Smart Contract Platforms, Blockchain Infrastructure, Decentralized Finance (DeFi)"
 }

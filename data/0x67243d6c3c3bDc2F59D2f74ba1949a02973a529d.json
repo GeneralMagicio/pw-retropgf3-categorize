@@ -106,5 +106,6 @@
   "RPGF3_Application_UID": "0x243299d981be04f31e310b35c53b842cb2d875a1eccc273d9f752fab0bb0dfcb",
   "applicantAddress": "0x67243d6c3c3bDc2F59D2f74ba1949a02973a529d",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Decentralized Governance, Web3 Community Platform, DAO Management, Cross-Community Collaboration, Education"
 }

@@ -49,5 +49,6 @@
   "pwFlaggedReason": "This application should be flagged for promising future impact, violating rule 1 of the grant program. In the contribution description, applicant stated, \"I plan on contributing in any way and support you guys fully.\"",
   "recategorizeToType": "INDIVIDUAL",
   "recategorizeReason": "NO, the application is not correctly categorized. Despite being categorized as a \"PROJECT\", the application speaks from the \"I\" perspective, indicating it should be categorized as an \"INDIVIDUAL\".",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Content Creation, Community Building, User Experience & Adoption, Media Production, Cryptocurrency Services"
 }

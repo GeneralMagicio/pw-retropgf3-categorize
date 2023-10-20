@@ -43,5 +43,6 @@
   "RPGF3_Application_UID": "0xcba3c2a89a5959a8836aeeb5d8df55a00add5b0a4720f78ddea912e17fd0e6e9",
   "applicantAddress": "0x1AD1FB392D55B79cce738ec77E08D9301A4258cd",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Non-Fungible Tokens (NFTs), Blockchain Education, User Experience & Adoption, Community Building"
 }

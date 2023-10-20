@@ -46,5 +46,6 @@
   "applicantAddress": "0x9300583051cE99b0E7DC9baFe76b3c508750e944",
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged because it violates the rule against promises of future impact as the applicant has stated that their project is still in the development and testing stage, implying future deliverables.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Blockchain Gaming, NFTs, Funding, Web3 Community Platform, Tokenization Platforms"
 }

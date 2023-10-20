@@ -49,5 +49,6 @@
   "pwFlaggedReason": "The application should be flagged for spam because it contains repetitive and irrelevant sentences in the sections for \"contributionDescription\" and \"impactDescription\".",
   "recategorizeToType": "PROJECT",
   "recategorizeReason": "NO, the application should be categorized as \"PROJECT\" as it talks about a professional and experienced team making and implementing a project and there is no mention of \"I\" or \"me\" to indicate an individual.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Tokenization Platforms, Blockchain Infrastructure, Decentralized Finance (DeFi), Developer Ecosystem, Governance & Tokens"
 }

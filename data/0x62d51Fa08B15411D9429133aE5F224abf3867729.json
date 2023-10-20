@@ -69,5 +69,6 @@
   "RPGF3_Application_UID": "0xcb95bf0f687efba8a3c2b3735c90318b154f255e1ea711829aaa4910a731c3db",
   "applicantAddress": "0x62d51Fa08B15411D9429133aE5F224abf3867729",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Stablecoins, Content Creation, User Experience & Adoption, Media Production"
 }

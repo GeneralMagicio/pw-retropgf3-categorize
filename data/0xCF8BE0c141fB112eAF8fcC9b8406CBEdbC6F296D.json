@@ -46,5 +46,6 @@
   "pwFlaggedReason": "The application should be flagged for promising future deliverables or impact, which is against the grant program rules.",
   "recategorizeToType": "PROJECT",
   "recategorizeReason": "NO, the application is categorized as an INDIVIDUAL but should be categorized as a PROJECT as the applicant talks about creating a metaverse project.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Metaverse, NFTs, Gamehub, Tokenization Platforms, Developer Ecosystem"
 }

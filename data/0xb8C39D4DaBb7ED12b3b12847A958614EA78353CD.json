@@ -55,5 +55,6 @@
   "applicantAddress": "0xb8C39D4DaBb7ED12b3b12847A958614EA78353CD",
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged because it is in a language other than English.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "NFTs, Smart Contract Platforms, Blockchain Infrastructure"
 }

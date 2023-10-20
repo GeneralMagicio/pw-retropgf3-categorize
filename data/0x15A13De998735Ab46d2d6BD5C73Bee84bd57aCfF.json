@@ -36,5 +36,6 @@
   "RPGF3_Application_UID": "0x91185f543bc464bae440e857273be6d2e77efed8e8d262084e6c016d83878621",
   "applicantAddress": "0x15A13De998735Ab46d2d6BD5C73Bee84bd57aCfF",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Tokenization Platforms, Decentralized Finance (DeFi), Layer 2 Scaling, Smart Contract Platforms, Community Building"
 }

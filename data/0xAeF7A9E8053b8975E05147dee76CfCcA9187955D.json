@@ -44,5 +44,6 @@
   "applicantAddress": "0xAeF7A9E8053b8975E05147dee76CfCcA9187955D",
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged because the individual is promising future impact, which is against the rules of the grant program.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Blockchain Infrastructure"
 }

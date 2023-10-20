@@ -38,5 +38,6 @@
   "applicantAddress": "0x0d148287beFe306d11c6dA1aa664f5692C9b1273",
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for spam as the contribution and impact descriptions are repeated multiple times without clearly describing any valid contributions to the space.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Community Building"
 }

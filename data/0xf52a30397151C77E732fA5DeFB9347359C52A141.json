@@ -96,5 +96,6 @@
   "RPGF3_Application_UID": "0x877274b9531669039d60b16f0bb436f30720126fd2c1d4a76d20558a5130a4c4",
   "applicantAddress": "0xf52a30397151C77E732fA5DeFB9347359C52A141",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Blockchain Education, Layer 2 Scaling"
 }

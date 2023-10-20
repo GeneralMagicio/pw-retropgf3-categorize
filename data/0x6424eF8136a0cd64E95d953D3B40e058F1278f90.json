@@ -37,5 +37,6 @@
   "applicantAddress": "0x6424eF8136a0cd64E95d953D3B40e058F1278f90",
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for promising future impact and for not having made any contributions yet.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Community Building, User Experience & Adoption, Blockchain Gaming, Content Creation"
 }

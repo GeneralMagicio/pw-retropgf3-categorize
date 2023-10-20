@@ -43,5 +43,6 @@
   "RPGF3_Application_UID": "0xca1b1b89ca509130a9d710edc317a80878be71dae686786d5b6956653db342ef",
   "applicantAddress": "0x3a94e60a1a9d7A53765Ceb7dc73880BDB48eE4d0",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Blockchain Education, Layer 2 Scaling, Decentralized Finance (DeFi), Governance & Tokens, Community Building"
 }

@@ -40,5 +40,6 @@
   "RPGF3_Application_UID": "0xd28e879c019aacabe65c062601000f9925e2f9686c8a6485d92d753132ba723b",
   "applicantAddress": "0x34Eb88EAD486A09CAcD8DaBe013682Dc5F1DC41D",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Smart Contract Analysis, Developer Tools, Security, Open-source"
 }

@@ -53,5 +53,6 @@
   "RPGF3_Application_UID": "0x6daec4e672f3f2cb019340ad474b2859b4c91f50dfa1fa062943ea5b866df01d",
   "applicantAddress": "0x96A4715280c3Dac3F3093d51aA278aA5eb60ffDE",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Developer Ecosystem, Smart Contract Platforms, User Experience & Adoption, Content Creation, Decentralized Applications (DApps)"
 }

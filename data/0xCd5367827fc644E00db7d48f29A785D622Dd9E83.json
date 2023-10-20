@@ -43,5 +43,6 @@
   "applicantAddress": "0xCd5367827fc644E00db7d48f29A785D622Dd9E83",
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for violating the grant rules with promises of future impact, as indicated by the statement \"I want to make optimism familiar and easy use for people around the world. And also can be use to passive income.\"",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Layer 2 Scaling, Smart Contract Platforms, Developer Ecosystem, User Experience & Adoption"
 }

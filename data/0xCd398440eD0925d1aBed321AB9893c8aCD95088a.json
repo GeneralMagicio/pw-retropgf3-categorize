@@ -37,5 +37,6 @@
   "applicantAddress": "0xCd398440eD0925d1aBed321AB9893c8aCD95088a",
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged because the contribution description and impact description contain nothing but repeated instances of the user's handle, which constitutes spam according to rule 11.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Developer Ecosystem, User Experience & Adoption, Web3 Community Platform"
 }

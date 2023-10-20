@@ -39,5 +39,6 @@
   "applicantAddress": "0xcb5347d918a89537Da19058291d9b9A597053E68",
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for violating rule 1: \"Promises of future impact - promises of future deliverables or impact are not allowed.\" The applicant promises being more active and doing good work in the future without providing any evidence of past or current contributions.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Community Building, Governance & Tokens, Developer Ecosystem, End-User Experience"
 }

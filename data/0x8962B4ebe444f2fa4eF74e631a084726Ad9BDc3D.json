@@ -41,5 +41,6 @@
   "RPGF3_Application_UID": "0x21a3da365a629f3d317292d835c6ecc1e513ee1caca3c24237a349ec707c97d7",
   "applicantAddress": "0x8962B4ebe444f2fa4eF74e631a084726Ad9BDc3D",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Content Creation, Marketing Services, Web3 Community Platform, User Experience & Adoption, Creative Direction"
 }

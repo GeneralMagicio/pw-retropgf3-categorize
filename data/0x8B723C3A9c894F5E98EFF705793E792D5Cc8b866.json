@@ -47,5 +47,6 @@
   "applicantAddress": "0x8B723C3A9c894F5E98EFF705793E792D5Cc8b866",
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for violation of rule 10 - it does not provide a clear contribution or demonstrate measurable impact.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Content Creation, User Experience & Adoption, Developer Ecosystem, Wallet Management"
 }

@@ -49,5 +49,6 @@
   "applicantAddress": "0x47fac95efEF39c7cE44E9870cede1894666dF166",
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for violating rule 1 which states that promises of future deliverables or impact are not allowed. The applicant promises to continue using the Optimism platform to mint musics and contribute to potential artists.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Non-Fungible Tokens (NFTs), Layer 2 Scaling, Smart Contract Platforms, Community Building"
 }

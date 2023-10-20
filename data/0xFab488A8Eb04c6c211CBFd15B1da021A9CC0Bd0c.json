@@ -58,5 +58,6 @@
   "RPGF3_Application_UID": "0xef2ca4e31c3116f3bc99105c6c10d5bfc7ecfd73b79dde360ea76340c893b105",
   "applicantAddress": "0xFab488A8Eb04c6c211CBFd15B1da021A9CC0Bd0c",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Content Creation, Developer Ecosystem, Smart Contract Platforms, Blockchain Education, Decentralized Finance (DeFi)"
 }

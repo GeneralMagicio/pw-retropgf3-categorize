@@ -42,5 +42,6 @@
   "RPGF3_Application_UID": "0x1f51e7d5fc5febf03e5675b226c9cefad845ab1636a16c661bc145c8dd6d4741",
   "applicantAddress": "0xBb1B620196f8431da5D34F1773127A523359F307",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Blockchain Infrastructure, Smart Contract Platforms, Content Creation, Community Building, Governance & Tokens"
 }

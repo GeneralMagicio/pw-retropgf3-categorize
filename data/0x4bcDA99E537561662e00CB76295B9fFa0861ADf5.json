@@ -35,5 +35,6 @@
   "RPGF3_Application_UID": "0x85e98d8efde5350c4a923096a08e9765c966eda1a7e1552e49e8e74a30a2f6ea",
   "applicantAddress": "0x4bcDA99E537561662e00CB76295B9fFa0861ADf5",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Open-Source Tools, Educational Content, Community Building, Technical Contributions, Improved User Experience"
 }

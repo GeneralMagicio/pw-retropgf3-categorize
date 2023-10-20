@@ -39,5 +39,6 @@
   "pwFlaggedReason": "This application should be flagged for violating the rules of the grant program: promises of future impact are not allowed, yet the applicant mentions future plans for creating content and collaborating with other ambassadors.",
   "recategorizeToType": "PROJECT",
   "recategorizeReason": "NO, the application is incorrectly categorized as an \"INDIVIDUAL\" while it should be categorized as a \"PROJECT\" because \"CoinRuay\" refers to a blockchain club, not an individual.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Content Creation, Community Building, Blockchain Education"
 }

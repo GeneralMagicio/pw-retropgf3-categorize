@@ -36,5 +36,6 @@
   "RPGF3_Application_UID": "0xaf99ac74cb96f09428869e4a9b6b9caf19468fde871deb3e33f4ee639e64c93c",
   "applicantAddress": "0x12A39f59878bD5740a7623B88ab86aB9a6432843",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Cross-Chain Platforms, Web3 Community Platform, Smart Contract Platforms, Tokenization Platforms, End-User Experience"
 }

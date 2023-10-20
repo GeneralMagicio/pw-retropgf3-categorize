@@ -42,5 +42,6 @@
   "pwFlaggedReason": "This application should be flagged for promises of future impact. The applicant states they will \"do their best to keep optimism strong\" and \"one day optimism will become a powerful exchange platform,\" which are both future-focused statements not allowed under the grant rules.",
   "recategorizeToType": "INDIVIDUAL",
   "recategorizeReason": "NO, the application is categorized as a project but uses \"I\" indicating it should be an individual.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Web3 Community Platform"
 }

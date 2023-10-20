@@ -37,5 +37,6 @@
   "applicantAddress": "0x368AA4516ddec947827D3edB556F81c00E0B748a",
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for violating rule 11. The application has used a language other than English.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Translation, Community Building"
 }

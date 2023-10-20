@@ -38,5 +38,6 @@
   "RPGF3_Application_UID": "0x944854b1b1609cbdfeadbbef0e0e3094afc52dd7441b059f9b551b061b60049e",
   "applicantAddress": "0xD52BdC1439Bd9C4da99A85d179c3D57a256d415E",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Layer 2 Scaling, Decentralized Exchanges (DEXs), Developer Ecosystem, User Experience & Adoption, Blockchain Infrastructure"
 }

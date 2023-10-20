@@ -44,5 +44,6 @@
   "pwFlaggedReason": "The application should be flagged for violation of rule 11. The impact description contains non-English text.",
   "recategorizeToType": "PROJECT",
   "recategorizeReason": "NO, the application should be categorized as a PROJECT as the \"contributionDescription\" and \"impactDescription\" clearly describe an initiative or project (the Superchain token list), not an individual.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Tokenization Platforms, Blockchain Infrastructure, Decentralized Finance (DeFi)"
 }

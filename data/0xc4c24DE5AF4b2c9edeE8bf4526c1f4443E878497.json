@@ -37,5 +37,6 @@
   "RPGF3_Application_UID": "0x3b5c7f610074fcebd729544788092b327c0452fcf6a3af4dab721e25a6253acd",
   "applicantAddress": "0xc4c24DE5AF4b2c9edeE8bf4526c1f4443E878497",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Blockchain Education, Developer Ecosystem, Governance & Tokens, Decentralized Finance (DeFi), Content Creation"
 }

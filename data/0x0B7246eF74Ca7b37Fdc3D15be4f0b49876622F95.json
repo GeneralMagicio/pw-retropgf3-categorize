@@ -75,5 +75,6 @@
   "RPGF3_Application_UID": "0xa1a22d2fb5735459c54bf2861adb1f30ed77cca44536c06070587aced21d97d9",
   "applicantAddress": "0x0B7246eF74Ca7b37Fdc3D15be4f0b49876622F95",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Community Building, Reputation Systems, Governance & Tokens, Web3 Community Platform, Developer Ecosystem"
 }

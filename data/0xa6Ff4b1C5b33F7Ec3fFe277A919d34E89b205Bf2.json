@@ -71,5 +71,6 @@
   "applicantAddress": "0xa6Ff4b1C5b33F7Ec3fFe277A919d34E89b205Bf2",
   "pwIsFlagged": true,
   "pwFlaggedReason": "Flagged: The application violates rule 10 as the contributions mentioned do not have a clear relationship to Optimism and are not specific to Optimism.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Blockchain Education, Content Creation, Community Building, User Experience & Adoption, Decentralized Finance (DeFi)"
 }

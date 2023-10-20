@@ -56,5 +56,6 @@
   "applicantAddress": "0xed8241384a0A5aA41B0756D34427CD6027BaA295",
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for promising future deliverables or impact which is against the grant program rules.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Tokenization Platforms, End-User Experience, Wallet Management, Web3 Community Platform, Blockchain Infrastructure"
 }

@@ -44,5 +44,6 @@
   "applicantAddress": "0x2eeA8f64766E51cde601382e64Eb68F50E34e0B6",
   "pwIsFlagged": true,
   "pwFlaggedReason": "Flagged: The application contains false and irrelevant links for both the contribution and the impact metrics, which goes against the rule about spam.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Developer Ecosystem, Cross-Chain Platforms"
 }

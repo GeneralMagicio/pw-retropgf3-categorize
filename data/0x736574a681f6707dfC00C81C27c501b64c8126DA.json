@@ -35,5 +35,6 @@
   "RPGF3_Application_UID": "0x6c81d43651a32c4b0b769f41f4c7ccd2a6b8a1ec1137d061e24f42606858e037",
   "applicantAddress": "0x736574a681f6707dfC00C81C27c501b64c8126DA",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Layer 2 Scaling, User Experience & Adoption, Blockchain Infrastructure, Decentralized Finance (DeFi)"
 }

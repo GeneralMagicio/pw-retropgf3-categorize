@@ -44,5 +44,6 @@
   "applicantAddress": "0xF5198cED7dF683a0c089208Fe9e109245081abb9",
   "pwIsFlagged": true,
   "pwFlaggedReason": "Flagged: The application promises future impact and deliverables which is against the grant program rules.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Blockchain Education, Decentralized Finance (DeFi), Content Creation, Community Building, Tokenization Platforms"
 }

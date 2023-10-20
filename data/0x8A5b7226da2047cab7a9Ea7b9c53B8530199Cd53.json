@@ -40,5 +40,6 @@
   "applicantAddress": "0x8A5b7226da2047cab7a9Ea7b9c53B8530199Cd53",
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for promising future impact and contributions, which is a violation of the rules.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Blockchain Education, Community Building, User Experience & Adoption, Cryptocurrency Services"
 }

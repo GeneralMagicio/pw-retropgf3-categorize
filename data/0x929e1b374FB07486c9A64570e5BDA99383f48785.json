@@ -96,5 +96,6 @@
   "RPGF3_Application_UID": "0x9ba3fe96ab1f32ebfdb0514e6531eb365fad843d656aebfdb6953dcdf378bb86",
   "applicantAddress": "0x929e1b374FB07486c9A64570e5BDA99383f48785",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Blockchain Education, Community Building, User Experience & Adoption, Developer Ecosystem, Cryptocurrency Services"
 }

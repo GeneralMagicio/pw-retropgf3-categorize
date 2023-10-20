@@ -44,5 +44,6 @@
   "pwIsFlagged": false,
   "recategorizeToType": "INDIVIDUAL",
   "recategorizeReason": "NO, it is not correctly categorized because it talks about \"I\" and \"my,\" indicating it's an individual, not a project.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Blockchain Education, Community Building, User Experience & Adoption, Governance & Tokens"
 }

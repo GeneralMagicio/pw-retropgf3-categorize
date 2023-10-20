@@ -42,5 +42,6 @@
   "applicantAddress": "0x158970aB077aE060c96785E43E003926547B58f9",
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for containing spam, as it has irrelevant answers and irrelevant/broken impact metrics and contribution links.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Smart Contract Platforms, Tokenization Platforms, Blockchain Education, Community Building"
 }

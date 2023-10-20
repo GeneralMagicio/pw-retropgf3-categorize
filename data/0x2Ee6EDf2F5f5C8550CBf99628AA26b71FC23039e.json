@@ -148,5 +148,6 @@
   "RPGF3_Application_UID": "0xd1e86a9b127451b05ffe296b0c0dca96d1067402c84b8a075c00cc32bd26da5f",
   "applicantAddress": "0x2Ee6EDf2F5f5C8550CBf99628AA26b71FC23039e",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Blockchain Education"
 }

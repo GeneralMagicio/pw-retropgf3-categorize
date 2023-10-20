@@ -69,5 +69,6 @@
   "RPGF3_Application_UID": "0x7e27e0d48b7ca1d4fcd44b55169dfa613393c6912ad379f48c511d1f69076f8d",
   "applicantAddress": "0x3A2a72fF37afE42B2c2747366Be5eCDacb211d8a",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Content Creation, Community Building, User Experience & Adoption, Blockchain Education, Media Production"
 }

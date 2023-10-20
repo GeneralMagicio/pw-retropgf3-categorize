@@ -45,5 +45,6 @@
   "pwIsFlagged": false,
   "recategorizeToType": "INDIVIDUAL",
   "recategorizeReason": "NO, it is not correctly categorized. Despite the \"applicantType\" field being marked as \"PROJECT\", the applicant uses first person pronouns such as \"I\" and \"we\" indicating that the applicant may be an individual.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Content Creation, Community Building, Media Production, Cryptocurrency Services, Blockchain Education"
 }

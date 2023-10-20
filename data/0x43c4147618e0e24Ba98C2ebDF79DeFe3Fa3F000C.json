@@ -38,5 +38,6 @@
   "pwFlaggedReason": "This application should be flagged for being Outside of RetroPGF's scope, as the contribution does not have a clear relationship to Optimism, nor does it highlight a valid contribution in the Web3/blockchain space.",
   "recategorizeToType": "INDIVIDUAL",
   "recategorizeReason": "NO, the application mentions a traditional Japanese sword but doesn't make any reference to a project, hence the application should be categorized as \"INDIVIDUAL\" instead of \"PROJECT\".",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Blockchain Gaming"
 }

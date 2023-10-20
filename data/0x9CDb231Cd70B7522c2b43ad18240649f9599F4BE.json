@@ -75,5 +75,6 @@
   "applicantAddress": "0x9CDb231Cd70B7522c2b43ad18240649f9599F4BE",
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged because they are submitting content in a language other than English.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Content Creation, User Experience & Adoption, Developer Ecosystem, Smart Contract Platforms"
 }

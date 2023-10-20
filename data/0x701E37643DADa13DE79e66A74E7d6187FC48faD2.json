@@ -36,5 +36,6 @@
   "RPGF3_Application_UID": "0x4afa3f3679237d1a52cfd87f258f57d8de01d64a69182591807c471accdc0f16",
   "applicantAddress": "0x701E37643DADa13DE79e66A74E7d6187FC48faD2",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Tokenization Platforms, Blockchain Infrastructure, Smart Contract Platforms, Developer Ecosystem, End-User Experience"
 }

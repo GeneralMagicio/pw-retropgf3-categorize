@@ -39,5 +39,6 @@
   "applicantAddress": "0xE84B0C2Ddb1c4C316CDBb1B7FA562ae0Fb87a529",
   "pwIsFlagged": true,
   "pwFlaggedReason": "Flag the application. The contribution description is vague and doesn't clearly highlight a valid contribution to the Optimism ecosystem.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Community Building, User Experience & Adoption, Developer Ecosystem, Tokenization Platforms, Blockchain Infrastructure"
 }

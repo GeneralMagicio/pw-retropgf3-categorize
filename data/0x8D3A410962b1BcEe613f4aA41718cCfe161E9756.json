@@ -79,5 +79,6 @@
   "pwIsFlagged": false,
   "recategorizeToType": "INDIVIDUAL",
   "recategorizeReason": "NO. The application talks about \"I\" and \"me\", which are sure signs of an individual. Therefore, it should be categorized as \"INDIVIDUAL\", not \"PROJECT\".",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Smart Contract Platforms, Layer 2 Scaling, Blockchain Infrastructure, Developer Ecosystem, Education"
 }

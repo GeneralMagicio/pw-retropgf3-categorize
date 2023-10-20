@@ -71,5 +71,6 @@
   "applicantAddress": "0x979651d89420431eD2Db5712ef93475c77167969",
   "pwIsFlagged": true,
   "pwFlaggedReason": "Yes, this application should be flagged for promising future impact. The applicant states that they \"can introduce optimism to new users and mentor them\", which implies future activities that are not completed yet.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Community Building, User Experience & Adoption, Blockchain Education, Web3 Community Platform, Cryptocurrency Services"
 }

@@ -46,5 +46,6 @@
   "applicantAddress": "0x9255b911fCF164f48c7B3e04dC091bf9e046F6BB",
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged because it includes promises of future impact, which is against the rules outlined for the grants program.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Tokenization Platforms, Decentralized Finance (DeFi), Web3 Community Platform, Cryptocurrency Services"
 }

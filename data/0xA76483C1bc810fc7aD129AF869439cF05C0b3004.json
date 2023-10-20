@@ -43,5 +43,6 @@
   "applicantAddress": "0xA76483C1bc810fc7aD129AF869439cF05C0b3004",
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged because it failed to abide by the rule prohibiting applications in languages other than English.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Web3 Community Platform, Cryptocurrency Services"
 }

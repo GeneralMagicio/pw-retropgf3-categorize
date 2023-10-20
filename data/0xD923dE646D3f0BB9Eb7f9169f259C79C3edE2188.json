@@ -44,5 +44,6 @@
   "applicantAddress": "0xD923dE646D3f0BB9Eb7f9169f259C79C3edE2188",
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for violating the grant program rules about the promises of future impact. The applicant is promising to use OP every day and to invite friends in the future, which is not allowed according to the rules.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Community Building, Governance & Tokens, Blockchain Education, Social Impact"
 }

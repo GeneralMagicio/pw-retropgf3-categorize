@@ -115,5 +115,6 @@
   "RPGF3_Application_UID": "0x8d74ea236742a773f21486e6d66a187f5398171a44c8cae6993d62b104709fd9",
   "applicantAddress": "0xb6F5414bAb8d5ad8F33E37591C02f7284E974FcB",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Content Creation, Community Building, Developer Ecosystem, Blockchain Education, Web3 Community Platform."
 }

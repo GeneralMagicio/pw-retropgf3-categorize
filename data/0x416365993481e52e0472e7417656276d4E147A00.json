@@ -41,5 +41,6 @@
   "RPGF3_Application_UID": "0x5f1b13f7fec9d83e8627cfbf886f18945bef57ef9601cbe159b9e8a62410444d",
   "applicantAddress": "0x416365993481e52e0472e7417656276d4E147A00",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Layer 2 Scaling, Governance & Tokens, Cross-Chain Platforms, User Experience & Adoption, Web3 Community Platform"
 }

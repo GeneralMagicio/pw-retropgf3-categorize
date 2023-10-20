@@ -43,5 +43,6 @@
   "applicantAddress": "0x6b4e0ed1A79134D46880E8bF198B22f6091aa164",
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged because it contains sections that are not written in English, violating Rule 11.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Content Creation, Community Building, Governance & Tokens, User Experience & Adoption"
 }

@@ -49,5 +49,6 @@
   "pwFlaggedReason": "The application should be flagged for spam due to the usage of irrelevant and non-English statements.",
   "recategorizeToType": "PROJECT",
   "recategorizeReason": "NO, the application is miscategorized because the contribution is discussed in the context of an organization (PASOKARA), suggesting it should be categorized as a PROJECT rather than an INDIVIDUAL.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Community Building, Governance Tokens, Content Creation"
 }

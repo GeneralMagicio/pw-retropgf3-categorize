@@ -46,5 +46,6 @@
   "pwFlaggedReason": "The application should be flagged because it violates the rule regarding promises of future impact. The applicant promises their future contributions would be \"building and testing DApps on the Optimism Mainnet\" and \"beginning to create a community of builders around the OP stack\".",
   "recategorizeToType": "INDIVIDUAL",
   "recategorizeReason": "NO, the application should be categorized as \"INDIVIDUAL\" because it refers to \"I\" and \"me\", indicating a single person, not a project.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Developer Ecosystem, Community Building, Smart Contract Platforms, End-User Experience, Governance & Tokens"
 }

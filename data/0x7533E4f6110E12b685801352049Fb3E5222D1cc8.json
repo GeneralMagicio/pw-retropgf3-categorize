@@ -43,5 +43,6 @@
   "applicantAddress": "0x7533E4f6110E12b685801352049Fb3E5222D1cc8",
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged because the application is violating Rule 10, as the contributions mentioned are simply user interactions on OP Mainnet, which do not qualify as valid contributions for RetroPGF 3.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Layer 2 Scaling, Decentralized Exchanges (DEXs), Governance & Tokens, User Experience & Adoption, Community Building"
 }

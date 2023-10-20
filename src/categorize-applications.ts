@@ -18,8 +18,13 @@ const promptTemplate = PromptTemplate.fromTemplate(
   Example categories: Decentralized Finance (DeFi), Non-Fungible Tokens (NFTs), Layer 2 Scaling, 
   Smart Contract Platforms, Centralized Exchanges (CEXs), Decentralized Exchanges (DEXs), Stablecoins, 
   Cross-Chain Platforms, Privacy Coins, Supply Chain Management, Tokenization Platforms, Digital Identity, 
-  Blockchain Gaming, Blockchain Infrastructure, Governance Tokens
+  Blockchain Gaming, Blockchain Infrastructure, Governance Tokens, Blockchain Education
+  Content Creation, Community Building, User Experience & Adoption, Governance & Tokens, Developer Ecosystem,
+  Smart Contract Platforms, Tokenization Platforms, Blockchain Infrastructure, Decentralized Finance (DeFi)
+  End-User Experience, Wallet Management, NFT Aggregator, Trading Tools, Web3 Community Platform, Decentralized Identity
+  Media Production, Cryptocurrency Services
   
+  IMPORTANT: The example categories above are not exhaustive. You can suggest any category you think is relevant.
   IMPORTANT: One category is max 3 words!
 
   Output a comma separated list of categories, no row numbers, no commas or other separators.

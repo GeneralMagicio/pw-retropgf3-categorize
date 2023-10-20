@@ -39,5 +39,6 @@
   "applicantAddress": "0xa78dC5e1f4d75F1426A41eC13523C1ed61c8C8A7",
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged because the contribution and impact descriptions are promises of future impact, which violates rule 1. Also, part of the application is in a language other than English, violating rule 11.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Community Building, User Experience & Adoption, Rewards and Recognition"
 }

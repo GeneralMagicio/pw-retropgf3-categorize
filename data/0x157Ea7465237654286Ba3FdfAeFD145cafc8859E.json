@@ -46,5 +46,6 @@
   "RPGF3_Application_UID": "0x62ee3d8a19aa3da0308e73cc27179f3c9c55437506ac0817b574916340f2229c",
   "applicantAddress": "0x157Ea7465237654286Ba3FdfAeFD145cafc8859E",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Community Building, Content Creation, NFTs, Decentralized Identity, User Experience & Adoption"
 }

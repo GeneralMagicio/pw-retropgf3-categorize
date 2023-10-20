@@ -83,5 +83,6 @@
   "RPGF3_Application_UID": "0xb7fe6ccc4321cf93f9a1db80a1706b436d2b5551e123a76658ab469ceede727b",
   "applicantAddress": "0x2D8EA9BCf57A8456085947AB4752f3f9104FC7DB",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Developer Ecosystem, Community Building, Data Analytics"
 }

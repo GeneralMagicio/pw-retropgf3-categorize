@@ -79,5 +79,6 @@
   "RPGF3_Application_UID": "0x47fb1ee20e9de14d6603a2a4b55ba558412bbd506132c7dcaa2a313019ac8785",
   "applicantAddress": "0x5D802e2Fe48392c104Ce0401C7ECa8a4456f1F16",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Blockchain Education, Layer 2 Scaling, Media Production, User Experience & Adoption, Community Building"
 }

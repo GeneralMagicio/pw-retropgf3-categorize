@@ -46,5 +46,6 @@
   "applicantAddress": "0x2d39CE499678Ac32c2e5398cD03fFeF098957fA6",
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for violating the rule against \"Promises of future impact\" because the applicant claims the project has great potential and will reach the highest level in the shortest possible time, which are promises of future deliverables or impact.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Community Building, Tokenization Platforms, Blockchain Infrastructure, Decentralized Finance (DeFi), User Experience & Adoption"
 }

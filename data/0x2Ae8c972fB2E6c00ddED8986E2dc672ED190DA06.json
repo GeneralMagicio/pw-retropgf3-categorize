@@ -57,5 +57,6 @@
   "RPGF3_Application_UID": "0x1d0fd9b7e22d5104b7581d43eca15536106894dc0800877f624b2acac306f234",
   "applicantAddress": "0x2Ae8c972fB2E6c00ddED8986E2dc672ED190DA06",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Blockchain Education, Data Analysis, Developer Ecosystem, Web3 Community Platform, Content Creation"
 }

@@ -35,5 +35,6 @@
   "applicantAddress": "0x83d972c23cca53485b3dce8508159f46550EC342",
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for being in a language other than English.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Community Building, Developer Ecosystem, Tokenization Platforms, Decentralized Finance (DeFi), Cryptocurrency Services"
 }

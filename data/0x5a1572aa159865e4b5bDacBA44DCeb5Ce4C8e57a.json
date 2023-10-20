@@ -43,5 +43,6 @@
   "applicantAddress": "0x5a1572aa159865e4b5bDacBA44DCeb5Ce4C8e57a",
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for violating grant program rule number 2: False statements & deception. The applicant failed to provide any authentic information regarding their contributions or impact on the Optimism Collective and simply repeated the application input prompt in their bio.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Tokenization Platforms, Blockchain Infrastructure, Decentralized Finance (DeFi)"
 }

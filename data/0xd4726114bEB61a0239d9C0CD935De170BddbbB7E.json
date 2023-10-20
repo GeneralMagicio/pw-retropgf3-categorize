@@ -43,5 +43,6 @@
   "applicantAddress": "0xd4726114bEB61a0239d9C0CD935De170BddbbB7E",
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for being in a language other than English.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "NFTs, Smart Contract Platforms, Blockchain Infrastructure, Decentralized Finance (DeFi), Digital Identity"
 }

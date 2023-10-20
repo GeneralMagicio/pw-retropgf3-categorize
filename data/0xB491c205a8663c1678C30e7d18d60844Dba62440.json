@@ -42,5 +42,6 @@
   "pwIsFlagged": false,
   "recategorizeToType": "INDIVIDUAL",
   "recategorizeReason": "NO, this application should be categorized as an INDIVIDUAL since the applicant refers to themselves as \"I\" and \"My\" throughout the application, indicating that it's a single person rather than a team or organization.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "NFTs, Smart Contract Platforms, Blockchain Infrastructure, Web3 Community Platform, Tokenization Platforms"
 }

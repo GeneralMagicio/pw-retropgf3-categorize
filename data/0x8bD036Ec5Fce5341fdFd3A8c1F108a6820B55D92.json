@@ -36,5 +36,6 @@
   "RPGF3_Application_UID": "0x196f75bda78205ff6eb92c1e8ba290c79f9f729cc709e1d1afca767259fa88bd",
   "applicantAddress": "0x8bD036Ec5Fce5341fdFd3A8c1F108a6820B55D92",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Layer 2 Scaling, Tokenization Platforms, Bridge Solutions"
 }

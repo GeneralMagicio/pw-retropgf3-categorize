@@ -49,5 +49,6 @@
   "applicantAddress": "0x807338C1EE3c87A19eEbf5351341A2638dc167c5",
   "pwIsFlagged": true,
   "pwFlaggedReason": "Flagged: The application does not provide a clear description of legitimate, specific contributions made to the Optimism network beyond stating usage of the network, which is not in scope for rewards as per RetroPGF rules.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Layer 2 Scaling, Smart Contract Platforms, Tokenization Platforms, Blockchain Infrastructure"
 }

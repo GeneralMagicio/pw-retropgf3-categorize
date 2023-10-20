@@ -37,5 +37,6 @@
   "pwIsFlagged": false,
   "recategorizeToType": "PROJECT",
   "recategorizeReason": "NO, the application is incorrectly categorized as it refers to \"we will help them solve the problem\" suggesting a group or project effort rather than an individual's contribution.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Community Building, User Experience & Adoption, Governance & Tokens, Developer Ecosystem"
 }

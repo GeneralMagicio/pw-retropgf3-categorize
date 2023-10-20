@@ -36,5 +36,6 @@
   "applicantAddress": "0xe51424f6A01Ea549065dc4Ee9520ce402b5e0D0c",
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged because it violates rule 10 as the applicant's contributions of spreading the word and voting are not quantifiable or verifiable, and do not fall into the scope of the RetroPGF3 grants program.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Community Building, Governance & Tokens, Developer Ecosystem, End-User Experience, Web3 Community Platform"
 }

@@ -47,5 +47,6 @@
   "applicantAddress": "0x170D992F289b750F8e064793FdCF5E1d250Aa551",
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for spam because the contribution description and impact description lacks substance and appears to be filled with irrelevant repetitive text.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "NFT, Layer 2 Scaling, Optimism"
 }

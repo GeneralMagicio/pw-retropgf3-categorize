@@ -46,5 +46,6 @@
   "RPGF3_Application_UID": "0xfd28d4d48ed3fa4b8986b814cda7a6535078967a7856cb9ab95742a95ae59974",
   "applicantAddress": "0xdF5D63B80D939Dedeb9C84B45B1D14A17c97802D",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "DAO Accelerator, Biotech, Optimism, Token Vesting, NFT Badges"
 }

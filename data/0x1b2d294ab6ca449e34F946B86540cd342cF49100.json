@@ -38,5 +38,6 @@
   "RPGF3_Application_UID": "0xa73fdf49cc8adc368b06c25ee6fdcec7a908a359ea6eaf208927989964207f99",
   "applicantAddress": "0x1b2d294ab6ca449e34F946B86540cd342cF49100",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Experimental Blockchain Governance"
 }

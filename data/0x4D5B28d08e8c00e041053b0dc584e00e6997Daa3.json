@@ -170,5 +170,6 @@
   "RPGF3_Application_UID": "0x8cce00b421d2f19c829d484b423a49f311d41355238c5c5a73b72d62c5c63f56",
   "applicantAddress": "0x4D5B28d08e8c00e041053b0dc584e00e6997Daa3",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Community Building, Grants, Educational Events, Conservation Efforts, NFT Ventures"
 }

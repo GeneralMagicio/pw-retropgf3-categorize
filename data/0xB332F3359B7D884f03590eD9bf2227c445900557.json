@@ -41,5 +41,6 @@
   "RPGF3_Application_UID": "0xbcad3d5b6b09c30082fe14134a0c99d998a6f8fcc36b6c9a37d01195d9c56b1d",
   "applicantAddress": "0xB332F3359B7D884f03590eD9bf2227c445900557",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "User Experience & Adoption, User Interface Design"
 }

@@ -48,5 +48,6 @@
   "pwIsFlagged": false,
   "recategorizeToType": "INDIVIDUAL",
   "recategorizeReason": "NO, the application should be categorized as an INDIVIDUAL because the bio states \"I jumped into web3 in 2021\".",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Tokenization Platforms, Web3 Community Platform, Decentralized Identity"
 }

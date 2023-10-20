@@ -108,5 +108,6 @@
   "RPGF3_Application_UID": "0xddda258085505c63d2adc93d0260bee8b8205315f9ab14c3b4c241a640a4a47f",
   "applicantAddress": "0x8cadb20A4811f363Dadb863A190708bEd26245F8",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Liquidity Providers (LPs), Automated Market Makers (AMMs), Optimism, Open-source Tools"
 }

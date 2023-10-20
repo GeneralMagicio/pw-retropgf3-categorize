@@ -45,5 +45,6 @@
   "pwFlaggedReason": "The application should be flagged because it is violating the grant program rule of making promises of future impact.",
   "recategorizeToType": "PROJECT",
   "recategorizeReason": "NO, the application is not correctly categorized as \"INDIVIDUAL\". The application talks about \"we\" and \"our\", implying it represents a group or a project rather than an individual.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Community Building"
 }

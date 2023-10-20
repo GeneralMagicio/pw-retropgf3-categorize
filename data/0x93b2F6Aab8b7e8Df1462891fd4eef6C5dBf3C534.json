@@ -44,5 +44,6 @@
   "applicantAddress": "0x93b2F6Aab8b7e8Df1462891fd4eef6C5dBf3C534",
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for promising future impact and not highlighting a valid contribution.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Smart Contract Platforms, Layer 2 Scaling, Tokenization Platforms, Developer Ecosystem, Community Building"
 }

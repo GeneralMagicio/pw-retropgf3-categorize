@@ -40,5 +40,6 @@
   "pwFlaggedReason": "Flagged: The application violates rule 10 as the described contribution is user interaction – sending transactions, which is not eligible for rewards according to the grants program's rules.",
   "recategorizeToType": "INDIVIDUAL",
   "recategorizeReason": "NO, the application is incorrectly categorized. The \"bio\" field indicates this is an individual, stating \"I'm a testor and airdrop hunter\", thus the \"applicantType\" field should be \"INDIVIDUAL\" and not \"PROJECT\".",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "User Experience & Adoption, Smart Contract Platforms, Decentralized Finance (DeFi), End-User Experience, Blockchain Infrastructure"
 }

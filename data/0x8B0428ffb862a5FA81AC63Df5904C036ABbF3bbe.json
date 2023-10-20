@@ -42,5 +42,6 @@
   "applicantAddress": "0x8B0428ffb862a5FA81AC63Df5904C036ABbF3bbe",
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for promising future impact which is against the rules of the grant program.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Community Building, User Experience & Adoption, Developer Ecosystem, Content Creation, Cryptocurrency Services"
 }

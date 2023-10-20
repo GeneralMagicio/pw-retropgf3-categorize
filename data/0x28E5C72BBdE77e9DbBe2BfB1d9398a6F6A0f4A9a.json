@@ -38,5 +38,6 @@
   "pwFlaggedReason": "This application should be flagged because it doesn't provide a clear, relevant explanation of the applicant's actual contributions and their impact on the Web3/blockchain space, violating rule 10. The provided information is more about the concept of 'optimism', not the related digital systems.",
   "recategorizeToType": "PROJECT",
   "recategorizeReason": "NO, the application seems to be mis-categorized. Despite being labeled as an \"INDIVIDUAL\" the content of the application refers to  \"Optimism\" which is a known project in the blockchain/Web3 space rather than an individual's contribution.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Content Creation, Community Building, User Experience & Adoption, Governance & Tokens, Developer Ecosystem"
 }

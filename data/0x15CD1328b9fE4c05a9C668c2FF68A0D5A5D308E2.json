@@ -44,5 +44,6 @@
   "applicantAddress": "0x15CD1328b9fE4c05a9C668c2FF68A0D5A5D308E2",
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for promising future impact and deliverables in the contribution and impact description.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Community Building, Content Creation, Education & Awareness"
 }

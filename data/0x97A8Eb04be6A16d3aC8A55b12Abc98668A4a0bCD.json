@@ -59,5 +59,6 @@
   "pwFlaggedReason": "Flag the application. Reasons include promising of future impact, unclear relationship to the blockchain/Web3 space from the project's description and potential spam as the applicant's description of their project is generic and not directly related to their contribution in Web3/Blockchain.",
   "recategorizeToType": "INDIVIDUAL",
   "recategorizeReason": "NO, the application should be categorized as \"INDIVIDUAL\" as the application makes use of personal pronouns such as \"I\" and \"my\" indicating it is an individual.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Blockchain Infrastructure, Community Building."
 }

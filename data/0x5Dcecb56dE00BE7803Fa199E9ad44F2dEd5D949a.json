@@ -46,5 +46,6 @@
   "applicantAddress": "0x5Dcecb56dE00BE7803Fa199E9ad44F2dEd5D949a",
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for promises of future impact and for potential false statements and deception. The applicant makes assertions about the improvement of the blockchain in the future without providing concrete evidence or past contribution to back up the claims.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Non-Fungible Tokens (NFTs), Layer 2 Scaling, Web3 Community Platform, Cryptocurrency Services"
 }

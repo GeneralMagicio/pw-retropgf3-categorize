@@ -35,5 +35,6 @@
   "RPGF3_Application_UID": "0x683cc066545682db16c429830ab0c77dc9cd70e95107c1bb618f67ff16447c62",
   "applicantAddress": "0xF7401728edd23290d8099eD73f155101dCf8CC0C",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Community Building, Developer Ecosystem, End-User Experience, DeFi"
 }

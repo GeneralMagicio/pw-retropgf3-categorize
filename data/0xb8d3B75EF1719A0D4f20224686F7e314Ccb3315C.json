@@ -43,5 +43,6 @@
   "RPGF3_Application_UID": "0x35a68973d1f6223c262b6ca9bbc75673bdb6366a284923058d371777fe64d48f",
   "applicantAddress": "0xb8d3B75EF1719A0D4f20224686F7e314Ccb3315C",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Community Building, Content Creation, Positive Change"
 }

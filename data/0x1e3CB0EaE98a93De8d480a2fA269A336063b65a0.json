@@ -36,5 +36,6 @@
   "applicantAddress": "0x1e3CB0EaE98a93De8d480a2fA269A336063b65a0",
   "pwIsFlagged": true,
   "pwFlaggedReason": "Flag the application. The contribution and impact descriptions are generic and don't specify the applicant's concrete involvements in the Web3/blockchain space aligning with the program rules, giving the impression of false or misleading claims.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "End-User Experience, Adoption, Content Creation, Layer 2 Scaling, Blockchain Education"
 }

@@ -46,5 +46,6 @@
   "applicantAddress": "0x2673f7F237660AA885cA327f84450c7e5f72316b",
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged because the impactDescription and parts of the application contain content in a language other than English, violating rule 11.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Centralized Exchanges (CEXs), Smart Contract Platforms, Blockchain Infrastructure"
 }

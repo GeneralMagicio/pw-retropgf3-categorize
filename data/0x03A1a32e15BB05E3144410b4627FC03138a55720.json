@@ -40,5 +40,6 @@
   "applicantAddress": "0x03A1a32e15BB05E3144410b4627FC03138a55720",
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for violating rule 1: 'Promises of future impact - promises of future deliverables or impact are not allowed.' The applicant promises to perform tasks and join social accounts in the future.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Community Building, User Experience & Adoption, Developer Ecosystem, Social Media Promotion"
 }

@@ -39,5 +39,6 @@
   "pwFlaggedReason": "Flagged: The application includes uncertain promises of future impact and support (e.g., \"If I'm eligible...I will keep support this project until moon\") which violates Rule 1.",
   "recategorizeToType": "INDIVIDUAL",
   "recategorizeReason": "NO, this should be categorized as \"INDIVIDUAL\" as the applicant uses first-person pronouns \"I\" and \"me\".",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Tokenization Platforms, Smart Contract Platforms, Blockchain Infrastructure, Decentralized Finance (DeFi), Community Building"
 }

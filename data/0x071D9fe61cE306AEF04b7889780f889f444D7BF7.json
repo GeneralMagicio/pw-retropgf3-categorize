@@ -52,5 +52,6 @@
   "RPGF3_Application_UID": "0xb9df52b520c2f18ab2bd7468e08a1a4b0f9c048f797466369efa61618ec19476",
   "applicantAddress": "0x071D9fe61cE306AEF04b7889780f889f444D7BF7",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Smart Contract Platforms, Wallet Management, NFT Aggregator, Trading Tools"
 }

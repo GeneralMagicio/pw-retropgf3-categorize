@@ -38,5 +38,6 @@
   "pwFlaggedReason": "This application should be flagged because it contains irrelevant and nonsensical answers, violating the rule against spam. The contribution and impact descriptions are about rainfall, not related to Web3/blockchain space.",
   "recategorizeToType": "INDIVIDUAL",
   "recategorizeReason": "NO, the application uses words \"I\" and \"me\" which indicates it may be an individual application.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Content Creation, Community Building, User Experience & Adoption, Media Production"
 }

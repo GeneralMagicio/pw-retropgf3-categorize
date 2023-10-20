@@ -45,5 +45,6 @@
   "pwIsFlagged": false,
   "recategorizeToType": "INDIVIDUAL",
   "recategorizeReason": "NO. The applicant is described as the CEO of Cometh, which should make the applicantType \"INDIVIDUAL\", not \"PROJECT\".",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Layer 2 Scaling, Smart Contract Platforms, Blockchain Infrastructure, Governance & Tokens"
 }

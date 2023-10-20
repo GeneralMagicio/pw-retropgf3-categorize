@@ -39,5 +39,6 @@
   "applicantAddress": "0x66Ba4988156aBEF92Aa6Ef2f0E66776b826c5eF8",
   "pwIsFlagged": true,
   "pwFlaggedReason": "Flag this application. It appears to be advertising airdrops which falls in violation of rule 6 (Advertising).",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Governance & Tokens, User Experience & Adoption, Blockchain Education, Community Building"
 }

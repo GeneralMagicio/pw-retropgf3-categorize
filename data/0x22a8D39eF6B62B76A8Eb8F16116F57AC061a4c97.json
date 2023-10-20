@@ -47,5 +47,6 @@
   "applicantAddress": "0x22a8D39eF6B62B76A8Eb8F16116F57AC061a4c97",
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for violating the rules on promises of future impact and outside of RetroPGF's scope as the applicant is substantially detailing future plans and predicted impacts, and doesn't provide a clear description or evidence of a valid past contribution to Optimism as required.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Layer 2 Scaling, Smart Contract Platforms, Developer Ecosystem"
 }

@@ -36,5 +36,6 @@
   "RPGF3_Application_UID": "0x9b9c1c128459a1aa36f1a007a895ff9c89074d8a45abe2672eb1ed0d6dfadc4b",
   "applicantAddress": "0x9279492DC2123340aa00244987d4460d0e3cF070",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Developer Ecosystem, Community Building, Layer 2 Scaling, Education, Blockchain Infrastructure"
 }

@@ -47,5 +47,6 @@
   "applicantAddress": "0xacd628A909DeB3142ecb91A0d618bFbE82955177",
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for containing spam as the contribution description and impact description are repetitive and nonsensical without providing any substantial information about the applicant's contributions and impact.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Community Building, User Experience & Adoption, Smart Contract Platforms, Governance & Tokens, Cryptocurrency Services"
 }

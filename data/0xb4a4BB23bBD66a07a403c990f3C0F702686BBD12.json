@@ -36,5 +36,6 @@
   "applicantAddress": "0xb4a4BB23bBD66a07a403c990f3C0F702686BBD12",
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for promising future impact. The applicant promises that they \"will make NFT on op network or somethink , or i can make some token in Op network,\" which goes against Rule 1 of the grant program as it suggests future deliverables.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "NFTs, Layer 2 Scaling, Community Building, Developer Ecosystem, Web3 Community Platform"
 }

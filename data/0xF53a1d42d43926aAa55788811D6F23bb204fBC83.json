@@ -40,5 +40,6 @@
   "applicantAddress": "0xF53a1d42d43926aAa55788811D6F23bb204fBC83",
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for promising future impact and deliverables, which is a violation of the grant program rules.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Non-Fungible Tokens (NFTs), Layer 2 Scaling, Smart Contract Platforms, Community Building"
 }

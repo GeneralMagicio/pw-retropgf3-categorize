@@ -47,5 +47,6 @@
   "applicantAddress": "0xe968C0151F9855089140e03F2365B11b18e6a5d3",
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for violating rule 1: \"Promises of future impact.\" The applicant makes several promises about future achievements such as integrating with various payment platforms, expanding on gaming platforms, and making optimism faster with cheaper gas fees by 2024.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Smart Contract Platforms, Tokenization Platforms, Blockchain Infrastructure, User Experience & Adoption"
 }

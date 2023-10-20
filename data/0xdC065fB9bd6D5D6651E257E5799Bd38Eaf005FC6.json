@@ -63,5 +63,6 @@
   "applicantAddress": "0xdC065fB9bd6D5D6651E257E5799Bd38Eaf005FC6",
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for promising future impact which is against the grant program rules.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Web3 Community Platform, Content Creation, Community Building, User Experience & Adoption, Media Production"
 }

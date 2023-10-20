@@ -43,5 +43,6 @@
   "applicantAddress": "0xcC1ec0B04fa0C602c23D4DeBbf91E6844af48b39",
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for promising future deliverables or impact, which violates Rule 1 of the grant program rules.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Smart Contract Platforms, NFTs, Blockchain Gaming, Developer Ecosystem, Tokenization Platforms"
 }

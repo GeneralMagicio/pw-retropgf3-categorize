@@ -45,5 +45,6 @@
   "RPGF3_Application_UID": "0x26d5b9ca05873ac83eb10786078206c337f40b3b457ba33c08c27bfd59079ce6",
   "applicantAddress": "0x8fBFD3faBD443334B6f413b5931477d4DeBEAFa9",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "This project does not have a clear description related to the Web3/blockchain space. Therefore, it cannot be categorized."
 }

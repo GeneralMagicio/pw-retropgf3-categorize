@@ -45,5 +45,6 @@
   "RPGF3_Application_UID": "0x27e1865521c1509768a0d06971b66863babfb71fb83322cfc8794c463c6146ce",
   "applicantAddress": "0x109B1f6cE3CAF4079163ea0de392b818ed9144a2",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Content Creation, Community Building, Tokenization Platforms, Developer Ecosystem, Cryptocurrency Services"
 }

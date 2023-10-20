@@ -41,5 +41,6 @@
   "RPGF3_Application_UID": "0x8dfea2d65b3c03b89fdcd90dd614650d62894020edd79741826a16cc586bd357",
   "applicantAddress": "0x9DfEe19fa2bFc78265D106e7DacA0B6E66555872",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Layer 2 Scaling, User Experience & Adoption, Web3 Community Platform, Decentralized Finance (DeFi)"
 }

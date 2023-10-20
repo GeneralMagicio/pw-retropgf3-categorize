@@ -48,5 +48,6 @@
   "RPGF3_Application_UID": "0xf46f276a1645c0b23162b3fc89965a022cb4dc20900c0f6bbeb3710ea4ddd7e8",
   "applicantAddress": "0x09a5943a6d10919571eE2C9F63380aEA747ECA97",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Content Creation, Data Analysis, Blockchain Infrastructure, User Experience & Adoption, Community Building"
 }

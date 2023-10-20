@@ -108,5 +108,6 @@
   "RPGF3_Application_UID": "0x6bba68dec034f1715e3f70366abc7db1df1a003b264b79cf3c1cb3218a36b847",
   "applicantAddress": "0x84D36eA4044161232803c216BF1D103469713943",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Tokenization Platforms, Decentralized Finance (DeFi), Liquidity Mining, Cross-Chain Platforms, Community Building"
 }

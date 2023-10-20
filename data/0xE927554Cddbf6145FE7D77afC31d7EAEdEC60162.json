@@ -46,5 +46,6 @@
   "pwFlaggedReason": "Flagged: The provided contribution link leads to a non-English content which is a violation of the grant program's rules.",
   "recategorizeToType": "PROJECT",
   "recategorizeReason": "NO, the application should be categorized as \"PROJECT\" as the applicant talks about a community they founded and a company they're involved with, indicating this effort goes beyond a single individual.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Community Building, OTC Services"
 }

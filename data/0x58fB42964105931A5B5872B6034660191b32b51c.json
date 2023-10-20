@@ -43,5 +43,6 @@
   "RPGF3_Application_UID": "0x0df24c2dfd1a95aa52d81bcafc266a5a4f080f29cbbc067c97c056e130443498",
   "applicantAddress": "0x58fB42964105931A5B5872B6034660191b32b51c",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Layer 2 Scaling, NFTs, Ethereum Scalability, Web3 Community Platform, Blockchain Infrastructure"
 }

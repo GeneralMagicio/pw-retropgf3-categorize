@@ -133,5 +133,6 @@
   "RPGF3_Application_UID": "0xc372b8138f712875d1b7e852d7b78d58a6655caf672692565a310ae8d2405017",
   "applicantAddress": "0x7fC80faD32Ec41fd5CfcC14EeE9C31953b6B4a8B",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Governance & Tokens, Community Building, Decentralized Finance (DeFi), Web3 Community Platform, Blockchain Education"
 }

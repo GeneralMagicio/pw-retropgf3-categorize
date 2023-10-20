@@ -59,5 +59,6 @@
   "RPGF3_Application_UID": "0xad58a1e8a62acd6e69bb570e7dc3aa85b93712d01f881842c77bc78cc713b51a",
   "applicantAddress": "0x74021a7599CF772275c6d5699Fb681bEeB0d7AA8",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Education and Awareness, Onboarding through IRL Meetups, Community Building"
 }

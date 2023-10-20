@@ -35,5 +35,6 @@
   "RPGF3_Application_UID": "0xd6d17398cac034330465af73607e07f5aabf892f3d751254aa117ca3b13bb130",
   "applicantAddress": "0xDa474dce13c7Cb84CBE2410F84f342398561B68f",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Layer 2 Scaling, Decentralized Exchanges (DEXs), Community Building, User Experience & Adoption, Developer Ecosystem"
 }

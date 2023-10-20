@@ -43,5 +43,6 @@
   "pwIsFlagged": false,
   "recategorizeToType": "PROJECT",
   "recategorizeReason": "NO, it should be categorized as \"PROJECT\" since the application details are in reference to a website project (https://tfexchange.in) and not an individual's contributions.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Decentralized Exchanges (DEXs), Peer-to-Peer Platform, Cryptocurrency Exchange"
 }

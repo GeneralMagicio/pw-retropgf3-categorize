@@ -43,5 +43,6 @@
   "applicantAddress": "0xc509ae016D87DefBB6240807FE9f9BfC256EF3eA",
   "pwIsFlagged": true,
   "pwFlaggedReason": "Flagged: The applicant promises of future impact which is a violation of rule 1.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Content Creation, Community Building, User Experience & Adoption, Governance & Tokens, Developer Ecosystem"
 }

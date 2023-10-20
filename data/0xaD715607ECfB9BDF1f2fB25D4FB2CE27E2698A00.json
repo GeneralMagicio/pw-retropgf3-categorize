@@ -43,5 +43,6 @@
   "RPGF3_Application_UID": "0x0d4199a87d56b80de07a19e299ce368d8658d995dd1eed83c73aa4e38a90646e",
   "applicantAddress": "0xaD715607ECfB9BDF1f2fB25D4FB2CE27E2698A00",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Smart Contract Platforms, Decentralized Finance (DeFi), Tokenization Platforms, Web3 Community Platform, Cryptocurrency Services"
 }

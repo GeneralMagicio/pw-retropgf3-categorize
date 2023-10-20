@@ -41,5 +41,6 @@
   "RPGF3_Application_UID": "0x43d98b976edfa31855310192d4a022b0e333112b1f1dc4669b7361344369608f",
   "applicantAddress": "0x12481822efb3c546AC945C17c8EC54a63Bc95B5C",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Options Market Making, Arbitrage, Governance Tokens, Developer Ecosystem"
 }

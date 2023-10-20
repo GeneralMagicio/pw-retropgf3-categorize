@@ -48,5 +48,6 @@
   "RPGF3_Application_UID": "0x352cef4d80d995bbee0f9331b96d83daeb723f0eb907796a5c674dc51776f4de",
   "applicantAddress": "0xD3802dcE7F7A54d59E7a64329d287624FF3F495a",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Research, Layer 2 Scaling, Community Building, Adoption, Tokenization Platforms"
 }

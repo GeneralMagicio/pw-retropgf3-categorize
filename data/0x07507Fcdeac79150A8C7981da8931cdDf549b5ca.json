@@ -36,5 +36,6 @@
   "applicantAddress": "0x07507Fcdeac79150A8C7981da8931cdDf549b5ca",
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for promising future impact. The applicant states that they will distribute 48M OP to various addresses over a 12 hour period.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Token Distribution"
 }

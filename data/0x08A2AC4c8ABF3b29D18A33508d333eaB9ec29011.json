@@ -46,5 +46,6 @@
   "RPGF3_Application_UID": "0xab42f712461e4777ffb53a2a2e2e06cf73e73a9027b685c831d34ab0ebaef695",
   "applicantAddress": "0x08A2AC4c8ABF3b29D18A33508d333eaB9ec29011",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Community Building, End-User Experience, Decentralized Finance (DeFi), NFTs, Social Media Promotion"
 }

@@ -36,5 +36,6 @@
   "applicantAddress": "0x929a5b2c3150FB31ba8f6aD8E5136aab71a645F7",
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for promising future impact, which is against the grant program rules.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Community Building, User Experience & Adoption, Blockchain Infrastructure, Decentralized Finance (DeFi), End-User Experience"
 }

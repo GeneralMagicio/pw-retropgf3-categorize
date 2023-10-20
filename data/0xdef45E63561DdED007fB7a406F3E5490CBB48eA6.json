@@ -53,5 +53,6 @@
   "RPGF3_Application_UID": "0xd302c9aa464d34dbf0aa5760c26101de3af88849b14193ed01ef438c9f55dede",
   "applicantAddress": "0xdef45E63561DdED007fB7a406F3E5490CBB48eA6",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Wallet, Bridge, DEX, DeFi, NFT"
 }

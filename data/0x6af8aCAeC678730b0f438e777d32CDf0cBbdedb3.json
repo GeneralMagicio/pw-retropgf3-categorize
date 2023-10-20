@@ -45,5 +45,6 @@
   "applicantAddress": "0x6af8aCAeC678730b0f438e777d32CDf0cBbdedb3",
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged because it violates rule 1 by promising future deliverables with statements such as \"These three projects will work in the future.\"",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "NFTs, Decentralized Exchanges (DEXs), Decentralized Finance (DeFi), Wallet Management"
 }

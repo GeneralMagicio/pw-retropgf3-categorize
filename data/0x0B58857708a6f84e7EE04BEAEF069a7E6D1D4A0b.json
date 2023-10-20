@@ -50,5 +50,6 @@
   "RPGF3_Application_UID": "0x3486803613fb6ff9cfaa916f62f61faa86ce9f359d0a58c8b39d23fd45c135e3",
   "applicantAddress": "0x0B58857708a6f84e7EE04BEAEF069a7E6D1D4A0b",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Governance & Tokens, Content Creation, Developer Ecosystem, Smart Contract Platforms, Community Building"
 }

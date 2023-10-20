@@ -42,5 +42,6 @@
   "pwFlaggedReason": "Flagged. The application violates rule 1, as it promises future impact and contributions for the Optimism network, but no existing or past contributions are listed.",
   "recategorizeToType": "PROJECT",
   "recategorizeReason": "NO, the person's bio, contribution and impact descriptions refer to the use of 'I', indicating that it is an individual applicant.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Community Building, Developer Ecosystem, Governance & Tokens, Smart Contract Platforms, Web3 Community Platform"
 }

@@ -40,5 +40,6 @@
   "applicantAddress": "0xBe7e66770442d7E0959afb3c1ac5B31a894A87B0",
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for promising future impact and not providing any tangible, past contributions or metrics of impact.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Tokenization Platforms, Web3 Community Platform, Decentralized Identity, Cryptocurrency Services"
 }

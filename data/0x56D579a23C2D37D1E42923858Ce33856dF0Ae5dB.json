@@ -54,5 +54,6 @@
   "RPGF3_Application_UID": "0xedcfc53628109a0273bb28b7205b8ab74c5cd4d99cb4e435ad1ec95b979a3a83",
   "applicantAddress": "0x56D579a23C2D37D1E42923858Ce33856dF0Ae5dB",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Community Building, Tokenization Platforms, End-User Experience, Web3 Community Platform"
 }

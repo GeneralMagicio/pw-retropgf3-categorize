@@ -44,5 +44,6 @@
   "pwFlaggedReason": "Yes, this application should be flagged for violating the first rule of the grant program which disallows promises of future impact as the applicant states \"We plan to showcase our artworks in the NFT space in the future.\"",
   "recategorizeToType": "PROJECT",
   "recategorizeReason": "NO, the application is incorrectly categorized. It should be categorized as \"PROJECT\" as it represents an online digital art and photography gallery \"Artislamic.com\", not an individual.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "NFTs, Digital Identity, Content Creation, Media Production"
 }

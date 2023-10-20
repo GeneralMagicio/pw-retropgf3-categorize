@@ -48,5 +48,6 @@
   "RPGF3_Application_UID": "0x94a2384711b5fee8a47509af64f69ef6874a83d7fc9f21003cf8095d80572280",
   "applicantAddress": "0x6fd96a881b72CAD783B0741309B57Cb7d0Bde18a",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "User Experience & Adoption, Blockchain Education, Tokenization Platforms, Decentralized Finance (DeFi), Cryptocurrency Services"
 }

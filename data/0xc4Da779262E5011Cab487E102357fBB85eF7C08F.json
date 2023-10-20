@@ -96,5 +96,6 @@
   "RPGF3_Application_UID": "0x3fe534fb6bbbe1ac9be485e3bbeac3321cd470c3003d11bf644402eee10a875a",
   "applicantAddress": "0xc4Da779262E5011Cab487E102357fBB85eF7C08F",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "NFTs, Open Edition NFTs, Optimism/BASE NFTs, Manga, Step-by-step Procedures"
 }

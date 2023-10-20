@@ -67,5 +67,6 @@
   "RPGF3_Application_UID": "0x7f2e8ef2821d238e8d62001c389cf1bf2a387aad76a14cc993417862a4eac3ab",
   "applicantAddress": "0x5eE94B80d60880f25048b61588d8CB23C79AA3Ae",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Blockchain Infrastructure, Content Creation, Community Building, Governance & Tokens, Developer Ecosystem"
 }

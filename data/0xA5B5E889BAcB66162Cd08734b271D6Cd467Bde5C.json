@@ -38,5 +38,6 @@
   "applicantAddress": "0xA5B5E889BAcB66162Cd08734b271D6Cd467Bde5C",
   "pwIsFlagged": true,
   "pwFlaggedReason": "Yes, this application should be flagged as it violated rule 10 (outside of the RetroPGF scope) by attributing the contributions solely to sending transactions on OP Mainnet which is clearly stated as not in scope to be rewarded in RetroPGF 3.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Layer 2 Scaling, Governance & Tokens, User Experience & Adoption, Developer Ecosystem"
 }

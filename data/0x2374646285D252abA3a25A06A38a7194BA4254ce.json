@@ -40,5 +40,6 @@
   "applicantAddress": "0x2374646285D252abA3a25A06A38a7194BA4254ce",
   "pwIsFlagged": true,
   "pwFlaggedReason": "Flag the application: The applicant's activities such as interacting, NFT minting, swapping, deploying contracts are based on user interactions on OP Mainnet, which according to Rule 10.2, are not in scope to be rewarded in RetroPGF 3.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Smart Contract Platforms, NFTs, Decentralized Finance (DeFi), Community Building, Blockchain Infrastructure"
 }

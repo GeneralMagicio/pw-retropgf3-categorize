@@ -46,5 +46,6 @@
   "applicantAddress": "0x2354A17dA6D086AC1f550c79A84aD9B152E893c2",
   "pwIsFlagged": true,
   "pwFlaggedReason": "Flagged: The application contains spam text with repetition and gibberish.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Smart Contract Platforms, Community Building, Developer Ecosystem, End-User Experience, Social Media Marketing"
 }

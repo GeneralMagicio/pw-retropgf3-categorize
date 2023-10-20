@@ -36,5 +36,6 @@
   "applicantAddress": "0x23573E054bAb87c2F64AB1C5eF85Cb35C233460a",
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for containing spam, as the contribution description and impact description are irrelevant and do not provide useful information about the applicant's contribution or impact.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Blockchain Infrastructure, Developer Ecosystem, Content Creation, User Experience & Adoption, Web3 Community Platform"
 }

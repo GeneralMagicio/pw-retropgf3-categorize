@@ -40,5 +40,6 @@
   "applicantAddress": "0x8F2c951926C62fE0E5382c3d5f79aFc81C559829",
   "pwIsFlagged": true,
   "pwFlaggedReason": "Flag the application because both the contribution and impact descriptions are composed entirely of the repeated word \"test,\" which indicates lack of a valid or serious contribution and impact.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Tokenization Platforms, Blockchain Infrastructure, User Experience & Adoption, Developer Ecosystem, Smart Contract Platforms"
 }

@@ -44,5 +44,6 @@
   "RPGF3_Application_UID": "0xd6f851b2a27d98aafd2b3b12afe598558c79629930db32d860fab046d8ee714f",
   "applicantAddress": "0x55c84f879DD31Be25b252009528D74b61bb342E0",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Community Building, NFT Aggregator, Social Promotions, Optimism Network NFTs, Financial Support"
 }

@@ -47,5 +47,6 @@
   "applicantAddress": "0xFb7D327dE8b2B37053F92c869A7b71282F48d781",
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for \"Promises of future impact\". The applicant does not describe a project or contribution that already happened but mentions what he will do in the future.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Blockchain Infrastructure, Developer Ecosystem, User Experience & Adoption, Governance Tokens, Web3 Community Platform"
 }

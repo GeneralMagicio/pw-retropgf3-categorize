@@ -45,5 +45,6 @@
   "applicantAddress": "0x8160684b00f59B8d2049C23c71bF42d6ea533c3c",
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for promising future impact. The individual stated they will contribute through various platforms, which is a promise of future actions and not a reflection of past impact.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Layer 2 Scaling, User Experience & Adoption, Developer Ecosystem, Tokenization Platforms"
 }

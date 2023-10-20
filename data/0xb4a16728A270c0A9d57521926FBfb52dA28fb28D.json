@@ -75,5 +75,6 @@
   "pwIsFlagged": false,
   "recategorizeToType": "INDIVIDUAL",
   "recategorizeReason": "NO. The application is categorized as a project, but mentions an individual (\"I would like to nominate Alex, our only developer, for RPGF. He brought two years of web3 experience to Optimism without incentive.\"). The application should be recategorized as an INDIVIDUAL.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Non-Fungible Tokens (NFTs), User Experience & Adoption, Tokenization Platforms, Blockchain Infrastructure"
 }

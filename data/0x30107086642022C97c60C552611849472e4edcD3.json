@@ -50,5 +50,6 @@
   "applicantAddress": "0x30107086642022C97c60C552611849472e4edcD3",
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged because it violates rule 1: promises of future impact. The applicant states multiple times that they hope the project will be successful in the future.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Community Building, User Experience & Adoption, Developer Ecosystem, Governance & Tokens, Cryptocurrency Services"
 }

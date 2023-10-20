@@ -47,5 +47,6 @@
   "RPGF3_Application_UID": "0x66d6757cb534340caf14f6677b3dbed90ab084fa88f3a982323e91ea4062da34",
   "applicantAddress": "0x43584Dc82a8077d8558B7c8374918Fc939574539",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Community Building, User Experience & Adoption, Governance & Tokens, Developer Ecosystem, Decentralized Finance (DeFi)"
 }

@@ -42,5 +42,6 @@
   "pwFlaggedReason": "The application should be flagged for violating the rule 1 - promises of future deliverables or impact. The applicant clearly mentions \"hopefully it can be a promising project when mainnet arrives\".",
   "recategorizeToType": "PROJECT",
   "recategorizeReason": "NO, this application is talking about a project's features and its impact rather than the individual's contribution, therefore, it should be categorized as \"PROJECT\".",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "End-User Experience, User Experience & Adoption, Blockchain Infrastructure, Smart Contract Platforms"
 }

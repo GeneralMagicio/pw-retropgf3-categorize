@@ -42,5 +42,6 @@
   "pwFlaggedReason": "This application should be flagged for promising future impact and potential violation of rule 10 as user interactions (staking) are not within the scope of RetroPGF.",
   "recategorizeToType": "INDIVIDUAL",
   "recategorizeReason": "NO, the application is categorized as a \"PROJECT\" but the language used throughout refers to a single person implying it should be categorized as an \"INDIVIDUAL\".",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Community Building, Tokenization Platforms, Governance & Tokens, Cryptocurrency Services"
 }

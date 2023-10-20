@@ -45,5 +45,6 @@
   "RPGF3_Application_UID": "0x07cbf51cad0ba6c2ceb8dcd8712dd839841360b74fa8fbab66cd2f5c1d03ce79",
   "applicantAddress": "0x3389dbE0c3a8438C3B56766c8855652CC22861cC",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Layer 2 Scaling"
 }

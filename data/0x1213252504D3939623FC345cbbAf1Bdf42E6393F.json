@@ -59,5 +59,6 @@
   "RPGF3_Application_UID": "0x97bc27f4ab99c45096bbea630f68b1205ef736c609d1225167f1d1aa7ebc35c3",
   "applicantAddress": "0x1213252504D3939623FC345cbbAf1Bdf42E6393F",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Smart Contract Platforms, Code Refactoring, Security, Blockchain Infrastructure"
 }

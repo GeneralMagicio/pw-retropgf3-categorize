@@ -52,5 +52,6 @@
   "pwIsFlagged": false,
   "recategorizeToType": "PROJECT",
   "recategorizeReason": "NO, the application is incorrectly categorized as it seems to be for a project rather than an individual given the description of a governance token and ecosystem related to Optimism, a Layer-2 network.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Layer 2 Scaling, Governance Tokens"
 }

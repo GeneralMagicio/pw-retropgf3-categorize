@@ -55,5 +55,6 @@
   "pwIsFlagged": false,
   "recategorizeToType": "INDIVIDUAL",
   "recategorizeReason": "NO, the application is categorized as a \"PROJECT\", but the bio section states \"Hello, I'm an independent developer building dApps\", which shows it should be categorized as an \"INDIVIDUAL\".",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Decentralized Identity, Smart Contract Platforms, Web3 Community Platform, Governance & Tokens, Developer Ecosystem"
 }

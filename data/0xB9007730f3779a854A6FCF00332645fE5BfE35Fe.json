@@ -48,5 +48,6 @@
   "pwIsFlagged": false,
   "recategorizeToType": "INDIVIDUAL",
   "recategorizeReason": "NO, it is not correctly categorized. The application is categorized as a \"PROJECT\" but the language used, such as \"I'm so happy\" and \"I feel very comfortable and confident\", indicates it's an individual.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Blockchain Infrastructure, Developer Ecosystem, User Experience & Adoption, Community Building"
 }

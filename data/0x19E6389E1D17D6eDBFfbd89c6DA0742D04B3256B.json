@@ -36,5 +36,6 @@
   "applicantAddress": "0x19E6389E1D17D6eDBFfbd89c6DA0742D04B3256B",
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for violating the following rules: \"False statements & deception\" due to providing an incorrect contract address URL, and \"Spam\" due to the lack of meaningful and relevant information in the contribution description and impact description.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Content Creation, Community Building, User Experience & Adoption, Media Production, Cryptocurrency Services"
 }

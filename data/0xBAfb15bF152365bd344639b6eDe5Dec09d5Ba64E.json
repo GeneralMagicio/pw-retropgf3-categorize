@@ -90,5 +90,6 @@
   "RPGF3_Application_UID": "0x8a7f7c5ab681ab20b64530c7b28f268f63caa9154fca76ba128e20ea5503c16a",
   "applicantAddress": "0xBAfb15bF152365bd344639b6eDe5Dec09d5Ba64E",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "NFT Platforms, Layer 2 Scaling, Tokenization Platforms, Blockchain Infrastructure, Community Building"
 }

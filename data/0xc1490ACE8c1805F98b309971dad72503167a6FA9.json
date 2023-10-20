@@ -41,5 +41,6 @@
   "RPGF3_Application_UID": "0x7f76b382957f1850ecd5214b58ed2781e68419dfa9fc60538d6bbaf8f6d46cf0",
   "applicantAddress": "0xc1490ACE8c1805F98b309971dad72503167a6FA9",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Tokenization Platforms, DeFi, NFTs, Web3 Community Platform, Media Production"
 }

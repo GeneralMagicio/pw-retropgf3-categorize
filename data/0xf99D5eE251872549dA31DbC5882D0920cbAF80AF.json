@@ -38,5 +38,6 @@
   "pwIsFlagged": false,
   "recategorizeToType": "PROJECT",
   "recategorizeReason": "NO, the use of \"we\" in the bio indicates this might be a group or project, not an individual.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Community Building, Content Creation, Web3 Community Platform, Cryptocurrency Services, Media Production"
 }

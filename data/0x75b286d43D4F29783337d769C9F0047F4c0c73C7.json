@@ -43,5 +43,6 @@
   "applicantAddress": "0x75b286d43D4F29783337d769C9F0047F4c0c73C7",
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged because it seems to violate rule 6 - it appears the applicant is seeking to use this grant program to advertise and promote network updates and projects.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Layer 2 Scaling, Advertising, Tokenization Platforms, Developer Ecosystem, End-User Experience"
 }

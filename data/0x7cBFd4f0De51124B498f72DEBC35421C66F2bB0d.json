@@ -102,5 +102,6 @@
   "RPGF3_Application_UID": "0xd2e8491c9c5e761a1b3899ecb329d0bf37b9fcff152cda962508108d1bd8ec47",
   "applicantAddress": "0x7cBFd4f0De51124B498f72DEBC35421C66F2bB0d",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Decentralized Exchanges (DEXs), Cross-Chain Platforms, Smart Contract Platforms, Tokenization Platforms, End-User Experience"
 }

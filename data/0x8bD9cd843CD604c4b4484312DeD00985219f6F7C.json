@@ -43,5 +43,6 @@
   "pwIsFlagged": false,
   "recategorizeToType": "PROJECT",
   "recategorizeReason": "NO, it should be categorized as \"PROJECT\" because it refers to a collective entity (VRNouns) and it talks about \"we\", indicating a group rather than an individual.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Content Creation, Community Building, Governance & Tokens, Tokenization Platforms, Blockchain Infrastructure"
 }

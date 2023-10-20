@@ -35,5 +35,6 @@
   "RPGF3_Application_UID": "0x5eb0a26596141c7eb83d58dd927ca560dcc846bc987437d39cda4606588ad33a",
   "applicantAddress": "0xe437BC0fE994a491d01Ea651ed63C0892d85ce45",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "NFT Marketplace"
 }

@@ -36,5 +36,6 @@
   "RPGF3_Application_UID": "0xf198da2031fe8c14483ab9fd0dff206ace9f288c336d7af0b9b67d5e7cc86b54",
   "applicantAddress": "0xeCf848F122fC67Db08f1aafA97720D795A8EDFbc",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Layer 2 Scaling, Developer Ecosystem, Blockchain Infrastructure, Smart Contract Platforms, Content Creation"
 }

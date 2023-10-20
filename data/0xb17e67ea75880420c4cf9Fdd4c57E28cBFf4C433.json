@@ -46,5 +46,6 @@
   "pwFlaggedReason": "This application should be flagged for violating the rules of promising future impact and potential deception. The individual's contribution and impact descriptions unpersuasively state a vague intent of future help without showing a clear past contribution or impact in the Web3 or blockchain space.",
   "recategorizeToType": "PROJECT",
   "recategorizeReason": "NO, the application is not correctly categorized. Although \"applicantType\" is mentioned as \"INDIVIDUAL\", the contribution and impact description are pertaining to a project \"Optimism Collective\", suggesting it should be categorized as a \"PROJECT\".",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Blockchain Infrastructure, Governance Tokens, Developer Ecosystem"
 }

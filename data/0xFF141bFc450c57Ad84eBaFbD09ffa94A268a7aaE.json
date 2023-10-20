@@ -75,5 +75,6 @@
   "RPGF3_Application_UID": "0xd177accf024b0486e7e1760bc3f0d2a42b9651d2f207c3ce4101aefeff25a11c",
   "applicantAddress": "0xFF141bFc450c57Ad84eBaFbD09ffa94A268a7aaE",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Blockchain Art"
 }

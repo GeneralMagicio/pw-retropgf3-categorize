@@ -39,5 +39,6 @@
   "pwFlaggedReason": "The application should be flagged for containing content in a language other than English, which is against the rule number 11.",
   "recategorizeToType": "INDIVIDUAL",
   "recategorizeReason": "NO, it is not correctly categorized. The application mentions \"kami\" which means \"we\" in Indonesian but also uses personal pronouns such as \"saya\" which means \"I\", indicating this could be an application from an individual rather than a project.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Community Building, Developer Ecosystem, User Experience & Adoption, Tokenization Platforms, Web3 Community Platform"
 }

@@ -76,5 +76,6 @@
   "pwIsFlagged": false,
   "recategorizeToType": "INDIVIDUAL",
   "recategorizeReason": "NO, the application is not correctly categorized. The applicant talks about \"I\" and \"me\" within the application indicating that it is coming from an individual not a project.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Blockchain Education, Decentralized Finance (DeFi), Layer 2 Scaling, Ethereum, Media Production"
 }

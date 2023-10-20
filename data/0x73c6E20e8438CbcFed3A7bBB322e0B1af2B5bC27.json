@@ -37,5 +37,6 @@
   "RPGF3_Application_UID": "0x0b7647cfc44084111007fd606f77f660c50d31ef202cfc4e537cc79606acf3e8",
   "applicantAddress": "0x73c6E20e8438CbcFed3A7bBB322e0B1af2B5bC27",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Content Creation, Community Building, User Experience & Adoption, Media Production, Cryptocurrency Services"
 }

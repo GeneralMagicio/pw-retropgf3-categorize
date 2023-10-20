@@ -42,5 +42,6 @@
   "RPGF3_Application_UID": "0xf4eb9aadb3de094b78cd2af2ce146c55d83309c3e63f0880aace2ce8d0928a46",
   "applicantAddress": "0x2AC6A3561a43f06d62602eF9728C2B9eEc393326",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Decentralized Identity, NFT Aggregator, Web3 Community Platform, Tokenization Platforms, Content Creation"
 }

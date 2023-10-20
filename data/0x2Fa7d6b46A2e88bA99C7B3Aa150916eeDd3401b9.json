@@ -43,5 +43,6 @@
   "RPGF3_Application_UID": "0xb33c433cd0108b04d1f76ce45237d3b074479715b13a99942b70ca3d7f6f8e5c",
   "applicantAddress": "0x2Fa7d6b46A2e88bA99C7B3Aa150916eeDd3401b9",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Community Building, User Experience & Adoption, Governance & Tokens, Developer Ecosystem, End-User Experience"
 }

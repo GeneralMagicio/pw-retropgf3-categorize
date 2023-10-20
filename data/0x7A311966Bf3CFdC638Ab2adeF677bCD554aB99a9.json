@@ -44,5 +44,6 @@
   "applicantAddress": "0x7A311966Bf3CFdC638Ab2adeF677bCD554aB99a9",
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for violating rule 10. The applicant just making transactions on the Optimism Network and following its social media does not count as a contribution.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Smart Contract Platforms, Layer 2 Scaling, Decentralized Finance (DeFi), Community Building, User Experience & Adoption"
 }

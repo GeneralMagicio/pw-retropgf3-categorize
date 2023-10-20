@@ -45,5 +45,6 @@
   "applicantAddress": "0x5635388c4E0a2117fd1Fe9501Aa6E1FCeb31cca6",
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for promising future impact and potential advertising, as the applicant talks about hoping to promote and support artists in the future which falls into a promise of future deliverables or impact and could be seen as using the application to showcase artists they support.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Tokenization Platforms, NFTs, Community Building"
 }

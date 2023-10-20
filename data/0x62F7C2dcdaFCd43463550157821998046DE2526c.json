@@ -53,5 +53,6 @@
   "applicantAddress": "0x62F7C2dcdaFCd43463550157821998046DE2526c",
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged as it violates Rule 11: it's not in English.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Content Creation, Blockchain Education, Developer Ecosystem, User Experience & Adoption, Tokenization Platforms"
 }

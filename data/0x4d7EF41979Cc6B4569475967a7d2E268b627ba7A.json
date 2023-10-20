@@ -42,5 +42,6 @@
   "pwFlaggedReason": "This application should be flagged for making promises of future impact which violates the rules of the grants program.",
   "recategorizeToType": "INDIVIDUAL",
   "recategorizeReason": "No, this application is not correctly categorized. The application uses first person pronouns (\"I\", \"me\"), indicating that it should be categorized as an \"INDIVIDUAL\" not a \"PROJECT\".",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Tokenization Platforms, Cross-Chain Platforms, Governance & Tokens, User Experience & Adoption"
 }

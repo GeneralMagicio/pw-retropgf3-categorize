@@ -134,5 +134,6 @@
   "RPGF3_Application_UID": "0x39f6a193de5751725d5fb54dd3a5e9ea52c7057e5073d96f9e8017715941bd79",
   "applicantAddress": "0x9ED5c1B24478f5069fEbd8359A3869F971C365c3",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Content Creation, Community Building, Digital Identity"
 }

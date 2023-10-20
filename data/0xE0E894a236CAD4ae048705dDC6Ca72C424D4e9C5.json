@@ -39,5 +39,6 @@
   "pwFlaggedReason": "This application should be flagged for violating the program rules 10.1 and 10.2 as the applicant states that their contribution is sending transactions and voting in governance, which are user interactions that are explicitly stated as not in scope for RetroPGF 3.",
   "recategorizeToType": "INDIVIDUAL",
   "recategorizeReason": "NO. The application is from an individual, not a project, as indicated by the use of \"I\" in the description of contributions and impact.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Community Building, Developer Ecosystem, Governance & Tokens, User Experience & Adoption, Blockchain Infrastructure"
 }

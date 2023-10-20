@@ -66,5 +66,6 @@
   "RPGF3_Application_UID": "0x57cf04bdf56d0fae837e4c57625d7ce61acf6d20504b143308a4adca752a53ce",
   "applicantAddress": "0x543Dea2479Bb8527C71bf4E52802B017212589e6",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Media Production"
 }

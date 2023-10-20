@@ -36,5 +36,6 @@
   "RPGF3_Application_UID": "0x4c583402fb44f7b5c40a523b6adcdef402a347eccaec42e0d1e8bb567192150f",
   "applicantAddress": "0xAE64b79C5bC01e234DD3FFB7EAAa36E92b4dD23B",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Web3 Education & Adoption, Layer 2 Scaling, Content Creation, Community Building, User Experience & Adoption"
 }

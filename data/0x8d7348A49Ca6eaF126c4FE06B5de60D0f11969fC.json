@@ -39,5 +39,6 @@
   "applicantAddress": "0x8d7348A49Ca6eaF126c4FE06B5de60D0f11969fC",
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for violation of rule number 6: Advertising - the URL provided by the applicant points to a website with a clear advertisement flag.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Blockchain Gaming, Content Creation, Community Building, Media Production, Cryptocurrency Services"
 }

@@ -66,5 +66,6 @@
   "RPGF3_Application_UID": "0x5cd5371140b69253a24153923acd6c638479205643e21316b3864dbd46338201",
   "applicantAddress": "0x574755975ce360Bf70aa4960950A95AE3A2C0f92",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Cross-Chain Platforms, Privacy Coins, Layer 2 Scaling"
 }

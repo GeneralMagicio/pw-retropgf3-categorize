@@ -46,5 +46,6 @@
   "RPGF3_Application_UID": "0x0e5974f587724bffd2ef6415c468f96a65a2749ab920a3c7ef14567fd6480a11",
   "applicantAddress": "0x74fa01a5D0ef8039f1E14F4d4C8f90e8602e07B4",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Tokenization Platforms, Tax Tools, Web3 Community Platform, Blockchain Education, End-User Experience"
 }

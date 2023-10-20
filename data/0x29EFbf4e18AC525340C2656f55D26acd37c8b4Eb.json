@@ -44,5 +44,6 @@
   "applicantAddress": "0x29EFbf4e18AC525340C2656f55D26acd37c8b4Eb",
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged due to rule 11: spam. The application includes irrelevant and nonsensical text in the contribution and impact descriptions.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Tokenization Platforms, Developer Ecosystem, Web3 Community Platform, Smart Contract Platforms, Decentralized Finance (DeFi)"
 }
