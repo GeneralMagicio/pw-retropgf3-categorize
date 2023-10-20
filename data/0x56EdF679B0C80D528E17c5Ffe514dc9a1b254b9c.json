@@ -56,5 +56,6 @@
   "recategorizeToType": "INDIVIDUAL",
   "recategorizeReason": "NO, this application should be categorized as INDIVIDUAL because the bio refers to \"I\" and \"me\", indicating that the applicant is an individual.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Layer 2 Scaling, Smart Contract Platforms, Blockchain Infrastructure, Developer Ecosystem, Blockchain Education"
+  "pwCategorySuggestions": "Layer 2 Scaling, Smart Contract Platforms, Blockchain Infrastructure, Developer Ecosystem, Blockchain Education",
+  "pwCategory": "Developer Ecosystem"
 }

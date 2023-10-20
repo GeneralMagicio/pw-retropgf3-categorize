@@ -49,5 +49,6 @@
   "applicantAddress": "0x09a5943a6d10919571eE2C9F63380aEA747ECA97",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Content Creation, Data Analysis, Blockchain Infrastructure, User Experience & Adoption, Community Building"
+  "pwCategorySuggestions": "Content Creation, Data Analysis, Blockchain Infrastructure, User Experience & Adoption, Community Building",
+  "pwCategory": "Blockchain Infrastructure"
 }

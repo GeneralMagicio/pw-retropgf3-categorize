@@ -53,5 +53,6 @@
   "applicantAddress": "0x071D9fe61cE306AEF04b7889780f889f444D7BF7",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Smart Contract Platforms, Wallet Management, NFT Aggregator, Trading Tools"
+  "pwCategorySuggestions": "Smart Contract Platforms, Wallet Management, NFT Aggregator, Trading Tools",
+  "pwCategory": "Wallet Management"
 }

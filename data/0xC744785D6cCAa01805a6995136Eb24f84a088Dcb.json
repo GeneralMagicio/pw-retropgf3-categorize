@@ -43,5 +43,6 @@
   "applicantAddress": "0xC744785D6cCAa01805a6995136Eb24f84a088Dcb",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, Digital Identity, Decentralized Finance (DeFi), Blockchain Education, Developer Ecosystem"
+  "pwCategorySuggestions": "Community Building, Digital Identity, Decentralized Finance (DeFi), Blockchain Education, Developer Ecosystem",
+  "pwCategory": "Blockchain Education"
 }

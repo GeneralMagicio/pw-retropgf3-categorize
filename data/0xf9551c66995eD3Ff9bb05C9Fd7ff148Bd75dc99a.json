@@ -64,5 +64,6 @@
   "applicantAddress": "0xf9551c66995eD3Ff9bb05C9Fd7ff148Bd75dc99a",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Governance, Layer 2 Scaling, Web3 Community Platform, Smart Contract Platforms, Governance & Tokens"
+  "pwCategorySuggestions": "Decentralized Governance, Layer 2 Scaling, Web3 Community Platform, Smart Contract Platforms, Governance & Tokens",
+  "pwCategory": "Governance & Tokens"
 }

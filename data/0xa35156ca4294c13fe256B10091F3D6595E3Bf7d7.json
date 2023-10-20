@@ -71,5 +71,6 @@
   "applicantAddress": "0xa35156ca4294c13fe256B10091F3D6595E3Bf7d7",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Identity, User Experience & Adoption, Web3 Community Platform, Blockchain Infrastructure"
+  "pwCategorySuggestions": "Decentralized Identity, User Experience & Adoption, Web3 Community Platform, Blockchain Infrastructure",
+  "pwCategory": "End User Experience and Adoption"
 }

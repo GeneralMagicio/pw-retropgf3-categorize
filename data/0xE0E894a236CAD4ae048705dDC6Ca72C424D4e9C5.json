@@ -40,5 +40,6 @@
   "recategorizeToType": "INDIVIDUAL",
   "recategorizeReason": "NO. The application is from an individual, not a project, as indicated by the use of \"I\" in the description of contributions and impact.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, Developer Ecosystem, Governance & Tokens, User Experience & Adoption, Blockchain Infrastructure"
+  "pwCategorySuggestions": "Community Building, Developer Ecosystem, Governance & Tokens, User Experience & Adoption, Blockchain Infrastructure",
+  "pwCategory": "Community Building"
 }

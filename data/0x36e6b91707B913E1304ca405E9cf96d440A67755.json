@@ -37,5 +37,6 @@
   "applicantAddress": "0x36e6b91707B913E1304ca405E9cf96d440A67755",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Content Creation, Community Building, Educator"
+  "pwCategorySuggestions": "Content Creation, Community Building, Educator",
+  "pwCategory": "Community Building"
 }

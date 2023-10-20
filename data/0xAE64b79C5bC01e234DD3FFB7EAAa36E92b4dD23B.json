@@ -37,5 +37,6 @@
   "applicantAddress": "0xAE64b79C5bC01e234DD3FFB7EAAa36E92b4dD23B",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Web3 Education & Adoption, Layer 2 Scaling, Content Creation, Community Building, User Experience & Adoption"
+  "pwCategorySuggestions": "Web3 Education & Adoption, Layer 2 Scaling, Content Creation, Community Building, User Experience & Adoption",
+  "pwCategory": "Web3 Education & Adoption"
 }

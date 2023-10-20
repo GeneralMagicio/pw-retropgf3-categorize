@@ -45,5 +45,6 @@
   "applicantAddress": "0x81F10d99464d604EA1E9242DC71733a506E95b4e",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, End-User Experience, Governance & Tokens"
+  "pwCategorySuggestions": "Community Building, End-User Experience, Governance & Tokens",
+  "pwCategory": "Community Building"
 }

@@ -44,5 +44,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for violating rules number 2 and 10. This application contains false or misleading information about the applicant's contributions to the blockchain space, and does not have a clear relationship to Optimism.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, User Experience & Adoption"
+  "pwCategorySuggestions": "Community Building, User Experience & Adoption",
+  "pwCategory": "Community Building"
 }

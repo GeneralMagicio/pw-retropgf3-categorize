@@ -75,5 +75,6 @@
   "applicantAddress": "0x22e2f326FE5A1d07E1214EB1C08346Fd816E8375",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Education, Community Building, User Experience & Adoption, Governance & Tokens, Smart Contract Platforms"
+  "pwCategorySuggestions": "Education, Community Building, User Experience & Adoption, Governance & Tokens, Smart Contract Platforms",
+  "pwCategory": "Education"
 }

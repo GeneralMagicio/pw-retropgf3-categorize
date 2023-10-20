@@ -36,5 +36,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged because it violates rule 10; the grant applicant's description of their contribution is mainly centered around personal trading, which per the rule, simply sending transactions wouldn't qualify as a valid contribution.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Smart Contract Platforms, Layer 2 Scaling, Decentralized Finance (DeFi)"
+  "pwCategorySuggestions": "Smart Contract Platforms, Layer 2 Scaling, Decentralized Finance (DeFi)",
+  "pwCategory": "End User Experience and Adoption"
 }

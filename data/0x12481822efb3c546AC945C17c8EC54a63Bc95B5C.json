@@ -42,5 +42,6 @@
   "applicantAddress": "0x12481822efb3c546AC945C17c8EC54a63Bc95B5C",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Finance (DeFi), Options Market Making, Arbitrage, Governance Tokens, Developer Ecosystem"
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Options Market Making, Arbitrage, Governance Tokens, Developer Ecosystem",
+  "pwCategory": "Decentralized Finance (DeFi)"
 }

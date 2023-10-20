@@ -148,5 +148,6 @@
   "applicantAddress": "0xCb31f0beCfc9D011676E7F84CbCD10fe4717f252",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Researcher / Content Creator, Blockchain Education, Developer Ecosystem, Tokenization Platforms, Web3 Community Platform"
+  "pwCategorySuggestions": "Researcher / Content Creator, Blockchain Education, Developer Ecosystem, Tokenization Platforms, Web3 Community Platform",
+  "pwCategory": "Blockchain Education"
 }

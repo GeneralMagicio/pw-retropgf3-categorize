@@ -56,5 +56,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged because it promises future deliverables or impact which is violation of Rule 1.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Identity, Smart Contract Platforms, Governance Tokens, Content Creation, Community Building"
+  "pwCategorySuggestions": "Decentralized Identity, Smart Contract Platforms, Governance Tokens, Content Creation, Community Building",
+  "pwCategory": "Optimism Ambassador"
 }

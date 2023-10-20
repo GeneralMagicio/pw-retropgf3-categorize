@@ -56,5 +56,6 @@
   "recategorizeToType": "INDIVIDUAL",
   "recategorizeReason": "NO, it should be categorized as an INDIVIDUAL because the bio refers to \"I\" and \"me\", indicating it's a person, not a project.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Blockchain Infrastructure, Decentralized Finance (DeFi), Privacy Coins, Governance & Tokens, Web3 Community Platform"
+  "pwCategorySuggestions": "Blockchain Infrastructure, Decentralized Finance (DeFi), Privacy Coins, Governance & Tokens, Web3 Community Platform",
+  "pwCategory": "Blockchain Infrastructure"
 }

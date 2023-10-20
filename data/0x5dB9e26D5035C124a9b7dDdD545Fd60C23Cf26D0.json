@@ -37,5 +37,6 @@
   "applicantAddress": "0x5dB9e26D5035C124a9b7dDdD545Fd60C23Cf26D0",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Web3 Community Platform, Governance & Tokens, Decentralized Finance (DeFi), Developer Ecosystem, Tokenization Platforms"
+  "pwCategorySuggestions": "Web3 Community Platform, Governance & Tokens, Decentralized Finance (DeFi), Developer Ecosystem, Tokenization Platforms",
+  "pwCategory": "Optimism Ambassador"
 }

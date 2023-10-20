@@ -44,5 +44,6 @@
   "applicantAddress": "0xb8d3B75EF1719A0D4f20224686F7e314Ccb3315C",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, Content Creation, Positive Change"
+  "pwCategorySuggestions": "Community Building, Content Creation, Positive Change",
+  "pwCategory": "Community Building"
 }

@@ -46,5 +46,6 @@
   "recategorizeToType": "INDIVIDUAL",
   "recategorizeReason": "NO, the application is not correctly categorized. It talks about \"I\" and \"me\", indicating that the applicant is an individual, not a project.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, User Experience & Adoption, Content Creation."
+  "pwCategorySuggestions": "Community Building, User Experience & Adoption, Content Creation.",
+  "pwCategory": "Community Building"
 }

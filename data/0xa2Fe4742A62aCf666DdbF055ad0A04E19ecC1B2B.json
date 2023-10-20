@@ -60,5 +60,6 @@
   "applicantAddress": "0xa2Fe4742A62aCf666DdbF055ad0A04E19ecC1B2B",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Web3 Community Platform, Developer Ecosystem, Blockchain Infrastructure"
+  "pwCategorySuggestions": "Web3 Community Platform, Developer Ecosystem, Blockchain Infrastructure",
+  "pwCategory": "Developer Ecosystem"
 }

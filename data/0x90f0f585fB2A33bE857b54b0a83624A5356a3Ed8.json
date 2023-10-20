@@ -45,5 +45,6 @@
   "applicantAddress": "0x90f0f585fB2A33bE857b54b0a83624A5356a3Ed8",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Developer Ecosystem, Support & Donations, Layer 2 Scaling, Smart Contract Platforms, Web3 Community Platform"
+  "pwCategorySuggestions": "Developer Ecosystem, Support & Donations, Layer 2 Scaling, Smart Contract Platforms, Web3 Community Platform",
+  "pwCategory": "Optimism Ambassador"
 }

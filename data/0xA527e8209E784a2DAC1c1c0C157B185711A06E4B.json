@@ -44,5 +44,6 @@
   "applicantAddress": "0xA527e8209E784a2DAC1c1c0C157B185711A06E4B",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Finance (DeFi), Gas Optimization, Passive Income, Financial Education"
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Gas Optimization, Passive Income, Financial Education",
+  "pwCategory": "Decentralized Finance (DeFi)"
 }

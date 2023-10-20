@@ -44,5 +44,6 @@
   "applicantAddress": "0x9a2270b2F51423D0434ED10b7a55531374881f4D",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Finance (DeFi), Tokenization Platforms, Centralized Exchanges (CEXs), Staking, End-User Experience"
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Tokenization Platforms, Centralized Exchanges (CEXs), Staking, End-User Experience",
+  "pwCategory": "Decentralized Finance (DeFi)"
 }

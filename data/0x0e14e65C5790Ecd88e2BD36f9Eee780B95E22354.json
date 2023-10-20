@@ -67,5 +67,6 @@
   "applicantAddress": "0x0e14e65C5790Ecd88e2BD36f9Eee780B95E22354",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Layer 2 Scaling, Smart Contract Platforms, Wallet Management, Decentralized Exchanges (DEXs), Cross-Chain Platforms"
+  "pwCategorySuggestions": "Layer 2 Scaling, Smart Contract Platforms, Wallet Management, Decentralized Exchanges (DEXs), Cross-Chain Platforms",
+  "pwCategory": "Decentralized Finance (DeFi)"
 }

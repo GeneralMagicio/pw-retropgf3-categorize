@@ -39,5 +39,6 @@
   "recategorizeToType": "PROJECT",
   "recategorizeReason": "NO, the application is not correctly categorized as it refers to \"we\" indicating it most likely is a project rather than an individual.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Blockchain Infrastructure, Community Building, Developer Ecosystem, Governance & Tokens, End-User Experience"
+  "pwCategorySuggestions": "Blockchain Infrastructure, Community Building, Developer Ecosystem, Governance & Tokens, End-User Experience",
+  "pwCategory": "Developer Ecosystem"
 }

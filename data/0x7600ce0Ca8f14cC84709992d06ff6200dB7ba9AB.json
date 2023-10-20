@@ -43,5 +43,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged due to violating the rule 1 of promising future impact and being vague about their past contributions. The applicant does not provide specific details about his past contributions to the blockchain space, instead chooses to promise his commitment to the future activities.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Finance (DeFi), Non-Fungible Tokens (NFTs), Layer 2 Scaling, Smart Contract Platforms, Community Building"
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Non-Fungible Tokens (NFTs), Layer 2 Scaling, Smart Contract Platforms, Community Building",
+  "pwCategory": "Optimism Ambassador"
 }

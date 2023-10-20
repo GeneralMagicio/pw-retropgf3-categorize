@@ -40,5 +40,6 @@
   "applicantAddress": "0x2E32E3c59a8259C7FfEB971F83237b0335245ad8",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, Layer 2 Scaling, Education, Web3 Community Platform, Governance Tokens"
+  "pwCategorySuggestions": "Community Building, Layer 2 Scaling, Education, Web3 Community Platform, Governance Tokens",
+  "pwCategory": "Community Building"
 }

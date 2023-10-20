@@ -54,5 +54,6 @@
   "applicantAddress": "0x9340d7Cabb81E95a8CAC60e997E97543D2371aDd",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, NFT Aggregator, User Experience & Adoption, Decentralized Finance (DeFi), Beta testing"
+  "pwCategorySuggestions": "Community Building, NFT Aggregator, User Experience & Adoption, Decentralized Finance (DeFi), Beta testing",
+  "pwCategory": "Community Building"
 }

@@ -40,5 +40,6 @@
   "recategorizeToType": "PROJECT",
   "recategorizeReason": "NO, the application is misclassified. Despite the applicantType being \"INDIVIDUAL\", the applicant refers to team events and contributions to the collective, suggesting that this might be a PROJECT application.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, User Experience & Adoption, Governance & Tokens, Developer Ecosystem, Decentralized Identity"
+  "pwCategorySuggestions": "Community Building, User Experience & Adoption, Governance & Tokens, Developer Ecosystem, Decentralized Identity",
+  "pwCategory": "End User Experience and Adoption"
 }

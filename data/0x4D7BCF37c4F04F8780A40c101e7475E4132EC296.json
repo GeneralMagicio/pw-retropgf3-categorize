@@ -37,5 +37,6 @@
   "applicantAddress": "0x4D7BCF37c4F04F8780A40c101e7475E4132EC296",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Governance & Tokens, Community Building, User Experience & Adoption, Developer Ecosystem, Blockchain Infrastructure"
+  "pwCategorySuggestions": "Governance & Tokens, Community Building, User Experience & Adoption, Developer Ecosystem, Blockchain Infrastructure",
+  "pwCategory": "Developer Ecosystem"
 }

@@ -44,5 +44,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged because the applicant has not demonstrated any real past contribution to the Web3/blockchain space as per the rules.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Content Creation, Community Building, Tokenization Platforms, Decentralized Finance (DeFi), User Experience & Adoption"
+  "pwCategorySuggestions": "Content Creation, Community Building, Tokenization Platforms, Decentralized Finance (DeFi), User Experience & Adoption",
+  "pwCategory": "Community Building"
 }

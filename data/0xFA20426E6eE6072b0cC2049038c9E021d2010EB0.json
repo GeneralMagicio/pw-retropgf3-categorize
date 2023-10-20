@@ -51,5 +51,6 @@
   "applicantAddress": "0xFA20426E6eE6072b0cC2049038c9E021d2010EB0",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Finance (DeFi), Smart Contract Platforms, Developer Ecosystem, Blockchain Infrastructure, Non-Fungible Tokens (NFTs)"
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Smart Contract Platforms, Developer Ecosystem, Blockchain Infrastructure, Non-Fungible Tokens (NFTs)",
+  "pwCategory": "Developer Ecosystem"
 }

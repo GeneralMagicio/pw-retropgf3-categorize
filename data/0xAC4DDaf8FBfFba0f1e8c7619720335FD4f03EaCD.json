@@ -50,5 +50,6 @@
   "applicantAddress": "0xAC4DDaf8FBfFba0f1e8c7619720335FD4f03EaCD",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Web3 Education, Blockchain Gaming, Web3 Wallets, Web3 Adoption, Decentralized Identity"
+  "pwCategorySuggestions": "Web3 Education, Blockchain Gaming, Web3 Wallets, Web3 Adoption, Decentralized Identity",
+  "pwCategory": "Blockchain Education"
 }

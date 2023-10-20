@@ -42,5 +42,6 @@
   "applicantAddress": "0x20Cd91b4Ca4bC98a9df47E5CC5432dCc35a2FEDa",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Blockchain Gaming, Layer 2 Scaling, Decentralized Applications (dApps), Client-side Proofs, Composable Applications"
+  "pwCategorySuggestions": "Blockchain Gaming, Layer 2 Scaling, Decentralized Applications (dApps), Client-side Proofs, Composable Applications",
+  "pwCategory": "Developer Ecosystem"
 }

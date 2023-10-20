@@ -143,5 +143,6 @@
   "applicantAddress": "0xd2135CfB216b74109775236E36d4b433F1DF507B",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Smart Contract Platforms, Tokenization Platforms, Blockchain Infrastructure, Developer Ecosystem, Web3 Community Platform"
+  "pwCategorySuggestions": "Smart Contract Platforms, Tokenization Platforms, Blockchain Infrastructure, Developer Ecosystem, Web3 Community Platform",
+  "pwCategory": "Developer Ecosystem"
 }

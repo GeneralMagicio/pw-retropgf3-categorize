@@ -38,5 +38,6 @@
   "applicantAddress": "0xc4c24DE5AF4b2c9edeE8bf4526c1f4443E878497",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Blockchain Education, Developer Ecosystem, Governance & Tokens, Decentralized Finance (DeFi), Content Creation"
+  "pwCategorySuggestions": "Blockchain Education, Developer Ecosystem, Governance & Tokens, Decentralized Finance (DeFi), Content Creation",
+  "pwCategory": "Education"
 }

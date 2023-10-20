@@ -44,5 +44,6 @@
   "applicantAddress": "0x2411F16A75C499636FC5F4E0b1df92717A9864BC",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Media Production"
+  "pwCategorySuggestions": "Media Production",
+  "pwCategory": "Influencer Marketing"
 }

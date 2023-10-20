@@ -46,5 +46,6 @@
   "recategorizeToType": "PROJECT",
   "recategorizeReason": "NO, the application is not correctly categorized as \"INDIVIDUAL\". The application talks about \"we\" and \"our\", implying it represents a group or a project rather than an individual.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building"
+  "pwCategorySuggestions": "Community Building",
+  "pwCategory": "Community Building"
 }

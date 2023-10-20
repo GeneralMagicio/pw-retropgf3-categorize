@@ -48,5 +48,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for violating the rule about \"Promises of future impact\". The applicant mentions their project, the TokenHunters Dapp, is set to launch in Q4 2023 and requires funding for future optimization and expansion, which are future deliverables.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Blockchain Infrastructure, Web3 Community Platform, Tokenization Platforms"
+  "pwCategorySuggestions": "Blockchain Infrastructure, Web3 Community Platform, Tokenization Platforms",
+  "pwCategory": "Web3 Community Platform"
 }

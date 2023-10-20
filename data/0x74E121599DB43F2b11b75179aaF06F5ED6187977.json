@@ -60,5 +60,6 @@
   "applicantAddress": "0x74E121599DB43F2b11b75179aaF06F5ED6187977",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, Developer Ecosystem, End-User Experience, Web3 Community Platform, Social Media Marketing"
+  "pwCategorySuggestions": "Community Building, Developer Ecosystem, End-User Experience, Web3 Community Platform, Social Media Marketing",
+  "pwCategory": "Influencer Marketing"
 }

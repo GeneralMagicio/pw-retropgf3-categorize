@@ -54,5 +54,6 @@
   "applicantAddress": "0x96A4715280c3Dac3F3093d51aA278aA5eb60ffDE",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Developer Ecosystem, Smart Contract Platforms, User Experience & Adoption, Content Creation, Decentralized Applications (DApps)"
+  "pwCategorySuggestions": "Developer Ecosystem, Smart Contract Platforms, User Experience & Adoption, Content Creation, Decentralized Applications (DApps)",
+  "pwCategory": "Developer Ecosystem"
 }

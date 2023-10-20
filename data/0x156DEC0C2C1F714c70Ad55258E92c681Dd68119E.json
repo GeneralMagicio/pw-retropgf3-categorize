@@ -44,5 +44,6 @@
   "applicantAddress": "0x156DEC0C2C1F714c70Ad55258E92c681Dd68119E",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Layer 2 Scaling, Smart Contract Platforms, Decentralized Finance (DeFi), Governance Tokens, Blockchain Infrastructure"
+  "pwCategorySuggestions": "Layer 2 Scaling, Smart Contract Platforms, Decentralized Finance (DeFi), Governance Tokens, Blockchain Infrastructure",
+  "pwCategory": "Collective Governance"
 }

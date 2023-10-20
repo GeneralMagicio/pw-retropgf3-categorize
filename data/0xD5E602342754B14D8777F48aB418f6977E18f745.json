@@ -37,5 +37,6 @@
   "applicantAddress": "0xD5E602342754B14D8777F48aB418f6977E18f745",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Tokenization Platforms, Digital Identity, Decentralized Finance (DeFi), Content Creation, Community Building"
+  "pwCategorySuggestions": "Tokenization Platforms, Digital Identity, Decentralized Finance (DeFi), Content Creation, Community Building",
+  "pwCategory": "Content Creation"
 }

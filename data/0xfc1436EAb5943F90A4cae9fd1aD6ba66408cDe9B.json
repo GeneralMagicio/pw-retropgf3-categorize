@@ -107,5 +107,6 @@
   "applicantAddress": "0xfc1436EAb5943F90A4cae9fd1aD6ba66408cDe9B",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Token Engineering Commons, Grants, Optimism, Programmable Smart Contracts, Ethereum Research"
+  "pwCategorySuggestions": "Token Engineering Commons, Grants, Optimism, Programmable Smart Contracts, Ethereum Research",
+  "pwCategory": "Developer Ecosystem"
 }

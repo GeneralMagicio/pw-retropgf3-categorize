@@ -69,5 +69,6 @@
   "applicantAddress": "0x3C43AA8E525d0CA2fab672CD55F79dE777295e99",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "End-User Experience & Adoption, Governance & Tokens, Developer Ecosystem, Collective Governance, Content Creation"
+  "pwCategorySuggestions": "End-User Experience & Adoption, Governance & Tokens, Developer Ecosystem, Collective Governance, Content Creation",
+  "pwCategory": "End User Experience and Adoption"
 }

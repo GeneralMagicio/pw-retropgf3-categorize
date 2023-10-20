@@ -54,5 +54,6 @@
   "applicantAddress": "0xEc10Ac0784B5DE2Fad69332e5a90B46eebba70aF",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Wallet Management, End-User Experience, Web3 Community Platform, User Experience & Adoption, Blockchain Infrastructure"
+  "pwCategorySuggestions": "Wallet Management, End-User Experience, Web3 Community Platform, User Experience & Adoption, Blockchain Infrastructure",
+  "pwCategory": "Wallet Management"
 }

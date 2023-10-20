@@ -60,5 +60,6 @@
   "recategorizeToType": "INDIVIDUAL",
   "recategorizeReason": "NO, the application should be categorized as \"INDIVIDUAL\" as the application makes use of personal pronouns such as \"I\" and \"my\" indicating it is an individual.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Blockchain Infrastructure, Community Building."
+  "pwCategorySuggestions": "Blockchain Infrastructure, Community Building.",
+  "pwCategory": "Community Building"
 }

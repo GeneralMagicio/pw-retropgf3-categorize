@@ -180,5 +180,6 @@
   "applicantAddress": "0x36F322fC85B24aB13263CFE9217B28f8E2b38381",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Blockchain Education, Community Building, Governance & Tokens, Content Creation, Media Production"
+  "pwCategorySuggestions": "Blockchain Education, Community Building, Governance & Tokens, Content Creation, Media Production",
+  "pwCategory": "Blockchain Education"
 }

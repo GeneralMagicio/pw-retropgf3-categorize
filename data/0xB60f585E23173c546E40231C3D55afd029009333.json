@@ -52,5 +52,6 @@
   "applicantAddress": "0xB60f585E23173c546E40231C3D55afd029009333",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Blockchain Infrastructure, User Experience & Adoption, Developer Ecosystem, Cross-Chain Platforms"
+  "pwCategorySuggestions": "Blockchain Infrastructure, User Experience & Adoption, Developer Ecosystem, Cross-Chain Platforms",
+  "pwCategory": "Developer Ecosystem"
 }

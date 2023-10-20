@@ -36,5 +36,6 @@
   "applicantAddress": "0xe437BC0fE994a491d01Ea651ed63C0892d85ce45",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "NFT Marketplace"
+  "pwCategorySuggestions": "NFT Marketplace",
+  "pwCategory": "Non-Fungible Tokens (NFTs)"
 }

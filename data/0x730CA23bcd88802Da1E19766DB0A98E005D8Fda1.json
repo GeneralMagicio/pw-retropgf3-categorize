@@ -45,5 +45,6 @@
   "applicantAddress": "0x730CA23bcd88802Da1E19766DB0A98E005D8Fda1",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Governance & Tokens, DAO, Community Building"
+  "pwCategorySuggestions": "Governance & Tokens, DAO, Community Building",
+  "pwCategory": "Collective Governance"
 }

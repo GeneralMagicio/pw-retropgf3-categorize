@@ -89,5 +89,6 @@
   "applicantAddress": "0x3469F853c6522DE54Ce839Dd245724e56EF25859",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Tokenization Platforms, Layer 2 Scaling, User Experience & Adoption, Decentralized Finance (DeFi)"
+  "pwCategorySuggestions": "Tokenization Platforms, Layer 2 Scaling, User Experience & Adoption, Decentralized Finance (DeFi)",
+  "pwCategory": "User Experience & Adoption"
 }

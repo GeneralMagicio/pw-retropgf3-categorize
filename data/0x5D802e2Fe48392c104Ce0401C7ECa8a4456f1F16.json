@@ -80,5 +80,6 @@
   "applicantAddress": "0x5D802e2Fe48392c104Ce0401C7ECa8a4456f1F16",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Blockchain Education, Layer 2 Scaling, Media Production, User Experience & Adoption, Community Building"
+  "pwCategorySuggestions": "Blockchain Education, Layer 2 Scaling, Media Production, User Experience & Adoption, Community Building",
+  "pwCategory": "Blockchain Education"
 }

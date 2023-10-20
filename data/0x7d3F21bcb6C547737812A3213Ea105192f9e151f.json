@@ -37,5 +37,6 @@
   "applicantAddress": "0x7d3F21bcb6C547737812A3213Ea105192f9e151f",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Developer Tools"
+  "pwCategorySuggestions": "Developer Tools",
+  "pwCategory": "Developer Ecosystem"
 }

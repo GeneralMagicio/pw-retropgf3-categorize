@@ -58,5 +58,6 @@
   "applicantAddress": "0xb7D6937F3aa9E09817C045b7d5b5Fb5064370671",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Finance (DeFi), Non-Fungible Tokens (NFTs), Smart Contract Platforms, User Experience & Adoption, Wallet Management"
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Non-Fungible Tokens (NFTs), Smart Contract Platforms, User Experience & Adoption, Wallet Management",
+  "pwCategory": "Wallet Management"
 }

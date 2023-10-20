@@ -67,5 +67,6 @@
   "applicantAddress": "0x98ea1E15E93fF392755Fd79E739c3ED60808B56B",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Smart Contract Platforms, Blockchain Infrastructure, Developer Ecosystem, Ethereum Ecosystem, Rust Ethereum ecosystem"
+  "pwCategorySuggestions": "Smart Contract Platforms, Blockchain Infrastructure, Developer Ecosystem, Ethereum Ecosystem, Rust Ethereum ecosystem",
+  "pwCategory": "Developer Ecosystem"
 }

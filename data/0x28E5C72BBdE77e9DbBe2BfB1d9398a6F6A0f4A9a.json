@@ -39,5 +39,6 @@
   "recategorizeToType": "PROJECT",
   "recategorizeReason": "NO, the application seems to be mis-categorized. Despite being labeled as an \"INDIVIDUAL\" the content of the application refers to  \"Optimism\" which is a known project in the blockchain/Web3 space rather than an individual's contribution.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Content Creation, Community Building, User Experience & Adoption, Governance & Tokens, Developer Ecosystem"
+  "pwCategorySuggestions": "Content Creation, Community Building, User Experience & Adoption, Governance & Tokens, Developer Ecosystem",
+  "pwCategory": "Community Building"
 }

@@ -43,5 +43,6 @@
   "applicantAddress": "0xB0abAEfc47e5b244638BFE474Fb15FC33e6A1d6A",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Content Creation, Blockchain Integration, Audience Involvement, Film Production, Tokenization Platforms"
+  "pwCategorySuggestions": "Content Creation, Blockchain Integration, Audience Involvement, Film Production, Tokenization Platforms",
+  "pwCategory": "Content Creation"
 }

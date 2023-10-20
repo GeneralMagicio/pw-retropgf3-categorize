@@ -43,5 +43,6 @@
   "applicantAddress": "0x28322C3D6b8E9AF82A12533DC0aC3f5421a7E704",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "NFTs, Blockchain Gaming"
+  "pwCategorySuggestions": "NFTs, Blockchain Gaming",
+  "pwCategory": "Non-Fungible Tokens (NFTs)"
 }

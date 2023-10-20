@@ -72,5 +72,6 @@
   "applicantAddress": "0xB6091aAb544eF253c23a37295953AaFc9D836681",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Finance (DeFi), Non-Fungible Tokens (NFTs), Tokenization Platforms, Web3 Community Platform, Cryptocurrency Services"
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Non-Fungible Tokens (NFTs), Tokenization Platforms, Web3 Community Platform, Cryptocurrency Services",
+  "pwCategory": "Blockchain Infrastructure"
 }

@@ -47,5 +47,6 @@
   "applicantAddress": "0xFC317bbb9C3692c7C03eF4B59a056A6dB8d5265e",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Developer Ecosystem, Social Media Platform, Cryptocurrency Integration"
+  "pwCategorySuggestions": "Developer Ecosystem, Social Media Platform, Cryptocurrency Integration",
+  "pwCategory": "Developer Ecosystem"
 }

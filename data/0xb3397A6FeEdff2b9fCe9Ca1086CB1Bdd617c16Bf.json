@@ -68,5 +68,6 @@
   "applicantAddress": "0xb3397A6FeEdff2b9fCe9Ca1086CB1Bdd617c16Bf",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Finance (DeFi), Non-Fungible Tokens (NFTs), Web3 Community Platform, Smart Contract Platforms, Content Creation"
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Non-Fungible Tokens (NFTs), Web3 Community Platform, Smart Contract Platforms, Content Creation",
+  "pwCategory": "Non-Fungible Tokens (NFTs)"
 }

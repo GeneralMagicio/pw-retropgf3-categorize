@@ -47,5 +47,6 @@
   "applicantAddress": "0xfb74103029aB113E00Df470c42CAfEd4c8aBe86E",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Blockchain Infrastructure, Developer Ecosystem, Wallet Management, Tokenization Platforms, Decentralized Finance (DeFi)"
+  "pwCategorySuggestions": "Blockchain Infrastructure, Developer Ecosystem, Wallet Management, Tokenization Platforms, Decentralized Finance (DeFi)",
+  "pwCategory": "Developer Ecosystem"
 }

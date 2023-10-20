@@ -38,5 +38,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for violating rule 11. The application has used a language other than English.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Translation, Community Building"
+  "pwCategorySuggestions": "Translation, Community Building",
+  "pwCategory": "Community Building"
 }

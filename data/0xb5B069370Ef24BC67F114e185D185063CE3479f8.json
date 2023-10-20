@@ -64,5 +64,6 @@
   "applicantAddress": "0xb5B069370Ef24BC67F114e185D185063CE3479f8",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Governance & Tokens, Blockchain Infrastructure, Decentralized Finance (DeFi), Developer Ecosystem, Smart Contract Platforms"
+  "pwCategorySuggestions": "Governance & Tokens, Blockchain Infrastructure, Decentralized Finance (DeFi), Developer Ecosystem, Smart Contract Platforms",
+  "pwCategory": "Governance & Tokens"
 }

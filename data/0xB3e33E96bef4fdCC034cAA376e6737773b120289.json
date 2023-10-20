@@ -36,5 +36,6 @@
   "applicantAddress": "0xB3e33E96bef4fdCC034cAA376e6737773b120289",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, NFT Enthusiast, Web3 Adoption"
+  "pwCategorySuggestions": "Community Building, NFT Enthusiast, Web3 Adoption",
+  "pwCategory": "Community Building"
 }

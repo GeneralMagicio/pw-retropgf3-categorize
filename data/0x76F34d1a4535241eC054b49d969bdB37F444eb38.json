@@ -38,5 +38,6 @@
   "applicantAddress": "0x76F34d1a4535241eC054b49d969bdB37F444eb38",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Tokenization Platforms, Blockchain Infrastructure, Decentralized Finance (DeFi), User Experience & Adoption, Governance & Tokens"
+  "pwCategorySuggestions": "Tokenization Platforms, Blockchain Infrastructure, Decentralized Finance (DeFi), User Experience & Adoption, Governance & Tokens",
+  "pwCategory": "Community Building"
 }

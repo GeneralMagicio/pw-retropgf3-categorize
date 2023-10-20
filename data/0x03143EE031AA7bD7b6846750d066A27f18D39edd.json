@@ -60,5 +60,6 @@
   "applicantAddress": "0x03143EE031AA7bD7b6846750d066A27f18D39edd",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Media Production, Community Building, User Experience & Adoption, Content Creation"
+  "pwCategorySuggestions": "Media Production, Community Building, User Experience & Adoption, Content Creation",
+  "pwCategory": "Media Production"
 }

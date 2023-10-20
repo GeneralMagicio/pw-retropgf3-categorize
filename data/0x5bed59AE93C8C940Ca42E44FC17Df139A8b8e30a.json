@@ -43,5 +43,6 @@
   "recategorizeToType": "INDIVIDUAL",
   "recategorizeReason": "NO, the application is categorized as a project but uses \"I\" indicating it should be an individual.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Web3 Community Platform"
+  "pwCategorySuggestions": "Web3 Community Platform",
+  "pwCategory": "Web3 Community Platform"
 }

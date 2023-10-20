@@ -39,5 +39,6 @@
   "recategorizeToType": "INDIVIDUAL",
   "recategorizeReason": "NO, the application is an individual application as it talks about \"I\" and \"me\".",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Non-Fungible Tokens (NFTs), Decentralized Finance (DeFi), Music NFTs, Community Building"
+  "pwCategorySuggestions": "Non-Fungible Tokens (NFTs), Decentralized Finance (DeFi), Music NFTs, Community Building",
+  "pwCategory": "Community Building"
 }

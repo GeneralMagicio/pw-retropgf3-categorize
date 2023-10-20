@@ -61,5 +61,6 @@
   "applicantAddress": "0x0d3bd71c76046Ab93E8D8e9BDa58879040cB13d0",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Infrastructure, Web3 Tools, Developer Resources"
+  "pwCategorySuggestions": "Decentralized Infrastructure, Web3 Tools, Developer Resources",
+  "pwCategory": "Developer Ecosystem"
 }

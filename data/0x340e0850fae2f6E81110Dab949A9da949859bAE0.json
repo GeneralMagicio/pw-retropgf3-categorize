@@ -35,5 +35,6 @@
   "applicantAddress": "0x340e0850fae2f6E81110Dab949A9da949859bAE0",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Layer 2 Scaling, Decentralized Finance (DeFi), Non-Fungible Tokens (NFTs), Smart Contract Platforms, User Experience & Adoption"
+  "pwCategorySuggestions": "Layer 2 Scaling, Decentralized Finance (DeFi), Non-Fungible Tokens (NFTs), Smart Contract Platforms, User Experience & Adoption",
+  "pwCategory": "End User Experience and Adoption"
 }

@@ -46,5 +46,6 @@
   "applicantAddress": "0x053F0b6901841dCEc275b5BaA381E61Cb00Ec371",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, Decentralized Finance (DeFi), Smart Contract Platforms, Blockchain Infrastructure, User Experience & Adoption"
+  "pwCategorySuggestions": "Community Building, Decentralized Finance (DeFi), Smart Contract Platforms, Blockchain Infrastructure, User Experience & Adoption",
+  "pwCategory": "Community Building"
 }

@@ -49,5 +49,6 @@
   "applicantAddress": "0x616ae298C9e2D2F5bed0e3c89223b2516c6d8fd6",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Content Creation, Community Building, User Experience & Adoption, Media Production, Cryptocurrency Services"
+  "pwCategorySuggestions": "Content Creation, Community Building, User Experience & Adoption, Media Production, Cryptocurrency Services",
+  "pwCategory": "Community Building"
 }

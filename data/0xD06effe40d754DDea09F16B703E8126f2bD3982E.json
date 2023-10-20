@@ -64,5 +64,6 @@
   "applicantAddress": "0xD06effe40d754DDea09F16B703E8126f2bD3982E",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Layer 2 Scaling, NFTs, Smart Contract Platforms, Community Building, Tokenization Platforms"
+  "pwCategorySuggestions": "Layer 2 Scaling, NFTs, Smart Contract Platforms, Community Building, Tokenization Platforms",
+  "pwCategory": "Community Building"
 }

@@ -28,7 +28,7 @@ export class ApplicationCategoryLoader implements BaseDocumentLoader {
 
         const doc = JSON.parse(data);
 
-        if (doc["Applicant Type"] !== this.applicantType) {
+        if (doc["applicantType"] !== this.applicantType) {
           resolve([]);
         }
 

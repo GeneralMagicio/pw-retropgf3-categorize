@@ -40,5 +40,6 @@
   "recategorizeToType": "INDIVIDUAL",
   "recategorizeReason": "NO, this should be categorized as \"INDIVIDUAL\" as the applicant uses first-person pronouns \"I\" and \"me\".",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Tokenization Platforms, Smart Contract Platforms, Blockchain Infrastructure, Decentralized Finance (DeFi), Community Building"
+  "pwCategorySuggestions": "Tokenization Platforms, Smart Contract Platforms, Blockchain Infrastructure, Decentralized Finance (DeFi), Community Building",
+  "pwCategory": "Blockchain Education"
 }

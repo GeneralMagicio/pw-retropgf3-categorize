@@ -38,5 +38,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged due to requirement 1. The applicant promises future impact by hosting training sessions that haven't happened yet.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Blockchain Education, Developer Ecosystem, Web3 Community Platform, User Experience & Adoption, Content Creation"
+  "pwCategorySuggestions": "Blockchain Education, Developer Ecosystem, Web3 Community Platform, User Experience & Adoption, Content Creation",
+  "pwCategory": "Blockchain Education"
 }

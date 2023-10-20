@@ -58,5 +58,6 @@
   "applicantAddress": "0x981ab0D817710d8FFFC5693383C00D985A3BDa38",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Smart Contract Platforms, Tokenization Platforms, Developer Ecosystem, End-User Experience & Adoption"
+  "pwCategorySuggestions": "Smart Contract Platforms, Tokenization Platforms, Developer Ecosystem, End-User Experience & Adoption",
+  "pwCategory": "Smart Contract Platforms"
 }

@@ -74,5 +74,6 @@
   "applicantAddress": "0xa8258ED271BB9be9d7E16c5818E45eF6F2577d92",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, Education, NFTs, Web3 Community Platform, Media Production"
+  "pwCategorySuggestions": "Community Building, Education, NFTs, Web3 Community Platform, Media Production",
+  "pwCategory": "Community Building"
 }

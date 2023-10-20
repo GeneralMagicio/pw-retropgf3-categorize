@@ -38,5 +38,6 @@
   "applicantAddress": "0xA850a51b5b603C59B8eB7Fb1E34CFd70F6C76Ff6",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, End-User Experience, Content Creation, Governance Tokens, Blockchain Education"
+  "pwCategorySuggestions": "Community Building, End-User Experience, Content Creation, Governance Tokens, Blockchain Education",
+  "pwCategory": "Community Building"
 }

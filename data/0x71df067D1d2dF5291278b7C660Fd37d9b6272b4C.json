@@ -35,5 +35,6 @@
   "applicantAddress": "0x71df067D1d2dF5291278b7C660Fd37d9b6272b4C",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Smart Contract Optimization, Developer Tool, Blockchain Infrastructure"
+  "pwCategorySuggestions": "Smart Contract Optimization, Developer Tool, Blockchain Infrastructure",
+  "pwCategory": "Blockchain Infrastructure"
 }

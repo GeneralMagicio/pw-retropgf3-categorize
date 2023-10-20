@@ -45,5 +45,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for violation of rule 1 - promises of future deliverables are not allowed. The applicant states their future plans on contributing to the project and what they want to achieve.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, Digital Strategy, Governance & Tokens, Digital Marketing, Web3 Marketing"
+  "pwCategorySuggestions": "Community Building, Digital Strategy, Governance & Tokens, Digital Marketing, Web3 Marketing",
+  "pwCategory": "Community Building"
 }

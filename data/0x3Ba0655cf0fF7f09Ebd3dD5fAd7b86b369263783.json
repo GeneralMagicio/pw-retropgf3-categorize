@@ -47,5 +47,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for promises of future deliverables or impact, as the applicant primarily speaks about their plans to incorporate web3 features into their businesses and their ambition to grow within the crypto world, instead of focusing on past contributions they have made to the web3/blockchain space.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Tokenization Platforms, Decentralized Finance (DeFi), Non-Fungible Tokens (NFTs), End-User Experience, Cryptocurrency Services"
+  "pwCategorySuggestions": "Tokenization Platforms, Decentralized Finance (DeFi), Non-Fungible Tokens (NFTs), End-User Experience, Cryptocurrency Services",
+  "pwCategory": "Tokenization Platforms"
 }

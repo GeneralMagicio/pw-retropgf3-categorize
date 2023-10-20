@@ -44,5 +44,6 @@
   "applicantAddress": "0x05B938467c7009733719c48410D6Fd939A320271",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "End-User Experience, Tokenization Platforms, Decentralized Finance (DeFi), Governance & Tokens, Community Building"
+  "pwCategorySuggestions": "End-User Experience, Tokenization Platforms, Decentralized Finance (DeFi), Governance & Tokens, Community Building",
+  "pwCategory": "Community Building"
 }

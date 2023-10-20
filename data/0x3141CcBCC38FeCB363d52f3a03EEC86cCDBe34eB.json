@@ -36,5 +36,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for violating rule 10. The applicant does not provide a clear contribution to the collective and fails to demonstrate any measurable impact in the Web3/blockchain space.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Digital Identity, Blockchain Infrastructure, Decentralized Finance (DeFi), Developer Ecosystem, Tokenization Platforms"
+  "pwCategorySuggestions": "Digital Identity, Blockchain Infrastructure, Decentralized Finance (DeFi), Developer Ecosystem, Tokenization Platforms",
+  "pwCategory": "Education"
 }

@@ -44,5 +44,6 @@
   "applicantAddress": "0xa8Be90f7756c66827D6aa29ba5B538b81ccC28d6",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, User Experience & Adoption, Blockchain Infrastructure, Decentralized Finance (DeFi), Media Production"
+  "pwCategorySuggestions": "Community Building, User Experience & Adoption, Blockchain Infrastructure, Decentralized Finance (DeFi), Media Production",
+  "pwCategory": "Optimism Ambassador"
 }

@@ -44,5 +44,6 @@
   "applicantAddress": "0xa22Af02d999f33cc7d02726881D2ccD7Bd1b6383",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, User Experience & Adoption, Tokenization Platforms, Decentralized Finance (DeFi), Developer Ecosystem"
+  "pwCategorySuggestions": "Community Building, User Experience & Adoption, Tokenization Platforms, Decentralized Finance (DeFi), Developer Ecosystem",
+  "pwCategory": "Developer Ecosystem"
 }

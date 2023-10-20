@@ -43,5 +43,6 @@
   "applicantAddress": "0x383b0ddAA84E9488600a59d965e1BEA37719F806",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Finance (DeFi), Non-Fungible Tokens (NFTs), Layer 2 Scaling, Wallet Management, Community Building"
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Non-Fungible Tokens (NFTs), Layer 2 Scaling, Wallet Management, Community Building",
+  "pwCategory": "End User Experience and Adoption"
 }

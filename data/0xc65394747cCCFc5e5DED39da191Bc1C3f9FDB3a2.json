@@ -43,5 +43,6 @@
   "recategorizeToType": "PROJECT",
   "recategorizeReason": "NO, the application is not correctly categorized because it talks about \"we\" and \"our\" which implies that it is a project and not an individual.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Tokenization Platforms, Blockchain Infrastructure, Web3 Community Platform, Media Production, Cryptocurrency Services"
+  "pwCategorySuggestions": "Tokenization Platforms, Blockchain Infrastructure, Web3 Community Platform, Media Production, Cryptocurrency Services",
+  "pwCategory": "Cross-Chain Platforms"
 }

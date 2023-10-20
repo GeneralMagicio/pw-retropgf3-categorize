@@ -40,5 +40,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for violating the rule against non-English applications and possibly for spam/irrelevancy given the untranslated Vietnamese content and questionable impact metrics.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Content Creation, Community Building, User Experience & Adoption, Developer Ecosystem, Cryptocurrency Services"
+  "pwCategorySuggestions": "Content Creation, Community Building, User Experience & Adoption, Developer Ecosystem, Cryptocurrency Services",
+  "pwCategory": "Community Building"
 }

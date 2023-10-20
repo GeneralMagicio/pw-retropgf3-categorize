@@ -42,5 +42,6 @@
   "recategorizeToType": "INDIVIDUAL",
   "recategorizeReason": "NO, it should be categorized as INDIVIDUAL because the bio and descriptions suggest it was written by an individual, not a project.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Cryptocurrency Services"
+  "pwCategorySuggestions": "Cryptocurrency Services",
+  "pwCategory": "Cryptocurrency Services"
 }

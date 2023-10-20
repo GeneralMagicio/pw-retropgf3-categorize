@@ -44,5 +44,6 @@
   "applicantAddress": "0x7B5E58994020Fc30836D8506bcD8739385fb5f38",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, Social Media Marketing, Web3 Community Platform, End-User Experience, Decentralized Finance (DeFi)"
+  "pwCategorySuggestions": "Community Building, Social Media Marketing, Web3 Community Platform, End-User Experience, Decentralized Finance (DeFi)",
+  "pwCategory": "Influencer Marketing"
 }

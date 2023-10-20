@@ -124,5 +124,6 @@
   "applicantAddress": "0xf503017D7baF7FBC0fff7492b751025c6A78179b",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Blockchain Infrastructure, Web3 Community Platform, Decentralized Finance (DeFi), User Experience & Adoption, Developer Ecosystem"
+  "pwCategorySuggestions": "Blockchain Infrastructure, Web3 Community Platform, Decentralized Finance (DeFi), User Experience & Adoption, Developer Ecosystem",
+  "pwCategory": "Blockchain Infrastructure"
 }

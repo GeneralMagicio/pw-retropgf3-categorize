@@ -37,5 +37,6 @@
   "applicantAddress": "0x9279492DC2123340aa00244987d4460d0e3cF070",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Developer Ecosystem, Community Building, Layer 2 Scaling, Education, Blockchain Infrastructure"
+  "pwCategorySuggestions": "Developer Ecosystem, Community Building, Layer 2 Scaling, Education, Blockchain Infrastructure",
+  "pwCategory": "Community Building"
 }

@@ -38,5 +38,6 @@
   "applicantAddress": "0xbD7DBd5AbEBB79F899c8D74a03855181F9BEAe37",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community-building, Governance & Tokens, User Experience & Adoption"
+  "pwCategorySuggestions": "Community-building, Governance & Tokens, User Experience & Adoption",
+  "pwCategory": "Community Building"
 }

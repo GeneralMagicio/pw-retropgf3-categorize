@@ -39,5 +39,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for spam due to irrelevant answers and unrelated impact metrics.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, Web3 Community Platform, Community Management"
+  "pwCategorySuggestions": "Community Building, Web3 Community Platform, Community Management",
+  "pwCategory": "Community Building"
 }

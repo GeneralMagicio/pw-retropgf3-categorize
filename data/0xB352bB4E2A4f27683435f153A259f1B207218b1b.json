@@ -67,5 +67,6 @@
   "applicantAddress": "0xB352bB4E2A4f27683435f153A259f1B207218b1b",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Web Infrastructure, Web3 DNS, Ethereum Name Service (ENS), IPFS/IPNS/Arweave Integration, L2 Scaling"
+  "pwCategorySuggestions": "Decentralized Web Infrastructure, Web3 DNS, Ethereum Name Service (ENS), IPFS/IPNS/Arweave Integration, L2 Scaling",
+  "pwCategory": "Blockchain Infrastructure"
 }

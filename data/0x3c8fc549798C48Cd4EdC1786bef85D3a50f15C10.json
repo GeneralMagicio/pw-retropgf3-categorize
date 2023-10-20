@@ -67,5 +67,6 @@
   "applicantAddress": "0x3c8fc549798C48Cd4EdC1786bef85D3a50f15C10",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Finance (DeFi)"
+  "pwCategorySuggestions": "Decentralized Finance (DeFi)",
+  "pwCategory": "Decentralized Finance (DeFi)"
 }

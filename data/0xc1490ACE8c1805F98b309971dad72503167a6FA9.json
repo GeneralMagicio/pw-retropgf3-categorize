@@ -42,5 +42,6 @@
   "applicantAddress": "0xc1490ACE8c1805F98b309971dad72503167a6FA9",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Tokenization Platforms, DeFi, NFTs, Web3 Community Platform, Media Production"
+  "pwCategorySuggestions": "Tokenization Platforms, DeFi, NFTs, Web3 Community Platform, Media Production",
+  "pwCategory": "Non-Fungible Tokens (NFTs)"
 }

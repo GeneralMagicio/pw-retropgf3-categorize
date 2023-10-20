@@ -45,5 +45,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "Flagged: The application promises future impact and deliverables which is against the grant program rules.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Blockchain Education, Decentralized Finance (DeFi), Content Creation, Community Building, Tokenization Platforms"
+  "pwCategorySuggestions": "Blockchain Education, Decentralized Finance (DeFi), Content Creation, Community Building, Tokenization Platforms",
+  "pwCategory": "Blockchain Education"
 }

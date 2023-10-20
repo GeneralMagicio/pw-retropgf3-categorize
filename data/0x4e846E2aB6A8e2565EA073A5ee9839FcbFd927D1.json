@@ -56,5 +56,6 @@
   "applicantAddress": "0x4e846E2aB6A8e2565EA073A5ee9839FcbFd927D1",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Blockchain Infrastructure, Decentralized Finance (DeFi), Blockchain Gaming, Content Creation, Community Building"
+  "pwCategorySuggestions": "Blockchain Infrastructure, Decentralized Finance (DeFi), Blockchain Gaming, Content Creation, Community Building",
+  "pwCategory": "Community Building"
 }

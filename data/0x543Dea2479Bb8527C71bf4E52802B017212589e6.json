@@ -67,5 +67,6 @@
   "applicantAddress": "0x543Dea2479Bb8527C71bf4E52802B017212589e6",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Media Production"
+  "pwCategorySuggestions": "Media Production",
+  "pwCategory": "Blockchain Education"
 }

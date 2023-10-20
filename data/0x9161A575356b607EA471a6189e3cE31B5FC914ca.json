@@ -43,5 +43,6 @@
   "applicantAddress": "0x9161A575356b607EA471a6189e3cE31B5FC914ca",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "On-Chain Analytics, DeFi Integration, Data Visualization"
+  "pwCategorySuggestions": "On-Chain Analytics, DeFi Integration, Data Visualization",
+  "pwCategory": "Decentralized Finance (DeFi)"
 }

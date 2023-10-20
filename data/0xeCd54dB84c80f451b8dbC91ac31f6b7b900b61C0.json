@@ -104,5 +104,6 @@
   "applicantAddress": "0xeCd54dB84c80f451b8dbC91ac31f6b7b900b61C0",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Identity, Governance & Tokens, Web3 Community Platform, Reputation System, Democratizing Governance"
+  "pwCategorySuggestions": "Decentralized Identity, Governance & Tokens, Web3 Community Platform, Reputation System, Democratizing Governance",
+  "pwCategory": "Governance & Tokens"
 }

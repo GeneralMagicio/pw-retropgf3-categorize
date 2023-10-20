@@ -53,5 +53,6 @@
   "applicantAddress": "0x91E89d4c34Ce348E70Ff2c59555517856E662bB0",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Smart Contract Security Tools"
+  "pwCategorySuggestions": "Smart Contract Security Tools",
+  "pwCategory": "Developer Ecosystem"
 }

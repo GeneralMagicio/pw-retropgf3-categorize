@@ -42,5 +42,6 @@
   "applicantAddress": "0x9782C5c6AD4215860d38eD30Ef8f6c1A9dA81C04",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "NFTs, Decentralized Finance (DeFi), Layer 2 Scaling, Web3 Community Platform, Content Creation"
+  "pwCategorySuggestions": "NFTs, Decentralized Finance (DeFi), Layer 2 Scaling, Web3 Community Platform, Content Creation",
+  "pwCategory": "Non-Fungible Tokens (NFTs)"
 }

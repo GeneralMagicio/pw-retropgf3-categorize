@@ -37,5 +37,6 @@
   "applicantAddress": "0x4bdf1d1Ea68abbB87c605812400918Ac86C85EbC",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Finance (DeFi), Non-Fungible Tokens (NFTs), Smart Contract Platforms, Tokenization Platforms, Cryptocurrency Services"
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Non-Fungible Tokens (NFTs), Smart Contract Platforms, Tokenization Platforms, Cryptocurrency Services",
+  "pwCategory": "Optimism Ambassador"
 }

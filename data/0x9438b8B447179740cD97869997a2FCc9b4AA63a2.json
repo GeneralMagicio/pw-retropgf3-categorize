@@ -96,5 +96,6 @@
   "applicantAddress": "0x9438b8B447179740cD97869997a2FCc9b4AA63a2",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Layer 2 Scaling, Blockchain Infrastructure, Knowledge Hub, Data Analytics, Developer Ecosystem"
+  "pwCategorySuggestions": "Layer 2 Scaling, Blockchain Infrastructure, Knowledge Hub, Data Analytics, Developer Ecosystem",
+  "pwCategory": "Blockchain Infrastructure"
 }

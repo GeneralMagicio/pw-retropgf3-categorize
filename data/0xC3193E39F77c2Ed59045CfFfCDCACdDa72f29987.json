@@ -54,5 +54,6 @@
   "applicantAddress": "0xC3193E39F77c2Ed59045CfFfCDCACdDa72f29987",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Smart Contract Platforms, Layer 2 Scaling, Governance & Tokens, Community Building, Developer Ecosystem"
+  "pwCategorySuggestions": "Smart Contract Platforms, Layer 2 Scaling, Governance & Tokens, Community Building, Developer Ecosystem",
+  "pwCategory": "Community Building"
 }

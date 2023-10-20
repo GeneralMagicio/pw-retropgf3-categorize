@@ -67,5 +67,6 @@
   "applicantAddress": "0xD2A333009E5cEEF7EDfD6f82489005d1DC6ae9E8",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Web3 Infrastructure, Cross-Chain Platforms, User Experience & Adoption, Developer Ecosystem"
+  "pwCategorySuggestions": "Web3 Infrastructure, Cross-Chain Platforms, User Experience & Adoption, Developer Ecosystem",
+  "pwCategory": "Blockchain Infrastructure"
 }

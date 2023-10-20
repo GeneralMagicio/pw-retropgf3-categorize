@@ -41,5 +41,6 @@
   "applicantAddress": "0x34Eb88EAD486A09CAcD8DaBe013682Dc5F1DC41D",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Smart Contract Analysis, Developer Tools, Security, Open-source"
+  "pwCategorySuggestions": "Smart Contract Analysis, Developer Tools, Security, Open-source",
+  "pwCategory": "Developer Ecosystem"
 }

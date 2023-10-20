@@ -74,5 +74,6 @@
   "applicantAddress": "0x1A561e43f264952D7b4F25Fb4967122c87618Beb",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Exchanges (DEXs), Copy Trading, Analytics Infrastructure, User Experience & Adoption"
+  "pwCategorySuggestions": "Decentralized Exchanges (DEXs), Copy Trading, Analytics Infrastructure, User Experience & Adoption",
+  "pwCategory": "Trading Tools"
 }

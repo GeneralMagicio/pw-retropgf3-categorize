@@ -38,5 +38,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged because it contains spam such as irrelevant and repetitive answers in the 'contributionDescription' and 'impactDescription'.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, User Experience & Adoption, Content Creation"
+  "pwCategorySuggestions": "Community Building, User Experience & Adoption, Content Creation",
+  "pwCategory": "Community Building"
 }

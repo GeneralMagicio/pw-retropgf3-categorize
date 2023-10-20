@@ -40,5 +40,6 @@
   "recategorizeToType": "INDIVIDUAL",
   "recategorizeReason": "NO, the application uses \"I\" and \"me\" indicating this application is by an individual.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "NFT Aggregator, Community Building, User Experience & Adoption, Web3 Community Platform, Tokenization Platforms"
+  "pwCategorySuggestions": "NFT Aggregator, Community Building, User Experience & Adoption, Web3 Community Platform, Tokenization Platforms",
+  "pwCategory": "NFT Aggregator"
 }

@@ -47,5 +47,6 @@
   "applicantAddress": "0x38189D98110A395A1366F1c95875f81fD458a6C3",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Identity, Web3 Community Platform, User Experience & Adoption, Tokenization Platforms, Smart Contract Platforms"
+  "pwCategorySuggestions": "Decentralized Identity, Web3 Community Platform, User Experience & Adoption, Tokenization Platforms, Smart Contract Platforms",
+  "pwCategory": "User Experience & Adoption"
 }

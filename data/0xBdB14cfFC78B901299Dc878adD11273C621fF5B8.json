@@ -52,5 +52,6 @@
   "applicantAddress": "0xBdB14cfFC78B901299Dc878adD11273C621fF5B8",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Developer Ecosystem, Open Source Contribution, Smart Contract Platforms"
+  "pwCategorySuggestions": "Developer Ecosystem, Open Source Contribution, Smart Contract Platforms",
+  "pwCategory": "Developer Ecosystem"
 }

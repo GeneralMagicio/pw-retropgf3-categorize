@@ -37,5 +37,6 @@
   "applicantAddress": "0x302E2A0D4291ac14Aa1160504cA45A0A1F2E7a5c",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, User Experience & Adoption, Web3 Community Platform, Blockchain Education, Wallet Management"
+  "pwCategorySuggestions": "Community Building, User Experience & Adoption, Web3 Community Platform, Blockchain Education, Wallet Management",
+  "pwCategory": "Blockchain Education"
 }

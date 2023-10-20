@@ -43,5 +43,6 @@
   "applicantAddress": "0x067cc134C7439F9be72443c8a52C87021cd744fB",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Smart Contract Platforms, Decentralized Exchanges (DEXs), User Experience & Adoption, End-User Experience, Community Building"
+  "pwCategorySuggestions": "Smart Contract Platforms, Decentralized Exchanges (DEXs), User Experience & Adoption, End-User Experience, Community Building",
+  "pwCategory": "Community Building"
 }

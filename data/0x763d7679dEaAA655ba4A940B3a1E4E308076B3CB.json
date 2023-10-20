@@ -99,5 +99,6 @@
   "applicantAddress": "0x763d7679dEaAA655ba4A940B3a1E4E308076B3CB",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Web3 Music, Onchain Community, Collectibles Culture, Education, Curatorship"
+  "pwCategorySuggestions": "Web3 Music, Onchain Community, Collectibles Culture, Education, Curatorship",
+  "pwCategory": "Community Building"
 }

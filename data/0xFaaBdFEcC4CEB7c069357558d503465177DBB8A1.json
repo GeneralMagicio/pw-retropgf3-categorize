@@ -47,5 +47,6 @@
   "recategorizeToType": "PROJECT",
   "recategorizeReason": "NO. The application is from an individual, but the nature of the contributions, notably the development of a smart contract, a more complex product usually created by teams or projects, suggests that this might be better categorized as a PROJECT.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Smart Contract Platforms, Decentralized Finance (DeFi), Liquidity Provision, Automated Trading Strategies, Arbitrage Opportunities"
+  "pwCategorySuggestions": "Smart Contract Platforms, Decentralized Finance (DeFi), Liquidity Provision, Automated Trading Strategies, Arbitrage Opportunities",
+  "pwCategory": "Smart Contract Platforms"
 }

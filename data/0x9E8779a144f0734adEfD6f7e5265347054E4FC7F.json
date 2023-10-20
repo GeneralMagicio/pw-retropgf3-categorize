@@ -43,5 +43,6 @@
   "applicantAddress": "0x9E8779a144f0734adEfD6f7e5265347054E4FC7F",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, User Experience & Adoption, Decentralized Identity, Governance & Tokens, Smart Contract Platforms"
+  "pwCategorySuggestions": "Community Building, User Experience & Adoption, Decentralized Identity, Governance & Tokens, Smart Contract Platforms",
+  "pwCategory": "Community Building"
 }

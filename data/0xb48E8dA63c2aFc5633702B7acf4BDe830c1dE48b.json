@@ -100,5 +100,6 @@
   "applicantAddress": "0xb48E8dA63c2aFc5633702B7acf4BDe830c1dE48b",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "NFT Aggregator, Web3 Community Platform, Blockchain Gaming, Content Creation, Community Building"
+  "pwCategorySuggestions": "NFT Aggregator, Web3 Community Platform, Blockchain Gaming, Content Creation, Community Building",
+  "pwCategory": "Content Creation"
 }

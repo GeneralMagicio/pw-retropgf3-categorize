@@ -42,5 +42,6 @@
   "applicantAddress": "0x9600e2eE6377DAdad7299B120026661c336A5e6d",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Layer 2 Scaling, Decentralized Exchanges (DEXs), Smart Contract Platforms, Tokenization Platforms, Blockchain Infrastructure"
+  "pwCategorySuggestions": "Layer 2 Scaling, Decentralized Exchanges (DEXs), Smart Contract Platforms, Tokenization Platforms, Blockchain Infrastructure",
+  "pwCategory": "Blockchain Infrastructure"
 }

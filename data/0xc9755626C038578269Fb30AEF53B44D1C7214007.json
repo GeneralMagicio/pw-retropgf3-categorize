@@ -37,5 +37,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged because the contributions and impact metric descriptions are in a language other than English, which is against the rules of the grant program.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, User Experience & Adoption, Decentralized Finance (DeFi), Blockchain Education, Cryptocurrency Services"
+  "pwCategorySuggestions": "Community Building, User Experience & Adoption, Decentralized Finance (DeFi), Blockchain Education, Cryptocurrency Services",
+  "pwCategory": "Community Building"
 }

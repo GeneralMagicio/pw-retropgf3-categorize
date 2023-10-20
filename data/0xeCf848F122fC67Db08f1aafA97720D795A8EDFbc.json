@@ -37,5 +37,6 @@
   "applicantAddress": "0xeCf848F122fC67Db08f1aafA97720D795A8EDFbc",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Layer 2 Scaling, Developer Ecosystem, Blockchain Infrastructure, Smart Contract Platforms, Content Creation"
+  "pwCategorySuggestions": "Layer 2 Scaling, Developer Ecosystem, Blockchain Infrastructure, Smart Contract Platforms, Content Creation",
+  "pwCategory": "Developer Ecosystem"
 }

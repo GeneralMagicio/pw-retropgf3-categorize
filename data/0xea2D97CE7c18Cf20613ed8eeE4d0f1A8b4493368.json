@@ -48,5 +48,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged because it is making a promise of future impact, which is against the rules. Specifically, \"My only promise is that if ever resources are readily made available at free cost for people that cannot or otherwise imagine it before, I'll do my best to help them see, and help them realise their dream is nothing impossible.\" This statement violates the rules of the grant program.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Web3 Advocacy"
+  "pwCategorySuggestions": "Web3 Advocacy",
+  "pwCategory": "Web3 Advocacy"
 }

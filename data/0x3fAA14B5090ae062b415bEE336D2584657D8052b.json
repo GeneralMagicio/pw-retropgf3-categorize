@@ -50,5 +50,6 @@
   "recategorizeToType": "PROJECT",
   "recategorizeReason": "NO, the application should be categorized as \"PROJECT\" as it talks about a professional and experienced team making and implementing a project and there is no mention of \"I\" or \"me\" to indicate an individual.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Tokenization Platforms, Blockchain Infrastructure, Decentralized Finance (DeFi), Developer Ecosystem, Governance & Tokens"
+  "pwCategorySuggestions": "Tokenization Platforms, Blockchain Infrastructure, Decentralized Finance (DeFi), Developer Ecosystem, Governance & Tokens",
+  "pwCategory": "The project description provided does not give specific information about what the project does or the problem it is trying to solve in the blockchain/Web3 domain. Therefore, it is impossible to assign a specific category among the provided ones. Kindly provide a more descriptive detail about the project in order to categorize it correctly."
 }

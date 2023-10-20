@@ -37,5 +37,6 @@
   "applicantAddress": "0x23e24CB272af14DeC82e205d70F88EfD17e86A8f",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Finance (DeFi), Community Building, User Experience & Adoption, Blockchain Education, Cryptocurrency Services"
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Community Building, User Experience & Adoption, Blockchain Education, Cryptocurrency Services",
+  "pwCategory": "Community Building"
 }

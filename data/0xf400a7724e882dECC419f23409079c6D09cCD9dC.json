@@ -44,5 +44,6 @@
   "applicantAddress": "0xf400a7724e882dECC419f23409079c6D09cCD9dC",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Layer 2 Scaling, Optimism Chain, Blockchain Infrastructure, Developer Ecosystem, Decentralized Finance (DeFi)"
+  "pwCategorySuggestions": "Layer 2 Scaling, Optimism Chain, Blockchain Infrastructure, Developer Ecosystem, Decentralized Finance (DeFi)",
+  "pwCategory": "Layer 2 Scaling"
 }

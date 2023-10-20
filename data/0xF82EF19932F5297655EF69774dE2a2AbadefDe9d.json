@@ -44,5 +44,6 @@
   "recategorizeToType": "INDIVIDUAL",
   "recategorizeReason": "NO, the application is from an individual as the text mentions \"I\" and \"me\".",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Layer 2 Scaling"
+  "pwCategorySuggestions": "Layer 2 Scaling",
+  "pwCategory": "Blockchain Infrastructure"
 }

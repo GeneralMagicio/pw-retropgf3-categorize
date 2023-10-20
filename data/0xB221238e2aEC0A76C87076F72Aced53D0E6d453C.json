@@ -43,5 +43,6 @@
   "applicantAddress": "0xB221238e2aEC0A76C87076F72Aced53D0E6d453C",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Blockchain Gaming, NFTs, Tokenization Platforms, User Experience & Adoption, Community Building"
+  "pwCategorySuggestions": "Blockchain Gaming, NFTs, Tokenization Platforms, User Experience & Adoption, Community Building",
+  "pwCategory": "Blockchain Gaming"
 }

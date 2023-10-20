@@ -40,5 +40,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged because it contains promises of future impact, which is a violation of the grant program rules.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, Governance & Tokens, Developer Ecosystem, Decentralized Finance (DeFi), Tokenization Platforms"
+  "pwCategorySuggestions": "Community Building, Governance & Tokens, Developer Ecosystem, Decentralized Finance (DeFi), Tokenization Platforms",
+  "pwCategory": "Community Building"
 }

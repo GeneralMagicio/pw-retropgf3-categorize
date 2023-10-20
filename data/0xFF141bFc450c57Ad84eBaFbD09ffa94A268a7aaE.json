@@ -76,5 +76,6 @@
   "applicantAddress": "0xFF141bFc450c57Ad84eBaFbD09ffa94A268a7aaE",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Blockchain Art"
+  "pwCategorySuggestions": "Blockchain Art",
+  "pwCategory": "Non-Fungible Tokens (NFTs)"
 }

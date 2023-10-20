@@ -45,5 +45,6 @@
   "applicantAddress": "0xc513fb4b979f1CeFC43682CA7aB4A19CEe1caCC2",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, Governance & Tokens, End-User Experience, Social Media Marketing, Web3 Community Platform"
+  "pwCategorySuggestions": "Community Building, Governance & Tokens, End-User Experience, Social Media Marketing, Web3 Community Platform",
+  "pwCategory": "Community Building"
 }

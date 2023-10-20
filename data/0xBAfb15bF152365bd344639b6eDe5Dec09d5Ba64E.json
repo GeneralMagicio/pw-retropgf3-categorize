@@ -91,5 +91,6 @@
   "applicantAddress": "0xBAfb15bF152365bd344639b6eDe5Dec09d5Ba64E",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "NFT Platforms, Layer 2 Scaling, Tokenization Platforms, Blockchain Infrastructure, Community Building"
+  "pwCategorySuggestions": "NFT Platforms, Layer 2 Scaling, Tokenization Platforms, Blockchain Infrastructure, Community Building",
+  "pwCategory": "NFT Aggregator"
 }

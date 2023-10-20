@@ -37,5 +37,6 @@
   "applicantAddress": "0x12A39f59878bD5740a7623B88ab86aB9a6432843",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Cross-Chain Platforms, Web3 Community Platform, Smart Contract Platforms, Tokenization Platforms, End-User Experience"
+  "pwCategorySuggestions": "Cross-Chain Platforms, Web3 Community Platform, Smart Contract Platforms, Tokenization Platforms, End-User Experience",
+  "pwCategory": "Optimism Ambassador"
 }

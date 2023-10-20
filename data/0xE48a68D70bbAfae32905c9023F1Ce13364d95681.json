@@ -45,5 +45,6 @@
   "applicantAddress": "0xE48a68D70bbAfae32905c9023F1Ce13364d95681",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, Content Creation, End-User Experience, Web3 Community Platform, Education"
+  "pwCategorySuggestions": "Community Building, Content Creation, End-User Experience, Web3 Community Platform, Education",
+  "pwCategory": "Education"
 }

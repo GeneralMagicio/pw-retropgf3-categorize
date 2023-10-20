@@ -36,5 +36,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for being in a language other than English.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, Developer Ecosystem, Tokenization Platforms, Decentralized Finance (DeFi), Cryptocurrency Services"
+  "pwCategorySuggestions": "Community Building, Developer Ecosystem, Tokenization Platforms, Decentralized Finance (DeFi), Cryptocurrency Services",
+  "pwCategory": "Community Building"
 }

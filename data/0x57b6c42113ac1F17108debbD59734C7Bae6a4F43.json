@@ -42,5 +42,6 @@
   "recategorizeToType": "INDIVIDUAL",
   "recategorizeReason": "NO, it is not correctly categorized. The application is categorized as a \"PROJECT,\" but the phrases \"I want whale in op sure ill did it one day\" and \"Fan of op\" make it clear that this is an INDIVIDUAL applicant.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Layer 2 Scaling, Governance Tokens, Smart Contract Platforms, Blockchain Infrastructure, Developer Ecosystem"
+  "pwCategorySuggestions": "Layer 2 Scaling, Governance Tokens, Smart Contract Platforms, Blockchain Infrastructure, Developer Ecosystem",
+  "pwCategory": "Governance & Tokens"
 }

@@ -84,5 +84,6 @@
   "applicantAddress": "0x2D8EA9BCf57A8456085947AB4752f3f9104FC7DB",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Developer Ecosystem, Community Building, Data Analytics"
+  "pwCategorySuggestions": "Developer Ecosystem, Community Building, Data Analytics",
+  "pwCategory": "Developer Ecosystem"
 }

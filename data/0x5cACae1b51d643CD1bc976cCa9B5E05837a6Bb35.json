@@ -59,5 +59,6 @@
   "applicantAddress": "0x5cACae1b51d643CD1bc976cCa9B5E05837a6Bb35",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, Education, Social Media Marketing, Passive Income, Token Ecosystem"
+  "pwCategorySuggestions": "Community Building, Education, Social Media Marketing, Passive Income, Token Ecosystem",
+  "pwCategory": "Community Building"
 }

@@ -45,5 +45,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for violating rule 1 as the applicant makes promises of future impact and deliverables such as developing the ecosystem and being a useful member for everyone.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, User Experience & Adoption, Developer Ecosystem, Content Creation, Cryptocurrency Services"
+  "pwCategorySuggestions": "Community Building, User Experience & Adoption, Developer Ecosystem, Content Creation, Cryptocurrency Services",
+  "pwCategory": "Community Building"
 }

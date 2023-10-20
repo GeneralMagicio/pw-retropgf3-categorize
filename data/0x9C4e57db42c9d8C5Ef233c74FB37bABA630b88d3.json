@@ -36,5 +36,6 @@
   "applicantAddress": "0x9C4e57db42c9d8C5Ef233c74FB37bABA630b88d3",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Layer 2 Scaling, Smart Contract Platforms, NFTs, Blockchain Infrastructure, Developer Ecosystem"
+  "pwCategorySuggestions": "Layer 2 Scaling, Smart Contract Platforms, NFTs, Blockchain Infrastructure, Developer Ecosystem",
+  "pwCategory": "Developer Ecosystem"
 }

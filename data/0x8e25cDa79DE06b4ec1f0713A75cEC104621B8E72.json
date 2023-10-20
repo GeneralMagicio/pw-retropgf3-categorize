@@ -46,5 +46,6 @@
   "recategorizeToType": "INDIVIDUAL",
   "recategorizeReason": "NO, the application is not correctly categorized because the \"impactDescription\" field indicates that the applicant is an individual, as it uses first-person pronouns like \"I\".",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Governance Tokens, User Experience & Adoption, Developer Ecosystem, Blockchain Infrastructure, Content Creation"
+  "pwCategorySuggestions": "Governance Tokens, User Experience & Adoption, Developer Ecosystem, Blockchain Infrastructure, Content Creation",
+  "pwCategory": "Governance & Tokens"
 }

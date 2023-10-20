@@ -171,5 +171,6 @@
   "applicantAddress": "0x4D5B28d08e8c00e041053b0dc584e00e6997Daa3",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, Grants, Educational Events, Conservation Efforts, NFT Ventures"
+  "pwCategorySuggestions": "Community Building, Grants, Educational Events, Conservation Efforts, NFT Ventures",
+  "pwCategory": "Community Building"
 }

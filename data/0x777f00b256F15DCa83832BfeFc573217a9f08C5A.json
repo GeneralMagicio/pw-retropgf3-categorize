@@ -43,5 +43,6 @@
   "applicantAddress": "0x777f00b256F15DCa83832BfeFc573217a9f08C5A",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Web3 Community Platform, Layer 2 Scaling"
+  "pwCategorySuggestions": "Web3 Community Platform, Layer 2 Scaling",
+  "pwCategory": "Layer 2 Scaling"
 }

@@ -97,5 +97,6 @@
   "applicantAddress": "0xf52a30397151C77E732fA5DeFB9347359C52A141",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Blockchain Education, Layer 2 Scaling"
+  "pwCategorySuggestions": "Blockchain Education, Layer 2 Scaling",
+  "pwCategory": "Blockchain Education"
 }

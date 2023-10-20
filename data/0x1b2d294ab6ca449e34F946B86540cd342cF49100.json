@@ -39,5 +39,6 @@
   "applicantAddress": "0x1b2d294ab6ca449e34F946B86540cd342cF49100",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Experimental Blockchain Governance"
+  "pwCategorySuggestions": "Experimental Blockchain Governance",
+  "pwCategory": "Governance & Tokens"
 }

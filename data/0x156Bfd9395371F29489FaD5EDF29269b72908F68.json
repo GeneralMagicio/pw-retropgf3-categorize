@@ -60,5 +60,6 @@
   "applicantAddress": "0x156Bfd9395371F29489FaD5EDF29269b72908F68",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Science, Coral Reef Conservation, Optimism L2, Environmental Stewardship, Quadratic Funding"
+  "pwCategorySuggestions": "Decentralized Science, Coral Reef Conservation, Optimism L2, Environmental Stewardship, Quadratic Funding",
+  "pwCategory": "Governance & Tokens"
 }

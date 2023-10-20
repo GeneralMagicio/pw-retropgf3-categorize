@@ -62,5 +62,6 @@
   "applicantAddress": "0xfBeB914c3C9B7a193C92De130A18716097478332",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "NFTs, Digital Identity, Community Building, Education"
+  "pwCategorySuggestions": "NFTs, Digital Identity, Community Building, Education",
+  "pwCategory": "NFT Aggregator"
 }

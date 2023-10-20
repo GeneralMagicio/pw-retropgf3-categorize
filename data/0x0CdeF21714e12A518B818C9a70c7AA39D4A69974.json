@@ -48,5 +48,6 @@
   "applicantAddress": "0x0CdeF21714e12A518B818C9a70c7AA39D4A69974",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Layer 2 Scaling, Optimistic Rollups, Blockchain Infrastructure"
+  "pwCategorySuggestions": "Layer 2 Scaling, Optimistic Rollups, Blockchain Infrastructure",
+  "pwCategory": "Blockchain Infrastructure"
 }

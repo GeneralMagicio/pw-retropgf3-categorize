@@ -51,5 +51,6 @@
   "applicantAddress": "0x46642e15d77BbE0bDfcfbf348C38b06153D16049",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Blockchain Infrastructure, NFTs, Decentralized Finance (DeFi), Tokenization Platforms, User Experience & Adoption"
+  "pwCategorySuggestions": "Blockchain Infrastructure, NFTs, Decentralized Finance (DeFi), Tokenization Platforms, User Experience & Adoption",
+  "pwCategory": "Non-Fungible Tokens (NFTs)"
 }

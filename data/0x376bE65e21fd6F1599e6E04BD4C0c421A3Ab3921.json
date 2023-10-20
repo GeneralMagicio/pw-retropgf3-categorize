@@ -43,5 +43,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged because it violates rule 11, as parts of the application are not in English.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Layer 2 Scaling, Community Building, User Experience & Adoption, Governance & Tokens, Developer Ecosystem"
+  "pwCategorySuggestions": "Layer 2 Scaling, Community Building, User Experience & Adoption, Governance & Tokens, Developer Ecosystem",
+  "pwCategory": "Community Building"
 }

@@ -95,5 +95,6 @@
   "applicantAddress": "0x283266045Ab2aB0793a62CADC21D55f685636Ae0",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Developer Ecosystem, Web3 Community Platform, Governance & Tokens, Content Creation, User Experience & Adoption"
+  "pwCategorySuggestions": "Developer Ecosystem, Web3 Community Platform, Governance & Tokens, Content Creation, User Experience & Adoption",
+  "pwCategory": "Developer Ecosystem"
 }

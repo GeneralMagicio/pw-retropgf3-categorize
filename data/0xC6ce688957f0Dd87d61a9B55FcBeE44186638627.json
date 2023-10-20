@@ -47,5 +47,6 @@
   "recategorizeToType": "PROJECT",
   "recategorizeReason": "NO, this application should be categorized as PROJECT instead of INDIVIDUAL because although the applicant name is not a legal name, the terms 'collective' and 'companies, communities, and citizens working together' suggest it's not an individual's effort.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Governance & Tokens, Decentralized Finance (DeFi), Community Building, Blockchain Infrastructure, Tokenization Platforms"
+  "pwCategorySuggestions": "Governance & Tokens, Decentralized Finance (DeFi), Community Building, Blockchain Infrastructure, Tokenization Platforms",
+  "pwCategory": "Collective Governance"
 }

@@ -37,5 +37,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for \"Outside of RetroPGF's scope\" because the applicant explicitly mentions not being involved in any specific projects or organizations, including Optimism or RetroPGF.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Finance (DeFi), Smart Contract Platforms, Blockchain Infrastructure, End-User Experience"
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Smart Contract Platforms, Blockchain Infrastructure, End-User Experience",
+  "pwCategory": "This project does not fit into any of the provided categories as it is not a blockchain or Web3 project but a text-based AI developed by OpenAI."
 }

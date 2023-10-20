@@ -188,5 +188,6 @@
   "applicantAddress": "0xC4FC57Dedd2463314A3fD2DBadB86B4404C257e5",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Education, Security, Governance & Tokens, User Experience & Adoption, Public Goods Initiative"
+  "pwCategorySuggestions": "Education, Security, Governance & Tokens, User Experience & Adoption, Public Goods Initiative",
+  "pwCategory": "Community Building"
 }

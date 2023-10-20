@@ -50,5 +50,6 @@
   "applicantAddress": "0x98289029B0d4bB73Ead9Eb1A3300eD724Fcf6779",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Developer Ecosystem, End-User Experience, Community Building, Blockchain Education, Decentralized Finance (DeFi)"
+  "pwCategorySuggestions": "Developer Ecosystem, End-User Experience, Community Building, Blockchain Education, Decentralized Finance (DeFi)",
+  "pwCategory": "Education"
 }

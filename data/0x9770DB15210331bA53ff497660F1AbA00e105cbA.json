@@ -39,5 +39,6 @@
   "applicantAddress": "0x9770DB15210331bA53ff497660F1AbA00e105cbA",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Web3 Community Platform, NFT Aggregator, Decentralized Finance (DeFi), Trading Tools, Cryptocurrency Services"
+  "pwCategorySuggestions": "Web3 Community Platform, NFT Aggregator, Decentralized Finance (DeFi), Trading Tools, Cryptocurrency Services",
+  "pwCategory": "Non-Fungible Tokens (NFTs)"
 }

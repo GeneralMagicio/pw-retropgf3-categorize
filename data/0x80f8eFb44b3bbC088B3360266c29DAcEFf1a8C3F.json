@@ -114,5 +114,6 @@
   "applicantAddress": "0x80f8eFb44b3bbC088B3360266c29DAcEFf1a8C3F",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, Content Creation, Web3 Community Platform"
+  "pwCategorySuggestions": "Community Building, Content Creation, Web3 Community Platform",
+  "pwCategory": "Community Building"
 }

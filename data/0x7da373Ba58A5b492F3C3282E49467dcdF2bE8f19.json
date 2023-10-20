@@ -40,5 +40,6 @@
   "recategorizeToType": "INDIVIDUAL",
   "recategorizeReason": "NO. The application is submitted by an individual, not a project, as indicated by phrases such as \"I'm the sole creator and developer behind ImaginAIryNFTs\".",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "NFTs, AI-generated art"
+  "pwCategorySuggestions": "NFTs, AI-generated art",
+  "pwCategory": "NFT Aggregator"
 }

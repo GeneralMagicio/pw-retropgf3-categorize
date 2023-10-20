@@ -98,5 +98,6 @@
   "applicantAddress": "0xcfBf34d385EA2d5Eb947063b67eA226dcDA3DC38",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Blockchain Infrastructure, Smart Contract Platforms, Content Creation, User Experience & Adoption, Blockchain Education"
+  "pwCategorySuggestions": "Blockchain Infrastructure, Smart Contract Platforms, Content Creation, User Experience & Adoption, Blockchain Education",
+  "pwCategory": "Developer Ecosystem"
 }

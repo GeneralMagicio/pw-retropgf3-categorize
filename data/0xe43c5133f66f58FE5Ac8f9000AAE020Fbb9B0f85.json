@@ -60,5 +60,6 @@
   "applicantAddress": "0xe43c5133f66f58FE5Ac8f9000AAE020Fbb9B0f85",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "NFT Aggregator, Smart Contract Platforms, Developer Ecosystem, End-User Experience & Adoption, Media Production"
+  "pwCategorySuggestions": "NFT Aggregator, Smart Contract Platforms, Developer Ecosystem, End-User Experience & Adoption, Media Production",
+  "pwCategory": "Smart Contract Platforms"
 }

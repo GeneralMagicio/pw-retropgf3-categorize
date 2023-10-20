@@ -36,5 +36,6 @@
   "applicantAddress": "0x1eF889562C00Fc984Cf9A5903C98fa11761142E9",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "NFTs, Tokenization Platforms, Digital Identity, Community Building"
+  "pwCategorySuggestions": "NFTs, Tokenization Platforms, Digital Identity, Community Building",
+  "pwCategory": "NFT Aggregator"
 }

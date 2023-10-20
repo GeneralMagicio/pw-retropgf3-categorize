@@ -37,5 +37,6 @@
   "applicantAddress": "0x96f5771eecAA02314bbb98C5F301ceCEFDfe111f",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, User Experience & Adoption, End-User Experience, Web3 Community Platform"
+  "pwCategorySuggestions": "Community Building, User Experience & Adoption, End-User Experience, Web3 Community Platform",
+  "pwCategory": "Community Building"
 }

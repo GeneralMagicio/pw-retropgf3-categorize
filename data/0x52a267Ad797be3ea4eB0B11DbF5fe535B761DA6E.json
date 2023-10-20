@@ -42,5 +42,6 @@
   "recategorizeToType": "INDIVIDUAL",
   "recategorizeReason": "NO, the application is not correctly categorized as it refers to “I” indicating it's an individual making the application, not a project.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Tokenization Platforms, Developer Ecosystem, Smart Contract Platforms"
+  "pwCategorySuggestions": "Tokenization Platforms, Developer Ecosystem, Smart Contract Platforms",
+  "pwCategory": "Smart Contract Platforms"
 }

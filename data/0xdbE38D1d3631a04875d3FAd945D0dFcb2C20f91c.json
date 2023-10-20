@@ -43,5 +43,6 @@
   "applicantAddress": "0xdbE38D1d3631a04875d3FAd945D0dFcb2C20f91c",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Blockchain Infrastructure, Developer Ecosystem, Web3 Community Platform, User Experience & Adoption, Content Creation"
+  "pwCategorySuggestions": "Blockchain Infrastructure, Developer Ecosystem, Web3 Community Platform, User Experience & Adoption, Content Creation",
+  "pwCategory": "Blockchain Infrastructure"
 }

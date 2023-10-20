@@ -45,5 +45,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for violating the rules by promising future deliverables, as the applicant states they will bring their work to the Optimism Ecosystem next year.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Deliberative Governance, Web3 Governance, Collective Intelligence, Citizens' Assemblies"
+  "pwCategorySuggestions": "Deliberative Governance, Web3 Governance, Collective Intelligence, Citizens' Assemblies",
+  "pwCategory": "Collective Governance"
 }

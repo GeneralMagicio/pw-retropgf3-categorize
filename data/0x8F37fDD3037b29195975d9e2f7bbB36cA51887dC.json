@@ -47,5 +47,6 @@
   "applicantAddress": "0x8F37fDD3037b29195975d9e2f7bbB36cA51887dC",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "End-User Experience, Wallet Management, Developer Ecosystem"
+  "pwCategorySuggestions": "End-User Experience, Wallet Management, Developer Ecosystem",
+  "pwCategory": "Developer Ecosystem"
 }

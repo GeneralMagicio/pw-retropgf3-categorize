@@ -43,5 +43,6 @@
   "recategorizeToType": "INDIVIDUAL",
   "recategorizeReason": "NO, the application is not correctly categorized. It seems to be an individual (\"I love myself\", \"You are only evaluated based on the impact you already had\") posing as a project.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Developer Ecosystem, Governance & Tokens, Web3 Community Platform, Retroactive Funding"
+  "pwCategorySuggestions": "Developer Ecosystem, Governance & Tokens, Web3 Community Platform, Retroactive Funding",
+  "pwCategory": "Developer Ecosystem"
 }

@@ -42,5 +42,6 @@
   "applicantAddress": "0xD165df4296C85e780509fa1eace0150d945d49Fd",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, Developer Ecosystem, Content Creation, Blockchain Education, Governance & Tokens"
+  "pwCategorySuggestions": "Community Building, Developer Ecosystem, Content Creation, Blockchain Education, Governance & Tokens",
+  "pwCategory": "Blockchain Education"
 }

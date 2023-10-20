@@ -39,5 +39,6 @@
   "recategorizeToType": "INDIVIDUAL",
   "recategorizeReason": "NO, the application is categorized as a project but it clearly mentions activities carried out by an individual i.e., \"I created a Dune Spell table\".",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Finance (DeFi), Layer 2 Scaling, Tokenization Platforms, Blockchain Infrastructure, Developer Ecosystem"
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Layer 2 Scaling, Tokenization Platforms, Blockchain Infrastructure, Developer Ecosystem",
+  "pwCategory": "Blockchain Infrastructure"
 }

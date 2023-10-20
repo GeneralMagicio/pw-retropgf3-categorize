@@ -35,5 +35,6 @@
   "applicantAddress": "0xa271369dC0575b2a1fD2D5882240A263EC3fb974",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Web3 Community Platform, User Experience & Adoption, Content Creation, Community Building"
+  "pwCategorySuggestions": "Web3 Community Platform, User Experience & Adoption, Content Creation, Community Building",
+  "pwCategory": "Community Building"
 }

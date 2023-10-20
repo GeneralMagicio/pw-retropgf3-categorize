@@ -44,5 +44,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged because it contains content in a language other than English.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Developer Ecosystem, Smart Contract Platforms, End-User Experience, Community Building, Investment"
+  "pwCategorySuggestions": "Developer Ecosystem, Smart Contract Platforms, End-User Experience, Community Building, Investment",
+  "pwCategory": "Developer Ecosystem"
 }

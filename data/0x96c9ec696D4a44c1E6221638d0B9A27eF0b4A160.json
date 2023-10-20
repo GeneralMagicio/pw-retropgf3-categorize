@@ -47,5 +47,6 @@
   "recategorizeToType": "PROJECT",
   "recategorizeReason": "NO, the application should be categorized as \"PROJECT\" because it refers to collective actions, a website, and a user community, rather than individual actions or needs.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, Decentralized Social Media, DeFi, NFTs, Governance & Tokens"
+  "pwCategorySuggestions": "Community Building, Decentralized Social Media, DeFi, NFTs, Governance & Tokens",
+  "pwCategory": "Community Building"
 }

@@ -37,5 +37,6 @@
   "applicantAddress": "0x39485bE2B0b994B7F7696984187c130041deD1B5",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Media Production, Community Building, User Experience & Adoption, Blockchain Infrastructure, Decentralized Finance (DeFi)"
+  "pwCategorySuggestions": "Media Production, Community Building, User Experience & Adoption, Blockchain Infrastructure, Decentralized Finance (DeFi)",
+  "pwCategory": "Media Production"
 }

@@ -55,5 +55,6 @@
   "applicantAddress": "0x317A8C15eF921Ea907b4Daf831ED05E72BE4248a",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Tokenization Platforms, Blockchain Infrastructure, Decentralized Finance (DeFi), End-User Experience, NFT Aggregator"
+  "pwCategorySuggestions": "Tokenization Platforms, Blockchain Infrastructure, Decentralized Finance (DeFi), End-User Experience, NFT Aggregator",
+  "pwCategory": "End User Experience and Adoption"
 }

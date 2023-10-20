@@ -49,5 +49,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for spam because the 'bio' and 'contribution description' sections contain nonsensical and repetitive content.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Blockchain Infrastructure, Community Building, User Experience & Adoption"
+  "pwCategorySuggestions": "Blockchain Infrastructure, Community Building, User Experience & Adoption",
+  "pwCategory": "Blockchain Infrastructure"
 }

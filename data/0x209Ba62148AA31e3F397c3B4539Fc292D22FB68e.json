@@ -46,5 +46,6 @@
   "recategorizeToType": "INDIVIDUAL",
   "recategorizeReason": "NO, the application is titled as a \"PROJECT\" but the descriptions given refer to individual efforts, indicated by uses of \"I\" and \"my\".",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Exchanges (DEXs), Trustless Swaps, User Experience & Adoption, Smart Contract Platforms"
+  "pwCategorySuggestions": "Decentralized Exchanges (DEXs), Trustless Swaps, User Experience & Adoption, Smart Contract Platforms",
+  "pwCategory": "Smart Contract Platforms"
 }

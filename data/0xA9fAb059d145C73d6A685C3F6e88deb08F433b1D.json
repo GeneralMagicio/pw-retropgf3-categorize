@@ -109,5 +109,6 @@
   "applicantAddress": "0xA9fAb059d145C73d6A685C3F6e88deb08F433b1D",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Content Creation, Community Building, User Experience & Adoption, Blockchain Education, Media Production"
+  "pwCategorySuggestions": "Content Creation, Community Building, User Experience & Adoption, Blockchain Education, Media Production",
+  "pwCategory": "Blockchain Education"
 }

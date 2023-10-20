@@ -57,7 +57,7 @@ export async function placeInCategories(analyzeAll: YesOrNo) {
 
     let categoryResult = await categoryChain.invoke({
       categoryList,
-      project: `${application.Project}, ${application.bio},  ${application.contributionDescription}, ${application.impactDescription}, ${application.Tags}`,
+      project: `${application.displayName}, ${application.bio},  ${application.contributionDescription}, ${application.impactDescription}, ${application.pwCategorySuggestions}`,
     });
 
     application.pwCategory = categoryResult.content;
@@ -96,7 +96,7 @@ export async function placeInCategories(analyzeAll: YesOrNo) {
 
     let categoryResult = await categoryChain.invoke({
       categoryList,
-      project: `${application.Project}, ${application.bio},  ${application.contributionDescription}, ${application.impactDescription}, ${application.Tags}`,
+      project: `${application.displayName}, ${application.bio},  ${application.contributionDescription}, ${application.impactDescription}, ${application.pwCategorySuggestions}`,
     });
 
     application.pwCategory = categoryResult.content;

@@ -86,5 +86,6 @@
   "applicantAddress": "0xf13e477365B0FAa64130DA2FF663aAb20d32d929",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, Developer Ecosystem, Communication & Coordination, Education, Ethereum Improvement Proposals (EIPs)"
+  "pwCategorySuggestions": "Community Building, Developer Ecosystem, Communication & Coordination, Education, Ethereum Improvement Proposals (EIPs)",
+  "pwCategory": "Developer Ecosystem"
 }

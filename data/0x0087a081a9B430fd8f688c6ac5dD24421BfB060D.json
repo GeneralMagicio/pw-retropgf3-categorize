@@ -115,5 +115,6 @@
   "applicantAddress": "0x0087a081a9B430fd8f688c6ac5dD24421BfB060D",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Governance & Tokens, Community Building, Blockchain Education, Latin American Community, Optimism Ecosystem"
+  "pwCategorySuggestions": "Governance & Tokens, Community Building, Blockchain Education, Latin American Community, Optimism Ecosystem",
+  "pwCategory": "Community Building"
 }

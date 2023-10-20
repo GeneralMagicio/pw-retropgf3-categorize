@@ -37,5 +37,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for promises of future impact, with the applicant stating that they believe they will have an impact in the future.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, Content Creation, Digital Identity, Blockchain Education"
+  "pwCategorySuggestions": "Community Building, Content Creation, Digital Identity, Blockchain Education",
+  "pwCategory": "Web3 Advocacy"
 }

@@ -66,5 +66,6 @@
   "recategorizeToType": "INDIVIDUAL",
   "recategorizeReason": "NO, it is categorized as a project but the application is from an individual named Billy.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Finance (DeFi), Smart Contract Platforms, Tokenization Platforms, Community Building, Governance & Tokens"
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Smart Contract Platforms, Tokenization Platforms, Community Building, Governance & Tokens",
+  "pwCategory": "Community Building"
 }

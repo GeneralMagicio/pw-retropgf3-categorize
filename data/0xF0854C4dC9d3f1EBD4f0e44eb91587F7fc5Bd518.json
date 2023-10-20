@@ -37,5 +37,6 @@
   "applicantAddress": "0xF0854C4dC9d3f1EBD4f0e44eb91587F7fc5Bd518",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, NFTs, Decentralized Identity, User Experience & Adoption, Social Media Promotion"
+  "pwCategorySuggestions": "Community Building, NFTs, Decentralized Identity, User Experience & Adoption, Social Media Promotion",
+  "pwCategory": "Community Building"
 }

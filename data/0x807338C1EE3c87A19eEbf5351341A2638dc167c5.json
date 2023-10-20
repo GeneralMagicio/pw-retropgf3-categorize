@@ -50,5 +50,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "Flagged: The application does not provide a clear description of legitimate, specific contributions made to the Optimism network beyond stating usage of the network, which is not in scope for rewards as per RetroPGF rules.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Finance (DeFi), Layer 2 Scaling, Smart Contract Platforms, Tokenization Platforms, Blockchain Infrastructure"
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Layer 2 Scaling, Smart Contract Platforms, Tokenization Platforms, Blockchain Infrastructure",
+  "pwCategory": "Layer 2 Scaling"
 }

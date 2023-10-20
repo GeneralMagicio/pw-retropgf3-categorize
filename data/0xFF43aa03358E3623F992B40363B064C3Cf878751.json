@@ -39,5 +39,6 @@
   "recategorizeToType": "PROJECT",
   "recategorizeReason": "NO, the application is miscategorized. The contributions and impacts listed refer to collective efforts of a project rather than the efforts of a single individual.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Layer 2 Scaling, Smart Contract Platforms, Ethereum"
+  "pwCategorySuggestions": "Layer 2 Scaling, Smart Contract Platforms, Ethereum",
+  "pwCategory": "Layer 2 Scaling"
 }

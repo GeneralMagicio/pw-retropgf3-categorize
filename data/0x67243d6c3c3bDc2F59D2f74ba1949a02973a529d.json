@@ -107,5 +107,6 @@
   "applicantAddress": "0x67243d6c3c3bDc2F59D2f74ba1949a02973a529d",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Governance, Web3 Community Platform, DAO Management, Cross-Community Collaboration, Education"
+  "pwCategorySuggestions": "Decentralized Governance, Web3 Community Platform, DAO Management, Cross-Community Collaboration, Education",
+  "pwCategory": "Developer Ecosystem"
 }

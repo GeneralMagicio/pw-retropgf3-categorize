@@ -103,5 +103,6 @@
   "applicantAddress": "0x7cBFd4f0De51124B498f72DEBC35421C66F2bB0d",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Exchanges (DEXs), Cross-Chain Platforms, Smart Contract Platforms, Tokenization Platforms, End-User Experience"
+  "pwCategorySuggestions": "Decentralized Exchanges (DEXs), Cross-Chain Platforms, Smart Contract Platforms, Tokenization Platforms, End-User Experience",
+  "pwCategory": "Decentralized Finance (DeFi)"
 }

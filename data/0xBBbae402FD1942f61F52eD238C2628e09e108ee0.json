@@ -43,5 +43,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for violating the rules as it contains promises of future impact, which is against rule 1. The applicant states \"I will actively vote for the admin, I will do the tasks required by the project, I will actively use the network and give feedback, if I have a good idea I will propose it to the board, I will continue the discussion\". These are all actions they plan on doing in the future, not things they have already done.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Governance & Tokens, User Experience & Adoption, Developer Ecosystem, Web3 Community Platform, Cryptocurrency Services"
+  "pwCategorySuggestions": "Governance & Tokens, User Experience & Adoption, Developer Ecosystem, Web3 Community Platform, Cryptocurrency Services",
+  "pwCategory": "Community Building"
 }

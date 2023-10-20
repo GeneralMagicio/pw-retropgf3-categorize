@@ -60,5 +60,6 @@
   "applicantAddress": "0x74021a7599CF772275c6d5699Fb681bEeB0d7AA8",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Education and Awareness, Onboarding through IRL Meetups, Community Building"
+  "pwCategorySuggestions": "Education and Awareness, Onboarding through IRL Meetups, Community Building",
+  "pwCategory": "Blockchain Education"
 }

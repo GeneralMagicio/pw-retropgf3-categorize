@@ -54,5 +54,6 @@
   "applicantAddress": "0x4F4a595bdc00ACF85eFb90b1f2171d475F1a63B7",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Non-Fungible Tokens (NFTs), Decentralized Finance (DeFi), Digital Assets Marketplace, Web3 Community Platform, Mass Adoption"
+  "pwCategorySuggestions": "Non-Fungible Tokens (NFTs), Decentralized Finance (DeFi), Digital Assets Marketplace, Web3 Community Platform, Mass Adoption",
+  "pwCategory": "NFT Aggregator"
 }

@@ -45,5 +45,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "Flagged for irrelevant contribution links and lack of clear contribution, as well as an insignificant bio.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building"
+  "pwCategorySuggestions": "Community Building",
+  "pwCategory": "Community Building"
 }

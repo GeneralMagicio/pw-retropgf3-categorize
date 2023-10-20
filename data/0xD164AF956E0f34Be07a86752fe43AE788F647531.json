@@ -47,5 +47,6 @@
   "applicantAddress": "0xD164AF956E0f34Be07a86752fe43AE788F647531",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Blockchain Education, Layer 2 Scaling, Community Building, Governance & Tokens, Web3 Community Platform"
+  "pwCategorySuggestions": "Blockchain Education, Layer 2 Scaling, Community Building, Governance & Tokens, Web3 Community Platform",
+  "pwCategory": "Blockchain Education"
 }

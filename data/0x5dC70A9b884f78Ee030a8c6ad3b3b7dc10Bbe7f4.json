@@ -77,5 +77,6 @@
   "applicantAddress": "0x5dC70A9b884f78Ee030a8c6ad3b3b7dc10Bbe7f4",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Finance (DeFi), Smart Contract Platforms, User Experience & Adoption, Tokenization Platforms, Blockchain Infrastructure"
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Smart Contract Platforms, User Experience & Adoption, Tokenization Platforms, Blockchain Infrastructure",
+  "pwCategory": "Smart Contract Platforms"
 }

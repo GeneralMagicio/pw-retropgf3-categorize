@@ -65,5 +65,6 @@
   "applicantAddress": "0x0b98718264cA14d0A17C145FfE1e4F3c38a39372",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Smart Contract Platforms, Development Tools, Blockchain Infrastructure, Developer Ecosystem, Decentralized Finance (DeFi)"
+  "pwCategorySuggestions": "Smart Contract Platforms, Development Tools, Blockchain Infrastructure, Developer Ecosystem, Decentralized Finance (DeFi)",
+  "pwCategory": "Developer Ecosystem"
 }

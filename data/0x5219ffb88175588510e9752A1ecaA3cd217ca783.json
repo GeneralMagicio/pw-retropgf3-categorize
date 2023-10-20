@@ -90,5 +90,6 @@
   "applicantAddress": "0x5219ffb88175588510e9752A1ecaA3cd217ca783",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, Decentralized Finance (DeFi), Tokenization Platforms, Blockchain Infrastructure, Impact Certifications"
+  "pwCategorySuggestions": "Community Building, Decentralized Finance (DeFi), Tokenization Platforms, Blockchain Infrastructure, Impact Certifications",
+  "pwCategory": "Governance & Tokens"
 }

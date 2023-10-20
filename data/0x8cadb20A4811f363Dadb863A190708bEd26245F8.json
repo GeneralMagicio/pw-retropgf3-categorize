@@ -109,5 +109,6 @@
   "applicantAddress": "0x8cadb20A4811f363Dadb863A190708bEd26245F8",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Finance (DeFi), Liquidity Providers (LPs), Automated Market Makers (AMMs), Optimism, Open-source Tools"
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Liquidity Providers (LPs), Automated Market Makers (AMMs), Optimism, Open-source Tools",
+  "pwCategory": "Decentralized Finance (DeFi)"
 }

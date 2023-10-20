@@ -47,5 +47,6 @@
   "recategorizeToType": "PROJECT",
   "recategorizeReason": "NO, the application is categorized as an INDIVIDUAL but should be categorized as a PROJECT as the applicant talks about creating a metaverse project.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Metaverse, NFTs, Gamehub, Tokenization Platforms, Developer Ecosystem"
+  "pwCategorySuggestions": "Metaverse, NFTs, Gamehub, Tokenization Platforms, Developer Ecosystem",
+  "pwCategory": "Blockchain Gaming"
 }

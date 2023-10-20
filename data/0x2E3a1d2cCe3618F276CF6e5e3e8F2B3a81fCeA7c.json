@@ -55,5 +55,6 @@
   "recategorizeToType": "PROJECT",
   "recategorizeReason": "NO, the application is incorrectly categorized as \"INDIVIDUAL\". The contribution description, impact description, and the provided website URL suggest that this is a project rather than an individual.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, Tokenization Platforms"
+  "pwCategorySuggestions": "Community Building, Tokenization Platforms",
+  "pwCategory": "Community Building"
 }

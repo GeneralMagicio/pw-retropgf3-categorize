@@ -133,5 +133,6 @@
   "applicantAddress": "0x3562A4Df9Fb30d7B1cb1447C24eaA9B540EdFCD7",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Content Creation, Community Building, User Experience & Adoption, Developer Ecosystem, Blockchain Infrastructure"
+  "pwCategorySuggestions": "Content Creation, Community Building, User Experience & Adoption, Developer Ecosystem, Blockchain Infrastructure",
+  "pwCategory": "Developer Ecosystem"
 }

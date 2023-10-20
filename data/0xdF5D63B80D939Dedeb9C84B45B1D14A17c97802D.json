@@ -47,5 +47,6 @@
   "applicantAddress": "0xdF5D63B80D939Dedeb9C84B45B1D14A17c97802D",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "DAO Accelerator, Biotech, Optimism, Token Vesting, NFT Badges"
+  "pwCategorySuggestions": "DAO Accelerator, Biotech, Optimism, Token Vesting, NFT Badges",
+  "pwCategory": "Governance & Tokens"
 }

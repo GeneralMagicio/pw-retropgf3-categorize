@@ -42,5 +42,6 @@
   "applicantAddress": "0xB332F3359B7D884f03590eD9bf2227c445900557",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "User Experience & Adoption, User Interface Design"
+  "pwCategorySuggestions": "User Experience & Adoption, User Interface Design",
+  "pwCategory": "End User Experience and Adoption"
 }

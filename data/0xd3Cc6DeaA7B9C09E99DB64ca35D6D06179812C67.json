@@ -40,5 +40,6 @@
   "recategorizeToType": "INDIVIDUAL",
   "recategorizeReason": "NO, the application is categorized as a PROJECT but the bio refers to an individual (\"A guy honestly passionate about automating things\"), indicating this might be an INDIVIDUAL application.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Blockchain Infrastructure, Developer Ecosystem, User Experience & Adoption, Content Creation, Community Building"
+  "pwCategorySuggestions": "Blockchain Infrastructure, Developer Ecosystem, User Experience & Adoption, Content Creation, Community Building",
+  "pwCategory": "Blockchain Infrastructure"
 }

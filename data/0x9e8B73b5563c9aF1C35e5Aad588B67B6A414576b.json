@@ -47,5 +47,6 @@
   "recategorizeToType": "INDIVIDUAL",
   "recategorizeReason": "NO, the application is incorrectly categorized as a \"PROJECT\" but should be \"INDIVIDUAL\" as the bio refers to a person \"Director of Global Business at Edge & Node\" instead of a project.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Developer Ecosystem, Tokenization Platforms, Blockchain Infrastructure, Decentralized Finance (DeFi), End-User Experience"
+  "pwCategorySuggestions": "Developer Ecosystem, Tokenization Platforms, Blockchain Infrastructure, Decentralized Finance (DeFi), End-User Experience",
+  "pwCategory": "Blockchain Infrastructure"
 }

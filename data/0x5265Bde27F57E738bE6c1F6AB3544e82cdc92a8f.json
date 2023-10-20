@@ -69,5 +69,6 @@
   "applicantAddress": "0x5265Bde27F57E738bE6c1F6AB3544e82cdc92a8f",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Application Development, Blockchain Infrastructure, Web3 Community Platform, Open Source Development"
+  "pwCategorySuggestions": "Decentralized Application Development, Blockchain Infrastructure, Web3 Community Platform, Open Source Development",
+  "pwCategory": "Developer Ecosystem"
 }

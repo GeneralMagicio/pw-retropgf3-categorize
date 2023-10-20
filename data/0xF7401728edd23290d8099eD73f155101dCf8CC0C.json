@@ -36,5 +36,6 @@
   "applicantAddress": "0xF7401728edd23290d8099eD73f155101dCf8CC0C",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, Developer Ecosystem, End-User Experience, DeFi"
+  "pwCategorySuggestions": "Community Building, Developer Ecosystem, End-User Experience, DeFi",
+  "pwCategory": "Web3 Advocacy"
 }

@@ -44,5 +44,6 @@
   "applicantAddress": "0xAd33D7e203441180E5CF5b98B8DE1c00e9Cd07a8",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Blockchain Infrastructure, Community Building, Content Creation, Blockchain Education"
+  "pwCategorySuggestions": "Blockchain Infrastructure, Community Building, Content Creation, Blockchain Education",
+  "pwCategory": "Community Building"
 }

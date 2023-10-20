@@ -59,5 +59,6 @@
   "applicantAddress": "0xF43350d7F1E6b8E0A6605145DA043f7326E10142",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Smart Contract Platforms, Blockchain Infrastructure, Developer Ecosystem, Web3 Community Platform, End-User Experience"
+  "pwCategorySuggestions": "Smart Contract Platforms, Blockchain Infrastructure, Developer Ecosystem, Web3 Community Platform, End-User Experience",
+  "pwCategory": "Blockchain Infrastructure"
 }

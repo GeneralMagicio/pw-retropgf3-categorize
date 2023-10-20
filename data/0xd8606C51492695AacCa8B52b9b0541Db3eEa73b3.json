@@ -44,5 +44,6 @@
   "applicantAddress": "0xd8606C51492695AacCa8B52b9b0541Db3eEa73b3",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "NFTs, Layer 2 Scaling, Community Building, Blockchain Infrastructure, Blockchain Gaming"
+  "pwCategorySuggestions": "NFTs, Layer 2 Scaling, Community Building, Blockchain Infrastructure, Blockchain Gaming",
+  "pwCategory": "NFT Aggregator"
 }

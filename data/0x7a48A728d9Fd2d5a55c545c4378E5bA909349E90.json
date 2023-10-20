@@ -64,5 +64,6 @@
   "applicantAddress": "0x7a48A728d9Fd2d5a55c545c4378E5bA909349E90",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Layer 2 Scaling, Developer Ecosystem, Blockchain Education, Community Building, Media Production"
+  "pwCategorySuggestions": "Layer 2 Scaling, Developer Ecosystem, Blockchain Education, Community Building, Media Production",
+  "pwCategory": "Layer 2 Scaling"
 }

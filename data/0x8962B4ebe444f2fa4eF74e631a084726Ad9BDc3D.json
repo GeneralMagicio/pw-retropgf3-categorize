@@ -42,5 +42,6 @@
   "applicantAddress": "0x8962B4ebe444f2fa4eF74e631a084726Ad9BDc3D",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Content Creation, Marketing Services, Web3 Community Platform, User Experience & Adoption, Creative Direction"
+  "pwCategorySuggestions": "Content Creation, Marketing Services, Web3 Community Platform, User Experience & Adoption, Creative Direction",
+  "pwCategory": "End User Experience and Adoption"
 }

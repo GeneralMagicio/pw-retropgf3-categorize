@@ -54,5 +54,6 @@
   "applicantAddress": "0x1dAdaaF4d817eBcBBd9B0F9fC1b463152950630F",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Blockchain Infrastructure, Tokenization Platforms, Data Analytics"
+  "pwCategorySuggestions": "Blockchain Infrastructure, Tokenization Platforms, Data Analytics",
+  "pwCategory": "Blockchain Infrastructure"
 }

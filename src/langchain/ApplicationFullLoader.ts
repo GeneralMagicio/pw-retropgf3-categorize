@@ -27,10 +27,7 @@ export class ApplicationFullLoader implements BaseDocumentLoader {
 
         const doc = JSON.parse(data);
 
-        if (
-          this.applicantType &&
-          doc["Applicant Type"] !== this.applicantType
-        ) {
+        if (this.applicantType && doc["applicantType"] !== this.applicantType) {
           resolve([]);
         }
 

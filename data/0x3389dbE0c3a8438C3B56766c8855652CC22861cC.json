@@ -46,5 +46,6 @@
   "applicantAddress": "0x3389dbE0c3a8438C3B56766c8855652CC22861cC",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Layer 2 Scaling"
+  "pwCategorySuggestions": "Layer 2 Scaling",
+  "pwCategory": "Layer 2 Scaling"
 }

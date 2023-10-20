@@ -175,5 +175,6 @@
   "applicantAddress": "0x04cc6b487566B1C821bEa04d7ac0d23CEDe05cC9",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Governance, Urban Governance, Public Budgeting, Blockchain Integration, Community Participation"
+  "pwCategorySuggestions": "Decentralized Governance, Urban Governance, Public Budgeting, Blockchain Integration, Community Participation",
+  "pwCategory": "Governance & Tokens"
 }

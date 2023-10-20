@@ -42,5 +42,6 @@
   "applicantAddress": "0xB135D40581404474Beca15Ba408E2E67A178b4cd",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Content Creation, Education, Community Building, User Experience & Adoption, End-User Experience"
+  "pwCategorySuggestions": "Content Creation, Education, Community Building, User Experience & Adoption, End-User Experience",
+  "pwCategory": "Education"
 }

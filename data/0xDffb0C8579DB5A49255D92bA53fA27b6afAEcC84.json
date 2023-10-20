@@ -36,5 +36,6 @@
   "applicantAddress": "0xDffb0C8579DB5A49255D92bA53fA27b6afAEcC84",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, User Experience & Adoption, NFT Aggregator, Smart Contract Platforms, Web3 Community Platform"
+  "pwCategorySuggestions": "Community Building, User Experience & Adoption, NFT Aggregator, Smart Contract Platforms, Web3 Community Platform",
+  "pwCategory": "Community Building"
 }

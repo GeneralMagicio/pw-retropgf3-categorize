@@ -49,5 +49,6 @@
   "applicantAddress": "0x110B8b6717C4Da32d86A8D3ef78964d44f9D61F0",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "End-User Experience, Tokenization Platforms, Community Building, User Experience & Adoption"
+  "pwCategorySuggestions": "End-User Experience, Tokenization Platforms, Community Building, User Experience & Adoption",
+  "pwCategory": "Community Building"
 }

@@ -94,5 +94,6 @@
   "applicantAddress": "0x1d921dff757610FbDB0073479e12c0a07d382677",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Tokenization Platforms, Blockchain Infrastructure, Decentralized Finance (DeFi), Smart Contract Platforms, Privacy Coins"
+  "pwCategorySuggestions": "Tokenization Platforms, Blockchain Infrastructure, Decentralized Finance (DeFi), Smart Contract Platforms, Privacy Coins",
+  "pwCategory": "Blockchain Infrastructure"
 }

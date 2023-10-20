@@ -44,5 +44,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged due to rule violation 1: Promises of future impact. The applicant states, \"I really look forward to RetroPGF becoming more famous in the future\" and \"I hope I can also get prizes from it,\" which can be considered promises of future deliverables or impact.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "End-User Experience, Adoption"
+  "pwCategorySuggestions": "End-User Experience, Adoption",
+  "pwCategory": "End User Experience and Adoption"
 }

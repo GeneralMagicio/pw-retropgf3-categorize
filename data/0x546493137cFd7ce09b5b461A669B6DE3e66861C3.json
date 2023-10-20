@@ -47,5 +47,6 @@
   "applicantAddress": "0x546493137cFd7ce09b5b461A669B6DE3e66861C3",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Finance (DeFi), Layer 2 Scaling, Smart Contract Platforms, NFT Aggregator, Cross-Chain Platforms"
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Layer 2 Scaling, Smart Contract Platforms, NFT Aggregator, Cross-Chain Platforms",
+  "pwCategory": "End User Experience and Adoption"
 }

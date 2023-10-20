@@ -50,5 +50,6 @@
   "recategorizeToType": "INDIVIDUAL",
   "recategorizeReason": "NO, the application is talking in the first person (\"i am\"), indicating it's likely an individual, not a project.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Identity, Privacy Coins"
+  "pwCategorySuggestions": "Decentralized Identity, Privacy Coins",
+  "pwCategory": "Decentralized Identity"
 }

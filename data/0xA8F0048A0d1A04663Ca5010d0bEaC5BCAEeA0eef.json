@@ -549,5 +549,6 @@
   "applicantAddress": "0xA8F0048A0d1A04663Ca5010d0bEaC5BCAEeA0eef",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, Content Creation, Web3 Community Platform, Media Production, Cryptocurrency Services"
+  "pwCategorySuggestions": "Community Building, Content Creation, Web3 Community Platform, Media Production, Cryptocurrency Services",
+  "pwCategory": "Community Building"
 }

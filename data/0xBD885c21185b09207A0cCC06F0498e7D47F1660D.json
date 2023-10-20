@@ -35,5 +35,6 @@
   "applicantAddress": "0xBD885c21185b09207A0cCC06F0498e7D47F1660D",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Blockchain Education"
+  "pwCategorySuggestions": "Blockchain Education",
+  "pwCategory": "Blockchain Education"
 }

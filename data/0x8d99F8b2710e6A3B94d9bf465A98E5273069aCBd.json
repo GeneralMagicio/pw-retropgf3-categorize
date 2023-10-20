@@ -90,5 +90,6 @@
   "applicantAddress": "0x8d99F8b2710e6A3B94d9bf465A98E5273069aCBd",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Data Engineering, Ethereum Application Engineering, Blockchain Analytics, Developer Tooling, Protocol Analysis"
+  "pwCategorySuggestions": "Data Engineering, Ethereum Application Engineering, Blockchain Analytics, Developer Tooling, Protocol Analysis",
+  "pwCategory": "Developer Ecosystem"
 }

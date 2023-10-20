@@ -44,5 +44,6 @@
   "applicantAddress": "0x58fB42964105931A5B5872B6034660191b32b51c",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Layer 2 Scaling, NFTs, Ethereum Scalability, Web3 Community Platform, Blockchain Infrastructure"
+  "pwCategorySuggestions": "Layer 2 Scaling, NFTs, Ethereum Scalability, Web3 Community Platform, Blockchain Infrastructure",
+  "pwCategory": "Layer 2 Scaling"
 }

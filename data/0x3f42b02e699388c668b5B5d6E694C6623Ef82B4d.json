@@ -51,5 +51,6 @@
   "applicantAddress": "0x3f42b02e699388c668b5B5d6E694C6623Ef82B4d",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Finance (DeFi), Lending Protocols, Collateralization, Partnerships, Yield Farming"
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Lending Protocols, Collateralization, Partnerships, Yield Farming",
+  "pwCategory": "Decentralized Finance (DeFi)"
 }

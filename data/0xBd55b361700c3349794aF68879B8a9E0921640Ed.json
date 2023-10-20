@@ -101,5 +101,6 @@
   "applicantAddress": "0xBd55b361700c3349794aF68879B8a9E0921640Ed",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Web3 Community Platform, Blockchain Education, Content Creation, Community Building"
+  "pwCategorySuggestions": "Web3 Community Platform, Blockchain Education, Content Creation, Community Building",
+  "pwCategory": "Blockchain Education"
 }

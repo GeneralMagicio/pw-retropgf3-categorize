@@ -72,5 +72,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "Yes, this application should be flagged for promising future impact. The applicant states that they \"can introduce optimism to new users and mentor them\", which implies future activities that are not completed yet.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, User Experience & Adoption, Blockchain Education, Web3 Community Platform, Cryptocurrency Services"
+  "pwCategorySuggestions": "Community Building, User Experience & Adoption, Blockchain Education, Web3 Community Platform, Cryptocurrency Services",
+  "pwCategory": "Web3 Advocacy"
 }

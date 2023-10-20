@@ -42,5 +42,6 @@
   "applicantAddress": "0xE9335f48cFA1f0a55E376dd306BAE6dD2f6Cdb96",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Blockchain Infrastructure, Smart Contract Platforms, Decentralized Finance (DeFi), NFT Aggregator, Wallet Management"
+  "pwCategorySuggestions": "Blockchain Infrastructure, Smart Contract Platforms, Decentralized Finance (DeFi), NFT Aggregator, Wallet Management",
+  "pwCategory": "Wallet Management"
 }

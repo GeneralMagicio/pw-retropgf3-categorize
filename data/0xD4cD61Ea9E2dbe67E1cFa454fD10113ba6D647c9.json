@@ -47,5 +47,6 @@
   "applicantAddress": "0xD4cD61Ea9E2dbe67E1cFa454fD10113ba6D647c9",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Blockchain Gaming"
+  "pwCategorySuggestions": "Blockchain Gaming",
+  "pwCategory": "Smart Contract Platforms"
 }

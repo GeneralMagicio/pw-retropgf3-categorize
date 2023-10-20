@@ -36,5 +36,6 @@
   "applicantAddress": "0x967733bcC6A86e0A44D0d2aB882dc5F4c59d0Dd7",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Content Creation, Community Building, User Experience & Adoption, Developer Ecosystem, NFT Aggregator"
+  "pwCategorySuggestions": "Content Creation, Community Building, User Experience & Adoption, Developer Ecosystem, NFT Aggregator",
+  "pwCategory": "Community Building"
 }

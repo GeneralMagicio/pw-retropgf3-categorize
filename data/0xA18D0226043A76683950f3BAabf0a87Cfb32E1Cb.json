@@ -36,5 +36,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for containing spam since the contribution and impact descriptions are irrelevant and filled with repetitive filler words.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Blockchain Infrastructure, Developer Ecosystem, End-User Experience, Community Building, Content Creation"
+  "pwCategorySuggestions": "Blockchain Infrastructure, Developer Ecosystem, End-User Experience, Community Building, Content Creation",
+  "pwCategory": "Developer Ecosystem"
 }

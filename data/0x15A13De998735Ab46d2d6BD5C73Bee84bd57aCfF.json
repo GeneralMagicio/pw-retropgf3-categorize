@@ -37,5 +37,6 @@
   "applicantAddress": "0x15A13De998735Ab46d2d6BD5C73Bee84bd57aCfF",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Tokenization Platforms, Decentralized Finance (DeFi), Layer 2 Scaling, Smart Contract Platforms, Community Building"
+  "pwCategorySuggestions": "Tokenization Platforms, Decentralized Finance (DeFi), Layer 2 Scaling, Smart Contract Platforms, Community Building",
+  "pwCategory": "Community Building"
 }

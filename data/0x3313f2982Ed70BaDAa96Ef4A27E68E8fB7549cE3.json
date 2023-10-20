@@ -44,5 +44,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "Flagged for violation of grant program rule number 11 - The application contains unrelated and irrelevant answers in the 'contributionDescription' and 'impactDescription' sections.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "NFTs, Decentralized Finance (DeFi), Tokenization Platforms"
+  "pwCategorySuggestions": "NFTs, Decentralized Finance (DeFi), Tokenization Platforms",
+  "pwCategory": "Non-Fungible Tokens (NFTs)"
 }

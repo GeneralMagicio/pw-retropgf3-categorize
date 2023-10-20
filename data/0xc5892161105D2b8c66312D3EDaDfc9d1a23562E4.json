@@ -43,5 +43,6 @@
   "applicantAddress": "0xc5892161105D2b8c66312D3EDaDfc9d1a23562E4",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, Funding and Rewards"
+  "pwCategorySuggestions": "Community Building, Funding and Rewards",
+  "pwCategory": "Community Building"
 }

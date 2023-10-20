@@ -48,5 +48,6 @@
   "recategorizeToType": "INDIVIDUAL",
   "recategorizeReason": "NO, the application uses \"I\" in the bio indicating it is an application from an individual, not a project.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, Governance & Tokens, End-User Experience, Blockchain Infrastructure, Decentralized Finance (DeFi)"
+  "pwCategorySuggestions": "Community Building, Governance & Tokens, End-User Experience, Blockchain Infrastructure, Decentralized Finance (DeFi)",
+  "pwCategory": "Community Building"
 }

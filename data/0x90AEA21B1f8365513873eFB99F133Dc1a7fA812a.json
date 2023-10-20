@@ -47,5 +47,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged because it includes promises of future deliverables, specifically opening a data market and planning to use ERC-721 to define user data, which violates Rule 1 of the grant program rules.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Tokenization Platforms, Data Storage, Privacy Coins, Content Creation, Blockchain Infrastructure"
+  "pwCategorySuggestions": "Tokenization Platforms, Data Storage, Privacy Coins, Content Creation, Blockchain Infrastructure",
+  "pwCategory": "Blockchain Infrastructure"
 }

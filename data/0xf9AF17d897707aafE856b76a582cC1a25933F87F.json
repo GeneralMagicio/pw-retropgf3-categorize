@@ -48,5 +48,6 @@
   "applicantAddress": "0xf9AF17d897707aafE856b76a582cC1a25933F87F",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Content Creation, Community Building, User Experience & Adoption, Developer Ecosystem, Social Media Marketing"
+  "pwCategorySuggestions": "Content Creation, Community Building, User Experience & Adoption, Developer Ecosystem, Social Media Marketing",
+  "pwCategory": "Community Building"
 }

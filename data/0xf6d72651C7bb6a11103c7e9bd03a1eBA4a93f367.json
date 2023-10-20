@@ -37,5 +37,6 @@
   "applicantAddress": "0xf6d72651C7bb6a11103c7e9bd03a1eBA4a93f367",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "NFTs, Layer 2 Scaling, Community Building, End-User Experience"
+  "pwCategorySuggestions": "NFTs, Layer 2 Scaling, Community Building, End-User Experience",
+  "pwCategory": "Community Building"
 }

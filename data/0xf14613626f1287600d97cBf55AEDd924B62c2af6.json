@@ -138,5 +138,6 @@
   "applicantAddress": "0xf14613626f1287600d97cBf55AEDd924B62c2af6",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Developer Tools, Blockchain Infrastructure, User Experience & Adoption, Web3 Community Platform"
+  "pwCategorySuggestions": "Developer Tools, Blockchain Infrastructure, User Experience & Adoption, Web3 Community Platform",
+  "pwCategory": "Developer Ecosystem"
 }

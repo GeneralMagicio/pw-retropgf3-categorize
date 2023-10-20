@@ -52,5 +52,6 @@
   "applicantAddress": "0xBb1C043cEb7745b286987b4cC8359c5B508F0307",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Content Creation, NFT Aggregator, Trading Tools, Web3 Community Platform, Cryptocurrency Services"
+  "pwCategorySuggestions": "Content Creation, NFT Aggregator, Trading Tools, Web3 Community Platform, Cryptocurrency Services",
+  "pwCategory": "End User Experience and Adoption"
 }

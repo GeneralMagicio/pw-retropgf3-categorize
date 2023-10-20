@@ -44,5 +44,6 @@
   "applicantAddress": "0xC3F6e18b429b6BAf1bD31B1E504aee7827C7AAb5",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, Education, Coordination, Event Organization"
+  "pwCategorySuggestions": "Community Building, Education, Coordination, Event Organization",
+  "pwCategory": "Community Building"
 }

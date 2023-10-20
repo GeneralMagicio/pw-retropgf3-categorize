@@ -70,5 +70,6 @@
   "applicantAddress": "0x62a43123FE71f9764f26554b3F5017627996816a",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Blockchain Infrastructure, Developer Ecosystem, Data Analytics & Insights, Community Building, Governance Tokens"
+  "pwCategorySuggestions": "Blockchain Infrastructure, Developer Ecosystem, Data Analytics & Insights, Community Building, Governance Tokens",
+  "pwCategory": "Developer Ecosystem"
 }

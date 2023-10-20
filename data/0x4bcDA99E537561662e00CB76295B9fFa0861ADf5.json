@@ -36,5 +36,6 @@
   "applicantAddress": "0x4bcDA99E537561662e00CB76295B9fFa0861ADf5",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Open-Source Tools, Educational Content, Community Building, Technical Contributions, Improved User Experience"
+  "pwCategorySuggestions": "Open-Source Tools, Educational Content, Community Building, Technical Contributions, Improved User Experience",
+  "pwCategory": "Developer Ecosystem"
 }

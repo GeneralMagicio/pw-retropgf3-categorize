@@ -67,5 +67,6 @@
   "applicantAddress": "0x5f80dbFEE26af9aBb7749831255312d5b676b9be",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Web3 Data Analytics, Adoption & Education, Blockchain Infrastructure, Decentralized Finance (DeFi), Media Production"
+  "pwCategorySuggestions": "Web3 Data Analytics, Adoption & Education, Blockchain Infrastructure, Decentralized Finance (DeFi), Media Production",
+  "pwCategory": "Blockchain Infrastructure"
 }

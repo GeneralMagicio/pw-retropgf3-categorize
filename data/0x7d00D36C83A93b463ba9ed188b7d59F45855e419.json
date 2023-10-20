@@ -38,5 +38,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged because it violates Rule 10 since paying gas fees are not considered a contribution that requires a minimum time commitment of 1 hour and provides impact to the Collective.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Web3 Community Platform, User Experience & Adoption, Gas Fee Advocacy"
+  "pwCategorySuggestions": "Web3 Community Platform, User Experience & Adoption, Gas Fee Advocacy",
+  "pwCategory": "End User Experience and Adoption"
 }

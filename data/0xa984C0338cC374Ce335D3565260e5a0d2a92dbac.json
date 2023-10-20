@@ -83,5 +83,6 @@
   "applicantAddress": "0xa984C0338cC374Ce335D3565260e5a0d2a92dbac",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Developer Ecosystem, User Experience & Adoption, Governance & Tokens, Layer 2 Scaling, Community Building"
+  "pwCategorySuggestions": "Developer Ecosystem, User Experience & Adoption, Governance & Tokens, Layer 2 Scaling, Community Building",
+  "pwCategory": "Community Building"
 }

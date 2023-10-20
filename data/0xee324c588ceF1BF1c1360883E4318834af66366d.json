@@ -161,5 +161,6 @@
   "applicantAddress": "0xee324c588ceF1BF1c1360883E4318834af66366d",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized News Aggregator, Web3 Community Platform, Content Curation, Scalability Solution, Open Source Development"
+  "pwCategorySuggestions": "Decentralized News Aggregator, Web3 Community Platform, Content Curation, Scalability Solution, Open Source Development",
+  "pwCategory": "Web3 Community Platform"
 }

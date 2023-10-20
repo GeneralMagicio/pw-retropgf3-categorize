@@ -44,5 +44,6 @@
   "applicantAddress": "0xd47315929C1A1757782453B776ada2cbEfacEFfB",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Content Creation, Community Building, User Experience & Adoption, Education"
+  "pwCategorySuggestions": "Content Creation, Community Building, User Experience & Adoption, Education",
+  "pwCategory": "Influencer Marketing"
 }

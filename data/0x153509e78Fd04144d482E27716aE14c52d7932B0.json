@@ -43,5 +43,6 @@
   "recategorizeToType": "INDIVIDUAL",
   "recategorizeReason": "NO, it should be categorized as \"INDIVIDUAL\", because it repeatedly uses first person reference such as \"For me\" in the description.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Web3 Community Platform, Environmental Solutions"
+  "pwCategorySuggestions": "Web3 Community Platform, Environmental Solutions",
+  "pwCategory": "Web3 Community Platform"
 }

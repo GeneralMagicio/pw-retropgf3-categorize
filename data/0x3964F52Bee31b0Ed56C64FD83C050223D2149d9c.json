@@ -47,5 +47,6 @@
   "recategorizeToType": "PROJECT",
   "recategorizeReason": "NO, the application is miscategorized. Although the 'applicantType' is listed as 'INDIVIDUAL', the language used throughout the application frequently refers to 'we', suggesting it's a group or project.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Finance (DeFi), Non-Fungible Tokens (NFTs), Layer 2 Scaling, Smart Contract Platforms, Blockchain Infrastructure"
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Non-Fungible Tokens (NFTs), Layer 2 Scaling, Smart Contract Platforms, Blockchain Infrastructure",
+  "pwCategory": "Decentralized Finance (DeFi)"
 }

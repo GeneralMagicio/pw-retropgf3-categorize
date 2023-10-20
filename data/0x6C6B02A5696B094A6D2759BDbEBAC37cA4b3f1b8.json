@@ -38,5 +38,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for violating rule 11 - the application contains languages other than English.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, User Experience & Adoption, Content Creation, Blockchain Infrastructure, Governance & Tokens"
+  "pwCategorySuggestions": "Community Building, User Experience & Adoption, Content Creation, Blockchain Infrastructure, Governance & Tokens",
+  "pwCategory": "Community Building"
 }

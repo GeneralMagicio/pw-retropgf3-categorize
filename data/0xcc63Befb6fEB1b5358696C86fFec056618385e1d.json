@@ -54,5 +54,6 @@
   "applicantAddress": "0xcc63Befb6fEB1b5358696C86fFec056618385e1d",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Blockchain Education, User Experience & Adoption, Governance & Tokens, Developer Ecosystem, Web3 Community Platform"
+  "pwCategorySuggestions": "Blockchain Education, User Experience & Adoption, Governance & Tokens, Developer Ecosystem, Web3 Community Platform",
+  "pwCategory": "User Experience & Adoption"
 }

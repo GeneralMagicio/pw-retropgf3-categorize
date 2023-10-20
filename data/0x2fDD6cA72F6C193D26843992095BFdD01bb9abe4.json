@@ -37,5 +37,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for violating rule 10 as the applicant's contributions are mainly user interactions on the Optimism Network, which are not in the scope of the RetroPGF grants program.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, Developer Ecosystem, Smart Contract Platforms"
+  "pwCategorySuggestions": "Community Building, Developer Ecosystem, Smart Contract Platforms",
+  "pwCategory": "Developer Ecosystem"
 }

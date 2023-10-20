@@ -37,5 +37,6 @@
   "applicantAddress": "0x83B05dcDf9Fc5c621B66ee17c83A4Bc00a28b4E2",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "NFTs, Community Building, Digital Identity, Content Creation, Blockchain Gaming"
+  "pwCategorySuggestions": "NFTs, Community Building, Digital Identity, Content Creation, Blockchain Gaming",
+  "pwCategory": "Non-Fungible Tokens (NFTs)"
 }

@@ -40,5 +40,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for promising future impact and deliverables, which is in violation of rule 1.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Tokenization Platforms, Layer 2 Scaling, NFTs, Community Building, Governance & Tokens"
+  "pwCategorySuggestions": "Tokenization Platforms, Layer 2 Scaling, NFTs, Community Building, Governance & Tokens",
+  "pwCategory": "Community Building"
 }

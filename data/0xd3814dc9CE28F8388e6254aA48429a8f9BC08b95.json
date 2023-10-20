@@ -43,5 +43,6 @@
   "applicantAddress": "0xd3814dc9CE28F8388e6254aA48429a8f9BC08b95",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, Developer Ecosystem, Layer 2 Scaling, End-User Experience, Web3 Community Platform"
+  "pwCategorySuggestions": "Community Building, Developer Ecosystem, Layer 2 Scaling, End-User Experience, Web3 Community Platform",
+  "pwCategory": "Optimism Ambassador"
 }

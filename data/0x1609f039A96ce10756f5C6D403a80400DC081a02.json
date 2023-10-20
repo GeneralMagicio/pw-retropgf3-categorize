@@ -125,5 +125,6 @@
   "applicantAddress": "0x1609f039A96ce10756f5C6D403a80400DC081a02",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Content Creation, Community Building, User Experience & Adoption, NFT Aggregator, Web3 Community Platform"
+  "pwCategorySuggestions": "Content Creation, Community Building, User Experience & Adoption, NFT Aggregator, Web3 Community Platform",
+  "pwCategory": "Community Building"
 }

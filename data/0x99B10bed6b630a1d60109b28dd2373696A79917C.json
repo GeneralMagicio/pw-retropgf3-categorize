@@ -37,5 +37,6 @@
   "applicantAddress": "0x99B10bed6b630a1d60109b28dd2373696A79917C",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Blockchain Education, Content Creation, Community Building, Media Production, Cryptocurrency Services"
+  "pwCategorySuggestions": "Blockchain Education, Content Creation, Community Building, Media Production, Cryptocurrency Services",
+  "pwCategory": "Blockchain Education"
 }

@@ -43,5 +43,6 @@
   "applicantAddress": "0x33Ff3C111DE5F4b89Cd4bdCc0ed99c46Ca1e9541",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "NFTs, Layer 2 Scaling, Music, Community Building, User Experience & Adoption"
+  "pwCategorySuggestions": "NFTs, Layer 2 Scaling, Music, Community Building, User Experience & Adoption",
+  "pwCategory": "Non-Fungible Tokens (NFTs)"
 }

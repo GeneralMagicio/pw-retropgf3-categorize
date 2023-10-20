@@ -54,5 +54,6 @@
   "applicantAddress": "0xdef45E63561DdED007fB7a406F3E5490CBB48eA6",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Wallet, Bridge, DEX, DeFi, NFT"
+  "pwCategorySuggestions": "Wallet, Bridge, DEX, DeFi, NFT",
+  "pwCategory": "Blockchain Education"
 }

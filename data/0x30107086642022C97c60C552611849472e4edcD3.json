@@ -51,5 +51,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged because it violates rule 1: promises of future impact. The applicant states multiple times that they hope the project will be successful in the future.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, User Experience & Adoption, Developer Ecosystem, Governance & Tokens, Cryptocurrency Services"
+  "pwCategorySuggestions": "Community Building, User Experience & Adoption, Developer Ecosystem, Governance & Tokens, Cryptocurrency Services",
+  "pwCategory": "Community Building"
 }

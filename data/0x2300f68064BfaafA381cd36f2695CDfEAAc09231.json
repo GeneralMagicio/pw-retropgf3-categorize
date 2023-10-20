@@ -55,5 +55,6 @@
   "applicantAddress": "0x2300f68064BfaafA381cd36f2695CDfEAAc09231",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Smart Contract Platforms, NFTs, Layer 2 Scaling, Tokenization Platforms, Blockchain Infrastructure"
+  "pwCategorySuggestions": "Smart Contract Platforms, NFTs, Layer 2 Scaling, Tokenization Platforms, Blockchain Infrastructure",
+  "pwCategory": "Smart Contract Platforms"
 }

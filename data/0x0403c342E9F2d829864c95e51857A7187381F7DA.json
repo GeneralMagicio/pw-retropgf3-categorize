@@ -44,5 +44,6 @@
   "applicantAddress": "0x0403c342E9F2d829864c95e51857A7187381F7DA",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, Content Creation, Decentralized Finance (DeFi), Blockchain Education, Cryptocurrency Services"
+  "pwCategorySuggestions": "Community Building, Content Creation, Decentralized Finance (DeFi), Blockchain Education, Cryptocurrency Services",
+  "pwCategory": "Community Building"
 }

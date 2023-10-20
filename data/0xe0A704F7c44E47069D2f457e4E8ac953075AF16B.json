@@ -46,5 +46,6 @@
   "recategorizeToType": "PROJECT",
   "recategorizeReason": "NO, the application should be categorized as \"PROJECT\" as it does not refer to any individual efforts or statements like \"I\" or \"me\". It is more focused on a wider project effort.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Web3 Infrastructure, Testing & Optimization"
+  "pwCategorySuggestions": "Web3 Infrastructure, Testing & Optimization",
+  "pwCategory": "Blockchain Infrastructure"
 }

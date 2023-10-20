@@ -76,5 +76,6 @@
   "applicantAddress": "0xb62E762Af637b49Eb4870BCe8fE21bffF189e495",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, Education, Onboarding, Social Impact"
+  "pwCategorySuggestions": "Community Building, Education, Onboarding, Social Impact",
+  "pwCategory": "Blockchain Education"
 }

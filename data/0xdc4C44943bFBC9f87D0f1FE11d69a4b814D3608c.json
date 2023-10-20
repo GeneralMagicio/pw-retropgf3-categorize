@@ -38,5 +38,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "Flagged for promising future impact. The applicant states their hopes to get airdropped in the third round, indicating a future expectation.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Governance & Tokens, Developer Ecosystem, Decentralized Finance (DeFi), End-User Experience"
+  "pwCategorySuggestions": "Governance & Tokens, Developer Ecosystem, Decentralized Finance (DeFi), End-User Experience",
+  "pwCategory": "Governance Tokens"
 }

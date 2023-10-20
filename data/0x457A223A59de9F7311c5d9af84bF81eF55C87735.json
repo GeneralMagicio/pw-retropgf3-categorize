@@ -40,5 +40,6 @@
   "recategorizeToType": "INDIVIDUAL",
   "recategorizeReason": "NO. This application is flagged as spam and contains repeated placeholder text rather than any specific details indicating it's a project.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Finance (DeFi), Smart Contract Platforms"
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Smart Contract Platforms",
+  "pwCategory": "Smart Contract Platforms"
 }

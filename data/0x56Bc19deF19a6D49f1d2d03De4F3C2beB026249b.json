@@ -40,5 +40,6 @@
   "recategorizeToType": "PROJECT",
   "recategorizeReason": "NO, the application does not provide sufficient information to deduce whether it is from an individual or a project.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Tokenization Platforms, Bridge, NFT, Discord, Transaction"
+  "pwCategorySuggestions": "Tokenization Platforms, Bridge, NFT, Discord, Transaction",
+  "pwCategory": "Cross-Chain Platforms"
 }

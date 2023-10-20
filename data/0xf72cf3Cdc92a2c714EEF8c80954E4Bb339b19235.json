@@ -37,5 +37,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for spam due to repetitive zero characters in the contribution description and impact description which provide no valid information about the applicant's contribution and its impact in the blockchain space.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Tokenization Platforms, Blockchain Infrastructure, Decentralized Finance (DeFi)"
+  "pwCategorySuggestions": "Tokenization Platforms, Blockchain Infrastructure, Decentralized Finance (DeFi)",
+  "pwCategory": "The project description provided is not coherent and does not provide any actual information about the project to allow for appropriate category assignment."
 }

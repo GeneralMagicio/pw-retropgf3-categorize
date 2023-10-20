@@ -38,5 +38,6 @@
   "applicantAddress": "0x570c048fc76473752c7830dE574444FCfC4CA8b3",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Layer 2 Scaling, Developer Ecosystem, Ethereum"
+  "pwCategorySuggestions": "Layer 2 Scaling, Developer Ecosystem, Ethereum",
+  "pwCategory": "Layer 2 Scaling"
 }

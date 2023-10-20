@@ -36,5 +36,6 @@
   "applicantAddress": "0xF03214714ddc99856eB9301D2c945195974064da",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Smart Contract Platforms, Blockchain Infrastructure, User Experience & Adoption"
+  "pwCategorySuggestions": "Smart Contract Platforms, Blockchain Infrastructure, User Experience & Adoption",
+  "pwCategory": "End User Experience and Adoption"
 }

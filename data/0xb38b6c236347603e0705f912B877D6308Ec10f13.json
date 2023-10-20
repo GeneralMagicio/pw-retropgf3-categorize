@@ -96,5 +96,6 @@
   "applicantAddress": "0xb38b6c236347603e0705f912B877D6308Ec10f13",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Web3 Community Platform, Supply Chain Management, Digital Identity, Content Creation, Fashion Collaboration"
+  "pwCategorySuggestions": "Web3 Community Platform, Supply Chain Management, Digital Identity, Content Creation, Fashion Collaboration",
+  "pwCategory": "Content Creation"
 }

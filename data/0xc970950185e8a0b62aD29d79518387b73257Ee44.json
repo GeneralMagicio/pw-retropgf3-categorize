@@ -45,5 +45,6 @@
   "recategorizeToType": "PROJECT",
   "recategorizeReason": "NO, this application seems to belong to a PROJECT since there is no reference to \"I\" or \"me\" and the details provided seem to pertain to a product or service rather than an individual's contributions.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Web3 Community Platform, User Experience & Adoption, Wallet Management"
+  "pwCategorySuggestions": "Web3 Community Platform, User Experience & Adoption, Wallet Management",
+  "pwCategory": "End User Experience and Adoption"
 }

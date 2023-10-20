@@ -37,5 +37,6 @@
   "applicantAddress": "0x13c32B0fB6e09d63aa2432e01CE4daE9319c83dd",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "End-User Experience, Education, Blockchain Infrastructure, Social Media"
+  "pwCategorySuggestions": "End-User Experience, Education, Blockchain Infrastructure, Social Media",
+  "pwCategory": "End User Experience and Adoption"
 }

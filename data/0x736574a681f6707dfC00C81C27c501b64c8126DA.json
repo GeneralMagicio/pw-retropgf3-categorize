@@ -36,5 +36,6 @@
   "applicantAddress": "0x736574a681f6707dfC00C81C27c501b64c8126DA",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Layer 2 Scaling, User Experience & Adoption, Blockchain Infrastructure, Decentralized Finance (DeFi)"
+  "pwCategorySuggestions": "Layer 2 Scaling, User Experience & Adoption, Blockchain Infrastructure, Decentralized Finance (DeFi)",
+  "pwCategory": "Layer 2 Scaling"
 }

@@ -45,5 +45,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for violating rule 1: Promises of future impact. The applicant is making promises about future contributions without providing details of any past contributions or impact in the Web3/blockchain space.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Blockchain Education, Developer Ecosystem"
+  "pwCategorySuggestions": "Blockchain Education, Developer Ecosystem",
+  "pwCategory": "Blockchain Education"
 }

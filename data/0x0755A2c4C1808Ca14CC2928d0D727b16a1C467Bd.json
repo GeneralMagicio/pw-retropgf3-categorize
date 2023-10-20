@@ -39,5 +39,6 @@
   "recategorizeToType": "INDIVIDUAL",
   "recategorizeReason": "NO, it is not correctly categorized as a project. The application speaks in first person indicating it's an individual.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Finance (DeFi), Cryptocurrency Services, User Experience & Adoption, Blockchain Infrastructure"
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Cryptocurrency Services, User Experience & Adoption, Blockchain Infrastructure",
+  "pwCategory": "User Experience & Adoption"
 }

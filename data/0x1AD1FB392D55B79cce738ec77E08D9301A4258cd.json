@@ -44,5 +44,6 @@
   "applicantAddress": "0x1AD1FB392D55B79cce738ec77E08D9301A4258cd",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Finance (DeFi), Non-Fungible Tokens (NFTs), Blockchain Education, User Experience & Adoption, Community Building"
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Non-Fungible Tokens (NFTs), Blockchain Education, User Experience & Adoption, Community Building",
+  "pwCategory": "Education"
 }

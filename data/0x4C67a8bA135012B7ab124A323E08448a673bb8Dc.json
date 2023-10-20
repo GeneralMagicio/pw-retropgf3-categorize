@@ -58,5 +58,6 @@
   "applicantAddress": "0x4C67a8bA135012B7ab124A323E08448a673bb8Dc",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Web3 Community Platform"
+  "pwCategorySuggestions": "Web3 Community Platform",
+  "pwCategory": "Web3 Community Platform"
 }

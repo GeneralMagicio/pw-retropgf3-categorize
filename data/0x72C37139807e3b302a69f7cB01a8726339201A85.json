@@ -42,5 +42,6 @@
   "recategorizeToType": "PROJECT",
   "recategorizeReason": "NO, it is not correctly categorized. The application talks about a project \"Optimism\" which indicates that it should be categorized as \"PROJECT\", not \"INDIVIDUAL\".",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, Governance & Tokens, Smart Contract Platforms, Developer Ecosystem, End-User Experience"
+  "pwCategorySuggestions": "Community Building, Governance & Tokens, Smart Contract Platforms, Developer Ecosystem, End-User Experience",
+  "pwCategory": "Community Building"
 }

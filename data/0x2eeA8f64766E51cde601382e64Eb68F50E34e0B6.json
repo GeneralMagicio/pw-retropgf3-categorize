@@ -45,5 +45,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "Flagged: The application contains false and irrelevant links for both the contribution and the impact metrics, which goes against the rule about spam.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Developer Ecosystem, Cross-Chain Platforms"
+  "pwCategorySuggestions": "Developer Ecosystem, Cross-Chain Platforms",
+  "pwCategory": "Community Building"
 }

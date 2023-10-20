@@ -56,8 +56,11 @@ export async function categorizeApplications(analyzeAll: YesOrNo) {
         continue;
       }
 
+      console.log(
+        `${application.displayName}, ${application.bio},  ${application.contributionDescription}, ${application.impactDescription}, ${application.pwCategorySuggestions}`
+      );
       const result = await chain.invoke({
-        project: `${application.Project}, ${application.bio},  ${application.contributionDescription}, ${application.impactDescription}, ${application.Tags}`,
+        project: `${application.displayName}, ${application.bio},  ${application.contributionDescription}, ${application.impactDescription}, ${application.pwCategorySuggestions}`,
       });
 
       application.pwCategorySuggestions = result.content;

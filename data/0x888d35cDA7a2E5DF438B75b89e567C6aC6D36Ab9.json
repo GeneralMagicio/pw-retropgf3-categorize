@@ -47,5 +47,6 @@
   "applicantAddress": "0x888d35cDA7a2E5DF438B75b89e567C6aC6D36Ab9",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Blockchain Infrastructure, Data Analysis, Developer Tools, Data Accessibility, Analytics"
+  "pwCategorySuggestions": "Blockchain Infrastructure, Data Analysis, Developer Tools, Data Accessibility, Analytics",
+  "pwCategory": "Blockchain Infrastructure"
 }

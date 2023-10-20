@@ -60,5 +60,6 @@
   "applicantAddress": "0x1213252504D3939623FC345cbbAf1Bdf42E6393F",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Smart Contract Platforms, Code Refactoring, Security, Blockchain Infrastructure"
+  "pwCategorySuggestions": "Smart Contract Platforms, Code Refactoring, Security, Blockchain Infrastructure",
+  "pwCategory": "Smart Contract Platforms"
 }

@@ -89,5 +89,6 @@
   "applicantAddress": "0xC451b0191351ce308FdFd779D73814c910FC5eCB",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "DeFi Aggregator, Layer 2 Scaling, Bridging, Multi-Chain Integration, User Onboarding"
+  "pwCategorySuggestions": "DeFi Aggregator, Layer 2 Scaling, Bridging, Multi-Chain Integration, User Onboarding",
+  "pwCategory": "Decentralized Finance (DeFi)"
 }

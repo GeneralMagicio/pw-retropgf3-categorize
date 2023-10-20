@@ -60,5 +60,6 @@
   "recategorizeToType": "INDIVIDUAL",
   "recategorizeReason": "NO, the application is categorized as a \"PROJECT\" while it should be categorized as \"INDIVIDUAL\" because the bio uses first person pronouns ('I' and 'me').",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "User Experience & Adoption, Frontend Development, Web3 Community Platform"
+  "pwCategorySuggestions": "User Experience & Adoption, Frontend Development, Web3 Community Platform",
+  "pwCategory": "User Experience & Adoption"
 }

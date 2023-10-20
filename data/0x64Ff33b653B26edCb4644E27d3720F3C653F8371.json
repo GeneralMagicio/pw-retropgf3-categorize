@@ -133,5 +133,6 @@
   "applicantAddress": "0x64Ff33b653B26edCb4644E27d3720F3C653F8371",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Surveys, Reputation Building, Optimism Integration"
+  "pwCategorySuggestions": "Decentralized Surveys, Reputation Building, Optimism Integration",
+  "pwCategory": "Community Building"
 }

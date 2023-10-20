@@ -36,5 +36,6 @@
   "applicantAddress": "0x9a7c55A31F57995792163F84deB6Bc540C91C242",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Layer 2 Scaling, Decentralized Finance (DeFi), Community Building, Governance & Tokens, User Experience & Adoption"
+  "pwCategorySuggestions": "Layer 2 Scaling, Decentralized Finance (DeFi), Community Building, Governance & Tokens, User Experience & Adoption",
+  "pwCategory": "Community Building"
 }

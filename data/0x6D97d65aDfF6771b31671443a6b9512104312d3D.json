@@ -39,5 +39,6 @@
   "recategorizeToType": "INDIVIDUAL",
   "recategorizeReason": "NO, it should be categorized as \"INDIVIDUAL\" because the application is from a person named Marko and he refers to his work using \"I\" in the impact description.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "User Experience & Adoption"
+  "pwCategorySuggestions": "User Experience & Adoption",
+  "pwCategory": "User Experience & Adoption"
 }

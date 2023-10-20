@@ -40,5 +40,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "Flag the application. The contribution description is vague and doesn't clearly highlight a valid contribution to the Optimism ecosystem.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, User Experience & Adoption, Developer Ecosystem, Tokenization Platforms, Blockchain Infrastructure"
+  "pwCategorySuggestions": "Community Building, User Experience & Adoption, Developer Ecosystem, Tokenization Platforms, Blockchain Infrastructure",
+  "pwCategory": "Community Building"
 }

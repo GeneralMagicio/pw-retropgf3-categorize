@@ -60,5 +60,6 @@
   "applicantAddress": "0xd35D60B1746cAEc2289c892EAC7351D66d63455B",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Content Creation, Music Streaming, Community Building, Blockchain Adoption"
+  "pwCategorySuggestions": "Content Creation, Music Streaming, Community Building, Blockchain Adoption",
+  "pwCategory": "Community Building"
 }

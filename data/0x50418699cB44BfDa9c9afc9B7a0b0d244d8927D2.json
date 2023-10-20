@@ -69,5 +69,6 @@
   "applicantAddress": "0x50418699cB44BfDa9c9afc9B7a0b0d244d8927D2",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, Education, Tokenization Platforms, Blockchain Infrastructure, Decentralized Finance (DeFi)"
+  "pwCategorySuggestions": "Community Building, Education, Tokenization Platforms, Blockchain Infrastructure, Decentralized Finance (DeFi)",
+  "pwCategory": "Web3 Advocacy"
 }

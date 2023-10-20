@@ -46,5 +46,6 @@
   "applicantAddress": "0x8fBFD3faBD443334B6f413b5931477d4DeBEAFa9",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "This project does not have a clear description related to the Web3/blockchain space. Therefore, it cannot be categorized."
+  "pwCategorySuggestions": "This project does not have a clear description related to the Web3/blockchain space. Therefore, it cannot be categorized.",
+  "pwCategory": "This project does not have a clear description related to the Web3/blockchain space. Therefore, it cannot be categorized."
 }

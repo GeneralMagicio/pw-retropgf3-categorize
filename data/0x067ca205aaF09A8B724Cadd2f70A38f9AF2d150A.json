@@ -43,5 +43,6 @@
   "applicantAddress": "0x067ca205aaF09A8B724Cadd2f70A38f9AF2d150A",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Blockchain Education, Developer Ecosystem, Web3 Community Platform, End-User Experience, Community Building"
+  "pwCategorySuggestions": "Blockchain Education, Developer Ecosystem, Web3 Community Platform, End-User Experience, Community Building",
+  "pwCategory": "Developer Ecosystem"
 }

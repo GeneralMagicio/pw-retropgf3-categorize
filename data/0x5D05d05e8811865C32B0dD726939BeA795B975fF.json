@@ -43,5 +43,6 @@
   "applicantAddress": "0x5D05d05e8811865C32B0dD726939BeA795B975fF",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Finance (DeFi), Layer 2 Scaling, Smart Contract Platforms, Tokenization Platforms"
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Layer 2 Scaling, Smart Contract Platforms, Tokenization Platforms",
+  "pwCategory": "Developer Ecosystem"
 }

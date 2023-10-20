@@ -46,5 +46,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "Flagged: The application promises future deliverables such as submitting suggestions to the advertising team and promoting Optimism, which is against grant program rule 1.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Smart Contract Platforms, Governance & Tokens, End-User Experience"
+  "pwCategorySuggestions": "Smart Contract Platforms, Governance & Tokens, End-User Experience",
+  "pwCategory": "Optimism Ambassador"
 }

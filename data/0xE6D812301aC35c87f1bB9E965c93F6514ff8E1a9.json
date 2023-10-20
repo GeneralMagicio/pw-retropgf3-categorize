@@ -43,5 +43,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for violating rule 10. The applicant's contribution is defined as participating in transactions, which is explicitly noted as not being in scope to be rewarded in RetroPGF 3.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Finance (DeFi), User Experience & Adoption"
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), User Experience & Adoption",
+  "pwCategory": "End User Experience and Adoption"
 }

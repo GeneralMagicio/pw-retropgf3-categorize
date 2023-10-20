@@ -49,5 +49,6 @@
   "applicantAddress": "0xD3802dcE7F7A54d59E7a64329d287624FF3F495a",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Research, Layer 2 Scaling, Community Building, Adoption, Tokenization Platforms"
+  "pwCategorySuggestions": "Research, Layer 2 Scaling, Community Building, Adoption, Tokenization Platforms",
+  "pwCategory": "Layer 2 Scaling"
 }

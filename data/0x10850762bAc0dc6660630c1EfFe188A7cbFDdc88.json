@@ -90,5 +90,6 @@
   "applicantAddress": "0x10850762bAc0dc6660630c1EfFe188A7cbFDdc88",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "NFTs, Content Creation, Community Building, Media Production, Cryptocurrency Services"
+  "pwCategorySuggestions": "NFTs, Content Creation, Community Building, Media Production, Cryptocurrency Services",
+  "pwCategory": "Community Building"
 }

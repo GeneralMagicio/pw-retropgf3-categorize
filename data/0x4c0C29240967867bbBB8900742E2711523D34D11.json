@@ -38,5 +38,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for violating the rule of \"Promises of future impact\" as the applicant is indicating plans to convert music files into NFTs but hasn't yet executed or made any impact.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "NFTs, Tokenization Platforms, Blockchain Infrastructure"
+  "pwCategorySuggestions": "NFTs, Tokenization Platforms, Blockchain Infrastructure",
+  "pwCategory": "Non-Fungible Tokens (NFTs)"
 }

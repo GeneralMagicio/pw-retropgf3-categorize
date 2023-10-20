@@ -38,5 +38,6 @@
   "applicantAddress": "0x4CE268F49EF0726d602a8b0f22FcC543aa23bb51",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Finance (DeFi), Smart Contract Platforms, Cross-Chain Platforms, Tokenization Platforms, Community Building"
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Smart Contract Platforms, Cross-Chain Platforms, Tokenization Platforms, Community Building",
+  "pwCategory": "Community Building"
 }

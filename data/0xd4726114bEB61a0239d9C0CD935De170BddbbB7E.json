@@ -44,5 +44,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for being in a language other than English.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "NFTs, Smart Contract Platforms, Blockchain Infrastructure, Decentralized Finance (DeFi), Digital Identity"
+  "pwCategorySuggestions": "NFTs, Smart Contract Platforms, Blockchain Infrastructure, Decentralized Finance (DeFi), Digital Identity",
+  "pwCategory": "Non-Fungible Tokens (NFTs)"
 }

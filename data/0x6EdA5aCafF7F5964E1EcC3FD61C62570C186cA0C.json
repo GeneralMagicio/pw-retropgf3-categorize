@@ -64,5 +64,6 @@
   "applicantAddress": "0x6EdA5aCafF7F5964E1EcC3FD61C62570C186cA0C",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, Governance & Tokens, Developer Ecosystem, End-User Experience, Media Production"
+  "pwCategorySuggestions": "Community Building, Governance & Tokens, Developer Ecosystem, End-User Experience, Media Production",
+  "pwCategory": "Community Building"
 }

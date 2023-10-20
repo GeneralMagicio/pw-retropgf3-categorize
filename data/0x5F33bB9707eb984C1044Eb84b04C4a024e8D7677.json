@@ -37,5 +37,6 @@
   "applicantAddress": "0x5F33bB9707eb984C1044Eb84b04C4a024e8D7677",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Web3 Enthusiast, Optimism, Liquidity Provision, Ethereum Scalability, Discord Community"
+  "pwCategorySuggestions": "Web3 Enthusiast, Optimism, Liquidity Provision, Ethereum Scalability, Discord Community",
+  "pwCategory": "Optimism Ambassador"
 }

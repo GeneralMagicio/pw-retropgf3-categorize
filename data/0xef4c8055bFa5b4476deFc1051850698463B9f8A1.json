@@ -37,5 +37,6 @@
   "applicantAddress": "0xef4c8055bFa5b4476deFc1051850698463B9f8A1",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Finance (DeFi), Trading Tools, User Experience & Adoption"
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Trading Tools, User Experience & Adoption",
+  "pwCategory": "Decentralized Finance (DeFi)"
 }

@@ -45,5 +45,6 @@
   "applicantAddress": "0xD0F02cb782fBa0F7DbCa1ECCfCB192b7cf007d91",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Finance (DeFi), Non-Fungible Tokens (NFTs), Community Building, User Experience & Adoption, Web3 Community Platform"
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Non-Fungible Tokens (NFTs), Community Building, User Experience & Adoption, Web3 Community Platform",
+  "pwCategory": "Community Building"
 }

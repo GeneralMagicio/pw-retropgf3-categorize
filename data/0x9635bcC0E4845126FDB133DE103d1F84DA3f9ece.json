@@ -48,5 +48,6 @@
   "applicantAddress": "0x9635bcC0E4845126FDB133DE103d1F84DA3f9ece",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "NFTs, Art Contest, Web3 Community Platform, User Experience & Adoption, Decentralized Identity"
+  "pwCategorySuggestions": "NFTs, Art Contest, Web3 Community Platform, User Experience & Adoption, Decentralized Identity",
+  "pwCategory": "Non-Fungible Tokens (NFTs)"
 }

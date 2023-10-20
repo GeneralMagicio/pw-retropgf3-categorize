@@ -42,5 +42,6 @@
   "recategorizeToType": "PROJECT",
   "recategorizeReason": "NO, the application seems to be incorrectly categorized as \"INDIVIDUAL\". The contribution description and impact description are about an initiative called \"Optimism Collective\", implying this is a group effort or project rather than an individual contribution.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Open-source projects, Developer tooling, User education, Infrastructure, Research"
+  "pwCategorySuggestions": "Open-source projects, Developer tooling, User education, Infrastructure, Research",
+  "pwCategory": "Developer Ecosystem"
 }

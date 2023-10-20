@@ -36,5 +36,6 @@
   "applicantAddress": "0xDa474dce13c7Cb84CBE2410F84f342398561B68f",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Layer 2 Scaling, Decentralized Exchanges (DEXs), Community Building, User Experience & Adoption, Developer Ecosystem"
+  "pwCategorySuggestions": "Layer 2 Scaling, Decentralized Exchanges (DEXs), Community Building, User Experience & Adoption, Developer Ecosystem",
+  "pwCategory": "Layer 2 Scaling"
 }

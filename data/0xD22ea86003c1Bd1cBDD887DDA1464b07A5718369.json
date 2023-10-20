@@ -44,5 +44,6 @@
   "applicantAddress": "0xD22ea86003c1Bd1cBDD887DDA1464b07A5718369",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Developer Ecosystem, Community Building, Smart Contract Platforms, Governance & Tokens, User Experience & Adoption"
+  "pwCategorySuggestions": "Developer Ecosystem, Community Building, Smart Contract Platforms, Governance & Tokens, User Experience & Adoption",
+  "pwCategory": "Community Building"
 }
