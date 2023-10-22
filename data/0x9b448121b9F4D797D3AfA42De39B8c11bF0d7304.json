@@ -1,0 +1,38 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://twitter.com/thomyorkan",
+  "bio": "heyo eyo this is ode to joy",
+  "contributionDescription": "im filmmaker i can create content to support optimism, you can sposored me, i will create you something motion pictures creation as you want. _________________________________________________________________________________________________________________________",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://twitter.com/thomyorkan",
+      "description": "sasa"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "im filmmaker i can create content to support optimism, you can sposored me, i will create you something motion pictures creation as you want. _________________________________________________________________________________________________________________________",
+  "impactMetrics": [
+    {
+      "description": "as",
+      "number": 232,
+      "url": "https://twitter.com/thomyorkan"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x9b448121b9F4D797D3AfA42De39B8c11bF0d7304",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "rj",
+  "applicantName": "rjuliant",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9b448121b9F4D797D3AfA42De39B8c11bF0d7304.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x9b448121b9F4D797D3AfA42De39B8c11bF0d7304.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x9b448121b9F4D797D3AfA42De39B8c11bF0d7304.json",
+  "RPGF3_Application_UID": "0x1b301c3f971a78959e0c38bf59205df23d364b31d21d774aa5902b3547df0e76",
+  "applicantAddress": "0x9b448121b9F4D797D3AfA42De39B8c11bF0d7304"
+}

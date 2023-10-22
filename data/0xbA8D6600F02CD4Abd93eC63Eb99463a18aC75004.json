@@ -1,0 +1,70 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://mirror.xyz/ayohtunde.eth",
+  "bio": "I am an Optimism Ambassador (in training), a UI/UX designer, and a writer.\nI curate weekly activities that can boost users' on-chain reputation in OP ecosystem\n",
+  "contributionDescription": "Optimistic Alpha is a weekly curation that Provides my audience with on-chain and off-chain activities that can boost their reputation on-chain and also reward them within the Optimism ecosystem.\nI have a community where we share Optimism-related alphas. I discovered it was hard for people to keep up with different activities and that's how I gave birth to the OPTIMISTIC ALPHA.\nI share these Alphas beyond the community. I put them up on my Mirror, X, and my other socials (Farcaster, FriendTech, and Lens) so as to get to a wider audience.\n\nIn my Mirror profile, I have other OP-related articles shared.\n\nLastly, I held a couple of Twitter Spaces as an Optimism ambassador-in-training with projects building and are willing to build on OP to discuss their project and the importance of RetroPGF.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://mirror.xyz/ayohtunde.eth",
+      "description": "This is where to find all the weekly alphas and Articles."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://docs.google.com/document/d/16RjnEsAFOM6JAWfrzvWBzHnyfRgmuv93n9AAnfEYU1w/edit?usp=sharing",
+      "description": "Detailed links and info to all my OP articles and Threads"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://docs.google.com/document/d/11jY9ZlRzj3tvxpArnNY_jOf8thJE7OMPjyDdDW9VXkU/edit?usp=sharing",
+      "description": "I put up a links to my Twitter spaces with projects in this google doc."
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "I have helped Optimists in curating activities that boost their attestations in the Optimism ecosystem. These activities also cut across Base, Zora, and all Superchain-related projects. \n\nWith these activities, users get to contribute and benefit from the ecosystem.\n\nI have also hosted Twitter Spaces which helped projects understand how they can contribute to and benefit from the Optimism ecosystem. \n\n\nTotal Number of Mirror mints - 11\n\nTotal Number of Mirror Subscribers - 16\n\nTotal Twitter impressions - 9,160\n\nTotal Twitter followers - 2,047\n\nTotal Twitter Spaces attendance - 261",
+  "impactMetrics": [
+    {
+      "description": "Total No. of Article Mints",
+      "number": 12,
+      "url": "https://mirror.xyz/ayohtunde.eth"
+    },
+    {
+      "description": "Impressions Twitter threads",
+      "number": 9160,
+      "url": "https://docs.google.com/document/d/16RjnEsAFOM6JAWfrzvWBzHnyfRgmuv93n9AAnfEYU1w/edit?usp=sharing"
+    },
+    {
+      "description": "Total Twitter Spaces attendance",
+      "number": 261,
+      "url": "https://docs.google.com/document/d/11jY9ZlRzj3tvxpArnNY_jOf8thJE7OMPjyDdDW9VXkU/edit?usp=sharing"
+    },
+    {
+      "description": "Alpha Community members",
+      "number": 181,
+      "url": "https://t.me/OptimismAlphaHub"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 0,
+      "description": "I've never received any type of funding before"
+    }
+  ],
+  "payoutAddress": "0x7Fd303c53831f4a555bF419614Cb0BAb305c358c",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "AyohTunde",
+  "applicantName": "ayohtunde",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xbA8D6600F02CD4Abd93eC63Eb99463a18aC75004.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xbA8D6600F02CD4Abd93eC63Eb99463a18aC75004.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xbA8D6600F02CD4Abd93eC63Eb99463a18aC75004.json",
+  "RPGF3_Application_UID": "0x8a952a834ff9186399c06935ffcdff482fb38b38808a7419fc415ad307a2e69b",
+  "applicantAddress": "0xbA8D6600F02CD4Abd93eC63Eb99463a18aC75004"
+}

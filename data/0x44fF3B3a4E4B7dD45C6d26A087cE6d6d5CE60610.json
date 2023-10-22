@@ -1,0 +1,36 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://ihavenowebsite",
+  "bio": "Im an individual crypto enthusiast and supporter",
+  "contributionDescription": "I just suppoted you the most typical way a typical blockchain user can do - by doing transactions, testing various dapps, bridging funds, collecting and trading NFTs, doing the Optimism quests and supporting dapps, donating on Gitcoin initiative on Optimism network, doing testnets and etc ect ect\n",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://explorer.gitcoin.co/#/contributors/0x44fF3B3a4E4B7dD45C6d26A087cE6d6d5CE60610",
+      "description": "I have been donating during the latest Gitcoin 18 round on Optimism blockchain"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "I just suppoted you the most typical way a typical blockchain user can do - by doing transactions, testing various dapps, bridging funds, collecting and trading NFTs, doing the Optimism quests and supporting dapps, donating on Gitcoin initiative on Optimism network, doing testnets and etc ect ect\n",
+  "impactMetrics": [
+    {
+      "description": "number of friends referred to Optimism",
+      "number": 3,
+      "url": "https://discord.com"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x44fF3B3a4E4B7dD45C6d26A087cE6d6d5CE60610",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Dmitry Fridman",
+  "applicantName": "Dmitry Fridman",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x44fF3B3a4E4B7dD45C6d26A087cE6d6d5CE60610.json",
+  "RPGF3_Application_UID": "0xdee3438a1795b1e0bb722c1295be157a696e39386a91c3644d0d6b6dc3f39461",
+  "applicantAddress": "0x44fF3B3a4E4B7dD45C6d26A087cE6d6d5CE60610"
+}

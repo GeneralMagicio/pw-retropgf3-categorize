@@ -1,0 +1,71 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://www.hatsprotocol.xyz/",
+  "bio": "Hats is the onchain roles protocol. Empower contributors & code with the responsibilities, permissions, and accountability mechanisms needed to get things done.",
+  "contributionDescription": "Hats is the onchain roles protocol, providing programmable, revocable, and legible roles for decentralized work. Hats empowers groups to get things done by delegating responsibilities to the right contributors, giving them the hard and soft authorities they need to do their work, and installing the automated granting and revocation of permissions and real-time accountability mechanisms to ensure people follow through.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x3bc1A0Ad72417f2d411118085256fC53CBdDd137",
+      "description": "OP Mainnet contract"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/Hats-Protocol/",
+      "description": "Hats Protocol github repo"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://app.hatsprotocol.xyz",
+      "description": "The Hats App"
+    }
+  ],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "Hats Protocol has been deployed to OP Mainnet, with 29 Hats trees deployed to OP Mainnet as of October 13, 2023, providing Optimism-based communities with core infrastructure for flexibly creating and managing their roles and permissions while embedding automation throughout their organization to unlock the power of decentralized work.\n\nHats protoDAO runs on the OP Mainnet, engaging over 100 contributors across the Hats ecosystem and bringing users into the Optimism ecosystem. Hats protoDAO is a DAOaus Moloch v3 contract deployed to Optimism.\n\nWe have recently developed the Hats Modules Stack and deployed it to OP Mainnet, giving Optimism builders the power to create programmable roles that users can bring with them across the internet.",
+  "impactMetrics": [
+    {
+      "description": "protoDAO contributors on OP Mainnet",
+      "number": 153,
+      "url": "https://app.hatsprotocol.xyz/trees/10/1"
+    },
+    {
+      "description": "Hats trees deployed to OP Mainnet",
+      "number": 33,
+      "url": "https://app.hatsprotocol.xyz/trees/10"
+    },
+    {
+      "description": "Hats modules on OP Mainnet",
+      "number": 7,
+      "url": "https://docs.hatsprotocol.xyz/hats-integrations/eligibility-modules"
+    },
+    {
+      "description": "Transactions in OP Hats contract",
+      "number": 212,
+      "url": "https://optimistic.etherscan.io/address/0x3bc1A0Ad72417f2d411118085256fC53CBdDd137"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 10000,
+      "description": "$10k DAI Grant from MetaCartel in mid 2022"
+    }
+  ],
+  "payoutAddress": "0x58C8854a8E51BdCE9F00726B966905FE2719B4D9",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Hats Protocol",
+  "applicantName": "Hats Protocol",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x03f7a3FD58B090Abe577651fb92Fb4789826191e.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x03f7a3FD58B090Abe577651fb92Fb4789826191e.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x03f7a3FD58B090Abe577651fb92Fb4789826191e.json",
+  "RPGF3_Application_UID": "0x3b9f8c24da4058057f2f4d10a8ee7f3f6625529a38ffc4cd2ba1f1a8772bbb88",
+  "applicantAddress": "0x03f7a3FD58B090Abe577651fb92Fb4789826191e"
+}

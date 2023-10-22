@@ -1,0 +1,96 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://deploy.upnode.org",
+  "bio": "We have developed a User Interface and offer open-source scripts for easy deployment of the OP Stack, including Full/Archive Nodes, Subgraph Indexer API, ...",
+  "contributionDescription": "We have developed a User Interface for easy deployment of the OP Stack, including both Full and Archive Nodes, the Subgraph Indexer API, and more. \n\nAdditionally, we offer open-source scripts to streamline the OP Stack deployment process. \n\nBeyond this, we actively contribute to fixing bugs in the core Optimism repository and collaborate with the roll-up team to deliver the best OP Stack deployment tool.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://deploy.upnode.org",
+      "description": "Upnode Deploy"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/upnodedev/op-erigon-docker-compose",
+      "description": "An open source script to launch op-erigon easily using docker compose"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/upnodedev/opstack-compose",
+      "description": "An open source docker compose to launch any customized OP Stack chains"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/upnodedev/roll-op-ansible",
+      "description": "An ansible script to simplify OP Stack deployment process using roll-op"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/upnodedev/tmkms-yubihsm-install-shell/tree/main",
+      "description": "An open source TMKMS YubiHSM Installer Interactive Shell"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/ethereum-optimism/optimism/pull/7443",
+      "description": "Pull request to a devnet deployment bug in the core Optimism repository"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/0xFableOrg/roll-op/pull/60",
+      "description": "Fix 'Namespace' object has no attribute 'explorer' in roll-op"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://upnode.org",
+      "description": "Upnode Validators and Blogs"
+    }
+  ],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "OP_STACK"
+  ],
+  "impactDescription": "We have developed a User Interface and offer open-source scripts for easy deployment of the OP Stack including a script to launch op-erigon easily using docker compose, a docker compose script to launch any customized OP Stack chains, and an ansible script for roll-op to simplify the OP Stack deployment process published to Ansible Galaxy.\n\nWe have fixed a devnet deployment bug in the core Optimism repository.\nWe have collaborated with roll-op and fixed a critical bug in their repository.",
+  "impactMetrics": [
+    {
+      "description": "roll-op-ansible downloads",
+      "number": 107,
+      "url": "https://galaxy.ansible.com/ui/repo/published/upnodedev/op"
+    },
+    {
+      "description": "Pull Requests Merged",
+      "number": 2,
+      "url": "https://github.com/ethereum-optimism/optimism/pull/7443"
+    },
+    {
+      "description": "OP Open Source Repositories",
+      "number": 4,
+      "url": "https://github.com/upnodedev"
+    },
+    {
+      "description": "All Open Source Repositories",
+      "number": 11,
+      "url": "https://github.com/upnodedev"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 30000,
+      "description": "https://app.charmverse.io/op-grants/page-5705679072018564"
+    }
+  ],
+  "payoutAddress": "0xc26E6125B3ec9255fF2b576258742d448e941635",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Upnode Deploy | OP Stack Deployment UI",
+  "applicantName": "Upnode",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2813a5B046909e5FC42a657b8e0dd9BAbFED18e7.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x2813a5B046909e5FC42a657b8e0dd9BAbFED18e7.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x2813a5B046909e5FC42a657b8e0dd9BAbFED18e7.json",
+  "RPGF3_Application_UID": "0x1516df1a13142b00b7e5ee4496faab4709d2fc8fd67b0c3780e976fc7062528f",
+  "applicantAddress": "0x2813a5B046909e5FC42a657b8e0dd9BAbFED18e7"
+}

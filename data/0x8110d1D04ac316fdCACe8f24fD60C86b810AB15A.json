@@ -1,0 +1,141 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://commonsstack.org",
+  "bio": "We build OSS & cultural frameworks to enable Public Goods projects to evolve into decentralized, self-governing, regenerative economic systems. Impact = Profit!",
+  "contributionDescription": "We launched the 1st Augmented Bonding Curve (ABC) for the Token Engineering Commons (TEC) in 2021, and $TEC has maintained parity with ETH in a bear market (only down 12% vs ETH) while the ABC collected $300k via swapping fees for TE Public Goods. This economic model is a significant milestone towards \"Impact = Profit\".\n\nIn 2023 we deployed Aragon OS & our CommonsDAO tools to Optimism, enabling truly decentralized DAOs on Optimism. Tao Voting features Delegation and \"Wait for Quiet\" to prevent last-minute vote manipulation. ABCswap.xyz enables communities to launch and interact with their own ABC, providing a no-code solution to launch economic systems like friend.tech.\n\nOur Conviction Voting model has been adopted by notable projects like Gitcoin, Giveth, TEC, 1Hive, BrightID, and more.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/commons-stack/ABCswap",
+      "description": "Code for Dapp that launches and swaps ABC tokens"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://optimism.aragon.blossom.software/#/ ",
+      "description": "Aragon OS Dapp for creating DAOs on Optimism"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://giveth.notion.site/Commons-Stack-Deployment-on-Optimism-Aragon-OS-Tao-Voting-and-ABC-7770e8c700d24438a9d9feb4a8d3c3cd",
+      "description": "Docs for the deployment of the Aragon OS, Tao Voting, and ABCs on Optimism"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://optimism.aragon.blossom.software/#/0x975952274C226296f83bFDAf39775bbF9034863F/permissions/ ",
+      "description": "A sample Tao Voting DAO"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://launch.abcswap.xyz",
+      "description": "The Dapp to Launch ABCs "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://abcswap.xyz",
+      "description": "The Dapp to Swap ABC tokens"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://token.kitchen/token-engineering-commons",
+      "description": "Article explaining ABC and Conviction Voting in the TEC"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/DanieleSalatti/gitcoin-grants-conviction ",
+      "description": "Conviction Voting for Gitcoin "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://gardens.1hive.org/#/home",
+      "description": "Giveth, TEC, 1hive, BrightID and others using Conviction Voting"
+    }
+  ],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "For direct impact, we are actively building on Optimism. We have ported to Optimism the Aragon OS client which is the safest DAO tooling that exists. Thousands of DAOs have used this tooling to manage billions of USD in crypto and well known DAOs are already using it to migrate to Optimism.\n\nWe also deployed all the infrastructure needed by communities to launch the same economic model the TEC has (the ABC), without the need for a developer. Optimism is now the only network where this no-code solution can be used. \n\nMore indirectly, our open source research on Augmented Bonding Curves and Conviction Voting has been a public good for the Ethereum and web3 community. The ABC was charging mint and burn fees years before friend.tech launched with a similar mechanism. ",
+  "impactMetrics": [
+    {
+      "description": "# of Reputation DAOs launched ",
+      "number": 4,
+      "url": "https://optimistic.etherscan.io/address/0xe3B3304b94D2160AF5547716F322d35Ae72B6224 "
+    },
+    {
+      "description": " # of Membership DAOs launched",
+      "number": 6,
+      "url": "https://optimistic.etherscan.io/address/0xc35f77bd8e1ff947ba3ab120aa35f704d6b63157"
+    },
+    {
+      "description": "# of Company DAOs launched",
+      "number": 43,
+      "url": "https://optimistic.etherscan.io/address/0xE692b0e7e04a0D3D81F1a11e2b3B1e06271ca3cC"
+    },
+    {
+      "description": "# of DAOs migrating to OP via our work",
+      "number": 2,
+      "url": "https://docs.google.com/document/d/1fefVyIbRBa3eufnwWwKfwcGvOaeL-HUqVezjVtLL3uw/edit?usp=sharing "
+    },
+    {
+      "description": "% of TEC’s drop in value relative to ETH",
+      "number": 12.33,
+      "url": "https://docs.google.com/spreadsheets/d/1ipSAI5M1Yo_nWEgfxMfY5n_lGq6SFrog/edit#gid=590376307 "
+    },
+    {
+      "description": "USD raised by TEC with the ABC tributes",
+      "number": 315313.96,
+      "url": "https://dune.com/tec/tec-tribute  "
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 40000,
+      "description": "Cycle 13 Builder Grant: contingent on review of milestones, locked for 1 year"
+    },
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 60038.39,
+      "description": "We are so grateful for this!"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 200000,
+      "description": "Donations on Giveth & Gitcoin"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 1717.92,
+      "description": "ENS Small Grants: Public Goods "
+    },
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 10000,
+      "description": "Giveth Endowment (250k GIV tokens locked forever but earning interest)"
+    },
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 40000,
+      "description": "Regen Network Endowment (500k c-Regen locked forever but earning interest)"
+    }
+  ],
+  "payoutAddress": "0x8110d1D04ac316fdCACe8f24fD60C86b810AB15A",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Commons Stack",
+  "applicantName": "Commons Stack",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x8110d1D04ac316fdCACe8f24fD60C86b810AB15A.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x8110d1D04ac316fdCACe8f24fD60C86b810AB15A.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x8110d1D04ac316fdCACe8f24fD60C86b810AB15A.json",
+  "RPGF3_Application_UID": "0x819c3c9958e7c056a21ee4ab1138f8d0efa1e1f826105a045b42585ee6bc86e5",
+  "applicantAddress": "0x8110d1D04ac316fdCACe8f24fD60C86b810AB15A"
+}

@@ -1,0 +1,47 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://twitter.com/rrmadityapu",
+  "bio": "dying today, so i can get flowers tomorrow.",
+  "contributionDescription": "i have made transactions on Optimism. it's totally cool cause Optimism have a low fees. when i made a transfer to my binance account, my amount was landed so fast. and you have great competence to create something new in the crypto world. I believe this will happen one day.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://github.com/Ram-05107",
+      "description": "this is my github account"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "i have made transactions on Optimism. it's totally cool cause Optimism have a low fees. when i made a transfer to my binance account, my amount was landed so fast. and you have great competence to create something new in the crypto world. I believe this will happen one day.",
+  "impactMetrics": [
+    {
+      "description": "rama",
+      "number": 1997,
+      "url": "https://optimistic.etherscan.io/address/0x405eD99e12dAf1ee89dBDd1d0D4fD933D63Eb13d"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 100,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0x405eD99e12dAf1ee89dBDd1d0D4fD933D63Eb13d",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "rama aditya putra",
+  "applicantName": "rama",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x405eD99e12dAf1ee89dBDd1d0D4fD933D63Eb13d.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x405eD99e12dAf1ee89dBDd1d0D4fD933D63Eb13d.json",
+  "RPGF3_Application_UID": "0xfc660de9b0ced0b070b2f4fe8499135e76bb5ea46e3ab308167c96a0941823b7",
+  "applicantAddress": "0x405eD99e12dAf1ee89dBDd1d0D4fD933D63Eb13d"
+}

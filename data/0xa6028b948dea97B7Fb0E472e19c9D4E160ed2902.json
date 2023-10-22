@@ -1,0 +1,79 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://www.optiland.xyz",
+  "bio": "I am the creator of Optiland Quests - a series of weekly learn and earn quest featuring different dapp within the Optimism ecosystem.  ",
+  "contributionDescription": "Learning about different protocols that exist in the Optimism ecosystem is the first step toward discovery and onboarding users to those protocols. The team made the following contributions to help the adoption of the Optimism ecosystem:\n\n16 weekly Learn to Earn Quests: \nEncouraged program participants to learn a different protocol every week in the broader OP ecosystem.  Successful participants received $OP for their participation.\n\nCoinbase Wallet App Quest:\nProduced a commemorative work of art that was featured as part of the Coinbase Wallet App Quests.  Participants earned some $OP for bridging some $ETH to Optimism and minting the artwork.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://app.questn.com/opbunnies",
+      "description": "Learn and Earn Quest main page"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://app.manifold.xyz/c/lady-greatness ",
+      "description": "Coinbase Wallet App Quest minting page"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/token/0x3b022384b5127b4cd4aeeb96b0f53e979dfad3f3",
+      "description": "Coinbase Wallet App Quest smart contract"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://opensea.io/collection/fall-of-sybils",
+      "description": "Coinbase Wallet Quest Opensea link"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://gov.optimism.io/t/optiland-quests/5425",
+      "description": "Learn and Earn quest grant application"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "Learn to Earn Quests:  Participants learned about different protocols in the broader Optimism ecosystem.  Learning about different dApps is the first step toward using the dApp and wider adoption of the Optimism ecosystem.\n\nImpact Metrics:\n\nOn chain:\n2628 submissions\n2090 payouts\n17500 $OP sent through QuestN\n\nOffchain: \n72K direct views, over 100K impressions since June \n\nProjects featured in the quest benefited from additional exposure.  List of projects benefited in the link.\n\nCoinbase Wallet App Quests:\n\nOn chain:\n24,000 people have minted Lady Greatness: Fall of Sybils on Optimism\n\nOffchain:\nOver 150k impressions on X through all the tweets about the quests\n\nHelped onboard 25,000 Coinbase Wallet users onto Optimism, creating a positive impact on the entire Optimism system.",
+  "impactMetrics": [
+    {
+      "description": "List of projects benefited from quests",
+      "number": 15,
+      "url": "https://docs.google.com/document/d/1TWIe_2g3o5BSQbAtouIE4xPLAiiHc3OcO1ZQEOpji70/edit?usp=sharing"
+    },
+    {
+      "description": "number of quest payouts",
+      "number": 2090,
+      "url": "https://docs.google.com/spreadsheets/d/1TSo-wiG2FkWg9-_qZWIFTk6OpGOlQ_H5WYGVNC5hS3Q/edit?usp=sharing"
+    },
+    {
+      "description": "List of users minted Coinbase quests",
+      "number": 25000,
+      "url": "https://app.manifold.xyz/c/lady-greatness"
+    },
+    {
+      "description": "X Impression counts for both quests",
+      "number": 250000,
+      "url": "https://docs.google.com/document/d/16uSd_PNEau3WqLYQ2qnu6Geaq-YPuFbK10relg5XNQg/edit?usp=sharing"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 20000,
+      "description": "20000 $OP grant given by OP foundation to be given entirely to users "
+    }
+  ],
+  "payoutAddress": "0xa6028b948dea97B7Fb0E472e19c9D4E160ed2902",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Cryptofox",
+  "applicantName": "Cryptofox",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xa6028b948dea97B7Fb0E472e19c9D4E160ed2902.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xa6028b948dea97B7Fb0E472e19c9D4E160ed2902.json",
+  "RPGF3_Application_UID": "0x8b61eb9d78089e028044a972402492d9d5b570bf82d7d750fd66576b9805788d",
+  "applicantAddress": "0xa6028b948dea97B7Fb0E472e19c9D4E160ed2902"
+}

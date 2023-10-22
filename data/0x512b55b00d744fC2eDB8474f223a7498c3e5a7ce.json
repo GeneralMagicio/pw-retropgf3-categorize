@@ -1,0 +1,93 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://twitter.com/cooprecsmusic",
+  "bio": "Onchain Record Label",
+  "contributionDescription": "We’ve partnered with over 25+ artists across 87 music releases on Optimism. \n\nThese releases have done over 59 ETH in volume across the network including several culturally significant albums.\n\nWe've developed and implemented several new minting mechanisms including:\n\n- Splits - We’ve instantiated 50+ splits contracts\n- Mint All - A contract to mint multiple collections for TK’s “Eternal Garden”\n- Lottery - A randomizer for WesGhost EP “Faceless”\n- Albums - An onchain album contract for Daniel Allan’s project “Duality”\n\nNew technology needs culture to drive adoption. Music is at the heart of popular culture and has the potential to drive meaningful adoption to the Optimism Collective. ",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://www.onchaincurator.xyz/",
+      "description": "We built a social app for onchain listening with 100+ collectors."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://onchain.sanholo.com/",
+      "description": "Custom site and virtual concert for San Holo's (1M followers) newest album."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://danielallan.xyz/",
+      "description": "First deployment of ERC6551 on OP for Daniel Allan's album Duality."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://origins.eternal-garden.xyz/ ",
+      "description": "Website + Mint All contract for TK's sophmore album \"ORIGINS\""
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.wesghost.xyz",
+      "description": "Site + Lottery contract for WesGhost EP \"Faceless\""
+    },
+    {
+      "type": "OTHER",
+      "url": "https://themultichain.xyz/",
+      "description": "Multichain EP with songs on Optimism, BASE and Zora."
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x0B69FE23c6a86DE7b49be02B85e6734DdecB216D#code",
+      "description": "WesGhost FACELESS EP lottery contract"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x4fba8be889342427a857c13fd4366edcc94bab18",
+      "description": "TK Origins Contract"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xb81f8ddd169a429e8bd8750752ea7ad3cfd4ef8b",
+      "description": "Daniel Allan Duality Album contract"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "We have brought a significant amount of music culture to Optimism and the wider OP Stack.\n\nBeyond onboarding artists - we've championed the adoption of L2 as the primary home for minting and collecting music onchain.\n\nWe've hosted events across Devcon, ETHCC, ETH Denver,  ETH Tokyo, NFT NYC and NFT LA to champion onchain artists.\n",
+  "impactMetrics": [
+    {
+      "description": "Unique Songs",
+      "number": 87,
+      "url": "https://docs.google.com/spreadsheets/d/1rofHA1WhERslWeUz7k9rfyGVFOoW8O9t_lCmDAx4WwE/edit?usp=sharing"
+    },
+    {
+      "description": "Total Editions",
+      "number": 30856,
+      "url": "https://docs.google.com/spreadsheets/d/1rofHA1WhERslWeUz7k9rfyGVFOoW8O9t_lCmDAx4WwE/edit?usp=sharing"
+    },
+    {
+      "description": "Primary Sales (ETH)",
+      "number": 59.49,
+      "url": "https://docs.google.com/spreadsheets/d/1rofHA1WhERslWeUz7k9rfyGVFOoW8O9t_lCmDAx4WwE/edit?usp=sharing"
+    },
+    {
+      "description": "Unique Wallets",
+      "number": 13538,
+      "url": "https://docs.google.com/spreadsheets/d/1rofHA1WhERslWeUz7k9rfyGVFOoW8O9t_lCmDAx4WwE/edit?usp=sharing"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x512b55b00d744fC2eDB8474f223a7498c3e5a7ce",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Coop Records Music",
+  "applicantName": "Coop Records Music",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x512b55b00d744fC2eDB8474f223a7498c3e5a7ce.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x512b55b00d744fC2eDB8474f223a7498c3e5a7ce.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x512b55b00d744fC2eDB8474f223a7498c3e5a7ce.json",
+  "RPGF3_Application_UID": "0x1a62e4ce6dcb668be423262c84d326f03f4b9981b8a6fc74d556af85af0be8c3",
+  "applicantAddress": "0x512b55b00d744fC2eDB8474f223a7498c3e5a7ce"
+}

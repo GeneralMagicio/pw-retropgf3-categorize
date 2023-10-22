@@ -1,0 +1,102 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://synthetix.io/",
+  "bio": "Synthetix provides liquidity for permissionless derivatives like perpetual futures, options, parimutuel markets, and more across EVM chains.",
+  "contributionDescription": "Synthetix, an open-source DeFi protocol, enables developers to create derivative protocols on Optimism by leveraging its robust liquidity and infrastructure. As the #1 protocol on Optimism by TVL, Synthetix helps to onboard high-value DeFi developers, protocols, and users into the Optimism collective. Synthetix was the first protocol to launch on Optimism and has a long history of working alongside the Optimism to support the collective.\n\nWe have already assisted in onboarding a significant number of developers and protocols to Optimism and aim to maintain this momentum with our upcoming V3 release. \n\nIn addition to the successes of Synthetix at the protocol level, we have also nurtured a community that serves as a breeding ground for users contributing to the OP Collective.\n",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://synthetix.io/",
+      "description": "Synthetix Homepage"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://staking.synthetix.io/",
+      "description": "Synthetix Staking"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://docs.synthetix.io/",
+      "description": "Synthetix V2 Docs"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://docs.synthetix.io/v/v3/",
+      "description": "Synthetix V3 Docs"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/Synthetixio/",
+      "description": " Synthetix Github Repo"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/Evan-Kim2028/synthetix_v3_analytics/blob/new-branch/notebooks/liquidation_tracker.ipynb",
+      "description": "Evan Kim V3 Analysis"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/PolynomialFi/status/1705218649315811360",
+      "description": "Open source Indexer"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://status.optimism.io/cljxih3rh70676xtojq58epp7h",
+      "description": "OP Sequencer"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://blog.synthetix.io/decentralization-of-frontends-within-the-synthetix-ecosystem-with-synthetix-ipfs-node/",
+      "description": "Synthetix IPFS Node"
+    }
+  ],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "Synthetix's presence on Optimism significantly contributes to the growth and vibrancy of the ecosystem. By providing liquidity and infrastructure, it enables the seamless creation of derivative protocols, attracting a broader developer and user base to Optimism.\n\nSynthetix has onboarded and supported ecosystem developers and projects, including Kwenta, Polynomial, Lyra, Thales, dHEDGE/Toros, Rage Trade, and more.\n\nOur community has established itself as a hub of open-source developers, data scientists, and value-adding users contributing to the OP Stack. Examples include:\n- Identified issues that led to OP Stack sequencer upgrades\n- Developer tooling (Cannon and Synpress)\n- Decentralized frontend innovations\n- Open-source indexer from Polynomial \n- Dune Dashboards and OP Data Analysis\n",
+  "impactMetrics": [
+    {
+      "description": "Total Value Locked (TVL) on OP",
+      "number": 145000000,
+      "url": "https://defillama.com/protocol/synthetix"
+    },
+    {
+      "description": "Ecosystem Integrators",
+      "number": 8,
+      "url": "https://synthetix.io/"
+    },
+    {
+      "description": "Number of Stakers",
+      "number": 80000,
+      "url": "https://dune.com/queries/3124815"
+    },
+    {
+      "description": "Cumulative Users",
+      "number": 207000,
+      "url": "https://dune.com/queries/2966251/4915928"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 9000000,
+      "description": "Phase 0 OP Distribution"
+    }
+  ],
+  "payoutAddress": "0x9644A6920bd0a1923C2C6C1DddF691b7a42e8A65",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Synthetix",
+  "applicantName": "Synthetix",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7B66b603347038CCAd178387c696660bcdcB14d7.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x7B66b603347038CCAd178387c696660bcdcB14d7.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x7B66b603347038CCAd178387c696660bcdcB14d7.json",
+  "RPGF3_Application_UID": "0x6640372710ef432d006f6e2a0737213975305cb2f7d0c84e7be338b9c6ddb275",
+  "applicantAddress": "0x7B66b603347038CCAd178387c696660bcdcB14d7"
+}

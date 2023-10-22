@@ -1,0 +1,78 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://www.public---assembly.com",
+  "bio": "Public Assembly (PA) is an onchain collective creating what's missing and fostering a community based on building public goods infrastructures.",
+  "contributionDescription": "This past summer, Public Assembly introduced Assembly Press (AP), a comprehensive framework designed for Ethereum application development. AP streamlines the process of constructing your own application infrastructure by offering an accessible toolset for developers. The framework incorporates a singleton smart contract design pattern, complemented by a minimalist yet performant indexing solution, along with a compact set of React hooks designed to integrate your frontend with the rest of the framework.\nAP is catered towards developers unfamiliar with the challenges of creating high-performance Ethereum applications, as well as those who seek a straightforward, ready-to-use solution without the need to delve into the complexities of protocol design.\n",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/public-assembly/assembly-press",
+      "description": "Assembly Press is a full-stack framework for developing onchain applications"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/public-assembly/assembly-press/blob/main/frontend/README.md",
+      "description": "AP Frontend section is composed of a small set of React hooks."
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/public-assembly/assembly-press/blob/main/backend/README.md",
+      "description": "AP Backend section is composed an indexer for AP protocol events"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/public-assembly/assembly-press/blob/main/protocol/README.md",
+      "description": "AP Protocol is composed of a router based architecture"
+    }
+  ],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
+  "impactDescription": "The category that best describes the significant impact of Public Assembly (PA) on Optimism Collective is the developer ecosystem. By creating and maintaining a robust set of open-source tools specifically designed for the Ethereum ecosystem, PA has simplified the process of developers to seamlessly navigate the complexities of application development at both protocol and full stack levels. This comprehensive suite of tools has effectively bridged the gap between  developers and the Ethereum ecosystem, fostering a dynamic and vibrant community of developers who can now leverage the power of the Ethereum protocol to build innovative and groundbreaking applications.\n",
+  "impactMetrics": [
+    {
+      "description": "Assembly Press transactions (OP testnet)",
+      "number": 121,
+      "url": "https://assembly-press.vercel.app2"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 32500,
+      "description": "From Builder DAO prop on Jan 9 2023"
+    },
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 3328.5,
+      "description": "From DAO Drops via the dOrg on March 29 2023 (in DAI)"
+    },
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 8150,
+      "description": "via Entropy DAO on September 4th 2023"
+    },
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 333,
+      "description": "Via Gitcoin OSS round 18"
+    }
+  ],
+  "payoutAddress": "0x37bbe5b18C31d565Fc2a2129f427B19754aD70eB",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Public Assembly ",
+  "applicantName": "Kiru",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xFEC0Ad833FB7D20A83E373279f37c88159bAd99E.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xFEC0Ad833FB7D20A83E373279f37c88159bAd99E.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xFEC0Ad833FB7D20A83E373279f37c88159bAd99E.json",
+  "RPGF3_Application_UID": "0x007d41961338c04bb3a18e498d6d955072d4df3ea1fb43b16381269ea581049a",
+  "applicantAddress": "0xFEC0Ad833FB7D20A83E373279f37c88159bAd99E"
+}

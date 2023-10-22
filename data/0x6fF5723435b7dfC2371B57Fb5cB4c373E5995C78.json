@@ -1,0 +1,103 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://sorryvrerror.co/",
+  "bio": "I'm sorryvrerror, digital artist from Thailand. I joined Optimism in April 2022 and started launching NFTs on Optimism Stacks in June 2022.",
+  "contributionDescription": "I am a graphic designer, writer, and entrepreneur passionate about art. In June 2021, I embarked on my journey as an NFT artist, and it eventually became my full-time occupation, with my projects primarily on the Ethereum blockchain.\n\nIn June 2022, I launched my first project, 'Bored Town,' on Optimism, recognizing it as an ideal platform for NFTs due to its lower gas fees. I leveraged NFTs to promote businesses and events, using my art and marketing initiatives to attract new users to Optimism. As both an artist and the founder of a pioneering project on Optimism, my work garnered attention from companies and projects in the web2 realm, allowing me to introduce them to the world of web3 through Optimism Stacks.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://app.manifold.xyz/c/boredinblue",
+      "description": "Bored in Blue, the collection to promote Optimism NFT on Coinbase wallet.."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/sorryvrerror_co/status/1676029064002322433?s=20",
+      "description": "A link to promote Optimism quest on Coinbase wallet."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://opensea.io/collection/bored-town-now-listed-on-opensea",
+      "description": "Bored Town on OpenSea, the collection to promote Optimism NFT on OpenSea"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://opensea.io/collection/bored-tarot",
+      "description": "Bored Tarot, the collection to promote Bored Town space on Galxe."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://opensea.io/collection/bored-101",
+      "description": "Bored 101, the unique 1/1 NFT collection on Optimism"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://opensea.io/collection/the-vintract",
+      "description": "The Vintract, the collection to promote SRANN skincare product on Optimism."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://opensea.io/collection/mangmoom",
+      "description": "Mangmoom, the collection to promote Mangmoom publishing on Optimism"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://opensea.io/collection/apewarrior",
+      "description": "Ape Warrior Redux, the collection to promote young artist on Optimism"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://youtu.be/477UdeqmHgI?si=CQ0GPNdDX2v6ynU-",
+      "description": "OP Radio interview about my projects on Optimism"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "I introduced five companies, namely SRANN, Mangmoom Publishing, Tripster, NFT360, and Starlet, to the world of web3 through Optimism Stacks. I also welcomed NFT projects and protocols from Ethereum, such as Flower Girls and Omnisea, to participate in events on Optimism.\n\nFurthermore, I harnessed my art to promote Optimism NFT and onboard users to Optimism and Base by collaborating with prominent protocols like Coinbase, OpenSea, and Galxe.",
+  "impactMetrics": [
+    {
+      "description": "Transections from Coinbase promotion",
+      "number": 21239,
+      "url": "https://optimistic.etherscan.io/token/0x56f0ab29080d794cfbcf3d3c885cd814df014c2a"
+    },
+    {
+      "description": "Transections from OpenSea promotion",
+      "number": 4363,
+      "url": "https://optimistic.etherscan.io/token/0xfdff7551dc83762801cf324b9df34390847d7b7d"
+    },
+    {
+      "description": "Transections from Galxe promotion",
+      "number": 6188,
+      "url": "https://optimistic.etherscan.io/token/0x06163c8a9fc6346481d195d70e75116c38ebaa00"
+    },
+    {
+      "description": "Transections from SRANN promotion",
+      "number": 1941,
+      "url": "https://optimistic.etherscan.io/token/0xb82b7887f0a92ca07907e7c01d9ffbbebe95daf4"
+    },
+    {
+      "description": "Transections from Mangmoom promotion",
+      "number": 1412,
+      "url": "https://optimistic.etherscan.io/token/0x99edc7af5923b5a8dfe041f4252a892b2862f582"
+    },
+    {
+      "description": "X followers",
+      "number": 19554,
+      "url": "https://twitter.com/sorryvrerror_co"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x110cf16fc17f24a6df36357f3468e775beb2aa90",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Bored Town",
+  "applicantName": "sorryvrerror",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x6fF5723435b7dfC2371B57Fb5cB4c373E5995C78.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x6fF5723435b7dfC2371B57Fb5cB4c373E5995C78.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x6fF5723435b7dfC2371B57Fb5cB4c373E5995C78.json",
+  "RPGF3_Application_UID": "0xf598f5603402cb5b807cc90c8dd3054d27a226505076258ac76b18b762438838",
+  "applicantAddress": "0x6fF5723435b7dfC2371B57Fb5cB4c373E5995C78"
+}

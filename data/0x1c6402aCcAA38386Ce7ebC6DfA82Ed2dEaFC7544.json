@@ -1,0 +1,55 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://mirror.xyz/0x1c6402aCcAA38386Ce7ebC6DfA82Ed2dEaFC7544",
+  "bio": "A Web3 enthusiast interested in breaching the gap between underdeveloped individuals and  decentralization through the work of blockchains.",
+  "contributionDescription": "As a content writter and ambassador on web3, I have had the opportunity to collaborate with cross-functional teams on cutting-edge projects, helping to bridge the gap between traditional applications and the Optimism decentralized web. I have presented a detailed analysis of the optimism Blockchain to communities, and onboarded them to be part of the Blockchain ",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://mirror.xyz/0x1c6402aCcAA38386Ce7ebC6DfA82Ed2dEaFC7544/P7OIotB0UgZhjJeLaY4F9fddYDxDe-1iKDK0mrJGb3c",
+      "description": "An on-chain guide on the core purpose of Optimism, its defined goal and vision"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://mirror.xyz/0x1c6402aCcAA38386Ce7ebC6DfA82Ed2dEaFC7544/DgeGRXE2P36x29V7p_0rA5j-gZegWFbGlZ6NKKhpBOc",
+      "description": "A detailed explanation of how the optimism Blockchain works"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "Enlightening, guiding and bringing the unreached to Optimism using the power of content and imaged description to preach Web3 and the power of decentralization to the undeveloped communities. Education and Learning, Advocacy,Networking bringing  developers, entrepreneurs, investors to the Optimism ecosystem.",
+  "impactMetrics": [
+    {
+      "description": "Readers",
+      "number": 780,
+      "url": "https://mirror.xyz/0x1c6402aCcAA38386Ce7ebC6DfA82Ed2dEaFC7544/P7OIotB0UgZhjJeLaY4F9fddYDxDe-1iKDK0mrJGb3c"
+    },
+    {
+      "description": "Readers",
+      "number": 803,
+      "url": "https://mirror.xyz/0x1c6402aCcAA38386Ce7ebC6DfA82Ed2dEaFC7544/DgeGRXE2P36x29V7p_0rA5j-gZegWFbGlZ6NKKhpBOc"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 0,
+      "description": "I have never gotten any form of funding before"
+    }
+  ],
+  "payoutAddress": "0x1c6402aCcAA38386Ce7ebC6DfA82Ed2dEaFC7544",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "diaryofdero",
+  "applicantName": "Diaryofdero",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x1c6402aCcAA38386Ce7ebC6DfA82Ed2dEaFC7544.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x1c6402aCcAA38386Ce7ebC6DfA82Ed2dEaFC7544.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x1c6402aCcAA38386Ce7ebC6DfA82Ed2dEaFC7544.json",
+  "RPGF3_Application_UID": "0xea232b479ca0838d1571f1d72f89a158c41b82c6e6921b5970451970d4bbc21f",
+  "applicantAddress": "0x1c6402aCcAA38386Ce7ebC6DfA82Ed2dEaFC7544"
+}

@@ -1,0 +1,49 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://github.com/gnidan",
+  "bio": "I make software tools for smart contracts. Formerly leading Truffle for ~6 years, now working on personal projects including abi-to-sol.",
+  "contributionDescription": "abi-to-sol is an open-source tool that auto-generates Solidity interfaces from ABI files. This streamlines smart contract deployment and interaction on Optimism's Layer 2. The tool aids in quick project migration to Optimism and serves the broader community by reducing manual effort. While not Optimism-specific, its utility in simplifying contract deployments makes it valuable for Optimism adoption.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/gnidan/abi-to-sol",
+      "description": "Source repository for abi-to-sol tool and associated web UI"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://gnidan.github.io/abi-to-sol/",
+      "description": "Web UI for abi-to-sol"
+    }
+  ],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
+  "impactDescription": "abi-to-sol enhances interoperability within the Optimism ecosystem by automating Solidity interface generation from ABI files. This significantly lowers the barrier to interfacing with existing Optimism contracts. Without abi-to-sol, programmers would have to manually write these interfaces, a tedious and error-prone task. By eliminating this manual effort, the tool fosters a more interconnected blockchain ecosystem, encouraging the creation of complex, interlocking smart contracts on Optimism. Users across the smart contract development ecosystem regularly applaud abi-to-sol for its utility in streamlining this process.",
+  "impactMetrics": [
+    {
+      "description": "# of GitHub stars",
+      "number": 299,
+      "url": "https://github.com/gnidan/abi-to-sol"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 0,
+      "description": "(abi-to-sol has received no funding of any kind to date)"
+    }
+  ],
+  "payoutAddress": "0xefef50EbACd8DA3c13932ac204361B704Eb8292C",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "abi-to-sol",
+  "applicantName": "g. nick // gnidan.eth",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xefef50EbACd8DA3c13932ac204361B704Eb8292C.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xefef50EbACd8DA3c13932ac204361B704Eb8292C.json",
+  "RPGF3_Application_UID": "0xb35269ecc1f0a00cdbd12ba986f61174ae69bc6274aaabbb8ec13eff0ea1b461",
+  "applicantAddress": "0xefef50EbACd8DA3c13932ac204361B704Eb8292C"
+}

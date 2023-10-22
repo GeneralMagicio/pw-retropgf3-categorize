@@ -1,0 +1,78 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://optimism.blockscout.com/",
+  "bio": "The Blockscout team has been developing open-source block exploration tools since 2018. We believe in community, transparency, and decentralization.",
+  "contributionDescription": "Block explorers provide vital infrastructure, transparency, and data availability to all blockchain users. Blockscout brings an open-source ethos and community-driven development to the Optimism explorer ecosystem. Over the past 6 months Blockscout has continued to improve and optimize the Optimism explorer for OP mainnet and testnet (Goerli & Sepolia) instances. \n\nIn June 2023 we updated to the latest 5.2.0 version and deployed a new UI, which includes several new L2 relevant views, account features for users, and an app marketplace for projects on Optimism. In September we introduced the OP Sepolia instance, currently the only fully-functional explorer instance available for the OP Sepolia chain. Blockscout APIs (both RPC and REST API) are available for Optimism developers and projects.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://optimism.blockscout.com/",
+      "description": "Blockscout OP Mainnet"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://optimism-sepolia.blockscout.com/",
+      "description": "Blockscout OP Sepolia"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://optimism-goerli.blockscout.com/",
+      "description": "Blockscout OP Goerli"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/blockscout",
+      "description": "Open-source repo"
+    }
+  ],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "Blockscout impacts Optimism users across the board. Developers use Blockscout's APIs to incorporate chain data into their applications, deploy and debug on testnets, or verify contracts on-chain through the front-end interface. Projects use Blockscout to highlight their apps on the app marketplace and monitor and check interactions with their contracts. Everyone can use the explorer to check & confirm details of their transactions and holdings, create private and public tags, and inspect anything that happens on the Optimism network.  \n\nBlockscout is open source and can be modified and customized for the Optimism Collective. We have worked with the collective to create new views, quickly spin up testnets, and develop new features requested by users. ",
+  "impactMetrics": [
+    {
+      "description": "EOAs + many chain stats",
+      "number": 5185046,
+      "url": "https://optimism.blockscout.com/stats"
+    },
+    {
+      "description": "Dapp Marketplace Projects ",
+      "number": 19,
+      "url": "https://optimism.blockscout.com/apps"
+    },
+    {
+      "description": "Increasing API Usage",
+      "number": 1000000,
+      "url": "https://docs.google.com/document/d/19yCjL65j-Fxzm-odKrOj5d2DPOS6sFf1YTB24kyHutg/edit?usp=sharing"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 150000,
+      "description": "Initial development grant"
+    },
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 65259,
+      "description": "Retro funding for Blockscout"
+    }
+  ],
+  "payoutAddress": "0x242ba6d68FfEb4a098B591B32d370F973FF882B7",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Blockscout Block Explorer",
+  "applicantName": "AndrewG",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5C36Bd76a6c138187C43da92f66f37E23b4017fA.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x5C36Bd76a6c138187C43da92f66f37E23b4017fA.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x5C36Bd76a6c138187C43da92f66f37E23b4017fA.json",
+  "RPGF3_Application_UID": "0x42166c1cef33baca07a958fca9ee498163134a6a6bc54fb0e676410cf588dc96",
+  "applicantAddress": "0x5C36Bd76a6c138187C43da92f66f37E23b4017fA"
+}

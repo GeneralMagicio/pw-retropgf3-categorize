@@ -1,0 +1,157 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://www.alchemy.com/",
+  "bio": "Building EVM account abstraction infrastructure, open standards and education to onboard the next billion users",
+  "contributionDescription": "Alchemy's Account Kit is complete toolkit for EVM developers to embed ERC-4337 smart accounts in their apps. Account Kit incorporates: \n\n- Rundler, an open sourced bundler in Rust, tailored to Optimism and Base fee markets\n\n- aa-sdk, an open sourced library to integrate and deploy smart accounts\n\n- Light Account, an open sourced, audited and gas-optimized smart account with factories on Optimism and Base\n\n- Gas Manager, a performant ERC-4337 paymaster \n\nAlchemy has also launched and is working with the community on Ethereum EIP: ERC-6900, a standard for smart accounts and plugins designed to foster open innovation and interoperability. \n\nFinally, Alchemy has produced extensive account abstraction educational content and developer documentation.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/alchemyplatform/aa-sdk",
+      "description": "Account abstraction sdk (aa-sdk) code"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/alchemyplatform/rundler",
+      "description": "Bundler code"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/alchemyplatform/light-account",
+      "description": "https://github.com/alchemyplatform/rundler"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://accountkit.alchemy.com/getting-started.html",
+      "description": "Account Kit docs"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://docs.alchemy.com/reference/account-abstraction-sdk",
+      "description": "aa-sdk docs"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://docs.alchemy.com/reference/bundler-api-quickstart",
+      "description": "Bundler API and docs"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://docs.alchemy.com/reference/bundler-api-quickstart",
+      "description": "Gas Manager (paymaster) API and docs"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x15Ba39375ee2Ab563E8873C8390be6f2E2F50232",
+      "description": "Light Account Factory on Optimism Mainnet"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x15Ba39375ee2Ab563E8873C8390be6f2E2F50232",
+      "description": "Light Account Factory on Optimism Goerli"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://basescan.org//address/0x15Ba39375ee2Ab563E8873C8390be6f2E2F50232",
+      "description": "Light Account Factory on Base Mainnet"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://goerli.basescan.org/address/0x15Ba39375ee2Ab563E8873C8390be6f2E2F50232",
+      "description": "Light Account Factory on Base Goerli"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://eips.ethereum.org/EIPS/eip-6900",
+      "description": "ERC-6900: Modular Smart Contract Accounts and Plugins"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/alchemyplatform/ERC-6900-Ref-Implementation",
+      "description": "ERC-6900 reference implementation"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://docs.google.com/spreadsheets/d/1h1PRIqT9V09DdR5gfChO44TrwwzI-FJGdTcQYtoO-pU/edit#gid=0",
+      "description": "Educational content"
+    }
+  ],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "While is very early days for account abstraction, Alchemy’s contributions have had a measurable impact on the ecosystem across a number of dimensions. \n\nWallets using our infrastructure have grown to become the leading source of account abstraction transactions (or UserOps) for both Optimism and Base since its launch, with both our bundlers and paymasters for each chain serving the overwhelming majority of UserOps by October 2023. \n\nFinally, our educational content has been accessed by thousands, and spans dozens of blog posts as well as video and other content.",
+  "impactMetrics": [
+    {
+      "description": "Bundler % Optimism UserOps Aug-Sep",
+      "number": 48,
+      "url": "https://dune.com/queries/2873088/4798580"
+    },
+    {
+      "description": "Bundler % Optimism UserOps Oct (10/19)",
+      "number": 90,
+      "url": "https://dune.com/queries/2873088/4798580"
+    },
+    {
+      "description": "Paymaster % Optimism UserOps Aug-Sep",
+      "number": 47,
+      "url": "https://dune.com/queries/2651822/4406877"
+    },
+    {
+      "description": "Paymaster % Optimism UserOps Oct (10/19)",
+      "number": 90,
+      "url": "https://dune.com/queries/2651822/4406877"
+    },
+    {
+      "description": "Bundler % Base UserOps: Aug-Sep",
+      "number": 6.7,
+      "url": "https://dune.com/queries/2837440/4738051"
+    },
+    {
+      "description": "Bundler % Base UserOps Oct (10/19)",
+      "number": 85,
+      "url": "https://dune.com/queries/2837440/4738051"
+    },
+    {
+      "description": "Paymaster % Base UserOps Aug-Sep",
+      "number": 6.7,
+      "url": "https://dune.com/queries/2837441/4738053"
+    },
+    {
+      "description": "Paymaster % Base UserOps Oct (10/19)",
+      "number": 88,
+      "url": "https://dune.com/queries/2837441/4738053"
+    },
+    {
+      "description": "Educational content views",
+      "number": 18500,
+      "url": "https://docs.google.com/spreadsheets/d/1h1PRIqT9V09DdR5gfChO44TrwwzI-FJGdTcQYtoO-pU/edit#gid=0"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 18600,
+      "description": "Alchemy Bundler net revenue through 10/19: Optimism"
+    },
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 279,
+      "description": "Alchemy Bundler net review through 10/19: Base"
+    }
+  ],
+  "payoutAddress": "0xA43c51aacae41AeC73e1EfF2d13D69eD13DE8DaB",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Alchemy",
+  "applicantName": "Alchemy",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x72EAa8ba8726a10D5e0d8441c592451C7C6670FC.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x72EAa8ba8726a10D5e0d8441c592451C7C6670FC.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x72EAa8ba8726a10D5e0d8441c592451C7C6670FC.json",
+  "RPGF3_Application_UID": "0xf3df23e97d2c4b6936cafe233e48416ed37708a2a0eecd959450a82ed3a5f730",
+  "applicantAddress": "0x72EAa8ba8726a10D5e0d8441c592451C7C6670FC"
+}

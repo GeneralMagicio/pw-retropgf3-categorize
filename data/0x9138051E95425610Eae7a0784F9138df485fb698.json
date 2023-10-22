@@ -1,0 +1,70 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://community.optimism.io/docs/contribute/contribution-path/translators/",
+  "bio": "Translators make Optimism accessible to non-English speakers in over 27 languages!",
+  "contributionDescription": "The Optimism Translators translate the Optimism Help Docs into 20 languages, as well as translating Optimism blogs, tweets and posts into local languages. Translated articles live in the Optimism Discord, allowing easy access to the local communities. ",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://help.optimism.io/hc/en-us",
+      "description": "Help Docs"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://discord.com/channels/667044843901681675/961585633334263839",
+      "description": "Discord Local Articles"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://docs.google.com/spreadsheets/d/1pnvR3S-_LQ8wvFVmF17plQmzc14wbfhV2TrnVhMKC6E/edit#gid=87964285",
+      "description": "Translator Data & Address"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "Translated content allows the Optimism collective to diversify its members and be more accessible to the global markets and communities. This diversity strengthens the Collective's ability to decentralise, as well as expand available user groups. Localisation also makes Optimism more inclusive and welcoming to the world <3",
+  "impactMetrics": [
+    {
+      "description": "Help Docs Languages",
+      "number": 20,
+      "url": "https://help.optimism.io/hc/en-us"
+    },
+    {
+      "description": "Words translated into 20 languages",
+      "number": 20760,
+      "url": "https://crowdin.com/project/optimism-help-center"
+    },
+    {
+      "description": "Local Articles",
+      "number": 23,
+      "url": "https://discord.com/channels/667044843901681675/961585633334263839"
+    },
+    {
+      "description": "Translator Data and Address",
+      "number": 0,
+      "url": "https://docs.google.com/spreadsheets/d/1pnvR3S-_LQ8wvFVmF17plQmzc14wbfhV2TrnVhMKC6E/edit#gid=87964285"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 85657.06,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0x6f405D25Ea6651683C66cF4fAE06b253382df208",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Optimism Translators",
+  "applicantName": "Optimism Translators",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9138051E95425610Eae7a0784F9138df485fb698.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x9138051E95425610Eae7a0784F9138df485fb698.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x9138051E95425610Eae7a0784F9138df485fb698.json",
+  "RPGF3_Application_UID": "0xe97f58b3c9ba77ea09f9df85da3d606d913c435aff077a1782390b86477c0bc1",
+  "applicantAddress": "0x9138051E95425610Eae7a0784F9138df485fb698"
+}

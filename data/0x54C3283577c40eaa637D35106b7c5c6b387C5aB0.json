@@ -1,0 +1,43 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://www.musictribes.xyz/",
+  "bio": "I am passionate about blockchain and music, active onchain music collector and  experimenting + building around decentralized curation and permissionless fans",
+  "contributionDescription": "MusicTribes pioneers the mode of interaction within the Optimism music ecosystem, bridging artists, collectives, and fans. It aggregates NFTs from platforms like Sound.xyz, Catalog, Zora, Lens and others. Unlike traditional platforms, recommendations are defined externally by tokenized communities' input parameters. Users get content based on the community tokens they hold, avoiding conventional algorithm-driven models and fostering direct artist-to-fan engagement. This empowers artists and utility for community members, with the potential for communities to earn referral fees. Most communities have minted their tokens on the Optimism blockchain. Music Tribes also incorporates artists' Mirror articles, integrating another OP platform. Music Tribes onboards web2 fans with Spotify login",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://www.musictribes.xyz/",
+      "description": "recommendations of onchain music from tokenized communities "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.musictribes.xyz/artist?artist=lnrz.eth",
+      "description": "onchain artist path with music NFTs and mirror posts"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "Bridging the gap between artists, collectives and music fans in Optimism. Multiple platforms music NFTs are aggreagated giving visibility to multiple artists, with most being minted in OP. A majority of the music NFT-centric communities integrated have their tokens on Optimism. Some notable examples include: ZiggyZiggy with 3987 members, latin collective MúsicaW3, DANC3 that creates a lot of curational content,  UK based WildAwake, Invest in Music which has a curational program on Optimism, among others. On the artist side, most music NFTs recommended are minted in the Sound.xyz platform in Optimism. Spotify login onboards web2 users. Development has been a solo endeavor, with myself building backend, frontend, and design, analytics to capture metrics is in development.",
+  "impactMetrics": [
+    {
+      "description": "aggregated curational communities",
+      "number": 6,
+      "url": "https://docs.google.com/spreadsheets/d/18h8mEkx5yMuW4M6Sf6G1pG6A5g4pZYbSqFv6tLvzCK0/edit?usp=sharing"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x54C3283577c40eaa637D35106b7c5c6b387C5aB0",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Music Tribes",
+  "applicantName": "Fede",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x54C3283577c40eaa637D35106b7c5c6b387C5aB0.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x54C3283577c40eaa637D35106b7c5c6b387C5aB0.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x54C3283577c40eaa637D35106b7c5c6b387C5aB0.json",
+  "RPGF3_Application_UID": "0x11a1fd21c32b7ca4bdf10ddbc2adde1f92e539fba87406102a204793add83c45",
+  "applicantAddress": "0x54C3283577c40eaa637D35106b7c5c6b387C5aB0"
+}

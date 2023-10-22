@@ -1,0 +1,96 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://www.basepunk.xyz/",
+  "bio": "Base Punk is a dynamic, community-driven NFT project aiming to reshape the world of digital art and social networking on the web3 frontier. ",
+  "contributionDescription": "Base Punk is not just an NFT project; it's a rebellion against the ordinary . In just three months, we've grown to over 10,000 followers, held remarkable Onchain Summer events, and received a generous 2 ETH grant from @Buildonbase. Our NFT collection sold out, establishing us as an OG collection in the Base ecosystem. We swiftly introduced .basepunk domains, granting free minting to our NFT holders.\n\nThe Base Punk Chat DApps ( which is assessable to .basepunk domain holder only) launch brought innovative features, such as minting posts as NFTs, allowing users to earn ETH and activity points, soon to convert to $bpunk tokens. We also unveiled a token send feature for seamless transactions.\n\nWith these milestones, Base Punk is reshaping the NFT space and leading the way in Web3 innovation.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://www.basepunk.xyz/",
+      "description": "This is our official website. Here you can find details about whitepaper & all ."
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/BasePunkOrg/basepunk-landing",
+      "description": "This is github details of our basepunk landing page"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/BasePunkOrg/basepunk-names-frontend",
+      "description": "This is github details of our basepunk domain page"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/BasePunkOrg/basepunk-chat",
+      "description": "This is github details of our basepunk social dapps "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://opensea.io/collection/base-punk-5",
+      "description": "This our collection link on opensea"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://basescan.org/token/0x89290b2fad76bf4a6ed9d8066f644d45530fa920",
+      "description": "This is contract details of our NFT"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "Base Punk has left a remarkable impact on our users through several initiatives. We've conducted giveaways, creating opportunities for our community to acquire NFTs and other valuable assets. NFT holders have enjoyed exclusive benefits, including free lifetime domain minting, empowering them with unique digital identities.\n\nOur innovative social DApps offer users a daily earning potential with ETH and activity points. The engagement has been phenomenal, with users actively participating, minting NFTs and enjoying their activity points. Our DApps have garnered extensive user registrations, reflecting the community's seamless and enthusiastic adoption of our Web3-powered ecosystem.",
+  "impactMetrics": [
+    {
+      "description": "Base Punk Domain",
+      "number": 300,
+      "url": "https://id.basepunk.xyz/#/"
+    },
+    {
+      "description": "Base Punk Chat",
+      "number": 2000,
+      "url": "https://chat.basepunk.xyz/"
+    },
+    {
+      "description": "Base Punk twitter",
+      "number": 10500,
+      "url": "https://twitter.com/Punkonbase"
+    },
+    {
+      "description": "Base Punk Medium",
+      "number": 1300,
+      "url": "https://medium.com/@punkonbase"
+    },
+    {
+      "description": "Base Punk Zealy",
+      "number": 8498,
+      "url": "https://zealy.io/c/basepunk/questboard"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 2200,
+      "description": "We received a grant from Base for winning on chain summer events by them."
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 4000,
+      "description": "Invested By founder for project's development ."
+    }
+  ],
+  "payoutAddress": "0x919364818153ef009d6ad6EF9644066b24fa2F04",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Base Punk",
+  "applicantName": "Base Punk",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xD688B5ed29Ab77b39884BabD1930213BF7805CD1.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xD688B5ed29Ab77b39884BabD1930213BF7805CD1.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xD688B5ed29Ab77b39884BabD1930213BF7805CD1.json",
+  "RPGF3_Application_UID": "0x4601875bbac07e7fad0b07b6ecd28b48e197e67fbc29c3e713a517391c8251a3",
+  "applicantAddress": "0xD688B5ed29Ab77b39884BabD1930213BF7805CD1"
+}

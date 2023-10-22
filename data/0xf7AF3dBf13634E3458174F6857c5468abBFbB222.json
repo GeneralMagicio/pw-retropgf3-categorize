@@ -1,0 +1,140 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://banklessjp.substack.com/",
+  "bio": "Bankless Japan, a media node of the Bankless movement, aims to onboard japanese individuals into crypto through media, culture, and education. ",
+  "contributionDescription": "Bankless Japan participated in Optimism DAOs Season 4 to create multimedia content in Japanese as well as organised physical onboarding workshops in Tokyo.\nWe punlished 9 articles and Bankless Academy contents into Japanese, and held one physical event to learn Optimism governance at Centrum, which is a web3 co-working space in Shibuya, Tokyo.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://banklessjp.substack.com/",
+      "description": "We published 9 articles about Optimism in our newsletter."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://app.banklessacademy.com/lessons/jp/optimism-governance",
+      "description": "We translated Bankless Academy contents about Optimism Governance into Japanese."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://app.banklessacademy.com/lessons/jp/delegating-on-optimism",
+      "description": "We translated Bankless Academy contents about Optimism Delegation into Japanese."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://lu.ma/dao-night3",
+      "description": "We held the physical event about Optimism governance in Tokyo."
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "We were able to help propagate the Optimistic Vision and mission to a community of Japanese speakers via \n\n1. Newsletters\n9 articles / 4260 views\n\nFrom the Ashes of Moloch, Ether’s Phoenix Rises | Layer 2 Review\nOptimism’s Governance Is Tuned Into Community\nHands-On Learning for Optimistic Hearts\nWhat Is the Law of Chains?\nOP Grants Stack\nOptimism Provides a Shared Resource For DAOs\nThe Optimism Collective’s RetroPGF Learning Journey\nIntroduction of Optimism governance with Bankless Academy\n\n2. Social Media posts\n9 posts / 4825 views\n\nSame topic as newsletters\n\n3. Onboarding events - DAO Night - about Optimism Governance -\n​​This is a great opportunity to learn Optimism governance and delegation!\n\n4. Translation of Bankless Academy contents\nTranslated Optimism governance and Delegation\n",
+  "impactMetrics": [
+    {
+      "description": "# of views",
+      "number": 1402,
+      "url": "https://twitter.com/banklessjp/status/1667728367075094528"
+    },
+    {
+      "description": "# of views",
+      "number": 473,
+      "url": "https://banklessjp.substack.com/p/ethers-phoenixoptimism-collective"
+    },
+    {
+      "description": "# of views",
+      "number": 255,
+      "url": "https://twitter.com/BanklessJP/status/1681499100280397824"
+    },
+    {
+      "description": "# of views",
+      "number": 524,
+      "url": "https://banklessjp.substack.com/p/optimism-72f"
+    },
+    {
+      "description": "# of views",
+      "number": 2332,
+      "url": "https://twitter.com/BanklessJP/status/1681974738892242944"
+    },
+    {
+      "description": "# of views",
+      "number": 567,
+      "url": "https://banklessjp.substack.com/p/optimism-685"
+    },
+    {
+      "description": "# of views",
+      "number": 546,
+      "url": "https://banklessjp.substack.com/p/optimismlaw-of-chains"
+    },
+    {
+      "description": "# of views",
+      "number": 86,
+      "url": "https://twitter.com/BanklessJP/status/1701068055143731696"
+    },
+    {
+      "description": "# of views",
+      "number": 187,
+      "url": " https://twitter.com/banklessjp/status/1697486829023535556"
+    },
+    {
+      "description": "# of views",
+      "number": 543,
+      "url": "https://banklessjp.substack.com/p/l2-9 "
+    },
+    {
+      "description": "# of views",
+      "number": 550,
+      "url": "https://banklessjp.substack.com/p/optimism-d1f"
+    },
+    {
+      "description": "# of views",
+      "number": 179,
+      "url": "https://x.com/BanklessJP/status/1703967174044602741?s=20"
+    },
+    {
+      "description": "# of views",
+      "number": 518,
+      "url": "https://banklessjp.substack.com/p/optimism-collectiveretropgf"
+    },
+    {
+      "description": "# of views",
+      "number": 135,
+      "url": "https://twitter.com/BanklessJP/status/1707225409526673908"
+    },
+    {
+      "description": "# of views",
+      "number": 537,
+      "url": "https://banklessjp.substack.com/p/daooptimism-collective"
+    },
+    {
+      "description": "# of views",
+      "number": 192,
+      "url": "https://twitter.com/BanklessJP/status/1707295073187266633"
+    },
+    {
+      "description": "# of views",
+      "number": 57,
+      "url": "https://x.com/BanklessJP/status/1707230221798453379?s=20"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 1385.67,
+      "description": "Gitcoin GG18"
+    }
+  ],
+  "payoutAddress": "0xf7AF3dBf13634E3458174F6857c5468abBFbB222",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Bankless Japan",
+  "applicantName": "Bankless Japan",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xf7AF3dBf13634E3458174F6857c5468abBFbB222.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xf7AF3dBf13634E3458174F6857c5468abBFbB222.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xf7AF3dBf13634E3458174F6857c5468abBFbB222.json",
+  "RPGF3_Application_UID": "0xe6574c578f8b9716459501f43d66f1bb042f7cc52799cd12541cc38d1f198e95",
+  "applicantAddress": "0xf7AF3dBf13634E3458174F6857c5468abBFbB222"
+}

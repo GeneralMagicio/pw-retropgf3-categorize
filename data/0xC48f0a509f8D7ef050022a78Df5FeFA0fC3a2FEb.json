@@ -1,0 +1,49 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://www.youtube.com/channel/UCmDqigK7xV2xH7BLIsQ2FFA",
+  "bio": "CIS influencer",
+  "contributionDescription": "Supported the development of the quest video ecosystem; I have one of the most viewed videos in the CIS space.\nhttps://www.youtube.com/watch?v=VlguxLS9jTs  (15k views)\n\n One of the first to talk about your voting platform and encouraged his audience to delegate votes to me. \nhttps://t.me/promintsecret/108 (4.4k views)\n\nhttps://vote.optimism.io/delegate/bakfard.eth\n\nI actively participate in the life of the ecosystem and attract my readers.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/watch?v=VlguxLS9jTs",
+      "description": "YouTube"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://t.me/promintsecret/108",
+      "description": "Telegram post"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "OP_STACK"
+  ],
+  "impactDescription": "Supported the development of the quest video ecosystem; I have one of the most viewed videos in the CIS space.\nhttps://www.youtube.com/watch?v=VlguxLS9jTs  (15k views)\n\n One of the first to talk about your voting platform and encouraged his audience to delegate votes to me. \nhttps://t.me/promintsecret/108 (4.4k views)\n\nhttps://vote.optimism.io/delegate/bakfard.eth\n\nI actively participate in the life of the ecosystem and attract my readers.",
+  "impactMetrics": [
+    {
+      "description": "Active call to vote",
+      "number": 1,
+      "url": "https://t.me/promintsecret/33"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 1000,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0xc48f0a509f8d7ef050022a78df5fefa0fc3a2feb",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "ProMint",
+  "applicantName": "ProMint",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xC48f0a509f8D7ef050022a78Df5FeFA0fC3a2FEb.json",
+  "RPGF3_Application_UID": "0xf2e5092df31bedfdc2e758e6a5f63da1a02f2e1e4903b18b6215b821b3e10324",
+  "applicantAddress": "0xC48f0a509f8D7ef050022a78Df5FeFA0fC3a2FEb"
+}

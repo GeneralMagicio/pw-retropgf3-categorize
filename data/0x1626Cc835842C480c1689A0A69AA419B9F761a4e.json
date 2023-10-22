@@ -1,0 +1,90 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://aw.house/",
+  "bio": "Autonomous World Ecosystem for builders by @komorebi8888. Running Hacker houses, Hackathon, Grant Programs, World Studio(α)",
+  "contributionDescription": "Komorebi has already put 150K personal funds into organizing AW House project (hacker house, grant program, hackathon, R＆D lab). Komorebi has teams/communities committed to it. AW is a new space that if incubated well, could find a unique home on Optimism even more than it does today.\n\nAW is a tight-knit group of devs. And Komorebi was able to give feedback to the collective on what is needed technically to make it better. With this feedback, Optimism could make changes so onchain gaming can prosper even more. \n\nKomorebi was able to connect selected AW builders to Kevin and Binji from Optimism. and have been sharing Autonomous World space information. \n\nBuilt OSS onchain hackathon protocol for the autonomous world on Optimism. The first onchain AW hackathon is going to be held on Oct 27-29",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x8ed19bba186c3aec473b29cbff2da18599cd0864",
+      "description": "OSS Onchain hackathon protocol that utilizes MUD on Optimism. For AW space"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/aw-labs/mud-hackathon",
+      "description": "OSS Onchain hackathon protocol that utilizes MUD on Optimism. For AW space"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://awhack.xyz/",
+      "description": "OSS Onchain hackathon protocol main website"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://komorebi88.notion.site/AW-Hack-doc-e82110e8c392409aadc3f5bee09239fc",
+      "description": "OSS Onchain hackathon protocol doc"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://aw.house/awhack202310",
+      "description": "ONLINE MINI AW HACKATHON #1 2023.10.27 - 10.29 webside"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/Komorebi8888/status/1647949252096839680?s=20",
+      "description": "Komorebi's hacker house in Japan for autonomous world builders"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/Komorebi8888/status/1684936247406432256?s=20",
+      "description": "Komorebi's hacker house in Paris for autonomous world builders"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/komorebihack/status/1704519099437695137?s=20",
+      "description": "Komorebi's hacker house in Istanbul for autonomous world builders (*Nov 2023)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://aw.house/grants/awmud",
+      "description": "AW MUD Grant 50K from Komorebi's pocket. Autonomous world + MUD builders Grant."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://aw.house/grants/aw-impact-grants",
+      "description": "AW MUD Grant 50K+ from Komorebi's pocket. "
+    }
+  ],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
+  "impactDescription": "There are some projects.\n-Hackathon: Gave opportunity to develop and share knowledge\n-Hacker House: Made Schelling points for niche autonomous worlds/fully onchain game builders, researchers, and players.\n-AW Grant: Boosted projects in this space. Support them to move forward quickly. \n-AW UBI: Supported public good builders.  \n-R＆D: Showed different angles and innovative signals for builders. \n-Optimism: Kamigochi team switched to Optimism from Kanto after attending hacker house. And Komorebi connected them to Optimism member. Probably, Gaul would choose Optimism after Hacker House. ",
+  "impactMetrics": [
+    {
+      "description": "Impact spreadsheet ",
+      "number": 15,
+      "url": "https://docs.google.com/spreadsheets/d/1otx1HAWOoOGwm1iAf1p0NNjcGRruYyCBiDFCja2ZT0M/edit?usp=sharing"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 35000,
+      "description": "Cycle 15 builders fund"
+    }
+  ],
+  "payoutAddress": "0x1626Cc835842C480c1689A0A69AA419B9F761a4e",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "AW House/Komorebi's Hacker House",
+  "applicantName": "AW HOUSE",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x1626Cc835842C480c1689A0A69AA419B9F761a4e.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x1626Cc835842C480c1689A0A69AA419B9F761a4e.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x1626Cc835842C480c1689A0A69AA419B9F761a4e.json",
+  "RPGF3_Application_UID": "0x83acb708e662400cbe8f8e9ec313f26d40e78e789577bce3e895d16eea8b5fbc",
+  "applicantAddress": "0x1626Cc835842C480c1689A0A69AA419B9F761a4e"
+}

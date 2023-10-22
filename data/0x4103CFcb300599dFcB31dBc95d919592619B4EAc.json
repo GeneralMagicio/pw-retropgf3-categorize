@@ -1,0 +1,43 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://twitter.com/Teacup507",
+  "bio": "let go",
+  "contributionDescription": "I learned about Op quite late. In recent times OP has made great strides, especially in issues such as processing speed and transaction fees. As someone who regularly trades on OP, I feel very satisfied about this. Hope you will improve more and more!",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x4103CFcb300599dFcB31dBc95d919592619B4EAc",
+      "description": "Txns"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "I learned about Op quite late. In recent times OP has made great strides, especially in issues such as processing speed and transaction fees. As someone who regularly trades on OP, I feel very satisfied about this. Hope you will improve more and more!",
+  "impactMetrics": [
+    {
+      "description": "Txns",
+      "number": 717,
+      "url": "https://optimistic.etherscan.io/address/0x4103CFcb300599dFcB31dBc95d919592619B4EAc"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 50,
+      "description": "0x4103CFcb300599dFcB31dBc95d919592619B4EAc"
+    }
+  ],
+  "payoutAddress": "0x4103CFcb300599dFcB31dBc95d919592619B4EAc",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "brianha",
+  "applicantName": "brianha",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x4103CFcb300599dFcB31dBc95d919592619B4EAc.json",
+  "RPGF3_Application_UID": "0x500f36518b3ab46aeca104132392ffd6d804a238baa5418435614ab442d13311",
+  "applicantAddress": "0x4103CFcb300599dFcB31dBc95d919592619B4EAc"
+}

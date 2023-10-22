@@ -1,0 +1,77 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://twitter.com/ruslan_klinkov",
+  "bio": "Optimist, IT specialist, master's degree in financial economics. I have a blog about cryptocurrency on YouTube and Telegram. \n",
+  "contributionDescription": "I'm part of the ambassador program and super ambassador role holder in Optimism discord. \n\n1) The main contribution I've made recently is my work in the retroPGF bounty program on Thrivecoin. My task as a super ambassador was to verify the participants' contributions. I was the most active ambassador who checked more than 1000 participants' bounties and actively participated in adding/editing tasks. I also detected the sybill attack by dishonest ambassadors and prevented them from getting points for their contributions. It was a lot of work as more than 8000 participants' contributions were sent. \n\n2)  The second most important work I've done recently - is a popularize delegating OP tokens to CIS community . I am an active voting delegate and have attracted 114 users and 7227 OP tokens.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://app.thrivecoin.com/communities/thank-optimism",
+      "description": "retroPGF bounty program on Thrivecoin leaderboard (3rd place)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://vote.optimism.io/delegate/suckmydiscoteque.eth",
+      "description": "my delegate account on Optimism Agora."
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "\nI have a YouTube channel and a Telegram channel where I've been talking about Optimism since November 2021. In my Telegram channel I actively talk about Optimism events, popularize the ambassadors program and actively promote the idea of token delegation. In total, I've made over 50 publications about Optimism with a reach of over 70,000 views. Here are some links to publications where I talk about token delegation and organize a raffle of 250 OP tokens among my community\nLinks:\n1) My telegram post about OP token delegation (for CIS community) \n2) My telegram post about the 250 OP raffle\n3) Next links to significant publications about Optimism",
+  "impactMetrics": [
+    {
+      "description": "views",
+      "number": 2587,
+      "url": "https://t.me/ruslan_klinkov/1166"
+    },
+    {
+      "description": "views",
+      "number": 2351,
+      "url": "https://t.me/ruslan_klinkov/1284"
+    },
+    {
+      "description": "views",
+      "number": 1837,
+      "url": "https://t.me/ruslan_klinkov/1130"
+    },
+    {
+      "description": "views",
+      "number": 2015,
+      "url": "https://t.me/ruslan_klinkov/1118"
+    },
+    {
+      "description": "views",
+      "number": 2366,
+      "url": "https://t.me/ruslan_klinkov/1170"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 1411.91,
+      "description": "rewards for ambassador activities"
+    },
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 762.07,
+      "description": "rewards for translation of articles, informational materials, etc"
+    }
+  ],
+  "payoutAddress": "0xC3e8aC233f02d13C1E299e47aE230C205E0177Ed",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "ruslanklinkov",
+  "applicantName": "ruslanklinkov",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xC3e8aC233f02d13C1E299e47aE230C205E0177Ed.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xC3e8aC233f02d13C1E299e47aE230C205E0177Ed.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xC3e8aC233f02d13C1E299e47aE230C205E0177Ed.json",
+  "RPGF3_Application_UID": "0xe5caec525a57cf728ac3c3bc5d00814e036b46d54863affd671ee9475aee3185",
+  "applicantAddress": "0xC3e8aC233f02d13C1E299e47aE230C205E0177Ed"
+}

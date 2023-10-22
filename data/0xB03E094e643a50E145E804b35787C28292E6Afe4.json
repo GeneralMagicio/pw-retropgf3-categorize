@@ -1,0 +1,91 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://www.web3xplorer.com/",
+  "bio": "We’re making it as simple as possible for all web3 users, whether they’re old hands or total newbies, to explore web3 with our web application, Web3xplorer.",
+  "contributionDescription": "Web3 newcomers often face challenges finding the right tools, prompting questions like \"Which wallet is best?\" or \"How do I bridge funds on Optimism?\". We built Web3xplorer in response—a free web3 directory cataloging 900+ apps on Ethereum, Optimism, Base, and other layer 2s. For each app, we've highlighted 3 to 5 of its most prominent features, along with a detailed overview, FAQs, social handles & links.\n\nOur directory, segmented into 50+ categories, offers a built-in search engine, advanced filters, and sorting. It's extremely fast and user-friendly. We also have a blog that demystifies Optimism with ten in-depth and long-form articles.\n\nWe've poured significant time and effort into Web3xplorer. Since its launch in June 2023, it's been actively serving the community and growing fast.\n",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://www.web3xplorer.com",
+      "description": "Web3xplorer Web App"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://gamma.app/public/Web3xplorer-Pitch-mcd1l3obbb45rm5",
+      "description": "Web3xplorer Pitch deck"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "We started Web3xplorer in October 2022 and launched in June 2023. Since then, user engagement has surged, with more than 1,350 visitors spending collectively 68 hours on our site just last month.\n\nOur influence extends beyond just our platform. We've been featured in newsletters like TheRunDownAI, Bytebrief, and community projects like the Optimistic Reservoir. Platforms including AlternativeTo, SideProjectors, SaasHub, and especially ProductHunt, where we hit '#6 product of the day' with 265+ upvotes, amplified our visibility. This has enabled us to effectively engage with audiences beyond the core web3 community.\n\nThe positive feedback we continue to receive from our users speaks volumes about the value we offer, all while keeping the service completely free.",
+  "impactMetrics": [
+    {
+      "description": "Number of apps listed",
+      "number": 894,
+      "url": "https://www.web3xplorer.com/apps"
+    },
+    {
+      "description": "Number of apps listed on Optimism",
+      "number": 245,
+      "url": "https://www.web3xplorer.com/blockchains/optimism"
+    },
+    {
+      "description": "Number of articles on Optimism",
+      "number": 10,
+      "url": "https://www.web3xplorer.com/blog"
+    },
+    {
+      "description": "Number of Visitors (Last 28 Days)",
+      "number": 1381,
+      "url": "https://docs.google.com/spreadsheets/d/1eH6TOWcLRqD6n3z4kJkj6aanj2w3oLRMpUEYbZhtNBs/edit?usp=sharing"
+    },
+    {
+      "description": "Total Hours Spent (Last 28 Days)",
+      "number": 68.91,
+      "url": "https://docs.google.com/spreadsheets/d/1eH6TOWcLRqD6n3z4kJkj6aanj2w3oLRMpUEYbZhtNBs/edit?usp=sharing"
+    },
+    {
+      "description": "Average Session Duration (in min)",
+      "number": 2.99,
+      "url": "https://docs.google.com/spreadsheets/d/1eH6TOWcLRqD6n3z4kJkj6aanj2w3oLRMpUEYbZhtNBs/edit?usp=sharing"
+    },
+    {
+      "description": "Average Actions Per Visitor",
+      "number": 2.39,
+      "url": "https://docs.google.com/spreadsheets/d/1eH6TOWcLRqD6n3z4kJkj6aanj2w3oLRMpUEYbZhtNBs/edit?usp=sharing"
+    },
+    {
+      "description": "Media features",
+      "number": 4,
+      "url": "https://maxservais.notion.site/Web3xplorer-media-features-ffce771392a44986b44d9bc7d447a49e?pvs=25"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 18000,
+      "description": "Mission Proposal grant of 18,000 OP will be disbursed in September 2024."
+    },
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 0,
+      "description": "We are self-funded and we generate no revenue from Web3xplorer."
+    }
+  ],
+  "payoutAddress": "0x376229C26a903647B0bd0411530cbD5787AcF50d",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Web3xplorer",
+  "applicantName": "Maxime Servais",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xB03E094e643a50E145E804b35787C28292E6Afe4.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xB03E094e643a50E145E804b35787C28292E6Afe4.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xB03E094e643a50E145E804b35787C28292E6Afe4.json",
+  "RPGF3_Application_UID": "0x00bd68443effbeca73ae1cace46556beb5ab69b02d7aedc1706ad2a1b4693c09",
+  "applicantAddress": "0xB03E094e643a50E145E804b35787C28292E6Afe4"
+}

@@ -1,0 +1,89 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://www.karmahq.xyz",
+  "bio": "My name is Mahesh Murthy, I am the founder of Karma. Software dev by profession, have been building in crypto space since 2017. I love building 0 - 1 products.",
+  "contributionDescription": "We have contributed to Optimism by building a no. of products/tools for the collective and larger web3 community on top of Optimism\n\n1. Delegate Dashboard - We have indexed 1.5k delegates and their activity on forum and off/on chain voting system and is being updated daily. It's used to hold delegates accountable, improve visibility and help tokenholders discover candidates.\n\n2. Onchain DAO Delegate Registry - Delegate info is scattered across different gov. frontends. To solve this, we built an onchain registry of delegates on Optimism to store all delegate info. \n\n3. Karma GAP (Grantee Accountability Protocol) - It's difficult for community to keep track of grantees and their progress. We built protocol on Optimism+EAS to help grantees post updates, hold them accountable and build rep. ",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://optimism.karmahq.xyz/",
+      "description": "Displays delegates and stats. Also contains delegate and delegator lookup pages."
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/show-karma/dao-delegates-app",
+      "description": "Fully customizable, whitelabel support code of the delegate app"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.delegateregistry.xyz/",
+      "description": "Onchain registry of delegates across DAO ecosystem stored on Optimism."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://gap.karmahq.xyz/",
+      "description": "Karma GAP application to let grantees post milestone updates."
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/show-karma/gap-contracts",
+      "description": "Smart contracts for GAP"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "The impact of the products and tools we have built are:\n \n1. Delegate dashboard: It is primarily used for looking up detailed activity metrics. No other tool aggregates activity across voting systems and forum. Delegates on Optimism forum regularly post their Karma's profile link to show their activity.\n\n2. DAO Delegate Registry: Karma has already integrated the Delegate Registry into all our dashboards for various DAOs. Delegates across different DAOs are starting to register their information onchain.\n\n3. Karma GAP - We soft launched GAP and grantees are starting to post milestone updates onchain.",
+  "impactMetrics": [
+    {
+      "description": "Dashboard Page Views",
+      "number": 60000,
+      "url": "https://i.ibb.co/F4QvXKz/Screen-Shot-2023-10-20-at-1-16-11-PM.png"
+    },
+    {
+      "description": "Delegates Indexed",
+      "number": 1500,
+      "url": "https://optimism.karmahq.xyz/"
+    },
+    {
+      "description": "Onchain registry delegates",
+      "number": 30,
+      "url": "https://optimistic.etherscan.io/address/0xd17206ec4d268d0e55bb08a369b6864f1178b81d#events"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 25000,
+      "description": "Build Optimism Delegate Dashboard"
+    },
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 50000,
+      "description": "Build DAO Delegate Registry (Tokens locked till April 2024)"
+    },
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 30000,
+      "description": "Build Grantee Accountability Protocol (Tokens locked till August 2024)"
+    }
+  ],
+  "payoutAddress": "0xC98786D5A7a03C1e74AffCb97fF7eF8a710DA09B",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Karma",
+  "applicantName": "Karma",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7916Dba3A610B020d77c0CCFd4Bd717ee400A5f2.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x7916Dba3A610B020d77c0CCFd4Bd717ee400A5f2.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x7916Dba3A610B020d77c0CCFd4Bd717ee400A5f2.json",
+  "RPGF3_Application_UID": "0xfdb45ad951e4e219798dfcc58f2cacfe4be7466de58af866ff0d3d10f2d311f9",
+  "applicantAddress": "0x7916Dba3A610B020d77c0CCFd4Bd717ee400A5f2"
+}

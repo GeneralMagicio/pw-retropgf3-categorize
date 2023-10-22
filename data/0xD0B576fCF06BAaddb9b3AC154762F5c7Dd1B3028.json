@@ -1,0 +1,48 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://twitter.com/Gomkt007",
+  "bio": " Very cool team , Optimism",
+  "contributionDescription": "great progress has been shown! went perfectly thanks to a great team, I am very enthusiastic and want to continue to be a part of this community. providing feedback and input to the team, related to the products made is important for us together later. I love all the features that are here .",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/Gomkt007",
+      "description": "Very team "
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "great progress has been shown! went perfectly thanks to a great team, I am very enthusiastic and want to continue to be a part of this community. providing feedback and input to the team, related to the products made is important for us together later. I love all the features that are here ",
+  "impactMetrics": [
+    {
+      "description": "#gomadop",
+      "number": 170793,
+      "url": "https://twitter.com/Gomkt007"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 100,
+      "description": "Very cool"
+    }
+  ],
+  "payoutAddress": "0xD0B576fCF06BAaddb9b3AC154762F5c7Dd1B3028",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Gomadop",
+  "applicantName": "Gomadop",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xD0B576fCF06BAaddb9b3AC154762F5c7Dd1B3028.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xD0B576fCF06BAaddb9b3AC154762F5c7Dd1B3028.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xD0B576fCF06BAaddb9b3AC154762F5c7Dd1B3028.json",
+  "RPGF3_Application_UID": "0x2c2521333151e44af4cfc7d9c25c439d2f7d28162bb8df81571b8b787da4da0e",
+  "applicantAddress": "0xD0B576fCF06BAaddb9b3AC154762F5c7Dd1B3028"
+}

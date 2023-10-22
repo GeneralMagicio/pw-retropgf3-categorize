@@ -1,0 +1,80 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://www.cryptosquare.be/",
+  "bio": "The go-to Web3 hub in Belgium and Luxembourg 🚀 Uniting & accelerating Web3 projects via top-notch events: +25 events +50 speakers +2500 attendees +3 yrs old\n\n",
+  "contributionDescription": "Cryptosquare is the first Web3 community in Belgium and Luxembourg, and a significant force in Francophone Europe.\n\nOver the past 3 years, we've organized more than 25 FREE events, featuring over 50 renowned speakers and attracting a crowd of 2500+ enthusiasts.\n\nOur Brussels and Luxembourg events focus on spotlighting various Web3 projects with goals like high-quality networking and connecting startups with investors.\n\nOur speaker lineup includes big names in DeFi, DAOs, and NFTs like : AAVE (Marc Zeller), \nAngle Protocol (Guillaume Nervo), Snapshot (Scott Piriou), Kraken (Alix Bouxaguet), Hasheur (Owen Simonin), Ambassador Salvador (Hugo Ortiz), ...\n\nWe are a dedicated team of +10 unpaid volunteers, fully committed to making Cryptosquare the vibrant community it is today.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://www.cryptosquare.be/",
+      "description": "Our website"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.cryptosquare.be/aperos-web3-bruxelles",
+      "description": "Our events"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://docs.google.com/document/d/1agqLJ56kzosyktx-SZqT8GlavQtKNRPp-yRZwuInJ3s/edit?usp=sharing",
+      "description": "About us and Optimism"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "With 3 years under our belt, we've organized over 25 major events, hosted 50+ renowned speakers, and attracted more than 2500 visitors. What's more, 70% of these visitors are repeat attendees, attesting to the quality and relevance of our events.\n\nBut it's not just about numbers. Projects have been created and launched and people have found jobs through networking at our events. \n\nCryptosquare has been entirely self-funded and independent for the past 3 years. Our events have always been free for participants, without external grants or funding. ",
+  "impactMetrics": [
+    {
+      "description": "Years of existence",
+      "number": 3,
+      "url": "https://docs.google.com/presentation/d/1GBeqPDl7Yl2OTiG1_Oj4wJVu5_WpkE56VISbGaD_F-Q/edit?usp=sharing"
+    },
+    {
+      "description": "Events organized",
+      "number": 25,
+      "url": "https://docs.google.com/presentation/d/1GBeqPDl7Yl2OTiG1_Oj4wJVu5_WpkE56VISbGaD_F-Q/edit?usp=sharing"
+    },
+    {
+      "description": "Speakers invited",
+      "number": 50,
+      "url": "https://docs.google.com/presentation/d/1GBeqPDl7Yl2OTiG1_Oj4wJVu5_WpkE56VISbGaD_F-Q/edit?usp=sharing"
+    },
+    {
+      "description": "Visitors",
+      "number": 2500,
+      "url": "https://docs.google.com/presentation/d/1GBeqPDl7Yl2OTiG1_Oj4wJVu5_WpkE56VISbGaD_F-Q/edit?usp=sharing"
+    },
+    {
+      "description": "Projects launched",
+      "number": 20,
+      "url": "https://docs.google.com/presentation/d/1GBeqPDl7Yl2OTiG1_Oj4wJVu5_WpkE56VISbGaD_F-Q/edit?usp=sharing"
+    },
+    {
+      "description": "Email addresses",
+      "number": 2000,
+      "url": "https://docs.google.com/presentation/d/1GBeqPDl7Yl2OTiG1_Oj4wJVu5_WpkE56VISbGaD_F-Q/edit?usp=sharing"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 10000,
+      "description": "We sold membership NFTs to unlock additional benefits e.g at our events"
+    }
+  ],
+  "payoutAddress": "0xFA69D3739D3A06Ea9317e18E21963b19367D2f15",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Cryptosquare",
+  "applicantName": "Cryptosquare",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xFA69D3739D3A06Ea9317e18E21963b19367D2f15.jpeg",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xFA69D3739D3A06Ea9317e18E21963b19367D2f15.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xFA69D3739D3A06Ea9317e18E21963b19367D2f15.json",
+  "RPGF3_Application_UID": "0xa4f5f97064e5ebdc97591521be056a911731925f81c694ed0bc84f6fc1b7ddea",
+  "applicantAddress": "0xFA69D3739D3A06Ea9317e18E21963b19367D2f15"
+}

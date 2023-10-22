@@ -1,0 +1,39 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://twitter.com/aokijiikuzann",
+  "bio": "JPEG Collector | NFT Enthusiast | Full Time Degenerate | Using web3 | Digital Asset Investor | Not Financial Advice | Do your own research.",
+  "contributionDescription": "I hope this message finds you well. I am Angga, and I am deeply interested in the advancements and solutions that Optimistic Ethereum brings to the Ethereum ecosystem. With my expertise and passion in community engagement, I am eager to contribute to the Optimism project.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x97746acad994ce94367d705e9ba51b34c7747860",
+      "description": "Badgeholders can view my contributions on my on-chain contract."
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "Through targeted marketing campaigns, collaborations, and the introduction of user-friendly tutorials, I played an instrumental role in increasing the user base of the Optimism platform in the last quarter. Feedback loops were also established to ensure continuous user engagement and feedback.",
+  "impactMetrics": [
+    {
+      "description": "Optimism Contract ",
+      "number": 1,
+      "url": "https://optimistic.etherscan.io/address/0x97746acad994ce94367d705e9ba51b34c7747860"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x97746acad994CE94367D705E9ba51B34C7747860",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Angga",
+  "applicantName": "Angga",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x97746acad994CE94367D705E9ba51B34C7747860.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x97746acad994CE94367D705E9ba51B34C7747860.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x97746acad994CE94367D705E9ba51B34C7747860.json",
+  "RPGF3_Application_UID": "0x2be81a83e5ebcef41d958c239871af88620f05aa7e71c7e48880abc04107421b",
+  "applicantAddress": "0x97746acad994CE94367D705E9ba51B34C7747860"
+}

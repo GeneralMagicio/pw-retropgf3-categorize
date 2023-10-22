@@ -1,0 +1,36 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://x.com/BuddyOP2000",
+  "bio": "Long time OP holder, crypto educater. I have increased active OP users through my Twitter/X channel, educating people about crypto, and OP. ~Steve ",
+  "contributionDescription": "Long time OP holder/governance participant, crypto educater. I have increased active OP users through my Twitter/X channel, Educating people about crypto, and OP through my Twitter/X channel. I participate in OP governance through delagation. I also regularly speak about virtues of OP in daily life, and promote it anyway I can. ~Steve",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://x.com/BuddyOP2000",
+      "description": "Steve L's Crypto/OP channel "
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "Long time OP holder/governance participant, crypto educater. I have increased active OP users through my Twitter/X channel, Educating people about crypto, and OP through my Twitter/X channel. I participate in OP governance through delagation. I also regularly speak about virtues of OP in daily life, and promote it anyway I can. ~Steve",
+  "impactMetrics": [
+    {
+      "description": "https://x.com/BuddyOP2000",
+      "number": 12000,
+      "url": "https://x.com/BuddyOP2000"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0xa94449C83D17B78A2c88214b8eB7Bd854e2D7204",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Steve L",
+  "applicantName": "Steve L",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xa94449C83D17B78A2c88214b8eB7Bd854e2D7204.json",
+  "RPGF3_Application_UID": "0xeabed1ce31243a30bc58084373d65957a54ef727040d235c4d95e0d68feeea1c",
+  "applicantAddress": "0xa94449C83D17B78A2c88214b8eB7Bd854e2D7204"
+}

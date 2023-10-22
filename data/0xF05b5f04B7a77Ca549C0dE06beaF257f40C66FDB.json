@@ -1,0 +1,55 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://daimo.xyz",
+  "bio": "Daimo is a stablecoin payments app on Base (OP Stack). We are building more secure self-custody wallet using Account Abstraction and hardware-bound passkeys.",
+  "contributionDescription": "We've developed the first audited, production-ready P256Verifier smart contract. Our open-source implementation has enabled developers to create better UX for secure self-custody on Optimism and Ethereum-equivalent L2s more broadly.\n\nP256 ECDSA signatures are available on a wide variety of consumer cryptosystems including Yubikey, Apple's Secure Enclave, the Android Keystore, passkeys, and WebAuthn. This makes P256 signature verification especially useful for smart-contract wallets, enabling hardware-based signing keys and safer, easier self-custody.\n\nSee our blog post (https://daimo.xyz/blog/p256verifier) for a more complete description of the features and under-the-hood details of the verifier.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/daimo-eth/p256-verifier",
+      "description": "Open-source MIT Licensed implementation"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://p256.eth.limo",
+      "description": "Website for developers with detailed deep dive blog"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xc2b78104907F722DABAc4C69f826a522B2754De4",
+      "description": "OP Mainnet deployment"
+    }
+  ],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "The verifier enables secure and friendly self-custody for contract wallets, starting with our own open-source wallet, Daimo.\n\nWe improved the precompile proposal EIP-7212 (https://eips.ethereum.org/EIPS/eip-7212) based on our learnings from P256Verifier and are co-authors. P256Verifier is also the reference implementation for our progressive precompiles idea (https://ethereum-magicians.org/t/prog/14821) for smoother precompile adoption on L2, both for 7212 and more broadly.\n\nWe’ve inspired multiple third party implementations in the developer community, including one in Huff: https://x.com/AmadiMichaels/status/1714418083186548910 and in Vyper: https://x.com/pcaversaccio/status/1713591896763679155",
+  "impactMetrics": [
+    {
+      "description": "# of GitHub stars",
+      "number": 59,
+      "url": "https://github.com/daimo-eth/p256-verifier"
+    },
+    {
+      "description": "# of Twitter likes",
+      "number": 135,
+      "url": "https://x.com/daimo_eth/status/1711848937748132034"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0xEEee8B1371f1664b7C2A8c111D6062b6576fA6f0",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "P256Verifier",
+  "applicantName": "Nalin",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xF05b5f04B7a77Ca549C0dE06beaF257f40C66FDB.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xF05b5f04B7a77Ca549C0dE06beaF257f40C66FDB.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xF05b5f04B7a77Ca549C0dE06beaF257f40C66FDB.json",
+  "RPGF3_Application_UID": "0x6752ee31f5e09caedd68da815fc684456bca90ffa4336fd021180f91ef5ac85a",
+  "applicantAddress": "0xF05b5f04B7a77Ca549C0dE06beaF257f40C66FDB"
+}

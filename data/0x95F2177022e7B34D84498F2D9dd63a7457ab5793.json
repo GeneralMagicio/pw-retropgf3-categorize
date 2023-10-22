@@ -1,0 +1,48 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://unitap.app",
+  "bio": "An onboarding tool where new users go from zero to being on-chain crypto users without any cost to them.",
+  "contributionDescription": "1. Gas Tap: Unique humans can obtain a tiny amount of gas tokens on almost all the major EVM networks to start using the network.\nWe deployed & funded Gas Tap on Optimism. 2000+ drips of gas have been claimed on the Optimism Gas Tap. Furthermore, It's a community-based product, and everyone can fund it.\n\n2. Prize Tap is where people can create raffles and gate them with the requirements they want.\n\n3. Token Tap is where anyone can distribute any kind of tokens gated by the requirements they wish.\n\nWe deployed both Token Tap and Prize Tap contracts on Optimism Network. We set a token distribution for 0.1 OP to the first 1000 unique users who claimed ETH on OP from Gas Tap. Also, we created a raffle with 100 OP as the Prize and any unique users who claimed ETH on OP from Gas Tap.\n",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xb3a97684eb67182baa7994b226e6315196d8b364",
+      "description": "Gas Tap contract"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "Thousands of unique users have claimed gas from the Optimism Gas Tap to use the Optimism Network. It makes it so easy for everyone to obtain the gas token they need to use the Optimism network.\n\nWe ran an incentive program on Token Tap of 100 OP for 1000 people who claimed ETH on Gas Tap as a Proof of Concept on how Token Tap can be used to reward users onchain activities in the Optimism network.\n\nAs we deployed our Token Tap and Prize Tap contracts on Optimism Network, Now everyone can use Unitap and distribute any kind of tokens (UBI, governance, NFTs, etc.) on Optimism, as well as creating raffles on Optimism.",
+  "impactMetrics": [
+    {
+      "description": "Optimism total claims on Gas Tap",
+      "number": 2239,
+      "url": "https://unitap.app/gas-tap?hc=optimism"
+    },
+    {
+      "description": "Unique users (BrightID) claimed ETH",
+      "number": 1600,
+      "url": "https://optimistic.etherscan.io/address/0xb3a97684eb67182baa7994b226e6315196d8b364"
+    },
+    {
+      "description": "ETH distributer through OP Gas Tap",
+      "number": 0.25,
+      "url": "https://optimistic.etherscan.io/address/0xb3a97684eb67182baa7994b226e6315196d8b364"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x95F2177022e7B34D84498F2D9dd63a7457ab5793",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Unitap",
+  "applicantName": "Unitap",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x95F2177022e7B34D84498F2D9dd63a7457ab5793.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x95F2177022e7B34D84498F2D9dd63a7457ab5793.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x95F2177022e7B34D84498F2D9dd63a7457ab5793.json",
+  "RPGF3_Application_UID": "0xc78afe7a4a3aaf340019f64347ce65e64f25561a51df131670a2cc7c88075905",
+  "applicantAddress": "0x95F2177022e7B34D84498F2D9dd63a7457ab5793"
+}

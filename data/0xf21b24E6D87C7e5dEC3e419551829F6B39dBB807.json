@@ -1,0 +1,128 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://www.proofofintegrity.org",
+  "bio": "I'm Proof of Integrity's Executive Director, focused on digital inclusion via blockchain education in underprivileged Latin American communities. ",
+  "contributionDescription": "1. Educational Outreach: Through our #aPRENDOcripto program, we’ve educated over 330 individuals across 9 cities in 3 countries (Argentina, Uruguay, and Honduras) about blockchain and Optimism. We provide hands-on experience within vulnerable communities, directly contributing to Optimism's user base growth and diversity.\n\n2. #comunidadAPRENDO: Provides ongoing support and learning within the Optimism ecosystem for our graduates.\n\n3. #criptoIMPULSO: We've created a ‘learn2earn’ program that provides financial incentives on Optimism.\n\n4. Showcase: Organized and will continue to host RetroPGF Projects Showcases to spotlight Optimism projects.\n\n5. Governance: We delegated our RPGF 2 tokens' voting power to enhance Optimism's governance.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://drive.google.com/file/d/12PMGIWbJTWpdHHbrzasu_5F3n61csBdj/view?usp=drive_link",
+      "description": "Annual Report: Yearly summary of PoI's initiatives and impact."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/proof_integrity/status/1660752550184845316",
+      "description": "#criptoIMPULSO first edition announcement"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/proof_integrity/status/1676354467342450690",
+      "description": "#criptoIMPULSO second edition announcement"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/proof_integrity/status/1702449164351689111",
+      "description": "#criptoIMPULSO third edition announcement"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://discord.com/channels/667044843901681675/972069216343715860/1088264531454730301",
+      "description": "RPGF2 Project Showcase Summary. All recordings and projects that participated."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/watch?v=8shEIahK9H8",
+      "description": "Optimism Governance talk to #comunidadAPRENDO members"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://drive.google.com/drive/folders/1keyYHP8tVS5qljfsFP39LBHtNumBTz-b?usp=sharing",
+      "description": "Photos of an #aPRENDOcripto exercise to make as many transactions in OP Goerli."
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://goerli-optimism.etherscan.io/address/0xae24fc99CB3a32bcF141F680Ee9A0E8E15c3af65",
+      "description": "Example of a winner of our exercise of transfering ETH in OP Goerli"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/proof_integrity/status/1715116592177041896",
+      "description": "Summary of our contributions"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "User Base Growth: Through our #aPRENDOcripto program, we've educated and graduated individuals who are now well-equipped to be active users in the Optimism ecosystem. They not only utilize the platform for their transactions and activities but also become advocates for Optimism within their communities, thereby contributing to the network's organic growth.\n\nEcosystem Diversity: Our outreach in vulnerable communities brings new perspectives into the Optimism ecosystem. By incorporating these diverse viewpoints, Optimism becomes a more adaptable and inclusive platform.\n\nActive Engagement: Our #criptoIMPULSO learn2earn program serves as a catalyst for active interaction with Op. By offering financial incentives through the platform, we provide a real-world use-case for Optimism's solutions. ",
+  "impactMetrics": [
+    {
+      "description": "Number of #aPRENDOcripto Graduates",
+      "number": 329,
+      "url": "https://app.proofofintegrity.org/starknet"
+    },
+    {
+      "description": "Number of #aPRENDOcripto Editions",
+      "number": 24,
+      "url": "https://app.proofofintegrity.org/starknet"
+    },
+    {
+      "description": "Number of #criptoIMPULSO editions",
+      "number": 3,
+      "url": "https://docs.google.com/spreadsheets/d/1GOjG8X_4k8rF3l2EX5uvRd31hhVeQod-k-X3mm3IYQE/edit?usp=sharing"
+    },
+    {
+      "description": "Number #criptoIMPULSO beneficiaries",
+      "number": 28,
+      "url": "https://docs.google.com/spreadsheets/d/1GOjG8X_4k8rF3l2EX5uvRd31hhVeQod-k-X3mm3IYQE/edit?usp=sharing"
+    },
+    {
+      "description": "Number of RPGF Project Showcases edition",
+      "number": 6,
+      "url": "https://docs.google.com/spreadsheets/d/1EU4TfEJtLoO6bGgYTCjVjcVeNNQWGsbrNGgwOIEyxTA/edit?usp=sharing"
+    },
+    {
+      "description": "Number of projects in Showcases",
+      "number": 25,
+      "url": "https://docs.google.com/spreadsheets/d/1EU4TfEJtLoO6bGgYTCjVjcVeNNQWGsbrNGgwOIEyxTA/edit?usp=sharing"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 15732.3,
+      "description": ""
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 45000,
+      "description": "Gitcoin Grants"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 18000,
+      "description": "Ethereum Foundation Grant"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 60000,
+      "description": "2022 Devcon's Quadratic Funding"
+    }
+  ],
+  "payoutAddress": "0x75DeD588d2a4734D0a61B9953A3C4e6C6D00AbC4",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Proof of Integrity",
+  "applicantName": "Tom",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xf21b24E6D87C7e5dEC3e419551829F6B39dBB807.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xf21b24E6D87C7e5dEC3e419551829F6B39dBB807.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xf21b24E6D87C7e5dEC3e419551829F6B39dBB807.json",
+  "RPGF3_Application_UID": "0x5424b84ed62bd518ea01407d33431174c8026f935d64e33ae88abae3f7b2d943",
+  "applicantAddress": "0xf21b24E6D87C7e5dEC3e419551829F6B39dBB807"
+}

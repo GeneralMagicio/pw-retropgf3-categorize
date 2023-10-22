@@ -1,0 +1,58 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://www.hifromcrew.com/",
+  "bio": "I'm a curious and optimistic founder focused on making web3 useable for business",
+  "contributionDescription": "I'm building a platform to help businesses use Farcaster. In service of this I've interviewed over 50 companies on farcaster to learn what would help them use it more. During that time I worked on a UI prototype that I iterated on after each call to take in their feedback.\n\nI also hosted a podcast interviewing builders on Farcaster. Finally I hosted a meetup for Farcaster builders in SF and over 30 people attended.  ",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://www.eventcaster.xyz/users/mcbain?tab=events",
+      "description": "List of events I held for the farcaster community. Both online and IRL"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.hifromcrew.com/posts/Introducingcrew",
+      "description": "The description of what I'm building for farcaster"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://app.uizard.io/p/5d0ad508",
+      "description": "The UI prototype I've  used to show companies using farcaster"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "Doing the research and design work to build a better business interface for Farcaster brings us one step closer to making B2B all happen onchain. \n\nOrganizing meetups and hosting podcasts about Farcaster helped to strengthen the community in the early days. ",
+  "impactMetrics": [
+    {
+      "description": "Companies Interviewed ",
+      "number": 50,
+      "url": "https://www.hifromcrew.com/posts/whycrew"
+    },
+    {
+      "description": "Listeners",
+      "number": 20,
+      "url": "https://www.eventcaster.xyz/users/mcbain?tab=events"
+    },
+    {
+      "description": "Meetup attendees",
+      "number": 35,
+      "url": "https://www.eventcaster.xyz/events/d5de871f-675a-4610-8f7f-5570945bf30b"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x2271fe6D76ab94352eF826d97445048Bd8C4d45F",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Crew",
+  "applicantName": "Graham McBain",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2271fe6D76ab94352eF826d97445048Bd8C4d45F.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x2271fe6D76ab94352eF826d97445048Bd8C4d45F.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x2271fe6D76ab94352eF826d97445048Bd8C4d45F.json",
+  "RPGF3_Application_UID": "0x60702a8f35211d0ecabd3eff3405b915fc062b58e609e58e180ccd96cb600b6f",
+  "applicantAddress": "0x2271fe6D76ab94352eF826d97445048Bd8C4d45F"
+}

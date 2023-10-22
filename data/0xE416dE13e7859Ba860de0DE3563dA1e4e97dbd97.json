@@ -1,0 +1,105 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://twitter.com/vandynathan",
+  "bio": "Technology for good is the mission. Currently heading decentralization at DappRadar while phding in Blockchain Law and Governance at Paris II University.",
+  "contributionDescription": "The team at DappRadar has supported Optimism into its platform since March 2022 by integrating the Optimism chain on rankings pages. Any Optimism dapp developer can list their dapps on DappRadar to showcase their activity to DappRadar’s blockchain-educated audience. This allows users to discover new Optimism dapps and identify the next project to use and invest in, educating and bridging DappRadar users into the Optimism ecosystem. \nAdditionally, DappRadar has made more integrations and support for Optimism Collective dapps by integrating the biggest Superchain - Base in August 2023, providing even more insights to users. On top of that, the team at DappRadar created numerous pieces of content to highlight positive Optimism activity within the dapp industry.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://dappradar.com/rankings/protocol/optimism",
+      "description": "Tracking and ranking of all Optimism dapps"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://dappradar.com/rankings/protocol/base",
+      "description": "Tracking and ranking of all Base dapps"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://dappradar.com/rankings/nft/collections/chain/base",
+      "description": "Tracking and ranking Base NFT dapps"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://dappradar.com/rankings/defi/chain/base",
+      "description": "Tracking and ranking Base DeFi dapps"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://dappradar.com/rankings/defi/chain/optimism ",
+      "description": "Tracking and rankings Optimism DeFi dapps"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://dappradar.com/blog/base-dapp-report",
+      "description": " Report comparing Optimism and Base"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://dappradar.com/blog/base-sees-biggest-growth-in-new-dapps-in-august/ ",
+      "description": "Article highlighting Base growth"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://dappradar.com/blog/optimism-defi-on-the-rise-whats-taking-place-there ",
+      "description": "Article highlighting Optimism growth"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://dappradar.com/blog/optimism-data-points-to-layer-2-season",
+      "description": " Guide about Optimism"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://dappradar.com/blog/base-blockchain-guide/",
+      "description": "Guide about Base"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "Optimism and Base developers leverage DappRadar’s 420k monthly unique users to their dapps. DappRadar core audience consists of blockchain experts. Integration has opened up Optimism and Base to the DappRadar community, who use the site as an informational hub for dapp discovery. The in-depth dapp data available on DappRadar, services the needs of existing Optimism users, while also attracting traders and investors from other communities, be it for collecting, playing, or investing.\nIn addition to dapp data, DappRadar provides educational content to its community, the success of which can be seen in the impact metrics below.\n\nNB: pageview and click metrics only include chain-specific searches and do not include numbers for users comparing Optimism/Base to other chains or multichain dapps.\n",
+  "impactMetrics": [
+    {
+      "description": "Pageviews on Optimism section ",
+      "number": 40.248,
+      "url": "https://docs.google.com/spreadsheets/d/1mNjga4cMWYz70756SPusXBYuMU3jVbae_FvaLTwBFf0/edit#gid=88207975"
+    },
+    {
+      "description": "Traffic sent to Optimism dapps",
+      "number": 6.748,
+      "url": "https://docs.google.com/spreadsheets/d/1mNjga4cMWYz70756SPusXBYuMU3jVbae_FvaLTwBFf0/edit#gid=88207975"
+    },
+    {
+      "description": "Pageviews on Base section",
+      "number": 98.816,
+      "url": "https://docs.google.com/spreadsheets/d/1mNjga4cMWYz70756SPusXBYuMU3jVbae_FvaLTwBFf0/edit#gid=0"
+    },
+    {
+      "description": "Traffic sent  to Base dapps",
+      "number": 24.033,
+      "url": "https://docs.google.com/spreadsheets/d/1mNjga4cMWYz70756SPusXBYuMU3jVbae_FvaLTwBFf0/edit#gid=0"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 121800,
+      "description": "For Optimism integration and one-year maintenance on DappRadar rankings pages."
+    }
+  ],
+  "payoutAddress": "0x46896fE996b0E771B22c43e26d94Fe2dACCC027C",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "DappRadar",
+  "applicantName": "vandynathan",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xE416dE13e7859Ba860de0DE3563dA1e4e97dbd97.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xE416dE13e7859Ba860de0DE3563dA1e4e97dbd97.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xE416dE13e7859Ba860de0DE3563dA1e4e97dbd97.json",
+  "RPGF3_Application_UID": "0x1ca89428d9e392a3b1baa84bfb6d6a06b284b20cdfceca1b3c739bf088860a9e",
+  "applicantAddress": "0xE416dE13e7859Ba860de0DE3563dA1e4e97dbd97"
+}

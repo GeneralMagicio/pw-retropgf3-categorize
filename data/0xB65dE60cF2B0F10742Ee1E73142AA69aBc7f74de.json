@@ -1,0 +1,43 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://app.optimism.io/profile/rpgf-application/impact-statement",
+  "bio": "Great",
+  "contributionDescription": "Evrynody greatHighlight metrics to help badgeholders understand your impact. You can link to data dashboards, onchain contracts, spreadsheets, or any resources.This part of your application helps badgeholders understand how your work has benefitted the Optimism Collective. We strongly encourage you spend time going into detail here.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://app.optimism.io/profile/rpgf-application/impact-statement",
+      "description": "12"
+    }
+  ],
+  "impactCategory": [
+    "OP_STACK"
+  ],
+  "impactDescription": "Very strony projectThis part of your application helps badgeholders understand how your work has benefitted the Optimism Collective. We strongly encourage you spend time going into detail here.\nWork that provided impact to governance participants of the Optimism Collective, or helped bring new governance participants into the Collective",
+  "impactMetrics": [
+    {
+      "description": "128 robotyk",
+      "number": 463,
+      "url": "https://app.optimism.io/profile/rpgf-application/impact-statement"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "PARTNER_FUND",
+      "currency": "OP",
+      "amount": 1,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0xb65de60cf2b0f10742ee1e73142aa69abc7f74de",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Gabriel ",
+  "applicantName": "GabrielZygmunt",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xB65dE60cF2B0F10742Ee1E73142AA69aBc7f74de.json",
+  "RPGF3_Application_UID": "0x262452b5c368e43dd22b88f9a75e4c60bb893ed2974e2d8ccaa013bd1fd1d445",
+  "applicantAddress": "0xB65dE60cF2B0F10742Ee1E73142AA69aBc7f74de"
+}

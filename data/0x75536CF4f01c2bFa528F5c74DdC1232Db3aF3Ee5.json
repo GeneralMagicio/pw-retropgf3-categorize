@@ -1,0 +1,72 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://app.charmverse.io/op-grants/page-701220845245208",
+  "bio": "We are the Optimism Grants Council.  There are 9 of us in total and we exist to create a more streamlined and consistent process for everyone.",
+  "contributionDescription": "Season 4 has been an inflection point for the grants program, during which the review process went from a system that worked in theory to a system that is strengthened by practice.\n\nOn average, the Cycles in Season 4 saw a nearly 30% increase in proposals relative to Season 3 Cycles. There were more than 350 total proposals processed by the Grants Council in Season 4, relative to approximately 150 proposals processed in Season 3.\n\nThe Council scaled its process to accommodate the growing demand for Optimism grants. Each sub-committee refined rubrics tailored to the goal of Intent 2 (Innovating on Novel Applications), and the reviewers learned how to provide robust, yet efficient reviews to manage substantial growth.  We also piloted demand-based granting through the RFG program.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://gov.optimism.io/t/cycle-15-final-grants-roundup/6858",
+      "description": "Cycle 15 Final Grants Roundup"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://gov.optimism.io/t/season-4-grants-rfg-roundup/6859",
+      "description": "Season 4 RFG Roundup"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://gov.optimism.io/t/cycle-14-final-grants-roundup/6676",
+      "description": "Cycle 14 Final Grants Roundup"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://gov.optimism.io/t/cycle-13-final-grants-roundup/6454",
+      "description": "Cycle 13 Final Grants Roundup"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
+  "impactDescription": "The council was able to create a more streamlined and consistent process for proposers, set a pace for grant distributions, and define clear expectations for grant applicants.  The council has also been able to create more accountability for grant usage through milestone based tracking and distribution.  Overall, the grants council has reduced the workload of Token House delegates, enabling them to focus their energies on high-impact votes.\n",
+  "impactMetrics": [
+    {
+      "description": "Number of proposals reviewed in season 4",
+      "number": 376,
+      "url": "https://gov.optimism.io/t/cycle-15-final-grants-roundup/6858"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 125000,
+      "description": "5 Base Reviewers - 25,000 each"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 135000,
+      "description": "3 Specialty Managers - 30,000, 1 Lead - 35,000 (+additional 10k btw S3 /S4)"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 20250,
+      "description": "2,250 - per council member for milestones review between S4/S5"
+    }
+  ],
+  "payoutAddress": "0x75536CF4f01c2bFa528F5c74DdC1232Db3aF3Ee5",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Optimism Grants Council",
+  "applicantName": "Optimism Grants Council",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x75536CF4f01c2bFa528F5c74DdC1232Db3aF3Ee5.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x75536CF4f01c2bFa528F5c74DdC1232Db3aF3Ee5.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x75536CF4f01c2bFa528F5c74DdC1232Db3aF3Ee5.json",
+  "RPGF3_Application_UID": "0x838b540d68c0382fe8fac665c678f646bae416bb39be78676ca7977a054ec4b5",
+  "applicantAddress": "0x75536CF4f01c2bFa528F5c74DdC1232Db3aF3Ee5"
+}

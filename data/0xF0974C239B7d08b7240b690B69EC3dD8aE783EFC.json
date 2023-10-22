@@ -1,0 +1,83 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://apetimism.com/launchpad",
+  "bio": "Apetimism Launchpad is a No-Code, Superchain-compatible NFT Launchpad",
+  "contributionDescription": "Apetimism Launchpad is Optimism's top no-code Superchain-compatible NFT Launchpad, simplifying the minting process for countless projects. \n\nKey Features:\n1. Easy NFT Creation: Quick launches for both seasoned and novice creators.\n2. Self-Service Model: Full autonomy and contract ownership for creators.\n3. Reliability & Security: 99.99% uptime with a bot-resistant system.\n4. Customizable Tools: Tailored minting rules and whitelists.\n\nWith about 3,000 NFT projects launched on Optimism, we're steadfast in broadening the ecosystem, championing accessible NFT creation in line with the Optimistic Vision.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://apetimism.com/launchpad",
+      "description": "Website"
+    }
+  ],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "As the Optimism Collective embraced Superchain, our Launchpad expanded from serving only Optimism to all OP stack blockchains.\n\nOur goal: anticipate the rise of NFTs and eliminate technical barriers. Thus, we support blockchains like Base, Zora, and Base Goerli.\n\nImpacts:\n- NFT Owners: We offer a streamlined platform, lowering entry hurdles.\n  \n- Chain Owners: While creating blockchains is eased by OP stack, developing an ecosystem isn't. Our Launchpad bridges this gap, enhancing business opportunities.\n\n- OP Stack: As a \"Superchain-compatible\" launchpad, we rapidly onboard new chains, showcasing OP stack's ecosystem readiness and competitive edge.\n\nIn sum, Apetimism Launchpad enhances accessibility and growth, aligning with the Optimistic Vision and shaping the digital frontier.",
+  "impactMetrics": [
+    {
+      "description": "Number of projects created on Optimism",
+      "number": 2824,
+      "url": "https://apetimism.com/launchpad"
+    },
+    {
+      "description": "Number of projects created on Base",
+      "number": 169,
+      "url": "https://apetimism.com/launchpad"
+    },
+    {
+      "description": "Number of projects created on BaseGoerli",
+      "number": 48214,
+      "url": "https://apetimism.com/launchpad"
+    },
+    {
+      "description": "# Smart contracts deployed on Optimism",
+      "number": 125,
+      "url": "https://apetimism.com/launchpad"
+    },
+    {
+      "description": "# Smart contracts deployed on Base",
+      "number": 67,
+      "url": "https://apetimism.com/launchpad"
+    },
+    {
+      "description": "Number of NFTs minted on Optimism",
+      "number": 65003,
+      "url": "https://apetimism.com/launchpad"
+    },
+    {
+      "description": "Number of NFTs minted on Base",
+      "number": 56192,
+      "url": "https://apetimism.com/launchpad"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 13769.49,
+      "description": ""
+    },
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 2300,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0xCA29F50c585b8dB702c9728D7B2b7F54F8ffA8bB",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Apetimism Launchpad",
+  "applicantName": "Apetimism Launchpad",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xF0974C239B7d08b7240b690B69EC3dD8aE783EFC.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xF0974C239B7d08b7240b690B69EC3dD8aE783EFC.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xF0974C239B7d08b7240b690B69EC3dD8aE783EFC.json",
+  "RPGF3_Application_UID": "0x709f25d1796c2f33da8e7855f600a3ac5d10a1adf55a5a7ad3b1bfc7a71c6db8",
+  "applicantAddress": "0xF0974C239B7d08b7240b690B69EC3dD8aE783EFC"
+}

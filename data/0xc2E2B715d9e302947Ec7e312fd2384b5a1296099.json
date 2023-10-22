@@ -1,0 +1,64 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://gitcoin.co",
+  "bio": "Hello - Kyle here from Gitcoin. I am currently the Executive Director of the Gitcoin Foundation and one of the contributors leading Gitcoin's efforts in market.",
+  "contributionDescription": "Gitcoin builds novel solutions to enable communities to build and fund what matters. This proposal outlines our contributions and requests RPGF funds to continue our impact. Gitcoin has always believed in the power of decentralized communities and the importance of public goods. Our contributions to the Optimism ecosystem include:\n\n- Grants Program: We have funded numerous projects building on or supporting the Optimism ecosystem through our grants program. This has enabled developers and teams to bring their innovative ideas to life, further enriching the Optimism community.\n\n- Knowledge Sharing: Gitcoin has hosted webinars, workshops, and AMA sessions with experts from the Optimism community, spreading knowledge and fostering deeper community engagement.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://gitcoin.co/grants-data ",
+      "description": "Impact details for Gitcoin's Grants Program"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://docs.google.com/spreadsheets/d/1i40PR05KkUu2_e2hRlFBL0D4AHUECnIWmGsjZXcezKg/edit#gid=309686505",
+      "description": "Details outlining specific OP contributions"
+    }
+  ],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "Gitcoin has been instrumental in delivering value to the OP ecosystem:\n- Funding for projects\n- Filling blockspace\n- Launching a Superchain Layer 2\n- Partnering with OP to drive technology and protocol innovation within the RPGF experience (Project Registry, Gitcoin Allo, etc.)\n- Supporting and partnering to grow the narrative around public goods funding\n\nDetails of our impact can be found below:\nGitcoin Grants:\nOP GG: $1.8M+ funded\nOP GG: 320k+ Contributions \nOP Unique Wallets: 56k+\nOP Grants Funded: 625\nGG Wallets on 8/28: 7,570 (7.74% of all OP wallets on that day)\nGG Wallets on 8/29: 7,693 (8.07% of all OP wallets on that day)\n\nNetwork Activity:\nOP + PGN: $2.1M+ Funded\nOP + PGN: 387k+ Contributions\nOP + PGN Unique Wallets: 58k+\nOP/PGN Grants Funded: 679",
+  "impactMetrics": [
+    {
+      "description": "Grants Program Impact",
+      "number": 2100000,
+      "url": "https://gitcoin.co/grants-data "
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_1",
+      "currency": "USD",
+      "amount": 0,
+      "description": "Did not participate"
+    },
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 156494,
+      "description": "Top 10 in category"
+    },
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 50000,
+      "description": "Services revenue for running grants rounds on behalf of various communities"
+    }
+  ],
+  "payoutAddress": "0x0CDDA8d9965A1e952fe1e8062A151fEe345c2AFA",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Gitcoin",
+  "applicantName": "kyle | kbw.eth",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xc2E2B715d9e302947Ec7e312fd2384b5a1296099.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xc2E2B715d9e302947Ec7e312fd2384b5a1296099.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xc2E2B715d9e302947Ec7e312fd2384b5a1296099.json",
+  "RPGF3_Application_UID": "0x95bba9455fa1028d59c069660656b3fe0b46d7b2e1883b091c5b04b810bc7525",
+  "applicantAddress": "0xc2E2B715d9e302947Ec7e312fd2384b5a1296099"
+}

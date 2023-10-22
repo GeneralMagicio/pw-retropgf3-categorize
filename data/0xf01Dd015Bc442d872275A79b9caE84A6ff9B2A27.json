@@ -1,0 +1,64 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://github.com/Chomtana",
+  "bio": "I am an Optimism TechNerd. I am a seasoned full-stack blockchain developer and node operator with years of expertise. Check my GitHub for details.",
+  "contributionDescription": "I have maintained my own fork of \"simple-optimism-node\" to support the deployment of the latest OP Node.\n\n\"simple-optimism-node\" is an open-source Optimism's Full Node deployment script used by more than 250 developers and used to be featured in the official docs.\n\nDue to the outdated code in the official repo, developers were unable to run their nodes and were required to open support tickets for assistance. As a consequence, I have taken the initiative to maintain the \"simple-optimism-node\" script. \n\nAlthough I have made a pull request to the official repository, it's worth noting that the original author has been absent since July. Note that I am not the original author of \"simple-optimism-node\"; I am merely maintaining its compatibility with the latest OP Node.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/Chomtana/simple-optimism-node",
+      "description": "Working simple-optimism-node repository"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/smartcontracts/simple-optimism-node/pull/97",
+      "description": "Pull request to the official repository"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://docs.google.com/document/d/1P_dq8y1FHtqy-RSRfsRoR-b8wJsqEqyEaeJT0mPI0sM/edit?usp=sharing",
+      "description": "List of impacts on GitHub issues and Tickets"
+    }
+  ],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "OP_STACK"
+  ],
+  "impactDescription": "\"simple-optimism-node\" is an open-source Optimism's Full Node deployment script used by more than 250 developers and used to be featured in the official docs.\n\nHowever, the original author hasn't maintained \"simple-optimism-node\" since July 2023 (A few months ago) as his last commit is on Jun, 30. Causing negative impacts!\n\nAs a result of my work, The Optimism Collective now has a functional \"simple-optimism-node\" implementation.\n\nMany developers have adopted my fork of \"simple-optimism-node\" to run their own Dedicated Optimism Full Node. \n\nMy contributions have resolved at least 7 GitHub issues and 4 dev tickets in the Optimism Discord, considerably reducing ticket volume related to \"simple-optimism-node\".\n\nLastly, I am committed to the continuation of \"simple-optimism-node\" maintenance.",
+  "impactMetrics": [
+    {
+      "description": "GitHub Issues Solved",
+      "number": 7,
+      "url": "https://docs.google.com/document/d/1P_dq8y1FHtqy-RSRfsRoR-b8wJsqEqyEaeJT0mPI0sM/edit?usp=sharing"
+    },
+    {
+      "description": "Ticket Solved (At Least)",
+      "number": 4,
+      "url": "https://docs.google.com/document/d/1P_dq8y1FHtqy-RSRfsRoR-b8wJsqEqyEaeJT0mPI0sM/edit?usp=sharing"
+    },
+    {
+      "description": "Github Stars (My Fork)",
+      "number": 5,
+      "url": "https://github.com/Chomtana/simple-optimism-node"
+    },
+    {
+      "description": "Github Stars (Original Repo)",
+      "number": 260,
+      "url": "https://github.com/smartcontracts/simple-optimism-node"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x7Ef0F7f38852662d61B54Bd1c94b5851Da827088",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "simple-optimism-node (Maintaining my own fork)",
+  "applicantName": "Chomtana",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xf01Dd015Bc442d872275A79b9caE84A6ff9B2A27.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xf01Dd015Bc442d872275A79b9caE84A6ff9B2A27.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xf01Dd015Bc442d872275A79b9caE84A6ff9B2A27.json",
+  "RPGF3_Application_UID": "0x2d4cf89fc548e6aabef3f814851337d1469bee6dd5303568e25b90ccbdcf8f26",
+  "applicantAddress": "0xf01Dd015Bc442d872275A79b9caE84A6ff9B2A27"
+}

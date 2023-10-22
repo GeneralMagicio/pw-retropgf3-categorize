@@ -1,0 +1,37 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://gan.gg",
+  "bio": "- Design channel lead at warpcast.com/~/channel/design \n- Author of https://bit.ly/condensedbook",
+  "contributionDescription": "The mission of gang is to facilitate new connections and the effective exchange of knowledge between Farcaster users\n\nWe believe that 1:1 calls (video or audio) are the most effective way to do that. However, time is finite - so you will be able to choose to set a value on your time or have the other person donate to a DAO of your choice. You can also not specify payment and do it as a form of mentorship. In any case, this is a behaviour that's not common among web3 professionals and we think it should be\n\nPS payment system will be rolled out in the next 2-4 weeks, currently suggested donation are live. Some context and progress here: https://warpcast.com/antimofm.eth/0x6aa87c48",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://gan.gg",
+      "description": "Website"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "We have facilitated a number of bookings between Farcaster users and sent about 0.08 eth to Purple DAO through donations. We continue to advertise and onboard users, and aim to become a tool for OP users to monetise their knowledge and expertise. Thanks",
+  "impactMetrics": [
+    {
+      "description": "# signups",
+      "number": 151,
+      "url": "https://gan.gg"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x0C4bA7736EF1fDd2a760F20B746C8c7D78EB17E2",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "gang",
+  "applicantName": "Antimo",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xfa922ce609FeD47950E3f48662C9651d42ada194.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xfa922ce609FeD47950E3f48662C9651d42ada194.json",
+  "RPGF3_Application_UID": "0x67b7139e5b9fbe236be4e777258a936bd45b01aa951635219adfa0306f4f3b57",
+  "applicantAddress": "0xfa922ce609FeD47950E3f48662C9651d42ada194"
+}

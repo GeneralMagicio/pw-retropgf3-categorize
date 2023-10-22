@@ -1,0 +1,76 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://community.optimism.io/docs/contribute/contribution-path/NERD-req/",
+  "bio": "Support NERDs provide moderation and onboarding services to the Optimism Discord.",
+  "contributionDescription": "The Support NERDs moderate the Optimism Discord. This includes: reporting scams, removing spam, onboarding new users into the ecosystem, answering user questions, helping dapps find the support they need, moderating and supporting the 14 non-English Discord channels. ",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://docs.google.com/spreadsheets/d/1JfERz7nMpVnl0J8Ea-pqD6gmXe4CZlH7u7PTGEzqPGA/edit#gid=0",
+      "description": "SupNERD data - A summary of the Support NERDs contributions."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://discord.gg/optimism",
+      "description": "The Optimism Discord - Where the supNERDs are active."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://discord.com/channels/667044843901681675/918484402969919488",
+      "description": "Discord Channel - SupNERD nominations & commitments to support. "
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "SupNERDs create an informed and friendly community accessible to a global audience. They onboard new users into the Optimism ecosystem, helping them discover and use dapps, and debugging common issues. They ensure the community's safety through scam reporting and spam removal. Impact metrics are since the last retroPGF round. ",
+  "impactMetrics": [
+    {
+      "description": "Message activity Discord (English)",
+      "number": 47000,
+      "url": "https://docs.google.com/spreadsheets/d/1JfERz7nMpVnl0J8Ea-pqD6gmXe4CZlH7u7PTGEzqPGA/edit#gid=1131397769"
+    },
+    {
+      "description": "Message activity Discord (non-English)",
+      "number": 13795,
+      "url": "https://docs.google.com/spreadsheets/d/1JfERz7nMpVnl0J8Ea-pqD6gmXe4CZlH7u7PTGEzqPGA/edit#gid=398390456"
+    },
+    {
+      "description": "User Tickets Closed",
+      "number": 1819,
+      "url": "https://docs.google.com/spreadsheets/d/1JfERz7nMpVnl0J8Ea-pqD6gmXe4CZlH7u7PTGEzqPGA/edit#gid=336930240"
+    },
+    {
+      "description": "Testimonials from users",
+      "number": 5,
+      "url": "https://docs.google.com/document/d/1lfBR7E_jKbvj1_5ANoxMJqV6lTCLXWsgWqawgnClWoM/edit?usp=sharing"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 93.68395,
+      "description": "From the pervious retroPGF round for support & moderation.  "
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 0,
+      "description": "Payouts will go directly to SupNERDs. "
+    }
+  ],
+  "payoutAddress": "0xF7159DEAc43C0efe1Dd50b10eFfA6299e694918D",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Support NERDs",
+  "applicantName": "Support NERDs",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xF7159DEAc43C0efe1Dd50b10eFfA6299e694918D.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xF7159DEAc43C0efe1Dd50b10eFfA6299e694918D.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xF7159DEAc43C0efe1Dd50b10eFfA6299e694918D.json",
+  "RPGF3_Application_UID": "0xfe7b7d5636f52ca5706fa3294549ec8d75cfbfda9d88ba41ec86abd6b6e53b6d",
+  "applicantAddress": "0xF7159DEAc43C0efe1Dd50b10eFfA6299e694918D"
+}

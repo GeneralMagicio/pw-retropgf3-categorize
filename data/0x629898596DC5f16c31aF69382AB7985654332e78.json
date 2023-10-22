@@ -1,0 +1,44 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://bress.xyz/",
+  "bio": "I'm the founder of Mirror Curator DAO and cofounder of bress.",
+  "contributionDescription": "We build bress to make Mirror articles searching and discovery more convenient. Mirror is the most important content platform on Optimism but it lacks the key feature of articles searching. To help readers find Mirror articles easier we build bress. At bress users can browse featured Mirror articles by us, search any Mirror article with keywords, follow Mirror writers, read new published articles.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://bress.xyz",
+      "description": "The website for browsing Mirror articles"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "At bress our website has served more than 22,139 unique users and has 81,472 total page views , with around 100 daily active users. We help onboard and maintain users for Mirror. Our service reaches users in different countries which means we have a gloable users base.",
+  "impactMetrics": [
+    {
+      "description": "Visitors",
+      "number": 2749,
+      "url": "https://stat.zuebird.com/bress.xyz/"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 0,
+      "description": "We build bress for interest and haven't received any funding yet."
+    }
+  ],
+  "payoutAddress": "0xACAA9D38Bd41512370e3C24fe2E5098cd8306815",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Bress",
+  "applicantName": "tian7",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x629898596DC5f16c31aF69382AB7985654332e78.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x629898596DC5f16c31aF69382AB7985654332e78.json",
+  "RPGF3_Application_UID": "0x5b2334a091551c558e2b1d27983273f581927a32335c82effcd4173f3861dd98",
+  "applicantAddress": "0x629898596DC5f16c31aF69382AB7985654332e78"
+}

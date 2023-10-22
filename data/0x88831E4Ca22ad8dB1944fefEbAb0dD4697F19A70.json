@@ -1,0 +1,38 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://twitter.com/valiantsaintess",
+  "bio": "do education do education ",
+  "contributionDescription": "Honestly, I'm new here, I want to learn a lot here until I become experienced in this matter, of course it's not just that, in my city where I live, there are many people who don't know about this, of course I I want to introduce everyone to my closest friends and people in my place ",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/valiantsaintess",
+      "description": "Twitter "
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
+  "impactDescription": "Honestly, I'm new here, I want to learn a lot here until I become experienced in this matter, of course it's not just that, in my city where I live, there are many people who don't know about this, of course I I want to introduce everyone to my closest friends and people in my place ",
+  "impactMetrics": [
+    {
+      "description": "LinkedIn ",
+      "number": 420,
+      "url": "https://www.linkedin.com/me?trk=p_mwlite_feed_updates-secondary_nav"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x88831E4Ca22ad8dB1944fefEbAb0dD4697F19A70",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Evyangelia ",
+  "applicantName": "Evyangelia ",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x88831E4Ca22ad8dB1944fefEbAb0dD4697F19A70.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x88831E4Ca22ad8dB1944fefEbAb0dD4697F19A70.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x88831E4Ca22ad8dB1944fefEbAb0dD4697F19A70.json",
+  "RPGF3_Application_UID": "0x0610cb2015e2f582733e5d7fb6a126ecf637d13b691a25502331fe39cf271e2c",
+  "applicantAddress": "0x88831E4Ca22ad8dB1944fefEbAb0dD4697F19A70"
+}

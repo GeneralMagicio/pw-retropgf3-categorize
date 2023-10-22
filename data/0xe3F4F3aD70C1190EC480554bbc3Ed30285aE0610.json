@@ -1,0 +1,59 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://spark.eco/",
+  "bio": "I am passionate about making the maximum positive impact in the world. I am the founder of Spark and we are building tools for measuring and evaluating Impact.",
+  "contributionDescription": "We are launching ImpactScribe, a permissionless protocol for minting Impact Certificates. ImpactScribe allows users to mint ERC-721 NFT Impact Certificates with ERC-6551 token bound accounts. Users can generate Claims of Impact (Hypercerts) and Proof of Impact NFTs stored in the token bound account. Deresy & Insightful are a composable set of tools to measure and evaluate quantitative and qualitative impact. Deresy is a review and evaluation protocol that generates Proof of Impact attestations on EAS and mints these evaluations as NFTs. It can be used to provide written evaluations of projects and images, video, audio or other documents. Insightful connects IoT devices and data streams to NFT dashboards to quantify impact using w3bstream, zk proofs and ceramic.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/ImpactScribe",
+      "description": "ImpactScribe protocol and Insightful repositories"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/chimi-co",
+      "description": "Deresy repositories"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://ecodapp.vercel.app/explore",
+      "description": "ImpactScribe UI"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://deresy-dev.web.app/",
+      "description": "Deresy UI"
+    }
+  ],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "We are building on Optimism because we believe our evaluation tools could be used as a part of future rounds of the RetroPGF program. Based on talking with some badge holders the review process evolves each round. While our protocol has yet to be fully deployed to mainnet, we are targeting a launch before the end of the year. We have employed six developers who are now building on Optimism. We are working closely with Hypercerts Protocol to become the evaluation layer for Hypercerts, a Claim of Impact. We are talking to Gitcoin and other grantmakers who can use our tools to verify grantee impact. We are designing funding mechanisms for the impact certificates to drive additional users to OP. Receiving RetroPGF will support our team as we continue to add value to Optimism.",
+  "impactMetrics": [
+    {
+      "description": "# of developers onboarded",
+      "number": 4,
+      "url": "https://github.com/chimi-co"
+    },
+    {
+      "description": "# of developers onboarded",
+      "number": 2,
+      "url": "https://github.com/ImpactScribe"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x65E25AE3E9A2Ce545dB8ef900745726a73377EdF",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Spark",
+  "applicantName": "JonRuth",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xe3F4F3aD70C1190EC480554bbc3Ed30285aE0610.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xe3F4F3aD70C1190EC480554bbc3Ed30285aE0610.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xe3F4F3aD70C1190EC480554bbc3Ed30285aE0610.json",
+  "RPGF3_Application_UID": "0x9359577504bc54685070e27e7da2343605e1ec520ee78ee1f81096e0408089a7",
+  "applicantAddress": "0xe3F4F3aD70C1190EC480554bbc3Ed30285aE0610"
+}

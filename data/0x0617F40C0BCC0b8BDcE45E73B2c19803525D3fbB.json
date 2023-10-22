@@ -1,0 +1,45 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://twitter.com/VRainiero",
+  "bio": "- A geek girl who just loves technology;\n- A senior level programmer;\n- Early Optimism user.",
+  "contributionDescription": "- Donations on the Gitcoin site. I support projects built on the Optimism stack and do so in every round.\n\n- Active user who helps newcomers in Discord. Also, as I find bugs and errors, I leave reports in the appropriate thread on the server.\n\n- In any unclear situation, I tell everyone around me about your blockchain (laughs).",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/VRainiero",
+      "description": "The site exists, is almost done and will be up and running soon."
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "Sorry, but I thought there was a similar question earlier, so I'll paste my previous reply.\n\n\"- Donations on the Gitcoin site. I support projects built on the Optimism stack and do so in every round.\n\n- Active user who helps newcomers in Discord. Also, as I find bugs and errors, I leave reports in the appropriate thread on the server.\n\n- In any unclear situation, I tell everyone around me about your blockchain (laughs).\"",
+  "impactMetrics": [
+    {
+      "description": "Users helped + brought to the project",
+      "number": 1300,
+      "url": "https://twitter.com/VRainiero"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 0,
+      "description": "Gitcoin donations to support projects on Optimism"
+    }
+  ],
+  "payoutAddress": "0x0617F40C0BCC0b8BDcE45E73B2c19803525D3fbB",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Sabrina Witlow",
+  "applicantName": "Sabrina Witlow",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x0617F40C0BCC0b8BDcE45E73B2c19803525D3fbB.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x0617F40C0BCC0b8BDcE45E73B2c19803525D3fbB.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x0617F40C0BCC0b8BDcE45E73B2c19803525D3fbB.json",
+  "RPGF3_Application_UID": "0xfd5937acf9365c41ba5c645d9bf6fe3bca647dbf0bb5734a0d1e5c31d5034927",
+  "applicantAddress": "0x0617F40C0BCC0b8BDcE45E73B2c19803525D3fbB"
+}

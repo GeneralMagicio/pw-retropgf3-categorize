@@ -1,0 +1,41 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://koinlokal.com",
+  "bio": "\t\nKoinlokal! Sumber terpercaya informasi cryptocurrency, web3, & airdrop crypto. Analisis, review, & panduan seputar cryptocurrency .",
+  "contributionDescription": "I want to contribute to web3 development, that's the least I can do, I want to develop my skills with RetroPGF Optimism giving me the opportunity to continue to help with development and security. I hope I can contribute to this project and continue to contribute to other web3 projects. Thank You",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://galxe.com",
+      "description": "i joined optimism"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "saya tidak tau pasti apakah saya berkontribusi atau dtidak dalam  Optimism Collective, tapi saya mengikuti optimism dalam beberapa bulan terahir serta mengikuti beberapa quest di galxe untuk memberikan sedikit dampak bagi  Optimism Collective, saya hanya menginginkan akan bisa bekerja dan berinteraksi dengan Optimism ",
+  "impactMetrics": [
+    {
+      "description": "contribute",
+      "number": 420,
+      "url": "https://galxe.com"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0xE1FfB51E40390B702501110127C7FAA0278B899a",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Koinlokal",
+  "applicantName": "Koinlokal",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xE1FfB51E40390B702501110127C7FAA0278B899a.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xE1FfB51E40390B702501110127C7FAA0278B899a.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xE1FfB51E40390B702501110127C7FAA0278B899a.json",
+  "RPGF3_Application_UID": "0xc8c3247015eac3e725344098d4fb05e9ec1ef6d0534f1763c4ac01be70fbfebf",
+  "applicantAddress": "0xE1FfB51E40390B702501110127C7FAA0278B899a"
+}

@@ -1,0 +1,47 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://twitter.com/FDryst?s=09",
+  "bio": "Enjoy for everyday, see good for every project 🎉🥳",
+  "contributionDescription": "I have Badges holder Optimism x Base , I think optimism one of good government and network, contribution retroPGF to community so good for project Optimism \nSo many people join to contributions this RetroPGF and we hope great this one 🥳🥳\nEnjoy this project RetroPGF Optimism ✅",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://web3.bitget.site/id/nft/collection/optimism/0xe22fd22b3fc0ecd5217d2461d15159a7dfc38790/0",
+      "description": "Badges Optimism x Base"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "I think Optimism good government and I contributions this project for sure , \nStaking and holder badges in optimism network , quite good for the development of the network, and everyone must do the same because that is part of our support for this project, as well as our trust in this company 🙏",
+  "impactMetrics": [
+    {
+      "description": "Badges Optimism x Base",
+      "number": 11,
+      "url": "https://web3.bitget.site/id/nft/collection/optimism/0xe22fd22b3fc0ecd5217d2461d15159a7dfc38790/0"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 500,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0x4200000000000000000000000000000000000042",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "FallDryst",
+  "applicantName": "FallDryst",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xbA95a8E83c7B012daB6208D04cfc9405a6098e6E.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xbA95a8E83c7B012daB6208D04cfc9405a6098e6E.json",
+  "RPGF3_Application_UID": "0x2974f1c58239637cb6e0573add537d793003da2fdc67167732029cb40d2e54a6",
+  "applicantAddress": "0xbA95a8E83c7B012daB6208D04cfc9405a6098e6E"
+}

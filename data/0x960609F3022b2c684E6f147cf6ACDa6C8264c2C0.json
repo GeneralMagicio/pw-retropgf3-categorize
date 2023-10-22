@@ -1,0 +1,55 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://web3js.org/",
+  "bio": "ChainSafe is a blockchain r+d firm that specializes in protocol engineering, interoperability, and web3 infrastructure. We are the maintainer of Web3js.\n",
+  "contributionDescription": "Web3.js is a Javascript/Typescript library that allows developers to interact with the EVM compatible blockchains and build DApps.\n\nWeb3.js v4 offered many new features, including Plugins to extend web3.js lib functionality. This enabled Optimism to develop a L2 plugin. With this Web3.js helps the developer ecosystem at multiple layers.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/web3/web3.js",
+      "description": "Web3js repo"
+    }
+  ],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
+  "impactDescription": "The web3.js library has significant impact on developers working with EVM blockchains including Optimism network. Web3.js has around 2 million downloads per month on NPM, and 10+ million CDN hits per month. There are 4500+ library projects depending on web3.js library. ",
+  "impactMetrics": [
+    {
+      "description": "NPM downloads:  2 million / month  ",
+      "number": 2000000,
+      "url": "https://www.npmjs.com/package/web3"
+    },
+    {
+      "description": "CDN hits: 13 million / month",
+      "number": 13000000,
+      "url": "https://www.jsdelivr.com/package/npm/web3"
+    },
+    {
+      "description": "NPM dependent projects",
+      "number": 4945,
+      "url": "https://www.npmjs.com/package/web3?activeTab=dependents"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 450000,
+      "description": "Covers the Web3js team of 9 people (6 FTE and 3 PTE)"
+    }
+  ],
+  "payoutAddress": "0x0F56267206C6a83F726dD3A67305FFc0E5CDBfB2",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Web3js",
+  "applicantName": "LizTK",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x960609F3022b2c684E6f147cf6ACDa6C8264c2C0.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x960609F3022b2c684E6f147cf6ACDa6C8264c2C0.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x960609F3022b2c684E6f147cf6ACDa6C8264c2C0.json",
+  "RPGF3_Application_UID": "0xb706379cb5987ed4fbe4772f9397852196c7238038feec98b9fc375a7cbf0a18",
+  "applicantAddress": "0x960609F3022b2c684E6f147cf6ACDa6C8264c2C0"
+}

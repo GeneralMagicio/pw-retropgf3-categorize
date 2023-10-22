@@ -1,0 +1,43 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://meetm.xyz",
+  "bio": "I am developer working in ethereum and web3 space for over 2 years now. My focus recently has been on improving DX for smart contracts development.",
+  "contributionDescription": "solidity-analyzer is deeply integrated into foundry which is increasingly becoming more popular and adoption among devs because of its ability to allow writing tests in solidity itself and because it is really fast in running tests and compiling too. But the tooling around it is not yet very mature. \n\nAn LSP server that works with foundry projects will provide devs with important features like:\n1. Diagnostics: compiler errors, warnings, informationals, etc.\n2. Formatting: with `forge fmt`\n3. Outline: the birds eye view of the file including contract names, functions, state variables,e tc.\n4. Code navigation: jump to definitions, implemetations, references, etc.\n5. Inlay hints, autocompletes\n6. And many more LSP features\n\nOut of the mentioned features, first 3 are already implemented.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/parmanuxyz/solidity-analyzer",
+      "description": "The LSP server, vscode extension impl and example neovim integration config"
+    }
+  ],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
+  "impactDescription": "Optimism VM is also an EVM implementation and thus any developments in solidity ecosystem has its impact on anything that uses EVM too. Many of the projects already deployed on optimism were developed with solidity and foundry. Thus, any contributions to the DX of solidity and foundry impacts optimism too.\n\nA note on impact metrics:\nThis is a new project and in development. I have been using it for diagnostics on my own personal and work projects. Anyone wanting to use it needs to clone and build the server locally with `cargo install --git` and hence I am listing github clones and cloners as metrics as a proxy to amount of people that might have tried it. I am not actively promoting it, just building it.",
+  "impactMetrics": [
+    {
+      "description": "GitHub repo clones",
+      "number": 59,
+      "url": "https://github.com/parmanuxyz/solidity-analyzer/graphs/traffic"
+    },
+    {
+      "description": "Github repo unique cloners",
+      "number": 32,
+      "url": "https://github.com/parmanuxyz/solidity-analyzer/graphs/traffic"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x18454569a577F368d7F165fdcf5210E4f58334AE",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "solidity-analyzer",
+  "applicantName": "meetmangukiya",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5C5F81454d78bb96c82209d048406D592ABD3674.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x5C5F81454d78bb96c82209d048406D592ABD3674.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x5C5F81454d78bb96c82209d048406D592ABD3674.json",
+  "RPGF3_Application_UID": "0xb04af6a6a336124fbf621ac380b23add5b6c53dee09dc19f2ad9caea8cdb5cdf",
+  "applicantAddress": "0x5C5F81454d78bb96c82209d048406D592ABD3674"
+}

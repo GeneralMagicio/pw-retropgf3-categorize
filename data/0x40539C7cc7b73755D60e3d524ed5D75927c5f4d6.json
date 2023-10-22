@@ -1,0 +1,52 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://twitter.com/TibiabinH",
+  "bio": "Developer with 10 years of experience and just a good guy.",
+  "contributionDescription": "* I am a lead investor and CEO of the Foumis project, which is being developed on the Optimism stack. At the moment it exists only in concept format, but we have already recruited a team and started working.\n\n* I use and financially support many projects launched in the Optimism network.\n\n* Active user of your Discord. Always helping people with advice.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/TibiabinH",
+      "description": "The site will be up and running in the near future."
+    }
+  ],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "* I am a lead investor and CEO of the Foumis project, which is being developed on the Optimism stack. At the moment it exists only in concept format, but we have already recruited a team and started working.\n\n* I use and financially support many projects launched in the Optimism network.\n\n* Active user of your Discord. Always helping people with advice.",
+  "impactMetrics": [
+    {
+      "description": "Number of developers in my team",
+      "number": 43,
+      "url": "https://twitter.com/TibiabinH"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 0,
+      "description": "Development of the Foumis project on Optimism-stack"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 0,
+      "description": "Donations in Gitcoin to support the Optimism ecosystem"
+    }
+  ],
+  "payoutAddress": "0x40539C7cc7b73755D60e3d524ed5D75927c5f4d6",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Dexter Holland",
+  "applicantName": "Dexter Holland",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x40539C7cc7b73755D60e3d524ed5D75927c5f4d6.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x40539C7cc7b73755D60e3d524ed5D75927c5f4d6.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x40539C7cc7b73755D60e3d524ed5D75927c5f4d6.json",
+  "RPGF3_Application_UID": "0x2113c4424cff81be38cd9b5930551d3bc27a6788c5a7fb6604b424506511b41d",
+  "applicantAddress": "0x40539C7cc7b73755D60e3d524ed5D75927c5f4d6"
+}

@@ -1,0 +1,51 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://twitter.com/kodinvestico",
+  "bio": "Интересуюсь криптографией, инвестициями, Web3 индустрией и современными способами управления капиталом.",
+  "contributionDescription": "-Активное участие в голосованиях на площадке проекта https://vote.optimism.io/proposals/ ;\n-Внесение гранта и получение NFT соучредителя Optimism Grants NFT;\n-чеканка аттестата на https://clique.social/profile/ optimism;\n-чеканка SBT на платформе https://clique.social/profile/;\n-использование сети во взаимодействии с остальными ведущими смартконтрактами;",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://debank.com/profile/0xdf6d390102457707245daa09de2640ecc9f52bac/history?chain=op",
+      "description": "Активность"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "OP_STACK"
+  ],
+  "impactDescription": "Вклад по улучшению работы смарт-контрактов в сети Оптимизма, методом прямого участия в качестве пользователя и тестировщика.\nУчастие в голосованиях, с целью достижения консенсуса в принятия важных решений сообществом,  для развития экосистемы Оптимизма.",
+  "impactMetrics": [
+    {
+      "description": "Активность",
+      "number": 1,
+      "url": "https://debank.com/profile/0xdf6d390102457707245daa09de2640ecc9f52bac/history?chain=op"
+    },
+    {
+      "description": "Бейджи",
+      "number": 2,
+      "url": "https://debank.com/profile/0xdf6d390102457707245daa09de2640ecc9f52bac/nft?chain="
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 1.351,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0xdF6d390102457707245dAa09dE2640eCc9F52bAc",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Kodcrypto",
+  "applicantName": "Kodcrypto",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xdF6d390102457707245dAa09dE2640eCc9F52bAc.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xdF6d390102457707245dAa09dE2640eCc9F52bAc.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xdF6d390102457707245dAa09dE2640eCc9F52bAc.json",
+  "RPGF3_Application_UID": "0x9df4885a4953e15c4611373297a09b4effa13322206be6bc97348c7cd30ed461",
+  "applicantAddress": "0xdF6d390102457707245dAa09dE2640eCc9F52bAc"
+}

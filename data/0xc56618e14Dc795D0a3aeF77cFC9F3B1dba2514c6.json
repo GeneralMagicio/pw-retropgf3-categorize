@@ -1,0 +1,57 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://twitter.com/LuminiskS",
+  "bio": "My name is Sergei.\n\nI am a community analyst at a large company, an Influencer, and a crypto-enthusiast with a lot of experience.",
+  "contributionDescription": "- I actively support many projects built on Optimism through Gitcoin-donations. I don't miss a single round.\n\n- Being a major Influencer and having some connections in the crypto community at the same time, I periodically actively recommend Optimism to my audience and colleagues (always from the bottom of my heart).\n\n- I am a fairly early user of the Optimism network (since November 2022), actively participating in all activities - for example, I have completed all Optimism quests.\n\n- Within 3 months we plan to start developing our own project on Optimism. At the moment we are at the stage of forming a team, funding has already been raised.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/LuminiskS",
+      "description": "There is a website, but it's on rebranding, at the moment."
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "- Through regular coverage of Optimism and its ecosystem in its media outlets, both the number and quality of online users has been increased.\n\n- Thanks to my advice, right now one of the development teams is building their product on your blockchain. They were choosing between Arbitrum and Optimism, and I helped them make the right decision.",
+  "impactMetrics": [
+    {
+      "description": "Increase in quality users",
+      "number": 10000,
+      "url": "https://twitter.com/LuminiskS"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 55,
+      "description": "A second drop from Optimism, serving to compensate for the gas spent."
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 0,
+      "description": "Promotion of the network in the community and recommendation to the develop team"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 0,
+      "description": "Develop your own project on Optimism, planned within 3 months."
+    }
+  ],
+  "payoutAddress": "0xc56618e14Dc795D0a3aeF77cFC9F3B1dba2514c6",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Luminisk",
+  "applicantName": "Luminisk",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xc56618e14Dc795D0a3aeF77cFC9F3B1dba2514c6.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xc56618e14Dc795D0a3aeF77cFC9F3B1dba2514c6.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xc56618e14Dc795D0a3aeF77cFC9F3B1dba2514c6.json",
+  "RPGF3_Application_UID": "0xa9ebc461f41b0cf7f17689690f5baed6716664a78c3feb30dc373c6c05f159f7",
+  "applicantAddress": "0xc56618e14Dc795D0a3aeF77cFC9F3B1dba2514c6"
+}

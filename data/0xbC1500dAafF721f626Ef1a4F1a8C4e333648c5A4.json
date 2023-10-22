@@ -1,0 +1,64 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://twitter.com/gregcardo",
+  "bio": "My name is Cardo. I am a software engineer who is passionate about blockchain and the positive impact crypto can have on the globe.",
+  "contributionDescription": "I've made contributions that have enriched the Collective. One of the key ways I've added value is through my contribution to the Community Hub repository. I've dedicated my time and expertise to updating vital information that enhances the functionality and accessibility of developer resources.\n\nAdditionally, I've leveraged my skills to craft numerous Twitter threads, each designed to effectively raise awareness about the Collective's mission and impact.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/ethereum-optimism/community-hub/pull/717",
+      "description": "Fixed broken links, removed dated ones and added helpful resources in the docs"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/gregcardo/status/1715446686997168591?s=20",
+      "description": "Wrote a thread about ways to contribute and earn with the Collective"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/gregcardo/status/1709870096284365272?s=20",
+      "description": "Wrote a comprehensive thread on RetroPGF"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/gregcardo/status/1713905266670903751?s=20",
+      "description": "Wrote a comprehensive thread highlighting the changes coming to Governance S5"
+    }
+  ],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "OP_STACK"
+  ],
+  "impactDescription": "I have helped create more accurate documentation for our community members. Such change would lead to a less frustrating and smoother user experience for users and developers within the Collective.\n\nPosting Twitter threads to raise awareness about the Collective has expanded our reach and visibility. These threads have acted as a powerful tool to inform, educate, and inspire a broader audience. They will attract new followers, supporters, and potential collaborators.",
+  "impactMetrics": [
+    {
+      "description": "Views and engagement",
+      "number": 32,
+      "url": "https://x.com/gregcardo/status/1715446686997168591?s=20"
+    },
+    {
+      "description": "Views and engagement",
+      "number": 50,
+      "url": "https://x.com/gregcardo/status/1713905266670903751?s=20"
+    },
+    {
+      "description": "Views and engagement",
+      "number": 114,
+      "url": "https://x.com/gregcardo/status/1709870096284365272?s=20"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x4ebe56a3e523aa80be2dca763e7407a9f7b57943",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Cardo",
+  "applicantName": "Cardo",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xbC1500dAafF721f626Ef1a4F1a8C4e333648c5A4.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xbC1500dAafF721f626Ef1a4F1a8C4e333648c5A4.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xbC1500dAafF721f626Ef1a4F1a8C4e333648c5A4.json",
+  "RPGF3_Application_UID": "0xb013f320dfc52223d553455adbec3dad79691698c85b5ea8c27e81c46fd014b5",
+  "applicantAddress": "0xbC1500dAafF721f626Ef1a4F1a8C4e333648c5A4"
+}

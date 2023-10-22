@@ -1,0 +1,109 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://github.com/zemse/hardhat-tracer",
+  "bio": "I am a smart contracts engineer and contribute to ethereum developer tools in my free time.",
+  "contributionDescription": "Problem: \n\nDebugging smart contracts was a huge pain for smart contract engineers back in 201x era. \n\nSolution: \n\nA hardhat plugin called \"hardhat-tracer\" has made debugging smart contracts on hardhat easier by allowing the developer to see the call tree with parsed calldata/returndata along with events, storage ops, and more EVM opcodes while running the tests. It also gives programmatic access to the trace information for writing more advanced tests.\n\nI've started this in 2019 for my personal use (even before Solidity console.log existed) and this tool was open-sourced as an installable hardhat plugin in 2020. It was again rewritten in 2022 to improve performance and add more features.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/zemse/hardhat-tracer",
+      "description": "GitHub repository URL of hardhat-tracer plugin."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://github.com/1inch/limit-order-settlement/blob/39f95f7acef380b624a846f74c70f92dd6f22e60/hardhat.config.js#L11",
+      "description": "1inch code"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://github.com/aave/gho-core/blob/b2db7542f3a1323dcb3ca4823865909bd6677189/hardhat.config.ts#L15",
+      "description": "Aave code"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://github.com/LayerZero-Labs/set-trusted-remotes/blob/70c489821b5e58f70de9b4fb4184f7451a4e93e4/hardhat.config.ts#L9",
+      "description": "LayerZero code"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://github.com/rainbow-me/swaps/blob/ac2fea65879b7aedc7cbaf150e04394f1b7c54c0/smart-contracts/hardhat.config.ts#L4",
+      "description": "Rainbow swaps code"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://github.com/Rari-Capital/nova/blob/cf0cffba5a05a25918ae0ecf7d708679aad5de5b/hardhat.config.ts#L12",
+      "description": "Rari Capital code"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://github.com/sushiswap/trident/blob/b4f1e3bdaa8ebfbb8881c9794b03cb439879171c/hardhat.config.ts#L15",
+      "description": "Sushiswap code"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://github.com/UMAprotocol/protocol/pull/4140",
+      "description": "PR Testimony by UMA for adding hardhat-tracer"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/Weeb_Mcgee/status/1658840777261293570",
+      "description": "Tweet Testimony by Weeb mentioning hardhat-tracer"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/eulerfinance/status/1704487893975375927",
+      "description": "Tweet Testimony by Euler Labs discovering unexpected gas costs"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/naddison/status/1710212704198435199",
+      "description": "Tweet Testimony by Nick Addison mentioning hardhat-tracer"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/AmadiMichaels/status/1639568880514244608",
+      "description": "Tweet Testimony by Amadi Michaels mentioning hardhat-tracer"
+    }
+  ],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
+  "impactDescription": "This tool has improved the ease of inspecting many situations on the EVM like finding revert causes during mainnet fork, unnecessary storage access, discovering unintended behaviour, various gas optimisations and more use cases. It has saved hours of debugging. Hence, it has gained adoption among numerous smart contract teams like 1inch, Aura Finance, Graph Protocol, Immunefi, LayerZero, Lyra Finance, Rainbow Wallet, Rareskills, Stargate, SushiSwap, UMA etc, just to name few who are related to the Optimism Collective.\n",
+  "impactMetrics": [
+    {
+      "description": "# of downloads per week",
+      "number": 7000,
+      "url": "https://www.npmjs.com/package/hardhat-tracer"
+    },
+    {
+      "description": "# of github stars",
+      "number": 290,
+      "url": "https://github.com/zemse/hardhat-tracer"
+    },
+    {
+      "description": "# of github dependents",
+      "number": 1900,
+      "url": "https://github.com/zemse/hardhat-tracer"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 10000,
+      "description": "I was offered a grant in 1inch gov tokens (worth 5k$ now, I am hodling)."
+    }
+  ],
+  "payoutAddress": "0xf51C53b2C184Aa43A7d24aA4f0Cf13D0e8b56c51",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Hardhat Tracer",
+  "applicantName": "Soham Zemse",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xf51C53b2C184Aa43A7d24aA4f0Cf13D0e8b56c51.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xf51C53b2C184Aa43A7d24aA4f0Cf13D0e8b56c51.json",
+  "RPGF3_Application_UID": "0x1c03fba4505bdb618483c9c2a197e09753e8bdbc03f784d312039dd623ec8046",
+  "applicantAddress": "0xf51C53b2C184Aa43A7d24aA4f0Cf13D0e8b56c51"
+}
