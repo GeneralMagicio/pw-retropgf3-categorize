@@ -49,6 +49,5 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, the application is not correctly categorized. Despite using an avatar name \"Karbonio\", the applicant refers to themselves as \"I\" indicating that the application is from an individual, not a project.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Governance & Tokens, Community Building, Developer Ecosystem, Web3 Community Platform, Token Delegation",
   "pwCategory": "Community Building"
 }

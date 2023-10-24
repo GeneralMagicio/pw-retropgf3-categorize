@@ -10,9 +10,7 @@
       "description": "this pixel on OPBNB"
     }
   ],
-  "impactCategory": [
-    "COLLECTIVE_GOVERNANCE"
-  ],
+  "impactCategory": ["COLLECTIVE_GOVERNANCE"],
   "impactDescription": "make Art on OP or mmmm Join for make idea Art and stake NFT Highlight metrics to help badgeholders understand your impact. You can link to data dashboards, onchain contracts, spreadsheets, or any resources. Work that provided impact to application developers in the Optimism Collective, or helped bring new developers into the Collective",
   "impactMetrics": [
     {
@@ -37,6 +35,5 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for promising future impact. The applicant promises that they \"will make NFT on op network or somethink , or i can make some token in Op network,\" which goes against Rule 1 of the grant program as it suggests future deliverables.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "NFTs, Layer 2 Scaling, Community Building, Developer Ecosystem, Web3 Community Platform",
   "pwCategory": "Developer Ecosystem"
 }

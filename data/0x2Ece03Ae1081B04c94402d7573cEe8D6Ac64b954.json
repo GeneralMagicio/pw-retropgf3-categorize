@@ -47,6 +47,5 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "Flagged: The application should be flagged as it does not explicitly highlight a valid contribution to the Web3/blockchain space, thereby violating rule 10.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, Cryptocurrency Services",
   "pwCategory": "Community Building"
 }

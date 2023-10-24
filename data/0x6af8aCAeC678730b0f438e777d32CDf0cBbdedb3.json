@@ -46,6 +46,5 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged because it violates rule 1 by promising future deliverables with statements such as \"These three projects will work in the future.\"",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "NFTs, Decentralized Exchanges (DEXs), Decentralized Finance (DeFi), Wallet Management",
   "pwCategory": "Decentralized Finance (DeFi)"
 }

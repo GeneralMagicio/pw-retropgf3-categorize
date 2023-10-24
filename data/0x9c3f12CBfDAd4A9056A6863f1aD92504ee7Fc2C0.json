@@ -37,6 +37,5 @@
   "pwRecategorizeToType": "PROJECT",
   "pwRecategorizeReason": "NO, the application is not correctly categorized as the applicant mentions a collective effort (\"We provided over 100 OP News updates\") indicating it's a PROJECT, not an INDIVIDUAL.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, Media Production, Content Creation, Web3 Community Platform, Blockchain Education",
   "pwCategory": "Blockchain Education"
 }

@@ -10,9 +10,7 @@
       "description": "optimistic bunnies nft"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "In conclusion, I would wish to receive the RetroPGF airdrop as a testament to my dedication and support for the project. I believe that my active involvement and commitment to its success would make me a valuable member of the RetroPGF community. I look forward to being part of this exciting journey and helping RetroPGF achieve its goals.",
   "impactMetrics": [
     {
@@ -43,6 +41,5 @@
   "applicantAddress": "0xB221238e2aEC0A76C87076F72Aced53D0E6d453C",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Blockchain Gaming, NFTs, Tokenization Platforms, User Experience & Adoption, Community Building",
   "pwCategory": "Blockchain Gaming"
 }

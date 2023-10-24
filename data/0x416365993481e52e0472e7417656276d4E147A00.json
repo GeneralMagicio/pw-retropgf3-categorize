@@ -10,9 +10,7 @@
       "description": "Chain interaction data"
     }
   ],
-  "impactCategory": [
-    "COLLECTIVE_GOVERNANCE"
-  ],
+  "impactCategory": ["COLLECTIVE_GOVERNANCE"],
   "impactDescription": "Participate actively in optimism's community governance by voting on various decisions and important directions, while experiencing cross-chain experiences at different L2 levels. For fuel cost loss between L2s. optimism is more suitable for general users in terms of different fuel costs, convenience, and speed.",
   "impactMetrics": [
     {
@@ -42,6 +40,5 @@
   "applicantAddress": "0x416365993481e52e0472e7417656276d4E147A00",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Layer 2 Scaling, Governance & Tokens, Cross-Chain Platforms, User Experience & Adoption, Web3 Community Platform",
   "pwCategory": "Cross-Chain Platforms"
 }

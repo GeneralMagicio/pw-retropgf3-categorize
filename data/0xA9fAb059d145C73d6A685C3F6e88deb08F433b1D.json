@@ -45,9 +45,7 @@
       "description": "I have written and shared my stories and those of the people I follow."
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "In the world of crypto, there is a lot of misinformation and scams.\n\nAs I mentioned before, I like to help people learn more about crypto and be more secure in their use. That's why I want to share my knowledge and information with others so that they can understand.\n\nIt's a good thing, and I will continue to do it in the future. Whether you have used Web3 or not, it is something that I have always wanted to do. I am glad that sometimes I have been able to be a part of helping people, wherever they are in the world.",
   "impactMetrics": [
     {
@@ -109,6 +107,5 @@
   "applicantAddress": "0xA9fAb059d145C73d6A685C3F6e88deb08F433b1D",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Content Creation, Community Building, User Experience & Adoption, Blockchain Education, Media Production",
   "pwCategory": "Blockchain Education"
 }

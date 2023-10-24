@@ -43,6 +43,5 @@
   "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x405eD99e12dAf1ee89dBDd1d0D4fD933D63Eb13d.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x405eD99e12dAf1ee89dBDd1d0D4fD933D63Eb13d.json",
   "RPGF3_Application_UID": "0xfc660de9b0ced0b070b2f4fe8499135e76bb5ea46e3ab308167c96a0941823b7",
-  "applicantAddress": "0x405eD99e12dAf1ee89dBDd1d0D4fD933D63Eb13d",
-  "pwCategorySuggestions": "Layer 2 Scaling, Cryptocurrency Services, Blockchain Infrastructure, Optimism"
+  "applicantAddress": "0x405eD99e12dAf1ee89dBDd1d0D4fD933D63Eb13d"
 }

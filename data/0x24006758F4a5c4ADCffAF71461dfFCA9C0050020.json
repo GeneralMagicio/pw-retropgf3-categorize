@@ -10,9 +10,7 @@
       "description": "Educational in Twitter "
     }
   ],
-  "impactCategory": [
-    "COLLECTIVE_GOVERNANCE"
-  ],
+  "impactCategory": ["COLLECTIVE_GOVERNANCE"],
   "impactDescription": "There are still many people who don't know about crypto technology and blockchain, introducing education so they can understand it so they can produce results\nand of course it is not easy, it requires constant effort and skill over time and the effort will definitely produce extraordinary results  ",
   "impactMetrics": [
     {
@@ -37,6 +35,5 @@
   "applicantAddress": "0x24006758F4a5c4ADCffAF71461dfFCA9C0050020",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Blockchain Education, Content Creation, Community Building, User Experience & Adoption",
   "pwCategory": "Education"
 }

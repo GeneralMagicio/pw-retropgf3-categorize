@@ -39,6 +39,5 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "Flagged for violation of rule 2. The contribution description and the impact description do not appear to align with each other, suggesting false statements and deception about the applicant's contributions to the Optimism Collective.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, Content Creation, User Experience & Adoption, Blockchain Education, Media Production",
   "pwCategory": "Community Building"
 }

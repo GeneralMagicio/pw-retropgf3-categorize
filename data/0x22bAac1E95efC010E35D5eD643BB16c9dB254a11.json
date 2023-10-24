@@ -10,9 +10,7 @@
       "description": "My Op transactions"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "I have been trading on optimism for over a year, witnessing many changes in the ecosystem. OP is always in the top chains with large transaction volumes, especially changes that help transactions take place faster and at cheaper costs. Up to this point, OP has always been the blockchain I use for transactions the most!",
   "impactMetrics": [
     {
@@ -42,6 +40,5 @@
   "RPGF3_Application_UID": "0x7c42ca7c12ac65ff9a5c59b469417fd842d79efb021600fb43f2c9a14ecb53b0",
   "applicantAddress": "0x22bAac1E95efC010E35D5eD643BB16c9dB254a11",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "This application should be flagged for being outside of RetroPGF's scope as the contributions made by the individual are user interactions, which are explicitly stated as not in scope to be rewarded in RetroPGF 3.",
-  "pwCategorySuggestions": "Layer 2 Scaling, Smart Contract Platforms, Decentralized Finance (DeFi), Wallet Management"
+  "pwFlaggedReason": "This application should be flagged for being outside of RetroPGF's scope as the contributions made by the individual are user interactions, which are explicitly stated as not in scope to be rewarded in RetroPGF 3."
 }

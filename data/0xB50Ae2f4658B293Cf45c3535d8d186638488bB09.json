@@ -10,9 +10,7 @@
       "description": "github"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "I got the info on Telegram, and I'm interested in trying it. I am very enthusiastic about learning what I am interested in. I hope I get accepted. I will make a positive contribution here.\nI would be very grateful if I was accepted here. Of course I'm interested in the prizes too.",
   "impactMetrics": [
     {
@@ -44,6 +42,5 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged because it violates rule #1 (promises of future impact) as the applicant only expresses their interest and hope to make a contribution in the future.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, User Experience & Adoption, Governance & Tokens, Developer Ecosystem, Cryptocurrency Services",
   "pwCategory": "Education"
 }

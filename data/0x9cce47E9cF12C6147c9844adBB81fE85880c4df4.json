@@ -20,9 +20,7 @@
       "description": "Blog (Mirror)"
     }
   ],
-  "impactCategory": [
-    "OP_STACK"
-  ],
+  "impactCategory": ["OP_STACK"],
   "impactDescription": "NiceNode provides the most simple way for users to run nodes. This gives Optimists a non-intimidating way to participate in the long-term health, resiliency, and decentralization of the Collective. \n\nWe just released Optimism Sepolia, Base node, and Farcaster Hub support and have not marketed or tracked usage for these capabilities fully. We have had limited impact at this time. There are on the order of tens of users experimenting with the app. The app downloads from our Github repo has reached +9500 downloads!",
   "impactMetrics": [
     {
@@ -72,6 +70,5 @@
   "applicantAddress": "0x9cce47E9cF12C6147c9844adBB81fE85880c4df4",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Smart Contract Platforms, Blockchain Infrastructure, User Experience & Adoption, Developer Ecosystem, Decentralized Identity",
   "pwCategory": "Blockchain Infrastructure"
 }

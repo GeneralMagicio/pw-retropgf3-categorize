@@ -10,10 +10,7 @@
       "description": "Articles "
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM",
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "I have helped XDEFI Wallet integrate Optimism into the wallet, making it a primary network for 200,000+ users that we currently support using Optimisim and I have helped improve NFTs so they are very sharp and able to transfer the network very quickly and smoothly!",
   "impactMetrics": [
     {
@@ -45,6 +42,5 @@
   "applicantAddress": "0x5DcE2Ab1CE43175A6aAe7c70088d660bAdD2f3c9",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Smart Contract Platforms, Wallet Management, NFT Aggregator, User Experience & Adoption, Content Creation",
   "pwCategory": "End User Experience and Adoption"
 }

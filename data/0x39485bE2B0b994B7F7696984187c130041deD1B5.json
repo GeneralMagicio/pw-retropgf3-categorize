@@ -10,10 +10,7 @@
       "description": "EGOSYS-RECORDS"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION",
-    "OP_STACK"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION", "OP_STACK"],
   "impactDescription": "Post More: Keep sharing your unique content on Optimism. 🚀\nInvite Friends: Bring your friends on board and earn invitation tokens. 👫\nEngage More: Comment, like, and share posts to earn even more tokens.\nWe are pushing boundaries with our multi-chain initiative, aiming to solidify Optimism's presence across multiple ecosystems. Dive in, as Optimism is gearing up to offer you more both inside and outside our app.",
   "impactMetrics": [
     {
@@ -37,6 +34,5 @@
   "applicantAddress": "0x39485bE2B0b994B7F7696984187c130041deD1B5",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Media Production, Community Building, User Experience & Adoption, Blockchain Infrastructure, Decentralized Finance (DeFi)",
   "pwCategory": "Media Production"
 }

@@ -40,9 +40,7 @@
       "description": "OP Growth Grant [Tracking & Distribution]"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "The no-sale Growth Grant onboarded over 27,000 unique users to OP Mainnet with 23,542 bridging txns, 22,311 swap txns, and over 1,648 fiat onramp txns. (Data source: Thrivecoin)\n\nOP-themed NFT campaign with over 2,000 unique mints. (Data source: OpenSea, Mercle)\n\nIncentive program and sybil-resistance knowledge sharing via OP forum; over 5,700 sybils removed and 45k OP saved. (Data source: Gitcoin Passport)\n\nOur interface has facilitated over $2.3m in bridging volume, $1.5m in trading volume, and continues to provide aggregated fiat on-ramp support to OP Mainnet for users in different jurisdictions worldwide. (Data sources: 0x, Lifi, Onramper/Banxa/MtPelerin)",
   "impactMetrics": [
     {
@@ -99,6 +97,5 @@
   "applicantAddress": "0x901a3507Deb114093B18e23b3Ad12F0d6Cbb8df1",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Finance (DeFi), End-User Experience & Adoption, NFTs, Web3 Community Platform, Tokenization Platforms",
   "pwCategory": "Decentralized Finance (DeFi)"
 }

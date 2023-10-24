@@ -30,9 +30,7 @@
       "description": "Onchain summit venue research page, we prepared this for Optimism Event team"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "We have become the first and only Turkish resource for those who want to contribute to the Optimism and Superchain ecosystem in Turkey. We have helped people make developments in the ecosystem through these resources. \n\nWe created Spaces and facilitated access to the ecosystem by translating resources such as Op Radio, Optimism Weekly Recap, Governance Cycles, and The Optimistic Newsletter into Turkish. We also shared knowledge by addressing important topics such as Optimism Governance and Op Labs.\n\nWith content produced by 11 people, we believed in the Optimistic Vision and worked to share this vision. We became the only local Optimism native community in Turkey, contributed to the organization of events such as the Onchain Summit, and shot videos reaching thousands of people.\n",
   "impactMetrics": [
     {
@@ -99,6 +97,5 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x47a71c373e3F407f668509c2A6BD46911162bF56.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x47a71c373e3F407f668509c2A6BD46911162bF56.json",
   "RPGF3_Application_UID": "0x64c7ca00fc9414ad889721dd400f16c690d62bf1b01cb4202cf56dcd183be5d9",
-  "applicantAddress": "0x47a71c373e3F407f668509c2A6BD46911162bF56",
-  "pwCategorySuggestions": "Community Building, Content Creation, End-User Experience, Translation Services"
+  "applicantAddress": "0x47a71c373e3F407f668509c2A6BD46911162bF56"
 }

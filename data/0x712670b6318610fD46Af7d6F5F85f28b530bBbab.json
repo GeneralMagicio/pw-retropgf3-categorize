@@ -49,6 +49,5 @@
   "pwRecategorizeToType": "PROJECT",
   "pwRecategorizeReason": "NO, it should be categorized as \"PROJECT\". The application is talking about an L2 blockchain project called \"OP Mainnet\" instead of an individual's contribution.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Tokenization Platforms, Blockchain Infrastructure, Layer 2 Scaling, Smart Contract Platforms, Developer Ecosystem",
   "pwCategory": "Layer 2 Scaling"
 }

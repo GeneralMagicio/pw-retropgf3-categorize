@@ -10,10 +10,7 @@
       "description": "transaction"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION",
-    "OP_STACK"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION", "OP_STACK"],
   "impactDescription": "Well im not gonna say i have a lot of impact to Optimism but i, glad i can be part of it. Delegating and staking the token,  keep interacting with the chain especially when i mint nft in mint.fun, mostly using OP chain for its cheap fees and hopefully my contribution helps",
   "impactMetrics": [
     {
@@ -44,6 +41,5 @@
   "applicantAddress": "0xaD715607ECfB9BDF1f2fB25D4FB2CE27E2698A00",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Smart Contract Platforms, Decentralized Finance (DeFi), Tokenization Platforms, Web3 Community Platform, Cryptocurrency Services",
   "pwCategory": "Developer Ecosystem"
 }

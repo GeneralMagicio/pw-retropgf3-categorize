@@ -38,6 +38,5 @@
   "RPGF3_Application_UID": "0x01626307fc4ada597343c0bbab4603dfa0da293f3af55e47b6d7057d63399d02",
   "applicantAddress": "0x18F62F7939d88d47C1502638882786D403E09372",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "Flag the application. Reason: The content of the application is not directly related to the individual’s/project’s contributions, but rather seems to be copied and pasted instructions or information about the grant program.",
-  "pwCategorySuggestions": "Developer Ecosystem, Community Building, Decentralized Finance (DeFi), Marketing, Governance & Tokens"
+  "pwFlaggedReason": "Flag the application. Reason: The content of the application is not directly related to the individual’s/project’s contributions, but rather seems to be copied and pasted instructions or information about the grant program."
 }

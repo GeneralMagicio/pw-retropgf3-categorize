@@ -10,9 +10,7 @@
       "description": "Pika Protocol: Perpetual"
     }
   ],
-  "impactCategory": [
-    "COLLECTIVE_GOVERNANCE"
-  ],
+  "impactCategory": ["COLLECTIVE_GOVERNANCE"],
   "impactDescription": "I think my contribution to Optimism will help the community to grow and to get more users to get to try out the ecosystem. by doing this i think it will helped to attract more governance participants into collective so that we can build a economy that works for everyone.",
   "impactMetrics": [
     {
@@ -44,6 +42,5 @@
   "applicantAddress": "0x2Fa7d6b46A2e88bA99C7B3Aa150916eeDd3401b9",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, User Experience & Adoption, Governance & Tokens, Developer Ecosystem, End-User Experience",
   "pwCategory": "Community Building"
 }

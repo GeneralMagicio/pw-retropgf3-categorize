@@ -10,9 +10,7 @@
       "description": "Acollection of over 100 op news blog posts"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Our daily briefing boosts optimism collective's brand awareness reaching over 2000 crypto enthusiast.We provide essensial op news coverage keeping end user developers journalists and crypto security firms informed about network upgrades new op stack chains and airdrops ",
   "impactMetrics": [
     {
@@ -49,6 +47,5 @@
   "applicantAddress": "0x616ae298C9e2D2F5bed0e3c89223b2516c6d8fd6",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Content Creation, Community Building, User Experience & Adoption, Media Production, Cryptocurrency Services",
   "pwCategory": "Community Building"
 }

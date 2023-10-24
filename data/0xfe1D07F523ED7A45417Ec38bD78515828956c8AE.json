@@ -47,6 +47,5 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for using a language other than English, as mentioned in the description and impactDescription fields.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Smart Contract Platforms, Layer 2 Scaling, User Experience & Adoption, Governance & Tokens, Developer Ecosystem.",
   "pwCategory": "This project description is not clear and lacks specific details about the project's goals, structure, and functionality in the Web3/blockchain domain. It's hard to assign any category based on the given information."
 }

@@ -20,10 +20,7 @@
       "description": "Hackathon projects for ETHSafari 2023, these projects deployed on the superchain"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM",
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Notably, in the African context, where Optimism interactions are less common, this experience served as a valuable introduction to the ecosystem. For those accustomed to the Binance chain, the onboarding process was particularly enlightening. It bridged the gap between Binance's P2P transactions and obtaining OETH, showcasing the significantly reduced gas fees on Optimism. This firsthand experience was valuable in promoting Optimism's adoption within the community and highlighting its cost-efficiency.",
   "impactMetrics": [
     {
@@ -52,6 +49,5 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x591a150574f49245E0D513901A72DaF005E6f997.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x591a150574f49245E0D513901A72DaF005E6f997.json",
   "RPGF3_Application_UID": "0x16eecef57c5f4e845ef27f63527122b5d8864ea72b33624fb50fdffdf809b07a",
-  "applicantAddress": "0x591a150574f49245E0D513901A72DaF005E6f997",
-  "pwCategorySuggestions": "Onboarding, Education, Web3 Community Platform"
+  "applicantAddress": "0x591a150574f49245E0D513901A72DaF005E6f997"
 }

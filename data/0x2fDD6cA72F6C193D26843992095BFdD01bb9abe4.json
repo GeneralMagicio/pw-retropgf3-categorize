@@ -10,9 +10,7 @@
       "description": "i have 265 transaction on optimism network"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "As an Optimism Network user, I contribute by storing valuable data in the blockchain, actively participating in open-source projects, providing feedback, and engaging in community discussions to enhance technology development. Holding the network's cryptocurrency supports liquidity and growth, while adhering to regulations and participating in social networks and communities fosters knowledge sharing. These multifaceted contributions aim to actively support Optimism Network's development and success.",
   "impactMetrics": [
     {
@@ -37,6 +35,5 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for violating rule 10 as the applicant's contributions are mainly user interactions on the Optimism Network, which are not in the scope of the RetroPGF grants program.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, Developer Ecosystem, Smart Contract Platforms",
   "pwCategory": "Developer Ecosystem"
 }

@@ -46,6 +46,5 @@
   "RPGF3_Application_UID": "0xdd8d59e7330210627f9326fa812846ddaac06d88c28f04cc547ad9eb414163fa",
   "applicantAddress": "0x02368fC51D9B7A5A15B7f4477a65F0f707C049E0",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "This application should be flagged for violating rule 10 as the user interactions like the transactions stated in the application are not within the scope of RetroPGF grants.",
-  "pwCategorySuggestions": "Decentralized Finance (DeFi), Non-Fungible Tokens (NFTs), Layer 2 Scaling, Smart Contract Platforms, Cross-Chain Platforms"
+  "pwFlaggedReason": "This application should be flagged for violating rule 10 as the user interactions like the transactions stated in the application are not within the scope of RetroPGF grants."
 }

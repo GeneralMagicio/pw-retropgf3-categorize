@@ -10,10 +10,7 @@
       "description": "Interacted with a smart contract on the network "
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION",
-    "OP_STACK"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION", "OP_STACK"],
   "impactDescription": "I’ve brought in a large number of crypto trader into the optimism community and they’ve been interacting with the project. I’ve also spread the awareness of crypto security regarding optimism chain to avoid the loss of funds and assets. Many people are ignorant of cyber frauds.",
   "impactMetrics": [
     {
@@ -37,6 +34,5 @@
   "applicantAddress": "0x23e24CB272af14DeC82e205d70F88EfD17e86A8f",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Finance (DeFi), Community Building, User Experience & Adoption, Blockchain Education, Cryptocurrency Services",
   "pwCategory": "Community Building"
 }

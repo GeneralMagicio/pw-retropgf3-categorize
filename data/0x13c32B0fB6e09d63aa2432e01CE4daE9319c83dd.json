@@ -10,9 +10,7 @@
       "description": "-"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "I currently educate people online about Cryptocurrency (on Tiktok). i can promote and educate about Optimism to get them know more. so that those people will know what is Optimism? , what products have?  how to use it? and what are the benefits to them?",
   "impactMetrics": [
     {
@@ -37,6 +35,5 @@
   "applicantAddress": "0x13c32B0fB6e09d63aa2432e01CE4daE9319c83dd",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "End-User Experience, Education, Blockchain Infrastructure, Social Media",
   "pwCategory": "End User Experience and Adoption"
 }

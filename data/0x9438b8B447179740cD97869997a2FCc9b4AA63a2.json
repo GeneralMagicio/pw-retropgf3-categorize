@@ -30,9 +30,7 @@
       "description": "Example of a long post about OP Stack & Superchains, quoted by Optimism"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "The OP Collective can rely on us growing the OP user, developer and investor base through our data and blockspace analysis, providing transparency around chain traction, liquidity & chain usage. Comparing metrics allows making informed decision about which chain & dApp to use and build on by providing developer content. On top of our accessible data visualization, educational knowledge around Layer 2s in the form of Wikis, articles, threads and regular posts make the space more transparent and different OP chains become more familiar. You can compare labeled smart contracts & download via API.\n\nOur data/blockspace visualizations were used in podcasts like The Daily Gwei, Bankless & charts are constantly posted on socials like X and Farcaster to help understand the OP ecosystem.",
   "impactMetrics": [
     {
@@ -96,6 +94,5 @@
   "applicantAddress": "0x9438b8B447179740cD97869997a2FCc9b4AA63a2",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Layer 2 Scaling, Blockchain Infrastructure, Knowledge Hub, Data Analytics, Developer Ecosystem",
   "pwCategory": "Blockchain Infrastructure"
 }

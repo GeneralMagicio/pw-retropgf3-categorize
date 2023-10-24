@@ -10,9 +10,7 @@
       "description": "Me"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "I'm real good advisor with a good connects and followers along all blockchain ecosystem. \n\nI'm very happy with the work done by the Optimism team and that is why I am applying as an advertiser to promote the latest network updates and projects. \n\nAlso the adoption of the network is massive, and add the good track record of the $OP token. ",
   "impactMetrics": [
     {
@@ -44,6 +42,5 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged because it seems to violate rule 6 - it appears the applicant is seeking to use this grant program to advertise and promote network updates and projects.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Layer 2 Scaling, Advertising, Tokenization Platforms, Developer Ecosystem, End-User Experience",
   "pwCategory": "Optimism Ambassador"
 }

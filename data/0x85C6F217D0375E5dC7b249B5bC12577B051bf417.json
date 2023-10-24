@@ -55,6 +55,5 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "Flagged because trading on Optimism and user interactions on OP chains that are part of the Superchain are not in scope to be rewarded in RetroPGF 3.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Smart Contract Platforms, Governance & Tokens, Decentralized Finance (DeFi), User Experience & Adoption, Community Building",
   "pwCategory": "Governance Tokens"
 }

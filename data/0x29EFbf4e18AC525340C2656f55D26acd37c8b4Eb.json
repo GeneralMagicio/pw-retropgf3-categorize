@@ -10,10 +10,7 @@
       "description": "dasboard"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION",
-    "OP_STACK"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION", "OP_STACK"],
   "impactDescription": "i just contribution on opxen batch minter in cointool i know this ecosystem blavlalalasdasfsdfsafsadfsafdsafdsfds asfdsfdsfdsfdsfdsf dsf dsf sddddddddd sd                     dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd",
   "impactMetrics": [
     {
@@ -45,6 +42,5 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged due to rule 11: spam. The application includes irrelevant and nonsensical text in the contribution and impact descriptions.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Tokenization Platforms, Developer Ecosystem, Web3 Community Platform, Smart Contract Platforms, Decentralized Finance (DeFi)",
   "pwCategory": "Developer Ecosystem"
 }

@@ -20,10 +20,7 @@
       "description": "Coindesk article about Teleport "
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION",
-    "OP_STACK"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION", "OP_STACK"],
   "impactDescription": "The development of a canonical DAI bridge following the launch of Optimism on mainnet in 2021 offered technical improvement for Optimism users as the 7 day fraud-proof waiting requirements were able to be bypassed for the first time. The initial debt ceiling per minting/burning was set to $1M DAI by Maker governance. Since the initial deployment of Teleport in November 2022, Maker governance has voted to change its multi-chain roadmap due to the “Endgame” which resulted in pausing further growth of Teleport, however it did provide an early technical improvement for Optimism users and was a pioneer in native asset burning/minting on chain.",
   "impactMetrics": [
     {
@@ -54,6 +51,5 @@
   "applicantAddress": "0x9b7DF3A2DF61E72dF5C4d565A0E017D7C5c6E532",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Finance (DeFi), Layer 2 Scaling, Smart Contract Platforms",
   "pwCategory": "Decentralized Finance (DeFi)"
 }

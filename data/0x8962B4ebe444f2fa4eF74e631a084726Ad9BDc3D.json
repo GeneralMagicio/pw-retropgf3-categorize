@@ -10,9 +10,7 @@
       "description": "Formally worked for a Video Distribution Service "
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Through my work at glass before the company eventually dissolved we we added Optimism to our rebuilt platform. Although I believe our internal model of Video distribution needed improvement Optimism was my favorite blockchain to build on because of its ease of use for new users. I believe incorporating that with other Freelance and distribution service industries would be the smoothest and most stable out of all the block chains",
   "impactMetrics": [
     {
@@ -42,6 +40,5 @@
   "applicantAddress": "0x8962B4ebe444f2fa4eF74e631a084726Ad9BDc3D",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Content Creation, Marketing Services, Web3 Community Platform, User Experience & Adoption, Creative Direction",
   "pwCategory": "End User Experience and Adoption"
 }

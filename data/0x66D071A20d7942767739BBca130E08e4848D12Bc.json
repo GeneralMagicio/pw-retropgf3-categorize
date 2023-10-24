@@ -15,9 +15,7 @@
       "description": "The initial mission proposal, along with updates detailing the progress."
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Oct 10th :  Over the last 30 days, The Reservoir has averaged 55 unique visitors daily (see 'Quantitative Impact'.)\nThough this number may appear not much, it is honest work ;-) especially given the niche and the limited influx of new entrants. \n'Optimism Vision: Founders Week' campaign on Twitter received attention, with 1649 impressions and 50 likes\n\nThe Reservoir also received endorsements from three other OP media outlets - The Optimistic Academy, Web3explorer, The Optimism Guide - each of which has linked to The Reservoir, a testament to the quality of our content.\n\nBeyond tangible metrics, the heartwarming feedback from the community also speaks about our impact (see 'Qualitative impact')",
   "impactMetrics": [
     {
@@ -54,6 +52,5 @@
   "applicantAddress": "0x66D071A20d7942767739BBca130E08e4848D12Bc",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Content Creation, Community Building, Web3 Community Platform, Blockchain Education, Media Production",
   "pwCategory": "Blockchain Education"
 }

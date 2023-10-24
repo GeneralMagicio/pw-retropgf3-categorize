@@ -15,9 +15,7 @@
       "description": "Reddit"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM"],
   "impactDescription": "We have helped developers from every ecosystem to have their contracts reviewed, helped with support to build tools, design systems, network, get careers and grow their projects. We are a general developer community to support new devs in the space. We currently have 14k developers, 1k visitors a week to the Discord as well as 15k users on the subreddit.\n\nWe have constantly maintained channels for support specifically with Solidity. We aim to run more events and hackathons to be able to further increase awareness for projects, onboard more devs into the space and help build more tools for users.",
   "impactMetrics": [
     {
@@ -45,6 +43,5 @@
   "applicantAddress": "0x133722ed7899f578Ba7aBAE2259898b18a3252c7",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Developer Community Building",
   "pwCategory": "Developer Ecosystem"
 }

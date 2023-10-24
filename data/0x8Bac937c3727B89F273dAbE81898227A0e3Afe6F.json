@@ -10,9 +10,7 @@
       "description": "Lists of core documents of the Assembly"
     }
   ],
-  "impactCategory": [
-    "COLLECTIVE_GOVERNANCE"
-  ],
+  "impactCategory": ["COLLECTIVE_GOVERNANCE"],
   "impactDescription": "The impact is to prove that it is possible to make Web3 governance much more solid by using tools of collective intelligence and sortition based deliberative democracy. \n\nThe key is that it is extremely difficult to deploy the first pilot because the field is very reluctant to non technical solutions. However, the state of current governance is very bad and we need new ways to approach governance. \n\nI needed almost 2 years to make this first pilot possible. I share all learnings and experiences with the collective so we can all learn from it and deploy improved versions in the future. ",
   "impactMetrics": [
     {
@@ -45,6 +43,5 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for violating the rules by promising future deliverables, as the applicant states they will bring their work to the Optimism Ecosystem next year.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Deliberative Governance, Web3 Governance, Collective Intelligence, Citizens' Assemblies",
   "pwCategory": "Collective Governance"
 }

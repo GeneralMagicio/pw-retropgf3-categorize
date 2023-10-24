@@ -15,9 +15,7 @@
       "description": "This is one of the times I used X to promote the OP"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "As I mentioned above, using the OP platform to make buying and selling transactions is my contribution to growing the OP network. As an individual, I don't have too much influence on the development of OP mainet but as a member of the Camel community, we have made a significant impact on the community especially is a music loving community through creating a mint NFT music wave on Sound.",
   "impactMetrics": [
     {
@@ -51,6 +49,5 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x67C7be15BBc60701A586614013a61f04C8Dd26D2.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x67C7be15BBc60701A586614013a61f04C8Dd26D2.json",
   "RPGF3_Application_UID": "0x08aa14327f3f4ae93625db807c8fe5fe99118a260047a9dd3894c1a39ee1f0e4",
-  "applicantAddress": "0x67C7be15BBc60701A586614013a61f04C8Dd26D2",
-  "pwCategorySuggestions": "Community Building, NFT Marketplace, Cross-Chain Platforms, User Experience & Adoption, Blockchain Gaming"
+  "applicantAddress": "0x67C7be15BBc60701A586614013a61f04C8Dd26D2"
 }

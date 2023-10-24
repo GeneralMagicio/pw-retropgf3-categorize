@@ -25,10 +25,7 @@
       "description": "One of our data analysis repos. Most data comes from our own nodes."
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION",
-    "OP_STACK"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION", "OP_STACK"],
   "impactDescription": "Optimism is part of the Ethereum ecosystem. We grow the Ethereum ecosystem. Where protocol guild builds the protocol, we build channels to highlight and meme the merits of their work, motivating a broader spectrum of builders and users to align with the missions of both Ethereum and Optimism.",
   "impactMetrics": [
     {
@@ -75,6 +72,5 @@
   "applicantAddress": "0xa8dbd44FAFD2D795700693cdA7f5275714eBE075",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Content Creation, Community Building, User Experience & Adoption",
   "pwCategory": "Community Building"
 }

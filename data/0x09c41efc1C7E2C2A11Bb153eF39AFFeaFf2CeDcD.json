@@ -10,9 +10,7 @@
       "description": "Optimism FM educational content website"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "As a communicator, in the Chinese user area, do your best to promote and disseminate information about Optimism technology, ecosystem, governance processes and public products online and offline to promote the adoption of Optimism. In a market with 1.3 billion potential users, we took the first step with the Optimism FM website, spread and influenced tens of thousands of Chinese users to pay attention to Optimism, and successfully gathered and attracted nearly 200 Chinese users to participate in depth. .",
   "impactMetrics": [
     {
@@ -42,6 +40,5 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x09c41efc1C7E2C2A11Bb153eF39AFFeaFf2CeDcD.json",
   "RPGF3_Application_UID": "0xeecedb1d31988ec1ba35388ae14e9773386e39c9e7fb11da78fcdf5d1220785f",
   "applicantAddress": "0x09c41efc1C7E2C2A11Bb153eF39AFFeaFf2CeDcD",
-  "pwIsFlagged": false,
-  "pwCategorySuggestions": "Content Creation, Community Building, User Experience & Adoption, Governance & Tokens, Blockchain Education"
+  "pwIsFlagged": false
 }

@@ -10,10 +10,7 @@
       "description": "explorer"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION",
-    "OP_STACK"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION", "OP_STACK"],
   "impactDescription": " It's possible that this entity or term has come into existence or gained recognition after that date, or it may refer to a group or community with a specific focus within the blockchain and cryptocurrency space. We can conclude that Optimism tend to be a future of new ways in blockchain.",
   "impactMetrics": [
     {
@@ -35,6 +32,5 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x54cF78C31739B97F87381b19937d13F04DC9819f.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x54cF78C31739B97F87381b19937d13F04DC9819f.json",
   "RPGF3_Application_UID": "0xb071c4133f6836b73048db3adfa555711901055ab3c37612b4639c97907c30f4",
-  "applicantAddress": "0x54cF78C31739B97F87381b19937d13F04DC9819f",
-  "pwCategorySuggestions": "Layer 2 Scaling, Smart Contract Platforms, Blockchain Infrastructure, Governance & Tokens, Developer Ecosystem"
+  "applicantAddress": "0x54cF78C31739B97F87381b19937d13F04DC9819f"
 }

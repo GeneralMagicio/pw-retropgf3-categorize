@@ -47,6 +47,5 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged because it includes promises of future impact, which is against the rules outlined for the grants program.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Tokenization Platforms, Decentralized Finance (DeFi), Web3 Community Platform, Cryptocurrency Services",
   "pwCategory": "Education"
 }

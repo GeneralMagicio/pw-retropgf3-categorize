@@ -15,9 +15,7 @@
       "description": "The main repository of the Nimbus execution client"
     }
   ],
-  "impactCategory": [
-    "OP_STACK"
-  ],
+  "impactCategory": ["OP_STACK"],
   "impactDescription": "We have collaborated with the Optimism team on the design and implementation of Ethereum Improvement Proposal (EIP) 4844, which aims to reduce transaction fees by up to 100x. We aim to enable Optimism to realise its full potential when it comes to improving the scalability and cost-effectiveness of the network.",
   "impactMetrics": [
     {
@@ -45,6 +43,5 @@
   "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x4413E96F6b46e59326a7695eF871FA902Ff7935d.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x4413E96F6b46e59326a7695eF871FA902Ff7935d.json",
   "RPGF3_Application_UID": "0xc6e48d375dcab4f18c48d6e24d3fc074ab38bf754381c0f830dbccff1e0f8dbb",
-  "applicantAddress": "0x4413E96F6b46e59326a7695eF871FA902Ff7935d",
-  "pwCategorySuggestions": "Smart Contract Platforms, Layer 2 Scaling, Ethereum, Blockchain Infrastructure"
+  "applicantAddress": "0x4413E96F6b46e59326a7695eF871FA902Ff7935d"
 }

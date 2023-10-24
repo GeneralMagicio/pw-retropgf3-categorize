@@ -10,9 +10,7 @@
       "description": "Twitter"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "I can be a tester or carry out transactions in a number of applications or websites such as dex, swap, pool, trade, borrow, limit and look for bugs or something like that. I can also be part of this project and promote it to the people closest to me.maybe it's just like that",
   "impactMetrics": [
     {
@@ -45,6 +43,5 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged because it violates rule 1, as the applicant promises future impact (\"I can be a tester or carry out transactions in a number of applications or websites such as dex, swap, pool, trade, borrow, limit and look for bugs or something like that\") without exhibiting concrete past contributions.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Finance (DeFi), User Experience & Adoption, Community Building, Web3 Community Platform, Cryptocurrency Services",
   "pwCategory": "End User Experience and Adoption"
 }

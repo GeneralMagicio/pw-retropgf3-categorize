@@ -50,10 +50,7 @@
       "description": "dOrg Mechanism Seminar"
     }
   ],
-  "impactCategory": [
-    "COLLECTIVE_GOVERNANCE",
-    "DEVELOPER_ECOSYSTEM"
-  ],
+  "impactCategory": ["COLLECTIVE_GOVERNANCE", "DEVELOPER_ECOSYSTEM"],
   "impactDescription": "The Mechanism Library enhances understanding of how mechanisms can solve problems critical to OP Collective, such as governance, public goods funding, and value capture. It also promotes OP-specific case studies: the dual-house governance sytem, attestation station, and airdrop.\n\nThe Mechanism Impact Measurement tool has empowered enabled Gitcoin (OP Stack user) to make data-driven decisions in designing their staking mechanics. This example that can be utilized by other OP Stack users & by Optimism itself.\n\nThe Mechanism Canvas & Seminars fill an educational gap, fostering better-informed development & design choices by mechanism designers.\n\n\"Slashing Engine\" & \"Smart Treaties\" can inspire innovations that drive utility of OP based tools & communities, starting with Gitcoin & Zuzalu.",
   "impactMetrics": [
     {
@@ -98,6 +95,5 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x4cd6B4503d02973D78CFF59C9C56f5F378688274.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x4cd6B4503d02973D78CFF59C9C56f5F378688274.json",
   "RPGF3_Application_UID": "0xb426cb999cd483bd00f82b9585a6f0963f13e01e6e15403db87e3fed1dc87d96",
-  "applicantAddress": "0x4cd6B4503d02973D78CFF59C9C56f5F378688274",
-  "pwCategorySuggestions": "Tokenization Platforms, Blockchain Infrastructure, Governance & Tokens, Developer Ecosystem, Content Creation"
+  "applicantAddress": "0x4cd6B4503d02973D78CFF59C9C56f5F378688274"
 }

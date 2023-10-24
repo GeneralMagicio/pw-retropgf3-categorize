@@ -10,9 +10,7 @@
       "description": "Domain ecc"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Working on Other Projects\nAll other projects any that are not Foundation Missions do not have any formal working process or proposal period. You are free to work on any of these tasks at any time. We highly recommend making a comment within the project's corresponding GitHub issue when you've decided to start work. This can help reduce duplicated work and can help connect you to other contributors who may be interested in working on the same task.",
   "impactMetrics": [
     {
@@ -43,6 +41,5 @@
   "applicantAddress": "0xc5892161105D2b8c66312D3EDaDfc9d1a23562E4",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, Funding and Rewards",
   "pwCategory": "Community Building"
 }

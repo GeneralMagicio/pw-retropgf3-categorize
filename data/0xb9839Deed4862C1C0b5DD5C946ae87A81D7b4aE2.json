@@ -10,10 +10,7 @@
       "description": "Commuity Call for Airdrop Hunting and Tesnet Apply"
     }
   ],
-  "impactCategory": [
-    "COLLECTIVE_GOVERNANCE",
-    "OP_STACK"
-  ],
+  "impactCategory": ["COLLECTIVE_GOVERNANCE", "OP_STACK"],
   "impactDescription": "I'm a crypto neubie and also a airdrop hunter person, i have a small airdrop (tesnet contributors) circle from Ubix Network, Core Chain, BNB Community and ZetaChain. I hope I can bring some of them, who not yet know very well about Optimism into the Optimism Community and also learn and updating our knowlegde about Optimism Chain Ecosystems.",
   "impactMetrics": [
     {
@@ -44,6 +41,5 @@
   "applicantAddress": "0xb9839Deed4862C1C0b5DD5C946ae87A81D7b4aE2",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, User Experience & Adoption, End-User Experience, Web3 Community Platform, Cryptocurrency Services",
   "pwCategory": "Community Building"
 }

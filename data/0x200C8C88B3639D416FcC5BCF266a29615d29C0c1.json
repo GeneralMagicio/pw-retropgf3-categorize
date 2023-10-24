@@ -40,9 +40,7 @@
       "description": "OP product deployment announcement"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM"],
   "impactDescription": "The OP Collective from now on can leverage secure and on-chain based storage services for all their data storage and hosting needs. Basically any kind of service, solution or dapp requires data storage in some way or the other. Unfortunately too many solutions still relay on web2 based storage services which hold security, censorship and single-point-of-failure risk. With Crust Networks tech stack devs have access to fully decentralized storage services natively within the OP ecosystem to achieve full scale decentralization for their data layer.",
   "impactMetrics": [
     {
@@ -65,6 +63,5 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x200C8C88B3639D416FcC5BCF266a29615d29C0c1.json",
   "RPGF3_Application_UID": "0xd4125ec1c05bcc71b24dd03b518681a9b5aef8ff46cfcabb951374bfae6ca855",
   "applicantAddress": "0x200C8C88B3639D416FcC5BCF266a29615d29C0c1",
-  "pwIsFlagged": false,
-  "pwCategorySuggestions": "Decentralized Storage"
+  "pwIsFlagged": false
 }

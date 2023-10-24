@@ -15,9 +15,7 @@
       "description": "Optimism Quests by Galxe (Thai Manual)"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "During its early days, my content was instrumental in spreading awareness and generating enthusiasm within the Thai community for Optimism. It served as an educational resource, helping Thai users become acquainted with the benefits of Layer 2 (L2) technology, particularly its cost-effective transaction capabilities. At that time, many Thai users were still unfamiliar with the concept of L2.",
   "impactMetrics": [
     {
@@ -46,6 +44,5 @@
   "applicantAddress": "0x76ce075e6CcB713099dEe965F4124fb204c741ab",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Blockchain Education, Community Building, Content Creation, User Experience & Adoption",
   "pwCategory": "Blockchain Education"
 }

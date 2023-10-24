@@ -20,10 +20,7 @@
       "description": "Example of a meetup I hosted (ETHDenver 2023)"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM",
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "I've co-organized most of the meetups this year within the Farcaster community including the ETHDenver (400 ppl), NFT NYC (150 ppl), EthCC (200 ppl), ETHNY (100 ppl) as well as many dozens of smaller meetups in cities around the world.\n\nI've also helped raise more than $30k to fund meetups within the community. Some of them have been individual event crowdfunds, but about ~$10k of that is a small grants program for local meetups that I started and run.\n\nEventcaster was also one of the very first Farcaster apps and bots, and is still one of the most widely used ones. I've also helped a handful of other Farcaster builders think through their apps based on the learnings from Eventcaster.",
   "impactMetrics": [
     {
@@ -49,6 +46,5 @@
   "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x538527f3602acaD78596F17B422Fcf5613Af1409.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x538527f3602acaD78596F17B422Fcf5613Af1409.json",
   "RPGF3_Application_UID": "0x4402871ae482fcae5ad8857dd1ef3c86495c1e7c66f807abcf98622db04debc6",
-  "applicantAddress": "0x538527f3602acaD78596F17B422Fcf5613Af1409",
-  "pwCategorySuggestions": "Community Building, Event Management, Grants Program"
+  "applicantAddress": "0x538527f3602acaD78596F17B422Fcf5613Af1409"
 }

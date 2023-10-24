@@ -10,10 +10,7 @@
       "description": "stake and vote optimism governence"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION",
-    "OP_STACK"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION", "OP_STACK"],
   "impactDescription": "This project is really great, the features are interesting and there are some things that make me really like it, namely: 1. the transaction is fast 2. Elegant and easy to use 3. the user can understand the menu perfectly 4. There are no defects in the design 5. the product runs according to what the user expects always success and hopefully it can be a promising project when mainnet arrives.\n",
   "impactMetrics": [
     {
@@ -46,6 +43,5 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "Flagged for violation of rule 1 - The application makes promises of future impact with the statement \"hopefully it can be a promising project when mainnet arrives.\"",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Blockchain Infrastructure",
   "pwCategory": "End User Experience and Adoption"
 }

@@ -15,9 +15,7 @@
       "description": "The original project (I am a very minor contributor)."
     }
   ],
-  "impactCategory": [
-    "COLLECTIVE_GOVERNANCE"
-  ],
+  "impactCategory": ["COLLECTIVE_GOVERNANCE"],
   "impactDescription": "The ethos of open source development lends itself to widespread mingling instead of siloing oneself and their development. But the chat protocols we use are organized differently and its not in their original functionality to enable rooms that are shared between communities. This is invaluable for DAO to DAO communication.\n\nAnother aspect is catering to the community on muliple levels by bridging a topic room in the same community between different protocols and therefore be able to:\n- transition/migrate to a new chat protocol\n- have backups in case of server hacks, message limits (Slack) or deplatforming\n- cater to different user needs (one likes discord for its options, another Element chat for being open source)\n- most people are lazy to adopt new applications",
   "impactMetrics": [
     {
@@ -47,6 +45,5 @@
   "applicantAddress": "0x701d0ECB3BA780De7b2b36789aEC4493A426010a",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, Digital Communication, Web3 Integration",
   "pwCategory": "Community Building"
 }

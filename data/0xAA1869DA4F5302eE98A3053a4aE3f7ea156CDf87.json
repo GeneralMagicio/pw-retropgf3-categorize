@@ -44,6 +44,5 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, this seems to be an INDIVIDUAL applicant as the bio and descriptions use singular pronouns such as \"I\" and \"me\".",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Smart Contract Platforms, Tokenization Platforms, Blockchain Infrastructure, Decentralized Finance (DeFi), User Experience & Adoption",
   "pwCategory": "The project description is unclear. It seems to have some repetition and no specific clarity about which area the project is primarily focused on."
 }

@@ -15,9 +15,7 @@
       "description": "Another example of DeBank Stream Statement"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "I'm always posting positive content on Twitter as well as my DeBank stream when it comes to OP.  I am a big supporter of Velodrome on OP as well as Aerodrome now on Base.  I've also been active in discord asking/answering questions.  Thank you for all you do for OP.",
   "impactMetrics": [
     {
@@ -45,6 +43,5 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x133D20c739F76236eEbacE7Bf5BfA751BfF15a9f.json",
   "RPGF3_Application_UID": "0xf47defee417dec534d9bfdee3a4f9bc2580d6a176aa2fc60aaa8ad8643f8e36f",
   "applicantAddress": "0x133D20c739F76236eEbacE7Bf5BfA751BfF15a9f",
-  "pwIsFlagged": false,
-  "pwCategorySuggestions": "Blockchain Education, Community Building, Content Creation, End-User Experience, Governance & Tokens"
+  "pwIsFlagged": false
 }

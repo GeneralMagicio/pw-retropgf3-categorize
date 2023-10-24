@@ -40,9 +40,7 @@
       "description": "   Optimistic Mind Focus"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "The Collective as group of like-minded people could onboard the next billion people in web3 by sharing Optimistic Vision Values with a common things for people like Music and Health Activity. Imagine hundreds millions people listening music daily - we could involve them into blockchain simply by great podcasts on sound.xyz platform where they could start discovering how they could mint tracks on OP network and how it works.\nFor Workouts and Mental Health content i want to make The Collective Discord a place where people could hanging out, learning new things now just tech-related stuff but in general to get all kind of things in one place. ",
   "impactMetrics": [
     {
@@ -74,6 +72,5 @@
   "applicantAddress": "0xEfbC53e0AFdc9f649Bc1Ab692461df57E70A560f",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Content Creation, Community Building, User Experience & Adoption, Developer Ecosystem, Web3 Community Platform",
   "pwCategory": "Community Building"
 }

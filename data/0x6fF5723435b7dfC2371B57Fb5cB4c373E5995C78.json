@@ -50,9 +50,7 @@
       "description": "OP Radio interview about my projects on Optimism"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "I introduced five companies, namely SRANN, Mangmoom Publishing, Tripster, NFT360, and Starlet, to the world of web3 through Optimism Stacks. I also welcomed NFT projects and protocols from Ethereum, such as Flower Girls and Omnisea, to participate in events on Optimism.\n\nFurthermore, I harnessed my art to promote Optimism NFT and onboard users to Optimism and Base by collaborating with prominent protocols like Coinbase, OpenSea, and Galxe.",
   "impactMetrics": [
     {
@@ -99,6 +97,5 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x6fF5723435b7dfC2371B57Fb5cB4c373E5995C78.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x6fF5723435b7dfC2371B57Fb5cB4c373E5995C78.json",
   "RPGF3_Application_UID": "0xf598f5603402cb5b807cc90c8dd3054d27a226505076258ac76b18b762438838",
-  "applicantAddress": "0x6fF5723435b7dfC2371B57Fb5cB4c373E5995C78",
-  "pwCategorySuggestions": "NFTs, Optimism, Web3 Community Platform, Digital Art"
+  "applicantAddress": "0x6fF5723435b7dfC2371B57Fb5cB4c373E5995C78"
 }

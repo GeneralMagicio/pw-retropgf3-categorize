@@ -10,9 +10,7 @@
       "description": "https://twitter.com/johgsthb"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "My contributions to the Optimism Collective have significantly enhanced its technical knowledge, fostered a sense of community, and emphasized sustainability. I've played a role in educating members, promoting eco-conscious practices, and sparking innovation, all of which have contributed to the collective's growth and development.",
   "impactMetrics": [
     {
@@ -34,6 +32,5 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x1b27B3D405eB29e255CB004e34Fd86f2803170f2.json",
   "RPGF3_Application_UID": "0x76095a7f4e747359e740ade5da3398b529cf5dbc2302a72feaf991809bd5dfff",
   "applicantAddress": "0x1b27B3D405eB29e255CB004e34Fd86f2803170f2",
-  "pwIsFlagged": false,
-  "pwCategorySuggestions": "NFTs, Optimism, Sustainability, Community Building, Education"
+  "pwIsFlagged": false
 }

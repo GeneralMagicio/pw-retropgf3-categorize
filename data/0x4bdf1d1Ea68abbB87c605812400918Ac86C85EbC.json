@@ -10,10 +10,7 @@
       "description": "i work in Crypto currency trading and nft "
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM",
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "I contributed to many events and activities related to the Optimism project, including transfers, bridge work, and mint for NFT. I am very interesting and happy to join with great optimism project and great team I contributed to many events and activities related to the Optimism project, including transfers, bridge work, and mint for NFT. I am very interesting and happy to join with great optimism project and great team ",
   "impactMetrics": [
     {
@@ -37,6 +34,5 @@
   "applicantAddress": "0x4bdf1d1Ea68abbB87c605812400918Ac86C85EbC",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Finance (DeFi), Non-Fungible Tokens (NFTs), Smart Contract Platforms, Tokenization Platforms, Cryptocurrency Services",
   "pwCategory": "Optimism Ambassador"
 }

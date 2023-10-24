@@ -10,9 +10,7 @@
       "description": "Web3 explorer, Crypto addict and Interesting on NFT"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Improved User Experience: If I developed open-source tools or made technical contributions to the Optimism codebase, I could have significantly improved the user experience. For example, by optimizing transaction speeds, reducing costs, or improving the interface, I'm made Optimism more user-friendly and accessible. This directly impacts end-user experience as it makes interacting with Optimism a smoother and more enjoyable process.\n\nIncreased Adoption: My educational content and community-building efforts could have played a crucial role in driving the adoption of Optimism. By creating educational materials, I'm helped users understand how to use Optimism, thereby reducing barriers to entry. ",
   "impactMetrics": [
     {
@@ -36,6 +34,5 @@
   "applicantAddress": "0x4bcDA99E537561662e00CB76295B9fFa0861ADf5",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Open-Source Tools, Educational Content, Community Building, Technical Contributions, Improved User Experience",
   "pwCategory": "Developer Ecosystem"
 }

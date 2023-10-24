@@ -10,9 +10,7 @@
       "description": "0x15fa08599eb017f89c1712d0fe76138899fdb9db"
     }
   ],
-  "impactCategory": [
-    "COLLECTIVE_GOVERNANCE"
-  ],
+  "impactCategory": ["COLLECTIVE_GOVERNANCE"],
   "impactDescription": "The ecosystem is small but they have some great projects on there.\nI am  confident their tech stack and the attention Base will bring is going to bring a lot of projects over. I am optimistic we'll see a few. Cheers Optimistic people and to the developers!",
   "impactMetrics": [
     {
@@ -44,6 +42,5 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for promising future impact and contributions, which is against the rules of the grant program.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Layer 2 Scaling, Smart Contract Platforms, Developer Ecosystem, Governance & Tokens, Web3 Community Platform",
   "pwCategory": "Community Building"
 }

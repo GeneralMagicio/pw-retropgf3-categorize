@@ -50,9 +50,7 @@
       "description": "Daniel Allan Duality Album contract"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "We have brought a significant amount of music culture to Optimism and the wider OP Stack.\n\nBeyond onboarding artists - we've championed the adoption of L2 as the primary home for minting and collecting music onchain.\n\nWe've hosted events across Devcon, ETHCC, ETH Denver,  ETH Tokyo, NFT NYC and NFT LA to champion onchain artists.\n",
   "impactMetrics": [
     {
@@ -89,6 +87,5 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x512b55b00d744fC2eDB8474f223a7498c3e5a7ce.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x512b55b00d744fC2eDB8474f223a7498c3e5a7ce.json",
   "RPGF3_Application_UID": "0x1a62e4ce6dcb668be423262c84d326f03f4b9981b8a6fc74d556af85af0be8c3",
-  "applicantAddress": "0x512b55b00d744fC2eDB8474f223a7498c3e5a7ce",
-  "pwCategorySuggestions": "NFTs, Music, Onchain Record Label, Web3 Community Platform, User Experience & Adoption"
+  "applicantAddress": "0x512b55b00d744fC2eDB8474f223a7498c3e5a7ce"
 }

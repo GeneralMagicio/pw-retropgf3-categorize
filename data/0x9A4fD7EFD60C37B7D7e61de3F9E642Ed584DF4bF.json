@@ -10,9 +10,7 @@
       "description": "participate in donations"
     }
   ],
-  "impactCategory": [
-    "COLLECTIVE_GOVERNANCE"
-  ],
+  "impactCategory": ["COLLECTIVE_GOVERNANCE"],
   "impactDescription": "I am a loyal old user of Optimism. I received three rounds of airdrops from Optimism. I firmly hold it and actively participate in community governance. I often pay attention to the development of the Optimistic Project, experience the main network project and the Optimistic Super Chain, and I also participate in donations.",
   "impactMetrics": [
     {
@@ -43,6 +41,5 @@
   "applicantAddress": "0x9A4fD7EFD60C37B7D7e61de3F9E642Ed584DF4bF",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Tokenization Platforms, Developer Ecosystem, Governance & Tokens, Community Building, Decentralized Finance (DeFi)",
   "pwCategory": "Community Building"
 }

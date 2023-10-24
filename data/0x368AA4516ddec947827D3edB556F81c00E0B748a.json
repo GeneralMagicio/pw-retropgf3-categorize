@@ -10,9 +10,7 @@
       "description": "Thai language content"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "I am interested in cross-chain project since 2021, it gives me many opportunities in this society OP.\nIt is a source of many knowledgeable people that I want to approach.\nI am interested in sharing information with new users. At least translate the information into Thai.",
   "impactMetrics": [
     {
@@ -38,6 +36,5 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for violating rule 11. The application has used a language other than English.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Translation, Community Building",
   "pwCategory": "Community Building"
 }

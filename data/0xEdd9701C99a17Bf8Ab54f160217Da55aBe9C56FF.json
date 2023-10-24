@@ -60,9 +60,7 @@
       "description": "Optimism Friends #005 - OPTICHADS"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "As a result, a big segment of my community established 'OP Friends.' This group consists of community members dedicated to the Optimism ecosystem. The next step is to create a collection specifically for this community within the blockchain, allowing them to have representation within the system itself.",
   "impactMetrics": [
     {
@@ -97,6 +95,5 @@
   "applicantAddress": "0xEdd9701C99a17Bf8Ab54f160217Da55aBe9C56FF",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Content Creation, Community Building, User Experience & Adoption, Blockchain Education, Media Production",
   "pwCategory": "Community Building"
 }

@@ -15,10 +15,7 @@
       "description": "Song Contract for DANC3 collective (my curator account)"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION",
-    "OP_STACK"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION", "OP_STACK"],
   "impactDescription": "I support over 189 artists on sound.xyz and have contributed over 9 ETH to onchain music. As a curator, my efforts have driven over 412 mints equaling over 1.166 ETH in revenue, directly to musicians. I've also successfully onboarded 10 new artists into the Optimism ecosystem. ",
   "impactMetrics": [
     {
@@ -60,6 +57,5 @@
   "applicantAddress": "0xd35D60B1746cAEc2289c892EAC7351D66d63455B",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Content Creation, Music Streaming, Community Building, Blockchain Adoption",
   "pwCategory": "Community Building"
 }

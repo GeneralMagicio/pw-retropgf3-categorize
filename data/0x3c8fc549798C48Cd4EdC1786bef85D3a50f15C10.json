@@ -30,9 +30,7 @@
       "description": "Analysis of Uniswap on Optimism during March 23"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "These reports were shared with the Uniswap Governance Forum users, these include delegates, investors and community members.\nThe 7000+ viewers of these reports across Substack and the Forum were both exposed to and informed about the state of Uniswap on Optimism and compare it both historically and versus the other chains.\nThese reports received good feedback from delegates https://gov.uniswap.org/t/uniswap-monthly-financial-report-analysis-feb-23/20682 and investors like Matthew Wong from Ribbit Capital https://twitter.com/mlcwong?lang=en. ",
   "impactMetrics": [
     {
@@ -67,6 +65,5 @@
   "applicantAddress": "0x3c8fc549798C48Cd4EdC1786bef85D3a50f15C10",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Finance (DeFi)",
   "pwCategory": "Decentralized Finance (DeFi)"
 }

@@ -25,9 +25,7 @@
       "description": "Optimized Solidity snippets."
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM"],
   "impactDescription": "My contributions hopefully had the impact of increasing the developer experience for folks using the wagmi toolchain and also trying to share resources in learning more of the advances topics of solidity while trying to also contribute into its developer ecosystem.",
   "impactMetrics": [
     {
@@ -52,6 +50,5 @@
   "applicantAddress": "0xBdB14cfFC78B901299Dc878adD11273C621fF5B8",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Developer Ecosystem, Open Source Contribution, Smart Contract Platforms",
   "pwCategory": "Developer Ecosystem"
 }

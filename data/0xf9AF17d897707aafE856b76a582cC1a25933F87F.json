@@ -15,9 +15,7 @@
       "description": "Twitter"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "People who viewed the tutorial videos or had contact with the written material had a brief user experience and felt more encouraged to participate without fear of losing their funds, due to not knowing the tools and were afraid of carrying out interactions that would they could be wasting their time",
   "impactMetrics": [
     {
@@ -48,6 +46,5 @@
   "applicantAddress": "0xf9AF17d897707aafE856b76a582cC1a25933F87F",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Content Creation, Community Building, User Experience & Adoption, Developer Ecosystem, Social Media Marketing",
   "pwCategory": "Community Building"
 }

@@ -20,9 +20,7 @@
       "description": "Layer2News lists layer2 chain (Base Chain) eco-portal built on OP Stack."
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "For new users, they may have clicked on the wrong link and downloaded a fake MetaMask wallet, and they may not know how to bridge assets to Optimism.\n\nUntil Layer2News was launched, we saw a large number of KOLs discussing Layer2News, which included the largest number of projects in the most concise presentation and provided shortcuts for new users to get started. Our initial intention is simple, users can know what the project is doing, whether the project should be involved or not, so that users can avoid being scammed, and so that users can find excellent projects with as few mouse clicks as possible.\n\nAt the beginning of Layer2News' launch, 2k-3k users browsed the site every day, and until today, there are 100+ users using Layer2News every day as well.",
   "impactMetrics": [
     {
@@ -54,6 +52,5 @@
   "applicantAddress": "0xdef45E63561DdED007fB7a406F3E5490CBB48eA6",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Wallet, Bridge, DEX, DeFi, NFT",
   "pwCategory": "Blockchain Education"
 }

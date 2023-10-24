@@ -25,10 +25,7 @@
       "description": "Optimism Github Attestation Bot"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM",
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Optimism Gas Tracker:\nGives users a better understanding of OP mainnet gas fee activity. \n\nOptimism Transaction Replay Tool:\nImprove user experience who face L1->L2 or L2->L1 cross-chain messenger transaction failures by using an easy to use UI and removing the need to use a technical SDK.\n\nGithub Attestation Action and Bot: \nHelps projects on Github keep track of their contributors by creating automated attestations.\n\n",
   "impactMetrics": [
     {
@@ -52,6 +49,5 @@
   "applicantAddress": "0xB60f585E23173c546E40231C3D55afd029009333",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Blockchain Infrastructure, User Experience & Adoption, Developer Ecosystem, Cross-Chain Platforms",
   "pwCategory": "Developer Ecosystem"
 }

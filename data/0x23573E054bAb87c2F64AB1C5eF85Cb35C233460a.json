@@ -10,9 +10,7 @@
       "description": "111"
     }
   ],
-  "impactCategory": [
-    "COLLECTIVE_GOVERNANCE"
-  ],
+  "impactCategory": ["COLLECTIVE_GOVERNANCE"],
   "impactDescription": "11111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
   "impactMetrics": [
     {
@@ -37,6 +35,5 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for containing spam, as the contribution description and impact description are irrelevant and do not provide useful information about the applicant's contribution or impact.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Blockchain Infrastructure, Developer Ecosystem, Content Creation, User Experience & Adoption, Web3 Community Platform",
   "pwCategory": "The provided project description is not clear or detailed enough to assign a category."
 }

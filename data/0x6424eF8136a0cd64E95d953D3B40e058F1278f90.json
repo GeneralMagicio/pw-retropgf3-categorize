@@ -10,9 +10,7 @@
       "description": "The link to this project"
     }
   ],
-  "impactCategory": [
-    "OP_STACK"
-  ],
+  "impactCategory": ["OP_STACK"],
   "impactDescription": "Not yet made any contribution, but i'm about to do it. As I said earlier, i will share this project RetroPGF to the group that i joined at Telegram. I am sure that many of my friends there will join and participate. I am also hoping that i can get reward from this project.",
   "impactMetrics": [
     {
@@ -38,6 +36,5 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for promising future impact and for not having made any contributions yet.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, User Experience & Adoption, Blockchain Gaming, Content Creation",
   "pwCategory": "Community Building"
 }

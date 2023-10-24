@@ -44,6 +44,5 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, it is not correctly categorized. This is likely an INDIVIDUAL application because it is frequently speaking in the first person such as \"i follow this project\" and \"i try optimism bridge\".",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Smart Contract Platforms, Tokenization Platforms, Blockchain Infrastructure, Decentralized Finance (DeFi), End-User Experience",
   "pwCategory": "User Experience & Adoption"
 }

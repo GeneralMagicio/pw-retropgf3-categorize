@@ -59,6 +59,5 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, the application is categorized as a project but the bio section introduces an individual, suggesting it should be categorized as an INDIVIDUAL.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Non-Fungible Tokens (NFTs), Layer 2 Scaling, Cross-Chain Platforms, Decentralized Finance (DeFi), Community Building",
   "pwCategory": "Community Building"
 }

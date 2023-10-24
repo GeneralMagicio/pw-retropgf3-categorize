@@ -10,9 +10,7 @@
       "description": "My contributions"
     }
   ],
-  "impactCategory": [
-    "COLLECTIVE_GOVERNANCE"
-  ],
+  "impactCategory": ["COLLECTIVE_GOVERNANCE"],
   "impactDescription": "My contributions to Optimism span several crucial domains. Firstly, I engage in delegation, strategically allocating resources to support initiatives aligned with our mission. Secondly, I've actively expanded our community by recommending friends who share our vision, fostering diversity of thought. Thirdly, I participate in on-chain transactions, fortifying our network's infrastructure and funding key projects. Lastly, I contribute by voting on forums, shaping collective decisions and driving us toward our goals. These multifaceted efforts collectively strengthen Optimism's impact and resilience.",
   "impactMetrics": [
     {
@@ -36,6 +34,5 @@
   "applicantAddress": "0xa3f13c688d8E124c774fafE73920D47f457F8c8c",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Governance & Tokens, Community Building, Layer 2 Scaling",
   "pwCategory": "Community Building"
 }

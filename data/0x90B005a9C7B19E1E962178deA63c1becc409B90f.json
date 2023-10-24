@@ -47,6 +47,5 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, the applicant refers to himself as \"I\" in the bio, indicating that it is an individual not a project.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Cryptography, Zero Knowledge Proofs, Blockchain Infrastructure, Developer Ecosystem, Smart Contract Platforms",
   "pwCategory": "Developer Ecosystem"
 }

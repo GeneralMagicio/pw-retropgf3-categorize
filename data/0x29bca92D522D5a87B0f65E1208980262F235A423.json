@@ -10,10 +10,7 @@
       "description": "Deltaport platform main repository"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION",
-    "OP_STACK"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION", "OP_STACK"],
   "impactDescription": "Crypto traders and other users utilising Optimism network over other higher cost networks, bringing Optimism token value up by executing transactions, swaping tokens, automating games, locking value in smart contracts hosted and partenerd with Optimism Collective.",
   "impactMetrics": [
     {
@@ -36,6 +33,5 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x29bca92D522D5a87B0f65E1208980262F235A423.json",
   "RPGF3_Application_UID": "0x93802f900f4a02570de2bedf8f16fce49715eda5dde0a2ae9199c93218313cb5",
   "applicantAddress": "0x29bca92D522D5a87B0f65E1208980262F235A423",
-  "pwIsFlagged": false,
-  "pwCategorySuggestions": "Smart Contract Platforms, Decentralized Finance (DeFi), Tokenization Platforms, Trading Tools, User Experience & Adoption"
+  "pwIsFlagged": false
 }

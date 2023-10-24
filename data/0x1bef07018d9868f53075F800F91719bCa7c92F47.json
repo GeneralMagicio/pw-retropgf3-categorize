@@ -10,9 +10,7 @@
       "description": "https://twitter.com/Bradrmorse"
     }
   ],
-  "impactCategory": [
-    "OP_STACK"
-  ],
+  "impactCategory": ["OP_STACK"],
   "impactDescription": "Use for more Op to grow in my community and let them know why OP Mainnet is a low-cost and lightning-fast Ethereum L2 blockchain powered by Optimism. so that OP Mainnet is a fast, stable, and scalable L2 blockchain built by Ethereum developers, for Ethereum developers. Built as a minimal extension to existing Ethereum software, OP Mainnet's EVM-equivalent architecture scales your Ethereum apps without surprises. If it works on Ethereum, it works on OP Mainnet at a fraction of the cost.",
   "impactMetrics": [
     {
@@ -33,6 +31,5 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x1bef07018d9868f53075F800F91719bCa7c92F47.json",
   "RPGF3_Application_UID": "0x4fa73a1c1e783ad5175590b58663543e2f20b3d0fa9195654c550ad58401f91d",
   "applicantAddress": "0x1bef07018d9868f53075F800F91719bCa7c92F47",
-  "pwIsFlagged": false,
-  "pwCategorySuggestions": "Layer 2 Scaling, Smart Contract Platforms, Blockchain Infrastructure, Developer Ecosystem, End-User Experience"
+  "pwIsFlagged": false
 }

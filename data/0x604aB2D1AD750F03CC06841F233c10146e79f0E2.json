@@ -46,6 +46,5 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, the application is incorrectly categorized because it is an individual (\"I offer insights\") applying, not a project.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Blockchain Education",
   "pwCategory": "Blockchain Education"
 }

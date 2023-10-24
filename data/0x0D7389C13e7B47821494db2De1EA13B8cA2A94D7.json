@@ -15,9 +15,7 @@
       "description": "Product Deck for the on-chain trivia gaming platform we have built on Optimism "
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "I have induced new users via my NFT collection into the Optimism ecosystem.\nI will now get a million users to Optimism by the trivia platform we have created, with telco partnerships. \nQuizmatch is a blockchain and AI-powered GenZ knowledge-monetizing platform available on PC, mobile, and XR, gamified with rewards and digital asset ownership.\nQuizmatch solves the problem of the myriad of digital IPs (apps, games, social networks, websites) that fail to engage and retain users in a meaningful and cost-effective manner.\nOur mission is to fill in a vacuum, the deficiency of human knowledge in today's AI-powered, gaming-focused Gen Z.\nWe've been chosen as an ALPHA startup by Web Summit, the globally significant tech event making its Middle East debut.",
   "impactMetrics": [
     {
@@ -50,6 +48,5 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for promising future impact: \"I will now get a million users to Optimism by the trivia platform we have created, with telco partnerships.\"",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Blockchain Gaming, NFTs, Web3 Community Platform, Content Creation, User Experience & Adoption",
   "pwCategory": "End User Experience and Adoption"
 }

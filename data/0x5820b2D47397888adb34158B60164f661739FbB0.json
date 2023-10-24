@@ -20,10 +20,7 @@
       "description": "API for OP prices and large token transfer."
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM",
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "OpTracker allows users to track large OP token transfers in real-time. The site aims to label known OP wallets. All the data is easily accessible through an open API. Users are integrating our price API into their Google Sheets. The site has just recently launched, but I can see the user metrics growing daily.",
   "impactMetrics": [
     {
@@ -50,6 +47,5 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x5820b2D47397888adb34158B60164f661739FbB0.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x5820b2D47397888adb34158B60164f661739FbB0.json",
   "RPGF3_Application_UID": "0x553232d3bf4aedc322c984eb06f1e88447007f48f0fc2377eac10b213ce069f8",
-  "applicantAddress": "0x5820b2D47397888adb34158B60164f661739FbB0",
-  "pwCategorySuggestions": "Smart Contract Platforms, Blockchain Infrastructure, Data Analytics, Developer Ecosystem, User Experience & Adoption"
+  "applicantAddress": "0x5820b2D47397888adb34158B60164f661739FbB0"
 }

@@ -10,9 +10,7 @@
       "description": "NFT"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "New user of optimism. Work that increased the efficiency, security, resilience and awareness of the OP Stack.Work that provided impact to end users in the Optimism Collective, or helped bring new end users into the Collective. Work that provided impact to application developers in the Optimism Collective, or helped bring new developers into the Collective.",
   "impactMetrics": [
     {
@@ -44,6 +42,5 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for violating the grant rules with promises of future impact, as indicated by the statement \"I want to make optimism familiar and easy use for people around the world. And also can be use to passive income.\"",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Finance (DeFi), Layer 2 Scaling, Smart Contract Platforms, Developer Ecosystem, User Experience & Adoption",
   "pwCategory": "Optimism Ambassador"
 }

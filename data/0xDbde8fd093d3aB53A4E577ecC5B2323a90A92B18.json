@@ -39,6 +39,5 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for containing spam, as the descriptions of the contribution and impact are filled with irrelevant characters, violating rule 11.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Finance (DeFi), Smart Contract Platforms, Web3 Community Platform, End-User Experience, Cryptocurrency Services",
   "pwCategory": "Web3 Community Platform"
 }

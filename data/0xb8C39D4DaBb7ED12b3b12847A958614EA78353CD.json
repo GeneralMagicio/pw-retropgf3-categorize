@@ -56,6 +56,5 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged because it is in a language other than English.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "NFTs, Smart Contract Platforms, Blockchain Infrastructure",
   "pwCategory": "End User Experience and Adoption"
 }

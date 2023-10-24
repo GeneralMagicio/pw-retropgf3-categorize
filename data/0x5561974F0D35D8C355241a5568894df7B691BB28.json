@@ -25,10 +25,7 @@
       "description": "ERC-6551 subgraph"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION",
-    "OP_STACK"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION", "OP_STACK"],
   "impactDescription": "We completed the RFG-7 for ERC-6551 no code tooling. We are the only place in which you can create a net new TBA collection on Optimism and Base. \n\nWe also have built tooling to turn existing NFTs into TBAs on Optimism and Base. \n\nWe have spent significant time building this out and designing the UX to help kickoff the creation of more ERC-6551 NFTs.\n\nWe are still working on go to market, but wanted to apply for RPG as we have completed the RFG.",
   "impactMetrics": [
     {
@@ -57,6 +54,5 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x5561974F0D35D8C355241a5568894df7B691BB28.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x5561974F0D35D8C355241a5568894df7B691BB28.json",
   "RPGF3_Application_UID": "0x020a49814aed7362cc564a227d7f1bda9c86b95b7d003080785c97a925fbf2b7",
-  "applicantAddress": "0x5561974F0D35D8C355241a5568894df7B691BB28",
-  "pwCategorySuggestions": "Tokenization Platforms, NFT Aggregator, Web3 Community Platform"
+  "applicantAddress": "0x5561974F0D35D8C355241a5568894df7B691BB28"
 }

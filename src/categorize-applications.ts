@@ -12,7 +12,7 @@ const model = new ChatOpenAI({ modelName: "gpt-3.5-turbo" });
 const promptTemplate = PromptTemplate.fromTemplate(
   `Below is a desctiption of a project active in the Web3/blockchain space. 
   
-  I would like you to categorize this project by suggesting a list of up to 5 categories that best 
+  I would like you to categorize this project by suggesting a list of up to 10 categories that best 
   describe the project. 
 
   Example categories: Decentralized Finance (DeFi), Non-Fungible Tokens (NFTs), Layer 2 Scaling, 
@@ -50,8 +50,7 @@ export async function categorizeApplications(analyzeAll: YesOrNo) {
       const application = JSON.parse(doc.pageContent);
 
       const shouldProcess =
-        analyzeAll === "yes" || !("pwCategorySuggestions" in application);
-
+        analyzeAll === "yes" || !(
       if (!shouldProcess) {
         continue;
       }

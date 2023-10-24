@@ -38,6 +38,5 @@
   "RPGF3_Application_UID": "0xd4f1b16d93eb848293392a65b6dce3507fb7a33a3ad0f968ae49328de7046814",
   "applicantAddress": "0x2204464061Dd3Fec8E45B677308e9e100B49cdCA",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "This application should be flagged because it violates rule 10 as user interactions, such as sending transactions and minting NFTs, are not considered valid contributions according to the grant program rules.",
-  "pwCategorySuggestions": "NFTs, Decentralized Finance (DeFi), Testing, Cryptocurrency Services"
+  "pwFlaggedReason": "This application should be flagged because it violates rule 10 as user interactions, such as sending transactions and minting NFTs, are not considered valid contributions according to the grant program rules."
 }

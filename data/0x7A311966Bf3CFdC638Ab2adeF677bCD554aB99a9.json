@@ -10,10 +10,7 @@
       "description": "Optimism Scan"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION",
-    "OP_STACK"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION", "OP_STACK"],
   "impactDescription": "The impact of my contribution is carrying out transactions on the Optimism Network. I think that is one contribution, apart from that, I also often support it by following and sharing news from Optimism.Hopefully Optimism is more advanced and can compete with big projects",
   "impactMetrics": [
     {
@@ -45,6 +42,5 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for violating rule 10. The applicant just making transactions on the Optimism Network and following its social media does not count as a contribution.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Smart Contract Platforms, Layer 2 Scaling, Decentralized Finance (DeFi), Community Building, User Experience & Adoption",
   "pwCategory": "Layer 2 Scaling"
 }

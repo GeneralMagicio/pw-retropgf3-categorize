@@ -15,10 +15,7 @@
       "description": "Docs"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM",
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "We have begun onboarding new users to the base chain and are actively nurturing relationships with various projects, all the while educating the user base about the systems available for on-chain use. Our efforts have met with considerable success in aiding new on-chain users in comprehending the DEFI ecosystem and providing liquidity to network users.",
   "impactMetrics": [
     {
@@ -39,6 +36,5 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x74293A57d7f6B9F6C5580CE50aaE3f10A0a09C56.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x74293A57d7f6B9F6C5580CE50aaE3f10A0a09C56.json",
   "RPGF3_Application_UID": "0x09805bd3ff5a0a11b48617d60129da46e585eb7207d3b7f8bbf587bd61849792",
-  "applicantAddress": "0x74293A57d7f6B9F6C5580CE50aaE3f10A0a09C56",
-  "pwCategorySuggestions": "Decentralized Finance (DeFi), Liquidity Hub, Governance Tokens, Educational Series, User Onboarding"
+  "applicantAddress": "0x74293A57d7f6B9F6C5580CE50aaE3f10A0a09C56"
 }

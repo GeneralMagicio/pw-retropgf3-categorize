@@ -38,6 +38,5 @@
   "pwRecategorizeToType": "PROJECT",
   "pwRecategorizeReason": "NO, the application is incorrectly categorized as an \"INDIVIDUAL\" while it should be categorized as a \"PROJECT\" because \"CoinRuay\" refers to a blockchain club, not an individual.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Content Creation, Community Building, Blockchain Education",
   "pwCategory": "Blockchain Education"
 }

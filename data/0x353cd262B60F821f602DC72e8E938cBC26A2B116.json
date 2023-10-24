@@ -72,6 +72,5 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x353cd262B60F821f602DC72e8E938cBC26A2B116.json",
   "RPGF3_Application_UID": "0x503998acaeee3cdae0023e7d3327c017145b2fd638f1b83084975eceb4ff8cbc",
   "applicantAddress": "0x353cd262B60F821f602DC72e8E938cBC26A2B116",
-  "pwIsFlagged": false,
-  "pwCategorySuggestions": "Blockchain Services, Grants & Fundraising, Venture Capital, Web3 Support, Database Management"
+  "pwIsFlagged": false
 }

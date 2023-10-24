@@ -43,6 +43,5 @@
   "pwRecategorizeToType": "PROJECT",
   "pwRecategorizeReason": "NO, this application is talking about a project's features and its impact rather than the individual's contribution, therefore, it should be categorized as \"PROJECT\".",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "End-User Experience, User Experience & Adoption, Blockchain Infrastructure, Smart Contract Platforms",
   "pwCategory": "End User Experience and Adoption"
 }

@@ -40,6 +40,5 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged because it is potentially advertising and spamming by providing airdrop link as the main contribution. It also has a vague impact description which borders on promising future impact, both of which are in violation of the grant program rules.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Governance & Tokens, User Experience & Adoption, Community Building, Tokenization Platforms, Decentralized Finance (DeFi)",
   "pwCategory": "Community Building"
 }

@@ -20,9 +20,7 @@
       "description": "Quests on Optimism"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "For about a year, we've provided educational resources, support and teachings to hundreds users on Optimism. Casually enhancing user's competence conducting themselves on-chain, while spreading the word of optimism and maintaining reasonable expectations through our lenses. My passion here on Optimism came from my passion for DeFi as a whole.",
   "impactMetrics": [
     {
@@ -48,6 +46,5 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "Flagged: The application promises future impact, specifically the onboarding of 100+ new crypto users to Optimism from Q1 to Q4 2022, which is against rule 1 of the grant program rules.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Finance (DeFi), Education, User Experience & Adoption, Community Building",
   "pwCategory": "Blockchain Education"
 }

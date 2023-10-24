@@ -10,9 +10,7 @@
       "description": "NA"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Have Voted to optimism dao ... also delegate op,\nas op team regularly updating and working on optimism to improve and materialize for solid ecosystem.\nso it looks very much promising as a great team behind it.\ni hope to get airdrop of op for third round.\n",
   "impactMetrics": [
     {
@@ -38,6 +36,5 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "Flagged for promising future impact. The applicant states their hopes to get airdropped in the third round, indicating a future expectation.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Governance & Tokens, Developer Ecosystem, Decentralized Finance (DeFi), End-User Experience",
   "pwCategory": "Governance Tokens"
 }

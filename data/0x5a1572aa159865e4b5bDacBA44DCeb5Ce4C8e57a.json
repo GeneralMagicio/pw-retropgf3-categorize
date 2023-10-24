@@ -10,9 +10,7 @@
       "description": "Sasy"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "This part of your application helps badgeholders understand how your work has benefitted the Optimism Collective. We strongly encourage you spend time going into detail here.\n\nBadgeholders will be relying heavily on this information. If you need help, view our guidelines.\n",
   "impactMetrics": [
     {
@@ -44,6 +42,5 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for violating grant program rule number 2: False statements & deception. The applicant failed to provide any authentic information regarding their contributions or impact on the Optimism Collective and simply repeated the application input prompt in their bio.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Tokenization Platforms, Blockchain Infrastructure, Decentralized Finance (DeFi)",
   "pwCategory": "The project description is not specific enough to assign a category. It seems like a general guidance for an application process, not a project description."
 }

@@ -41,6 +41,5 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for Fraud & Impersonation as it appears to impersonate influential blockchain figure, Vitalik Buterin, based on the provided twitter URL and display name.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Tokenization Platforms, Decentralized Finance (DeFi), Cross-Chain Platforms, Smart Contract Platforms, Community Building",
   "pwCategory": "Cross-Chain Platforms"
 }

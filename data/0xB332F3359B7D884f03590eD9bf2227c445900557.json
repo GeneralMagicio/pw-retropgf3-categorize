@@ -10,9 +10,7 @@
       "description": "trader"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM"],
   "impactDescription": "\nThis project is really great, the features are interesting and there are some things that make me really like it, namely: 1. the transaction is fast 2. Elegant and easy to use 3. the user can understand the menu perfectly 4. There are no defects in the design 5. the product runs according to what the user expects always success and hopefully it can be a promising project when mainnet arrives.",
   "impactMetrics": [
     {
@@ -42,6 +40,5 @@
   "applicantAddress": "0xB332F3359B7D884f03590eD9bf2227c445900557",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "User Experience & Adoption, User Interface Design",
   "pwCategory": "End User Experience and Adoption"
 }

@@ -10,9 +10,7 @@
       "description": "my personal social account"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "helping my community explore 18 quest of galxe optimism quest                                                             \n                                                                                                                                             ",
   "impactMetrics": [
     {
@@ -41,6 +39,5 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x43B298b18850EC33e4A0C392fa53E5192Ccd935C.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x43B298b18850EC33e4A0C392fa53E5192Ccd935C.json",
   "RPGF3_Application_UID": "0x9f2ee1084f9a93a3e5d75ba56e84cd5657205dc2f2c5c154ab8ef90fd84d1120",
-  "applicantAddress": "0x43B298b18850EC33e4A0C392fa53E5192Ccd935C",
-  "pwCategorySuggestions": "Community Building, Blockchain Education, Gaming, Web3 Community Platform, Developer Ecosystem"
+  "applicantAddress": "0x43B298b18850EC33e4A0C392fa53E5192Ccd935C"
 }

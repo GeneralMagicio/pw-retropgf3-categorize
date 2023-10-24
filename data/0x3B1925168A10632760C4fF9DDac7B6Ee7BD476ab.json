@@ -43,6 +43,5 @@
   "pwRecategorizeToType": "PROJECT",
   "pwRecategorizeReason": "NO, the application is categorized as an individual, but the language in the contribution and impact description consistently uses \"we\", suggesting that it's a project or a group and not an individual.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Finance (DeFi), Non-Fungible Tokens (NFTs), Smart Contract Platforms, Tokenization Platforms, Web3 Community Platform",
   "pwCategory": "Decentralized Finance (DeFi)"
 }

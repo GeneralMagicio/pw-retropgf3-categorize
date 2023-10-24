@@ -20,9 +20,7 @@
       "description": "Optimism Governance Weekly Update"
     }
   ],
-  "impactCategory": [
-    "COLLECTIVE_GOVERNANCE"
-  ],
+  "impactCategory": ["COLLECTIVE_GOVERNANCE"],
   "impactDescription": "Increased Participation:\nThe initial support for Snapshot proposals and early onchain delegations, and the subsequent onchain integration has expanded the avenues for community participation. By offering an alternative to vote.optimism.io, we've broadened the choices available to voters, driving higher engagement in governance processes.\n\nStandardized Governance Experience:\nBy integrating the entire Optimism governance stack, Boardroom has provided a consistent and user-friendly governance experience for developers accessing standardized data and governance interactions via our APIs and SDK.  \n\nInformed Community:\nOur \"Weekly Recaps\" initiative has ensured that the Optimism community remains updated on key governance activities.",
   "impactMetrics": [
     {
@@ -77,6 +75,5 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x6De8448e7d5f58af394CC9540ABe703d0c955dFd.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x6De8448e7d5f58af394CC9540ABe703d0c955dFd.json",
   "RPGF3_Application_UID": "0x5b595cd2a5a5b2c8ff06b029bc7d31dc5299f91266820fe21092ed62f70c5401",
-  "applicantAddress": "0x6De8448e7d5f58af394CC9540ABe703d0c955dFd",
-  "pwCategorySuggestions": "Governance & Tokens, Developer Ecosystem, User Experience & Adoption, Blockchain Infrastructure"
+  "applicantAddress": "0x6De8448e7d5f58af394CC9540ABe703d0c955dFd"
 }

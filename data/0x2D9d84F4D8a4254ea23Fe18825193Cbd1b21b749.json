@@ -70,9 +70,7 @@
       "description": "OVM 2.0 design explained"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "As a delegate, L2 Planet voted for 50+ proposals with a voting power of 2.5-3k $OP. We explained the reasons for our voting choices and regularly posted them on our social media. Also, explained to the readers why attending Optimism Collective is so important.",
   "impactMetrics": [
     {
@@ -115,6 +113,5 @@
   "applicantAddress": "0x2D9d84F4D8a4254ea23Fe18825193Cbd1b21b749",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Layer 2 Scaling, Governance & Tokens, Media Production",
   "pwCategory": "Blockchain Education"
 }

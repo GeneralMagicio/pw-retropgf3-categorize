@@ -45,6 +45,5 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, the application should be categorized as \"INDIVIDUAL\" because it refers to \"I\" and \"me\", indicating a single person, not a project.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Developer Ecosystem, Community Building, Smart Contract Platforms, End-User Experience, Governance & Tokens",
   "pwCategory": "Developer Ecosystem"
 }

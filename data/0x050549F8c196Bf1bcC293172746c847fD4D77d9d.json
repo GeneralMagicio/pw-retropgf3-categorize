@@ -35,9 +35,7 @@
       "description": "Example Mint Page - Seed Club Demo Day. "
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "We’re the only platform focused solely on podcasts, and deployed natively on Optimism. \n\nIn addition to the existing episodes, we have committed dozens of creators in the past few months to releasing episodes on the platform, including Bankless, The Defiant, Overpriced Jpegs, Green Pill, Alfalfa, Rehash, and more. \n\nGiven the novelty of the platform, Pods is targeting and bringing in an entirely new audience the ecosystem -- notably with strong distribution across major crypto podcasts. \n",
   "impactMetrics": [
     {
@@ -77,6 +75,5 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x050549F8c196Bf1bcC293172746c847fD4D77d9d.json",
   "RPGF3_Application_UID": "0x78f3b6b236943d63b83a2977ebe1ad7e8db0a9b7a7e13fc5fa4d949ce1ee747b",
   "applicantAddress": "0x050549F8c196Bf1bcC293172746c847fD4D77d9d",
-  "pwIsFlagged": false,
-  "pwCategorySuggestions": "Content Creation, NFT Aggregator, User Experience & Adoption, End-User Experience, Web3 Community Platform"
+  "pwIsFlagged": false
 }

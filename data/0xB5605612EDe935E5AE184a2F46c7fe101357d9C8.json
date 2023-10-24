@@ -43,6 +43,5 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, the application is categorized as a \"PROJECT\" but the language used throughout refers to a single person implying it should be categorized as an \"INDIVIDUAL\".",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, Tokenization Platforms, Governance & Tokens, Cryptocurrency Services",
   "pwCategory": "Cryptocurrency Services"
 }

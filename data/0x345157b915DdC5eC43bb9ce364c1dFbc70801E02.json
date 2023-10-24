@@ -10,9 +10,7 @@
       "description": "A"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Optimism was built to empower humanity through decentralized blockchain technology that enables unprecedented coordination of human intelligence across the globe, at scale. And there is a lot to celebrate: by our estimation, over the past two years, OP Mainnet has cumulatively saved users $2.69 billion in fees, 15.8 years of waiting for transaction confirmations, and currently secures $2.8 billion in onchain value.\n\nBut the reality is: nobody has truly scaled Ethereum. That includes us.\n\nIf Ethereum is to rival the goliaths of web2, and take software’s next bite of the world, it needs internet-level scale. No single chain today can offer that.",
   "impactMetrics": [
     {
@@ -42,6 +40,5 @@
   "RPGF3_Application_UID": "0x6a19f77a692a1f5df6569c65ddbbe9a5c021dfb570db260366e1970046a7955e",
   "applicantAddress": "0x345157b915DdC5eC43bb9ce364c1dFbc70801E02",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "This application should be flagged for promising future impact as the applicant asserts that Ethereum needs to scale to internet-level for more global impact, but doesn't specify any actual contributions they've made.",
-  "pwCategorySuggestions": "Layer 2 Scaling, Smart Contract Platforms, Blockchain Infrastructure, Developer Ecosystem, Decentralized Finance (DeFi)"
+  "pwFlaggedReason": "This application should be flagged for promising future impact as the applicant asserts that Ethereum needs to scale to internet-level for more global impact, but doesn't specify any actual contributions they've made."
 }

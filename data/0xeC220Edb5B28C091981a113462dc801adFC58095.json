@@ -10,9 +10,7 @@
       "description": "our fledgling website, still lots to do"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "We continue to on board new users in the crypto shpere in general, optimism in particular. Everyday we network with other energy-concious individuals and ascertain who would be a solid addition to our team. we have diverse backgrounds in art, performance, construction, design, and of course energy and the econimics inexorably woven throughout. \nOur strength is the ability to blend all these various factors into a cohesive, operable undertaking that is of direct, tangible, and long term benefit ti everyone involved.",
   "impactMetrics": [
     {
@@ -44,6 +42,5 @@
   "applicantAddress": "0xeC220Edb5B28C091981a113462dc801adFC58095",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Finance (DeFi), Smart Contract Platforms, Tokenization Platforms, Blockchain Infrastructure, Sustainability",
   "pwCategory": "Decentralized Finance (DeFi)"
 }

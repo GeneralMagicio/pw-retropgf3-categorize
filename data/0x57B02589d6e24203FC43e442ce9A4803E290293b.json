@@ -10,9 +10,7 @@
       "description": "Website"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Since February 2023, Fire has conducted over 1 million simulations, providing transparency and control over a users' wallet on the Optimism network. Our Fire Optimism cards had 16,234 minted for our users when onboarding to Fire.\n\nFurthermore, the recent introduction of Base support expands our reach, allowing a broader range of users, projects, and companies to benefit from our services. This addition is a testament to our commitment to innovation and user satisfaction, and it solidifies our impact on the Optimism Collective by contributing to a more inclusive and robust ecosystem.",
   "impactMetrics": [
     {
@@ -49,6 +47,5 @@
   "applicantAddress": "0x57B02589d6e24203FC43e442ce9A4803E290293b",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Wallet Management, User Experience & Adoption, Blockchain Infrastructure, Smart Contract Platforms",
   "pwCategory": "Wallet Management"
 }

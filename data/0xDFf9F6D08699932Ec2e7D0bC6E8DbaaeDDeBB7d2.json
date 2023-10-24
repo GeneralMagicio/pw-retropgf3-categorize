@@ -10,9 +10,7 @@
       "description": "my first project"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Inspired by like-minded collectives that are building solutions and products like OP, I aspire to grow, learn about blockchain development and encourage people around me to do it, create useful products and maybe in the future be part of this inspiring collective, contributing to the blockchain revolution and making life easier for people who live in similar conditions as me, where there is an unequal system of access to resources and information. I hope at the end of my life to realise that I have done something to change that\n",
   "impactMetrics": [
     {
@@ -37,6 +35,5 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for false statements & deception because the applicant failed to provide concrete and measurable contributions to the Web3/blockchain space. According to the rules, the applicant's claim of \"faith\" and \"participation\" does not meet the minimum requirement of providing impact to the collective.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Web3 Community Platform, Blockchain Education, Decentralized Finance (DeFi), Content Creation, Community Building",
   "pwCategory": "Community Building"
 }

@@ -10,9 +10,7 @@
       "description": "On chain Transactions"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "On chain Transactions This is a great project, Let's moon it together guys, Hopefully this project will certainly Excel. and I hope am eligible because I really love optimism Blockchain and it's a great and perfect project I love the logo too I hope the project moon ",
   "impactMetrics": [
     {
@@ -43,6 +41,5 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for violating rule number 1: Promises of future impact which is not allowed. The applicant has made several remarks indicating future deliverables, including \"Let's moon it together guys, Hopefully this project will certainly Excel.\" Additionally, the application may violate rule 10 as the user interactions listed may not meet the definition of a contribution as defined by the grant program rules.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Finance (DeFi), Smart Contract Platforms, Blockchain Infrastructure, End-User Experience, Community Building",
   "pwCategory": "Blockchain Infrastructure"
 }

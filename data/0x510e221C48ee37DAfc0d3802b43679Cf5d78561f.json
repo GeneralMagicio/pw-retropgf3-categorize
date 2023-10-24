@@ -20,9 +20,7 @@
       "description": "Follow on events"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Zuzalu addresses intricate crypto and tech challenges, disseminating insights through 80+ virtual talks. Our mini-hackathons foster open-source tool development, and our playbook guides web3 communities in creating real-life hubs, of which four have already been created and there are another two that have been planned. Serving as an innovation lab, we test projects like ZuPass for wider adoption like for DevConnect. The Hypercerts RPGF experiment saw over 235 addresses funding 21.10 ETH, rewarding volunteer work. Meanwhile, Tripsha launched a novel open-source pop-up cities ticketing solution with crypto payments used by over 280 people. We have heard from many participants that Zuzalu was both life and career changing. In a way that catapulted people forward many years in their career. ",
   "impactMetrics": [
     {
@@ -76,6 +74,5 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x510e221C48ee37DAfc0d3802b43679Cf5d78561f.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x510e221C48ee37DAfc0d3802b43679Cf5d78561f.json",
   "RPGF3_Application_UID": "0x73b6ff6fb7a5bb5f271b1636a1baa24a327e144e45195a53b9645fcb659a48d3",
-  "applicantAddress": "0x510e221C48ee37DAfc0d3802b43679Cf5d78561f",
-  "pwCategorySuggestions": "Decentralized Finance (DeFi), Smart Contract Platforms, Community Building, Web3 Community Platform, Blockchain Infrastructure"
+  "applicantAddress": "0x510e221C48ee37DAfc0d3802b43679Cf5d78561f"
 }

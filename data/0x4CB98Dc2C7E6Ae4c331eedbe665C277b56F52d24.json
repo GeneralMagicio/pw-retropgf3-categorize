@@ -10,10 +10,7 @@
       "description": "Spreadsheet"
     }
   ],
-  "impactCategory": [
-    "COLLECTIVE_GOVERNANCE",
-    "OP_STACK"
-  ],
+  "impactCategory": ["COLLECTIVE_GOVERNANCE", "OP_STACK"],
   "impactDescription": "There are two primary goals of Optimism’s governance system:\n\nCapture resistance. Governance plays a key role in securing the anti-capture and censorship resistance of the Optimism protocol. Governance should (a) make it possible for chain or network operation to continue without reliance on any individual entity, and (b) prevent any one entity or small group of entities from being able to control or censor the protocol or its functions.\n\nResource allocation. Governance’s second primary responsibility is to allocate resources effectively to support the Collective’s vision and accrue sustainable value to the Optimism Collective. ",
   "impactMetrics": [
     {
@@ -41,6 +38,5 @@
   "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x4CB98Dc2C7E6Ae4c331eedbe665C277b56F52d24.jpeg",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x4CB98Dc2C7E6Ae4c331eedbe665C277b56F52d24.json",
   "RPGF3_Application_UID": "0xe59ad3f6ba608ac179680bdc2537cc1f43ff54adb216189236cf1db426fcef5f",
-  "applicantAddress": "0x4CB98Dc2C7E6Ae4c331eedbe665C277b56F52d24",
-  "pwCategorySuggestions": "Governance Tokens, Blockchain Infrastructure, Smart Contract Platforms, Decentralized Finance (DeFi), Developer Ecosystem"
+  "applicantAddress": "0x4CB98Dc2C7E6Ae4c331eedbe665C277b56F52d24"
 }

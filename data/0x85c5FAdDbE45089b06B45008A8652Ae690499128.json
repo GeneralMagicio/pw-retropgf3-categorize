@@ -48,6 +48,5 @@
   "pwRecategorizeToType": "PROJECT",
   "pwRecategorizeReason": "NO, the application is categorized as an individual but it seems to be a project based on website URL, funding sources, and impact metrics, also it does not contain personal pronouns like \"I\" or \"me\".",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Blockchain Infrastructure",
   "pwCategory": "Blockchain Infrastructure"
 }

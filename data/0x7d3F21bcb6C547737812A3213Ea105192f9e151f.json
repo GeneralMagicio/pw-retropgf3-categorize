@@ -10,9 +10,7 @@
       "description": "Interactive Reference Specification for the rollups ecosystem."
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM"],
   "impactDescription": "EVM implementations in rollups are not the same. There is no single EVM standard and each rollup has its specifics and intricacies, such as custom precompiles, opcodes etc.\n\nFor rollup developers, this info is usually hard to find and they have to dive deep into the rollups codebase, as documentation is more often than not - unsatisfactory. Rollup.codes is a comprehensive website showcasing each rollup's most important developers' information. Our goal is for it to become the go-to place for rollup developers.\n\nRollup.codes helps developers leveraging the OP stack understand the differences between the OP stack and the Ethereum EVM, as well as between the OP stack and other rollups.\n\nSince launch, we've had 1100 unique users over the past 2.5 months.",
   "impactMetrics": [
     {
@@ -37,6 +35,5 @@
   "applicantAddress": "0x7d3F21bcb6C547737812A3213Ea105192f9e151f",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Developer Tools",
   "pwCategory": "Developer Ecosystem"
 }

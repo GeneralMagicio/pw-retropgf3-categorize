@@ -10,9 +10,7 @@
       "description": "Know About Optimism Blockchain"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Impact of my contribution gain Day by day as more specially new peoples attached with my work and with my contents as the number goes on increasing day by day and I'm sure more people will find my contribution helping and reaching to it's beyond as I make the content in very simple or easy .",
   "impactMetrics": [
     {
@@ -44,6 +42,5 @@
   "applicantAddress": "0x7845a5E3581FD8156A95a5a50b3D34384C75161f",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Content Creation, Blockchain Education, User Experience & Adoption, Community Building, Media Production",
   "pwCategory": "Blockchain Education"
 }

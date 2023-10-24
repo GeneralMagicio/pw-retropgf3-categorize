@@ -45,6 +45,5 @@
   "RPGF3_Application_UID": "0xa0ccfbe591bd2298e29f34514c1569849d9e2a4b040029b334985555e9954a56",
   "applicantAddress": "0x0d113A179F91c4C9459EF4A7A51Ec5f903030160",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "The application should be flagged for Violation of Rule 1, as the applicant makes promises of future deliverables or impact by stating \"I will do something that I can do to bring people to crypto.\"",
-  "pwCategorySuggestions": "Governance & Tokens, Smart Contract Platforms, User Experience & Adoption, Blockchain Infrastructure"
+  "pwFlaggedReason": "The application should be flagged for Violation of Rule 1, as the applicant makes promises of future deliverables or impact by stating \"I will do something that I can do to bring people to crypto.\""
 }

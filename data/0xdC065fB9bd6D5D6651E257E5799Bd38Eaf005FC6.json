@@ -15,10 +15,7 @@
       "description": "how to get transaction data from blockchain with Tripster lucky box campeign"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM",
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "I am a web3 contributor in Thai community with my content to share knowledge such as \n- how to add optimism chain, how to bridge ETH from mainnet to optimism\n- how to see tokenURI of your NFT\n- create NFT collection with concept\n- how to get transaction data from blockchain with Tripster lucky box campeign\n\nI am excited about the ongoing opportunities to contribute to the Optimism Collective's mission. Moving forward, I am eager to create content to share knowledge to the community in Twitter and my blog that will further enhance our collective impact and solidify our position.\n",
   "impactMetrics": [
     {
@@ -64,6 +61,5 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for promising future impact which is against the grant program rules.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Web3 Community Platform, Content Creation, Community Building, User Experience & Adoption, Media Production",
   "pwCategory": "Community Building"
 }

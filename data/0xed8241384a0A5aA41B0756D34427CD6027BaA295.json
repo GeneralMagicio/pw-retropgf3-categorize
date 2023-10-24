@@ -10,10 +10,7 @@
       "description": "This is the Startup, Will launch soon, more info. Thanks!!!"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM",
-    "OP_STACK"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM", "OP_STACK"],
   "impactDescription": "This will help to build a unique and best platform for users, A very unique concept for all users and this will be free to all users for lifetime. \n*User can check all their \"Domain Web3 Names\" in this platform.\n*No need to connect wallet and sign. *(Very Safe Concept)\n  Just Search Your Wallet Address and Go\n*Check expiry date.\n*Renew them.\nMore things are coming with this after launching a platform . Thanks!!!",
   "impactMetrics": [
     {
@@ -57,6 +54,5 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for promising future deliverables or impact which is against the grant program rules.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Tokenization Platforms, End-User Experience, Wallet Management, Web3 Community Platform, Blockchain Infrastructure",
   "pwCategory": "End-User Experience"
 }

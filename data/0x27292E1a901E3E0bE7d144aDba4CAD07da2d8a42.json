@@ -25,10 +25,7 @@
       "description": "Gov deployer UI repo"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM",
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Our goal in terms of adoption is clear. It is described in Gov docs: https://w3hc.github.io/gov-docs/pilots.html. A good example of this is the DAO we're deploying for care givers, in partnership with legacy health insurance orgs. \n\nAt the W3HC (Web3 Hackers Collective), our mission statement is \"We want to build integrations through mentoring and learning.\". A lot of the projects we've been working on actually need this special \"lego brick\". In the meantime we also train as many devs as we can on these techniques, including in Africa (Supertontine project https://github.com/w3hc/supertontine). ",
   "impactMetrics": [
     {
@@ -63,6 +60,5 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x27292E1a901E3E0bE7d144aDba4CAD07da2d8a42.json",
   "RPGF3_Application_UID": "0xe512145819e4a511f7fd8f0f6cd67d8c9b90a8dda31598371b56bf754e6cc725",
   "applicantAddress": "0x27292E1a901E3E0bE7d144aDba4CAD07da2d8a42",
-  "pwIsFlagged": false,
-  "pwCategorySuggestions": "Blockchain Education, Developer Ecosystem, Decentralized Finance (DeFi), End-User Experience, Governance & Tokens"
+  "pwIsFlagged": false
 }

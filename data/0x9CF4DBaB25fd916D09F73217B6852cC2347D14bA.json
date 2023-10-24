@@ -10,9 +10,7 @@
       "description": "contract to apply to register for a personal website using referrals"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM"],
   "impactDescription": "I can't give you an idea of the impact yet, because this is a very new project in ecosystem optimism. \n\nI simply created a web3 that is useful for creating personal applications for yourself with the help of blockchain optimism,\n\nso people register without having to give their email or password just by connecting their wallet.",
   "impactMetrics": [
     {
@@ -45,6 +43,5 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for promising future impact, which violates rule 1 of the grant program's rules. The applicant details a project that they want to undertake in the future, rather than detailing any past contributions or impacts made.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Identity, Smart Contract Platforms, Funding/Investment, Developer Ecosystem, Web3 Community Platform",
   "pwCategory": "Decentralized Identity"
 }

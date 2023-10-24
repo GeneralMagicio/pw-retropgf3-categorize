@@ -85,6 +85,5 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x30C7F4F7504D6366916f669cd8E731ED4dF6C702.json",
   "RPGF3_Application_UID": "0x4ffeea46e1e53b31809ad3fd0b14d837ed3780602fccee46659a0bf93a9e5ca0",
   "applicantAddress": "0x30C7F4F7504D6366916f669cd8E731ED4dF6C702",
-  "pwIsFlagged": false,
-  "pwCategorySuggestions": "Onboarding, Governance, Public Goods, Tokenization Platforms, Community Building"
+  "pwIsFlagged": false
 }

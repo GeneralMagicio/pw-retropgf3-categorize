@@ -55,9 +55,7 @@
       "description": "I created the video how to be an Optimism ambassador in deep detail  "
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "1. Reduce learning time by teaching people how to use new tools quickly and with familiarity.\n2. Discover tips for reducing expenses in many transactions, such as obtaining the ENS service domain from Optimism's technology at a reduced rate.\n3. Educate everyone how to develop an optimistic brand that will help both the community and them personally.\n4. Encourage others who have only recently entered the blockchain to enjoy themselves with Optimism's Era\n5. Protect community members from scammers.\n",
   "impactMetrics": [
     {
@@ -116,6 +114,5 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x3a3CA9f09c8605c3d611A8E3b620d09e69df96B5.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x3a3CA9f09c8605c3d611A8E3b620d09e69df96B5.json",
   "RPGF3_Application_UID": "0x988e06983c68bd53f4e41a1acb21a31fd42e2ef519d0ccede3a979ae1199ce1a",
-  "applicantAddress": "0x3a3CA9f09c8605c3d611A8E3b620d09e69df96B5",
-  "pwCategorySuggestions": "Education, Community Building, Non-Fungible Tokens (NFTs), Decentralized Exchanges (DEXs), Blockchain Infrastructure"
+  "applicantAddress": "0x3a3CA9f09c8605c3d611A8E3b620d09e69df96B5"
 }

@@ -10,9 +10,7 @@
       "description": "https://twitter.com/StabZer0"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "As an influential KOL in Web3 space, I can leverage my extensive social reach and community to drive new user acquisition for Optimism Collective. Through tailored social campaigns and community activations, I will promote Optimism's benefits to decentralized finance users and attract new members. By hosting AMAs and creating educational content, I can clearly communicate Optimism's value propositions to onboard new users. With my experience managing communities, I can also engage existing users by fostering an inclusive environment and organizing impactful initiatives that demonstrate Optimism's possibilities. My KOL marketing expertise will raise Optimism's profile and build meaningful connections between the protocol and end users worldwide.",
   "impactMetrics": [
     {
@@ -44,6 +42,5 @@
   "applicantAddress": "0x7B5E58994020Fc30836D8506bcD8739385fb5f38",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, Social Media Marketing, Web3 Community Platform, End-User Experience, Decentralized Finance (DeFi)",
   "pwCategory": "Influencer Marketing"
 }

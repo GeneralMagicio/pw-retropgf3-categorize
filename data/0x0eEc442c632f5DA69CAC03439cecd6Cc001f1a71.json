@@ -10,9 +10,7 @@
       "description": "twitter is where I post most of my content."
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Work that creates an impact on the end users of the Optimism group or helps bring new users into the group. By creating various content about Optimism that is easy to understand for those who want to know and that users can understand. The things to be done start from, for example, using the Optimism chain, starting with adding the opchain.",
   "impactMetrics": [
     {
@@ -37,6 +35,5 @@
   "applicantAddress": "0x0eEc442c632f5DA69CAC03439cecd6Cc001f1a71",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Blockchain Education, Content Creation, User Experience & Adoption, Community Building, Decentralized Finance (DeFi)",
   "pwCategory": "Blockchain Education"
 }

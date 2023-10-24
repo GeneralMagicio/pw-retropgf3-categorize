@@ -25,9 +25,7 @@
       "description": "Onlyfun contract"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Since its beta launch in April, Onlyfun has had over 9,000 registered users, with users publishing more than 29,000 articles in total. The amount of funds participating in mining on the platform has exceeded $1,000,000,and the total amount of mining rewards issued has exceeded $300,000.",
   "impactMetrics": [
     {
@@ -49,6 +47,5 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x3D4f69B24f4D2b151DC53da52dDAc887E8C237F0.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x3D4f69B24f4D2b151DC53da52dDAc887E8C237F0.json",
   "RPGF3_Application_UID": "0x08b9ec609e8439ab3b9bc160283fad28078abca1cbee16bca0da822d240f27b4",
-  "applicantAddress": "0x3D4f69B24f4D2b151DC53da52dDAc887E8C237F0",
-  "pwCategorySuggestions": "Blockchain Social Platform, Cross-Chain Transactions, Mining Platform, Content Platform, Information Sharing"
+  "applicantAddress": "0x3D4f69B24f4D2b151DC53da52dDAc887E8C237F0"
 }

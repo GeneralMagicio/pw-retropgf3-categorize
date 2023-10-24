@@ -30,10 +30,7 @@
       "description": "Our blog"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM",
-    "OP_STACK"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM", "OP_STACK"],
   "impactDescription": "TrueBlocks gives users a viable and scalable indexing alternative that:\n\n- Does not compromise on Optimism's nor Web 3.0’s core values of decentralization, open access, and data sovereignty.\n- Helps reduce the community’s reliance on web 2.0-like data intermediaries that put us at risk of censorship, user capture, privacy invasion, and rent-seeking,\n- Expands the utility of the node software, giving users another reason to run a node, thereby promoting decentralization,\n- Inspires node enhancement via EIP proposals and demonstrates how true decentralization can work,\n- Better insulate the entire community from regulatory overreach.\n",
   "impactMetrics": [
     {
@@ -124,6 +121,5 @@
   "applicantAddress": "0xf503017D7baF7FBC0fff7492b751025c6A78179b",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Blockchain Infrastructure, Web3 Community Platform, Decentralized Finance (DeFi), User Experience & Adoption, Developer Ecosystem",
   "pwCategory": "Blockchain Infrastructure"
 }

@@ -15,9 +15,7 @@
       "description": "My Sound.xyz activity and music contributions."
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Những đóng góp của tôi, cả về mặt cá nhân lẫn tư cách là một phần của Camel Venture, thể hiện những bước đi tiên phong trong xu hướng mới nổi của Music Onchain. Tôi tin rằng Lạc quan sẽ đóng vai trò là cái nôi cho những nghệ sĩ đổi mới, có tư duy cầu tiến, thúc đẩy sự phát triển của ngành công nghiệp âm nhạc. Những đóng góp này đã có tác động tích cực đến Optimism Collective bằng cách hỗ trợ các nhạc sĩ và nghệ sĩ độc lập, cung cấp hỗ trợ tài chính và thúc đẩy một cộng đồng âm nhạc sôi động trên nền tảng Sound.xyz. Điều này không chỉ trao quyền cho các nghệ sĩ mà còn làm phong phú thêm bối cảnh sáng tạo tổng thể trong Optimism Collective.",
   "impactMetrics": [
     {
@@ -47,6 +45,5 @@
   "RPGF3_Application_UID": "0x63d9e8f7ffa8add74f14b701f2fddf7dbd60f7541fe7407370f34f966c2bc9c2",
   "applicantAddress": "0x279e2071b5337F40C2932Aaef5E4F5B01A5A08F3",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "This application should be flagged for violating the Grant program rules as the \"impactDescription\" is not in English.",
-  "pwCategorySuggestions": "NFTs, Music, Financial Assistance, Sound.xyz, Optimism Collective"
+  "pwFlaggedReason": "This application should be flagged for violating the Grant program rules as the \"impactDescription\" is not in English."
 }

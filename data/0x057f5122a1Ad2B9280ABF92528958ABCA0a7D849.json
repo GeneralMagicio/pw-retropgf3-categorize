@@ -10,9 +10,7 @@
       "description": "op delegated"
     }
   ],
-  "impactCategory": [
-    "COLLECTIVE_GOVERNANCE"
-  ],
+  "impactCategory": ["COLLECTIVE_GOVERNANCE"],
   "impactDescription": "i delegated optimism and i do more transaction, and also i done quest 1,i do more swap,i missed airdrop 1 and i got 10+ op in airdrop 2...but now i contributed more to get airdrop 3...i already try demo  rpgf...now finally i submitted the application",
   "impactMetrics": [
     {
@@ -45,6 +43,5 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for being outside of RetroPGF's scope as user interactions like the transactions mentioned are not considered valid contributions.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Finance (DeFi), Smart Contract Platforms, User Experience & Adoption, NFT Aggregator, Tokenization Platforms",
   "pwCategory": "Community Building"
 }

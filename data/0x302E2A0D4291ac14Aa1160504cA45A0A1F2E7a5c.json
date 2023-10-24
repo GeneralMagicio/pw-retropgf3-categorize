@@ -10,9 +10,7 @@
       "description": "Wallet Address we use to onboard people"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "We have onboarded new people to the optimism ecosystem teaching them how to create a wallet and import the Optimism Network, we also grant them with a few dollars to have the initial funds for gas fees and savings, this new people learn about blockchain using the Optimism network.",
   "impactMetrics": [
     {
@@ -37,6 +35,5 @@
   "applicantAddress": "0x302E2A0D4291ac14Aa1160504cA45A0A1F2E7a5c",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, User Experience & Adoption, Web3 Community Platform, Blockchain Education, Wallet Management",
   "pwCategory": "Blockchain Education"
 }

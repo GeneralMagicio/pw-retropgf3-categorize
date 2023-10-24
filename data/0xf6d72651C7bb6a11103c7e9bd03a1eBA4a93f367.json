@@ -10,9 +10,7 @@
       "description": "Optimism on chain analysis"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "The impact the contribution had on the Optimism Collective is that it boosted the amount of transactions on the network. In crypto, community is important to maintain the existence of the project. Hence, if Optimism could maintain reliable functions for real users, the community would be loyal.",
   "impactMetrics": [
     {
@@ -37,6 +35,5 @@
   "applicantAddress": "0xf6d72651C7bb6a11103c7e9bd03a1eBA4a93f367",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "NFTs, Layer 2 Scaling, Community Building, End-User Experience",
   "pwCategory": "Community Building"
 }

@@ -35,10 +35,7 @@
       "description": "FOAM Knowledge Base for new Proof of Location Superchain primitive "
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM",
-    "OP_STACK"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM", "OP_STACK"],
   "impactDescription": "FOAM’s contributions to the Optimism Collective are new, foundational, and complex. Proof of Location will take time for these novel investments into Optimism to materialize. With that said, there are areas where impacts can be seen.\n\nFOAM adds another fork of the OP-Stack, with OP Labs developers and core contributors receiving developer feedback from FOAM developers throughout the process.Social impact has been demonstrated in terms of views and emerging ideas and conversations on social media about location-based attestations and applications of Proof of Location. After 40k Twitter users viewed our Mirror announcements about building the FOAM Proof of Location MVP on Optimism, conversation on Twitter and Farcaster about location attestations on Optimism has been buzzing \n",
   "impactMetrics": [
     {
@@ -71,6 +68,5 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x2195bEaed7b0783f2c13c75FC439396583C1A37D.json",
   "RPGF3_Application_UID": "0xa35bcbf65e6ec5f55de08a91b09ebbf11d59fa13c28e8232c1f2d3cf1cdfbcc3",
   "applicantAddress": "0x2195bEaed7b0783f2c13c75FC439396583C1A37D",
-  "pwIsFlagged": false,
-  "pwCategorySuggestions": "Decentralized Finance (DeFi), Layer 2 Scaling, Smart Contract Platforms, Tokenization Platforms, Blockchain Infrastructure"
+  "pwIsFlagged": false
 }

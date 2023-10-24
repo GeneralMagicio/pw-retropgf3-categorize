@@ -15,9 +15,7 @@
       "description": "2"
     }
   ],
-  "impactCategory": [
-    "COLLECTIVE_GOVERNANCE"
-  ],
+  "impactCategory": ["COLLECTIVE_GOVERNANCE"],
   "impactDescription": "I actively participated in delegate op and voting, interacted with the official bridge and all sorts of platforms, to buy and exchange tokens, participated in the quest, bought and sold nft, performed tasks on layer3, supplied liquidity on all sorts of platforms.",
   "impactMetrics": [
     {
@@ -38,6 +36,5 @@
   "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3cd2C1760c4333309C7d407BE71cD6F9Ef327fda.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x3cd2C1760c4333309C7d407BE71cD6F9Ef327fda.json",
   "RPGF3_Application_UID": "0xd564deec8b9bcb228fcc024e2c2726f37d0e149d6ac33aea4969cfbb26f7a577",
-  "applicantAddress": "0x3cd2C1760c4333309C7d407BE71cD6F9Ef327fda",
-  "pwCategorySuggestions": "End-User Experience, NFTs, Layer 3 Scaling, Liquidity Provision, Token Trading"
+  "applicantAddress": "0x3cd2C1760c4333309C7d407BE71cD6F9Ef327fda"
 }

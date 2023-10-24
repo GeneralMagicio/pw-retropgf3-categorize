@@ -20,10 +20,7 @@
       "description": "Governance Forum thread"
     }
   ],
-  "impactCategory": [
-    "COLLECTIVE_GOVERNANCE",
-    "DEVELOPER_ECOSYSTEM"
-  ],
+  "impactCategory": ["COLLECTIVE_GOVERNANCE", "DEVELOPER_ECOSYSTEM"],
   "impactDescription": "- The original idea to build the website came after reading a feedback thread on the forum and getting the impression that many find it difficult to keep up to date with information about grants (\"adhering to the deadlines often required navigating a maze of forum posts\")\n\n- With more than 7900 unique website visitors and 1840 outbound link clicks in the last 3 months, the site has played a key role in helping many (prospective) grantees, developers and governance participants stay informed about recent updates and upcoming deadlines of the grant programs\n\n- Subscribers to the weekly newsletter include employees from OpenZeppelin, OP Labs, Wakeup Labs, …\n\n- Governance Forum thread has 593 views and a total of 31 likes\n",
   "impactMetrics": [
     {
@@ -73,6 +70,5 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x657d99Ca637fEA0c90Ac3f65719F83519f331828.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x657d99Ca637fEA0c90Ac3f65719F83519f331828.json",
   "RPGF3_Application_UID": "0x6d984b8e3b187070129658d99f9011baeb2c85955f8aa9aa0c7f91da7ab62b85",
-  "applicantAddress": "0x657d99Ca637fEA0c90Ac3f65719F83519f331828",
-  "pwCategorySuggestions": "Community Building, User Experience & Adoption, Content Creation, Governance & Tokens, Developer Ecosystem"
+  "applicantAddress": "0x657d99Ca637fEA0c90Ac3f65719F83519f331828"
 }

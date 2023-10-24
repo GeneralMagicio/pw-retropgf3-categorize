@@ -10,9 +10,7 @@
       "description": "my wallet"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "My contributions have had a positive impact on the Optimism Collective. By minting NFTs, providing liquidity, and supporting projects, I've helped foster a dynamic and thriving ecosystem. These contributions have not only increased activity but also encouraged other community members to participate actively. Additionally, my efforts in promoting Optimism within my community have expanded its reach and visibility, making more people aware of the platform's advantages. Overall, my goal is to continue contributing to the growth and success of the Optimism Collective, both technically and in terms of community engagement.\n",
   "impactMetrics": [
     {
@@ -42,6 +40,5 @@
   "RPGF3_Application_UID": "0xd5910abda3be72696c3b510687a73524d90a3f07b30e4a9523fa65acdd2a220e",
   "applicantAddress": "0x178880514E3559c994F64F9A8738bfd3c3c84470",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "The application should be flagged for violating the first rule of the grant program - it contains promises of future impacts and deliverables, including providing liquidity, promoting Optimism to a broader audience, and continuing to mint NFTs.",
-  "pwCategorySuggestions": "NFTs, Community Building, Tokenization Platforms, Decentralized Finance (DeFi), Blockchain Infrastructure"
+  "pwFlaggedReason": "The application should be flagged for violating the first rule of the grant program - it contains promises of future impacts and deliverables, including providing liquidity, promoting Optimism to a broader audience, and continuing to mint NFTs."
 }

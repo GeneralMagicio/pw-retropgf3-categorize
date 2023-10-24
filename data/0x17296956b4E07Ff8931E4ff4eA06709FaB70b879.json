@@ -15,9 +15,7 @@
       "description": "Open-source repository for the Curia Governance Dashboard website"
     }
   ],
-  "impactCategory": [
-    "COLLECTIVE_GOVERNANCE"
-  ],
+  "impactCategory": ["COLLECTIVE_GOVERNANCE"],
   "impactDescription": "Empowering and impacting the Optimism Collective, our OP Dashboard has elevated governance through transparent, data-driven strategies. By refining features and democratizing essential metrics (Participation, Voting Power, and more), we've enriched stakeholder engagement and decision-making, catalyzing a culture of accountable and astute governance across the collective.",
   "impactMetrics": [
     {
@@ -79,6 +77,5 @@
   "applicantAddress": "0x17296956b4E07Ff8931E4ff4eA06709FaB70b879",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Governance & Tokens, User Experience & Adoption, Blockchain Infrastructure, Decentralized Finance (DeFi), Developer Ecosystem",
   "pwCategory": "Governance & Tokens"
 }

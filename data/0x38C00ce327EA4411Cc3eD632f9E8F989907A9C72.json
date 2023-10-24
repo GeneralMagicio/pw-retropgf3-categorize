@@ -15,9 +15,7 @@
       "description": "foundry book"
     }
   ],
-  "impactCategory": [
-    "OP_STACK"
-  ],
+  "impactCategory": ["OP_STACK"],
   "impactDescription": "Optimism's smart contracts are currently tested in Foundry. As the premiere Solidity testing tool, smart contract products built on OP Mainnet and other OP Stack chains are also tested with Foundry. We think Foundry as critical infrastructure for the OP ecosystem's in-so far success and for the future.",
   "impactMetrics": [
     {
@@ -47,6 +45,5 @@
   "applicantAddress": "0x38C00ce327EA4411Cc3eD632f9E8F989907A9C72",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Smart Contract Platforms, Blockchain Infrastructure, Developer Ecosystem, Testing Tools",
   "pwCategory": "Developer Ecosystem"
 }

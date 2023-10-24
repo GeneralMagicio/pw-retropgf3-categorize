@@ -10,9 +10,7 @@
       "description": "Popula repo"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "A web3 community-led social platform would allow members to own their communities by making meaningful contributions and own the platform by helping it to reach milestones. Web2 community social platforms like Reddit provide online solutions for communities to create and interact. However, all data generated on the platform including content, activities, and social graphs do not belong to users. This lack of data ownership creates strong censorship and locks users in the moat the platform built to generate revenue for the company stakeholders. We propose a solution to address this web2 data ownership problem, as well as a novel in-community reputation system to boost contribution, foster community growth, and facilitate community management.",
   "impactMetrics": [
     {
@@ -43,6 +41,5 @@
   "applicantAddress": "0x9E8779a144f0734adEfD6f7e5265347054E4FC7F",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, User Experience & Adoption, Decentralized Identity, Governance & Tokens, Smart Contract Platforms",
   "pwCategory": "Community Building"
 }

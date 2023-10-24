@@ -48,6 +48,5 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged because it promises future deliverables or impact, which is against the rules of the grants program.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Developer Ecosystem, Community Building, Layer 2 Scaling, User Experience & Adoption, Web3 Community Platform",
   "pwCategory": "Web3 Advocacy"
 }

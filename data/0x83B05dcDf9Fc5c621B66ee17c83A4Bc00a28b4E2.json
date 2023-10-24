@@ -10,9 +10,7 @@
       "description": "Launchpad"
     }
   ],
-  "impactCategory": [
-    "COLLECTIVE_GOVERNANCE"
-  ],
+  "impactCategory": ["COLLECTIVE_GOVERNANCE"],
   "impactDescription": "create a community and a way to understand their own digital collection with freedom of expression by showing a desire that someone can understand through unlimited imagination and exploring different thoughts in the same application that can create something new",
   "impactMetrics": [
     {
@@ -37,6 +35,5 @@
   "applicantAddress": "0x83B05dcDf9Fc5c621B66ee17c83A4Bc00a28b4E2",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "NFTs, Community Building, Digital Identity, Content Creation, Blockchain Gaming",
   "pwCategory": "Non-Fungible Tokens (NFTs)"
 }

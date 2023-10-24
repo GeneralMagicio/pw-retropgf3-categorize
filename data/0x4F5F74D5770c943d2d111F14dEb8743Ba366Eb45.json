@@ -15,9 +15,7 @@
       "description": "Educational workshop for BASE with SEA developers community"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM"],
   "impactDescription": "Generate awareness and strong interest in building on Base - one of the most important partnering ecosystems to Optimism. With a combined approach of education, office hours, AMA and community engagement, we were able to gather in total 200+ audience (150+ for workshop and 100+ for office hours)  to understand about how to build on BASE and demonstrate their use cases on Base.",
   "impactMetrics": [
     {
@@ -63,6 +61,5 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x4F5F74D5770c943d2d111F14dEb8743Ba366Eb45.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x4F5F74D5770c943d2d111F14dEb8743Ba366Eb45.json",
   "RPGF3_Application_UID": "0x2fc8e32b9a7418d88d21e45fddeef7d8f4c7460ba26a447cf7bfd298b58cab3c",
-  "applicantAddress": "0x4F5F74D5770c943d2d111F14dEb8743Ba366Eb45",
-  "pwCategorySuggestions": "Community Building, Education, Developer Ecosystem, Web3 Community Platform, Blockchain Infrastructure"
+  "applicantAddress": "0x4F5F74D5770c943d2d111F14dEb8743Ba366Eb45"
 }

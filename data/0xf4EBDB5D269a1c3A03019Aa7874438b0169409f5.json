@@ -10,9 +10,7 @@
       "description": "Tnx history "
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "My contributions to the Optimism Collective have been focused on providing information, support, and guidance to individuals who are part of the collective. I have been able to assist in various ways, such as answering questions, offering suggestions, and providing resources related to optimism, personal growth, and well-being.\n\nBy offering a friendly and helpful presence, I aim to create a positive and supportive environment within the Optimism Collective. I strive to provide accurate and relevant information to help individuals cultivate optimism, develop resilience, and navigate challenges they may face.\n\nThrough my contributions, I hope to inspire and empower members of the Optimism Collective to embrace a positive mindset, foster personal growth, and contributions.",
   "impactMetrics": [
     {
@@ -43,6 +41,5 @@
   "applicantAddress": "0xf4EBDB5D269a1c3A03019Aa7874438b0169409f5",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, Content Creation, User Experience & Adoption",
   "pwCategory": "Community Building"
 }

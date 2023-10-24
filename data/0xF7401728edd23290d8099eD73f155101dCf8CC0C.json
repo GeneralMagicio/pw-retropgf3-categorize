@@ -10,9 +10,7 @@
       "description": "tweets"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Actively educating and promoting the Optimism blazing fast and secure network to DeFi end users via multiple channels. Actively trying new Optimism ecosystem projects and introduce those applications to DeFi community when i find the project useful. ",
   "impactMetrics": [
     {
@@ -36,6 +34,5 @@
   "applicantAddress": "0xF7401728edd23290d8099eD73f155101dCf8CC0C",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, Developer Ecosystem, End-User Experience, DeFi",
   "pwCategory": "Web3 Advocacy"
 }

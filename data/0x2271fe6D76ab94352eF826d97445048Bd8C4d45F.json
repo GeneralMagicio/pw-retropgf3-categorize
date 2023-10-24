@@ -20,9 +20,7 @@
       "description": "The UI prototype I've  used to show companies using farcaster"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Doing the research and design work to build a better business interface for Farcaster brings us one step closer to making B2B all happen onchain. \n\nOrganizing meetups and hosting podcasts about Farcaster helped to strengthen the community in the early days. ",
   "impactMetrics": [
     {
@@ -55,6 +53,5 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x2271fe6D76ab94352eF826d97445048Bd8C4d45F.json",
   "RPGF3_Application_UID": "0x60702a8f35211d0ecabd3eff3405b915fc062b58e609e58e180ccd96cb600b6f",
   "applicantAddress": "0x2271fe6D76ab94352eF826d97445048Bd8C4d45F",
-  "pwIsFlagged": false,
-  "pwCategorySuggestions": "Community Building, User Experience & Adoption, Developer Ecosystem"
+  "pwIsFlagged": false
 }

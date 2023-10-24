@@ -10,9 +10,7 @@
       "description": "OP"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "My participation in the team was important to me. Although I wasn't always sure how my contributions affected the project, I always tried to make my contribution and contribute to our collective efforts. Although I don't always manage to assess the full extent of my contribution, I always strive to help and learn from others. I'm grateful for the opportunity to be part of this project and grow together with the team.",
   "impactMetrics": [
     {
@@ -40,6 +38,5 @@
   "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x399D437a5D2A3db6d595c696F67a37fA7a537B9D.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x399D437a5D2A3db6d595c696F67a37fA7a537B9D.json",
   "RPGF3_Application_UID": "0x092cf008f1de441b3c95b65dedb01a4aec80c495b735a39faa9510ece44f1ed1",
-  "applicantAddress": "0x399D437a5D2A3db6d595c696F67a37fA7a537B9D",
-  "pwCategorySuggestions": "Blockchain Infrastructure, User Experience & Adoption, Content Creation, Community Building, Developer Ecosystem"
+  "applicantAddress": "0x399D437a5D2A3db6d595c696F67a37fA7a537B9D"
 }

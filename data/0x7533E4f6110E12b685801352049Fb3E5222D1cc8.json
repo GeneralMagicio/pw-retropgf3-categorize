@@ -10,9 +10,7 @@
       "description": "My github"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "I am active user and governor. Almost everey day I have using bridges and swaps on Optimism\nI am active user and governor. Almost everey day I have using bridges and swaps on Optimism\nI am active user and governor. Almost everey day I have using bridges and swaps on Optimism",
   "impactMetrics": [
     {
@@ -44,6 +42,5 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged because the application is violating Rule 10, as the contributions mentioned are simply user interactions on OP Mainnet, which do not qualify as valid contributions for RetroPGF 3.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Layer 2 Scaling, Decentralized Exchanges (DEXs), Governance & Tokens, User Experience & Adoption, Community Building",
   "pwCategory": "Governance Tokens"
 }

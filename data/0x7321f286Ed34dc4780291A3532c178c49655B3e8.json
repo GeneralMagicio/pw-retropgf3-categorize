@@ -10,9 +10,7 @@
       "description": "only i'm end user"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "I use the optimism network because it has low fees and transactions are faster than those of other competing networks. Being a simple user, I can contribute by staking the tokens, thus increasing the security and liquidity of the chain. My contribution was therefore marginal but I have now adopted optimism as my favorite network\n",
   "impactMetrics": [
     {
@@ -40,6 +38,5 @@
   "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7321f286Ed34dc4780291A3532c178c49655B3e8.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x7321f286Ed34dc4780291A3532c178c49655B3e8.json",
   "RPGF3_Application_UID": "0xf8caafe8d323f74b645be1d554e4953987839de28d4a3d3fc333cf8ecf6194e7",
-  "applicantAddress": "0x7321f286Ed34dc4780291A3532c178c49655B3e8",
-  "pwCategorySuggestions": "Layer 2 Scaling, User Experience & Adoption, Governance & Tokens, Decentralized Finance (DeFi), Tokenization Platforms"
+  "applicantAddress": "0x7321f286Ed34dc4780291A3532c178c49655B3e8"
 }

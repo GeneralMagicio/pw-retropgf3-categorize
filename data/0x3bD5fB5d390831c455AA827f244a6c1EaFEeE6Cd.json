@@ -10,9 +10,7 @@
       "description": "this is my tw"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "I am an op holder, I use dapps on op, I recommend many of my friends to use them. My friends and I always talk about Op and OP projects with everyone, I want everyone to know about Op- OP is the l2 project that I feel is the best. I also guided my friends to participate in 18 missions to better understand the dapps on OP, OP is really great.",
   "impactMetrics": [
     {
@@ -39,6 +37,5 @@
   "applicantName": "IamSang",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x3bD5fB5d390831c455AA827f244a6c1EaFEeE6Cd.json",
   "RPGF3_Application_UID": "0xf13bae30d29e4261c95935e70a48f166402c90f29f30833e54b1c614b3bb207b",
-  "applicantAddress": "0x3bD5fB5d390831c455AA827f244a6c1EaFEeE6Cd",
-  "pwCategorySuggestions": "Layer 2 Scaling, User Experience & Adoption, Community Building"
+  "applicantAddress": "0x3bD5fB5d390831c455AA827f244a6c1EaFEeE6Cd"
 }

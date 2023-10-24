@@ -20,9 +20,7 @@
       "description": "Promoted many DAPPs on Optimism & added network switching buttons to guide users"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "We guide multilingual users to experience Dapps on Optimism and get airdrops. Actively participate in beneficial governance, not just Farming airdrops, continue to be active and experience more Optimism DAPPs. Wrote corresponding tutorials and actively interacted and promoted on Twitter",
   "impactMetrics": [
     {
@@ -54,6 +52,5 @@
   "applicantAddress": "0xcc63Befb6fEB1b5358696C86fFec056618385e1d",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Blockchain Education, User Experience & Adoption, Governance & Tokens, Developer Ecosystem, Web3 Community Platform",
   "pwCategory": "User Experience & Adoption"
 }

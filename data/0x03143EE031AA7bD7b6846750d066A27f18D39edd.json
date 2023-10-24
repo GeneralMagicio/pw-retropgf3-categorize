@@ -10,9 +10,7 @@
       "description": "The Optimist newsletter webpage"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Since January 2023, The Optimist (previously The Optimistic Series) has maintaines a bi-weekly newsletter & a weekly podcast cadence with Optimism Projects.\nWhat makes The Optimist unique?\n1- No media solely covers the Optimism Superchain\n2- The newsletter addresses:\nOptimism Updates: Governance, tech advancements\nProject Research: A comprehensive summary, often backed by our user experience and data analysis.\nOnchain Analytics: Deep dives into onchain metrics\nCrypto Market Review: No investment calls here. We offer tools and insights to guide crypto investment\nFarming Strategy: Tutorials highlighting potential yield opportunities\nPodcast Access: Also available as YouTube videos (with Eng sub. ) & written notes  \n3- Available in 13 languages\n4- 20-team members empowering OP collective",
   "impactMetrics": [
     {
@@ -60,6 +58,5 @@
   "applicantAddress": "0x03143EE031AA7bD7b6846750d066A27f18D39edd",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Media Production, Community Building, User Experience & Adoption, Content Creation",
   "pwCategory": "Media Production"
 }

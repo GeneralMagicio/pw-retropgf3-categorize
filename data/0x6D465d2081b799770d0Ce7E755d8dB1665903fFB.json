@@ -35,10 +35,7 @@
       "description": "Talks given by Kairos Research Analysts about Optimism and OPstack"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION",
-    "OP_STACK"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION", "OP_STACK"],
   "impactDescription": "Our impact on Optimism has been significant. We educated individuals on OPStack, opChains and attestations, provided NFT to projects with we are building community, and gained recognition for our EAS Tutorial. \n\nOur initiatives, including hosting a DeFi workshop, Twitter Spaces sessions, and delivering informative talks, have all contributed to a deeper understanding of the Optimism ecosystem. In addition, our authored articles have shed light on the ecosystem's various aspects. \n\nThese combined efforts have left a lasting imprint on the Optimism community, particularly within the Latin American region, fostering growth and engagement.",
   "impactMetrics": [
     {
@@ -90,6 +87,5 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x6D465d2081b799770d0Ce7E755d8dB1665903fFB.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x6D465d2081b799770d0Ce7E755d8dB1665903fFB.json",
   "RPGF3_Application_UID": "0x7bba50affa4ef77da95d392f7898f12af64ccfec1909d410ad8a2baf2aea8ff3",
-  "applicantAddress": "0x6D465d2081b799770d0Ce7E755d8dB1665903fFB",
-  "pwCategorySuggestions": "Content Creation, Community Building, User Experience & Adoption, Blockchain Education, Media Production"
+  "applicantAddress": "0x6D465d2081b799770d0Ce7E755d8dB1665903fFB"
 }

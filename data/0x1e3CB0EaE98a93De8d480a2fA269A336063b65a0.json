@@ -10,9 +10,7 @@
       "description": "My Twitter "
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Any contributions which support end-user adoption could qualify, including onboarding new users to Optimism, Optimism-focused content creation, Layer 2 education, and more.\nWork that provided impact to end users in the Optimism Collective, or helped bring new end users into the Collective",
   "impactMetrics": [
     {
@@ -37,6 +35,5 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "Flag the application. The contribution and impact descriptions are generic and don't specify the applicant's concrete involvements in the Web3/blockchain space aligning with the program rules, giving the impression of false or misleading claims.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "End-User Experience, Adoption, Content Creation, Layer 2 Scaling, Blockchain Education",
   "pwCategory": "End User Experience and Adoption"
 }

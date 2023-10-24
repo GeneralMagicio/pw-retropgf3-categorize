@@ -10,9 +10,7 @@
       "description": "My history onchain activity"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "By actively engaging with these projects and sharing my insights, I aim to contribute to the growth and maturation of the crypto industry, fostering a more secure and user-friendly environment for all participants. My commitment to testing and feedback underscores my belief in the transformative potential of blockchain technology and its ability to revolutionize various sectors beyond finance.",
   "impactMetrics": [
     {
@@ -56,6 +54,5 @@
   "applicantAddress": "0x4e846E2aB6A8e2565EA073A5ee9839FcbFd927D1",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Blockchain Infrastructure, Decentralized Finance (DeFi), Blockchain Gaming, Content Creation, Community Building",
   "pwCategory": "Community Building"
 }

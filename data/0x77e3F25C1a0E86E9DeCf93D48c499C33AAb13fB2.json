@@ -10,9 +10,7 @@
       "description": "activeness on this network on Nft projects"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "My impact on activity in the NFT world, this network is very good, it can increase user interest and of course the activity of your network.I have been traveling since the OP was first created and I have had several positive impacts. The contribution I received in this network is approximately 5000 dollars which is very large",
   "impactMetrics": [
     {
@@ -44,6 +42,5 @@
   "applicantAddress": "0x77e3F25C1a0E86E9DeCf93D48c499C33AAb13fB2",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Finance (DeFi), Non-Fungible Tokens (NFTs), Layer 2 Scaling, Smart Contract Platforms, User Experience & Adoption",
   "pwCategory": "Optimism Ambassador"
 }

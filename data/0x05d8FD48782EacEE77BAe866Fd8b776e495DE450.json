@@ -20,9 +20,7 @@
       "description": "Camel Cult community in supporting project on Optimism"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "I would say that it is not largely impacted the world but I believe my small steps together with my Camel Cult community will change the world into a better place and bring more new users and fans to the ecosystem especially in music industry. By promoting ideas and new ways that can utilitize crypto, I can help to bring benefits to the future. ",
   "impactMetrics": [
     {
@@ -51,6 +49,5 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x05d8FD48782EacEE77BAe866Fd8b776e495DE450.json",
   "RPGF3_Application_UID": "0x75d24f0cf97531bd3ce1c77d5129dc9ae3a45cce274cbdc03dfda2d924ca2f41",
   "applicantAddress": "0x05d8FD48782EacEE77BAe866Fd8b776e495DE450",
-  "pwIsFlagged": false,
-  "pwCategorySuggestions": "NFTs, Music, Community Building, User Experience & Adoption, Decentralized Finance (DeFi)"
+  "pwIsFlagged": false
 }

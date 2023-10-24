@@ -60,9 +60,7 @@
       "description": "DeFi 101 "
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "People are hesitant to familiarize themselves with new ecosystems and don't know how to complete transactions.\n\nWith my content, I think people learn how to log in to the ecosystem and what apps they can use in the ecosystem, so I've helped people learn and use optimism.",
   "impactMetrics": [
     {
@@ -84,6 +82,5 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x4830764Cb1252Fc7553231E2FBF5b09961a29c59.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x4830764Cb1252Fc7553231E2FBF5b09961a29c59.json",
   "RPGF3_Application_UID": "0x50eacddd935ff1aac3538b5e6d9ce744c136259b49521f9d02ca4c01d3c64fef",
-  "applicantAddress": "0x4830764Cb1252Fc7553231E2FBF5b09961a29c59",
-  "pwCategorySuggestions": "Content Creation, User Experience & Adoption, Blockchain Education, Media Production, Cryptocurrency Services"
+  "applicantAddress": "0x4830764Cb1252Fc7553231E2FBF5b09961a29c59"
 }

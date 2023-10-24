@@ -10,9 +10,7 @@
       "description": "0x44E9d827D83746F2817C55AD7071f4426759B78E"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "erken yatırımcıyım airdrop takip eden uygulamaya çalışan ve azda olsa getiri elde etmek istiyorum erken yatırımcıyım airdrop takip eden uygulamaya çalışan ve azda olsa getiri elde etmek istiyorum erken yatırımcıyım airdrop takip eden uygulamaya çalışan ve azda olsa getiri elde etmek istiyorum",
   "impactMetrics": [
     {
@@ -37,6 +35,5 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for violating rule 11 as it is not in English.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "End-User Experience, Wallet Management, Tokenization Platforms, Cryptocurrency Services",
   "pwCategory": "End User Experience and Adoption"
 }
