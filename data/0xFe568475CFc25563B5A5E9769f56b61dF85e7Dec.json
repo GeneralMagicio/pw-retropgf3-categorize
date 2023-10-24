@@ -77,5 +77,8 @@
   "applicantAddress": "0xFe568475CFc25563B5A5E9769f56b61dF85e7Dec",
   "pwCategorySuggestions": "Non-Fungible Tokens (NFTs), Community Building, Smart Contract Platforms",
   "pwCategory": "Community & Social",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwRecategorizeToType": "INDIVIDUAL",
+  "pwRecategorizeReason": "NO, it is not correctly categorized. Despite being marked as a 'PROJECT', the application talks about \"I\" indicating it should be categorized as an 'INDIVIDUAL'.",
+  "pwApplicantTypeChecked": true
 }

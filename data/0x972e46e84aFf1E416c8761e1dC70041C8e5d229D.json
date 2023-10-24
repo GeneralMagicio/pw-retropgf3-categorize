@@ -39,5 +39,8 @@
   "RPGF3_Application_UID": "0x2a6d93bac6870193cbef5b0b96d3fe8893d75a6de2a3f0377f7f7dfcc44b76cd",
   "applicantAddress": "0x972e46e84aFf1E416c8761e1dC70041C8e5d229D",
   "pwCategorySuggestions": "Tokenization Platforms, Smart Contract Platforms, Web3 Community Platform",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwRecategorizeToType": "PROJECT",
+  "pwRecategorizeReason": "NO, the application is categorized as an individual but from the description it is clear that it is an AI bot, therefore it should be categorized as a project.",
+  "pwApplicantTypeChecked": true
 }

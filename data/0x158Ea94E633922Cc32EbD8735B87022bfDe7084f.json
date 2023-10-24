@@ -48,5 +48,6 @@
   "applicantAddress": "0x158Ea94E633922Cc32EbD8735B87022bfDe7084f",
   "pwIsFlagged": false,
   "pwCategorySuggestions": "Community Building, User Experience & Adoption, Web3 Community Platform",
-  "pwCategory": "Education & Learning"
+  "pwCategory": "Education & Learning",
+  "pwApplicantTypeChecked": true
 }

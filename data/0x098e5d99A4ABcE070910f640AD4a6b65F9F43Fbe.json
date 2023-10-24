@@ -38,5 +38,6 @@
   "applicantAddress": "0x098e5d99A4ABcE070910f640AD4a6b65F9F43Fbe",
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged because it lacks the required detailed descriptions about the contribution and its impact.",
-  "pwCategorySuggestions": "Tokenization Platforms, Governance Tokens, Media Production"
+  "pwCategorySuggestions": "Tokenization Platforms, Governance Tokens, Media Production",
+  "pwApplicantTypeChecked": true
 }

@@ -41,5 +41,6 @@
   "RPGF3_Application_UID": "0xa8a90af9c36e868691d5b65aa82cd507481debf69991185396948aad5979e156",
   "applicantAddress": "0xaA95cA26c92b0634dF7a1A1504f579F13bFB7f9d",
   "pwCategorySuggestions": "Layer 2 Scaling, User Experience & Adoption, Community Building",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

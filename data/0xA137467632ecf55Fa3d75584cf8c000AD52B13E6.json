@@ -36,5 +36,6 @@
   "applicantAddress": "0xA137467632ecf55Fa3d75584cf8c000AD52B13E6",
   "pwCategorySuggestions": "Decentralized Exchanges (DEXs), Layer 2 Scaling, User Experience & Adoption",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "This application should be flagged for having issues related to being vague, not providing enough information about the project/impact and potentially falling under \"outside of RetroPGF's scope\" as it does not have a clear relationship to Optimism. The application also contains irrelevant or meaningless text (a large amount of periods) which could be considered as spam."
+  "pwFlaggedReason": "This application should be flagged for having issues related to being vague, not providing enough information about the project/impact and potentially falling under \"outside of RetroPGF's scope\" as it does not have a clear relationship to Optimism. The application also contains irrelevant or meaningless text (a large amount of periods) which could be considered as spam.",
+  "pwApplicantTypeChecked": true
 }

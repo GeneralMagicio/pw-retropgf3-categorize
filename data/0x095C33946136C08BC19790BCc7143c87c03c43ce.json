@@ -86,5 +86,6 @@
   "applicantAddress": "0x095C33946136C08BC19790BCc7143c87c03c43ce",
   "pwIsFlagged": false,
   "pwCategorySuggestions": "NFT Aggregator, Web3 Community Platform, Blockchain Gaming",
-  "pwCategory": "Community & Social"
+  "pwCategory": "Community & Social",
+  "pwApplicantTypeChecked": true
 }

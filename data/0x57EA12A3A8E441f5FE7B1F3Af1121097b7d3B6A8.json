@@ -83,5 +83,6 @@
   "applicantAddress": "0x57EA12A3A8E441f5FE7B1F3Af1121097b7d3B6A8",
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Privacy Coins, Tokenization Platforms",
   "pwCategory": "Privacy Coins",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

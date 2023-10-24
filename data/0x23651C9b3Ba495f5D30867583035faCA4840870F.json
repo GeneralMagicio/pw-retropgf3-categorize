@@ -42,5 +42,6 @@
   "applicantAddress": "0x23651C9b3Ba495f5D30867583035faCA4840870F",
   "pwIsFlagged": false,
   "pwCategorySuggestions": "Smart Contract Platforms, Tokenization Platforms, Blockchain Infrastructure",
-  "pwCategory": "Developer Tools"
+  "pwCategory": "Developer Tools",
+  "pwApplicantTypeChecked": true
 }

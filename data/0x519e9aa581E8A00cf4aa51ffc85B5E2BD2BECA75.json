@@ -216,5 +216,8 @@
   "applicantAddress": "0x519e9aa581E8A00cf4aa51ffc85B5E2BD2BECA75",
   "pwCategorySuggestions": "Content Creation, Community Building, Education",
   "pwCategory": "Education & Learning",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwRecategorizeToType": "INDIVIDUAL",
+  "pwRecategorizeReason": "NO. The application is not correctly categorized as it should be under \"INDIVIDUAL\" because the applicant refers to themselves as \"I\" in the bio section.",
+  "pwApplicantTypeChecked": true
 }

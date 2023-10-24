@@ -101,5 +101,6 @@
   "applicantAddress": "0x4cd6B4503d02973D78CFF59C9C56f5F378688274",
   "pwCategorySuggestions": "Developer Ecosystem, Governance & Tokens",
   "pwCategory": "Education & Learning",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

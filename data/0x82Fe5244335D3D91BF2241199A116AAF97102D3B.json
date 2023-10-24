@@ -96,5 +96,6 @@
   "applicantAddress": "0x82Fe5244335D3D91BF2241199A116AAF97102D3B",
   "pwCategorySuggestions": "Developer Ecosystem Growth, End-User Experience & Adoption",
   "pwCategory": "Finance & DeFi",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

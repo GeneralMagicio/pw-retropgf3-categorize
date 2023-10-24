@@ -92,5 +92,6 @@
   "applicantAddress": "0x512b55b00d744fC2eDB8474f223a7498c3e5a7ce",
   "pwCategorySuggestions": "Tokenization Platforms, Decentralized Finance (DeFi), Community Building",
   "pwCategory": "Music NFTs",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

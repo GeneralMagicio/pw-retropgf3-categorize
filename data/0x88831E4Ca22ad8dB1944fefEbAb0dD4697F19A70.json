@@ -37,5 +37,6 @@
   "applicantAddress": "0x88831E4Ca22ad8dB1944fefEbAb0dD4697F19A70",
   "pwCategorySuggestions": "Blockchain Education, Community Building, User Experience & Adoption",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "This application should be flagged because it violates the rule of \"Promises of future impact - promises of future deliverables or impact are not allowed.\" The applicant is not able to provide past contributions or any measurable impact, but promises future contributions instead."
+  "pwFlaggedReason": "This application should be flagged because it violates the rule of \"Promises of future impact - promises of future deliverables or impact are not allowed.\" The applicant is not able to provide past contributions or any measurable impact, but promises future contributions instead.",
+  "pwApplicantTypeChecked": true
 }

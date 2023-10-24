@@ -56,5 +56,6 @@
   "applicantAddress": "0xc56618e14Dc795D0a3aeF77cFC9F3B1dba2514c6",
   "pwCategorySuggestions": "Smart Contract Platforms, Developer Ecosystem, Community Building",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "The application should be flagged because it promises future impact by stating that the applicant plans to start developing their own project on Optimism within 3 months, which violates rule 1 of the grant program rules."
+  "pwFlaggedReason": "The application should be flagged because it promises future impact by stating that the applicant plans to start developing their own project on Optimism within 3 months, which violates rule 1 of the grant program rules.",
+  "pwApplicantTypeChecked": true
 }

@@ -37,5 +37,6 @@
   "applicantAddress": "0x9b448121b9F4D797D3AfA42De39B8c11bF0d7304",
   "pwCategorySuggestions": "Content Creation, Media Production, Cryptocurrency Services",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "The application should be flagged for violating the rule \"Promises of future impact - promises of future deliverables or impact are not allowed\". The applicant is promising to \"create content to support optimism\" in the future."
+  "pwFlaggedReason": "The application should be flagged for violating the rule \"Promises of future impact - promises of future deliverables or impact are not allowed\". The applicant is promising to \"create content to support optimism\" in the future.",
+  "pwApplicantTypeChecked": true
 }

@@ -47,5 +47,6 @@
   "applicantAddress": "0xDD1Ce2d72b2FdCCB2D10D3D04D5ca2Ba81E39aD3",
   "pwCategorySuggestions": "Smart Contract Platforms, Decentralized Finance (DeFi), Blockchain Gaming",
   "pwCategory": "Smart Contract Development Tools",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

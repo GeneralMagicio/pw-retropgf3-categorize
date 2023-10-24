@@ -57,5 +57,8 @@
   "applicantAddress": "0x2271fe6D76ab94352eF826d97445048Bd8C4d45F",
   "pwIsFlagged": false,
   "pwCategorySuggestions": "Community Building, User Experience & Adoption, Content Creation",
-  "pwCategory": "User Interface & Experience"
+  "pwCategory": "User Interface & Experience",
+  "pwRecategorizeToType": "INDIVIDUAL",
+  "pwRecategorizeReason": "NO, the application should be categorized as \"INDIVIDUAL\" because the bio and contribution descriptions talk about \"I\" and \"me\".",
+  "pwApplicantTypeChecked": true
 }

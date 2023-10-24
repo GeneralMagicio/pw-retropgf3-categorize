@@ -111,5 +111,6 @@
   "applicantAddress": "0x9ebC8E61f87A301fF25a606d7C06150f856F24E2",
   "pwCategorySuggestions": "Smart Contract Platforms, Tokenization Platforms",
   "pwCategory": "Smart Contract Development Tools",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

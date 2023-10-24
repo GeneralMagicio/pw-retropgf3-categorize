@@ -43,5 +43,8 @@
   "RPGF3_Application_UID": "0x8f9e280cdd6c7fb2aaa43010df0fa49dd04345a346b9b028e1e32d13d83fa4fd",
   "applicantAddress": "0x8928d32Ed05Add1e1FE9C2f5f8626Bfb5654383d",
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Wallet Management, Smart Contract Platforms",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwRecategorizeToType": "PROJECT",
+  "pwRecategorizeReason": "NO, the application is from an individual but it speaks more about a project initiated by this individual rather than contributions as an individual. It should be categorized as \"PROJECT\".",
+  "pwApplicantTypeChecked": true
 }

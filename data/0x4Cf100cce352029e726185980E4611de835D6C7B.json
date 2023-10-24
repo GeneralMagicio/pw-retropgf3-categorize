@@ -45,5 +45,8 @@
   "applicantAddress": "0x4Cf100cce352029e726185980E4611de835D6C7B",
   "pwCategorySuggestions": "Content Creation, Community Building, Governance & Tokens",
   "pwCategory": "Education & Learning",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwRecategorizeToType": "INDIVIDUAL",
+  "pwRecategorizeReason": "NO, because the application repeatedly refers to \"I\" and \"me\", suggesting that the applicant is an individual, not a project.",
+  "pwApplicantTypeChecked": true
 }

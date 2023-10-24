@@ -44,5 +44,6 @@
   "applicantAddress": "0x3adcb0295b22fE6Dc093D3f25FEFE3C35EBE8FAA",
   "pwCategorySuggestions": "Blockchain Gaming",
   "pwCategory": "Gaming & Entertainment",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

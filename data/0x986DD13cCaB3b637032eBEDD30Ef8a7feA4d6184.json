@@ -65,5 +65,6 @@
   "applicantAddress": "0x986DD13cCaB3b637032eBEDD30Ef8a7feA4d6184",
   "pwCategorySuggestions": "Tokenization Platforms, Decentralized Finance (DeFi), Payment Processors",
   "pwCategory": "Cryptocurrency Services",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

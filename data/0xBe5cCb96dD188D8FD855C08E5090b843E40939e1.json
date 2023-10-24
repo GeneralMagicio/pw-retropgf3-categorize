@@ -51,5 +51,8 @@
   "RPGF3_Application_UID": "0x2df3cfa24628dbfa24de5d08b0364beb5a93efb8246dcdcecb5e44ffdf14eadb",
   "applicantAddress": "0xBe5cCb96dD188D8FD855C08E5090b843E40939e1",
   "pwCategorySuggestions": "Community Building, Social Media Marketing",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwRecategorizeToType": "PROJECT",
+  "pwRecategorizeReason": "NO, the application is referring to a group community, hence it should be categorized as \"PROJECT\".",
+  "pwApplicantTypeChecked": true
 }

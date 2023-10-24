@@ -93,5 +93,6 @@
   "applicantAddress": "0x266B650F92753FD7Be17B7487C8CC3Bd05EFab8A",
   "pwIsFlagged": false,
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Cross-Chain Platforms, Community Building",
-  "pwCategory": "Community & Social"
+  "pwCategory": "Community & Social",
+  "pwApplicantTypeChecked": true
 }

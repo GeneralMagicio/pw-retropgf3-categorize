@@ -63,5 +63,6 @@
   "applicantAddress": "0xF138f8e006947d4482458510AB701299F46c12a3",
   "pwCategorySuggestions": "Decentralized Governance, Voting Platforms, Layer 2 Scaling",
   "pwCategory": "Decentralized Governance",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

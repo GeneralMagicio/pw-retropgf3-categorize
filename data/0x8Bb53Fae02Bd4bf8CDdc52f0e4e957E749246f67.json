@@ -37,5 +37,6 @@
   "applicantAddress": "0x8Bb53Fae02Bd4bf8CDdc52f0e4e957E749246f67",
   "pwCategorySuggestions": "Community Building, User Experience & Adoption, Web3 Community Platform",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "Yes, this application should be flagged for violating rule 1: Promises of future impact. The applicant hints at potential future contributions and engagements they might undertake but does not provide specific, past contributions or measurable impact in the Web3/blockchain space."
+  "pwFlaggedReason": "Yes, this application should be flagged for violating rule 1: Promises of future impact. The applicant hints at potential future contributions and engagements they might undertake but does not provide specific, past contributions or measurable impact in the Web3/blockchain space.",
+  "pwApplicantTypeChecked": true
 }

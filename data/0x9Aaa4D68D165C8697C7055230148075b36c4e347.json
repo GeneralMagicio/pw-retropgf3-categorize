@@ -72,5 +72,6 @@
   "applicantAddress": "0x9Aaa4D68D165C8697C7055230148075b36c4e347",
   "pwCategorySuggestions": "Developer Tools, Blockchain Infrastructure",
   "pwCategory": "Developer Tools",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

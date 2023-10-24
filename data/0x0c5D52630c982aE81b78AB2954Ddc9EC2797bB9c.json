@@ -58,5 +58,6 @@
   "applicantAddress": "0x0c5D52630c982aE81b78AB2954Ddc9EC2797bB9c",
   "pwIsFlagged": false,
   "pwCategorySuggestions": "Cross-Chain Platforms, Decentralized Exchanges (DEXs), Blockchain Infrastructure",
-  "pwCategory": "Cross-Chain & Interoperability"
+  "pwCategory": "Cross-Chain & Interoperability",
+  "pwApplicantTypeChecked": true
 }

@@ -40,5 +40,8 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for violating rule 2 (False statements & deception) as the applicant's claims about contributions towards \"Testing of all projects from optimism\" is too vague and lacks any provided proof, which may potentially be a false claim.",
   "pwCategorySuggestions": "Developer Ecosystem, Tokenization Platforms, Community Building",
-  "pwCategory": "Developer Tools"
+  "pwCategory": "Developer Tools",
+  "pwRecategorizeToType": "INDIVIDUAL",
+  "pwRecategorizeReason": "NO, the application should be categorized as \"INDIVIDUAL\" based on the use of \"I\" in the contribution description.",
+  "pwApplicantTypeChecked": true
 }

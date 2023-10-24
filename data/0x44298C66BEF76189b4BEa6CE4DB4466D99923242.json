@@ -39,5 +39,6 @@
   "applicantAddress": "0x44298C66BEF76189b4BEa6CE4DB4466D99923242",
   "pwCategorySuggestions": "Community Building, Developer Ecosystem, User Experience & Adoption",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "This application should be flagged for promises of future impact. The applicant prominently promises future actions and goals such as \"helping in any testnets, helping increasing the whole participation to the peak, i will do my best to fulfill all the requirements you may need\"."
+  "pwFlaggedReason": "This application should be flagged for promises of future impact. The applicant prominently promises future actions and goals such as \"helping in any testnets, helping increasing the whole participation to the peak, i will do my best to fulfill all the requirements you may need\".",
+  "pwApplicantTypeChecked": true
 }

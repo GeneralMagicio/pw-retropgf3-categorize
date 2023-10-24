@@ -79,5 +79,6 @@
   "applicantAddress": "0x055D602C940b3cd7A158df0FD600C75744C9690e",
   "pwIsFlagged": false,
   "pwCategorySuggestions": "Web3 Community Platform, User Experience & Adoption",
-  "pwCategory": "Community & Social"
+  "pwCategory": "Community & Social",
+  "pwApplicantTypeChecked": true
 }

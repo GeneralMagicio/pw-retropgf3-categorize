@@ -129,5 +129,6 @@
   "applicantAddress": "0x49cA434088A569019F2e31D5b15A55D59A3e7d66",
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Aggregator Platforms, Open-source Development",
   "pwCategory": "Decentralized Exchanges (DEXs)",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

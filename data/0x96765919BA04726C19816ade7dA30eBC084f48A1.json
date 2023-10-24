@@ -54,5 +54,6 @@
   "applicantAddress": "0x96765919BA04726C19816ade7dA30eBC084f48A1",
   "pwCategorySuggestions": "Governance & Transparency",
   "pwCategory": "Data Analytics",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

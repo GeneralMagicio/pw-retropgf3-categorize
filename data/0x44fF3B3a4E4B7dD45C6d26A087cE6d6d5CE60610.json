@@ -35,5 +35,6 @@
   "applicantAddress": "0x44fF3B3a4E4B7dD45C6d26A087cE6d6d5CE60610",
   "pwCategorySuggestions": "NFTs, DeFi, User Experience & Adoption",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "Flagged. The applicant's contribution primarily involves activities such as transactions and interactions which are specifically excluded from being rewarded by the RetroPGF program."
+  "pwFlaggedReason": "Flagged. The applicant's contribution primarily involves activities such as transactions and interactions which are specifically excluded from being rewarded by the RetroPGF program.",
+  "pwApplicantTypeChecked": true
 }

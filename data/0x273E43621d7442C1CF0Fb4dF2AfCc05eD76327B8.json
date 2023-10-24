@@ -46,5 +46,6 @@
   "applicantAddress": "0x273E43621d7442C1CF0Fb4dF2AfCc05eD76327B8",
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for violating the Grant program rule 1: Promises of future impact. The application promises the release of substantial application updates and hints at a large audience base in future, without providing concrete measurable impact.",
-  "pwCategorySuggestions": "Smart Contract Platforms, Web3 Community Platform, Decentralized Finance (DeFi)"
+  "pwCategorySuggestions": "Smart Contract Platforms, Web3 Community Platform, Decentralized Finance (DeFi)",
+  "pwApplicantTypeChecked": true
 }

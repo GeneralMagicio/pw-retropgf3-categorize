@@ -46,5 +46,6 @@
   "RPGF3_Application_UID": "0xa739344c0a2e42ca3869002aec938178b77707107912959061aa4728c7511330",
   "applicantAddress": "0x0E6D666EC207bd28d3163110392CFad7E90f087F",
   "pwIsFlagged": false,
-  "pwCategorySuggestions": "Web3 Community Platform, Content Creation"
+  "pwCategorySuggestions": "Web3 Community Platform, Content Creation",
+  "pwApplicantTypeChecked": true
 }

@@ -42,5 +42,6 @@
   "applicantAddress": "0x3b5359709945587Af3d800aA174B3E2dDc92d38d",
   "pwCategorySuggestions": "Content Creation, Media Production, User Experience & Adoption",
   "pwCategory": "User Interface & Experience",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

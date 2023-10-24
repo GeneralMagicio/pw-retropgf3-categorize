@@ -89,5 +89,6 @@
   "applicantAddress": "0xb2821C0DF0c414ff51D3e8033CBA26DF6AaC587b",
   "pwCategorySuggestions": "Smart Contract Platforms, Tokenization Platforms, Decentralized Finance (DeFi)",
   "pwCategory": "Education & Learning",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

@@ -79,5 +79,6 @@
   "applicantAddress": "0x050549F8c196Bf1bcC293172746c847fD4D77d9d",
   "pwIsFlagged": false,
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Non-Fungible Tokens (NFTs), Content Creation",
-  "pwCategory": "Content & Media"
+  "pwCategory": "Content & Media",
+  "pwApplicantTypeChecked": true
 }

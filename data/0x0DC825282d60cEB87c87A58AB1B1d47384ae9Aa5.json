@@ -35,5 +35,6 @@
   "applicantAddress": "0x0DC825282d60cEB87c87A58AB1B1d47384ae9Aa5",
   "pwIsFlagged": false,
   "pwCategorySuggestions": "Onchain Machine Learning, Blockchain Technology, AI Security",
-  "pwCategory": "Onchain Machine Learning"
+  "pwCategory": "Onchain Machine Learning",
+  "pwApplicantTypeChecked": true
 }

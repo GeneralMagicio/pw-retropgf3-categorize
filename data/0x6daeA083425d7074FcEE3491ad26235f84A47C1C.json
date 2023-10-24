@@ -42,5 +42,6 @@
   "RPGF3_Application_UID": "0x1aa098ab50fe6c379f15308d711529833e418d294453b2be2e06de69b808eb0d",
   "applicantAddress": "0x6daeA083425d7074FcEE3491ad26235f84A47C1C",
   "pwCategorySuggestions": "Content Creation, Community Building, Decentralized Finance (DeFi)",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

@@ -65,5 +65,6 @@
   "applicantAddress": "0x27292E1a901E3E0bE7d144aDba4CAD07da2d8a42",
   "pwIsFlagged": false,
   "pwCategorySuggestions": "Developer Ecosystem, Blockchain Education, Social Impact",
-  "pwCategory": "Developer Education"
+  "pwCategory": "Developer Education",
+  "pwApplicantTypeChecked": true
 }

@@ -77,5 +77,6 @@
   "applicantAddress": "0x7D5a44baad1992092504bb8DCA602615fCe09351",
   "pwCategorySuggestions": "Smart Contract Security, Developer Education, Blockchain Gaming",
   "pwCategory": "Developer Education",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

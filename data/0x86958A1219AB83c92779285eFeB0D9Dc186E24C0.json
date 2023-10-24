@@ -229,5 +229,6 @@
   "applicantAddress": "0x86958A1219AB83c92779285eFeB0D9Dc186E24C0",
   "pwCategorySuggestions": "Tokenization Platforms, Media Production, Community Building",
   "pwCategory": "Music NFTs",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

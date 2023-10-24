@@ -65,5 +65,6 @@
   "applicantAddress": "0xb9e3BA10B66294C25aD6a8924f42f4D9AACa4F50",
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Smart Contract Platforms, Web3 Community Platform",
   "pwCategory": "Decentralized Governance",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

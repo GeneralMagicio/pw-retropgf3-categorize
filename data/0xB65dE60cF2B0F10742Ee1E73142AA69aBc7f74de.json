@@ -42,5 +42,8 @@
   "applicantAddress": "0xB65dE60cF2B0F10742Ee1E73142AA69aBc7f74de",
   "pwCategorySuggestions": "Governance & Tokens, Community Building, User Experience & Adoption",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "This application should be flagged for violating the rule 10 and 11 because the contribution and impact descriptions are very vague and the impact metrics don't seem to provide any relevant information."
+  "pwFlaggedReason": "This application should be flagged for violating the rule 10 and 11 because the contribution and impact descriptions are very vague and the impact metrics don't seem to provide any relevant information.",
+  "pwRecategorizeToType": "PROJECT",
+  "pwRecategorizeReason": "NO, the application includes references to \"your work\" and \"your application\", suggesting that this might be a result of a PROJECT rather than an INDIVIDUAL.",
+  "pwApplicantTypeChecked": true
 }

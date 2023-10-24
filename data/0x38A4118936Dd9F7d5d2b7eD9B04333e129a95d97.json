@@ -52,5 +52,6 @@
   "applicantAddress": "0x38A4118936Dd9F7d5d2b7eD9B04333e129a95d97",
   "pwCategorySuggestions": "NFT Aggregator, Digital Identity",
   "pwCategory": "NFT Integration",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

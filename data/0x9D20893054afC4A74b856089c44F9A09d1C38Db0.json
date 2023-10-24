@@ -48,5 +48,6 @@
   "applicantAddress": "0x9D20893054afC4A74b856089c44F9A09d1C38Db0",
   "pwCategorySuggestions": "Blockchain Infrastructure, Smart Contract Platforms, Layer 2 Scaling",
   "pwCategory": "Decentralized Infrastructure",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

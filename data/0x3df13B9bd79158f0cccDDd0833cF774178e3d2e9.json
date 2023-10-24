@@ -451,5 +451,6 @@
   "applicantAddress": "0x3df13B9bd79158f0cccDDd0833cF774178e3d2e9",
   "pwCategorySuggestions": "Content Creation, Education, Community Building",
   "pwCategory": "Education & Learning",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

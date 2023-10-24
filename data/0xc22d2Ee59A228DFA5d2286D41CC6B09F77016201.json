@@ -62,5 +62,6 @@
   "applicantAddress": "0xc22d2Ee59A228DFA5d2286D41CC6B09F77016201",
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Tokenization Platforms, User Experience & Adoption",
   "pwCategory": "End-User Experience & Adoption",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

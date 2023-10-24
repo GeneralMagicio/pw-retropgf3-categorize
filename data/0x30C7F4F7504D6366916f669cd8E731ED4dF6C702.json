@@ -87,5 +87,8 @@
   "applicantAddress": "0x30C7F4F7504D6366916f669cd8E731ED4dF6C702",
   "pwIsFlagged": false,
   "pwCategorySuggestions": "Community Building, User Experience & Adoption, Governance & Tokens",
-  "pwCategory": "Community & Social"
+  "pwCategory": "Community & Social",
+  "pwRecategorizeToType": "INDIVIDUAL",
+  "pwRecategorizeReason": "NO, it is not correctly categorized. Despite being labeled as a project, the application predominantly uses first-person language \"I\" indicating an individual applicant.",
+  "pwApplicantTypeChecked": true
 }

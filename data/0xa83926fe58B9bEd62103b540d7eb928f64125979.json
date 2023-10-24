@@ -71,5 +71,6 @@
   "applicantAddress": "0xa83926fe58B9bEd62103b540d7eb928f64125979",
   "pwCategorySuggestions": "Developer Ecosystem, Blockchain Education, Governance & Tokens",
   "pwCategory": "Education & Learning",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

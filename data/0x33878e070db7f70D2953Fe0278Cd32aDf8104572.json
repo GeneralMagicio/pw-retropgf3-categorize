@@ -65,5 +65,6 @@
   "applicantAddress": "0x33878e070db7f70D2953Fe0278Cd32aDf8104572",
   "pwIsFlagged": false,
   "pwCategorySuggestions": "Grant Management",
-  "pwCategory": "Finance & DeFi"
+  "pwCategory": "Finance & DeFi",
+  "pwApplicantTypeChecked": true
 }

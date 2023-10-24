@@ -40,5 +40,6 @@
   "applicantAddress": "0x7D3e4505307741f31CF79eA650a05718EE2Cf85b",
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Governance & Tokens, Developer Ecosystem",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "This application should be flagged for rule 2: false statements & deception, because the application does not provide clear and truthful information about the contributions or impact of the applicant."
+  "pwFlaggedReason": "This application should be flagged for rule 2: false statements & deception, because the application does not provide clear and truthful information about the contributions or impact of the applicant.",
+  "pwApplicantTypeChecked": true
 }

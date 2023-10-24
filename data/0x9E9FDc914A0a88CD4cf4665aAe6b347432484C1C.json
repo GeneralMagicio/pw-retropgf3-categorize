@@ -47,5 +47,6 @@
   "applicantAddress": "0x9E9FDc914A0a88CD4cf4665aAe6b347432484C1C",
   "pwCategorySuggestions": "Community Building, User Experience & Adoption, Governance & Tokens.",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "The application should be flagged for violating the rule on Spam, as the content provided in the application is nonsensical and in a language other than English."
+  "pwFlaggedReason": "The application should be flagged for violating the rule on Spam, as the content provided in the application is nonsensical and in a language other than English.",
+  "pwApplicantTypeChecked": true
 }

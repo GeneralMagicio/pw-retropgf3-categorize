@@ -84,5 +84,6 @@
   "applicantAddress": "0xAEab2C097bd7a9e5Dbd83fEba500Aa56fB0C5930",
   "pwCategorySuggestions": "Content Creation, Community Building, User Experience & Adoption",
   "pwCategory": "Education & Learning",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

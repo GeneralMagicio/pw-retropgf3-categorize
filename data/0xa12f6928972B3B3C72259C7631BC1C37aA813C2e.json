@@ -92,5 +92,6 @@
   "applicantAddress": "0xa12f6928972B3B3C72259C7631BC1C37aA813C2e",
   "pwCategorySuggestions": "Decentralized Governance, Web3 Community Platform, Blockchain Infrastructure",
   "pwCategory": "Decentralized Governance Platform",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

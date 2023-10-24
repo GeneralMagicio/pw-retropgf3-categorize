@@ -54,5 +54,6 @@
   "applicantAddress": "0x67C7be15BBc60701A586614013a61f04C8Dd26D2",
   "pwCategorySuggestions": "Community Building, NFT Minting, User Experience & Adoption",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "This application should be flagged for violating rule 10. The applicant's contribution is mainly using the OP Mainnet for transactions, which falls under user interactions, and this is explicitly mentioned as not within the scope to be rewarded in RetroPGF 3."
+  "pwFlaggedReason": "This application should be flagged for violating rule 10. The applicant's contribution is mainly using the OP Mainnet for transactions, which falls under user interactions, and this is explicitly mentioned as not within the scope to be rewarded in RetroPGF 3.",
+  "pwApplicantTypeChecked": true
 }

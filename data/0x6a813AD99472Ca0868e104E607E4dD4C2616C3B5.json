@@ -80,5 +80,6 @@
   "applicantAddress": "0x6a813AD99472Ca0868e104E607E4dD4C2616C3B5",
   "pwCategorySuggestions": "Decentralized Oracle Services, Cross-Chain Platforms, Blockchain Gaming",
   "pwCategory": "Cross-Chain & Interoperability",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

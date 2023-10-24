@@ -43,5 +43,6 @@
   "applicantAddress": "0xc1095858C8969Ad2bF52Aa1BACeC3Fc816515005",
   "pwCategorySuggestions": "Content Creation, Community Building, User Experience & Adoption",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "The application should be flagged for promising future impact, which is against the rules of the grant program."
+  "pwFlaggedReason": "The application should be flagged for promising future impact, which is against the rules of the grant program.",
+  "pwApplicantTypeChecked": true
 }

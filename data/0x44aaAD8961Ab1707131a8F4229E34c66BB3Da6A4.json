@@ -45,5 +45,6 @@
   "applicantAddress": "0x44aaAD8961Ab1707131a8F4229E34c66BB3Da6A4",
   "pwCategorySuggestions": "Decentralized Finance (DeFi)",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "The application should be flagged because it contains blank fields in 'contributionDescription' and 'impactDescription' which are necessary to justify the application and understand the contribution made."
+  "pwFlaggedReason": "The application should be flagged because it contains blank fields in 'contributionDescription' and 'impactDescription' which are necessary to justify the application and understand the contribution made.",
+  "pwApplicantTypeChecked": true
 }

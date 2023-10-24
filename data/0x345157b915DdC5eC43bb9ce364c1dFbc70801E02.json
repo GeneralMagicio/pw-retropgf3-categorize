@@ -43,5 +43,8 @@
   "applicantAddress": "0x345157b915DdC5eC43bb9ce364c1dFbc70801E02",
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for promising future impact as the applicant asserts that Ethereum needs to scale to internet-level for more global impact, but doesn't specify any actual contributions they've made.",
-  "pwCategorySuggestions": "Layer 2 Scaling"
+  "pwCategorySuggestions": "Layer 2 Scaling",
+  "pwRecategorizeToType": "PROJECT",
+  "pwRecategorizeReason": "NO, the application should be categorized as \"PROJECT\" as it describes the accomplishments of the project \"Optimism\" and does not refer to individual actions with \"I\" or \"me\".",
+  "pwApplicantTypeChecked": true
 }

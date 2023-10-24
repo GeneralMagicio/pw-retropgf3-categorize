@@ -53,5 +53,6 @@
   "RPGF3_Application_UID": "0xea232b479ca0838d1571f1d72f89a158c41b82c6e6921b5970451970d4bbc21f",
   "applicantAddress": "0x1c6402aCcAA38386Ce7ebC6DfA82Ed2dEaFC7544",
   "pwIsFlagged": false,
-  "pwCategorySuggestions": "Blockchain Education, Community Building, Decentralized Finance (DeFi)"
+  "pwCategorySuggestions": "Blockchain Education, Community Building, Decentralized Finance (DeFi)",
+  "pwApplicantTypeChecked": true
 }

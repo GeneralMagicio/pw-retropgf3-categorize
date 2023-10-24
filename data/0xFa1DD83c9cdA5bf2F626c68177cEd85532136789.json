@@ -41,5 +41,6 @@
   "RPGF3_Application_UID": "0x290f1a93a7c95a53bb5228e3d643fcd832d797ea714b7fd25cb33431955181bb",
   "applicantAddress": "0xFa1DD83c9cdA5bf2F626c68177cEd85532136789",
   "pwCategorySuggestions": "NFT Aggregation, Blockchain Infrastructure, Decentralized Finance (DeFi)",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

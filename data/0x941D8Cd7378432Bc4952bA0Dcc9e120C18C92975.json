@@ -37,5 +37,6 @@
   "applicantAddress": "0x941D8Cd7378432Bc4952bA0Dcc9e120C18C92975",
   "pwCategorySuggestions": "Non-Fungible Tokens (NFTs), Community Building, User Experience & Adoption",
   "pwCategory": "NFTs",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

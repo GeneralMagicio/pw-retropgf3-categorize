@@ -39,5 +39,6 @@
   "applicantAddress": "0x16E3f269C3FB5dCC5844E0e5e7f8bF16270E9755",
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for making promises of future impact, which is against the rules of the grants program.",
-  "pwCategorySuggestions": "Blockchain Education, Community Building, User Experience & Adoption"
+  "pwCategorySuggestions": "Blockchain Education, Community Building, User Experience & Adoption",
+  "pwApplicantTypeChecked": true
 }

@@ -131,5 +131,6 @@
   "applicantAddress": "0x638b91852B7459BE5158646bD0FAEcB7BAC4fca2",
   "pwCategorySuggestions": "Community Building, Developer Ecosystem, NFT Aggregator",
   "pwCategory": "Decentralized Community Building",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

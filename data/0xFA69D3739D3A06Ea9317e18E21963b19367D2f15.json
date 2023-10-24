@@ -79,5 +79,6 @@
   "applicantAddress": "0xFA69D3739D3A06Ea9317e18E21963b19367D2f15",
   "pwCategorySuggestions": "Community Building, Web3 Community Platform, Event Organization",
   "pwCategory": "Community & Social",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

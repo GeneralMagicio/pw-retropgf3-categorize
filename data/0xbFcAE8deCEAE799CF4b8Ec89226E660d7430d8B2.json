@@ -44,5 +44,6 @@
   "applicantAddress": "0xbFcAE8deCEAE799CF4b8Ec89226E660d7430d8B2",
   "pwCategorySuggestions": "Governance Tokens, Tokenization Platforms, Blockchain Education",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "This application should be flagged because it contains empty fields under \"contributionDescription\" and \"impactDescription\" which constitute incomplete or false information."
+  "pwFlaggedReason": "This application should be flagged because it contains empty fields under \"contributionDescription\" and \"impactDescription\" which constitute incomplete or false information.",
+  "pwApplicantTypeChecked": true
 }

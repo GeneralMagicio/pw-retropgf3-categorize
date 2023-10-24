@@ -57,5 +57,6 @@
   "applicantAddress": "0x512cEb57C6BCf86757C2693e729cBEE0AEa7Ffde",
   "pwCategorySuggestions": "Community Building, Content Creation, Web3 Community Platform",
   "pwCategory": "Community & Social",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

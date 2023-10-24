@@ -68,5 +68,8 @@
   "applicantAddress": "0xAA371e26742290063d92F0Bd7197aC2D8d3aC4f1",
   "pwCategorySuggestions": "End-User Experience, Wallet Management, Tokenization Platforms",
   "pwCategory": "End-User Experience & Adoption",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwRecategorizeToType": "INDIVIDUAL",
+  "pwRecategorizeReason": "NO. The application is submitted by an individual named Eric, despite having a project focus on BunnyAI.",
+  "pwApplicantTypeChecked": true
 }

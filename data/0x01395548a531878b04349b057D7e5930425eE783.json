@@ -47,5 +47,6 @@
   "applicantAddress": "0x01395548a531878b04349b057D7e5930425eE783",
   "pwIsFlagged": false,
   "pwCategorySuggestions": "Blockchain Education, User Experience & Adoption, Decentralized Finance (DeFi)",
-  "pwCategory": "Blockchain Education"
+  "pwCategory": "Blockchain Education",
+  "pwApplicantTypeChecked": true
 }

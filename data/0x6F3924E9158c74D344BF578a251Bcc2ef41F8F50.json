@@ -56,5 +56,8 @@
   "RPGF3_Application_UID": "0x99931678379c1315b79bf4da7d39af558a03ccb6fca2e1a260ab0add21497995",
   "applicantAddress": "0x6F3924E9158c74D344BF578a251Bcc2ef41F8F50",
   "pwCategorySuggestions": "Community Building, Education & Awareness, Content Creation",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwRecategorizeToType": "PROJECT",
+  "pwRecategorizeReason": "NO, the application is miscategorized because despite being under \"INDIVIDUAL\", the applicant refers to actions made by \"we\", indicating a group or project, not an individual.",
+  "pwApplicantTypeChecked": true
 }

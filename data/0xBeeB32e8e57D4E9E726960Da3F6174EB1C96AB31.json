@@ -44,5 +44,6 @@
   "RPGF3_Application_UID": "0x9354ceaab62e2ddfabead482a6b57bcdc515e6eec29b7d10a9e7493cfec07ece",
   "applicantAddress": "0xBeeB32e8e57D4E9E726960Da3F6174EB1C96AB31",
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Governance & Tokens, Cryptocurrency Services",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

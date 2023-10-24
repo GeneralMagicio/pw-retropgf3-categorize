@@ -37,5 +37,6 @@
   "applicantAddress": "0x87731e3ac4A5AfeAE1D8C7f08c434998393B0cAC",
   "pwCategorySuggestions": "NFTs, Web3 Community Platform, Decentralized Identity",
   "pwCategory": "NFT Integration",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

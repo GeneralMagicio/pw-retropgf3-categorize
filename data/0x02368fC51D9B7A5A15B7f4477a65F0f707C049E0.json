@@ -47,5 +47,6 @@
   "applicantAddress": "0x02368fC51D9B7A5A15B7f4477a65F0f707C049E0",
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for violating rule 10 as the user interactions like the transactions stated in the application are not within the scope of RetroPGF grants.",
-  "pwCategorySuggestions": "Decentralized Finance (DeFi), Non-Fungible Tokens (NFTs), Layer 2 Scaling"
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Non-Fungible Tokens (NFTs), Layer 2 Scaling",
+  "pwApplicantTypeChecked": true
 }

@@ -134,5 +134,6 @@
   "applicantAddress": "0x3b067Af83F540cB827825a6Ee5480441a4237E77",
   "pwCategorySuggestions": "Token Engineering Education, Community Building, Web3 Community Platform",
   "pwCategory": "Education & Learning",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

@@ -57,5 +57,6 @@
   "applicantAddress": "0x1358155a15930f89eBc787a34Eb4ccfd9720bC62",
   "pwIsFlagged": false,
   "pwCategorySuggestions": "Decentralized Identity, Developer Ecosystem, Web3 Community Platform",
-  "pwCategory": "Decentralized Community Building"
+  "pwCategory": "Decentralized Community Building",
+  "pwApplicantTypeChecked": true
 }

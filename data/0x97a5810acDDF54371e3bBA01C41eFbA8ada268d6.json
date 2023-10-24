@@ -49,5 +49,6 @@
   "applicantAddress": "0x97a5810acDDF54371e3bBA01C41eFbA8ada268d6",
   "pwCategorySuggestions": "NFT Management, Wallet Management",
   "pwCategory": "NFT Integration",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

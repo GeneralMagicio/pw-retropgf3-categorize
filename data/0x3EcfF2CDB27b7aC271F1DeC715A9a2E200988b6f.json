@@ -60,5 +60,6 @@
   "applicantAddress": "0x3EcfF2CDB27b7aC271F1DeC715A9a2E200988b6f",
   "pwCategorySuggestions": "Blockchain Infrastructure, Decentralized Finance (DeFi), End-User Experience",
   "pwCategory": "Reputation Systems",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

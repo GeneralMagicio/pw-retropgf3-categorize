@@ -44,5 +44,6 @@
   "applicantAddress": "0x723626CBB2D266b198dcc3C6928094DBC963C5B5",
   "pwCategorySuggestions": "Non-Fungible Tokens (NFTs), Decentralized Finance (DeFi)",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "The application should be flagged because it is in a language other than English, which violates rule 11."
+  "pwFlaggedReason": "The application should be flagged because it is in a language other than English, which violates rule 11.",
+  "pwApplicantTypeChecked": true
 }

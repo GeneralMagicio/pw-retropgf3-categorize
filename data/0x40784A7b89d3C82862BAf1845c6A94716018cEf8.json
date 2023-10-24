@@ -39,5 +39,6 @@
   "applicantAddress": "0x40784A7b89d3C82862BAf1845c6A94716018cEf8",
   "pwCategorySuggestions": "Web3 Community Platform",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "The application should be flagged for violating the program rules. The application is using the RetroPGF application to advertise and showcase something they are selling: NFT sales, which is against the rule no. 6 about Advertising."
+  "pwFlaggedReason": "The application should be flagged for violating the program rules. The application is using the RetroPGF application to advertise and showcase something they are selling: NFT sales, which is against the rule no. 6 about Advertising.",
+  "pwApplicantTypeChecked": true
 }

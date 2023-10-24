@@ -43,5 +43,6 @@
   "pwCategorySuggestions": "Decentralized Lending Platforms, Optimism Scaling, ERC20/ERC721 Lending",
   "pwCategory": "Finance & DeFi",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "This application should be flagged for violating the rule about \"Promises of future impact\". The applicant mentions about future plans for unveiling an intents-based lending platform, which is not allowed according to the rules."
+  "pwFlaggedReason": "This application should be flagged for violating the rule about \"Promises of future impact\". The applicant mentions about future plans for unveiling an intents-based lending platform, which is not allowed according to the rules.",
+  "pwApplicantTypeChecked": true
 }

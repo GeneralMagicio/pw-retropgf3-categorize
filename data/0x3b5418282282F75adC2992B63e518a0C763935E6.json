@@ -72,5 +72,6 @@
   "applicantAddress": "0x3b5418282282F75adC2992B63e518a0C763935E6",
   "pwCategorySuggestions": "Tokenization Platforms, Blockchain Gaming, Decentralized Identity",
   "pwCategory": "Gaming & Entertainment",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

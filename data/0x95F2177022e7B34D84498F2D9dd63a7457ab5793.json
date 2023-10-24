@@ -47,5 +47,6 @@
   "applicantAddress": "0x95F2177022e7B34D84498F2D9dd63a7457ab5793",
   "pwCategorySuggestions": "Tokenization Platforms",
   "pwCategory": "End-User Experience & Adoption",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

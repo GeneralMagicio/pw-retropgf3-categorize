@@ -37,5 +37,6 @@
   "applicantAddress": "0x131C3DbD6837b08Ec9Ba5cdc69533Be0565fF94d",
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for promises of future impact - the applicant commits to help and support the project in the future and expresses hope that the project will help them.",
-  "pwCategorySuggestions": "NFT Aggregator"
+  "pwCategorySuggestions": "NFT Aggregator",
+  "pwApplicantTypeChecked": true
 }

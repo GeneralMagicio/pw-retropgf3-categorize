@@ -152,5 +152,6 @@
   "applicantAddress": "0xc5eC328828cd381D4dECDe27ededE45264933Edf",
   "pwCategorySuggestions": "Blockchain Infrastructure",
   "pwCategory": "Web3 Infrastructure",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

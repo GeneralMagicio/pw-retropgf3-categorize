@@ -44,5 +44,8 @@
   "applicantAddress": "0x883E49dd95fBe06be4e77768C2517F13801A8C6A",
   "pwCategorySuggestions": "Community Building, User Experience & Adoption, Developer Ecosystem",
   "pwCategory": "Developer Education",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwRecategorizeToType": "INDIVIDUAL",
+  "pwRecategorizeReason": "NO, the application is not correctly categorized, it should be categorized as \"INDIVIDUAL\", since the applicant speaks about \"I\" and \"me\" in the bio.",
+  "pwApplicantTypeChecked": true
 }

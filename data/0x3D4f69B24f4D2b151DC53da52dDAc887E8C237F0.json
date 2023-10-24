@@ -52,5 +52,6 @@
   "applicantAddress": "0x3D4f69B24f4D2b151DC53da52dDAc887E8C237F0",
   "pwCategorySuggestions": "Blockchain Social Platform, Cross-Chain Solution, Content Creation",
   "pwCategory": "Cross-Chain & Interoperability",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

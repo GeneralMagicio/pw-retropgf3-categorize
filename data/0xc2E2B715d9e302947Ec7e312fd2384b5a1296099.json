@@ -63,5 +63,8 @@
   "applicantAddress": "0xc2E2B715d9e302947Ec7e312fd2384b5a1296099",
   "pwCategorySuggestions": "Developer Ecosystem, Funding Platform, Community Building",
   "pwCategory": "Decentralized Community Building",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwRecategorizeToType": "INDIVIDUAL",
+  "pwRecategorizeReason": "NO. The application is categorized as a \"PROJECT\" but it's from an \"INDIVIDUAL\" named Kyle who is associated with the Gitcoin project.",
+  "pwApplicantTypeChecked": true
 }

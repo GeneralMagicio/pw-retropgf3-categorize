@@ -45,5 +45,8 @@
   "applicantAddress": "0x3fD3dcd7Bda97A7627264adCaD23E513517E8f35",
   "pwCategorySuggestions": "Developer Ecosystem",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "This application should be flagged due to lack of proper and valid details in the \"contributionDescription\" and \"impactDescription\" fields, violating the rule on false statements and deception."
+  "pwFlaggedReason": "This application should be flagged due to lack of proper and valid details in the \"contributionDescription\" and \"impactDescription\" fields, violating the rule on false statements and deception.",
+  "pwRecategorizeToType": "PROJECT",
+  "pwRecategorizeReason": "NO, the application seems to represent a project (Tree max/Treemax) rather than an individual.",
+  "pwApplicantTypeChecked": true
 }

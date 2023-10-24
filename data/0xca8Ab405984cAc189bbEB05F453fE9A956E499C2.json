@@ -65,5 +65,6 @@
   "applicantAddress": "0xca8Ab405984cAc189bbEB05F453fE9A956E499C2",
   "pwCategorySuggestions": "Education, Decentralized Finance (DeFi), End-User Experience",
   "pwCategory": "Education & Learning",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

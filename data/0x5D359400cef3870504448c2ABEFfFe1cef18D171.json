@@ -39,5 +39,6 @@
   "applicantAddress": "0x5D359400cef3870504448c2ABEFfFe1cef18D171",
   "pwCategorySuggestions": "Community Building",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "The application should be flagged for promising future impact and contributions to the development of the OP Project."
+  "pwFlaggedReason": "The application should be flagged for promising future impact and contributions to the development of the OP Project.",
+  "pwApplicantTypeChecked": true
 }

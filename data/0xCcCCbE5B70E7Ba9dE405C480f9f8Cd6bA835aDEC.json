@@ -79,5 +79,6 @@
   "applicantAddress": "0xCcCCbE5B70E7Ba9dE405C480f9f8Cd6bA835aDEC",
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Automated Liquidity Management, Vault Optimization",
   "pwCategory": "Finance & DeFi",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

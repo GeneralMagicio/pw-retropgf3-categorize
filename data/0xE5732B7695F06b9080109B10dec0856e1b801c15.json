@@ -139,5 +139,6 @@
   "applicantAddress": "0xE5732B7695F06b9080109B10dec0856e1b801c15",
   "pwCategorySuggestions": "Decentralized Exchanges (DEXs), Cross-Chain Platforms, Liquidity Solutions",
   "pwCategory": "Decentralized Exchanges (DEXs)",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

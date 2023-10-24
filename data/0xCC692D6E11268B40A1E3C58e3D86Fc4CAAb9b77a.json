@@ -46,5 +46,6 @@
   "RPGF3_Application_UID": "0xaceac4d8244b5790ecf3592db3ec0810516d42b27180ed144d49d3aefc6d7f37",
   "applicantAddress": "0xCC692D6E11268B40A1E3C58e3D86Fc4CAAb9b77a",
   "pwCategorySuggestions": "Non-Fungible Tokens (NFTs), Blockchain Gaming, Community Building",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

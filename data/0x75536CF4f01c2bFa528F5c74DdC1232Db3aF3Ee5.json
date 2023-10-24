@@ -71,5 +71,6 @@
   "applicantAddress": "0x75536CF4f01c2bFa528F5c74DdC1232Db3aF3Ee5",
   "pwCategorySuggestions": "Community Building, Governance & Tokens, Developer Ecosystem",
   "pwCategory": "Decentralized Governance",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

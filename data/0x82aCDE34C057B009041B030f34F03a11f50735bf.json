@@ -38,5 +38,8 @@
   "applicantAddress": "0x82aCDE34C057B009041B030f34F03a11f50735bf",
   "pwCategorySuggestions": "Blockchain Education, Developer Ecosystem, Community Building",
   "pwCategory": "Developer Education",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwRecategorizeToType": "INDIVIDUAL",
+  "pwRecategorizeReason": "NO, it is not correctly categorized because the application uses singular pronouns like \"I\" and \"me\", so it should be categorized as an \"INDIVIDUAL\".",
+  "pwApplicantTypeChecked": true
 }

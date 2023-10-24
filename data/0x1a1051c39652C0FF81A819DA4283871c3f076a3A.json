@@ -69,5 +69,6 @@
   "applicantAddress": "0x1a1051c39652C0FF81A819DA4283871c3f076a3A",
   "pwIsFlagged": false,
   "pwCategorySuggestions": "NFT Aggregator, Content Creation, Community Building",
-  "pwCategory": "NFT Marketplace"
+  "pwCategory": "NFT Marketplace",
+  "pwApplicantTypeChecked": true
 }

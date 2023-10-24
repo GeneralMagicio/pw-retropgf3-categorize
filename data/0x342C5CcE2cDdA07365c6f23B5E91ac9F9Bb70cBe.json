@@ -43,5 +43,6 @@
   "RPGF3_Application_UID": "0xa4887579041502db7a9aad8ee2c4b440cafc059633549da8cd89374c4a7bf87e",
   "applicantAddress": "0x342C5CcE2cDdA07365c6f23B5E91ac9F9Bb70cBe",
   "pwIsFlagged": false,
-  "pwCategorySuggestions": "Layer 2 Scaling, NFTs, Community Building"
+  "pwCategorySuggestions": "Layer 2 Scaling, NFTs, Community Building",
+  "pwApplicantTypeChecked": true
 }

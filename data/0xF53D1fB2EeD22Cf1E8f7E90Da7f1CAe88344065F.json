@@ -87,5 +87,6 @@
   "applicantAddress": "0xF53D1fB2EeD22Cf1E8f7E90Da7f1CAe88344065F",
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Smart Contract Platforms, Blockchain Education",
   "pwCategory": "Education & Learning",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

@@ -49,5 +49,6 @@
   "RPGF3_Application_UID": "0xd4b8c9164890a02ded607e8b92593dd5e6eb30d06301eb4b04549f3579595dce",
   "applicantAddress": "0x69bAb88b3488D2b1E2D3E80804C477b371e8D4Ad",
   "pwCategorySuggestions": "Community Building, Governance & Tokens, Developer Ecosystem",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

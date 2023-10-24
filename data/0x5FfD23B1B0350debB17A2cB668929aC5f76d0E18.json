@@ -111,5 +111,6 @@
   "applicantAddress": "0x5FfD23B1B0350debB17A2cB668929aC5f76d0E18",
   "pwCategorySuggestions": "Web3 Social, NFT Launchpad, DAO Tools",
   "pwCategory": "Decentralized Social Network",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

@@ -120,5 +120,6 @@
   "applicantAddress": "0x8700B87C2A053BDE8Cdc84d5078B4AE47c127FeB",
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Smart Contract Platforms, Community Building",
   "pwCategory": "NFT Marketplace",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

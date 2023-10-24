@@ -43,5 +43,6 @@
   "applicantAddress": "0xB5a8080C2018A6D4DF86DA97ebeA5352C16d92c3",
   "pwCategorySuggestions": "Blockchain Infrastructure, Data Analysis, Network Monitoring",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "The application should be flagged since it violates the \"Promises of future impact\" rule. The contribution and impact descriptions are full of promises of potential future actions and results, rather than detailing any actual past impacts."
+  "pwFlaggedReason": "The application should be flagged since it violates the \"Promises of future impact\" rule. The contribution and impact descriptions are full of promises of potential future actions and results, rather than detailing any actual past impacts.",
+  "pwApplicantTypeChecked": true
 }

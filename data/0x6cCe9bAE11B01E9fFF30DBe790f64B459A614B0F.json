@@ -62,5 +62,8 @@
   "applicantAddress": "0x6cCe9bAE11B01E9fFF30DBe790f64B459A614B0F",
   "pwCategorySuggestions": "Token Vesting & Lockups, Governance & Tokens, Smart Contract Platforms",
   "pwCategory": "Decentralized Governance",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwRecategorizeToType": "INDIVIDUAL",
+  "pwRecategorizeReason": "NO, the application is not correctly categorized as PROJECT. The bio and contributions make references to individual activities like \"I'm a Cofounder...\" and \"We've helped teams...\" which indicates that it should be categorized as INDIVIDUAL.",
+  "pwApplicantTypeChecked": true
 }

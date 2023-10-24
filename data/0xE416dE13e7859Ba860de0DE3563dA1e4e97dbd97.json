@@ -104,5 +104,6 @@
   "applicantAddress": "0xE416dE13e7859Ba860de0DE3563dA1e4e97dbd97",
   "pwCategorySuggestions": "Content Creation, User Experience & Adoption, Blockchain Education",
   "pwCategory": "Blockchain Education",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

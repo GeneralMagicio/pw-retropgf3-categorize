@@ -38,5 +38,8 @@
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Smart Contract Platforms, End-User Experience",
   "pwCategory": "Finance & DeFi",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "This application should be flagged for violating the rule 1: \"Promises of future impact\" because the applicant is making promises about future deliverables."
+  "pwFlaggedReason": "This application should be flagged for violating the rule 1: \"Promises of future impact\" because the applicant is making promises about future deliverables.",
+  "pwRecategorizeToType": "INDIVIDUAL",
+  "pwRecategorizeReason": "NO, the application is not correctly categorized. The application uses first person language such as \"its me\", \"i have ever\" and \"we will do many thing together\", indicating that the applicantType should be \"INDIVIDUAL\" instead of \"PROJECT\".",
+  "pwApplicantTypeChecked": true
 }

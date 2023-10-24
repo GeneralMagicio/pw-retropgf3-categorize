@@ -89,5 +89,6 @@
   "applicantAddress": "0x1626Cc835842C480c1689A0A69AA419B9F761a4e",
   "pwIsFlagged": false,
   "pwCategorySuggestions": "Decentralized Identity, Community Building, Developer Ecosystem",
-  "pwCategory": "Community & Social"
+  "pwCategory": "Community & Social",
+  "pwApplicantTypeChecked": true
 }

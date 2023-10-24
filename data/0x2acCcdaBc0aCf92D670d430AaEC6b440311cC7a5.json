@@ -76,5 +76,6 @@
   "applicantAddress": "0x2acCcdaBc0aCf92D670d430AaEC6b440311cC7a5",
   "pwIsFlagged": false,
   "pwCategorySuggestions": "Tokenization Platforms, Blockchain Infrastructure, Content Creation",
-  "pwCategory": "Music NFTs"
+  "pwCategory": "Music NFTs",
+  "pwApplicantTypeChecked": true
 }

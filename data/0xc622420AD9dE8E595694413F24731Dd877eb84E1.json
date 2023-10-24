@@ -68,5 +68,6 @@
   "applicantAddress": "0xc622420AD9dE8E595694413F24731Dd877eb84E1",
   "pwCategorySuggestions": "Decentralized Domain Name System, Layer 2 Scaling, Community Building",
   "pwCategory": "Decentralized Infrastructure",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

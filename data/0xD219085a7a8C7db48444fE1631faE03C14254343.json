@@ -45,5 +45,8 @@
   "RPGF3_Application_UID": "0xe0b6f062d27cf8a6994888812d2a02ffb3fe27398502f4a6e6c1ae599062b3ed",
   "applicantAddress": "0xD219085a7a8C7db48444fE1631faE03C14254343",
   "pwCategorySuggestions": "Content Creation, Community Building, User Experience & Adoption",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwRecategorizeToType": "PROJECT",
+  "pwRecategorizeReason": "NO, this application is incorrectly categorized. It should be \"PROJECT\" as the applicant is referring to work done by \"we\" and a service provided to listeners and subscribers which implies a project or collective effort.",
+  "pwApplicantTypeChecked": true
 }

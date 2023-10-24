@@ -106,5 +106,6 @@
   "applicantAddress": "0xa4eC807A15f389A2b9aC985eCcF4b08ddDDB6f9d",
   "pwCategorySuggestions": "Blockchain Gaming, Open Source Projects, Community Building",
   "pwCategory": "Gaming & Entertainment",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

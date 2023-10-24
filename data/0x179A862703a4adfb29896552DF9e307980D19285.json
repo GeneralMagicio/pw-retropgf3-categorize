@@ -80,5 +80,8 @@
   "RPGF3_Application_UID": "0x79619331d5996c793ac13edcd77c369de5e72344add6ebedac5977c0552067a0",
   "applicantAddress": "0x179A862703a4adfb29896552DF9e307980D19285",
   "pwIsFlagged": false,
-  "pwCategorySuggestions": "Blockchain Infrastructure, Developer Ecosystem, User Experience & Adoption"
+  "pwCategorySuggestions": "Blockchain Infrastructure, Developer Ecosystem, User Experience & Adoption",
+  "pwRecategorizeToType": "PROJECT",
+  "pwRecategorizeReason": "NO. The application should be categorized as \"PROJECT\" as it refers to multiple projects that the individual has developed, not just the work of the individual.",
+  "pwApplicantTypeChecked": true
 }

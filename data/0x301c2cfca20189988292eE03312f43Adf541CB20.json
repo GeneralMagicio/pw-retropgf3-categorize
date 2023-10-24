@@ -43,5 +43,6 @@
   "applicantAddress": "0x301c2cfca20189988292eE03312f43Adf541CB20",
   "pwIsFlagged": false,
   "pwCategorySuggestions": "Tokenization Platforms",
-  "pwCategory": "Data Analytics"
+  "pwCategory": "Data Analytics",
+  "pwApplicantTypeChecked": true
 }

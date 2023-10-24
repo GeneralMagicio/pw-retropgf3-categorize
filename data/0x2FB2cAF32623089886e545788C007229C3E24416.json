@@ -54,5 +54,8 @@
   "RPGF3_Application_UID": "0x5a41c076ad320daf2e6698fe1e4e2e23af075429e88243a1a4264c38c40fdefa",
   "applicantAddress": "0x2FB2cAF32623089886e545788C007229C3E24416",
   "pwIsFlagged": false,
-  "pwCategorySuggestions": "Blockchain Education, Community Building, Cryptocurrency Services"
+  "pwCategorySuggestions": "Blockchain Education, Community Building, Cryptocurrency Services",
+  "pwRecategorizeToType": "PROJECT",
+  "pwRecategorizeReason": "NO, the application is incorrectly categorized because it refers to an entity \"Cryptorist Hub\", not an individual.",
+  "pwApplicantTypeChecked": true
 }

@@ -79,5 +79,8 @@
   "applicantAddress": "0x510e221C48ee37DAfc0d3802b43679Cf5d78561f",
   "pwCategorySuggestions": "Community Building, Smart Contract Platforms, Blockchain Infrastructure",
   "pwCategory": "Decentralized Community Building",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwRecategorizeToType": "INDIVIDUAL",
+  "pwRecategorizeReason": "NO. The applicant is an individual (\"I care deeply about new funding mechanisms and social tech infra in crypto...\") and should not be classified as a \"PROJECT\".",
+  "pwApplicantTypeChecked": true
 }

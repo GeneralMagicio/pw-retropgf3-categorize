@@ -42,5 +42,8 @@
   "applicantAddress": "0x5C5F81454d78bb96c82209d048406D592ABD3674",
   "pwCategorySuggestions": "Smart Contract Development Tools, Developer Experience (DX), Solidity Analyzer",
   "pwCategory": "Developer Tools",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwRecategorizeToType": "INDIVIDUAL",
+  "pwRecategorizeReason": "NO, the application is incorrectly categorized as a PROJECT when it should be INDIVIDUAL because the applicant references his work as \"I am developer working in ethereum and web3 space for over 2 years now.\".",
+  "pwApplicantTypeChecked": true
 }

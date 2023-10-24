@@ -100,5 +100,6 @@
   "applicantAddress": "0xB605745f67e8027ffe2df603b67529421c717EE8",
   "pwCategorySuggestions": "Community Building, NFT Aggregator, User Experience & Adoption",
   "pwCategory": "Community & Social",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

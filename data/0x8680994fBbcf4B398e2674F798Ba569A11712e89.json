@@ -45,5 +45,8 @@
   "applicantAddress": "0x8680994fBbcf4B398e2674F798Ba569A11712e89",
   "pwCategorySuggestions": "Community Building",
   "pwCategory": "Education & Learning",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwRecategorizeToType": "INDIVIDUAL",
+  "pwRecategorizeReason": "NO, it is not correctly categorized. The application should be categorized as an \"INDIVIDUAL\" because the applicant talks about their individual contributions using \"I\" and \"my\".",
+  "pwApplicantTypeChecked": true
 }

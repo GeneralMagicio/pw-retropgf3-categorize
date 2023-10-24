@@ -43,5 +43,6 @@
   "applicantAddress": "0xB05f9c3545f6E185E3eAbeCeeC65A96df54c4524",
   "pwCategorySuggestions": "NFT Aggregator, Community Building",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "The application should be flagged because it includes a section written in a language other than English which violates rule 11."
+  "pwFlaggedReason": "The application should be flagged because it includes a section written in a language other than English which violates rule 11.",
+  "pwApplicantTypeChecked": true
 }

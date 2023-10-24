@@ -42,5 +42,6 @@
   "applicantAddress": "0x74293A57d7f6B9F6C5580CE50aaE3f10A0a09C56",
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Governance Tokens, Blockchain Education",
   "pwCategory": "Finance & DeFi",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

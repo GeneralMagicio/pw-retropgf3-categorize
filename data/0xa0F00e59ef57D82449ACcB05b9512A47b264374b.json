@@ -133,5 +133,6 @@
   "applicantAddress": "0xa0F00e59ef57D82449ACcB05b9512A47b264374b",
   "pwCategorySuggestions": "Data Analytics, Education, Community Building",
   "pwCategory": "Data Analytics",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

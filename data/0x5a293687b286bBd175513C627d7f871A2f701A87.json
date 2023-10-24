@@ -64,5 +64,6 @@
   "applicantAddress": "0x5a293687b286bBd175513C627d7f871A2f701A87",
   "pwCategorySuggestions": "Decentralized Identity",
   "pwCategory": "Identity & Security",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

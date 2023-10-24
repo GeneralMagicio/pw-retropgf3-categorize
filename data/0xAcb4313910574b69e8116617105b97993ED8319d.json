@@ -64,5 +64,6 @@
   "applicantAddress": "0xAcb4313910574b69e8116617105b97993ED8319d",
   "pwCategorySuggestions": "Education, Community Building, Technology Adoption",
   "pwCategory": "Education & Learning",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

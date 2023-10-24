@@ -95,5 +95,6 @@
   "applicantAddress": "0x7AcE0b7a0cFb2980aa25310af5c2602144d58db2",
   "pwCategorySuggestions": "Smart Contract Platforms, Tokenization Platforms, Governance & Tokens",
   "pwCategory": "Decentralized Governance",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

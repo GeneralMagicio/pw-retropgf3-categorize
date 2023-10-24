@@ -47,5 +47,6 @@
   "applicantAddress": "0x0cFD0ecC6a67D1d84162D5E0D999559b3e212CB0",
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged due to violating rule 11 - the application contains language other than English.",
-  "pwCategorySuggestions": "Content Creation, Community Building, Tokenization Platforms"
+  "pwCategorySuggestions": "Content Creation, Community Building, Tokenization Platforms",
+  "pwApplicantTypeChecked": true
 }

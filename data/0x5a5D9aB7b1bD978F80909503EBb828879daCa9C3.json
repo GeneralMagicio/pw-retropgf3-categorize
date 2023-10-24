@@ -91,5 +91,6 @@
   "applicantAddress": "0x5a5D9aB7b1bD978F80909503EBb828879daCa9C3",
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Developer Ecosystem",
   "pwCategory": "Developer Tools",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

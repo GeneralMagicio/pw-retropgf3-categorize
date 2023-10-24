@@ -87,5 +87,8 @@
   "applicantAddress": "0x982E148216E3Aa6B38f9D901eF578B5c06DD7502",
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Smart Contract Platforms, User Experience & Adoption",
   "pwCategory": "End-User Experience & Adoption",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwRecategorizeToType": "INDIVIDUAL",
+  "pwRecategorizeReason": "NO, the application is not correctly categorized. Despite the applicantType being labeled as a \"PROJECT\", the \"bio\" field uses first person language implying this is an individual.",
+  "pwApplicantTypeChecked": true
 }

@@ -78,5 +78,8 @@
   "applicantAddress": "0xa6028b948dea97B7Fb0E472e19c9D4E160ed2902",
   "pwCategorySuggestions": "Content Creation, User Experience & Adoption, Developer Ecosystem",
   "pwCategory": "Education & Learning",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwRecategorizeToType": "INDIVIDUAL",
+  "pwRecategorizeReason": "NO. The application is from an individual (the creator of Optiland Quests) but it is categorized as a \"PROJECT\".",
+  "pwApplicantTypeChecked": true
 }

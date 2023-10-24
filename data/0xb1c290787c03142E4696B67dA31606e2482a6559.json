@@ -52,5 +52,6 @@
   "applicantAddress": "0xb1c290787c03142E4696B67dA31606e2482a6559",
   "pwCategorySuggestions": "Blockchain Gaming, NFT Aggregator, Tokenization Platforms",
   "pwCategory": "Gaming & Entertainment",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

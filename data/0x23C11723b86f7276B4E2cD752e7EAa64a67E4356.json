@@ -59,5 +59,6 @@
   "applicantAddress": "0x23C11723b86f7276B4E2cD752e7EAa64a67E4356",
   "pwIsFlagged": false,
   "pwCategorySuggestions": "NFT Aggregator",
-  "pwCategory": "NFT Integration"
+  "pwCategory": "NFT Integration",
+  "pwApplicantTypeChecked": true
 }

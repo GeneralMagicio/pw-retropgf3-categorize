@@ -131,5 +131,6 @@
   "RPGF3_Application_UID": "0xf9cbdc7fa9d0e03f65030f716d9a53a98bee7d06861d236484b88ce586988fb6",
   "applicantAddress": "0x7904667C340601AaB73939372C016dC5102732A2",
   "pwCategorySuggestions": "NFT Aggregator, Tokenization Platforms, Web3 Community Platform",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

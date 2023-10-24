@@ -79,5 +79,8 @@
   "applicantAddress": "0x6e4E55A49a8C8938BD8D8668E18DE95962740Fe1",
   "pwCategorySuggestions": "Content Creation, Community Building, User Experience & Adoption",
   "pwCategory": "Community & Social",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwRecategorizeToType": "INDIVIDUAL",
+  "pwRecategorizeReason": "NO, it is not correctly categorized. Despite being listed as \"PROJECT,\" the bio refers to \"I\" indicating this application is from an individual.",
+  "pwApplicantTypeChecked": true
 }

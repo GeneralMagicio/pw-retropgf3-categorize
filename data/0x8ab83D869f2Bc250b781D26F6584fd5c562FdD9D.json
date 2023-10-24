@@ -63,5 +63,6 @@
   "applicantAddress": "0x8ab83D869f2Bc250b781D26F6584fd5c562FdD9D",
   "pwCategorySuggestions": "Tokenization Platforms, Blockchain Infrastructure, User Experience & Adoption",
   "pwCategory": "Data Analytics",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

@@ -44,5 +44,8 @@
   "applicantAddress": "0x99Bf0f9c2f431Cde923219dC39ff7ceA8B6B82d7",
   "pwCategorySuggestions": "Tokenization Platforms",
   "pwCategory": "Developer Education",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwRecategorizeToType": "INDIVIDUAL",
+  "pwRecategorizeReason": "NO, it is not correctly categorized because the bio suggests that the application is from an individual, not a project.",
+  "pwApplicantTypeChecked": true
 }

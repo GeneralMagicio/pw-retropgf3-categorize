@@ -37,5 +37,6 @@
   "RPGF3_Application_UID": "0xbc37a256ffd7cde5e9e5651155d79ca64d718d3f84f4a36b74aa7eae08a2f788",
   "applicantAddress": "0xa32aECda752cF4EF89956e83d60C04835d4FA867",
   "pwCategorySuggestions": "Decentralized Identity, Community Building, Developer Ecosystem",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

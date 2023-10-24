@@ -43,5 +43,6 @@
   "RPGF3_Application_UID": "0xeb9844c9037fb9394b3bedac8a76c8d025a7c80ba941a237edc14c84bbd92a6e",
   "applicantAddress": "0x610947C46170183f64dB62D99E4ab88D022246aE",
   "pwCategorySuggestions": "Community Building, User Experience & Adoption, Developer Ecosystem",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

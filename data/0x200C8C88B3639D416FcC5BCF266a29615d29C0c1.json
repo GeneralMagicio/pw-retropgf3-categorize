@@ -67,5 +67,6 @@
   "applicantAddress": "0x200C8C88B3639D416FcC5BCF266a29615d29C0c1",
   "pwIsFlagged": false,
   "pwCategorySuggestions": "Decentralized Storage",
-  "pwCategory": "Decentralized Infrastructure"
+  "pwCategory": "Decentralized Infrastructure",
+  "pwApplicantTypeChecked": true
 }

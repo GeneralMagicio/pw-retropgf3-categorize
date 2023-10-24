@@ -52,5 +52,6 @@
   "applicantAddress": "0xc51a422300Dcb1D0b5Ed539230E27DC082E7fe99",
   "pwCategorySuggestions": "Web3 Education, Community Building, User Experience & Adoption",
   "pwCategory": "Web3 Education",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

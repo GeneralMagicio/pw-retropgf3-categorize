@@ -77,5 +77,6 @@
   "applicantAddress": "0x6eb78c56F639b3d161456e9f893c8e8aD9d754F0",
   "pwCategorySuggestions": "Community Building, Education & Advocacy, Content Creation",
   "pwCategory": "Community & Social",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

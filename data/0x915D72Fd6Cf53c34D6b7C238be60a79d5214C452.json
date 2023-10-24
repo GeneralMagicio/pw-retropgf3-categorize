@@ -41,5 +41,6 @@
   "RPGF3_Application_UID": "0xdf30a6a2baee8fb61315d43d14b818ae1bb0c65dde90d1def62cffe230a8cfcf",
   "applicantAddress": "0x915D72Fd6Cf53c34D6b7C238be60a79d5214C452",
   "pwCategorySuggestions": "Community Building, Developer Ecosystem, Blockchain Infrastructure",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

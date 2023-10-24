@@ -45,5 +45,6 @@
   "RPGF3_Application_UID": "0x409d4231613e421d9a3a8192f90b126f470b3fd23a10e44dc149b2411d2e4b74",
   "applicantAddress": "0xa8B7D97570c34068efAc4Ec51DeDDD4C16602ae8",
   "pwCategorySuggestions": "Layer 2 Scaling, Developer Ecosystem, Community Building",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

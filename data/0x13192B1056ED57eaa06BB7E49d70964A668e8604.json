@@ -44,5 +44,6 @@
   "applicantAddress": "0x13192B1056ED57eaa06BB7E49d70964A668e8604",
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for violating rule number 2 (False statements & deception) and rule number 11 (Spam). The application contains irrelevant answers and does not clearly outline the applicant's contributions or impacts in the Web3/blockchain space, which comes across as deceptive. It also talks about 'airdrop hunting' which goes against the spirit of the grant program.",
-  "pwCategorySuggestions": "NFTs, Community Building, Governance & Tokens"
+  "pwCategorySuggestions": "NFTs, Community Building, Governance & Tokens",
+  "pwApplicantTypeChecked": true
 }

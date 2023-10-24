@@ -78,5 +78,6 @@
   "applicantAddress": "0x56a1740878966Bc82a1d9C047E46B02533857626",
   "pwCategorySuggestions": "Smart Contract Platforms, Developer Ecosystem, Wallet Management",
   "pwCategory": "Smart Contract Development Tools",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

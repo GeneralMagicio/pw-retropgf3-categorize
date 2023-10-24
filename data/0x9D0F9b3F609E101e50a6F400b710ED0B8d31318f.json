@@ -44,5 +44,8 @@
   "applicantAddress": "0x9D0F9b3F609E101e50a6F400b710ED0B8d31318f",
   "pwCategorySuggestions": "Layer 2 Scaling, Smart Contract Platforms, Decentralized Finance (DeFi)",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "This application should be flagged for making promises of future impact and having potentially false statements about their contributions, as they state that they raised $3.5M from Paradigm after releasing Unipig, a claim which needs to be validated."
+  "pwFlaggedReason": "This application should be flagged for making promises of future impact and having potentially false statements about their contributions, as they state that they raised $3.5M from Paradigm after releasing Unipig, a claim which needs to be validated.",
+  "pwRecategorizeToType": "PROJECT",
+  "pwRecategorizeReason": "NO, the application is not correctly categorized. The phrasing in the application, such as \"we were going to build it. We needed a team,\" suggests it should be categorized as a PROJECT rather than an INDIVIDUAL.",
+  "pwApplicantTypeChecked": true
 }

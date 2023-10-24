@@ -67,5 +67,6 @@
   "applicantAddress": "0x4Cf6031eDE6431D323AE5aA6eB1651B81B693Fc5",
   "pwCategorySuggestions": "Web3 Infrastructure Monitoring, Optimism Node Comparison, Blockchain Ecosystem Expansion",
   "pwCategory": "Web3 Infrastructure",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

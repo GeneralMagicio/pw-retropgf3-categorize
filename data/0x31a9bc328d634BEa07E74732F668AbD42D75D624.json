@@ -45,5 +45,6 @@
   "RPGF3_Application_UID": "0x3ce49d409338c85e38ad3cb7ea957d6cac3a3e84eae1a8109fc60cf4400ee214",
   "applicantAddress": "0x31a9bc328d634BEa07E74732F668AbD42D75D624",
   "pwIsFlagged": false,
-  "pwCategorySuggestions": "Content Creation, User Experience & Adoption, Governance & Tokens"
+  "pwCategorySuggestions": "Content Creation, User Experience & Adoption, Governance & Tokens",
+  "pwApplicantTypeChecked": true
 }

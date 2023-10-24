@@ -44,5 +44,6 @@
   "applicantAddress": "0x9Ae3d7fFCfA14Df5C758bb895fAc23726779CF62",
   "pwCategorySuggestions": "Community Building, NFT Aggregator, Governance & Tokens",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "This application should be flagged for violating rule 1 as the applicant made promises of future deliverables or impact."
+  "pwFlaggedReason": "This application should be flagged for violating rule 1 as the applicant made promises of future deliverables or impact.",
+  "pwApplicantTypeChecked": true
 }

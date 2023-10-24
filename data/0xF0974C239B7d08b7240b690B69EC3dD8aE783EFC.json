@@ -82,5 +82,6 @@
   "applicantAddress": "0xF0974C239B7d08b7240b690B69EC3dD8aE783EFC",
   "pwCategorySuggestions": "Non-Fungible Tokens (NFTs), Tokenization Platforms, Blockchain Infrastructure",
   "pwCategory": "NFT Integration",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

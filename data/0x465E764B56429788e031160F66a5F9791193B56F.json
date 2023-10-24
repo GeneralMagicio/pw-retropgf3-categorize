@@ -83,5 +83,6 @@
   "applicantAddress": "0x465E764B56429788e031160F66a5F9791193B56F",
   "pwCategorySuggestions": "Layer 2 Scaling, Decentralized Finance (DeFi), NFT Aggregator",
   "pwCategory": "User Interface & Experience",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

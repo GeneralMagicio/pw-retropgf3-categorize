@@ -54,5 +54,6 @@
   "applicantAddress": "0xCb4B8F4810188fCBe96C06ccf8A763eb49f56a29",
   "pwCategorySuggestions": "Decentralized Finance (DeFi), User Experience & Adoption, Tokenization Platforms",
   "pwCategory": "Marketing",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

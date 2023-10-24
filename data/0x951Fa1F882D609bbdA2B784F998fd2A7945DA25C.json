@@ -42,5 +42,6 @@
   "RPGF3_Application_UID": "0x58428e76fd3d799ad9db4c7522aeb498f412fae6ec378e0d5c21f04ddeb8bfb6",
   "applicantAddress": "0x951Fa1F882D609bbdA2B784F998fd2A7945DA25C",
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Optimism Ecosystem, Blockchain Infrastructure",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

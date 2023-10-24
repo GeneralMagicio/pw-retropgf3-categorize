@@ -105,5 +105,6 @@
   "applicantAddress": "0x33DB27C21E0f7a2f3351A4C6DDceDFB9F713410b",
   "pwIsFlagged": false,
   "pwCategorySuggestions": "Cross-Chain Platforms, Layer 2 Scaling, Tokenization Platforms",
-  "pwCategory": "Cross-Chain & Interoperability"
+  "pwCategory": "Cross-Chain & Interoperability",
+  "pwApplicantTypeChecked": true
 }

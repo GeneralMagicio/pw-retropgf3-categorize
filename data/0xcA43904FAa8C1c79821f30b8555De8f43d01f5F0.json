@@ -45,5 +45,6 @@
   "applicantAddress": "0xcA43904FAa8C1c79821f30b8555De8f43d01f5F0",
   "pwCategorySuggestions": "Blockchain Infrastructure, Developer Ecosystem, Governance & Tokens",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "The application should be flagged because it is in a language other than English."
+  "pwFlaggedReason": "The application should be flagged because it is in a language other than English.",
+  "pwApplicantTypeChecked": true
 }

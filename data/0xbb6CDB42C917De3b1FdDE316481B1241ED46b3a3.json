@@ -47,5 +47,6 @@
   "applicantAddress": "0xbb6CDB42C917De3b1FdDE316481B1241ED46b3a3",
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Layer 2 Scaling, Yield Analysis",
   "pwCategory": "Finance & DeFi",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

@@ -82,5 +82,8 @@
   "applicantAddress": "0x0ef1E49E3C9A608b5c69e88623191A8b197729cC",
   "pwIsFlagged": false,
   "pwCategorySuggestions": "Web3 Analytics, Layer 2 Scaling, Community Building",
-  "pwCategory": "Data Analytics"
+  "pwCategory": "Data Analytics",
+  "pwRecategorizeToType": "INDIVIDUAL",
+  "pwRecategorizeReason": "NO, the application is not correctly categorized. Despite being listed as a \"PROJECT\", the applicant refers to themselves as \"I\" and \"me\", indicating that this is an INDIVIDUAL application.",
+  "pwApplicantTypeChecked": true
 }

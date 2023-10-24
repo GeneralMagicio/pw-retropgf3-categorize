@@ -44,5 +44,6 @@
   "applicantAddress": "0x866E1d019e56885d7f8A97fCE89D6C7C9792560b",
   "pwCategorySuggestions": "Smart Contract Platforms, Community Building, Decentralized Finance (DeFi)",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "The application should be flagged for promising future impact and potentially getting RetroPGF for outside of its scope."
+  "pwFlaggedReason": "The application should be flagged for promising future impact and potentially getting RetroPGF for outside of its scope.",
+  "pwApplicantTypeChecked": true
 }

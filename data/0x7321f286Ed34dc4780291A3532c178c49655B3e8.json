@@ -43,5 +43,6 @@
   "applicantAddress": "0x7321f286Ed34dc4780291A3532c178c49655B3e8",
   "pwCategorySuggestions": "Layer 2 Scaling, End-User Experience, Governance & Tokens",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "The application should be flagged for being outside of RetroPGF's scope. The applicant only states they use and stake tokens on the network but does not showcase a tangible contribution requiring a minimum time commitment of 1 hour."
+  "pwFlaggedReason": "The application should be flagged for being outside of RetroPGF's scope. The applicant only states they use and stake tokens on the network but does not showcase a tangible contribution requiring a minimum time commitment of 1 hour.",
+  "pwApplicantTypeChecked": true
 }

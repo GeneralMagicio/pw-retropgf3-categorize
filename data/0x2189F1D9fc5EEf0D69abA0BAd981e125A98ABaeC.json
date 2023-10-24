@@ -82,5 +82,6 @@
   "applicantAddress": "0x2189F1D9fc5EEf0D69abA0BAd981e125A98ABaeC",
   "pwIsFlagged": false,
   "pwCategorySuggestions": "DAO Analytics, Governance Transparency",
-  "pwCategory": "Data Analytics"
+  "pwCategory": "Data Analytics",
+  "pwApplicantTypeChecked": true
 }

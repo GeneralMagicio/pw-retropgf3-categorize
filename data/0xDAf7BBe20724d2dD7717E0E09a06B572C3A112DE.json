@@ -41,5 +41,8 @@
   "RPGF3_Application_UID": "0x5a8d6d49eced8fb7c56d3d57604f81df20211a406da6e1ba92f28626c46f88c9",
   "applicantAddress": "0xDAf7BBe20724d2dD7717E0E09a06B572C3A112DE",
   "pwCategorySuggestions": "Decentralized Finance (DeFi)",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwRecategorizeToType": "PROJECT",
+  "pwRecategorizeReason": "NO, the application is incorrectly categorized because despite being listed as an \"INDIVIDUAL\", the application talks about a project \"Liquildless\" providing a solution, which aligns more with a \"PROJECT\" designation.",
+  "pwApplicantTypeChecked": true
 }

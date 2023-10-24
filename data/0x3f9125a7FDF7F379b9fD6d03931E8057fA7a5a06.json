@@ -282,5 +282,6 @@
   "applicantAddress": "0x3f9125a7FDF7F379b9fD6d03931E8057fA7a5a06",
   "pwCategorySuggestions": "Blockchain Infrastructure",
   "pwCategory": "Data Analytics",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

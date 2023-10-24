@@ -48,5 +48,6 @@
   "applicantAddress": "0x40C0BB75D745141727211338eBb4f26202C00Ef2",
   "pwCategorySuggestions": "Blockchain Infrastructure, Data Science, Data Engineering",
   "pwCategory": "Data Analytics",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

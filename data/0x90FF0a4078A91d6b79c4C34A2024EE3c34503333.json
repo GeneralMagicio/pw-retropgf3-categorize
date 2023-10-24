@@ -37,5 +37,8 @@
   "pwCategorySuggestions": "Content Creation, Blockchain Education, User Experience & Adoption",
   "pwCategory": "Education & Learning",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "The application should be flagged because it violates the rule of only submitting applications in English."
+  "pwFlaggedReason": "The application should be flagged because it violates the rule of only submitting applications in English.",
+  "pwRecategorizeToType": "INDIVIDUAL",
+  "pwRecategorizeReason": "NO, the application is incorrectly categorized as a project while the bio suggests that the applicant is an individual (\"I'm a fan of Web 3 and decentralization.\")",
+  "pwApplicantTypeChecked": true
 }

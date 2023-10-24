@@ -35,5 +35,8 @@
   "applicantAddress": "0x5117856736E109aD021f0D0A2C23A3Bb99D5b072",
   "pwCategorySuggestions": "Governance & Tokens, Decentralized Finance (DeFi), Web3 Community Platform",
   "pwCategory": "Decentralized Governance",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwRecategorizeToType": "INDIVIDUAL",
+  "pwRecategorizeReason": "NO, the application is incorrectly categorized as a project. The bio indicates it is an individual who contributes to multiple projects.",
+  "pwApplicantTypeChecked": true
 }

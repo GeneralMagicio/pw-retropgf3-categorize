@@ -53,5 +53,6 @@
   "applicantAddress": "0xA559f6d6B5A5661E46dEc454751683294BB26B9E",
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Portfolio Management, DEX & Bridge Aggregator",
   "pwCategory": "Finance & DeFi",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

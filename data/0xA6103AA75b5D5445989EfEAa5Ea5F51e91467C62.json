@@ -68,5 +68,8 @@
   "applicantAddress": "0xA6103AA75b5D5445989EfEAa5Ea5F51e91467C62",
   "pwCategorySuggestions": "Governance & Tokens",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "The application should be flagged because it violates rule 1, promises of future impact (\"We expect OP to be one of the projects that will explode in the near future\")."
+  "pwFlaggedReason": "The application should be flagged because it violates rule 1, promises of future impact (\"We expect OP to be one of the projects that will explode in the near future\").",
+  "pwRecategorizeToType": "PROJECT",
+  "pwRecategorizeReason": "NO, it should be categorized as \"PROJECT\" because the applicant is representing TAG Ventures, a community sharing information about crypto projects.",
+  "pwApplicantTypeChecked": true
 }

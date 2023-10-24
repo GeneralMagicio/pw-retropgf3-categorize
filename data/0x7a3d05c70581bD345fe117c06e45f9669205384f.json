@@ -78,5 +78,6 @@
   "applicantAddress": "0x7a3d05c70581bD345fe117c06e45f9669205384f",
   "pwCategorySuggestions": "User Experience & Adoption, Blockchain Infrastructure",
   "pwCategory": "Developer Tools",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

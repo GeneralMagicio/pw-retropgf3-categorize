@@ -55,5 +55,8 @@
   "applicantAddress": "0x764c676FeAcb0766D43F7F66287ca63cae7a6A64",
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Smart Contract Platforms, User Experience & Adoption",
   "pwCategory": "Finance & DeFi",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwRecategorizeToType": "INDIVIDUAL",
+  "pwRecategorizeReason": "NO, the application should be categorized as \"INDIVIDUAL\", as the applicant refers to their contributions using \"I\".",
+  "pwApplicantTypeChecked": true
 }

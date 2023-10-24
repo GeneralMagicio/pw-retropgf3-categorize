@@ -59,5 +59,6 @@
   "RPGF3_Application_UID": "0x0445f30a09e5b7de9b38674747fc5d2ff939d7e5df4a3b2ab538149b296c6562",
   "applicantAddress": "0x6f82780153C8b32Aed7766556969000B7bD16D2c",
   "pwCategorySuggestions": "Non-Fungible Tokens (NFTs), Web3 Community Platform, Media Production",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

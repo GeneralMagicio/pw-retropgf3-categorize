@@ -52,5 +52,6 @@
   "RPGF3_Application_UID": "0x7bd56f9ffe42c4a911bf9f3d7ffa475e4766968ede0dd365dd848b2565d5c489",
   "applicantAddress": "0xa64ED05d827eD7eEC23a6b2ade715418Fd5c06b9",
   "pwCategorySuggestions": "Governance & Tokens",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

@@ -44,5 +44,8 @@
   "applicantAddress": "0x91af73c9973dAB58210FDe1263242A5A47Aeb9aE",
   "pwCategorySuggestions": "Developer Ecosystem",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "This application should be flagged for not providing data in the \"contributionDescription\" and the \"impactDescription\" sections."
+  "pwFlaggedReason": "This application should be flagged for not providing data in the \"contributionDescription\" and the \"impactDescription\" sections.",
+  "pwRecategorizeToType": "PROJECT",
+  "pwRecategorizeReason": "NO. The website URL https://www.optimism.io is associated with a project, not an individual.",
+  "pwApplicantTypeChecked": true
 }

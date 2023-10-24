@@ -45,5 +45,6 @@
   "applicantAddress": "0x9b1836F4519246fe0bb1e771156cb2092a54092e",
   "pwCategorySuggestions": "Layer 2 Scaling",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "The application should be flagged for promising future impact and deliverables, which is against the rules of the grant program."
+  "pwFlaggedReason": "The application should be flagged for promising future impact and deliverables, which is against the rules of the grant program.",
+  "pwApplicantTypeChecked": true
 }

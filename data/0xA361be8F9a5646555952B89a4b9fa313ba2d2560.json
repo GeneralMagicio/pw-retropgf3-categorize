@@ -47,5 +47,6 @@
   "applicantAddress": "0xA361be8F9a5646555952B89a4b9fa313ba2d2560",
   "pwCategorySuggestions": "Blockchain Education, Developer Ecosystem",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "The application should be flagged as it does not include description of personal contribution or the impact on the Web3/blockchain space, thus violating rules regarding false statements and deception."
+  "pwFlaggedReason": "The application should be flagged as it does not include description of personal contribution or the impact on the Web3/blockchain space, thus violating rules regarding false statements and deception.",
+  "pwApplicantTypeChecked": true
 }

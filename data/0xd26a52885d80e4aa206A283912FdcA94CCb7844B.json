@@ -92,5 +92,6 @@
   "applicantAddress": "0xd26a52885d80e4aa206A283912FdcA94CCb7844B",
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Peer-to-Peer Lending, Education & Community Building",
   "pwCategory": "Finance & DeFi",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

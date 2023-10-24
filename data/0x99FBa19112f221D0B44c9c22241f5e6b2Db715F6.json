@@ -74,5 +74,6 @@
   "applicantAddress": "0x99FBa19112f221D0B44c9c22241f5e6b2Db715F6",
   "pwCategorySuggestions": "Smart Contract Testing Tools",
   "pwCategory": "Developer Tools",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

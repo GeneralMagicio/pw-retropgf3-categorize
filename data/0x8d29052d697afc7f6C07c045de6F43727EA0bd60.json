@@ -47,5 +47,6 @@
   "RPGF3_Application_UID": "0x41c00fe0ec58d38e9eab79f0c131d56f6df6c8741278d7f042effa6e8cf10f06",
   "applicantAddress": "0x8d29052d697afc7f6C07c045de6F43727EA0bd60",
   "pwCategorySuggestions": "Non-Fungible Tokens (NFTs), Decentralized Identity, Music Production",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

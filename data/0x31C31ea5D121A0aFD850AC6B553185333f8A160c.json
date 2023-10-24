@@ -100,5 +100,6 @@
   "applicantAddress": "0x31C31ea5D121A0aFD850AC6B553185333f8A160c",
   "pwIsFlagged": false,
   "pwCategorySuggestions": "DEX Aggregator, Cross-Chain Swap Aggregator, Swap Product Suite",
-  "pwCategory": "Decentralized Exchanges (DEXs)"
+  "pwCategory": "Decentralized Exchanges (DEXs)",
+  "pwApplicantTypeChecked": true
 }

@@ -88,5 +88,8 @@
   "applicantAddress": "0x7916Dba3A610B020d77c0CCFd4Bd717ee400A5f2",
   "pwCategorySuggestions": "Decentralized Governance, Blockchain Infrastructure, Community Building",
   "pwCategory": "Decentralized Governance",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwRecategorizeToType": "INDIVIDUAL",
+  "pwRecategorizeReason": "NO, the application is not correctly categorized because although it was submitted by the founder, it discusses the work and contributions of a project named \"Karma,\" it should be categorized as a \"PROJECT\".",
+  "pwApplicantTypeChecked": true
 }

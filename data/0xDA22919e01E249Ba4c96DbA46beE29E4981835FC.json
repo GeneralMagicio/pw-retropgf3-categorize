@@ -74,5 +74,8 @@
   "applicantAddress": "0xDA22919e01E249Ba4c96DbA46beE29E4981835FC",
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Smart Contract Platforms, Blockchain Infrastructure",
   "pwCategory": "Decentralized Infrastructure",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwRecategorizeToType": "INDIVIDUAL",
+  "pwRecategorizeReason": "NO. The application should be categorized as \"INDIVIDUAL\" as the bio and contribution description indicate that the project is primarily undertaken by an individual \"I have been building it\", rather than a collective team effort.",
+  "pwApplicantTypeChecked": true
 }

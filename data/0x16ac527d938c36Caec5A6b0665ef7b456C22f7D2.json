@@ -67,5 +67,6 @@
   "applicantAddress": "0x16ac527d938c36Caec5A6b0665ef7b456C22f7D2",
   "pwIsFlagged": false,
   "pwCategorySuggestions": "NFTs, Layer 2 Scaling, Community Building",
-  "pwCategory": "Education & Learning"
+  "pwCategory": "Education & Learning",
+  "pwApplicantTypeChecked": true
 }

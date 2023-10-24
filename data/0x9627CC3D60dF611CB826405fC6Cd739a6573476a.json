@@ -158,5 +158,6 @@
   "applicantAddress": "0x9627CC3D60dF611CB826405fC6Cd739a6573476a",
   "pwCategorySuggestions": "Developer Ecosystem, Media Production, Community Building",
   "pwCategory": "Education & Learning",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

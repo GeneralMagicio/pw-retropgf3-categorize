@@ -48,5 +48,6 @@
   "applicantAddress": "0x78A42a84bFE3E173C3A9246b3F5F1c5Aa8BBaE72",
   "pwCategorySuggestions": "Decentralized Social Messaging, NFT Integration, Community Organization",
   "pwCategory": "Decentralized Social Network",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

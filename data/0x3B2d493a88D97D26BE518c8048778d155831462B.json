@@ -49,5 +49,6 @@
   "applicantAddress": "0x3B2d493a88D97D26BE518c8048778d155831462B",
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Wallet Management, User Experience & Adoption",
   "pwCategory": "Finance & DeFi",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

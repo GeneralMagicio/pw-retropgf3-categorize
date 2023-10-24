@@ -89,5 +89,6 @@
   "applicantAddress": "0xD8A7d1E1e7e7B35280001180a95e5013E54d1310",
   "pwCategorySuggestions": "Music NFTs, Royalty Payments, Web3 Education",
   "pwCategory": "Music NFTs",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

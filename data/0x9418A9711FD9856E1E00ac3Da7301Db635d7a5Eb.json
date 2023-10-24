@@ -36,5 +36,6 @@
   "applicantAddress": "0x9418A9711FD9856E1E00ac3Da7301Db635d7a5Eb",
   "pwCategorySuggestions": "Decentralized Finance (DeFi), NFTs, Web3 Community Platform",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "This application should be flagged for not containing a valid contribution. The sections for contribution description and impact description are left blank."
+  "pwFlaggedReason": "This application should be flagged for not containing a valid contribution. The sections for contribution description and impact description are left blank.",
+  "pwApplicantTypeChecked": true
 }

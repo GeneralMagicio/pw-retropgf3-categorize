@@ -42,5 +42,6 @@
   "applicantAddress": "0xB712e1e9c62E8105929D4b32B6Cf1E5024ae7D90",
   "pwCategorySuggestions": "NFTs, Music, Community Building",
   "pwCategory": "Music NFTs",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

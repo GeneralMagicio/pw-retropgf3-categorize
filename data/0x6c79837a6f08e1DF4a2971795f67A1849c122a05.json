@@ -111,5 +111,6 @@
   "applicantAddress": "0x6c79837a6f08e1DF4a2971795f67A1849c122a05",
   "pwCategorySuggestions": "Smart Contract Platforms",
   "pwCategory": "Identity & Security",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

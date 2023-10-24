@@ -90,5 +90,6 @@
   "applicantAddress": "0xB03E094e643a50E145E804b35787C28292E6Afe4",
   "pwCategorySuggestions": "Content Creation, User Experience & Adoption, Web3 Community Platform",
   "pwCategory": "Web3 Infrastructure",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

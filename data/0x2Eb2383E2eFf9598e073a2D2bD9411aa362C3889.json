@@ -35,5 +35,6 @@
   "RPGF3_Application_UID": "0x52d2ab8ca498829199a3826deb1c0f761987900e0800960fbb450692662b20f0",
   "applicantAddress": "0x2Eb2383E2eFf9598e073a2D2bD9411aa362C3889",
   "pwIsFlagged": false,
-  "pwCategorySuggestions": "Tokenization Platforms, Blockchain Infrastructure, Decentralized Finance (DeFi)"
+  "pwCategorySuggestions": "Tokenization Platforms, Blockchain Infrastructure, Decentralized Finance (DeFi)",
+  "pwApplicantTypeChecked": true
 }

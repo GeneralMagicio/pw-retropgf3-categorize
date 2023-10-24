@@ -38,5 +38,6 @@
   "RPGF3_Application_UID": "0x81ca0c15864967da467dce50e2c124b90b10a77798823714312ee81bdb8675db",
   "applicantAddress": "0x3D0E2776ab8F879C1A77E7EA899De05062BAfC65",
   "pwCategorySuggestions": "Smart Contract Platforms",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

@@ -68,5 +68,6 @@
   "applicantAddress": "0xE231408d7B3AEdf18fc6127Fa09538cD489c8C33",
   "pwCategorySuggestions": "Developer Education, Web3 Education, Community Building",
   "pwCategory": "Developer Education",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

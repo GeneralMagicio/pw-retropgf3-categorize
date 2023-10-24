@@ -329,5 +329,6 @@
   "applicantAddress": "0x81D94B973862CBEe5Bd19Ab0DA3F015F3F0D53e9",
   "pwCategorySuggestions": "Community Building, Social Media Marketing, Developer Ecosystem",
   "pwCategory": "Community & Social",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

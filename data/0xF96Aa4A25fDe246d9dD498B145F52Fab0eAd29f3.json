@@ -56,5 +56,6 @@
   "applicantAddress": "0xF96Aa4A25fDe246d9dD498B145F52Fab0eAd29f3",
   "pwCategorySuggestions": "Smart Contract Platforms",
   "pwCategory": "Developer Tools",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

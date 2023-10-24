@@ -41,5 +41,6 @@
   "applicantAddress": "0x333601a803CAc32B7D17A38d32c9728A93b422f4",
   "pwIsFlagged": false,
   "pwCategorySuggestions": "Tokenization Platforms, Decentralized Identity, NFT Aggregator",
-  "pwCategory": "Decentralized Identity"
+  "pwCategory": "Decentralized Identity",
+  "pwApplicantTypeChecked": true
 }

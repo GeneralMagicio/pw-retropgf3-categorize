@@ -43,5 +43,6 @@
   "RPGF3_Application_UID": "0xdc8bca269e24055694c35853cc659acb2f7b0210ecb2d64c1f0f7cb6e6e69db1",
   "applicantAddress": "0x145aB3Fa65D20704e370Bd76e0b6796ED6fa57b0",
   "pwIsFlagged": false,
-  "pwCategorySuggestions": "NFTs, Decentralized Exchanges (DEXs), Community Building"
+  "pwCategorySuggestions": "NFTs, Decentralized Exchanges (DEXs), Community Building",
+  "pwApplicantTypeChecked": true
 }

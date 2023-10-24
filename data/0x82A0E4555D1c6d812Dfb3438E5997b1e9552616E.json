@@ -43,5 +43,6 @@
   "applicantAddress": "0x82A0E4555D1c6d812Dfb3438E5997b1e9552616E",
   "pwCategorySuggestions": "Developer Tools, Web3 Community Platform, Cryptocurrency Services",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "The application should be flagged for not providing a contribution description and impact description."
+  "pwFlaggedReason": "The application should be flagged for not providing a contribution description and impact description.",
+  "pwApplicantTypeChecked": true
 }

@@ -155,5 +155,6 @@
   "RPGF3_Application_UID": "0xd1b349763c4dd3d45df04d8bfa1ebc81058d95604ffa2b797abd4de5d5532ffc",
   "applicantAddress": "0x63a370ABfC8Ed6132025f6dC8244DDF6205C174B",
   "pwCategorySuggestions": "Content Creation, Community Building, User Experience & Adoption",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

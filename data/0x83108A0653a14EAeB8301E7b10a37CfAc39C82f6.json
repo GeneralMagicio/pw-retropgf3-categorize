@@ -80,5 +80,6 @@
   "applicantAddress": "0x83108A0653a14EAeB8301E7b10a37CfAc39C82f6",
   "pwCategorySuggestions": "Decentralized Identity, Blockchain Infrastructure, Community Building",
   "pwCategory": "Identity & Security",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

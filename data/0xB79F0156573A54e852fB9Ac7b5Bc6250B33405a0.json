@@ -87,5 +87,6 @@
   "applicantAddress": "0xB79F0156573A54e852fB9Ac7b5Bc6250B33405a0",
   "pwCategorySuggestions": "Web3 Community Platform, Media Production, Blockchain Education",
   "pwCategory": "Community & Social",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

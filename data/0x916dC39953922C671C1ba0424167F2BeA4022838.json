@@ -45,5 +45,8 @@
   "applicantAddress": "0x916dC39953922C671C1ba0424167F2BeA4022838",
   "pwCategorySuggestions": "Donation Platform, Non-Profit Fundraising",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "This application should be flagged for violating rule number 10. The applicant's contribution of fundraising for an animal shelter does not have clear relationship or impact on the Web3/blockchain space."
+  "pwFlaggedReason": "This application should be flagged for violating rule number 10. The applicant's contribution of fundraising for an animal shelter does not have clear relationship or impact on the Web3/blockchain space.",
+  "pwRecategorizeToType": "PROJECT",
+  "pwRecategorizeReason": "NO, the application should be categorized as a PROJECT as it describes a fundraising effort for an animal shelter rather than the actions of a single individual.",
+  "pwApplicantTypeChecked": true
 }

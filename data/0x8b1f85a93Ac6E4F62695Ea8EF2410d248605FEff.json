@@ -66,5 +66,6 @@
   "applicantAddress": "0x8b1f85a93Ac6E4F62695Ea8EF2410d248605FEff",
   "pwCategorySuggestions": "Layer 2 Scaling, Smart Contract Platforms, Tokenization Platforms",
   "pwCategory": "Smart Contract Development Tools",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

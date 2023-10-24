@@ -73,5 +73,6 @@
   "applicantAddress": "0x2195bEaed7b0783f2c13c75FC439396583C1A37D",
   "pwIsFlagged": false,
   "pwCategorySuggestions": "Decentralized Infrastructure, Proof of Location, Layer 2 Scaling",
-  "pwCategory": "Decentralized Infrastructure"
+  "pwCategory": "Decentralized Infrastructure",
+  "pwApplicantTypeChecked": true
 }

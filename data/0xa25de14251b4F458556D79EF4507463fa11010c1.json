@@ -38,5 +38,6 @@
   "applicantAddress": "0xa25de14251b4F458556D79EF4507463fa11010c1",
   "pwCategorySuggestions": "Smart Contract Platforms, Layer 2 Scaling",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "The application should be flagged for violating rule number 1. The applicant hopes for a retroactive reward but does not provide concrete evidence of past verifiable contributions or impact."
+  "pwFlaggedReason": "The application should be flagged for violating rule number 1. The applicant hopes for a retroactive reward but does not provide concrete evidence of past verifiable contributions or impact.",
+  "pwApplicantTypeChecked": true
 }

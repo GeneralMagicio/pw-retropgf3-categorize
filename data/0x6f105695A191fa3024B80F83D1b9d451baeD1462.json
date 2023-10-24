@@ -59,5 +59,6 @@
   "pwCategorySuggestions": "Content Creation, Community Building",
   "pwCategory": "Content & Media",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "Yes, this application should be flagged because it appears to be more of an advertisement more than anything else, which violates Rule 6 - Advertising of the grant program rules."
+  "pwFlaggedReason": "Yes, this application should be flagged because it appears to be more of an advertisement more than anything else, which violates Rule 6 - Advertising of the grant program rules.",
+  "pwApplicantTypeChecked": true
 }

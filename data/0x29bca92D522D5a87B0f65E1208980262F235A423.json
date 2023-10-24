@@ -38,5 +38,6 @@
   "applicantAddress": "0x29bca92D522D5a87B0f65E1208980262F235A423",
   "pwIsFlagged": false,
   "pwCategorySuggestions": "Smart Contract Platforms, Tokenization Platforms, Decentralized Finance (DeFi)",
-  "pwCategory": "Trading Tools"
+  "pwCategory": "Trading Tools",
+  "pwApplicantTypeChecked": true
 }

@@ -43,5 +43,6 @@
   "RPGF3_Application_UID": "0xa1451078205375b7c12d83304ba80092534412643d1b5deaed6f0b1e6a2500d6",
   "applicantAddress": "0x967d643E5e9F6F515ca515B7c63c18cf50806A3B",
   "pwCategorySuggestions": "Layer 2 Scaling, Smart Contract Platforms, NFTs",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

@@ -79,5 +79,6 @@
   "applicantAddress": "0xB1dD2Fdb023cB54b7cc2a0f5D9e8d47a9F7723ce",
   "pwCategorySuggestions": "Decentralized Exchanges (DEXs), Trading Tools, Tokenization Platforms",
   "pwCategory": "Decentralized Exchanges (DEXs)",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

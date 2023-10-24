@@ -40,5 +40,6 @@
   "applicantAddress": "0x01521f06C55526a7fFf11236B9a4ea65986bc1b3",
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for promising future impact in the impact description.",
-  "pwCategorySuggestions": "Tokenization Platforms"
+  "pwCategorySuggestions": "Tokenization Platforms",
+  "pwApplicantTypeChecked": true
 }

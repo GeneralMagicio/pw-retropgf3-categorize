@@ -57,5 +57,6 @@
   "applicantAddress": "0xF705b9ba1908cA505537F309B08E6949C1b8f31F",
   "pwCategorySuggestions": "Tokenization Platforms, DeFi, Blockchain Infrastructure",
   "pwCategory": "Finance & DeFi",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

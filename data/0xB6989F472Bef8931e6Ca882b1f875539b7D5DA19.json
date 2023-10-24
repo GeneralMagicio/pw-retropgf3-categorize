@@ -79,5 +79,6 @@
   "applicantAddress": "0xB6989F472Bef8931e6Ca882b1f875539b7D5DA19",
   "pwCategorySuggestions": "Community Building, Collaboration Hub, Web3 Community Platform",
   "pwCategory": "Community & Social",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

@@ -235,5 +235,6 @@
   "applicantAddress": "0x07Bb4fCc27053BFB33CFA1b4A0B56a11e06e7e11",
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for false statements and deception, as the applicant admits to not having done any work worthy of a retroactive reward.",
-  "pwCategorySuggestions": "Decentralized Finance (DeFi), Smart Contract Platforms, Blockchain Infrastructure"
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Smart Contract Platforms, Blockchain Infrastructure",
+  "pwApplicantTypeChecked": true
 }

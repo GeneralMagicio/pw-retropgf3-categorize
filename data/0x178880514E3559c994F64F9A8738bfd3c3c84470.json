@@ -43,5 +43,6 @@
   "applicantAddress": "0x178880514E3559c994F64F9A8738bfd3c3c84470",
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for violating the first rule of the grant program - it contains promises of future impacts and deliverables, including providing liquidity, promoting Optimism to a broader audience, and continuing to mint NFTs.",
-  "pwCategorySuggestions": "Tokenization Platforms, Decentralized Finance (DeFi), Community Building"
+  "pwCategorySuggestions": "Tokenization Platforms, Decentralized Finance (DeFi), Community Building",
+  "pwApplicantTypeChecked": true
 }

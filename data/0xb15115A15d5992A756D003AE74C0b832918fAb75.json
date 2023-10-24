@@ -65,5 +65,6 @@
   "pwCategorySuggestions": "Tokenization Platforms, Blockchain Infrastructure, Decentralized Finance (DeFi)",
   "pwCategory": "Social Impact",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "The application should be flagged because it violates Rule 1: promises of future deliverables or impact are not allowed. The applicant mentioned, \"In the future, Donate3 hopes to introduce more liquidity to the optimism network, enhance the integration of the OP network with charitable causes, and promote the development of public goods on the OP chain.\" This is a clear promise of future impact."
+  "pwFlaggedReason": "The application should be flagged because it violates Rule 1: promises of future deliverables or impact are not allowed. The applicant mentioned, \"In the future, Donate3 hopes to introduce more liquidity to the optimism network, enhance the integration of the OP network with charitable causes, and promote the development of public goods on the OP chain.\" This is a clear promise of future impact.",
+  "pwApplicantTypeChecked": true
 }

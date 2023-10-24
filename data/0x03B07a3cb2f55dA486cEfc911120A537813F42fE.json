@@ -48,5 +48,6 @@
   "applicantAddress": "0x03B07a3cb2f55dA486cEfc911120A537813F42fE",
   "pwIsFlagged": false,
   "pwCategorySuggestions": "Decentralized Identity, Blockchain Education, Layer 2 Scaling",
-  "pwCategory": "Education & Learning"
+  "pwCategory": "Education & Learning",
+  "pwApplicantTypeChecked": true
 }

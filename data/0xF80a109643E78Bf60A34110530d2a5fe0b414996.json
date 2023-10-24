@@ -64,5 +64,6 @@
   "applicantAddress": "0xF80a109643E78Bf60A34110530d2a5fe0b414996",
   "pwCategorySuggestions": "Tokenization Platforms, Blockchain Infrastructure, Media Production",
   "pwCategory": "Finance & DeFi",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

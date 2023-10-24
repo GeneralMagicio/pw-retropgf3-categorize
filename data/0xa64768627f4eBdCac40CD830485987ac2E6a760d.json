@@ -46,5 +46,6 @@
   "applicantAddress": "0xa64768627f4eBdCac40CD830485987ac2E6a760d",
   "pwCategorySuggestions": "Community Building, Decentralized Finance (DeFi), Cryptocurrency Services",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "This application should be flagged for promising future impact, which is against the rules of the grant program. The applicant continually promises to be useful and contribute more in the future, but does not provide a clear, concrete contribution or impact they have already made."
+  "pwFlaggedReason": "This application should be flagged for promising future impact, which is against the rules of the grant program. The applicant continually promises to be useful and contribute more in the future, but does not provide a clear, concrete contribution or impact they have already made.",
+  "pwApplicantTypeChecked": true
 }

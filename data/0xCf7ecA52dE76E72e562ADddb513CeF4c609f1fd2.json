@@ -54,5 +54,6 @@
   "applicantAddress": "0xCf7ecA52dE76E72e562ADddb513CeF4c609f1fd2",
   "pwCategorySuggestions": "Decentralized Social Network, NFT Aggregator, Content Creation",
   "pwCategory": "Decentralized Social Network",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

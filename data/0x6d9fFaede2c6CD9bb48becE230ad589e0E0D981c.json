@@ -70,5 +70,6 @@
   "applicantAddress": "0x6d9fFaede2c6CD9bb48becE230ad589e0E0D981c",
   "pwCategorySuggestions": "Decentralized Social Networking, Web3 Integration, User Engagement",
   "pwCategory": "Decentralized Social Network",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

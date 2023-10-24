@@ -47,5 +47,6 @@
   "applicantAddress": "0x3790cd6a40abB52E7f994A20b4214AC22BF4BD2E",
   "pwIsFlagged": true,
   "pwFlaggedReason": "Flagged because the application contains spam, specifically, the repeated phrases in the contribution and impact descriptions.",
-  "pwCategorySuggestions": "Smart Contract Platforms, Blockchain Infrastructure"
+  "pwCategorySuggestions": "Smart Contract Platforms, Blockchain Infrastructure",
+  "pwApplicantTypeChecked": true
 }

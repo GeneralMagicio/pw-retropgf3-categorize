@@ -98,5 +98,6 @@
   "applicantAddress": "0x98f763Ceb9d4D921cDfA688cB7D6419F967d28E7",
   "pwCategorySuggestions": "Decentralized Infrastructure, Developer Ecosystem, Web3 Community Platform",
   "pwCategory": "Decentralized Infrastructure",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

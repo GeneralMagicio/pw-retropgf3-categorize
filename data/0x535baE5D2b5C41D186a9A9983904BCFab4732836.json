@@ -47,5 +47,6 @@
   "applicantAddress": "0x535baE5D2b5C41D186a9A9983904BCFab4732836",
   "pwCategorySuggestions": "Smart Contract Platforms, Blockchain Infrastructure, Developer Ecosystem",
   "pwCategory": "Onchain Machine Learning",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

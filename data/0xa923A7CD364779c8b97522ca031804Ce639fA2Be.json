@@ -85,5 +85,6 @@
   "applicantAddress": "0xa923A7CD364779c8b97522ca031804Ce639fA2Be",
   "pwCategorySuggestions": "Smart Contract Platforms, Tokenization Platforms, Web3 Community Platform",
   "pwCategory": "Developer Tools",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

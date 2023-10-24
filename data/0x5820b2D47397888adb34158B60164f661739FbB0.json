@@ -53,5 +53,8 @@
   "applicantAddress": "0x5820b2D47397888adb34158B60164f661739FbB0",
   "pwCategorySuggestions": "Token Analytics, API Services",
   "pwCategory": "Data Analytics",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwRecategorizeToType": "INDIVIDUAL",
+  "pwRecategorizeReason": "NO, the application is incorrectly categorized as \"PROJECT\". It should be \"INDIVIDUAL\" as the \"bio\" section indicates that it is an individual software engineer who is working on the project.",
+  "pwApplicantTypeChecked": true
 }

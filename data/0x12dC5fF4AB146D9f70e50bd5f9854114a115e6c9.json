@@ -98,5 +98,6 @@
   "applicantAddress": "0x12dC5fF4AB146D9f70e50bd5f9854114a115e6c9",
   "pwIsFlagged": false,
   "pwCategorySuggestions": "Decentralized Identity, End-User Experience, Blockchain Infrastructure",
-  "pwCategory": "User Interface & Experience"
+  "pwCategory": "User Interface & Experience",
+  "pwApplicantTypeChecked": true
 }

@@ -60,5 +60,6 @@
   "applicantAddress": "0x5561974F0D35D8C355241a5568894df7B691BB28",
   "pwCategorySuggestions": "Tokenization Platforms, User Experience & Adoption, Content Creation",
   "pwCategory": "Smart Contract Development Tools",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

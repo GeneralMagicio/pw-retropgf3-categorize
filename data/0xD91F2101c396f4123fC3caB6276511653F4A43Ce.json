@@ -52,5 +52,6 @@
   "applicantAddress": "0xD91F2101c396f4123fC3caB6276511653F4A43Ce",
   "pwCategorySuggestions": "Smart Contract Platforms, Digital Identity, Blockchain Infrastructure",
   "pwCategory": "Smart Contract Development Tools",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

@@ -46,5 +46,6 @@
   "applicantAddress": "0x0d113A179F91c4C9459EF4A7A51Ec5f903030160",
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for Violation of Rule 1, as the applicant makes promises of future deliverables or impact by stating \"I will do something that I can do to bring people to crypto.\"",
-  "pwCategorySuggestions": "Decentralized Finance (DeFi), Smart Contract Platforms, Cross-Chain Platforms"
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Smart Contract Platforms, Cross-Chain Platforms",
+  "pwApplicantTypeChecked": true
 }

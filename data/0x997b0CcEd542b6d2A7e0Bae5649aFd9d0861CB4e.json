@@ -70,5 +70,6 @@
   "applicantAddress": "0x997b0CcEd542b6d2A7e0Bae5649aFd9d0861CB4e",
   "pwCategorySuggestions": "Decentralized Social Network, Optimism Integration, Developer Support",
   "pwCategory": "Decentralized Social Network",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

@@ -160,5 +160,6 @@
   "applicantAddress": "0x33359285F30E7B3386dE70ca500F4fe27853765B",
   "pwIsFlagged": false,
   "pwCategorySuggestions": "Decentralized Identity, Privacy, Blockchain Infrastructure",
-  "pwCategory": "Digital Identity"
+  "pwCategory": "Digital Identity",
+  "pwApplicantTypeChecked": true
 }

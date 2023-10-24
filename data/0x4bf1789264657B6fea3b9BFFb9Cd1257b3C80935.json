@@ -42,5 +42,6 @@
   "applicantAddress": "0x4bf1789264657B6fea3b9BFFb9Cd1257b3C80935",
   "pwCategorySuggestions": "Content Creation, User Experience & Adoption, Decentralized Finance (DeFi)",
   "pwCategory": "User Interface & Experience",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }
