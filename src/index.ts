@@ -4,6 +4,7 @@ import { intro, outro, select } from "@clack/prompts";
 
 import { categorizeApplications } from "./categorize-applications";
 import color from "picocolors";
+import { exportCategorySuggestionsCsv } from "./exportCategorySuggestionsCsv";
 import { exportFlaggedCsv } from "./exportFlaggedCsv";
 import { exportFullAsJson } from "./exportFullAsJson";
 import { exportTwitterCsv } from "./exportTwitterCsv";
@@ -58,20 +59,28 @@ async function selectYesNo(message: string): Promise<YesOrNo> {
           label: "Print categories with individuals",
         },
         {
+          value: "exportFullAsJson",
+          label: "Export - Full export, all applications (JSON)",
+        },
+        {
+          value: "exportProjectCategorySuggestionsCsv",
+          label: "Export - Project Category Suggestions (CSV)",
+        },
+        {
+          value: "exportIndividualCategorySuggestionsCsv",
+          label: "Export - Individual Category Suggestions (CSV)",
+        },
+        {
           value: "exportFlaggedCsv",
-          label: "Export flagged applications as CSV file",
+          label: "Export - Flagged (CSV)",
         },
         {
           value: "exportWrongCategoryCsv",
-          label: "Export wrong category applications as CSV file",
-        },
-        {
-          value: "exportFullAsJson",
-          label: "Export full dataset as JSON file",
+          label: "Export - Wrong category (CSV)",
         },
         {
           value: "exportTwitterCsv",
-          label: "Export all Twitter contacts as CSV file",
+          label: "Export - Twitter contacts (CSV)",
         },
         { value: "exit", label: "Exit" },
       ],
@@ -102,6 +111,12 @@ async function selectYesNo(message: string): Promise<YesOrNo> {
       case "arrange":
         yesNo = await selectYesNo("Re-analyze already processed files?");
         await placeInCategories(yesNo);
+        break;
+      case "exportProjectCategorySuggestionsCsv":
+        await exportCategorySuggestionsCsv("PROJECT");
+        break;
+      case "exportIndividualCategorySuggestionsCsv":
+        await exportCategorySuggestionsCsv("INDIVIDUAL");
         break;
       case "categoriesWithProjects":
         await printCategoriesWithApplications("PROJECT");
