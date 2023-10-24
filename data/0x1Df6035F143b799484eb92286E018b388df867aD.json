@@ -10,9 +10,7 @@
       "description": "its great being here"
     }
   ],
-  "impactCategory": [
-    "OP_STACK"
-  ],
+  "impactCategory": ["OP_STACK"],
   "impactDescription": "i take the great news of this great project to my and outside my community making sure its awareness reaches to people who are interest build with us on this great optimism project  it will be of a great pleasure in a good working relationship and i will be glad waiting ",
   "impactMetrics": [
     {
@@ -35,6 +33,5 @@
   "applicantAddress": "0x1Df6035F143b799484eb92286E018b388df867aD",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Community Building",
   "pwCategorySuggestions": "Community Building, User Experience & Adoption, Content Creation"
 }

@@ -41,5 +41,7 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xc1095858C8969Ad2bF52Aa1BACeC3Fc816515005.json",
   "RPGF3_Application_UID": "0xca1014892f8b981ed2255cd64d9e920670ab6115ada61694f522fa393e909f1f",
   "applicantAddress": "0xc1095858C8969Ad2bF52Aa1BACeC3Fc816515005",
-  "pwCategorySuggestions": "Content Creation, Community Building, User Experience & Adoption"
+  "pwCategorySuggestions": "Content Creation, Community Building, User Experience & Adoption",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "The application should be flagged for promising future impact, which is against the rules of the grant program."
 }

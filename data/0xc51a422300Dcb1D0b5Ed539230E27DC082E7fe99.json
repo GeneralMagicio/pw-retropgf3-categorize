@@ -50,5 +50,7 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xc51a422300Dcb1D0b5Ed539230E27DC082E7fe99.json",
   "RPGF3_Application_UID": "0x0e628b7df1c243de4a0e3da6c9f1ab463282059a9ea6612a5c4335834850a6b6",
   "applicantAddress": "0xc51a422300Dcb1D0b5Ed539230E27DC082E7fe99",
-  "pwCategorySuggestions": "Web3 Education, Community Building, User Experience & Adoption"
+  "pwCategorySuggestions": "Web3 Education, Community Building, User Experience & Adoption",
+  "pwCategory": "Web3 Education",
+  "pwIsFlagged": false
 }

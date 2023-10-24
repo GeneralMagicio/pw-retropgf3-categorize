@@ -10,9 +10,7 @@
       "description": "First tutorial on how to use Optimism on Youtube, Twitter & Facebook."
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Hopefully this tutorial covering how to use Optimism, connect wallet, bridge to Uniswap & so on has helped many people do so safely, educate them on how to use other projects & protocols in the Optimism ecosystem & helped the growth of users in Optimism in general.",
   "impactMetrics": [
     {
@@ -43,6 +41,5 @@
   "applicantAddress": "0x87e92EF9f04631B9471674FA72347341EfAFF8CC",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Blockchain Education",
   "pwCategorySuggestions": "Blockchain Education, Content Creation, Community Building"
 }

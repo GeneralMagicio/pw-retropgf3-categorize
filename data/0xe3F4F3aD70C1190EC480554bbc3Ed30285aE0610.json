@@ -56,5 +56,8 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xe3F4F3aD70C1190EC480554bbc3Ed30285aE0610.json",
   "RPGF3_Application_UID": "0x9359577504bc54685070e27e7da2343605e1ec520ee78ee1f81096e0408089a7",
   "applicantAddress": "0xe3F4F3aD70C1190EC480554bbc3Ed30285aE0610",
-  "pwCategorySuggestions": "Non-Fungible Tokens (NFTs), Smart Contract Platforms, Blockchain Infrastructure"
+  "pwCategorySuggestions": "Non-Fungible Tokens (NFTs), Smart Contract Platforms, Blockchain Infrastructure",
+  "pwCategory": "Social Impact",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "The application should be flagged for violating the first rule of the grant program: promises of future impact - promises of future deliverables or impact are not allowed. In the application, there is mention of targeting a launch before the end of the year and plans to add value to Optimism, which are all future promises."
 }

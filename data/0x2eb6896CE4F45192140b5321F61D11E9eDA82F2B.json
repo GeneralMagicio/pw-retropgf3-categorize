@@ -39,6 +39,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for being spam. The applicant includes content that is repeated, plagiarized, and irrelevant, violating rule 11.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Smart Contract Platforms",
-  "pwCategorySuggestions": "Layer 2 Scaling, Smart Contract Platforms"
+  "pwCategorySuggestions": "Layer 2 Scaling, Smart Contract Platforms",
+  "pwCategory": "Cross-Chain & Interoperability"
 }

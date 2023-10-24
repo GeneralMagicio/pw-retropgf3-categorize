@@ -85,5 +85,6 @@
   "RPGF3_Application_UID": "0x50ab0b170675bcf11f1ebad8645045f1d6f7cb78a61ab0da18ee40586e0f2de8",
   "applicantAddress": "0x095C33946136C08BC19790BCc7143c87c03c43ce",
   "pwIsFlagged": false,
-  "pwCategorySuggestions": "NFT Aggregator, Web3 Community Platform, Blockchain Gaming"
+  "pwCategorySuggestions": "NFT Aggregator, Web3 Community Platform, Blockchain Gaming",
+  "pwCategory": "Community & Social"
 }

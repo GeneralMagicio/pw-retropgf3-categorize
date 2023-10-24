@@ -41,5 +41,6 @@
   "RPGF3_Application_UID": "0x98ea31f260e244c20234a0a124d3c9b75ce60c08dad0b63d562e1d6b858be763",
   "applicantAddress": "0x223060E066EeA8f58D4ed0cbabc627967d3acE6C",
   "pwIsFlagged": false,
-  "pwCategorySuggestions": "Layer 2 Scaling, Smart Contract Platforms, Blockchain Infrastructure"
+  "pwCategorySuggestions": "Layer 2 Scaling, Smart Contract Platforms, Blockchain Infrastructure",
+  "pwCategory": "Developer Tools"
 }

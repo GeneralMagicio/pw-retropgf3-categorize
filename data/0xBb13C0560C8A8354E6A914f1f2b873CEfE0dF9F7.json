@@ -37,6 +37,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for violating the rules by promising future deliverables and impact. They clearly break rule 1 by stating \"investors should recoup their investment by year 5\" and discussing their future plans to launch a business and sell homes.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Tokenization Platforms",
-  "pwCategorySuggestions": "Blockchain Infrastructure, Real Estate, NFT-backed investing"
+  "pwCategorySuggestions": "Blockchain Infrastructure, Real Estate, NFT-backed investing",
+  "pwCategory": "NFT-backed investing"
 }

@@ -77,5 +77,6 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x3D502fA3C2Aac31d88d6BDA8fBd38AB861211458.json",
   "RPGF3_Application_UID": "0xd9dc151858206f4d87677730385c5c01c836e1be51f51264534486b18c01939f",
   "applicantAddress": "0x3D502fA3C2Aac31d88d6BDA8fBd38AB861211458",
-  "pwCategorySuggestions": "Blockchain Forensics, Security Incident Response, Whistleblower"
+  "pwCategorySuggestions": "Blockchain Forensics, Security Incident Response, Whistleblower",
+  "pwIsFlagged": false
 }

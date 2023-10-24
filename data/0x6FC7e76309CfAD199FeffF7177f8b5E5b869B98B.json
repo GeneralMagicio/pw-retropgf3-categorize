@@ -47,6 +47,6 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, the application should be categorized as \"INDIVIDUAL\" as the applicant talks about personal actions like \"Got involved in\", \"Turned on notifications\", suggesting this application is made by an individual and not a project.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Blockchain Infrastructure",
-  "pwCategorySuggestions": "Layer 2 Scaling, NFT Aggregator, Web3 Community Platform"
+  "pwCategorySuggestions": "Layer 2 Scaling, NFT Aggregator, Web3 Community Platform",
+  "pwCategory": "Community & Social"
 }

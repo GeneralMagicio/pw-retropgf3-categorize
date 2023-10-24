@@ -33,5 +33,6 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xa94449C83D17B78A2c88214b8eB7Bd854e2D7204.json",
   "RPGF3_Application_UID": "0xeabed1ce31243a30bc58084373d65957a54ef727040d235c4d95e0d68feeea1c",
   "applicantAddress": "0xa94449C83D17B78A2c88214b8eB7Bd854e2D7204",
-  "pwCategorySuggestions": "Community Building, Blockchain Education, Governance & Tokens"
+  "pwCategorySuggestions": "Community Building, Blockchain Education, Governance & Tokens",
+  "pwIsFlagged": false
 }

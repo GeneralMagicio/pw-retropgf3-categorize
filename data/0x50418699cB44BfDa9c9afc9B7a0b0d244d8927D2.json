@@ -35,9 +35,7 @@
       "description": "X post mentioning start of Optimism QF on Giveth"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "* Promoting & onboarding via X posts: Increased awareness, education, and participation in Optimism .\n* Promoting via X shill spaces: Enhanced reputation and influence of Optimism and its ecosystem.\n* Promoting & onboarding individuals and community during irl events: Improved social capital and cohesion of Optimism and its ecosystem.\n* Applied to be Local Optimist: Contributed to leadership and innovation of Optimism and its ecosystem.",
   "impactMetrics": [
     {
@@ -69,6 +67,5 @@
   "applicantAddress": "0x50418699cB44BfDa9c9afc9B7a0b0d244d8927D2",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Web3 Advocacy",
   "pwCategorySuggestions": "Community Building, Education, User Experience & Adoption"
 }

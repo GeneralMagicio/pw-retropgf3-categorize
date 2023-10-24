@@ -99,6 +99,6 @@
   "applicantAddress": "0x9D31e30003f253563Ff108BC60B16Fdf2c93abb5",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Developer Ecosystem",
-  "pwCategorySuggestions": "Decentralized Oracle Platforms, Cross-Chain Platforms, Data Infrastructure"
+  "pwCategorySuggestions": "Decentralized Oracle Platforms, Cross-Chain Platforms, Data Infrastructure",
+  "pwCategory": "Cross-Chain & Interoperability"
 }

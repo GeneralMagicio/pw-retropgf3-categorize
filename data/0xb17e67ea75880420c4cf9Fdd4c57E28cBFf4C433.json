@@ -10,9 +10,7 @@
       "description": "yes"
     }
   ],
-  "impactCategory": [
-    "OP_STACK"
-  ],
+  "impactCategory": ["OP_STACK"],
   "impactDescription": "I want to help whatever it is, I have a lot of experience in the RetroPGF field. The Optimism Collective’s third round of Retroactive Public Goods Funding (RetroPGF) will take place in fall of 2023. RetroPGF 3 will allocate 30m OP tokens to reward contributions that have supported the development and adoption of Optimism.\n\n",
   "impactMetrics": [
     {
@@ -47,6 +45,5 @@
   "pwRecategorizeToType": "PROJECT",
   "pwRecategorizeReason": "NO, the application is not correctly categorized. Although \"applicantType\" is mentioned as \"INDIVIDUAL\", the contribution and impact description are pertaining to a project \"Optimism Collective\", suggesting it should be categorized as a \"PROJECT\".",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Governance Tokens",
   "pwCategorySuggestions": "Tokenization Platforms, \nBlockchain Infrastructure"
 }

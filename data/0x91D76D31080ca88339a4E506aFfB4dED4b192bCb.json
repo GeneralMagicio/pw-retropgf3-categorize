@@ -50,6 +50,6 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO. The application is incorrectly categorized because it predominantly refers to first person singular indicating it is an individual applicant.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "User Experience & Adoption",
-  "pwCategorySuggestions": "Decentralized Identity, User Experience & Adoption, Developer Ecosystem"
+  "pwCategorySuggestions": "Decentralized Identity, User Experience & Adoption, Developer Ecosystem",
+  "pwCategory": "User Interface & Experience"
 }

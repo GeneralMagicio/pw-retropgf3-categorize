@@ -10,10 +10,7 @@
       "description": "Transactions and votes"
     }
   ],
-  "impactCategory": [
-    "COLLECTIVE_GOVERNANCE",
-    "OP_STACK"
-  ],
+  "impactCategory": ["COLLECTIVE_GOVERNANCE", "OP_STACK"],
   "impactDescription": "Made many different transactions exploring different Dapps on the ecosystem. 100% Galxe badgeholder on OP. Voted on every proposal made and then delegating to maximise voting participation to the DAO. Made different bridging from different chains to prove the stability of the ecosystem. Thinking that Web3 could change the world and OP is the best way to do that.",
   "impactMetrics": [
     {
@@ -36,6 +33,5 @@
   "applicantAddress": "0xe0278bc20A01494cCf0Dc51AEe9ad21b3Ff5Cd1a",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Community Building",
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Governance & Tokens, Cross-Chain Platforms"
 }

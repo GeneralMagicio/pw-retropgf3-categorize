@@ -66,5 +66,7 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xA6103AA75b5D5445989EfEAa5Ea5F51e91467C62.json",
   "RPGF3_Application_UID": "0x4d3b18a10a8c1c21d7fe5f800a024e327711fe213ebcd7b4d0c5199fdc50a978",
   "applicantAddress": "0xA6103AA75b5D5445989EfEAa5Ea5F51e91467C62",
-  "pwCategorySuggestions": "Governance & Tokens"
+  "pwCategorySuggestions": "Governance & Tokens",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "The application should be flagged because it violates rule 1, promises of future impact (\"We expect OP to be one of the projects that will explode in the near future\")."
 }

@@ -42,5 +42,7 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x91af73c9973dAB58210FDe1263242A5A47Aeb9aE.json",
   "RPGF3_Application_UID": "0xfdaddbd9b0b4f882b815f1afae47a5a661da1c0ce23b197929e71050b547cdf7",
   "applicantAddress": "0x91af73c9973dAB58210FDe1263242A5A47Aeb9aE",
-  "pwCategorySuggestions": "Developer Ecosystem"
+  "pwCategorySuggestions": "Developer Ecosystem",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "This application should be flagged for not providing data in the \"contributionDescription\" and the \"impactDescription\" sections."
 }

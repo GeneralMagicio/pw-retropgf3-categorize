@@ -10,9 +10,7 @@
       "description": "lfg"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "I wouldn’t have had this conversation with myself a decade ago. As the internet grew and the iPhone came on the scene, it was exciting. I felt a reverence, almost gratitude for everything it enabled. Driven by curiosity and optimism, I signed up for any new service just to see what the future might hold. I was on the leading edge of early adopters.",
   "impactMetrics": [
     {
@@ -46,6 +44,5 @@
   "pwRecategorizeToType": "PROJECT",
   "pwRecategorizeReason": "NO. The application is not correctly categorized because it does not mention any specific contributions from the applicant in the Web3/blockchain space.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "End User Experience and Adoption",
   "pwCategorySuggestions": "Smart Home Technology, Internet of Things (IoT), Privacy Concerns"
 }

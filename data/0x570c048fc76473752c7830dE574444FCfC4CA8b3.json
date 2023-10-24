@@ -10,10 +10,7 @@
       "description": "Optimism Collective Ecosystem Contributions repository"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM",
-    "OP_STACK"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM", "OP_STACK"],
   "impactDescription": "As a web3 developer contributing to the Optimism Collective, my impact would revolve around enhancing scalability, security, usability, and innovation within the Optimism ecosystem. These contributions would ultimately contribute to the growth and success of Optimism as a key layer 2 scaling solution for Ethereum.",
   "impactMetrics": [
     {
@@ -38,6 +35,5 @@
   "applicantAddress": "0x570c048fc76473752c7830dE574444FCfC4CA8b3",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Layer 2 Scaling",
   "pwCategorySuggestions": "Layer 2 Scaling, Blockchain Infrastructure, Developer Ecosystem"
 }

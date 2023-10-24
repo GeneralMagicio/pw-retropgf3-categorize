@@ -86,5 +86,7 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x7916Dba3A610B020d77c0CCFd4Bd717ee400A5f2.json",
   "RPGF3_Application_UID": "0xfdb45ad951e4e219798dfcc58f2cacfe4be7466de58af866ff0d3d10f2d311f9",
   "applicantAddress": "0x7916Dba3A610B020d77c0CCFd4Bd717ee400A5f2",
-  "pwCategorySuggestions": "Decentralized Governance, Blockchain Infrastructure, Community Building"
+  "pwCategorySuggestions": "Decentralized Governance, Blockchain Infrastructure, Community Building",
+  "pwCategory": "Decentralized Governance",
+  "pwIsFlagged": false
 }

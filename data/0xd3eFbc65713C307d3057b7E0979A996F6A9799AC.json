@@ -103,5 +103,7 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xd3eFbc65713C307d3057b7E0979A996F6A9799AC.json",
   "RPGF3_Application_UID": "0xc006760fd9e200525b623bdef2ad95baf217dff39971d05533d69af04f81e739",
   "applicantAddress": "0xd3eFbc65713C307d3057b7E0979A996F6A9799AC",
-  "pwCategorySuggestions": "NFT Marketplace, Layer 2 Scaling, Blockchain Infrastructure"
+  "pwCategorySuggestions": "NFT Marketplace, Layer 2 Scaling, Blockchain Infrastructure",
+  "pwCategory": "NFT Marketplace",
+  "pwIsFlagged": false
 }

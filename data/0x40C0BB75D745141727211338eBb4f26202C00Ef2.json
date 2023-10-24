@@ -46,5 +46,7 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x40C0BB75D745141727211338eBb4f26202C00Ef2.json",
   "RPGF3_Application_UID": "0xfa8c195e19637a2d91f11c44d5b5c7c6397a06783864c1a6769285713f325708",
   "applicantAddress": "0x40C0BB75D745141727211338eBb4f26202C00Ef2",
-  "pwCategorySuggestions": "Blockchain Infrastructure, Data Science, Data Engineering"
+  "pwCategorySuggestions": "Blockchain Infrastructure, Data Science, Data Engineering",
+  "pwCategory": "Data Analytics",
+  "pwIsFlagged": false
 }

@@ -45,5 +45,7 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xA361be8F9a5646555952B89a4b9fa313ba2d2560.json",
   "RPGF3_Application_UID": "0xf8fc3201daa4ab2c8fc86d211d99a5b9dda7901c969cecd14e872e8bf65001f2",
   "applicantAddress": "0xA361be8F9a5646555952B89a4b9fa313ba2d2560",
-  "pwCategorySuggestions": "Blockchain Education, Developer Ecosystem"
+  "pwCategorySuggestions": "Blockchain Education, Developer Ecosystem",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "The application should be flagged as it does not include description of personal contribution or the impact on the Web3/blockchain space, thus violating rules regarding false statements and deception."
 }

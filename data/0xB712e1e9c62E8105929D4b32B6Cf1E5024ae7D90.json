@@ -40,5 +40,7 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xB712e1e9c62E8105929D4b32B6Cf1E5024ae7D90.json",
   "RPGF3_Application_UID": "0x7f49dacc2d14e2012a6701f7fd1e643df30ca223cbc9b8edc66f35c68761c2d5",
   "applicantAddress": "0xB712e1e9c62E8105929D4b32B6Cf1E5024ae7D90",
-  "pwCategorySuggestions": "NFTs, Music, Community Building"
+  "pwCategorySuggestions": "NFTs, Music, Community Building",
+  "pwCategory": "Music NFTs",
+  "pwIsFlagged": false
 }

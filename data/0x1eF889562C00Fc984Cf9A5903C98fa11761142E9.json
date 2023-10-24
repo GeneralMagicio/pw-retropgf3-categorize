@@ -36,6 +36,6 @@
   "applicantAddress": "0x1eF889562C00Fc984Cf9A5903C98fa11761142E9",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "NFT Aggregator",
-  "pwCategorySuggestions": "Non-Fungible Tokens (NFTs), Community Building, Digital Identity"
+  "pwCategorySuggestions": "Non-Fungible Tokens (NFTs), Community Building, Digital Identity",
+  "pwCategory": "NFT Integration"
 }

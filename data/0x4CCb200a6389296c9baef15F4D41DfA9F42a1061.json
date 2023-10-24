@@ -36,5 +36,7 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x4CCb200a6389296c9baef15F4D41DfA9F42a1061.json",
   "RPGF3_Application_UID": "0x075f5a0f41dd503a452a79c191a2866b95cdd5487a7d36d0a109de4ccef0841e",
   "applicantAddress": "0x4CCb200a6389296c9baef15F4D41DfA9F42a1061",
-  "pwCategorySuggestions": "Decentralized Finance (DeFi), Blockchain Infrastructure, Community Building"
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Blockchain Infrastructure, Community Building",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "This application should be flagged for promises of future impact - the applicant has promised to \"introduce this popular project to all my friends who are active in the field of crypto\" in future."
 }

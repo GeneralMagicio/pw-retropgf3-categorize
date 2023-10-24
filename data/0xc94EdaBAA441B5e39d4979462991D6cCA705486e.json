@@ -49,6 +49,6 @@
   "applicantAddress": "0xc94EdaBAA441B5e39d4979462991D6cCA705486e",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Developer Ecosystem",
-  "pwCategorySuggestions": "Web3 Infrastructure, Developer Tools, Adoption"
+  "pwCategorySuggestions": "Web3 Infrastructure, Developer Tools, Adoption",
+  "pwCategory": "Developer Tools"
 }

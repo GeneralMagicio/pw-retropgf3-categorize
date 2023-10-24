@@ -58,5 +58,7 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x5561974F0D35D8C355241a5568894df7B691BB28.json",
   "RPGF3_Application_UID": "0x020a49814aed7362cc564a227d7f1bda9c86b95b7d003080785c97a925fbf2b7",
   "applicantAddress": "0x5561974F0D35D8C355241a5568894df7B691BB28",
-  "pwCategorySuggestions": "Tokenization Platforms, User Experience & Adoption, Content Creation"
+  "pwCategorySuggestions": "Tokenization Platforms, User Experience & Adoption, Content Creation",
+  "pwCategory": "Smart Contract Development Tools",
+  "pwIsFlagged": false
 }

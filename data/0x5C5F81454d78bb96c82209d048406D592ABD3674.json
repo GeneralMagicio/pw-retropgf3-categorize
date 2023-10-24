@@ -40,5 +40,7 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x5C5F81454d78bb96c82209d048406D592ABD3674.json",
   "RPGF3_Application_UID": "0xb04af6a6a336124fbf621ac380b23add5b6c53dee09dc19f2ad9caea8cdb5cdf",
   "applicantAddress": "0x5C5F81454d78bb96c82209d048406D592ABD3674",
-  "pwCategorySuggestions": "Smart Contract Development Tools, Developer Experience (DX), Solidity Analyzer"
+  "pwCategorySuggestions": "Smart Contract Development Tools, Developer Experience (DX), Solidity Analyzer",
+  "pwCategory": "Developer Tools",
+  "pwIsFlagged": false
 }

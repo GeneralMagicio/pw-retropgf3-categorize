@@ -10,9 +10,7 @@
       "description": "hi"
     }
   ],
-  "impactCategory": [
-    "OP_STACK"
-  ],
+  "impactCategory": ["OP_STACK"],
   "impactDescription": "i dont know what to say or write here. by the way my name is Muhammad Salman and i am from Pakistan and i am social media promoter since 10 years, i am successfully running my youtube channel where im uplading videos about tech info networks crypto currecy and airdrops knowledge. my youtube channel have more than 10000 subscribers",
   "impactMetrics": [
     {
@@ -37,6 +35,5 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for violating the following rules: \"False statements & deception\" due to providing an incorrect contract address URL, and \"Spam\" due to the lack of meaningful and relevant information in the contribution description and impact description.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Influencer Marketing",
   "pwCategorySuggestions": "Content Creation, Community Building, Blockchain Education"
 }

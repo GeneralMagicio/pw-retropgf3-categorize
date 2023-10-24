@@ -34,5 +34,6 @@
   "RPGF3_Application_UID": "0xcd42fdb0c7f2477de91dc19535ab2c7068027a1fb97ab88a5c09c0db35d4e06f",
   "applicantAddress": "0x0DC825282d60cEB87c87A58AB1B1d47384ae9Aa5",
   "pwIsFlagged": false,
-  "pwCategorySuggestions": "Onchain Machine Learning, Blockchain Technology, AI Security"
+  "pwCategorySuggestions": "Onchain Machine Learning, Blockchain Technology, AI Security",
+  "pwCategory": "Onchain Machine Learning"
 }

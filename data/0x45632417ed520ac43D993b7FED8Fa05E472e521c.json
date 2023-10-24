@@ -33,5 +33,6 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x45632417ed520ac43D993b7FED8Fa05E472e521c.json",
   "RPGF3_Application_UID": "0xb850a86f5ee7ff3b8564c9727f0f5251c00df1e323ce82f928d8baf8c6e9d87a",
   "applicantAddress": "0x45632417ed520ac43D993b7FED8Fa05E472e521c",
-  "pwCategorySuggestions": "Cross-Chain Platforms"
+  "pwCategorySuggestions": "Cross-Chain Platforms",
+  "pwIsFlagged": false
 }

@@ -47,6 +47,6 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, the application should be categorized as \"INDIVIDUAL\" because it refers to \"I\" and \"me\", indicating a single person, not a project.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Developer Ecosystem",
-  "pwCategorySuggestions": "Decentralized Finance (DeFi), Developer Ecosystem, Community Building"
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Developer Ecosystem, Community Building",
+  "pwCategory": "Community & Social"
 }

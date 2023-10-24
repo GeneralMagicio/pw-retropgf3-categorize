@@ -48,5 +48,7 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xeE334345eeAfF1C984f0685F66EF9548E7B75674.json",
   "RPGF3_Application_UID": "0x17fb819feaaa7cabcb067b5861c14a7e7eb496b74bac650fbabe07f8860301c7",
   "applicantAddress": "0xeE334345eeAfF1C984f0685F66EF9548E7B75674",
-  "pwCategorySuggestions": "Blockchain Gaming, NFTs, User Experience & Adoption"
+  "pwCategorySuggestions": "Blockchain Gaming, NFTs, User Experience & Adoption",
+  "pwCategory": "Gaming & Entertainment",
+  "pwIsFlagged": false
 }

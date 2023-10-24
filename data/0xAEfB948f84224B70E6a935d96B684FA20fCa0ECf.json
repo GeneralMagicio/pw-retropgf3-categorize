@@ -42,6 +42,5 @@
   "pwRecategorizeToType": "PROJECT",
   "pwRecategorizeReason": "NO, the application should be categorized as PROJECT since there is a contract address listed in the contribution links and the descriptions are related to a project (Goddess Venus) rather than an individual's efforts.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Community Building",
   "pwCategorySuggestions": "Content Creation, Community Building, User Experience & Adoption"
 }

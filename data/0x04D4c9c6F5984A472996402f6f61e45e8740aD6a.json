@@ -39,6 +39,5 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for potential violation of rule 1 and rule 10 as the applicant describes themselves as an \"airdrop hunter\" and there is no clear or valid contribution provided to the collective, just vague benefits and optimism.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Collective Governance",
   "pwCategorySuggestions": "Content Creation, Community Building, User Experience & Adoption"
 }

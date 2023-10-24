@@ -66,6 +66,6 @@
   "applicantAddress": "0xD131F1BcDd547e067Af447dD3C36C99d6be9FdEB",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "NFT Aggregator",
-  "pwCategorySuggestions": "Non-Fungible Tokens (NFTs), Layer 2 Scaling, Blockchain Infrastructure"
+  "pwCategorySuggestions": "Non-Fungible Tokens (NFTs), Layer 2 Scaling, Blockchain Infrastructure",
+  "pwCategory": "NFT Marketplace"
 }

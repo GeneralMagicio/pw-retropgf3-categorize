@@ -74,6 +74,6 @@
   "applicantAddress": "0xa76B661bfbAA9264F9C8335235D3958a6ACe2aba",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Blockchain Infrastructure",
-  "pwCategorySuggestions": "Smart Contract Platforms, Decentralized Finance (DeFi), Blockchain Infrastructure"
+  "pwCategorySuggestions": "Smart Contract Platforms, Decentralized Finance (DeFi), Blockchain Infrastructure",
+  "pwCategory": "Decentralized Infrastructure"
 }

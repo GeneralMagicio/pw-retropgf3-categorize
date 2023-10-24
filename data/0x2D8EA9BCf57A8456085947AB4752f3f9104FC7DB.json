@@ -10,9 +10,7 @@
       "description": "Dune Analytics profile where I share my queries and dashboard."
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "My Dune analytics dashboard provide Optimism community members with transparency information about Velodrome's Optimism grants which include distribution of OP to Velodrome veNFT locker, distribution of OP to Velodrome voter, distribution of OP Gov NFTs. Another contribution is the metric of Optimism biggest dex.",
   "impactMetrics": [
     {
@@ -84,6 +82,5 @@
   "applicantAddress": "0x2D8EA9BCf57A8456085947AB4752f3f9104FC7DB",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Developer Ecosystem",
   "pwCategorySuggestions": "Blockchain Infrastructure, Decentralized Finance (DeFi), User Experience & Adoption"
 }

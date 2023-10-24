@@ -57,6 +57,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for promising future deliverables or impact which is against the grant program rules.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "End-User Experience",
-  "pwCategorySuggestions": "Wallet Management, Blockchain Infrastructure, User Experience & Adoption"
+  "pwCategorySuggestions": "Wallet Management, Blockchain Infrastructure, User Experience & Adoption",
+  "pwCategory": "Web3 Infrastructure"
 }

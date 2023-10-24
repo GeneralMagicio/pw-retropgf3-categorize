@@ -51,5 +51,7 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x5820b2D47397888adb34158B60164f661739FbB0.json",
   "RPGF3_Application_UID": "0x553232d3bf4aedc322c984eb06f1e88447007f48f0fc2377eac10b213ce069f8",
   "applicantAddress": "0x5820b2D47397888adb34158B60164f661739FbB0",
-  "pwCategorySuggestions": "Token Analytics, API Services"
+  "pwCategorySuggestions": "Token Analytics, API Services",
+  "pwCategory": "Data Analytics",
+  "pwIsFlagged": false
 }

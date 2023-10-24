@@ -64,5 +64,6 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xca47Bb2FfB7eAEa5517ee6420f6cc4535307C297.json",
   "RPGF3_Application_UID": "0x68676900f1fab8f4e4278c5cd9580fd650d7940cec0d4e40c65c6d1e8445cd13",
   "applicantAddress": "0xca47Bb2FfB7eAEa5517ee6420f6cc4535307C297",
-  "pwCategorySuggestions": "Web3 Community Platform, Developer Ecosystem, Cross-Chain Platforms"
+  "pwCategorySuggestions": "Web3 Community Platform, Developer Ecosystem, Cross-Chain Platforms",
+  "pwIsFlagged": false
 }

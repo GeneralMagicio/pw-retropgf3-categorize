@@ -89,6 +89,6 @@
   "applicantAddress": "0xC451b0191351ce308FdFd779D73814c910FC5eCB",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Decentralized Finance (DeFi)",
-  "pwCategorySuggestions": "Layer 2 Scaling, Decentralized Finance (DeFi), Tokenization Platforms"
+  "pwCategorySuggestions": "Layer 2 Scaling, Decentralized Finance (DeFi), Tokenization Platforms",
+  "pwCategory": "Cross-Chain & Interoperability"
 }

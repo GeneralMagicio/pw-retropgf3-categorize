@@ -42,5 +42,8 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x9791B7a69E5Fa8F9fe7F07b4817b815A89abEF5C.json",
   "RPGF3_Application_UID": "0x6ecdfca90e94ecc3205d3bb4525e74ef694394411e35c85a7bc3832744b1a980",
   "applicantAddress": "0x9791B7a69E5Fa8F9fe7F07b4817b815A89abEF5C",
-  "pwCategorySuggestions": "Decentralized Social Media, NFT Integration, AI-driven Protocols"
+  "pwCategorySuggestions": "Decentralized Social Media, NFT Integration, AI-driven Protocols",
+  "pwCategory": "Decentralized Social Network",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "The application should be flagged because it is making promises of future impact in violation of rule 1. They claim to anticipate the attraction of over 50,000 users within 3 months and 500,000 within a year."
 }

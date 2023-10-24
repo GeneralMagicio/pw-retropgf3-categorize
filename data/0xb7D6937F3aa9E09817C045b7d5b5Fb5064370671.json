@@ -58,6 +58,6 @@
   "applicantAddress": "0xb7D6937F3aa9E09817C045b7d5b5Fb5064370671",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Wallet Management",
-  "pwCategorySuggestions": "Wallet Management, Web3 Community Platform, Decentralized Finance (DeFi)"
+  "pwCategorySuggestions": "Wallet Management, Web3 Community Platform, Decentralized Finance (DeFi)",
+  "pwCategory": "End-User Experience & Adoption"
 }

@@ -81,5 +81,6 @@
   "RPGF3_Application_UID": "0xea8b9b5e94a6ad66568f2b6483f213b3419997882ffc596aaf3630ecba3265fc",
   "applicantAddress": "0x2E5d207a4C0F7e7C52F6622DCC6EB44bC0fE1A13",
   "pwIsFlagged": false,
-  "pwCategorySuggestions": "Layer 2 Scaling, Decentralized Finance (DeFi), Tokenization Platforms"
+  "pwCategorySuggestions": "Layer 2 Scaling, Decentralized Finance (DeFi), Tokenization Platforms",
+  "pwCategory": "Decentralized Exchanges (DEXs)"
 }

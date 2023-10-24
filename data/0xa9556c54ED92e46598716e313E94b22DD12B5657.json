@@ -80,5 +80,7 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xa9556c54ED92e46598716e313E94b22DD12B5657.json",
   "RPGF3_Application_UID": "0xb1eb9238bbb8108c50f7061ffdf6dd7c465b42ff2038155b430d62fb283e59e2",
   "applicantAddress": "0xa9556c54ED92e46598716e313E94b22DD12B5657",
-  "pwCategorySuggestions": "Decentralized Exchanges (DEXs), DeFi, Layer 2 Scaling"
+  "pwCategorySuggestions": "Decentralized Exchanges (DEXs), DeFi, Layer 2 Scaling",
+  "pwCategory": "Decentralized Exchanges (DEXs)",
+  "pwIsFlagged": false
 }

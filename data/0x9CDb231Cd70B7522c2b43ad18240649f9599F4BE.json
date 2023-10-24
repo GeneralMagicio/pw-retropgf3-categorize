@@ -10,9 +10,7 @@
       "description": "My main content creation platform is YouTube, where I educate prople"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "As an early Synthetix user, I firmly believe that Optimism played a crucial role in the protocol's success. I actively participated in community meetings and discussions to foster the growth of Optimism within the DeFi ecosystem.\n\nOn my part, I created educational content about Optimism and layer 2 mechanisms for the Malayalam-speaking community. The feedback from the community was overwhelmingly positive, and I believe I played a role in onboarding new users and realistically educating them about Optimism.",
   "impactMetrics": [
     {
@@ -76,6 +74,5 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged because they are submitting content in a language other than English.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Education",
   "pwCategorySuggestions": "Content Creation, Community Building, Decentralized Finance (DeFi)"
 }

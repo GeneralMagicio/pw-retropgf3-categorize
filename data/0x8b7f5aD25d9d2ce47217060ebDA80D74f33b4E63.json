@@ -82,5 +82,7 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x8b7f5aD25d9d2ce47217060ebDA80D74f33b4E63.json",
   "RPGF3_Application_UID": "0xf60aa7b567c5deb1a6c8f3b4867d77c99e97619ad3701028db4415f367ae4eab",
   "applicantAddress": "0x8b7f5aD25d9d2ce47217060ebDA80D74f33b4E63",
-  "pwCategorySuggestions": "Decentralized Web Infrastructure, NFT Storage, Web3 Gateway Services"
+  "pwCategorySuggestions": "Decentralized Web Infrastructure, NFT Storage, Web3 Gateway Services",
+  "pwCategory": "Decentralized Infrastructure",
+  "pwIsFlagged": false
 }

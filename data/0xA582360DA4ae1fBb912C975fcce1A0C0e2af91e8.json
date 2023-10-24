@@ -68,5 +68,7 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xA582360DA4ae1fBb912C975fcce1A0C0e2af91e8.json",
   "RPGF3_Application_UID": "0xb5c0a289d0c30d5faeec110c1c80231e2cf975e85f9ebcf5ccb493e97fb2bc3c",
   "applicantAddress": "0xA582360DA4ae1fBb912C975fcce1A0C0e2af91e8",
-  "pwCategorySuggestions": "Layer 2 Scaling, User Experience & Adoption, Smart Contract Platforms"
+  "pwCategorySuggestions": "Layer 2 Scaling, User Experience & Adoption, Smart Contract Platforms",
+  "pwCategory": "End-User Experience & Adoption",
+  "pwIsFlagged": false
 }

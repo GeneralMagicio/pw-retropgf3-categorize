@@ -35,5 +35,8 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x6c6cCE0796B426cF5D8693b01d2F1E284F69Df9a.json",
   "RPGF3_Application_UID": "0xb6be3a3a9dbaa416b82eeef6ef1bfcb05caaa14711a1d40674c5ca48c803b9a7",
   "applicantAddress": "0x6c6cCE0796B426cF5D8693b01d2F1E284F69Df9a",
-  "pwCategorySuggestions": "Decentralized Finance (DeFi), Smart Contract Platforms, End-User Experience"
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Smart Contract Platforms, End-User Experience",
+  "pwCategory": "Finance & DeFi",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "This application should be flagged for violating the rule 1: \"Promises of future impact\" because the applicant is making promises about future deliverables."
 }

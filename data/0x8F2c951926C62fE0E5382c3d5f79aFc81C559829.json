@@ -41,6 +41,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "Flag the application because both the contribution and impact descriptions are composed entirely of the repeated word \"test,\" which indicates lack of a valid or serious contribution and impact.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "The project description provided does not contain sufficient information to assign an appropriate category.",
-  "pwCategorySuggestions": "Content Creation, Community Building, User Experience & Adoption"
+  "pwCategorySuggestions": "Content Creation, Community Building, User Experience & Adoption",
+  "pwCategory": "Community & Social"
 }

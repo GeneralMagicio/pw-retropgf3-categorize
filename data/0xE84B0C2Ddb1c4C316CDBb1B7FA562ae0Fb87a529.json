@@ -40,6 +40,5 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "Flag the application. The contribution description is vague and doesn't clearly highlight a valid contribution to the Optimism ecosystem.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Community Building",
   "pwCategorySuggestions": "Community Building, End-User Experience, User Experience & Adoption"
 }

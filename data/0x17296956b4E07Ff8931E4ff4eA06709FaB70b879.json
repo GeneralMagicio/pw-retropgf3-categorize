@@ -79,6 +79,6 @@
   "applicantAddress": "0x17296956b4E07Ff8931E4ff4eA06709FaB70b879",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Governance & Tokens",
-  "pwCategorySuggestions": "Governance & Tokens, Blockchain Infrastructure, Community Building"
+  "pwCategorySuggestions": "Governance & Tokens, Blockchain Infrastructure, Community Building",
+  "pwCategory": "Decentralized Governance"
 }

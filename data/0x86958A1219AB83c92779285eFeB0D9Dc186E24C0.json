@@ -227,5 +227,7 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x86958A1219AB83c92779285eFeB0D9Dc186E24C0.json",
   "RPGF3_Application_UID": "0x49b4db4c54b774ca30ad1254df16b4d62bd611953cb5a6de1d34cbf136808814",
   "applicantAddress": "0x86958A1219AB83c92779285eFeB0D9Dc186E24C0",
-  "pwCategorySuggestions": "Tokenization Platforms, Media Production, Community Building"
+  "pwCategorySuggestions": "Tokenization Platforms, Media Production, Community Building",
+  "pwCategory": "Music NFTs",
+  "pwIsFlagged": false
 }

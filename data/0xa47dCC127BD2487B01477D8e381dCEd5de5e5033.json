@@ -47,6 +47,5 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for violating the rules. The applicant is promising future deliverables or impact which is against the rules of the grants program.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Blockchain Education",
   "pwCategorySuggestions": "Blockchain Education, Content Creation, Community Building"
 }

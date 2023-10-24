@@ -34,5 +34,7 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x431bad1ba1EE3debEc06c31672b6d03Da801248f.json",
   "RPGF3_Application_UID": "0x894d96becdb870ec85dae64a960d53c32d21d2138b1f1509a8934d8c7b2cb466",
   "applicantAddress": "0x431bad1ba1EE3debEc06c31672b6d03Da801248f",
-  "pwCategorySuggestions": "Smart Contract Platforms, Governance & Tokens, Community Building"
+  "pwCategorySuggestions": "Smart Contract Platforms, Governance & Tokens, Community Building",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "Flag this application for promising future impact and initiatives in their contribution descriptions, thereby violating rule 1."
 }

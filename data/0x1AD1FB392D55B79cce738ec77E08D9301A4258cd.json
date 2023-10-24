@@ -10,9 +10,7 @@
       "description": "This channel was used to onboard a lot of people into OP ecosystem. "
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "My contributions had a beautiful impact on the Optimism Collective, because a lot of the people I onboarded now explore the OP ecosystem. They have also onboarded some of their friends who have come to love OP as well. When they all got to know about gas fees and how low OP gas fees are, they loved the OP ecosystem more.\n",
   "impactMetrics": [
     {
@@ -44,6 +42,5 @@
   "applicantAddress": "0x1AD1FB392D55B79cce738ec77E08D9301A4258cd",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Education",
   "pwCategorySuggestions": "Education, Blockchain Infrastructure, Decentralized Finance (DeFi)"
 }

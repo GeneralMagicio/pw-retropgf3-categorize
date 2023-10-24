@@ -69,6 +69,6 @@
   "applicantAddress": "0x91A3b28aE8a04C174448d4b10150C844871fCb3c",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Blockchain Infrastructure",
-  "pwCategorySuggestions": "Blockchain Infrastructure, Developer Ecosystem, Layer 2 Scaling"
+  "pwCategorySuggestions": "Blockchain Infrastructure, Developer Ecosystem, Layer 2 Scaling",
+  "pwCategory": "Decentralized Infrastructure"
 }

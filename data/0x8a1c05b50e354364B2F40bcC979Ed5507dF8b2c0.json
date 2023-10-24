@@ -10,9 +10,7 @@
       "description": "LFG"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "i am optimism ecosystem user and actively using this chain for daily transaction and airdrop hunting. I am also actively testing new dapps on this chain and doing something like bridging activites. I also collected some NFT on mirror.  Also i like to tell my friend to use this chain",
   "impactMetrics": [
     {
@@ -36,6 +34,5 @@
   "applicantAddress": "0x8a1c05b50e354364B2F40bcC979Ed5507dF8b2c0",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "End User Experience and Adoption",
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Non-Fungible Tokens (NFTs), User Experience & Adoption"
 }

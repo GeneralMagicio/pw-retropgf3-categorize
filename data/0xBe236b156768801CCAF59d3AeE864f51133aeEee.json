@@ -10,10 +10,7 @@
       "description": "I provide information about retropgf via the Telegram channel"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM",
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "I always share information on social media or personal channels such as my personal Medium and Telegram channels, and some explanations about this OP program. through all the information available on the official page, so that people participate and understand about OP's other great programs",
   "impactMetrics": [
     {
@@ -44,6 +41,5 @@
   "applicantAddress": "0xBe236b156768801CCAF59d3AeE864f51133aeEee",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Community Building",
   "pwCategorySuggestions": "Content Creation, Community Building, User Experience & Adoption"
 }

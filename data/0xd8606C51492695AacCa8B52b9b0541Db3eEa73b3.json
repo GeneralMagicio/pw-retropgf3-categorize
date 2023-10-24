@@ -44,6 +44,6 @@
   "applicantAddress": "0xd8606C51492695AacCa8B52b9b0541Db3eEa73b3",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "NFT Aggregator",
-  "pwCategorySuggestions": "Non-Fungible Tokens (NFTs), Layer 2 Scaling, Community Building"
+  "pwCategorySuggestions": "Non-Fungible Tokens (NFTs), Layer 2 Scaling, Community Building",
+  "pwCategory": "NFT Integration"
 }

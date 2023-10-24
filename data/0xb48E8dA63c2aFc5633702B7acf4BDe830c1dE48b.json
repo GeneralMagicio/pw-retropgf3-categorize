@@ -100,6 +100,6 @@
   "applicantAddress": "0xb48E8dA63c2aFc5633702B7acf4BDe830c1dE48b",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Content Creation",
-  "pwCategorySuggestions": "Non-Fungible Tokens (NFTs), Community Building, Art Collaboration"
+  "pwCategorySuggestions": "Non-Fungible Tokens (NFTs), Community Building, Art Collaboration",
+  "pwCategory": "NFT Integration"
 }

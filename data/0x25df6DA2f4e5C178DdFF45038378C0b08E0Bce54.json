@@ -94,5 +94,6 @@
   "applicantAddress": "0x25df6DA2f4e5C178DdFF45038378C0b08E0Bce54",
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged because it promises future impact that violates the first rule - \"We will launch WTF on-chain certificates on optimism by the end of 2023.\".",
-  "pwCategorySuggestions": "Blockchain Education, Developer Ecosystem, Community Building"
+  "pwCategorySuggestions": "Blockchain Education, Developer Ecosystem, Community Building",
+  "pwCategory": "Education & Learning"
 }

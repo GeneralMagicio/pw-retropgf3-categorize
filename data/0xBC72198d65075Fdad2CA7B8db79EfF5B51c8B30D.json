@@ -10,9 +10,7 @@
       "description": "Good Morning News is the world's first decentralized news organization!"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Though my contributions have not had as much of an impact on the Optimism Collective as I would have hoped by now, I fully expect my protocol to drive future adoption and educate many new users about the Collective. As well as impacting the Collective, my protocol has the potential to impact journalist all around the world and empower them to speak freely.",
   "impactMetrics": [
     {
@@ -38,6 +36,5 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged because it violates rule number 1, \"Promises of future impact - promises of future deliverables or impact are not allowed.\" The applicant explicitly states they fully expect their protocol to drive future adoption and educate many new users about the Collective.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Smart Contract Platforms",
   "pwCategorySuggestions": "Decentralized News Platform, Blockchain Education, Content Creation"
 }

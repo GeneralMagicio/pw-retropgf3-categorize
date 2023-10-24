@@ -67,6 +67,6 @@
   "applicantAddress": "0x574755975ce360Bf70aa4960950A95AE3A2C0f92",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Blockchain Infrastructure",
-  "pwCategorySuggestions": "Cross-Chain Platforms, Privacy Coins, Layer 2 Scaling"
+  "pwCategorySuggestions": "Cross-Chain Platforms, Privacy Coins, Layer 2 Scaling",
+  "pwCategory": "Cross-Chain & Interoperability"
 }

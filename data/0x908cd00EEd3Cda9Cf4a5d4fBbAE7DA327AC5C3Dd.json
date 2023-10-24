@@ -155,9 +155,7 @@
       "description": "Overview of the Ambassador Program and Retrodrop"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "\nThe posts and video reviews I create for the CIS community Optimism has attracted 5-10 active members to the Ambassador Program in the last 7-8 months. 4 of which have successfully obtained the role of ambassador in training. There were also AMA sessions and events, which I will mention in the CIS community grant. ",
   "impactMetrics": [
     {
@@ -182,6 +180,5 @@
   "applicantAddress": "0x908cd00EEd3Cda9Cf4a5d4fBbAE7DA327AC5C3Dd",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Web3 Advocacy",
   "pwCategorySuggestions": "Community Building, Content Creation, Blockchain Education"
 }

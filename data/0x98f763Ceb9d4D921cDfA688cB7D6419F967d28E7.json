@@ -96,5 +96,7 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x98f763Ceb9d4D921cDfA688cB7D6419F967d28E7.json",
   "RPGF3_Application_UID": "0x60da4d7694d025119a3c47f6fd67aa417718fe089f8c98d4f0ccda524cd777df",
   "applicantAddress": "0x98f763Ceb9d4D921cDfA688cB7D6419F967d28E7",
-  "pwCategorySuggestions": "Decentralized Infrastructure, Developer Ecosystem, Web3 Community Platform"
+  "pwCategorySuggestions": "Decentralized Infrastructure, Developer Ecosystem, Web3 Community Platform",
+  "pwCategory": "Decentralized Infrastructure",
+  "pwIsFlagged": false
 }

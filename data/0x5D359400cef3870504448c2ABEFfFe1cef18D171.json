@@ -37,5 +37,7 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x5D359400cef3870504448c2ABEFfFe1cef18D171.json",
   "RPGF3_Application_UID": "0x64ae220c833198bd6576e36f0ca7728f667fc895aba7b0825723240840f4fae6",
   "applicantAddress": "0x5D359400cef3870504448c2ABEFfFe1cef18D171",
-  "pwCategorySuggestions": "Community Building"
+  "pwCategorySuggestions": "Community Building",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "The application should be flagged for promising future impact and contributions to the development of the OP Project."
 }

@@ -10,9 +10,7 @@
       "description": "web3"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Optimism can protect against depression — even for people who are at risk for it. An optimistic outlook makes people more resistant to stress. Optimism may even help people live longer. The best thing about optimism is you can learn it, even if your outlook tends to be more pessimistic",
   "impactMetrics": [
     {
@@ -39,6 +37,5 @@
   "pwRecategorizeToType": "PROJECT",
   "pwRecategorizeReason": "NO, the application seems to be mis-categorized. Despite being labeled as an \"INDIVIDUAL\" the content of the application refers to  \"Optimism\" which is a known project in the blockchain/Web3 space rather than an individual's contribution.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Community Building",
   "pwCategorySuggestions": "Content Creation, Community Building, User Experience & Adoption"
 }

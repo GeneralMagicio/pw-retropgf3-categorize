@@ -70,5 +70,6 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xe3d8E58551d240626D50EE26FAFF2649e1EEE3cb.json",
   "RPGF3_Application_UID": "0x3bbeb190adc5aea2dc76fe5e5483545c49faf631288f09644d91c242ccd16003",
   "applicantAddress": "0xe3d8E58551d240626D50EE26FAFF2649e1EEE3cb",
-  "pwCategorySuggestions": "Smart Contract Platforms, Layer 2 Scaling, Research & Development"
+  "pwCategorySuggestions": "Smart Contract Platforms, Layer 2 Scaling, Research & Development",
+  "pwIsFlagged": false
 }

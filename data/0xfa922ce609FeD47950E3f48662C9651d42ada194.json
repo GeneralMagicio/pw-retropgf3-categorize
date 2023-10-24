@@ -34,5 +34,7 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xfa922ce609FeD47950E3f48662C9651d42ada194.json",
   "RPGF3_Application_UID": "0x67b7139e5b9fbe236be4e777258a936bd45b01aa951635219adfa0306f4f3b57",
   "applicantAddress": "0xfa922ce609FeD47950E3f48662C9651d42ada194",
-  "pwCategorySuggestions": "Web3 Community Platform, End-User Experience, Tokenization Platforms"
+  "pwCategorySuggestions": "Web3 Community Platform, End-User Experience, Tokenization Platforms",
+  "pwCategory": "Community & Social",
+  "pwIsFlagged": false
 }

@@ -138,5 +138,6 @@
   "RPGF3_Application_UID": "0x4f1f2f5b1c5ab11d0eb9aa6e10fe3b47b7505d41ff6f75151f055457026438d2",
   "applicantAddress": "0x2E849DB35D4E7753902414D466d97ad02d333F56",
   "pwIsFlagged": false,
-  "pwCategorySuggestions": "Content Creation, Community Building, User Experience & Adoption"
+  "pwCategorySuggestions": "Content Creation, Community Building, User Experience & Adoption",
+  "pwCategory": "Education & Learning"
 }

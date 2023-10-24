@@ -39,6 +39,6 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, the application uses words \"I\" and \"me\" which indicates it may be an individual application.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Content Creation",
-  "pwCategorySuggestions": "Blockchain Infrastructure"
+  "pwCategorySuggestions": "Blockchain Infrastructure",
+  "pwCategory": "Decentralized Infrastructure"
 }

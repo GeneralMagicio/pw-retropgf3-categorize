@@ -37,5 +37,6 @@
   "RPGF3_Application_UID": "0x93802f900f4a02570de2bedf8f16fce49715eda5dde0a2ae9199c93218313cb5",
   "applicantAddress": "0x29bca92D522D5a87B0f65E1208980262F235A423",
   "pwIsFlagged": false,
-  "pwCategorySuggestions": "Smart Contract Platforms, Tokenization Platforms, Decentralized Finance (DeFi)"
+  "pwCategorySuggestions": "Smart Contract Platforms, Tokenization Platforms, Decentralized Finance (DeFi)",
+  "pwCategory": "Trading Tools"
 }

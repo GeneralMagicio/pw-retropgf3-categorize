@@ -15,9 +15,7 @@
       "description": "Almost 12,500 addresses"
     }
   ],
-  "impactCategory": [
-    "OP_STACK"
-  ],
+  "impactCategory": ["OP_STACK"],
   "impactDescription": "Since PGN is built on top of OP, the way that I look at it is my work is helping to further OP's collective impact, even if not being done under the banner of OP to most people. Especially because part of the sequencer fees that will be paid out on PGN will go back to OP at the end of the day. Meaning PGN's success is also OP's success as well.",
   "impactMetrics": [
     {
@@ -42,6 +40,5 @@
   "applicantAddress": "0x9600e2eE6377DAdad7299B120026661c336A5e6d",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Blockchain Infrastructure",
   "pwCategorySuggestions": "Layer 2 Scaling"
 }

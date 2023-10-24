@@ -62,5 +62,8 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xb15115A15d5992A756D003AE74C0b832918fAb75.json",
   "RPGF3_Application_UID": "0x7d3cb52c6e006ca04df32b6bef1982962c0669a7b9d826114cf9f40c0ce9be97",
   "applicantAddress": "0xb15115A15d5992A756D003AE74C0b832918fAb75",
-  "pwCategorySuggestions": "Tokenization Platforms, Blockchain Infrastructure, Decentralized Finance (DeFi)"
+  "pwCategorySuggestions": "Tokenization Platforms, Blockchain Infrastructure, Decentralized Finance (DeFi)",
+  "pwCategory": "Social Impact",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "The application should be flagged because it violates Rule 1: promises of future deliverables or impact are not allowed. The applicant mentioned, \"In the future, Donate3 hopes to introduce more liquidity to the optimism network, enhance the integration of the OP network with charitable causes, and promote the development of public goods on the OP chain.\" This is a clear promise of future impact."
 }

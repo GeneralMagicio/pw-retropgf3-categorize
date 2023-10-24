@@ -70,5 +70,7 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x3b5418282282F75adC2992B63e518a0C763935E6.json",
   "RPGF3_Application_UID": "0x4c71d371be46e1193a5d2bcbba88dd6f86ab2afa06dce8ccf0e7b1eef3d515b0",
   "applicantAddress": "0x3b5418282282F75adC2992B63e518a0C763935E6",
-  "pwCategorySuggestions": "Tokenization Platforms, Blockchain Gaming, Decentralized Identity"
+  "pwCategorySuggestions": "Tokenization Platforms, Blockchain Gaming, Decentralized Identity",
+  "pwCategory": "Gaming & Entertainment",
+  "pwIsFlagged": false
 }

@@ -127,5 +127,7 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x49cA434088A569019F2e31D5b15A55D59A3e7d66.json",
   "RPGF3_Application_UID": "0x3e0f34b627d69cfa2ad26dad2bf8a98272c4e30c0d6b604acdbd9a0ac86e9828",
   "applicantAddress": "0x49cA434088A569019F2e31D5b15A55D59A3e7d66",
-  "pwCategorySuggestions": "Decentralized Finance (DeFi), Aggregator Platforms, Open-source Development"
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Aggregator Platforms, Open-source Development",
+  "pwCategory": "Decentralized Exchanges (DEXs)",
+  "pwIsFlagged": false
 }

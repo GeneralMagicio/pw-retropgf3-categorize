@@ -60,6 +60,6 @@
   "applicantAddress": "0x156Bfd9395371F29489FaD5EDF29269b72908F68",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Governance & Tokens",
-  "pwCategorySuggestions": "Decentralized Finance (DeFi), Decentralized Science, Coral Reef Conservation"
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Decentralized Science, Coral Reef Conservation",
+  "pwCategory": "Decentralized Science"
 }

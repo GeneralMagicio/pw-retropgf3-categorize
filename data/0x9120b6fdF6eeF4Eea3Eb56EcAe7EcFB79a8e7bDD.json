@@ -75,6 +75,6 @@
   "applicantAddress": "0x9120b6fdF6eeF4Eea3Eb56EcAe7EcFB79a8e7bDD",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Decentralized Finance (DeFi)",
-  "pwCategorySuggestions": "Decentralized Finance (DeFi), Web3 Community Platform, Tokenization Platforms"
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Web3 Community Platform, Tokenization Platforms",
+  "pwCategory": "Finance & DeFi"
 }

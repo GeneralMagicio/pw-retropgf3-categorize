@@ -41,6 +41,6 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, the application uses first person pronouns such as \"I\" indicating that the it may be an individual rather than a project.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Community Building",
-  "pwCategorySuggestions": "Community Building, User Experience & Adoption, Governance & Tokens"
+  "pwCategorySuggestions": "Community Building, User Experience & Adoption, Governance & Tokens",
+  "pwCategory": "Community & Social"
 }

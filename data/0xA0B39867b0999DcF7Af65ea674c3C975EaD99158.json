@@ -40,10 +40,7 @@
       "description": "Product Reception of Visual demonstration of how bitcoin transactions work"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM",
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Developer Ecosystem:\n\nMy work on block-cli, coin-cli, and blockchain code resources has helped developers understand the underlying technology of Optimism, the blockchain.  It allowed developers to create their own implementation of the blockchain with a reference to a concise, clear, and explicit code base. I've achieved over 2,000 GitHub stars for thousands of developers worldwide.\n\nEnd User Experience & AdoptionL:\n\nMy work on blockchaindemo.io and coindemo.io has been a go-to educational resource for teaching blockchain worldwide. It has been used in university lectures, law school, and conferences to explain the blockchain architecture. It has been used by hundreds of thousands of crypto-curious people worldwide. It has been awarded the no. 1 Product on Product Hunt.",
   "impactMetrics": [
     {
@@ -111,6 +108,5 @@
   "applicantAddress": "0xA0B39867b0999DcF7Af65ea674c3C975EaD99158",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Developer Ecosystem",
   "pwCategorySuggestions": "Developer Ecosystem, End-User Experience & Adoption, Blockchain Education"
 }

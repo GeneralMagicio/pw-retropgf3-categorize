@@ -10,9 +10,7 @@
       "description": "My GitHub"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "My contribution involves introducing new developers to Optimism technology. This effort aims to expand the talent pool and expertise within the Optimism community, fostering growth and innovation. By nurturing and educating fresh talents, I intend to empower the collective with a stronger developer base, enabling the network to reach new heights in scalability and efficiency.",
   "impactMetrics": [
     {
@@ -38,6 +36,5 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged due to requirement 1. The applicant promises future impact by hosting training sessions that haven't happened yet.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Blockchain Education",
   "pwCategorySuggestions": "Developer Ecosystem, Web3 Community Platform, Blockchain Education"
 }

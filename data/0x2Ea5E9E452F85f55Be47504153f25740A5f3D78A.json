@@ -10,9 +10,7 @@
       "description": "twitter"
     }
   ],
-  "impactCategory": [
-    "COLLECTIVE_GOVERNANCE"
-  ],
+  "impactCategory": ["COLLECTIVE_GOVERNANCE"],
   "impactDescription": "Let more people know the blockchain, understand the operation of Optimism, and actively participate in community governance. Promote the blockchain so that more people can use it. If they have any difficulties in using it, we will help them solve the problem.",
   "impactMetrics": [
     {
@@ -38,6 +36,5 @@
   "pwRecategorizeToType": "PROJECT",
   "pwRecategorizeReason": "NO, the application is incorrectly categorized as it refers to \"we will help them solve the problem\" suggesting a group or project effort rather than an individual's contribution.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Education",
   "pwCategorySuggestions": "Community Building, User Experience & Adoption, Developer Ecosystem"
 }

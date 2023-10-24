@@ -137,5 +137,7 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xE5732B7695F06b9080109B10dec0856e1b801c15.json",
   "RPGF3_Application_UID": "0xc2eba66a043d5471132cb40947e81f106f83d0bbbc0d4af3fff5e800ad7411c2",
   "applicantAddress": "0xE5732B7695F06b9080109B10dec0856e1b801c15",
-  "pwCategorySuggestions": "Decentralized Exchanges (DEXs), Cross-Chain Platforms, Liquidity Solutions"
+  "pwCategorySuggestions": "Decentralized Exchanges (DEXs), Cross-Chain Platforms, Liquidity Solutions",
+  "pwCategory": "Decentralized Exchanges (DEXs)",
+  "pwIsFlagged": false
 }

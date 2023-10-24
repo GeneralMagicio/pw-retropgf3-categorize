@@ -72,5 +72,6 @@
   "RPGF3_Application_UID": "0xa35bcbf65e6ec5f55de08a91b09ebbf11d59fa13c28e8232c1f2d3cf1cdfbcc3",
   "applicantAddress": "0x2195bEaed7b0783f2c13c75FC439396583C1A37D",
   "pwIsFlagged": false,
-  "pwCategorySuggestions": "Decentralized Infrastructure, Proof of Location, Layer 2 Scaling"
+  "pwCategorySuggestions": "Decentralized Infrastructure, Proof of Location, Layer 2 Scaling",
+  "pwCategory": "Decentralized Infrastructure"
 }

@@ -45,6 +45,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for violating the rules of the grants program, specifically rule 1 (Promises of future impact) and rule 6 (Advertising). The applicant is promoting their NFT collection and promising a future deliverable of a film production.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "NFT Aggregator",
-  "pwCategorySuggestions": "NFT Marketplace, Artificial Intelligence, Media Production"
+  "pwCategorySuggestions": "NFT Marketplace, Artificial Intelligence, Media Production",
+  "pwCategory": "NFT Marketplace"
 }

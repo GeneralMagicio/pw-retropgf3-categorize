@@ -40,6 +40,5 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged as it promises future impact and deliverables, which is a violation of the first rule of the grant program.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Education",
   "pwCategorySuggestions": "Community Building, Developer Ecosystem, Blockchain Education"
 }

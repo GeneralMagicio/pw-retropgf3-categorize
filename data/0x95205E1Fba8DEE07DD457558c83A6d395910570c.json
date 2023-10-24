@@ -82,6 +82,6 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, it is not correctly categorized. This application includes too many personal pronouns (\"I\", \"me\") which suggest it is from an individual, not a project.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Community Building",
-  "pwCategorySuggestions": "Non-Fungible Tokens (NFTs), Staking Platforms, Community Building"
+  "pwCategorySuggestions": "Non-Fungible Tokens (NFTs), Staking Platforms, Community Building",
+  "pwCategory": "NFT Marketplace"
 }

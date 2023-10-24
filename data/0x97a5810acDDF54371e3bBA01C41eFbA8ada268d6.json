@@ -47,5 +47,7 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x97a5810acDDF54371e3bBA01C41eFbA8ada268d6.json",
   "RPGF3_Application_UID": "0x663699125622325c65b1c0dd1722e08979ea0707b0735ab5a8de88093f684685",
   "applicantAddress": "0x97a5810acDDF54371e3bBA01C41eFbA8ada268d6",
-  "pwCategorySuggestions": "NFT Management, Wallet Management"
+  "pwCategorySuggestions": "NFT Management, Wallet Management",
+  "pwCategory": "NFT Integration",
+  "pwIsFlagged": false
 }

@@ -70,6 +70,6 @@
   "applicantAddress": "0x62d51Fa08B15411D9429133aE5F224abf3867729",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Decentralized Finance (DeFi)",
-  "pwCategorySuggestions": "Stablecoin Aggregator, DeFi Analytics, Blockchain Media"
+  "pwCategorySuggestions": "Stablecoin Aggregator, DeFi Analytics, Blockchain Media",
+  "pwCategory": "Finance & DeFi"
 }

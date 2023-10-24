@@ -54,5 +54,7 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xc56618e14Dc795D0a3aeF77cFC9F3B1dba2514c6.json",
   "RPGF3_Application_UID": "0xa9ebc461f41b0cf7f17689690f5baed6716664a78c3feb30dc373c6c05f159f7",
   "applicantAddress": "0xc56618e14Dc795D0a3aeF77cFC9F3B1dba2514c6",
-  "pwCategorySuggestions": "Smart Contract Platforms, Developer Ecosystem, Community Building"
+  "pwCategorySuggestions": "Smart Contract Platforms, Developer Ecosystem, Community Building",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "The application should be flagged because it promises future impact by stating that the applicant plans to start developing their own project on Optimism within 3 months, which violates rule 1 of the grant program rules."
 }

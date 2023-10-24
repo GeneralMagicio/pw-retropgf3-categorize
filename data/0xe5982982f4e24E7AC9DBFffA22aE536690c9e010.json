@@ -41,5 +41,7 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xe5982982f4e24E7AC9DBFffA22aE536690c9e010.json",
   "RPGF3_Application_UID": "0x648f4f2cf750cd47c38175efe7f8de556f29d9769ea5f7f88d75b656132dce45",
   "applicantAddress": "0xe5982982f4e24E7AC9DBFffA22aE536690c9e010",
-  "pwCategorySuggestions": "Layer 2 Scaling, NFTs, Blockchain Infrastructure"
+  "pwCategorySuggestions": "Layer 2 Scaling, NFTs, Blockchain Infrastructure",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "Flagged for promise of future impact - the application discusses speculative future outcomes such as lowering gas fees, which is against the rule of promising future deliverables or impact."
 }

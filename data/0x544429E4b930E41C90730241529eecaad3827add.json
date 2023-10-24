@@ -10,9 +10,7 @@
       "description": "0x"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "I wanna to be an Optimism supporter, and if i get some rewards from Oprimism, i will used for help my life. And u know life is short, The here and the now\nAnd you're only given one shot\nBut could there be more\nHave I lived before\nOr could this be all that we've got?",
   "impactMetrics": [
     {
@@ -44,6 +42,5 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged because the applicant has not demonstrated any real past contribution to the Web3/blockchain space as per the rules.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Community Building",
   "pwCategorySuggestions": "Developer Ecosystem"
 }

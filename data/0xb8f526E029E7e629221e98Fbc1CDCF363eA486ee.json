@@ -90,5 +90,7 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xb8f526E029E7e629221e98Fbc1CDCF363eA486ee.json",
   "RPGF3_Application_UID": "0x63f1bc4ab9034a6d4abe00be3027b8acc6f08863d50f65d90c33d4746a710b3f",
   "applicantAddress": "0xb8f526E029E7e629221e98Fbc1CDCF363eA486ee",
-  "pwCategorySuggestions": "Community Building, Media Production"
+  "pwCategorySuggestions": "Community Building, Media Production",
+  "pwCategory": "Content & Media",
+  "pwIsFlagged": false
 }

@@ -39,6 +39,5 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for spam due to irrelevant answers and unrelated impact metrics.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Community Building",
   "pwCategorySuggestions": "Community Building, Media Production, Cryptocurrency Services"
 }

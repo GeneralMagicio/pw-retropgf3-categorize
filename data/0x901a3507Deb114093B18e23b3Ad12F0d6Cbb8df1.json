@@ -99,6 +99,6 @@
   "applicantAddress": "0x901a3507Deb114093B18e23b3Ad12F0d6Cbb8df1",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Decentralized Finance (DeFi)",
-  "pwCategorySuggestions": "Decentralized Finance (DeFi), Layer 2 Scaling, NFT Aggregator"
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Layer 2 Scaling, NFT Aggregator",
+  "pwCategory": "Decentralized Exchanges (DEXs)"
 }

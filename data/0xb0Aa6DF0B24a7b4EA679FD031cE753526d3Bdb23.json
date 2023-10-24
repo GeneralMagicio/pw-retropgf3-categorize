@@ -10,10 +10,7 @@
       "description": "optimisim scan"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM",
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "I have tested many things with the transactions I made on the optimisim network. I also gave feedback. This allowed me to grow as a user. I also provided a good return to the ecosystem. I continue to follow for any new developments that may come. Optimism is the network I care most about right now.",
   "impactMetrics": [
     {
@@ -38,6 +35,5 @@
   "applicantAddress": "0xb0Aa6DF0B24a7b4EA679FD031cE753526d3Bdb23",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Layer 2 Scaling",
   "pwCategorySuggestions": "Layer 2 Scaling, Decentralized Finance (DeFi), Non-Fungible Tokens (NFTs)"
 }

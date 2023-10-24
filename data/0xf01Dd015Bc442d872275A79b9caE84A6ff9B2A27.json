@@ -61,5 +61,6 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xf01Dd015Bc442d872275A79b9caE84A6ff9B2A27.json",
   "RPGF3_Application_UID": "0x2d4cf89fc548e6aabef3f814851337d1469bee6dd5303568e25b90ccbdcf8f26",
   "applicantAddress": "0xf01Dd015Bc442d872275A79b9caE84A6ff9B2A27",
-  "pwCategorySuggestions": "Developer Ecosystem, Blockchain Infrastructure"
+  "pwCategorySuggestions": "Developer Ecosystem, Blockchain Infrastructure",
+  "pwIsFlagged": false
 }

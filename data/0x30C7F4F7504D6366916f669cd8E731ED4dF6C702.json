@@ -86,5 +86,6 @@
   "RPGF3_Application_UID": "0x4ffeea46e1e53b31809ad3fd0b14d837ed3780602fccee46659a0bf93a9e5ca0",
   "applicantAddress": "0x30C7F4F7504D6366916f669cd8E731ED4dF6C702",
   "pwIsFlagged": false,
-  "pwCategorySuggestions": "Community Building, User Experience & Adoption, Governance & Tokens"
+  "pwCategorySuggestions": "Community Building, User Experience & Adoption, Governance & Tokens",
+  "pwCategory": "Community & Social"
 }

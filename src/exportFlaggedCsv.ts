@@ -8,8 +8,9 @@ import pc from "picocolors";
 type FlaggedApplication = {
   project: string;
   applicantType: string;
-  payoutAddress: string;
   reason: string;
+  RPGF3_Application_UID: string;
+  applicantAddress: string;
 };
 
 export async function exportFlaggedCsv() {
@@ -29,8 +30,9 @@ export async function exportFlaggedCsv() {
       flaggedApplications.push({
         project: application.displayName,
         applicantType: application.applicantType,
-        payoutAddress: application.payoutAddress,
         reason: application.pwFlaggedReason,
+        RPGF3_Application_UID: application.RPGF3_Application_UID,
+        applicantAddress: application.applicantAddress,
       });
     }
   }

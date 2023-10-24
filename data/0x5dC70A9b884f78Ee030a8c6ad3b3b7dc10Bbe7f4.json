@@ -77,6 +77,6 @@
   "applicantAddress": "0x5dC70A9b884f78Ee030a8c6ad3b3b7dc10Bbe7f4",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Smart Contract Platforms",
-  "pwCategorySuggestions": "Tokenization Platforms, Web3 Community Platform, Decentralized Finance (DeFi)"
+  "pwCategorySuggestions": "Tokenization Platforms, Web3 Community Platform, Decentralized Finance (DeFi)",
+  "pwCategory": "Smart Contract Development Tools"
 }

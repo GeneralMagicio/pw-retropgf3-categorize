@@ -40,5 +40,7 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x3b5359709945587Af3d800aA174B3E2dDc92d38d.json",
   "RPGF3_Application_UID": "0xa571be4c06b5885440e5924d0c047ef911b6ebdcfa173e0c2c176570355a566a",
   "applicantAddress": "0x3b5359709945587Af3d800aA174B3E2dDc92d38d",
-  "pwCategorySuggestions": "Content Creation, Media Production, User Experience & Adoption"
+  "pwCategorySuggestions": "Content Creation, Media Production, User Experience & Adoption",
+  "pwCategory": "User Interface & Experience",
+  "pwIsFlagged": false
 }

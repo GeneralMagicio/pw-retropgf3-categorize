@@ -68,5 +68,6 @@
   "RPGF3_Application_UID": "0xde707568dc6837c063c98810d567e0367845f1536a8566e585bd6f335d760793",
   "applicantAddress": "0x1a1051c39652C0FF81A819DA4283871c3f076a3A",
   "pwIsFlagged": false,
-  "pwCategorySuggestions": "NFT Aggregator, Content Creation, Community Building"
+  "pwCategorySuggestions": "NFT Aggregator, Content Creation, Community Building",
+  "pwCategory": "NFT Marketplace"
 }

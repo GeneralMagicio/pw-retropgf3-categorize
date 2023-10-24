@@ -71,6 +71,6 @@
   "applicantAddress": "0xbC0E4F6BE06582e5737Aa8a26d3815aae2006bd6",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Blockchain Infrastructure",
-  "pwCategorySuggestions": "Decentralized Infrastructure, Blockchain Scalability, Blockchain Governance"
+  "pwCategorySuggestions": "Decentralized Infrastructure, Blockchain Scalability, Blockchain Governance",
+  "pwCategory": "Decentralized Infrastructure"
 }

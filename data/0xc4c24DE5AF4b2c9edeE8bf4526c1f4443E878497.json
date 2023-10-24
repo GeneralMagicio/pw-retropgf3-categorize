@@ -10,10 +10,7 @@
       "description": "None "
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION",
-    "OP_STACK"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION", "OP_STACK"],
   "impactDescription": "participating in governance & provide liquidity to OP network\nI spread the word about Optimism  through education & provide feedback to the developers\nwriting documentation, hosting events & to develop application or smart contracts to Optimism network ",
   "impactMetrics": [
     {
@@ -38,6 +35,5 @@
   "applicantAddress": "0xc4c24DE5AF4b2c9edeE8bf4526c1f4443E878497",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Education",
   "pwCategorySuggestions": "Developer Ecosystem, Education, Governance & Tokens"
 }

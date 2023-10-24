@@ -43,5 +43,7 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x97c4634ee3295B96F81B96Baaaf302fc69FDaC38.json",
   "RPGF3_Application_UID": "0xab582ba60be68a8dd19846bc7a46be66ff72fa87e1822dbdb1e74062f35d627b",
   "applicantAddress": "0x97c4634ee3295B96F81B96Baaaf302fc69FDaC38",
-  "pwCategorySuggestions": "Governance & Tokens, User Experience & Adoption, Decentralized Finance (DeFi)"
+  "pwCategorySuggestions": "Governance & Tokens, User Experience & Adoption, Decentralized Finance (DeFi)",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "The application should be flagged for Promises of future impact - the applicant mentions \"Hope to give active participation to the governance and bring more new useful participants\" which is a promise of a future deliverable."
 }

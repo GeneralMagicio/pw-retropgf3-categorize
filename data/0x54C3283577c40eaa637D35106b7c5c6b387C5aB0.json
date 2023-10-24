@@ -40,5 +40,7 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x54C3283577c40eaa637D35106b7c5c6b387C5aB0.json",
   "RPGF3_Application_UID": "0x11a1fd21c32b7ca4bdf10ddbc2adde1f92e539fba87406102a204793add83c45",
   "applicantAddress": "0x54C3283577c40eaa637D35106b7c5c6b387C5aB0",
-  "pwCategorySuggestions": "Decentralized Music Curation, NFT Aggregator, Web2 Onboarding"
+  "pwCategorySuggestions": "Decentralized Music Curation, NFT Aggregator, Web2 Onboarding",
+  "pwCategory": "Music NFTs",
+  "pwIsFlagged": false
 }

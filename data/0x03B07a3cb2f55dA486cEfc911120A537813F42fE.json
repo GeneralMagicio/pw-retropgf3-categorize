@@ -47,5 +47,6 @@
   "RPGF3_Application_UID": "0xe893bf41623c616cb372a2987e2cc4b7e82f5ad25249d22fc6d13de4a85dfe76",
   "applicantAddress": "0x03B07a3cb2f55dA486cEfc911120A537813F42fE",
   "pwIsFlagged": false,
-  "pwCategorySuggestions": "Decentralized Identity, Blockchain Education, Layer 2 Scaling"
+  "pwCategorySuggestions": "Decentralized Identity, Blockchain Education, Layer 2 Scaling",
+  "pwCategory": "Education & Learning"
 }

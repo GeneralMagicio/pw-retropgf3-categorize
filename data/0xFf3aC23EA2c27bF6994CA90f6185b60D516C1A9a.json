@@ -62,5 +62,7 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xFf3aC23EA2c27bF6994CA90f6185b60D516C1A9a.json",
   "RPGF3_Application_UID": "0x89b53a59649679cb236eebf535a54d7e1cec185f6910384f3043a76a5a47d489",
   "applicantAddress": "0xFf3aC23EA2c27bF6994CA90f6185b60D516C1A9a",
-  "pwCategorySuggestions": "Wallet Abstraction, Internet's own boy is what I am. DevRel at Ledger is what I do., Decentralized Finance (DeFi), NFT Aggregator, Smart Contract Platforms"
+  "pwCategorySuggestions": "Wallet Abstraction, Internet's own boy is what I am. DevRel at Ledger is what I do., Decentralized Finance (DeFi), NFT Aggregator, Smart Contract Platforms",
+  "pwCategory": "User Interface & Experience",
+  "pwIsFlagged": false
 }

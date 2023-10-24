@@ -34,5 +34,7 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xF90F42181EdF92D732De72B7aAA8419213CCc905.json",
   "RPGF3_Application_UID": "0xf6cf2826fa81814292a561d2afb19d71907bb005e75227534d48e16aa6ec9dc2",
   "applicantAddress": "0xF90F42181EdF92D732De72B7aAA8419213CCc905",
-  "pwCategorySuggestions": "Content Creation, Digital Identity, Cryptocurrency Services"
+  "pwCategorySuggestions": "Content Creation, Digital Identity, Cryptocurrency Services",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "The application should be flagged as it violates rule 11 as the application includes content that is not in English."
 }

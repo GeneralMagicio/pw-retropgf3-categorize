@@ -46,6 +46,6 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO. The applicant is described as the CEO of Cometh, which should make the applicantType \"INDIVIDUAL\", not \"PROJECT\".",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Blockchain Infrastructure",
-  "pwCategorySuggestions": "Layer 2 Scaling, Decentralized Autonomous Organizations (DAOs), Blockchain Infrastructure"
+  "pwCategorySuggestions": "Layer 2 Scaling, Decentralized Autonomous Organizations (DAOs), Blockchain Infrastructure",
+  "pwCategory": "Decentralized Infrastructure"
 }

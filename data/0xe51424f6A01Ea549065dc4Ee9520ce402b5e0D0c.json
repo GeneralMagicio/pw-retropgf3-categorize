@@ -10,9 +10,7 @@
       "description": "Word of mouth and in communities"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "New users joined because of me telling them about it. Also, I participated in votes that helped the network. Next to that I believe that I sparked the interest of many individuals to come to Optimism. Even tho I am a student with little added value, I believe that I have had a small but great impact :)",
   "impactMetrics": [
     {
@@ -37,6 +35,5 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged because it violates rule 10 as the applicant's contributions of spreading the word and voting are not quantifiable or verifiable, and do not fall into the scope of the RetroPGF3 grants program.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Community Building",
   "pwCategorySuggestions": "Web3 Community Platform, User Experience & Adoption, Governance & Tokens"
 }

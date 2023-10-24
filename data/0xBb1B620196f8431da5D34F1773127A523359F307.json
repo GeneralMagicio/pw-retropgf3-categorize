@@ -10,9 +10,7 @@
       "description": "article"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "A blockchain-based research article can inspire other scholars to publish on this platform due to its innovative nature and potential to leverage new technology for academic contributions. This can attract more followers of technology and science, fostering a collaborative and forward-thinking academic environment",
   "impactMetrics": [
     {
@@ -43,6 +41,5 @@
   "applicantAddress": "0xBb1B620196f8431da5D34F1773127A523359F307",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Education",
   "pwCategorySuggestions": "Blockchain Infrastructure, Governance & Tokens, Blockchain Education"
 }

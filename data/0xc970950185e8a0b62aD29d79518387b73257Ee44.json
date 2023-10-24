@@ -10,14 +10,12 @@
       "description": "Exch"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM"],
   "impactDescription": "You should expect to sign the following message when prompted by a non-custodial wallet such as MetaMask:\n```\nasks you to sign this message for the purpose of verifying your account ownership. This is READ-ONLY access and will NOT trigger any blockchain transactions or incur any fees.\n\n\n- \n```\n**Make sure you sign the EXACT message (some wallets may use `\\n` for new lines) and NEVER share your seed phrase or private key.**",
   "impactMetrics": [
     {
       "description": "1",
-      "number": 4.2e+39,
+      "number": 4.2e39,
       "url": "https://discord.com/invite/YsnTPcSfWQ"
     }
   ],
@@ -45,6 +43,5 @@
   "pwRecategorizeToType": "PROJECT",
   "pwRecategorizeReason": "NO, this application seems to belong to a PROJECT since there is no reference to \"I\" or \"me\" and the details provided seem to pertain to a product or service rather than an individual's contributions.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "End User Experience and Adoption",
   "pwCategorySuggestions": "Blockchain Infrastructure, User Experience & Adoption, Wallet Management"
 }

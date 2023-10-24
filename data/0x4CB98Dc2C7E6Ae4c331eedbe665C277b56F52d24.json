@@ -42,5 +42,6 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x4CB98Dc2C7E6Ae4c331eedbe665C277b56F52d24.json",
   "RPGF3_Application_UID": "0xe59ad3f6ba608ac179680bdc2537cc1f43ff54adb216189236cf1db426fcef5f",
   "applicantAddress": "0x4CB98Dc2C7E6Ae4c331eedbe665C277b56F52d24",
-  "pwCategorySuggestions": "Governance & Tokens, Blockchain Infrastructure, Smart Contract Platforms"
+  "pwCategorySuggestions": "Governance & Tokens, Blockchain Infrastructure, Smart Contract Platforms",
+  "pwIsFlagged": false
 }

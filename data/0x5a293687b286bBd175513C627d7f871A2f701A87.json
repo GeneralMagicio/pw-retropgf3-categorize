@@ -62,5 +62,7 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x5a293687b286bBd175513C627d7f871A2f701A87.json",
   "RPGF3_Application_UID": "0xd34b4f953913284fa62737fcec2439fd6b192149023f6dbd6f3a91f5b716d295",
   "applicantAddress": "0x5a293687b286bBd175513C627d7f871A2f701A87",
-  "pwCategorySuggestions": "Decentralized Identity"
+  "pwCategorySuggestions": "Decentralized Identity",
+  "pwCategory": "Identity & Security",
+  "pwIsFlagged": false
 }

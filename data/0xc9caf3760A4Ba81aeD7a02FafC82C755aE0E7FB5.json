@@ -10,9 +10,7 @@
       "description": "0xc9caf3760A4Ba81aeD7a02FafC82C755aE0E7FB5"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "I often use OP network for various projects as a user.\nwhere Blockchain users come from all walks of life and from all over the world. They are united by their passion for blockchain technology and its potential to create a more secure, transparent and efficient world.",
   "impactMetrics": [
     {
@@ -45,6 +43,5 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for violating the Grant program rule 10. The applicant's contribution to the Web3/blockchain space is just using the technology and not specifically working on any projects that have a clear relationship to Optimism.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Community Building",
   "pwCategorySuggestions": "Community Building, User Experience & Adoption, Blockchain Education"
 }

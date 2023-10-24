@@ -15,10 +15,7 @@
       "description": "My Avatar"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION",
-    "OP_STACK"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION", "OP_STACK"],
   "impactDescription": "I'm relatively new to the crypto scene, so I'm not a seasoned pro. Nonetheless, my contributions to Optimism have positively impacted the end user experience and adoption within the Collective. I've focused on making the platform more user-friendly and accessible, particularly for individuals like myself on the autism spectrum.In addition, my efforts in building a welcoming community have helped introduce newcomers to the Optimism Collective. By creating an inclusive environment, I've contributed to expanding the user base and making Optimism more inviting to a wider audience.In summary, while I may not be a crypto expert, my work has made a difference in improving the user experience and bringing new users into the fold at Optimism.",
   "impactMetrics": [
     {
@@ -56,6 +53,5 @@
   "applicantAddress": "0xaDbc604e3d03e9a1Cc42Bc6Bd6055cAB15304dA2",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Community Building",
   "pwCategorySuggestions": "Community Building, User Experience & Adoption, Decentralized Identity"
 }

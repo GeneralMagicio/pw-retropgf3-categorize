@@ -37,5 +37,7 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xa31B444F2CFd111d16D61335247E66Bc491c9039.json",
   "RPGF3_Application_UID": "0xdaf131f87f517fb7d743ef82124aaa0f857a51b715204d4538e2dd69e38090e2",
   "applicantAddress": "0xa31B444F2CFd111d16D61335247E66Bc491c9039",
-  "pwCategorySuggestions": "Community Building, User Experience & Adoption, Education"
+  "pwCategorySuggestions": "Community Building, User Experience & Adoption, Education",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "The application should be flagged for violating rule 2 (false statements & deception) and rule 11 (spam). The statements made regarding the impact of the project are vague and the application contains a lot of irrelevant and repeated characters."
 }

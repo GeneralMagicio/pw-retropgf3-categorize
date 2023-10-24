@@ -10,9 +10,7 @@
       "description": "My public where i talk about Optimism"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Inviting new users first of all and also spreading and reminding old users, OP is my favourite L2 so i am very bullish. In our world we need always remind and reward users, thats why i do my job as i can. It will be very helpfull if you review this application.",
   "impactMetrics": [
     {
@@ -44,6 +42,5 @@
   "applicantAddress": "0xF72131e357295dDBED1C478096Bb81D90eFf0c19",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Community Building",
   "pwCategorySuggestions": "Community Building, User Experience & Adoption, Web3 Community Platform"
 }

@@ -41,5 +41,7 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x9ce0Dc49DF0AB26690748E90A6F2C2AD9cEc5fad.json",
   "RPGF3_Application_UID": "0x113cb27f3f40c5aba75bc13544e7df4ab9e43b921069f46a4ec9abb7a398b83c",
   "applicantAddress": "0x9ce0Dc49DF0AB26690748E90A6F2C2AD9cEc5fad",
-  "pwCategorySuggestions": "Web3 Community Platform, Research and Analytics, Developer Ecosystem"
+  "pwCategorySuggestions": "Web3 Community Platform, Research and Analytics, Developer Ecosystem",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "Flag the application for the violation of rule 2 (False statements & deception) and rule 10 (Outside of RetroPGF's scope). The applicant did not provide specific details or proof about their alleged work for Optimism and their contribution seems vague and out of scope."
 }

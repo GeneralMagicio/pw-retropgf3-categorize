@@ -10,9 +10,7 @@
       "description": "Proses"
     }
   ],
-  "impactCategory": [
-    "COLLECTIVE_GOVERNANCE"
-  ],
+  "impactCategory": ["COLLECTIVE_GOVERNANCE"],
   "impactDescription": "Good project\nI hope this project is a success and then it becomes one of the best cryptos, go to the moon. Good project\nI hope this project is a success and then it becomes one of the best cryptos, go to the moon. Good project\nI hope this project is a success and then it becomes one of the best cryptos, go to the moon",
   "impactMetrics": [
     {
@@ -38,6 +36,5 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for promising future impact which is a violation of the first rule in the grant program.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Community Building",
   "pwCategorySuggestions": "Content Creation, Community Building, User Experience & Adoption"
 }

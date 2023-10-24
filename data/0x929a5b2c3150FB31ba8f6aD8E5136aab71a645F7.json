@@ -10,9 +10,7 @@
       "description": "1"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "i am optimism user\nllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll                                                             ",
   "impactMetrics": [
     {
@@ -37,6 +35,5 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for promising future impact, which is against the grant program rules.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "End User Experience and Adoption",
   "pwCategorySuggestions": "Decentralized Finance (DeFi), User Experience & Adoption, Layer 2 Scaling"
 }

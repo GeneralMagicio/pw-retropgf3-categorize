@@ -34,5 +34,6 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xE642EEEa1C42e6976fa55b69Fd1dDe2135f5Db47.json",
   "RPGF3_Application_UID": "0x0d84f696bfbf26a02f03f11929f3ad4bdab5c3331ad357eadc67981b310a6bea",
   "applicantAddress": "0xE642EEEa1C42e6976fa55b69Fd1dDe2135f5Db47",
-  "pwCategorySuggestions": "Smart Contract Platforms, Decentralized Exchanges (DEXs), Developer Ecosystem"
+  "pwCategorySuggestions": "Smart Contract Platforms, Decentralized Exchanges (DEXs), Developer Ecosystem",
+  "pwIsFlagged": false
 }

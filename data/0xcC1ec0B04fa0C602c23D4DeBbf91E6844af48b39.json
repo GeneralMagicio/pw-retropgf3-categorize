@@ -10,9 +10,7 @@
       "description": "i will keep working on this and deploy on optimism, and add more features"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM"],
   "impactDescription": "I will build a dapp for the optimism ecosystem, and build some nfts project, that's been my dream for a long time. because I have been following the optimism ecosystem for a long time so I want to explore and be part of optimism, i belive i can give more color to optimism.",
   "impactMetrics": [
     {
@@ -44,6 +42,5 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for promising future deliverables or impact, which violates Rule 1 of the grant program rules.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Developer Ecosystem",
   "pwCategorySuggestions": "Smart Contract Platforms, Decentralized Finance (DeFi), NFTs"
 }

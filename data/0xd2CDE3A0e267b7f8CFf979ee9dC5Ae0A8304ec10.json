@@ -45,6 +45,5 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for promising future impact, which is against the grant program rules.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Developer Ecosystem",
   "pwCategorySuggestions": "Tokenization Platforms, Trading Tools, Smart Contract Platforms"
 }

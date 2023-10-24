@@ -55,5 +55,6 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x7c2B924fF6aBC40F1A30dD3308288AF7d488daB4.json",
   "RPGF3_Application_UID": "0x123a83961b48d9f41fe69ac459960ef6dde7bffb4ceb4ecd0c948b31c8b7f30a",
   "applicantAddress": "0x7c2B924fF6aBC40F1A30dD3308288AF7d488daB4",
-  "pwCategorySuggestions": "Content Creation, Layer 2 Scaling, Blockchain Education"
+  "pwCategorySuggestions": "Content Creation, Layer 2 Scaling, Blockchain Education",
+  "pwIsFlagged": false
 }

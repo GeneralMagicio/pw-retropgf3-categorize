@@ -51,5 +51,6 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x752970b03B3DC1312B5ea01d7Cf412201d1D3701.json",
   "RPGF3_Application_UID": "0xf8fd8ba6da749f1dffb9631c27b486caa6923fdd942d22d326186bd2ac9129a7",
   "applicantAddress": "0x752970b03B3DC1312B5ea01d7Cf412201d1D3701",
-  "pwCategorySuggestions": "Tokenization Platforms, Blockchain Infrastructure, Decentralized Finance (DeFi)"
+  "pwCategorySuggestions": "Tokenization Platforms, Blockchain Infrastructure, Decentralized Finance (DeFi)",
+  "pwIsFlagged": false
 }

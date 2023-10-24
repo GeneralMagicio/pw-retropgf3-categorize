@@ -38,6 +38,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for spam as the descriptions and impact metrics provided are repetitive and do not accurately detail the project's contribution to the Web3/blockchain space.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Blockchain Infrastructure",
-  "pwCategorySuggestions": "Decentralized Identity, User Experience & Adoption, Developer Ecosystem"
+  "pwCategorySuggestions": "Decentralized Identity, User Experience & Adoption, Developer Ecosystem",
+  "pwCategory": "Developer Tools"
 }

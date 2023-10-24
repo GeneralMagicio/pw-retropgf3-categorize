@@ -10,9 +10,7 @@
       "description": "this is my transactions"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "if i try the fiture, we can looking for the bug, and give a feedback for optimism.\nand i think it will be good for the future of optimism project.\nand not only that, i am also part of optimism.\ni have a little bit of token optimism.\nand that is what keeps market prices stable",
   "impactMetrics": [
     {
@@ -43,6 +41,5 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for violating rule 10. The applicant's contribution is defined as participating in transactions, which is explicitly noted as not being in scope to be rewarded in RetroPGF 3.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "End User Experience and Adoption",
   "pwCategorySuggestions": "Smart Contract Platforms, Tokenization Platforms, Decentralized Finance (DeFi)"
 }

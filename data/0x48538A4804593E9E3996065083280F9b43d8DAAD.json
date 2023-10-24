@@ -38,5 +38,8 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x48538A4804593E9E3996065083280F9b43d8DAAD.json",
   "RPGF3_Application_UID": "0xbbc0e9a4f0b77045483b4f03a51c9ba6de6317ba051eb0690bce96bcf08c04c4",
   "applicantAddress": "0x48538A4804593E9E3996065083280F9b43d8DAAD",
-  "pwCategorySuggestions": "Layer 2 Scaling, Smart Contract Platforms, Developer Ecosystem"
+  "pwCategorySuggestions": "Layer 2 Scaling, Smart Contract Platforms, Developer Ecosystem",
+  "pwCategory": "Developer Tools",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "Flagged: The application contains ambiguous descriptions about the contributions to the Optimism ecosystem and impact on it, thus potentially violating the rule against false statements & deception."
 }

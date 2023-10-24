@@ -125,5 +125,7 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xE084ce2385eb56C42b65dA5d5B1205c3d4aD5d58.json",
   "RPGF3_Application_UID": "0xa1b12a1d4c48cbadb8b289144ef65fa5570ccd6e62e076c91f8009f5175fa0ba",
   "applicantAddress": "0xE084ce2385eb56C42b65dA5d5B1205c3d4aD5d58",
-  "pwCategorySuggestions": "Blockchain Education, User Experience & Adoption, Decentralized Finance (DeFi)"
+  "pwCategorySuggestions": "Blockchain Education, User Experience & Adoption, Decentralized Finance (DeFi)",
+  "pwCategory": "Education & Learning",
+  "pwIsFlagged": false
 }

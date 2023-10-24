@@ -38,5 +38,8 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xE1FfB51E40390B702501110127C7FAA0278B899a.json",
   "RPGF3_Application_UID": "0xc8c3247015eac3e725344098d4fb05e9ec1ef6d0534f1763c4ac01be70fbfebf",
   "applicantAddress": "0xE1FfB51E40390B702501110127C7FAA0278B899a",
-  "pwCategorySuggestions": "Developer Ecosystem, Web3 Community Platform, Cryptocurrency Services"
+  "pwCategorySuggestions": "Developer Ecosystem, Web3 Community Platform, Cryptocurrency Services",
+  "pwCategory": "Developer Tools",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "This application should be flagged because the impact description is not in English, violating rule 11."
 }

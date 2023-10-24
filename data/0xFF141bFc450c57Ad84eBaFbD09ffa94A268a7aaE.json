@@ -20,9 +20,7 @@
       "description": "Opti Maze is an inventive maze crafted in honor of Optimism on OPcraft"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "\nMy contributions, notably through the 'KZG Marble Machine', 'Opti Maze', and 'Onchain Illusion', have visually encapsulated pivotal blockchain moments, fostering a deeper appreciation for the technology among the Optimism Collective. By blending the physical with the digital, my creations have offered a tangible narrative, enriching the community's engagement with Optimism's progressive journey, and highlighting the boundless creative potential within the blockchain domain. I distribute all 3D printing files and my programs as open source.",
   "impactMetrics": [
     {
@@ -76,6 +74,5 @@
   "applicantAddress": "0xFF141bFc450c57Ad84eBaFbD09ffa94A268a7aaE",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Non-Fungible Tokens (NFTs)",
   "pwCategorySuggestions": "NFT Aggregator"
 }

@@ -57,5 +57,6 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x6F7990bB203154bF15C45C6ba23E64a05cFcD98B.json",
   "RPGF3_Application_UID": "0x758d963378c9b6a449946add55fdd1847b48a80559b3147577f103e84a5b9b2e",
   "applicantAddress": "0x6F7990bB203154bF15C45C6ba23E64a05cFcD98B",
-  "pwCategorySuggestions": "NFT Aggregator, Music NFTs"
+  "pwCategorySuggestions": "NFT Aggregator, Music NFTs",
+  "pwIsFlagged": false
 }

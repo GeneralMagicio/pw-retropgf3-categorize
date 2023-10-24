@@ -97,5 +97,6 @@
   "RPGF3_Application_UID": "0xfdb49a44b3f75ed85a6f61f4c5a36a358ef8712b9b151050aedf65d4c2abae91",
   "applicantAddress": "0x12dC5fF4AB146D9f70e50bd5f9854114a115e6c9",
   "pwIsFlagged": false,
-  "pwCategorySuggestions": "Decentralized Identity, End-User Experience, Blockchain Infrastructure"
+  "pwCategorySuggestions": "Decentralized Identity, End-User Experience, Blockchain Infrastructure",
+  "pwCategory": "User Interface & Experience"
 }

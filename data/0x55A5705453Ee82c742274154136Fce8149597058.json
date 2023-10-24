@@ -53,5 +53,6 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x55A5705453Ee82c742274154136Fce8149597058.json",
   "RPGF3_Application_UID": "0x3727b8b832160ab09131eef46c631d299a0e485a8e2b3eebc14e58da8683455a",
   "applicantAddress": "0x55A5705453Ee82c742274154136Fce8149597058",
-  "pwCategorySuggestions": "Content Creation, Community Building, Blockchain Education"
+  "pwCategorySuggestions": "Content Creation, Community Building, Blockchain Education",
+  "pwIsFlagged": false
 }

@@ -15,10 +15,7 @@
       "description": "0x1Acf291daFc2B47914aAA9F85667c3808c3Fad96"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM",
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "i use optimism every time, i like this ecosystem. close to be feesless. quick transaction. the value of the coin still to be undervaluated. i like the decentralisation, the security from this network .... possible to have a great future if the network get a great popularity",
   "impactMetrics": [
     {
@@ -50,6 +47,5 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "Flagged: The application does not provide a clear description of legitimate, specific contributions made to the Optimism network beyond stating usage of the network, which is not in scope for rewards as per RetroPGF rules.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Layer 2 Scaling",
   "pwCategorySuggestions": "Layer 2 Scaling, Decentralized Finance (DeFi), Tokenization Platforms"
 }

@@ -35,5 +35,7 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xc6126583928F0D0D4243d71B2F670A02E181f5a4.json",
   "RPGF3_Application_UID": "0xb4fddd3ee5c323c8b8971554d8c3c93ef80dac105f458389b0934d231b7bc70d",
   "applicantAddress": "0xc6126583928F0D0D4243d71B2F670A02E181f5a4",
-  "pwCategorySuggestions": "Community Building, User Experience & Adoption, Governance & Tokens"
+  "pwCategorySuggestions": "Community Building, User Experience & Adoption, Governance & Tokens",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "The application should be flagged for promising future impact which is not allowed according to the rules."
 }

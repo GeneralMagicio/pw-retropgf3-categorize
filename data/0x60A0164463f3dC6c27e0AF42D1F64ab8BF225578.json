@@ -81,5 +81,7 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x60A0164463f3dC6c27e0AF42D1F64ab8BF225578.json",
   "RPGF3_Application_UID": "0xca68da6f8e6ac0f2c83fccf8b0d7714370ba4b846c4e73761557a484258ec19c",
   "applicantAddress": "0x60A0164463f3dC6c27e0AF42D1F64ab8BF225578",
-  "pwCategorySuggestions": "Decentralized Finance (DeFi), Smart Contract Platforms, Cross-Chain Platforms"
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Smart Contract Platforms, Cross-Chain Platforms",
+  "pwCategory": "Cross-Chain & Interoperability",
+  "pwIsFlagged": false
 }

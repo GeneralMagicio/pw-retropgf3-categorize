@@ -20,9 +20,7 @@
       "description": "base nft 2"
     }
   ],
-  "impactCategory": [
-    "OP_STACK"
-  ],
+  "impactCategory": ["OP_STACK"],
   "impactDescription": "Just some user activities in the ecosystem, that not a big application with a lot of users. sorry if I wasted you time :)                                \n                                                                                                                                    ",
   "impactMetrics": [
     {
@@ -55,6 +53,5 @@
   "applicantAddress": "0x2300f68064BfaafA381cd36f2695CDfEAAc09231",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Smart Contract Platforms",
   "pwCategorySuggestions": "Smart Contract Platforms, NFT Aggregator, Layer 2 Scaling"
 }

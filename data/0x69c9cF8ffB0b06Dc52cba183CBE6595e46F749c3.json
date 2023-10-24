@@ -48,5 +48,7 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x69c9cF8ffB0b06Dc52cba183CBE6595e46F749c3.json",
   "RPGF3_Application_UID": "0x89b790f7b5b9f9aa4949adae532ad45c3135380a9709f47fa0fadc8a09e76b62",
   "applicantAddress": "0x69c9cF8ffB0b06Dc52cba183CBE6595e46F749c3",
-  "pwCategorySuggestions": "Governance & Tokens, User Experience & Adoption, Developer Ecosystem"
+  "pwCategorySuggestions": "Governance & Tokens, User Experience & Adoption, Developer Ecosystem",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "The application should be flagged because it violates the application rule which bars the usage of languages other than English."
 }

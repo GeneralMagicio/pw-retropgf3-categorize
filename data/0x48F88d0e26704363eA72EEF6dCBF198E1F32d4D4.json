@@ -40,6 +40,5 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for being in a language other than English.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Community Building",
   "pwCategorySuggestions": "Community Building, Content Creation, User Experience & Adoption"
 }

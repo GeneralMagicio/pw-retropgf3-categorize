@@ -53,6 +53,5 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "Flag the application. The impact described is too general and contains promises of future impact which are against the grant program rules.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Layer 2 Scaling",
   "pwCategorySuggestions": "Decentralized Finance (DeFi), NFT Aggregator, Layer 2 Scaling"
 }

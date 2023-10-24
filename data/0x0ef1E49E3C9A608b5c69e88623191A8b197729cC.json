@@ -81,5 +81,6 @@
   "RPGF3_Application_UID": "0xd2de2774bd9ffe36fdcab675bd37e2193f18a087253b0859ddfd1966e103c52a",
   "applicantAddress": "0x0ef1E49E3C9A608b5c69e88623191A8b197729cC",
   "pwIsFlagged": false,
-  "pwCategorySuggestions": "Web3 Analytics, Layer 2 Scaling, Community Building"
+  "pwCategorySuggestions": "Web3 Analytics, Layer 2 Scaling, Community Building",
+  "pwCategory": "Data Analytics"
 }

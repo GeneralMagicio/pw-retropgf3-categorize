@@ -60,6 +60,6 @@
   "applicantAddress": "0x9fe6764778db6AD5c5ED86242485d1a868a8c52A",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Decentralized Finance (DeFi)",
-  "pwCategorySuggestions": "Decentralized Finance (DeFi), Smart Contract Platforms, Web3 Community Platform"
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Smart Contract Platforms, Web3 Community Platform",
+  "pwCategory": "Finance & DeFi"
 }

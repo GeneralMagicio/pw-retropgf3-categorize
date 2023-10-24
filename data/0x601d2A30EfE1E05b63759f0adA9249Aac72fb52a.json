@@ -43,5 +43,7 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x601d2A30EfE1E05b63759f0adA9249Aac72fb52a.json",
   "RPGF3_Application_UID": "0x9a5b53bb6fc3e52712c81f1d1c119755070532656ab038ea86ada86a6072ff1a",
   "applicantAddress": "0x601d2A30EfE1E05b63759f0adA9249Aac72fb52a",
-  "pwCategorySuggestions": "Blockchain Infrastructure"
+  "pwCategorySuggestions": "Blockchain Infrastructure",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "Flag the application due to a clear violation of rule 1 - \"Promises of future impact\" as the applicant expresses hope that the project will grow in future and containing statements about the future price of the project."
 }

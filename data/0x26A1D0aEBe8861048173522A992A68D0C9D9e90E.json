@@ -46,5 +46,6 @@
   "applicantAddress": "0x26A1D0aEBe8861048173522A992A68D0C9D9e90E",
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged because it violates the rule about spam as the application contains that is not in English.",
-  "pwCategorySuggestions": "Community Building, Content Creation"
+  "pwCategorySuggestions": "Community Building, Content Creation",
+  "pwCategory": "Community & Social"
 }

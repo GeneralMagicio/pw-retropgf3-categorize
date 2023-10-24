@@ -10,9 +10,7 @@
       "description": "ok"
     }
   ],
-  "impactCategory": [
-    "COLLECTIVE_GOVERNANCE"
-  ],
+  "impactCategory": ["COLLECTIVE_GOVERNANCE"],
   "impactDescription": "One of the things I love about it is that it's great with the clock and it brings back experiences that let us experience how many hours of electrons there are, it's one of the things I like the most.The project brings people's trust it works great ,bring interesting experiences to everyone",
   "impactMetrics": [
     {
@@ -44,6 +42,5 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for violating rules number 2 and 10. This application contains false or misleading information about the applicant's contributions to the blockchain space, and does not have a clear relationship to Optimism.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Community Building",
   "pwCategorySuggestions": "User Experience & Adoption, Community Building, Trust"
 }

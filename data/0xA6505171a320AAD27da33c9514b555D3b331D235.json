@@ -100,6 +100,6 @@
   "applicantAddress": "0xA6505171a320AAD27da33c9514b555D3b331D235",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Developer Ecosystem",
-  "pwCategorySuggestions": "Blockchain Infrastructure, Developer Tools"
+  "pwCategorySuggestions": "Blockchain Infrastructure, Developer Tools",
+  "pwCategory": "Developer Tools"
 }

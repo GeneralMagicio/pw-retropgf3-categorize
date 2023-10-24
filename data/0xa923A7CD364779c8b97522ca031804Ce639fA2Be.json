@@ -83,5 +83,7 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xa923A7CD364779c8b97522ca031804Ce639fA2Be.json",
   "RPGF3_Application_UID": "0x50421bd9176952237de8ac2f8898c1cd6217b8295596773c656dee03ef5d7aa7",
   "applicantAddress": "0xa923A7CD364779c8b97522ca031804Ce639fA2Be",
-  "pwCategorySuggestions": "Smart Contract Platforms, Tokenization Platforms, Web3 Community Platform"
+  "pwCategorySuggestions": "Smart Contract Platforms, Tokenization Platforms, Web3 Community Platform",
+  "pwCategory": "Developer Tools",
+  "pwIsFlagged": false
 }

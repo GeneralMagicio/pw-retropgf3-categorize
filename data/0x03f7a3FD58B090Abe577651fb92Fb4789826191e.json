@@ -69,5 +69,6 @@
   "RPGF3_Application_UID": "0x3b9f8c24da4058057f2f4d10a8ee7f3f6625529a38ffc4cd2ba1f1a8772bbb88",
   "applicantAddress": "0x03f7a3FD58B090Abe577651fb92Fb4789826191e",
   "pwIsFlagged": false,
-  "pwCategorySuggestions": "Tokenization Platforms, Smart Contract Platforms, Governance Tokens"
+  "pwCategorySuggestions": "Tokenization Platforms, Smart Contract Platforms, Governance Tokens",
+  "pwCategory": "Decentralized Governance"
 }

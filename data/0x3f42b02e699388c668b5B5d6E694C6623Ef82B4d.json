@@ -51,6 +51,6 @@
   "applicantAddress": "0x3f42b02e699388c668b5B5d6E694C6623Ef82B4d",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Decentralized Finance (DeFi)",
-  "pwCategorySuggestions": "Decentralized Finance (DeFi), Lending Protocol, Collateral Optimization"
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Lending Protocol, Collateral Optimization",
+  "pwCategory": "Finance & DeFi"
 }

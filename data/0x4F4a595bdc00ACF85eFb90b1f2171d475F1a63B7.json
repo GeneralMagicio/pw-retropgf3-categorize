@@ -54,6 +54,6 @@
   "applicantAddress": "0x4F4a595bdc00ACF85eFb90b1f2171d475F1a63B7",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "NFT Aggregator",
-  "pwCategorySuggestions": "NFT Marketplace, Decentralized Finance (DeFi), Web3 Community Platform"
+  "pwCategorySuggestions": "NFT Marketplace, Decentralized Finance (DeFi), Web3 Community Platform",
+  "pwCategory": "NFT Marketplace"
 }

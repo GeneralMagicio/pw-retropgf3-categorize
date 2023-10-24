@@ -41,5 +41,7 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x7321f286Ed34dc4780291A3532c178c49655B3e8.json",
   "RPGF3_Application_UID": "0xf8caafe8d323f74b645be1d554e4953987839de28d4a3d3fc333cf8ecf6194e7",
   "applicantAddress": "0x7321f286Ed34dc4780291A3532c178c49655B3e8",
-  "pwCategorySuggestions": "Layer 2 Scaling, End-User Experience, Governance & Tokens"
+  "pwCategorySuggestions": "Layer 2 Scaling, End-User Experience, Governance & Tokens",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "The application should be flagged for being outside of RetroPGF's scope. The applicant only states they use and stake tokens on the network but does not showcase a tangible contribution requiring a minimum time commitment of 1 hour."
 }

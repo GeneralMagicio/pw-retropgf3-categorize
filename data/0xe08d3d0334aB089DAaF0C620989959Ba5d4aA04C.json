@@ -39,6 +39,6 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, it is not correctly categorized, the application should be categorized under \"INDIVIDUAL\" as the applicant mentioned \"I am working alone on my website\".",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Blockchain Infrastructure",
-  "pwCategorySuggestions": "Layer 2 Scaling, Web3 Community Platform, User Experience & Adoption"
+  "pwCategorySuggestions": "Layer 2 Scaling, Web3 Community Platform, User Experience & Adoption",
+  "pwCategory": "Data Analytics"
 }

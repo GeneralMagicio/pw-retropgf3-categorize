@@ -159,5 +159,6 @@
   "RPGF3_Application_UID": "0x6edbaf833fdee6fb7ae4411e30ac9da8ee22af2c2aea303adbeaf5de80937d6f",
   "applicantAddress": "0x33359285F30E7B3386dE70ca500F4fe27853765B",
   "pwIsFlagged": false,
-  "pwCategorySuggestions": "Decentralized Identity, Privacy, Blockchain Infrastructure"
+  "pwCategorySuggestions": "Decentralized Identity, Privacy, Blockchain Infrastructure",
+  "pwCategory": "Digital Identity"
 }

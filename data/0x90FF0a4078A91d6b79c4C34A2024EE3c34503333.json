@@ -34,5 +34,8 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x90FF0a4078A91d6b79c4C34A2024EE3c34503333.json",
   "RPGF3_Application_UID": "0xb42650e6d0d01b2fb151765612c4219dbd50bf25739d043a6abe57d2983670e6",
   "applicantAddress": "0x90FF0a4078A91d6b79c4C34A2024EE3c34503333",
-  "pwCategorySuggestions": "Content Creation, Blockchain Education, User Experience & Adoption"
+  "pwCategorySuggestions": "Content Creation, Blockchain Education, User Experience & Adoption",
+  "pwCategory": "Education & Learning",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "The application should be flagged because it violates the rule of only submitting applications in English."
 }

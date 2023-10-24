@@ -10,9 +10,7 @@
       "description": "zkmini is unique NFTs build on optimism."
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": " i'm start with NFTs that i made using optimism, i hope this NFT will make some impact, so i can build another good project, there is some idea in my head need to be implement.\nso with this retroGPF will  bring help and encourage user like me to contribute to optimism community.\nzkmini is unique NFTs build on optimism, next upgrade for this project is stake to earn with zkmine token build on optimism. Also adding more NFTs to community, 30 NFTs is early step.\n\nBest Regard",
   "impactMetrics": [
     {
@@ -45,6 +43,5 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for promising future impact and deliverables which is against the rule 1 of the grant program. The applicant says \"I hope this NFT will make some impact\" indicating future impact and also mentions \"next upgrade for this project is stake to earn with zkmine token,\" which is an unfulfilled promise of future deliverables.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Non-Fungible Tokens (NFTs)",
   "pwCategorySuggestions": "NFT Aggregator, Community Building, Tokenization Platforms"
 }

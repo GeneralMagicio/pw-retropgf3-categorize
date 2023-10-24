@@ -25,9 +25,7 @@
       "description": "Mint NFT , Bridge NFT OP to other chain, Deploy"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "My community knows how to interact with the OP chain, such as Bridge, Deploy, and interactions in the OP chain, They know how to use the platform, and the community really warmly welcomes the OP network, they want to know about new innovations from the OP chain, such as NFT MarketPlace, Gamified OP support, and etc",
   "impactMetrics": [
     {
@@ -64,6 +62,5 @@
   "applicantAddress": "0xD06effe40d754DDea09F16B703E8126f2bD3982E",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Community Building",
   "pwCategorySuggestions": "Layer 2 Scaling, NFT Aggregator, Blockchain Education"
 }

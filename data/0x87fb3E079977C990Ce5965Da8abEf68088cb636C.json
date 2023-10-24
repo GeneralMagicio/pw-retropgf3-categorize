@@ -37,5 +37,8 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x87fb3E079977C990Ce5965Da8abEf68088cb636C.json",
   "RPGF3_Application_UID": "0x9bd718a252ab0ff8ba4ca095a31dcbeba1063523306b5f57f9f6ba681ab7c70e",
   "applicantAddress": "0x87fb3E079977C990Ce5965Da8abEf68088cb636C",
-  "pwCategorySuggestions": "Community Building, User Experience & Adoption, Governance & Tokens"
+  "pwCategorySuggestions": "Community Building, User Experience & Adoption, Governance & Tokens",
+  "pwCategory": "Community & Social",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "Flag the application for promising future impact/deliverables which is against Rule 1. The applicant talks about a rapidly growing community and potential for the project but does not provide any evidence of past or current impact."
 }

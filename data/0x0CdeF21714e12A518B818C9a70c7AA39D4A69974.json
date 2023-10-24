@@ -48,6 +48,6 @@
   "applicantAddress": "0x0CdeF21714e12A518B818C9a70c7AA39D4A69974",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Blockchain Infrastructure",
-  "pwCategorySuggestions": "Layer 2 Scaling, Blockchain Infrastructure, Decentralized Finance (DeFi)"
+  "pwCategorySuggestions": "Layer 2 Scaling, Blockchain Infrastructure, Decentralized Finance (DeFi)",
+  "pwCategory": "Cross-Chain & Interoperability"
 }

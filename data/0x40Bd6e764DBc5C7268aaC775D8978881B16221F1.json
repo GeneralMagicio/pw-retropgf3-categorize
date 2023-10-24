@@ -63,6 +63,6 @@
   "applicantAddress": "0x40Bd6e764DBc5C7268aaC775D8978881B16221F1",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Decentralized Finance (DeFi)",
-  "pwCategorySuggestions": "Decentralized Finance (DeFi), Smart Contract Platforms, User Experience & Adoption"
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Smart Contract Platforms, User Experience & Adoption",
+  "pwCategory": "Finance & DeFi"
 }

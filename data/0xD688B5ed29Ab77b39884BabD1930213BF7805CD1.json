@@ -93,5 +93,7 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xD688B5ed29Ab77b39884BabD1930213BF7805CD1.json",
   "RPGF3_Application_UID": "0x4601875bbac07e7fad0b07b6ecd28b48e197e67fbc29c3e713a517391c8251a3",
   "applicantAddress": "0xD688B5ed29Ab77b39884BabD1930213BF7805CD1",
-  "pwCategorySuggestions": "NFTs, Social Networking, Web3 Community Platform"
+  "pwCategorySuggestions": "NFTs, Social Networking, Web3 Community Platform",
+  "pwCategory": "Decentralized Social Network",
+  "pwIsFlagged": false
 }

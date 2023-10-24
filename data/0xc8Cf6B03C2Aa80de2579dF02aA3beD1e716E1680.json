@@ -10,9 +10,7 @@
       "description": "My Debank profile"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Most of my asset is on OP and BASE (Layer 2 was built on OP Stack). I bridged more than 10,000 USDC to OP. I always vote to receive the incentives from Velodrome Finance and Aerodrome Finance. I took at least three daily transactions for trading, staking, lending, etc... I also have posted about VeldromeFinance on Debank. Almost my time is in OP, I love OP",
   "impactMetrics": [
     {
@@ -49,6 +47,5 @@
   "applicantAddress": "0xc8Cf6B03C2Aa80de2579dF02aA3beD1e716E1680",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Decentralized Finance (DeFi)",
   "pwCategorySuggestions": "Smart Contract Platforms, Layer 2 Scaling, Decentralized Finance (DeFi)"
 }

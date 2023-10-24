@@ -10,9 +10,7 @@
       "description": "Music NFT"
     }
   ],
-  "impactCategory": [
-    "COLLECTIVE_GOVERNANCE"
-  ],
+  "impactCategory": ["COLLECTIVE_GOVERNANCE"],
   "impactDescription": "Y dedication to collecting 899 tracks on sound.xyz showcases a remarkable commitment to the music NFT community. My extensive collection not only reflects a deep appreciation for music but also demonstrates my role in preserving and promoting diverse artistic expressions. By actively participating in platforms like sound.xyz, I'm contributing to the growth and vitality of the collective optimism within the music NFT ecosystem. My efforts not only benefit artists but also foster a supportive environment for fellow enthusiasts and creators. Through my contributions, I am helping to build a stronger and more inclusive community that thrives on shared passion and mutual support. Keep up the fantastic work!",
   "impactMetrics": [
     {
@@ -36,6 +34,5 @@
   "applicantAddress": "0xe437BC0fE994a491d01Ea651ed63C0892d85ce45",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Non-Fungible Tokens (NFTs)",
   "pwCategorySuggestions": "NFT Aggregator, Blockchain Gaming, Community Building"
 }

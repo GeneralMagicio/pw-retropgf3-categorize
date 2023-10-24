@@ -64,5 +64,6 @@
   "RPGF3_Application_UID": "0xe512145819e4a511f7fd8f0f6cd67d8c9b90a8dda31598371b56bf754e6cc725",
   "applicantAddress": "0x27292E1a901E3E0bE7d144aDba4CAD07da2d8a42",
   "pwIsFlagged": false,
-  "pwCategorySuggestions": "Developer Ecosystem, Blockchain Education, Social Impact"
+  "pwCategorySuggestions": "Developer Ecosystem, Blockchain Education, Social Impact",
+  "pwCategory": "Developer Education"
 }

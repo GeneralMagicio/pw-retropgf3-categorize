@@ -47,6 +47,6 @@
   "applicantAddress": "0x38189D98110A395A1366F1c95875f81fD458a6C3",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "User Experience & Adoption",
-  "pwCategorySuggestions": "Decentralized Identity, Web3 Community Platform"
+  "pwCategorySuggestions": "Decentralized Identity, Web3 Community Platform",
+  "pwCategory": "Decentralized Identity"
 }

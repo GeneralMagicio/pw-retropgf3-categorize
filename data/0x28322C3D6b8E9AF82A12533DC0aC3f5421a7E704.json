@@ -10,9 +10,7 @@
       "description": "Scan"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "I MINTed many NFTs at Base's on-chain summer and told them how great NEF is.\nIt also holds NFTs for many OPs. I will continue to share the beauty of OP's NFTs with many people.I have also done mods on many NFT projects. I would be happy to assist you with anything you need. I can speak Japanese and English.",
   "impactMetrics": [
     {
@@ -43,6 +41,5 @@
   "applicantAddress": "0x28322C3D6b8E9AF82A12533DC0aC3f5421a7E704",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Non-Fungible Tokens (NFTs)",
   "pwCategorySuggestions": "Non-Fungible Tokens (NFTs), Community Building, Multilingual Community Support"
 }

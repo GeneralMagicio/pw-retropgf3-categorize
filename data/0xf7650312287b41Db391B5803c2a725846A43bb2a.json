@@ -130,9 +130,7 @@
       "description": "[Activity Photo] Degen Clan 2nd Meetup"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Before I'm doing Jolden Crypto, I'm doing Illuvium Thailand that I memtion above. But after I'm writing about Ethereum deep dive content (article link will attach below), my followers suggest me to create another page that writing about ETH ecosystem, so Jolden Crypto was borned.\n\nFirst purpose that I decided to create Jolden Crypto around September 2021 is to sharing knowledge and let crypto space know more about Ethereum ecosystem & layer 2. At that time, Thai developer community introducing me to know about Optimism.\n\nThai crypto space didn't know about Optimism ecosystem that much, along with I love a vision of Optimism about making impact to crypto space. So I decide to create Optimism content and have a goal to bring Thai users to know more about Optimism and DApps on Optimism.",
   "impactMetrics": [
     {
@@ -167,6 +165,5 @@
   "applicantAddress": "0xf7650312287b41Db391B5803c2a725846A43bb2a",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Community Building",
   "pwCategorySuggestions": "Content Creation, Community Building, User Experience & Adoption"
 }

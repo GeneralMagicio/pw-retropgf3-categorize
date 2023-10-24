@@ -10,10 +10,7 @@
       "description": "My github"
     }
   ],
-  "impactCategory": [
-    "COLLECTIVE_GOVERNANCE",
-    "OP_STACK"
-  ],
+  "impactCategory": ["COLLECTIVE_GOVERNANCE", "OP_STACK"],
   "impactDescription": "Maybe it won't have a big impact but I will try my best for your project, if I don't have an impact then please teach me to be more effective Maybe in the future I can be useful if guided by you. I also don't expect your guidance, I can learn autodidactically ",
   "impactMetrics": [
     {
@@ -45,6 +42,5 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for violating rule 1 as the applicant makes promises of future impact and deliverables such as developing the ecosystem and being a useful member for everyone.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Community Building",
   "pwCategorySuggestions": "Community Building"
 }

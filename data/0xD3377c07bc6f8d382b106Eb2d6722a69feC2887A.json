@@ -35,5 +35,7 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xD3377c07bc6f8d382b106Eb2d6722a69feC2887A.json",
   "RPGF3_Application_UID": "0x58928be36349b3c9b6c84e41acbe7e7e3c4c27de64cbd719f04cfd03a4eae150",
   "applicantAddress": "0xD3377c07bc6f8d382b106Eb2d6722a69feC2887A",
-  "pwCategorySuggestions": "Community Building, Tokenization Platforms"
+  "pwCategorySuggestions": "Community Building, Tokenization Platforms",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "This application should be flagged for violating rule 1: promises of future impact are not allowed. The applicant states \"We hope that in the future the coin price will increase and we will be very happy. Hopefully in 2024 things will improve for the crypto world.\" which is a clear violation of this rule."
 }

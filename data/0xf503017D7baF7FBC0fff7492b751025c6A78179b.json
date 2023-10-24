@@ -124,6 +124,6 @@
   "applicantAddress": "0xf503017D7baF7FBC0fff7492b751025c6A78179b",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Blockchain Infrastructure",
-  "pwCategorySuggestions": "Decentralized Infrastructure, Blockchain Development Tools"
+  "pwCategorySuggestions": "Decentralized Infrastructure, Blockchain Development Tools",
+  "pwCategory": "Decentralized Infrastructure"
 }

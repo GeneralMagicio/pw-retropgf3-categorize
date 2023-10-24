@@ -43,6 +43,6 @@
   "applicantAddress": "0x2AC6A3561a43f06d62602eF9728C2B9eEc393326",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Tokenization Platforms",
-  "pwCategorySuggestions": "Non-Fungible Tokens (NFTs), Tokenization Platforms, Decentralized Identity"
+  "pwCategorySuggestions": "Non-Fungible Tokens (NFTs), Tokenization Platforms, Decentralized Identity",
+  "pwCategory": "NFT Integration"
 }

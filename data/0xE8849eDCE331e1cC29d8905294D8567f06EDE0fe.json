@@ -10,10 +10,7 @@
       "description": "Twitter. "
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM",
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Consider contributing by investing in projects or initiatives that have already demonstrated their value and positive impact through Retroactive Public Goods Funding. Your financial support can help sustain and expand these endeavors, ensuring that resources are channeled to projects with proven worth. This contribution directly aligns with the concept's core principle of funding based on demonstrated outcomes, fostering innovation and accountability in resource allocation. Your investment can play a pivotal role in reshaping economic systems to prioritize efficiency and effectiveness in delivering public goods.",
   "impactMetrics": [
     {
@@ -45,6 +42,5 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged because the applicant does not provide any evidence of past impact or contribution to the Web3/blockchain space, which is a requirement.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Community Building",
   "pwCategorySuggestions": "Governance & Tokens, Retroactive Public Goods Funding, Resource Allocation"
 }

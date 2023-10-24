@@ -35,5 +35,7 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x40c60b9A1D5903D45F8efdc72dDcb25FE3Ad2563.json",
   "RPGF3_Application_UID": "0x0f832c711b705a24216d3c5faec985ad60c39e300d0df86d89617aba23dd1388",
   "applicantAddress": "0x40c60b9A1D5903D45F8efdc72dDcb25FE3Ad2563",
-  "pwCategorySuggestions": "User Experience & Adoption, Content Creation"
+  "pwCategorySuggestions": "User Experience & Adoption, Content Creation",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "This application should be flagged for violating the rules because it does not provide clear details about the actual contribution and the impact made, plus it appears to be using the application to advertise (mentioned as 'Advt' in the description and impact metrics), which is against the rules."
 }

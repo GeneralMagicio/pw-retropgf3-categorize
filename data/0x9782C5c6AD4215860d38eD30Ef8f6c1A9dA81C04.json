@@ -10,9 +10,7 @@
       "description": "My Sound's profile for collecting & minting music nft"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "I hope that by actively collecting onchain music, especially on the OP blockchain, will contribute to supporting artists, independent creators on their web3 journey and contribute to further development of OP blockchain with great ecosystem scalability, fast speed, low cost, user-friendly",
   "impactMetrics": [
     {
@@ -42,6 +40,5 @@
   "applicantAddress": "0x9782C5c6AD4215860d38eD30Ef8f6c1A9dA81C04",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Non-Fungible Tokens (NFTs)",
   "pwCategorySuggestions": "Tokenization Platforms, Decentralized Finance (DeFi), NFT Aggregator."
 }

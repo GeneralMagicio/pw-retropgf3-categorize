@@ -36,5 +36,6 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xD4433FdA08aEB9791d75d8ba9e4Bab21dC439245.json",
   "RPGF3_Application_UID": "0xd6c8bcd8c0d8356c00bb63fbc7c726e65126665ecb5b6503acc7942f0313c8c6",
   "applicantAddress": "0xD4433FdA08aEB9791d75d8ba9e4Bab21dC439245",
-  "pwCategorySuggestions": "Blockchain Education, Developer Ecosystem, End-User Experience"
+  "pwCategorySuggestions": "Blockchain Education, Developer Ecosystem, End-User Experience",
+  "pwIsFlagged": false
 }

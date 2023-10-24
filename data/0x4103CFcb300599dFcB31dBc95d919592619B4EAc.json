@@ -40,5 +40,7 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x4103CFcb300599dFcB31dBc95d919592619B4EAc.json",
   "RPGF3_Application_UID": "0x500f36518b3ab46aeca104132392ffd6d804a238baa5418435614ab442d13311",
   "applicantAddress": "0x4103CFcb300599dFcB31dBc95d919592619B4EAc",
-  "pwCategorySuggestions": "Smart Contract Platforms"
+  "pwCategorySuggestions": "Smart Contract Platforms",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "The application should be flagged because it violates rule 10: user interactions such as transactions on OP Mainnet are not considered valid contributions to be rewarded in RetroPGF 3."
 }

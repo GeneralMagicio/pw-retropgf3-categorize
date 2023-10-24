@@ -10,9 +10,7 @@
       "description": "0x199427F3407DDC3E59f2d94c84D2aeE9Dc93196C"
     }
   ],
-  "impactCategory": [
-    "OP_STACK"
-  ],
+  "impactCategory": ["OP_STACK"],
   "impactDescription": "well the impact has not been very impressive because it seems pretty complicated to do anything around here. like I said I put 20 bucks in and now I can't get it back, theres no instructions theres no explanation or anything. and now I have to write this essay because your forcing me to. ",
   "impactMetrics": [
     {
@@ -36,6 +34,5 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for violating the rule of \"Outside of RetroPGF's scope.\" The applicant does not clearly demonstrate a valid contribution in their description, instead focusing mostly on the difficulties they are having with withdrawing their funds.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "End User Experience and Adoption",
   "pwCategorySuggestions": "Wallet Management, User Experience & Adoption"
 }

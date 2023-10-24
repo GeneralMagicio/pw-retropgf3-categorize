@@ -25,9 +25,7 @@
       "description": "About Base network"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "The users who watched the video series learned about the Optimism project, its features, and how it solves the problems faced by the Ethereum network, and now they has the knowledge that qualifies them to participate in the Optimism ecosystem, now they can begin their journey building on Optimism and participating in governance.",
   "impactMetrics": [
     {
@@ -51,6 +49,5 @@
   "applicantAddress": "0x52EA7097F080DfB6e6C3F0BbCa57a89d0A2487d8",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Blockchain Education",
   "pwCategorySuggestions": "Blockchain Education, Content Creation, Community Building"
 }

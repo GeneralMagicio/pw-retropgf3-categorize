@@ -10,9 +10,7 @@
       "description": "My Twitter Profile"
     }
   ],
-  "impactCategory": [
-    "COLLECTIVE_GOVERNANCE"
-  ],
+  "impactCategory": ["COLLECTIVE_GOVERNANCE"],
   "impactDescription": "As a space host on Twitter I have spoke many times about Optimism over the last 6 months and have advised my community to interact on tghe network and gain what blockchain education & rewards they can. I have also advised developer friends to apply for grants. As a member of the community I have also naturally liked, retweeted & supported every OP tweet I manage to see and have made what transactions I could  afford to",
   "impactMetrics": [
     {
@@ -43,6 +41,5 @@
   "applicantAddress": "0x1341cA4835F8Df7C58BD36927e390C654A5979b6",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Community Building",
   "pwCategorySuggestions": "Web3 Community Platform, Blockchain Education, Developer Ecosystem"
 }

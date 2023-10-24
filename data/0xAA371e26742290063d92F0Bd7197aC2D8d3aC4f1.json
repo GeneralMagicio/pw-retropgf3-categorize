@@ -66,5 +66,7 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xAA371e26742290063d92F0Bd7197aC2D8d3aC4f1.json",
   "RPGF3_Application_UID": "0x5bd225596fa0ad55da292ea718fcf4b5e5d1e20f354b19f90f87b5765d77a784",
   "applicantAddress": "0xAA371e26742290063d92F0Bd7197aC2D8d3aC4f1",
-  "pwCategorySuggestions": "End-User Experience, Wallet Management, Tokenization Platforms"
+  "pwCategorySuggestions": "End-User Experience, Wallet Management, Tokenization Platforms",
+  "pwCategory": "End-User Experience & Adoption",
+  "pwIsFlagged": false
 }

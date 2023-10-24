@@ -40,5 +40,6 @@
   "RPGF3_Application_UID": "0xc2823a54c1f07eb30a69cb3c042c674182b50d49e03c7d48ba5cb84220f0bc62",
   "applicantAddress": "0x333601a803CAc32B7D17A38d32c9728A93b422f4",
   "pwIsFlagged": false,
-  "pwCategorySuggestions": "Tokenization Platforms, Decentralized Identity, NFT Aggregator"
+  "pwCategorySuggestions": "Tokenization Platforms, Decentralized Identity, NFT Aggregator",
+  "pwCategory": "Decentralized Identity"
 }

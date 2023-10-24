@@ -60,5 +60,7 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x6cCe9bAE11B01E9fFF30DBe790f64B459A614B0F.json",
   "RPGF3_Application_UID": "0x2fcf74bc4287ad3e63476246b2999ad0070cfcca8804fa66c7efd227070de33f",
   "applicantAddress": "0x6cCe9bAE11B01E9fFF30DBe790f64B459A614B0F",
-  "pwCategorySuggestions": "Token Vesting & Lockups, Governance & Tokens, Smart Contract Platforms"
+  "pwCategorySuggestions": "Token Vesting & Lockups, Governance & Tokens, Smart Contract Platforms",
+  "pwCategory": "Decentralized Governance",
+  "pwIsFlagged": false
 }

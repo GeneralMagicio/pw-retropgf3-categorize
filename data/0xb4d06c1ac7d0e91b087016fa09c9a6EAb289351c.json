@@ -57,5 +57,7 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xb4d06c1ac7d0e91b087016fa09c9a6EAb289351c.json",
   "RPGF3_Application_UID": "0x8c31dee5481fdf0cade4e023ca397551f62c016db3690f0a5ae47855a2bc8060",
   "applicantAddress": "0xb4d06c1ac7d0e91b087016fa09c9a6EAb289351c",
-  "pwCategorySuggestions": "Wallet Management"
+  "pwCategorySuggestions": "Wallet Management",
+  "pwCategory": "End-User Experience & Adoption",
+  "pwIsFlagged": false
 }

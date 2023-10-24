@@ -43,5 +43,7 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x3fD3dcd7Bda97A7627264adCaD23E513517E8f35.json",
   "RPGF3_Application_UID": "0x6d301ab6c88bcbe3d7a40a9c75df956510ccdfc42aeb303070bca42f5f08c9f7",
   "applicantAddress": "0x3fD3dcd7Bda97A7627264adCaD23E513517E8f35",
-  "pwCategorySuggestions": "Developer Ecosystem"
+  "pwCategorySuggestions": "Developer Ecosystem",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "This application should be flagged due to lack of proper and valid details in the \"contributionDescription\" and \"impactDescription\" fields, violating the rule on false statements and deception."
 }

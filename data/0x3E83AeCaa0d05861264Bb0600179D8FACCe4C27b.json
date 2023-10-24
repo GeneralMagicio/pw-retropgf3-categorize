@@ -48,6 +48,5 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged because it contains spammy, irrelevant content in the \"contributionDescription\" and \"impactDescription\" fields.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Cross-Chain Platforms",
   "pwCategorySuggestions": "Blockchain Gaming, Decentralized Finance (DeFi), NFT Aggregator"
 }

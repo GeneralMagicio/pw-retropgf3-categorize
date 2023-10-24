@@ -10,9 +10,7 @@
       "description": "twitter shout out"
     }
   ],
-  "impactCategory": [
-    "OP_STACK"
-  ],
+  "impactCategory": ["OP_STACK"],
   "impactDescription": "onboard more users to bridge in and out of optimism when interacting with other protocols on layer 1 or layer 2. Optimism is the cheapest layer 2 network on gas and i've made many newbies know this and onboard a lot of user from web2 to web3. Optimism is the present and future.",
   "impactMetrics": [
     {
@@ -42,6 +40,5 @@
   "applicantAddress": "0x9DfEe19fa2bFc78265D106e7DacA0B6E66555872",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Optimism Ambassador",
   "pwCategorySuggestions": "Smart Contract Platforms, Layer 2 Scaling, User Experience & Adoption"
 }

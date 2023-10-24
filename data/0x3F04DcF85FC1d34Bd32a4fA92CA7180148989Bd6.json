@@ -33,5 +33,7 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x3F04DcF85FC1d34Bd32a4fA92CA7180148989Bd6.json",
   "RPGF3_Application_UID": "0x7abbdafaee87210e6340fa7d73be9d31fee4053e6543902e75bd3faf2d523cb1",
   "applicantAddress": "0x3F04DcF85FC1d34Bd32a4fA92CA7180148989Bd6",
-  "pwCategorySuggestions": "Decentralized Finance (DeFi), Smart Contract Platforms, Governance & Tokens"
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Smart Contract Platforms, Governance & Tokens",
+  "pwCategory": "Decentralized Governance",
+  "pwIsFlagged": false
 }

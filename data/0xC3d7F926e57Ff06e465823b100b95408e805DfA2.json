@@ -90,5 +90,7 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xC3d7F926e57Ff06e465823b100b95408e805DfA2.json",
   "RPGF3_Application_UID": "0x07fb115980ac6617d4b4b6f0cfcbc52bacfbb395b5c0d2d71fc735435627c555",
   "applicantAddress": "0xC3d7F926e57Ff06e465823b100b95408e805DfA2",
-  "pwCategorySuggestions": "Decentralized Finance (DeFi), Governance Tokens, Community Building"
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Governance Tokens, Community Building",
+  "pwCategory": "Decentralized Governance",
+  "pwIsFlagged": false
 }

@@ -48,6 +48,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged because it violates rule 1: it includes promises of future impact such as \"we're shaping the future of blockchain technology\" and suggests users get ready to \"unlock new opportunities and possibilities\".",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Blockchain Infrastructure",
-  "pwCategorySuggestions": "Web3 Community Platform, Blockchain Infrastructure"
+  "pwCategorySuggestions": "Web3 Community Platform, Blockchain Infrastructure",
+  "pwCategory": "Blockchain Infrastructure"
 }

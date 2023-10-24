@@ -39,5 +39,7 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x3cd2C1760c4333309C7d407BE71cD6F9Ef327fda.json",
   "RPGF3_Application_UID": "0xd564deec8b9bcb228fcc024e2c2726f37d0e149d6ac33aea4969cfbb26f7a577",
   "applicantAddress": "0x3cd2C1760c4333309C7d407BE71cD6F9Ef327fda",
-  "pwCategorySuggestions": "Cross-Chain Platforms, NFT Aggregator, Supply Chain Management"
+  "pwCategorySuggestions": "Cross-Chain Platforms, NFT Aggregator, Supply Chain Management",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "This application should be flagged for violating rule 10. The applicant claimed to have participated in user interaction activities such as buying and exchanging tokens and interacting with official bridges and platforms which are not considered valid contributions as per the grant program rules."
 }

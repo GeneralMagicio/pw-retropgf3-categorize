@@ -10,9 +10,7 @@
       "description": "deply smart contract"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM"],
   "impactDescription": "Despite significant improvements in scalability and efficiency, Optimism faces certain limitations and challenges. Understanding these areas allows for a full understanding of Optimism's potential impact and areas for further development.\n\nOptimism's security relies on the underlying Ethernet network. Any vulnerability or attack against Ethernet could affect Optimism, and strong security measures and constant monitoring are necessary to maintain the integrity of the Optimism ecosystem.\n\nThe success of Optimism depends on engaging developers and promoting the ecosystem. Providing comprehensive resources and documentation is critical to developer engagement.",
   "impactMetrics": [
     {
@@ -37,6 +35,5 @@
   "applicantAddress": "0xdBb07576F684AACd73ca69667AA570A41BBBbC0C",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Developer Ecosystem",
   "pwCategorySuggestions": "Smart Contract Platforms, Developer Ecosystem, Blockchain Infrastructure"
 }

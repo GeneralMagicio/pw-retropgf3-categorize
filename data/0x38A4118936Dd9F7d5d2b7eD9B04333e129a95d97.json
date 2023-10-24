@@ -50,5 +50,7 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x38A4118936Dd9F7d5d2b7eD9B04333e129a95d97.json",
   "RPGF3_Application_UID": "0xc4d5e887d3b75b6c2226b00aac456da6344fd96ba92f5935533616470b070367",
   "applicantAddress": "0x38A4118936Dd9F7d5d2b7eD9B04333e129a95d97",
-  "pwCategorySuggestions": "NFT Aggregator, Digital Identity"
+  "pwCategorySuggestions": "NFT Aggregator, Digital Identity",
+  "pwCategory": "NFT Integration",
+  "pwIsFlagged": false
 }

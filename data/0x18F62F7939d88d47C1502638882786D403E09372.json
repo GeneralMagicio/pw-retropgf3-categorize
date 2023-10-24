@@ -39,5 +39,6 @@
   "applicantAddress": "0x18F62F7939d88d47C1502638882786D403E09372",
   "pwIsFlagged": true,
   "pwFlaggedReason": "Flag the application. Reason: The content of the application is not directly related to the individual’s/project’s contributions, but rather seems to be copied and pasted instructions or information about the grant program.",
-  "pwCategorySuggestions": "Community Building, Marketing, Governance & Tokens"
+  "pwCategorySuggestions": "Community Building, Marketing, Governance & Tokens",
+  "pwCategory": "Decentralized Governance"
 }

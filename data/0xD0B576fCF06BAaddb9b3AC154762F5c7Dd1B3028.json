@@ -45,5 +45,7 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xD0B576fCF06BAaddb9b3AC154762F5c7Dd1B3028.json",
   "RPGF3_Application_UID": "0x2c2521333151e44af4cfc7d9c25c439d2f7d28162bb8df81571b8b787da4da0e",
   "applicantAddress": "0xD0B576fCF06BAaddb9b3AC154762F5c7Dd1B3028",
-  "pwCategorySuggestions": "Community Building, User Experience & Adoption, Governance & Tokens"
+  "pwCategorySuggestions": "Community Building, User Experience & Adoption, Governance & Tokens",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "Flag the application, as the applicant fails to provide clear and specific details regarding their contribution to the Web3/blockchain project, violating rule number 2 for making false claims about their contributions."
 }

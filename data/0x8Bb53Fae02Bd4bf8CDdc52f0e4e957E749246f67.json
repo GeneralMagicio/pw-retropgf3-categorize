@@ -35,5 +35,7 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x8Bb53Fae02Bd4bf8CDdc52f0e4e957E749246f67.json",
   "RPGF3_Application_UID": "0x0e653d8e8334b17dda19c2aaae5ad4d249e7ab83683dc7fda6ed889af05de723",
   "applicantAddress": "0x8Bb53Fae02Bd4bf8CDdc52f0e4e957E749246f67",
-  "pwCategorySuggestions": "Community Building, User Experience & Adoption, Web3 Community Platform"
+  "pwCategorySuggestions": "Community Building, User Experience & Adoption, Web3 Community Platform",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "Yes, this application should be flagged for violating rule 1: Promises of future impact. The applicant hints at potential future contributions and engagements they might undertake but does not provide specific, past contributions or measurable impact in the Web3/blockchain space."
 }

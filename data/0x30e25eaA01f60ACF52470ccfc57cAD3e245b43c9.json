@@ -40,6 +40,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for promising future impact, which is against the program rules. The applicant states that the project has the potential to become a game-changer and disrupt the current crypto landscape.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Decentralized Finance (DeFi)",
-  "pwCategorySuggestions": "User Experience & Adoption, End-User Experience, Community Building"
+  "pwCategorySuggestions": "User Experience & Adoption, End-User Experience, Community Building",
+  "pwCategory": "User Interface & Experience"
 }

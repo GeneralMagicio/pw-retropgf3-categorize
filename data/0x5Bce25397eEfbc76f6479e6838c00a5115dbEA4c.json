@@ -10,9 +10,7 @@
       "description": "Nil"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "It showcases a deep commitment to the platform, fostering enthusiasm, knowledge sharing, and collaboration. \n\nSuch involvement can strengthen community bonds, attract new members, and contribute to the ongoing success and growth of the Optimism ecosystem. ",
   "impactMetrics": [
     {
@@ -43,6 +41,5 @@
   "applicantAddress": "0x5Bce25397eEfbc76f6479e6838c00a5115dbEA4c",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Community Building",
   "pwCategorySuggestions": "Developer Ecosystem, Community Building, Governance & Tokens"
 }

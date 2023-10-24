@@ -54,6 +54,6 @@
   "applicantAddress": "0x9b7DF3A2DF61E72dF5C4d565A0E017D7C5c6E532",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Decentralized Finance (DeFi)",
-  "pwCategorySuggestions": "Layer 2 Scaling, Smart Contract Platforms, Cross-Chain Platforms"
+  "pwCategorySuggestions": "Layer 2 Scaling, Smart Contract Platforms, Cross-Chain Platforms",
+  "pwCategory": "Cross-Chain & Interoperability"
 }

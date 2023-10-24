@@ -50,5 +50,7 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x538527f3602acaD78596F17B422Fcf5613Af1409.json",
   "RPGF3_Application_UID": "0x4402871ae482fcae5ad8857dd1ef3c86495c1e7c66f807abcf98622db04debc6",
   "applicantAddress": "0x538527f3602acaD78596F17B422Fcf5613Af1409",
-  "pwCategorySuggestions": "Community Building, Event Management"
+  "pwCategorySuggestions": "Community Building, Event Management",
+  "pwCategory": "Community & Social",
+  "pwIsFlagged": false
 }

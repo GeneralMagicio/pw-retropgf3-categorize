@@ -42,5 +42,7 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x9Ae3d7fFCfA14Df5C758bb895fAc23726779CF62.json",
   "RPGF3_Application_UID": "0x1b02ceba1e4904e00a9407b27d5acae6598f7201f639bcf5a7717054c0bd727f",
   "applicantAddress": "0x9Ae3d7fFCfA14Df5C758bb895fAc23726779CF62",
-  "pwCategorySuggestions": "Community Building, NFT Aggregator, Governance & Tokens"
+  "pwCategorySuggestions": "Community Building, NFT Aggregator, Governance & Tokens",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "This application should be flagged for violating rule 1 as the applicant made promises of future deliverables or impact."
 }

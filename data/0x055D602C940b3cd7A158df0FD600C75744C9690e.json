@@ -78,5 +78,6 @@
   "RPGF3_Application_UID": "0x86596b004b7fe17cf0ce308c52ecfc174efc9ebf04fcbc4512f320f632a1f2ba",
   "applicantAddress": "0x055D602C940b3cd7A158df0FD600C75744C9690e",
   "pwIsFlagged": false,
-  "pwCategorySuggestions": "Web3 Community Platform, User Experience & Adoption"
+  "pwCategorySuggestions": "Web3 Community Platform, User Experience & Adoption",
+  "pwCategory": "Community & Social"
 }

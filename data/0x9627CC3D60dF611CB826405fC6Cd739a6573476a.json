@@ -156,5 +156,7 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x9627CC3D60dF611CB826405fC6Cd739a6573476a.json",
   "RPGF3_Application_UID": "0xf88ccc1c7e416a449b909bb634d901cf88c28225c560f5bd231fc3213962054d",
   "applicantAddress": "0x9627CC3D60dF611CB826405fC6Cd739a6573476a",
-  "pwCategorySuggestions": "Developer Ecosystem, Media Production, Community Building"
+  "pwCategorySuggestions": "Developer Ecosystem, Media Production, Community Building",
+  "pwCategory": "Education & Learning",
+  "pwIsFlagged": false
 }

@@ -34,5 +34,7 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xA137467632ecf55Fa3d75584cf8c000AD52B13E6.json",
   "RPGF3_Application_UID": "0xdc08862e11861f27f252dafb60c1d0001f7f1159152caed5b844744256334048",
   "applicantAddress": "0xA137467632ecf55Fa3d75584cf8c000AD52B13E6",
-  "pwCategorySuggestions": "Decentralized Exchanges (DEXs), Layer 2 Scaling, User Experience & Adoption"
+  "pwCategorySuggestions": "Decentralized Exchanges (DEXs), Layer 2 Scaling, User Experience & Adoption",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "This application should be flagged for having issues related to being vague, not providing enough information about the project/impact and potentially falling under \"outside of RetroPGF's scope\" as it does not have a clear relationship to Optimism. The application also contains irrelevant or meaningless text (a large amount of periods) which could be considered as spam."
 }

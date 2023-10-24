@@ -10,9 +10,7 @@
       "description": "Bridge"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "the optimism ecosystem becomes more transactions and has a big impact because I have a big community too, I hope other people can also be like me. I share my activities on the optimism network with my community so that they also feel that they are contributing to building this network, and in the end all transactions will go up and have a good impact on this network in the future.",
   "impactMetrics": [
     {
@@ -36,6 +34,5 @@
   "applicantAddress": "0xDa474dce13c7Cb84CBE2410F84f342398561B68f",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Layer 2 Scaling",
   "pwCategorySuggestions": "Layer 2 Scaling, Decentralized Exchanges (DEXs), Community Building"
 }

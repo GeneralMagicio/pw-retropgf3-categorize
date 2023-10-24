@@ -41,5 +41,6 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xb3Ce00145169d9B16c55fbe0E651CBEAE5F5709b.json",
   "RPGF3_Application_UID": "0xb7e93f188e4733d1a56f7fffa3ff65dfd047d5489e74ec6dde629fb6f41b83ab",
   "applicantAddress": "0xb3Ce00145169d9B16c55fbe0E651CBEAE5F5709b",
-  "pwCategorySuggestions": "NFT Platforms, Music, Blockchain Infrastructure"
+  "pwCategorySuggestions": "NFT Platforms, Music, Blockchain Infrastructure",
+  "pwIsFlagged": false
 }

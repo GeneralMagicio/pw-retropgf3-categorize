@@ -10,9 +10,7 @@
       "description": "ah kumsi we"
     }
   ],
-  "impactCategory": [
-    "OP_STACK"
-  ],
+  "impactCategory": ["OP_STACK"],
   "impactDescription": "the name of the project, we appreciate this project to be a useful project for everyone and we hope that in the future the project will bring a very big change for the community.\nwe are here and be at the forefront, and be the first to try to be here",
   "impactMetrics": [
     {
@@ -46,6 +44,5 @@
   "pwRecategorizeToType": "PROJECT",
   "pwRecategorizeReason": "NO, the application is not correctly categorized as \"INDIVIDUAL\". The application talks about \"we\" and \"our\", implying it represents a group or a project rather than an individual.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Community Building",
   "pwCategorySuggestions": "Community Building, User Experience & Adoption, Content Creation"
 }

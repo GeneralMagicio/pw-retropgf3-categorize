@@ -42,5 +42,6 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xa0C69f2768304468E884B2AeC603C9d277a8C13C.json",
   "RPGF3_Application_UID": "0xf2b841500254c313a39f292fb2d9db6b5b7268d15500b9ceea6ccf6f6e62e2fc",
   "applicantAddress": "0xa0C69f2768304468E884B2AeC603C9d277a8C13C",
-  "pwCategorySuggestions": "Non-Fungible Tokens (NFTs), Music, Art"
+  "pwCategorySuggestions": "Non-Fungible Tokens (NFTs), Music, Art",
+  "pwIsFlagged": false
 }

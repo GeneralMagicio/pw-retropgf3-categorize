@@ -57,5 +57,6 @@
   "RPGF3_Application_UID": "0xca4751a5419a9e32f31487355d8180652b8205bb8e583fde65bbca93722ad2d5",
   "applicantAddress": "0x0c5D52630c982aE81b78AB2954Ddc9EC2797bB9c",
   "pwIsFlagged": false,
-  "pwCategorySuggestions": "Cross-Chain Platforms, Decentralized Exchanges (DEXs), Blockchain Infrastructure"
+  "pwCategorySuggestions": "Cross-Chain Platforms, Decentralized Exchanges (DEXs), Blockchain Infrastructure",
+  "pwCategory": "Cross-Chain & Interoperability"
 }

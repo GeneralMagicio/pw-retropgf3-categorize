@@ -10,9 +10,7 @@
       "description": "lfg"
     }
   ],
-  "impactCategory": [
-    "OP_STACK"
-  ],
+  "impactCategory": ["OP_STACK"],
   "impactDescription": "brigdeasdadasssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssf",
   "impactMetrics": [
     {
@@ -40,6 +38,5 @@
   "pwRecategorizeToType": "PROJECT",
   "pwRecategorizeReason": "NO, the application does not provide sufficient information to deduce whether it is from an individual or a project.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Cross-Chain Platforms",
   "pwCategorySuggestions": "Tokenization Platforms, Blockchain Infrastructure, Decentralized Identity"
 }

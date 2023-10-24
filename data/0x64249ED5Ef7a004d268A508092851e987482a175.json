@@ -50,6 +50,6 @@
   "applicantAddress": "0x64249ED5Ef7a004d268A508092851e987482a175",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Developer Ecosystem",
-  "pwCategorySuggestions": "Tokenization Platforms, Decentralized Finance (DeFi), User Experience & Adoption"
+  "pwCategorySuggestions": "Tokenization Platforms, Decentralized Finance (DeFi), User Experience & Adoption",
+  "pwCategory": "Developer Tools"
 }

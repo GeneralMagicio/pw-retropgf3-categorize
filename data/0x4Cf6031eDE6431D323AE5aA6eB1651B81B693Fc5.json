@@ -65,5 +65,7 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x4Cf6031eDE6431D323AE5aA6eB1651B81B693Fc5.json",
   "RPGF3_Application_UID": "0x67fab3ded419221982f0e55f3f63dbf701f18e39f90aef73ac2379ccf7a4fcd6",
   "applicantAddress": "0x4Cf6031eDE6431D323AE5aA6eB1651B81B693Fc5",
-  "pwCategorySuggestions": "Web3 Infrastructure Monitoring, Optimism Node Comparison, Blockchain Ecosystem Expansion"
+  "pwCategorySuggestions": "Web3 Infrastructure Monitoring, Optimism Node Comparison, Blockchain Ecosystem Expansion",
+  "pwCategory": "Web3 Infrastructure",
+  "pwIsFlagged": false
 }

@@ -40,5 +40,8 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x7cc49427420CA3b6E71819E92d92A4c481676E2e.json",
   "RPGF3_Application_UID": "0xbfb4019b30c6ff1794e247ce135b7c5689a43a12ded9ef3766f6c3f433a5fcb8",
   "applicantAddress": "0x7cc49427420CA3b6E71819E92d92A4c481676E2e",
-  "pwCategorySuggestions": "N/A"
+  "pwCategorySuggestions": "N/A",
+  "pwCategory": "N/A",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "This application should be flagged for spam as the content is repetitive and meaningless."
 }

@@ -99,5 +99,7 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x4cd6B4503d02973D78CFF59C9C56f5F378688274.json",
   "RPGF3_Application_UID": "0xb426cb999cd483bd00f82b9585a6f0963f13e01e6e15403db87e3fed1dc87d96",
   "applicantAddress": "0x4cd6B4503d02973D78CFF59C9C56f5F378688274",
-  "pwCategorySuggestions": "Developer Ecosystem, Governance & Tokens"
+  "pwCategorySuggestions": "Developer Ecosystem, Governance & Tokens",
+  "pwCategory": "Education & Learning",
+  "pwIsFlagged": false
 }

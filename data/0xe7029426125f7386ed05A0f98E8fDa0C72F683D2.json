@@ -43,5 +43,6 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xe7029426125f7386ed05A0f98E8fDa0C72F683D2.json",
   "RPGF3_Application_UID": "0x7a0fbf9af8fdcec08d78adf20a0b9e797cd54489299b6d7b3485b372914364a9",
   "applicantAddress": "0xe7029426125f7386ed05A0f98E8fDa0C72F683D2",
-  "pwCategorySuggestions": "Community Building, User Experience & Adoption, Decentralized Finance (DeFi)"
+  "pwCategorySuggestions": "Community Building, User Experience & Adoption, Decentralized Finance (DeFi)",
+  "pwIsFlagged": false
 }

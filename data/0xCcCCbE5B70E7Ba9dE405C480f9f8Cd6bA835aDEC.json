@@ -77,5 +77,7 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xCcCCbE5B70E7Ba9dE405C480f9f8Cd6bA835aDEC.json",
   "RPGF3_Application_UID": "0x32033fcd4dc814d1c0e903446719154dc1466ba27b1422a1e6c664ade1c8adbf",
   "applicantAddress": "0xCcCCbE5B70E7Ba9dE405C480f9f8Cd6bA835aDEC",
-  "pwCategorySuggestions": "Decentralized Finance (DeFi), Automated Liquidity Management, Vault Optimization"
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Automated Liquidity Management, Vault Optimization",
+  "pwCategory": "Finance & DeFi",
+  "pwIsFlagged": false
 }

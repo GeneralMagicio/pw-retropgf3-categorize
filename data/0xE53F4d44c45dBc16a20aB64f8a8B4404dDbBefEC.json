@@ -60,9 +60,7 @@
       "description": "A Portuguese-content newsletter where I delve into the borderless culture"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "I envision my impact residing in the diverse utilization of the Optimism platform across various fronts, both on a personal level and as a developer of an educational indie comic available in multiple languages. Hailing from a Portuguese linguistic background and being a participant in its speaking communities, I continuously strive to shed light on the ethos values of Optimism. My belief in a potentially improved world that can be constructed with this technology propels me. This endeavor transcends into a more social and cultural task, uplifted by the culture of public goods, open source, superchain, and beyond. My outreach spans across texts written in Portuguese and English, newsletters and various other media channels, all echoing this vision.\n\n1. Overview of analytics data link",
   "impactMetrics": [
     {
@@ -89,6 +87,5 @@
   "pwRecategorizeToType": "PROJECT",
   "pwRecategorizeReason": "NO. It should be categorized as \"PROJECT\" as the applicant talks about their work on \"Web3Comic's in/habitants\" project and related ventures, not individual contributions alone.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Education",
   "pwCategorySuggestions": "Community Building, Content Creation, Education"
 }

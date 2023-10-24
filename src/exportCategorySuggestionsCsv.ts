@@ -30,13 +30,7 @@ export async function exportCategorySuggestionsCsv(filter: string) {
 
   try {
     const parser = new Parser({
-      fields: [
-        "displayName",
-        "bio",
-        "contributionDescription",
-        "impactDescription",
-        "RPGF3_Application_UID",
-      ],
+      fields: ["displayName", "pwCategorySuggestions", "RPGF3_Application_UID"],
     });
     const csv = parser.parse(applications);
     await fs.writeFile(

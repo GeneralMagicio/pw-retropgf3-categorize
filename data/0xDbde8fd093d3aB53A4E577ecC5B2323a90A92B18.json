@@ -39,6 +39,5 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for containing spam, as the descriptions of the contribution and impact are filled with irrelevant characters, violating rule 11.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Web3 Community Platform",
   "pwCategorySuggestions": "Content Creation, Community Building, User Experience & Adoption"
 }

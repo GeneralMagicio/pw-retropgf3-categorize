@@ -103,6 +103,6 @@
   "applicantAddress": "0x7cBFd4f0De51124B498f72DEBC35421C66F2bB0d",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Decentralized Finance (DeFi)",
-  "pwCategorySuggestions": "Decentralized Exchanges (DEXs), Cross-Chain Platforms, User Experience & Adoption"
+  "pwCategorySuggestions": "Decentralized Exchanges (DEXs), Cross-Chain Platforms, User Experience & Adoption",
+  "pwCategory": "Decentralized Exchanges (DEXs)"
 }

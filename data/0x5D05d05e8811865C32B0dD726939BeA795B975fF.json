@@ -10,9 +10,7 @@
       "description": "Just my X profile"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "I guess by being an early user, ive been useful for you to develop an even safer environment of DeFi, which i guess is priceless for developers in the early-stages of app-building, i always tried to contribute (at my small level) in blockchain community (ive been early user of Uniswap/Ampleforth/1inch/Pancakeswap/Bifi....and many others blockhaus including Optimism, Fantom, Arbitrum...)\n\nI didnt make any contribution on Github as im only a user.",
   "impactMetrics": [
     {
@@ -43,6 +41,5 @@
   "applicantAddress": "0x5D05d05e8811865C32B0dD726939BeA795B975fF",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Developer Ecosystem",
   "pwCategorySuggestions": "Decentralized Finance (DeFi), User Experience & Adoption, Developer Ecosystem"
 }

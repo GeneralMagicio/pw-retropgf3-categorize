@@ -78,5 +78,7 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x6a813AD99472Ca0868e104E607E4dD4C2616C3B5.json",
   "RPGF3_Application_UID": "0xc3ad567e82145d15987c82efccc1aee7803bb69750cf221f2c68165c688c1878",
   "applicantAddress": "0x6a813AD99472Ca0868e104E607E4dD4C2616C3B5",
-  "pwCategorySuggestions": "Decentralized Oracle Services, Cross-Chain Platforms, Blockchain Gaming"
+  "pwCategorySuggestions": "Decentralized Oracle Services, Cross-Chain Platforms, Blockchain Gaming",
+  "pwCategory": "Cross-Chain & Interoperability",
+  "pwIsFlagged": false
 }

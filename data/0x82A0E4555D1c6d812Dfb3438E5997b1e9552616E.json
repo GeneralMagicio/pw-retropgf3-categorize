@@ -41,5 +41,7 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x82A0E4555D1c6d812Dfb3438E5997b1e9552616E.json",
   "RPGF3_Application_UID": "0x5eb99b677c9ce0994c587c3a4893daf73dd4edfb44e0b9fffa88edf7c737a4d3",
   "applicantAddress": "0x82A0E4555D1c6d812Dfb3438E5997b1e9552616E",
-  "pwCategorySuggestions": "Developer Tools, Web3 Community Platform, Cryptocurrency Services"
+  "pwCategorySuggestions": "Developer Tools, Web3 Community Platform, Cryptocurrency Services",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "The application should be flagged for not providing a contribution description and impact description."
 }

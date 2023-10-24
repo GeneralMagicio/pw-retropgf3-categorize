@@ -76,5 +76,7 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x56a1740878966Bc82a1d9C047E46B02533857626.json",
   "RPGF3_Application_UID": "0x973dd17bfead72018dfe2cc33042db418c82f518229b3ca32a0798ef13d393f5",
   "applicantAddress": "0x56a1740878966Bc82a1d9C047E46B02533857626",
-  "pwCategorySuggestions": "Smart Contract Platforms, Developer Ecosystem, Wallet Management"
+  "pwCategorySuggestions": "Smart Contract Platforms, Developer Ecosystem, Wallet Management",
+  "pwCategory": "Smart Contract Development Tools",
+  "pwIsFlagged": false
 }

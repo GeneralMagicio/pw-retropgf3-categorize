@@ -37,5 +37,7 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x40784A7b89d3C82862BAf1845c6A94716018cEf8.json",
   "RPGF3_Application_UID": "0x7098d041cd317883a187e30cf6d78f32a40832ca67a71170ea182fdccf92bac0",
   "applicantAddress": "0x40784A7b89d3C82862BAf1845c6A94716018cEf8",
-  "pwCategorySuggestions": "Web3 Community Platform"
+  "pwCategorySuggestions": "Web3 Community Platform",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "The application should be flagged for violating the program rules. The application is using the RetroPGF application to advertise and showcase something they are selling: NFT sales, which is against the rule no. 6 about Advertising."
 }

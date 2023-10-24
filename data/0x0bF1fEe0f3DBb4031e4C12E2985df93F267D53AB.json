@@ -10,9 +10,7 @@
       "description": "https://twitter.com/Apichai_thebank"
     }
   ],
-  "impactCategory": [
-    "COLLECTIVE_GOVERNANCE"
-  ],
+  "impactCategory": ["COLLECTIVE_GOVERNANCE"],
   "impactDescription": "I'm an early adopter. and still use it every day Until now I was a believer in this op idea from the beginning. And the more I use it, the more confident I become. Hopefully I can grow with this community that I love. Finally, I would like to thank you for creating this lovely community.",
   "impactMetrics": [
     {
@@ -45,6 +43,5 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "Flagged for irrelevant contribution links and lack of clear contribution, as well as an insignificant bio.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Community Building",
   "pwCategorySuggestions": "Community Building, User Experience & Adoption, Governance & Tokens"
 }

@@ -109,5 +109,7 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x5FfD23B1B0350debB17A2cB668929aC5f76d0E18.json",
   "RPGF3_Application_UID": "0x67dbd30fb3b694f21e011722e2cccacfa51550ba8da895f036dc8819f5c65e28",
   "applicantAddress": "0x5FfD23B1B0350debB17A2cB668929aC5f76d0E18",
-  "pwCategorySuggestions": "Web3 Social, NFT Launchpad, DAO Tools"
+  "pwCategorySuggestions": "Web3 Social, NFT Launchpad, DAO Tools",
+  "pwCategory": "Decentralized Social Network",
+  "pwIsFlagged": false
 }

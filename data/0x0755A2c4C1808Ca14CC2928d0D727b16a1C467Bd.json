@@ -39,6 +39,6 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, it is not correctly categorized as a project. The application speaks in first person indicating it's an individual.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "User Experience & Adoption",
-  "pwCategorySuggestions": "Smart Contract Platforms, Digital Identity"
+  "pwCategorySuggestions": "Smart Contract Platforms, Digital Identity",
+  "pwCategory": "Education & Learning"
 }

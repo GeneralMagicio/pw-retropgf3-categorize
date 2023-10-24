@@ -38,6 +38,6 @@
   "applicantAddress": "0x000000423dd4bcd055a8C227676ECF9f3A19A75B",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Developer Ecosystem",
-  "pwCategorySuggestions": "Community Building, User Experience & Adoption, Governance & Tokens"
+  "pwCategorySuggestions": "Community Building, User Experience & Adoption, Governance & Tokens",
+  "pwCategory": "Beta Testing"
 }

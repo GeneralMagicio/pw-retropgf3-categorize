@@ -10,9 +10,7 @@
       "description": "Content about Optimism in Thai language."
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Tangible benefits:\n\n- Increased Optimism usage in Thailand: The number of Optimism users in Thailand has increased significantly in the past year\n\n- A more global and diverse Optimism community: The Optimism community is now more global and diverse than ever before\n\nIntangible benefits:\n\n- Increased awareness of Optimism in Thailand: CoinRuay has helped to raise awareness of Optimism in Thailand through its educational and promotional efforts. This has led to a more informed and engaged Thai Optimism community.\n\nTypes of Optimists from CoinRuay's contributions:\n\n- Users: CoinRuay's educational efforts have helped users in Thailand to learn about Optimism and its benefits. This has made it easier for users to get started with Optimism and to take advantage of its features.",
   "impactMetrics": [
     {
@@ -40,6 +38,5 @@
   "pwRecategorizeToType": "PROJECT",
   "pwRecategorizeReason": "NO, the application is incorrectly categorized as an \"INDIVIDUAL\" while it should be categorized as a \"PROJECT\" because \"CoinRuay\" refers to a blockchain club, not an individual.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Blockchain Education",
   "pwCategorySuggestions": "Content Creation, Community Building"
 }

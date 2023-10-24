@@ -72,5 +72,7 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x99FBa19112f221D0B44c9c22241f5e6b2Db715F6.json",
   "RPGF3_Application_UID": "0xf162490ee7fc0844a9f2033eb1107cf910df56889ce42a28ea4bf049ae75bf63",
   "applicantAddress": "0x99FBa19112f221D0B44c9c22241f5e6b2Db715F6",
-  "pwCategorySuggestions": "Smart Contract Testing Tools"
+  "pwCategorySuggestions": "Smart Contract Testing Tools",
+  "pwCategory": "Developer Tools",
+  "pwIsFlagged": false
 }

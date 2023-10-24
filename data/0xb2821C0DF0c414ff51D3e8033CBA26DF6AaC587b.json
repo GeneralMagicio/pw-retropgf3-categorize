@@ -87,5 +87,7 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xb2821C0DF0c414ff51D3e8033CBA26DF6AaC587b.json",
   "RPGF3_Application_UID": "0xcef5619c73158a1b4dd128f918bad2bd2c8c5f6701bb6d2834e92289a9b5f145",
   "applicantAddress": "0xb2821C0DF0c414ff51D3e8033CBA26DF6AaC587b",
-  "pwCategorySuggestions": "Smart Contract Platforms, Tokenization Platforms, Decentralized Finance (DeFi)"
+  "pwCategorySuggestions": "Smart Contract Platforms, Tokenization Platforms, Decentralized Finance (DeFi)",
+  "pwCategory": "Education & Learning",
+  "pwIsFlagged": false
 }

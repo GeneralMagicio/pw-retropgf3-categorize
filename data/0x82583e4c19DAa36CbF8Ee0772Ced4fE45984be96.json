@@ -44,5 +44,7 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x82583e4c19DAa36CbF8Ee0772Ced4fE45984be96.json",
   "RPGF3_Application_UID": "0x1d5917af2b7594e37dbf50093dec5b7826ad3f5e4bdf488fdc6834a000790ba6",
   "applicantAddress": "0x82583e4c19DAa36CbF8Ee0772Ced4fE45984be96",
-  "pwCategorySuggestions": "Community Building, Blockchain Education, Social Impact"
+  "pwCategorySuggestions": "Community Building, Blockchain Education, Social Impact",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "The application should be flagged for violating rule 11: Spam, due to the repeated content in the application; This repetition does not provide unique or additional information, qualifying the content as spam."
 }

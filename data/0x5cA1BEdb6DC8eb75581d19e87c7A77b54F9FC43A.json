@@ -222,6 +222,6 @@
   "applicantAddress": "0x5cA1BEdb6DC8eb75581d19e87c7A77b54F9FC43A",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Blockchain Education",
-  "pwCategorySuggestions": "Blockchain Education, Security Research, Community Building"
+  "pwCategorySuggestions": "Blockchain Education, Security Research, Community Building",
+  "pwCategory": "Education & Learning"
 }

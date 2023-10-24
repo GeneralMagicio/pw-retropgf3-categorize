@@ -52,5 +52,7 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x67C7be15BBc60701A586614013a61f04C8Dd26D2.json",
   "RPGF3_Application_UID": "0x08aa14327f3f4ae93625db807c8fe5fe99118a260047a9dd3894c1a39ee1f0e4",
   "applicantAddress": "0x67C7be15BBc60701A586614013a61f04C8Dd26D2",
-  "pwCategorySuggestions": "Community Building, NFT Minting, User Experience & Adoption"
+  "pwCategorySuggestions": "Community Building, NFT Minting, User Experience & Adoption",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "This application should be flagged for violating rule 10. The applicant's contribution is mainly using the OP Mainnet for transactions, which falls under user interactions, and this is explicitly mentioned as not within the scope to be rewarded in RetroPGF 3."
 }

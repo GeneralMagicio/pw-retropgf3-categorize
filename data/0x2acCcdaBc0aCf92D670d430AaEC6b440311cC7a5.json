@@ -75,5 +75,6 @@
   "RPGF3_Application_UID": "0x91a337dccdac32cb717d74594ad991b832d4790ab83e849be86fd8410bfa5a70",
   "applicantAddress": "0x2acCcdaBc0aCf92D670d430AaEC6b440311cC7a5",
   "pwIsFlagged": false,
-  "pwCategorySuggestions": "Tokenization Platforms, Blockchain Infrastructure, Content Creation"
+  "pwCategorySuggestions": "Tokenization Platforms, Blockchain Infrastructure, Content Creation",
+  "pwCategory": "Music NFTs"
 }

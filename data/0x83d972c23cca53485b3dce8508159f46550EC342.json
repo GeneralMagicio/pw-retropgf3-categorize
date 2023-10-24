@@ -10,9 +10,7 @@
       "description": "optimism"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "berkat saya test jaringannya , developer jadi tau appa saja yang harus perlu di perbaikin , sejauh ini cukup baik yaa , mungkin lebih di perhatikaann lagi agar dapat hasil yang maksimal dan selain itu juga saya adalah holder dari token op yang dimana akan membuat harganya lebih baik lagi , termakasih",
   "impactMetrics": [
     {
@@ -36,6 +34,5 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for being in a language other than English.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Community Building",
   "pwCategorySuggestions": "Content Creation, Community Building, Tokenization Platforms"
 }

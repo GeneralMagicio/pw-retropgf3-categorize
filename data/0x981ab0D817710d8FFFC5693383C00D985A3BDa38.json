@@ -58,6 +58,6 @@
   "applicantAddress": "0x981ab0D817710d8FFFC5693383C00D985A3BDa38",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Smart Contract Platforms",
-  "pwCategorySuggestions": "Tokenization Platforms, Web3 Community Platform, End-User Experience"
+  "pwCategorySuggestions": "Tokenization Platforms, Web3 Community Platform, End-User Experience",
+  "pwCategory": "NFT Marketplace"
 }

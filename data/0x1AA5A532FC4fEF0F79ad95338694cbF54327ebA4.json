@@ -56,5 +56,6 @@
   "RPGF3_Application_UID": "0x39b4a7a07052cd200b017579a2717911881ffd3ed4bd94c085ba08435373c855",
   "applicantAddress": "0x1AA5A532FC4fEF0F79ad95338694cbF54327ebA4",
   "pwIsFlagged": false,
-  "pwCategorySuggestions": "Developer Mentoring, Web2 to Web3 Migration, Optimism"
+  "pwCategorySuggestions": "Developer Mentoring, Web2 to Web3 Migration, Optimism",
+  "pwCategory": "Developer Mentoring"
 }

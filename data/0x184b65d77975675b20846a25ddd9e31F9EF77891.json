@@ -47,6 +47,6 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, this application should not be categorized as a PROJECT because it does not provide clear details about a project; instead, it consists of non-informative, repeated phrases.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Content Creation",
-  "pwCategorySuggestions": "Content Creation, Community Building, User Experience & Adoption"
+  "pwCategorySuggestions": "Content Creation, Community Building, User Experience & Adoption",
+  "pwCategory": "Community & Social"
 }

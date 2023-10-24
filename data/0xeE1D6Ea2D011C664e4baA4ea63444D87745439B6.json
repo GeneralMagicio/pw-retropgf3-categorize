@@ -41,5 +41,7 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xeE1D6Ea2D011C664e4baA4ea63444D87745439B6.json",
   "RPGF3_Application_UID": "0x3fa97925bd090ab4e90e73fe10c63b0181e7ae797a7598a1e49ec674c640108e",
   "applicantAddress": "0xeE1D6Ea2D011C664e4baA4ea63444D87745439B6",
-  "pwCategorySuggestions": "Developer Ecosystem, Governance & Tokens, Content Creation"
+  "pwCategorySuggestions": "Developer Ecosystem, Governance & Tokens, Content Creation",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "This application should be flagged for plagiarism. The contribution description is copied from Optimism's own public goods funding philosophy, not an original description of the applicant's contribution."
 }

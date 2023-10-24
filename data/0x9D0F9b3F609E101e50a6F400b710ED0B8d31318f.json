@@ -42,5 +42,7 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x9D0F9b3F609E101e50a6F400b710ED0B8d31318f.json",
   "RPGF3_Application_UID": "0xcfeca6f1461859cef84a871c2543cf7e5b72a45cff46b1742c50cc9741290ac2",
   "applicantAddress": "0x9D0F9b3F609E101e50a6F400b710ED0B8d31318f",
-  "pwCategorySuggestions": "Layer 2 Scaling, Smart Contract Platforms, Decentralized Finance (DeFi)"
+  "pwCategorySuggestions": "Layer 2 Scaling, Smart Contract Platforms, Decentralized Finance (DeFi)",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "This application should be flagged for making promises of future impact and having potentially false statements about their contributions, as they state that they raised $3.5M from Paradigm after releasing Unipig, a claim which needs to be validated."
 }

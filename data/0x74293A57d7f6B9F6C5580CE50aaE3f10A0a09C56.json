@@ -40,5 +40,7 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x74293A57d7f6B9F6C5580CE50aaE3f10A0a09C56.json",
   "RPGF3_Application_UID": "0x09805bd3ff5a0a11b48617d60129da46e585eb7207d3b7f8bbf587bd61849792",
   "applicantAddress": "0x74293A57d7f6B9F6C5580CE50aaE3f10A0a09C56",
-  "pwCategorySuggestions": "Decentralized Finance (DeFi), Governance Tokens, Blockchain Education"
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Governance Tokens, Blockchain Education",
+  "pwCategory": "Finance & DeFi",
+  "pwIsFlagged": false
 }

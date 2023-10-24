@@ -43,5 +43,7 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x916dC39953922C671C1ba0424167F2BeA4022838.json",
   "RPGF3_Application_UID": "0x0e295fe8769079ad83a8d466e7f163ae154ec5768c825dbd0a81711bf484e1e5",
   "applicantAddress": "0x916dC39953922C671C1ba0424167F2BeA4022838",
-  "pwCategorySuggestions": "Donation Platform, Non-Profit Fundraising"
+  "pwCategorySuggestions": "Donation Platform, Non-Profit Fundraising",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "This application should be flagged for violating rule number 10. The applicant's contribution of fundraising for an animal shelter does not have clear relationship or impact on the Web3/blockchain space."
 }

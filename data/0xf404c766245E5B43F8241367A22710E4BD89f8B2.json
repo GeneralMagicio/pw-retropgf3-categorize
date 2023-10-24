@@ -40,6 +40,6 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, this should be categorized as \"INDIVIDUAL\" as the applicant uses first-person pronouns \"I\" and \"me\".",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Blockchain Education",
-  "pwCategorySuggestions": "Web3 Community Platform, Tokenization Platforms, Blockchain Infrastructure"
+  "pwCategorySuggestions": "Web3 Community Platform, Tokenization Platforms, Blockchain Infrastructure",
+  "pwCategory": "Decentralized Infrastructure"
 }

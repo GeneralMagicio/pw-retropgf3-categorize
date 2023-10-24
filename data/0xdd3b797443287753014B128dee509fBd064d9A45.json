@@ -10,9 +10,7 @@
       "description": "OC"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Introducing optimism to the general public. This is because of the high amount of plastic waste in my area. I also have an idea to provide incentives in the form of optimism to introduce optimism to beginners. I want to demonstrate positive progress to the optimism community.",
   "impactMetrics": [
     {
@@ -46,6 +44,5 @@
   "pwRecategorizeToType": "PROJECT",
   "pwRecategorizeReason": "NO, it is not correctly categorized. The application mentions an \"Association of young people\" which implies a group effort, making it more suited to a PROJECT categorization.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Community Building",
   "pwCategorySuggestions": "Tokenization Platforms, Supply Chain Management"
 }

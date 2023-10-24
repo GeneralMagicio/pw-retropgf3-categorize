@@ -64,5 +64,7 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x8b1f85a93Ac6E4F62695Ea8EF2410d248605FEff.json",
   "RPGF3_Application_UID": "0xe55a4c4f4840d8e38ecf86e6061b09a8446f431235417c21c99f8102d171ec89",
   "applicantAddress": "0x8b1f85a93Ac6E4F62695Ea8EF2410d248605FEff",
-  "pwCategorySuggestions": "Layer 2 Scaling, Smart Contract Platforms, Tokenization Platforms"
+  "pwCategorySuggestions": "Layer 2 Scaling, Smart Contract Platforms, Tokenization Platforms",
+  "pwCategory": "Smart Contract Development Tools",
+  "pwIsFlagged": false
 }

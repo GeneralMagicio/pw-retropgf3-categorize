@@ -10,10 +10,7 @@
       "description": "PR"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM",
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Previously users had to specify an IPFS URL like this:\ncurl https://ipfs.io/ipfs/bafybeigagd5nmnn2iys2f3doro7ydrevyr2mzarwidgadawmamiteydbzi\n\nThat defines a central point of entry (the https://ipfs.io). Ideally you want the user to specify just the IPFS parts, the gateway needs to be a configuration. The changes made in curl 8.4.0 do exactly that. Users can now use an IPFS URL like this:\ncurl ipfs://bafybeigagd5nmnn2iys2f3doro7ydrevyr2mzarwidgadawmamiteydbzi\n\nThe gateway is effectively reduced to a configuration detail. Users of curl now don't need to share the gateway anymore and can instead use plain simple IPFS URLs.\n\nCURL is estimated to be installed at ~20 billion places making this a potential huge impact for IPFS adoption and another step in a more distributed world.",
   "impactMetrics": [
     {
@@ -36,6 +33,5 @@
   "applicantAddress": "0xF03214714ddc99856eB9301D2c945195974064da",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "End User Experience and Adoption",
   "pwCategorySuggestions": "Web3 Infrastructure"
 }

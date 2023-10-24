@@ -5,6 +5,7 @@ import { intro, outro, select } from "@clack/prompts";
 import { categorizeApplications } from "./categorize-applications";
 import color from "picocolors";
 import { exportCategorySuggestionsCsv } from "./exportCategorySuggestionsCsv";
+import { exportDescriptionsCsv } from "./exportCategoryDescriptionsCsv";
 import { exportFlaggedCsv } from "./exportFlaggedCsv";
 import { exportFullAsJson } from "./exportFullAsJson";
 import { exportTwitterCsv } from "./exportTwitterCsv";
@@ -63,6 +64,14 @@ async function selectYesNo(message: string): Promise<YesOrNo> {
           label: "Export - Full export, all applications (JSON)",
         },
         {
+          value: "exportProjectDescriptionsCsv",
+          label: "Export - Project Descriptions (CSV)",
+        },
+        {
+          value: "exportIndividualDescriptionsCsv",
+          label: "Export - Individual Descriptions (CSV)",
+        },
+        {
           value: "exportProjectCategorySuggestionsCsv",
           label: "Export - Project Category Suggestions (CSV)",
         },
@@ -111,6 +120,12 @@ async function selectYesNo(message: string): Promise<YesOrNo> {
       case "arrange":
         yesNo = await selectYesNo("Re-analyze already processed files?");
         await placeInCategories(yesNo);
+        break;
+      case "exportProjectDescriptionsCsv":
+        await exportDescriptionsCsv("PROJECT");
+        break;
+      case "exportIndividualDescriptionsCsv":
+        await exportDescriptionsCsv("INDIVIDUAL");
         break;
       case "exportProjectCategorySuggestionsCsv":
         await exportCategorySuggestionsCsv("PROJECT");

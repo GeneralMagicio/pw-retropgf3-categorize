@@ -10,9 +10,7 @@
       "description": "Maybe my on chain activity is very little"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Maybe my staking will help the circulation of this optimism token. and can maintain market prices. and imagine what if 90% of these optimistic users did the same thing, this would maintain the supply of that optimism. but this is just my personal view, despite the current economic market not being good. but I hope someday. The world economy will recover again",
   "impactMetrics": [
     {
@@ -44,6 +42,5 @@
   "applicantAddress": "0x9a2270b2F51423D0434ED10b7a55531374881f4D",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Decentralized Finance (DeFi)",
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Centralized Exchanges (CEXs)"
 }

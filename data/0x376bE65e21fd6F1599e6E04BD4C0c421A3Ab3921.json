@@ -10,9 +10,7 @@
       "description": "0x376bE65e21fd6F1599e6E04BD4C0c421A3Ab3921"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "I was one of the first airdrop holders, and I had already experienced L2 deposits and withdrawals before the airdrop. At that time, the speed and fees for withdrawals were very high. After my first batch of airdrops arrived, I often participated in community voting and paid attention to the long-term development of the project. At the same time, after experiencing the dapp, I would share it with other netizens, such as bungee, fx, etc.",
   "impactMetrics": [
     {
@@ -43,6 +41,5 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged because it violates rule 11, as parts of the application are not in English.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Community Building",
   "pwCategorySuggestions": "Layer 2 Scaling, Community Building, User Experience & Adoption"
 }

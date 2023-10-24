@@ -40,6 +40,6 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, the application uses \"I\" and \"me\" indicating this application is by an individual.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "NFT Aggregator",
-  "pwCategorySuggestions": "NFT Aggregator, Community Building, User Experience & Adoption"
+  "pwCategorySuggestions": "NFT Aggregator, Community Building, User Experience & Adoption",
+  "pwCategory": "NFT Integration"
 }

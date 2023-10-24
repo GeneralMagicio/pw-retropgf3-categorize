@@ -40,6 +40,6 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO. The application is from an individual, not a project, as indicated by the use of \"I\" in the description of contributions and impact.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Community Building",
-  "pwCategorySuggestions": "Community Building, End-User Experience, Wallet Management"
+  "pwCategorySuggestions": "Community Building, End-User Experience, Wallet Management",
+  "pwCategory": "Community & Social"
 }

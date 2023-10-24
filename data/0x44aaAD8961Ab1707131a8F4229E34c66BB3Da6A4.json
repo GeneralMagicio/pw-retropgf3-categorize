@@ -43,5 +43,7 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x44aaAD8961Ab1707131a8F4229E34c66BB3Da6A4.json",
   "RPGF3_Application_UID": "0xb5f9ba648a0d9462fe7fbf47e4f5e91602af1bdc41781459221c04e5c0f48b7f",
   "applicantAddress": "0x44aaAD8961Ab1707131a8F4229E34c66BB3Da6A4",
-  "pwCategorySuggestions": "Decentralized Finance (DeFi)"
+  "pwCategorySuggestions": "Decentralized Finance (DeFi)",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "The application should be flagged because it contains blank fields in 'contributionDescription' and 'impactDescription' which are necessary to justify the application and understand the contribution made."
 }

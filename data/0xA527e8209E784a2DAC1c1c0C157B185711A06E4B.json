@@ -10,9 +10,7 @@
       "description": "Urusto22 "
     }
   ],
-  "impactCategory": [
-    "OP_STACK"
-  ],
+  "impactCategory": ["OP_STACK"],
   "impactDescription": "Having the opportunity to stack and save money with a Better opportunity of passive income without having to release o relay all your físicas or digital asset in one spot not such a big pp person but willing to contribute as much as I can for the greater future",
   "impactMetrics": [
     {
@@ -44,6 +42,5 @@
   "applicantAddress": "0xA527e8209E784a2DAC1c1c0C157B185711A06E4B",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Decentralized Finance (DeFi)",
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Web3 Community Platform, Tokenization Platforms"
 }

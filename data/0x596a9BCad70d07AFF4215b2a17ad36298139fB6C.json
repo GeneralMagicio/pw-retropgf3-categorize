@@ -89,5 +89,7 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x596a9BCad70d07AFF4215b2a17ad36298139fB6C.json",
   "RPGF3_Application_UID": "0x2113aa30f96029c1a9af0c1c15677fb80ecc169fb05b3d0c90e6eb77f5e758c1",
   "applicantAddress": "0x596a9BCad70d07AFF4215b2a17ad36298139fB6C",
-  "pwCategorySuggestions": "Community Building, Web3 Community Platform, Blockchain Education"
+  "pwCategorySuggestions": "Community Building, Web3 Community Platform, Blockchain Education",
+  "pwCategory": "Community & Social",
+  "pwIsFlagged": false
 }

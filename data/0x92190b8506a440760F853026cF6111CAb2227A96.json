@@ -38,5 +38,7 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x92190b8506a440760F853026cF6111CAb2227A96.json",
   "RPGF3_Application_UID": "0xf9959a31b9aefc6d2cf0f5019801b4616abbc3530ed1cf202e45d7c70be55f58",
   "applicantAddress": "0x92190b8506a440760F853026cF6111CAb2227A96",
-  "pwCategorySuggestions": "Community Building, Content Creation, User Experience & Adoption"
+  "pwCategorySuggestions": "Community Building, Content Creation, User Experience & Adoption",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "The application should be flagged for violating the rule about \"Promises of future impact\" as the applicant repeatedly makes promises to contribute to the crypto community and develop the project in the future."
 }

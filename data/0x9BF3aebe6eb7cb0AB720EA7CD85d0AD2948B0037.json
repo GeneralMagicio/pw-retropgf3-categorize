@@ -10,9 +10,7 @@
       "description": "Make optimus be 1 L2 on crypto"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "The diversity of projects funded during this round improved compared to Round 1. The majority of the funded projects in RetroPGF 2 were not specific to Optimism but were part of the broader Ethereum ecosystem. Funded projects spanned a wide range of areas, from infrastructure to education, and operated in different languages and regions.",
   "impactMetrics": [
     {
@@ -40,6 +38,5 @@
   "pwRecategorizeToType": "PROJECT",
   "pwRecategorizeReason": "NO. The application seems to be from a project (\"Optimism Collective\") rather than an individual.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Developer Ecosystem",
   "pwCategorySuggestions": "Smart Contract Platforms, Blockchain Infrastructure, Developer Ecosystem"
 }

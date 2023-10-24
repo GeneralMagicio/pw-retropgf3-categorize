@@ -50,5 +50,6 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xBe5cCb96dD188D8FD855C08E5090b843E40939e1.json",
   "RPGF3_Application_UID": "0x2df3cfa24628dbfa24de5d08b0364beb5a93efb8246dcdcecb5e44ffdf14eadb",
   "applicantAddress": "0xBe5cCb96dD188D8FD855C08E5090b843E40939e1",
-  "pwCategorySuggestions": "Community Building, Social Media Marketing"
+  "pwCategorySuggestions": "Community Building, Social Media Marketing",
+  "pwIsFlagged": false
 }
