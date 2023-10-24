@@ -57,5 +57,6 @@
   "applicantAddress": "0xC1FDB60CFB2FbbD6EDc9b445D9B508Da2dBF2c9b",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Developer Ecosystem"
+  "pwCategory": "Developer Ecosystem",
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Blockchain Infrastructure, Gas Optimization"
 }

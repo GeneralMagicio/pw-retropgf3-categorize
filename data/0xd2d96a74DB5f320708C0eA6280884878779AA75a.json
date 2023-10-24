@@ -50,5 +50,6 @@
   "pwRecategorizeToType": "PROJECT",
   "pwRecategorizeReason": "NO, the application should be categorized as a PROJECT due to the focus on airdrop or community project activities rather than individual contributions.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Community Building"
+  "pwCategory": "Community Building",
+  "pwCategorySuggestions": "Content Creation, Community Building, Cryptocurrency Services"
 }

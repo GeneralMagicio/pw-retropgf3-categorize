@@ -172,5 +172,6 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x8dc640a257DE18857F8d24e1Ae2645F8bBa1E034.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x8dc640a257DE18857F8d24e1Ae2645F8bBa1E034.json",
   "RPGF3_Application_UID": "0x79f3f657cd81dfdf55ebeb5d80abcdb4bb67c50dde5a7369716f830403a118f9",
-  "applicantAddress": "0x8dc640a257DE18857F8d24e1Ae2645F8bBa1E034"
+  "applicantAddress": "0x8dc640a257DE18857F8d24e1Ae2645F8bBa1E034",
+  "pwCategorySuggestions": "Decentralized Healthcare, Web3 Tools, Education"
 }

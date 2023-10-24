@@ -41,5 +41,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "Flag the application: The applicant's activities such as interacting, NFT minting, swapping, deploying contracts are based on user interactions on OP Mainnet, which according to Rule 10.2, are not in scope to be rewarded in RetroPGF 3.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Influencer Marketing"
+  "pwCategory": "Influencer Marketing",
+  "pwCategorySuggestions": "Community Building, Non-Fungible Tokens (NFTs), Blockchain Infrastructure"
 }

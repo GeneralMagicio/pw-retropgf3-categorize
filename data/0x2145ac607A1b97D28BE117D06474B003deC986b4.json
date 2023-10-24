@@ -61,5 +61,6 @@
   "applicantAddress": "0x2145ac607A1b97D28BE117D06474B003deC986b4",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Community Building"
+  "pwCategory": "Community Building",
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Web3 Community Platform, Developer Ecosystem"
 }

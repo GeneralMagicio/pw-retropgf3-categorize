@@ -41,5 +41,6 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xe9F56fd819b34Dc818abB1823DaB219253Df77E4.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xe9F56fd819b34Dc818abB1823DaB219253Df77E4.json",
   "RPGF3_Application_UID": "0x1ba41d263f85d7936b8b639504092024aa35333cee3ca9fefd69da9e9862f732",
-  "applicantAddress": "0xe9F56fd819b34Dc818abB1823DaB219253Df77E4"
+  "applicantAddress": "0xe9F56fd819b34Dc818abB1823DaB219253Df77E4",
+  "pwCategorySuggestions": "Content Creation, Community Building, Marketing and Brand Management"
 }

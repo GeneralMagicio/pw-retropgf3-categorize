@@ -40,5 +40,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged because the contribution and impact descriptions are promises of future impact, which violates rule 1. Also, part of the application is in a language other than English, violating rule 11.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "End User Experience and Adoption"
+  "pwCategory": "End User Experience and Adoption",
+  "pwCategorySuggestions": "Community Building, User Experience & Adoption, Rewards Program"
 }

@@ -15,7 +15,9 @@
       "description": "I have also translated on crowdin optimism."
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "I want to contribute in the field of translators, so far I have translated various optimism articles both on the web, blogs and crowdin\nthat way I hope to help people, especially Indonesians who want to join the optimism ecosystem so that in the future optimism can have more members from various countries that make optimism can continue to grow and be global.",
   "impactMetrics": [
     {
@@ -47,5 +49,6 @@
   "applicantAddress": "0xa87EC1DbBdbcD8b18902DCBC694A9ee58999c16f",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Community Building"
+  "pwCategory": "Community Building",
+  "pwCategorySuggestions": "Community Building, Content Creation, User Experience & Adoption"
 }

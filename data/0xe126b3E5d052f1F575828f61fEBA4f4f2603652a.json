@@ -15,7 +15,9 @@
       "description": "This contains all the code for the open source browser extension."
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "End users in the Optimism Collective and larger crypto ecosystem can use the Revoke.cash token approvals dashboard and browser extension, and consume our educational content. By doing so they can protect themselves from hack and scams. And by using our new exploit checker tool they can check if they are already affected by such exploits, and recover control over their wallet.\n\nThis directly benefits end users in the Collective by saving them money that they might have lost to exploits. It also indirectly benefits companies and projects building in the Collective by providing infrastructure that gives their users more confidence and peace of mind when using decentralised applications.",
   "impactMetrics": [
     {
@@ -70,5 +72,6 @@
   "applicantAddress": "0xe126b3E5d052f1F575828f61fEBA4f4f2603652a",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "User Experience & Adoption"
+  "pwCategory": "User Experience & Adoption",
+  "pwCategorySuggestions": "Blockchain Infrastructure, User Experience & Adoption, Blockchain Education"
 }

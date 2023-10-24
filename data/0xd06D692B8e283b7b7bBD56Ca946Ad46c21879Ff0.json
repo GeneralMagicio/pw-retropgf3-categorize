@@ -78,5 +78,6 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xd06D692B8e283b7b7bBD56Ca946Ad46c21879Ff0.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xd06D692B8e283b7b7bBD56Ca946Ad46c21879Ff0.json",
   "RPGF3_Application_UID": "0x67d88ee0aa76c9b8048f2d67ab388c223e01fd9b860906a9648f159bdf4d89e7",
-  "applicantAddress": "0xd06D692B8e283b7b7bBD56Ca946Ad46c21879Ff0"
+  "applicantAddress": "0xd06D692B8e283b7b7bBD56Ca946Ad46c21879Ff0",
+  "pwCategorySuggestions": "Decentralized Identity, Reputation Systems, Web3 Community Platform"
 }

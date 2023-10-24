@@ -34,5 +34,6 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x8D535b97111A4EF2dE51cb7bc5d0D4B95DF1A9A5.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x8D535b97111A4EF2dE51cb7bc5d0D4B95DF1A9A5.json",
   "RPGF3_Application_UID": "0x23e8758d25a0b7e8d40da7506e696c539174e69c80d0490ac0bd8a8094dd1d2e",
-  "applicantAddress": "0x8D535b97111A4EF2dE51cb7bc5d0D4B95DF1A9A5"
+  "applicantAddress": "0x8D535b97111A4EF2dE51cb7bc5d0D4B95DF1A9A5",
+  "pwCategorySuggestions": "Community Building, Content Creation"
 }

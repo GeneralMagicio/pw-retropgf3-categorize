@@ -20,7 +20,9 @@
       "description": "Article Publication"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "Education and Awareness\nBankless Africa educated new and existing audience about the Optimism collective through diverse channels, reaching over 3,000 audience across Africa and beyond. Content covered Optimism basics, technology, benefits and usage, fostering a positive outlook for the Op collective in Africa\n\nOnboarding through IRL Meetups\nBankless Africa hosted over 4 meet ups across African cities/villages in Nigeria, Ghana and Kenya focused specifically on effective onboarding. Attendees were showed how to create wallets, add op network and engage in simple transactions such as transfers and minting nfts\n\nCommunity Building \nBankless Africa fostered an Op-centric community by engaging community members in informative AMAs and empowering members to participate in the collective",
   "impactMetrics": [
     {
@@ -58,5 +60,6 @@
   "applicantAddress": "0x74021a7599CF772275c6d5699Fb681bEeB0d7AA8",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Blockchain Education"
+  "pwCategory": "Blockchain Education",
+  "pwCategorySuggestions": "Education and Awareness, Community Building, Onboarding"
 }

@@ -10,7 +10,9 @@
       "description": "Twitter "
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "The impact of my contribution in the optimism collective has help optimism grow both as a Blockchain as well as a token. \n\nI frequently engage on social media posts involving optimism in order to promote the project. \n\nHaving one of the lowest fees in the crypto space, I encourage friends and partners to trade your coin as well as hold. \n\nI look forward to a bright future with optimism and I really hope to work with you someday. ",
   "impactMetrics": [
     {
@@ -38,5 +40,6 @@
   "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x6daeA083425d7074FcEE3491ad26235f84A47C1C.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x6daeA083425d7074FcEE3491ad26235f84A47C1C.json",
   "RPGF3_Application_UID": "0x1aa098ab50fe6c379f15308d711529833e418d294453b2be2e06de69b808eb0d",
-  "applicantAddress": "0x6daeA083425d7074FcEE3491ad26235f84A47C1C"
+  "applicantAddress": "0x6daeA083425d7074FcEE3491ad26235f84A47C1C",
+  "pwCategorySuggestions": "Content Creation, Community Building, Decentralized Finance (DeFi)"
 }

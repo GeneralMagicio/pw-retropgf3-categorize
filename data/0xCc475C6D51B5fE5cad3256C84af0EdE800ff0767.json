@@ -40,5 +40,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for promising future impact and deliverables, which is in violation of rule 1.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Community Building"
+  "pwCategory": "Community Building",
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Layer 2 Scaling, NFT Aggregator"
 }

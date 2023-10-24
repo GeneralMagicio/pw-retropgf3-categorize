@@ -10,7 +10,9 @@
       "description": "My Profile in sound.xyz"
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
   "impactDescription": "I have minted  569 collected of the music in sound.xyz and support 29 artists. Have 1 time in \n weekly top collector of sound.xyz. The top 10 of these artists : Marvin Allen, Family Affair...Have been put in top 100 colector of sound.xyz. Share have some post of the artists in twitter, like and retweet.",
   "impactMetrics": [
     {
@@ -48,5 +50,6 @@
   "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x752970b03B3DC1312B5ea01d7Cf412201d1D3701.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x752970b03B3DC1312B5ea01d7Cf412201d1D3701.json",
   "RPGF3_Application_UID": "0xf8fd8ba6da749f1dffb9631c27b486caa6923fdd942d22d326186bd2ac9129a7",
-  "applicantAddress": "0x752970b03B3DC1312B5ea01d7Cf412201d1D3701"
+  "applicantAddress": "0x752970b03B3DC1312B5ea01d7Cf412201d1D3701",
+  "pwCategorySuggestions": "Tokenization Platforms, Blockchain Infrastructure, Decentralized Finance (DeFi)"
 }

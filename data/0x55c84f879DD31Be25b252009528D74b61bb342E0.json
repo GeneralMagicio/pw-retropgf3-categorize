@@ -45,5 +45,6 @@
   "applicantAddress": "0x55c84f879DD31Be25b252009528D74b61bb342E0",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Community Building"
+  "pwCategory": "Community Building",
+  "pwCategorySuggestions": "Community Building, NFT Aggregator, Cryptocurrency Services"
 }

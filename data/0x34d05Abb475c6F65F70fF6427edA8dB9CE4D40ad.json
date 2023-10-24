@@ -20,7 +20,9 @@
       "description": "Base Builder Quest NFT, 1.48M unique wallets"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "Between the 3 campaigns, I was part of -- Base Builder Quest in April 2023 followed by my 2 Base Onchain Summer drops, with Manifold & Zora in Aug 2023 -- my artwork reached almost 1.5M wallets. I have successfully demonstrated my commitment to User Adoption of the Optimism Superchain as a creator, builder, and ambassador. ",
   "impactMetrics": [
     {
@@ -60,5 +62,6 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x34d05Abb475c6F65F70fF6427edA8dB9CE4D40ad.json",
   "RPGF3_Application_UID": "0xb44dcb78ec5e929894422c4adcdce6eb5890447ac00e04af4a446494b2589274",
   "applicantAddress": "0x34d05Abb475c6F65F70fF6427edA8dB9CE4D40ad",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwCategorySuggestions": "NFTs, Community Building, User Experience & Adoption"
 }

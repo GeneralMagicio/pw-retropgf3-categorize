@@ -25,7 +25,9 @@
       "description": "one of the last on decent.xyz, only airdrop to myself"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "As said idk if there is any impact. Measurable that is. But after the open-up and Optimism support i also deployed music NFTs with sound.xyz and manifold.xyz.\nSo why apply here?  I'm one of the users and creators of the Optimism blockchain. Many Dapps often lack users.  Many wallets tbh have still poor Optimism support.\nI would want more users to apply, because they are in the end what the Optimism blockchain exists for.  And if there is a symbolic grant or not, isn't even the point.\nIt's nice that Optimism helped to save gas fees otherwise there wouldn't be any reason to use it, i think this is obvious.",
   "impactMetrics": [
     {
@@ -49,5 +51,6 @@
   "applicantAddress": "0x46642e15d77BbE0bDfcfbf348C38b06153D16049",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Non-Fungible Tokens (NFTs)"
+  "pwCategory": "Non-Fungible Tokens (NFTs)",
+  "pwCategorySuggestions": "Smart Contract Platforms, NFT Platforms, User Experience & Adoption"
 }

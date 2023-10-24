@@ -20,7 +20,10 @@
       "description": "Official Twitter for Optimism Korea - stay updated with all the latest news!"
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "As Optimism Korea has been published with Korean language, it will provide more opportunities to Korean Users and Builders to initiate their web3.0 movement and L2 interest on Optimism. Managing blockchain community for years, legitimate members who have strong philosophy of blockchain and want to enlighten people to know the concept of web3.0 can onboard on this project as we open the door to brake language barrier. In web3.0 industry, Korea has been playing very important role to research and build to improve ecosystem. \n\nTo prove that Optimism Korea works like Optimism Español, we lightly commence a website to share and gather more comrades of Optimism.",
   "impactMetrics": [
     {
@@ -51,5 +54,6 @@
   "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x512cEb57C6BCf86757C2693e729cBEE0AEa7Ffde.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x512cEb57C6BCf86757C2693e729cBEE0AEa7Ffde.json",
   "RPGF3_Application_UID": "0x62ce560a2eed1cf5c2808022d0ffb613eab99e18f2916b11a305b32e2351430d",
-  "applicantAddress": "0x512cEb57C6BCf86757C2693e729cBEE0AEa7Ffde"
+  "applicantAddress": "0x512cEb57C6BCf86757C2693e729cBEE0AEa7Ffde",
+  "pwCategorySuggestions": "Community Building, Content Creation, Web3 Community Platform"
 }

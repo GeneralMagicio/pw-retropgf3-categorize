@@ -10,7 +10,9 @@
       "description": "Marketing pro with strategic skills eager to contribute to Rede Optimism"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "I have extensive experience in digital strategy and marketing, and I am very interested in contributing to your project.\n\nAlthough I did not directly contribute to the project beyond governance on Airdrop day, I believe my knowledge and skills can be valuable to the team. As a strategist, I can help identify opportunities and develop effective plans to achieve our goals. As a digital marketing professional, I can help increase project visibility and attract more users.\n\nI look forward to the opportunity to work with you and contribute to the continued success of the Retropgf project.",
   "impactMetrics": [
     {
@@ -43,5 +45,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for violation of rule 1 - promises of future deliverables are not allowed. The applicant states their future plans on contributing to the project and what they want to achieve.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Community Building"
+  "pwCategory": "Community Building",
+  "pwCategorySuggestions": "Community Building, Digital Marketing, Web3 Community Platform"
 }

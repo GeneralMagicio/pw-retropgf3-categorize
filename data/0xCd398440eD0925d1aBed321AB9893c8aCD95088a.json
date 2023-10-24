@@ -10,7 +10,9 @@
       "description": "@cadlth"
     }
   ],
-  "impactCategory": ["OP_STACK"],
+  "impactCategory": [
+    "OP_STACK"
+  ],
   "impactDescription": "@cadlth @cadlth @cadlth @cadlth @cadlth @cadlth @cadlth @cadlth @cadlth @cadlth @cadlth @cadlth @cadlth @cadlth @cadlth @cadlth @cadlth @cadlth @cadlth @cadlth @cadlth @cadlth @cadlth @cadlth @cadlth @cadlth @cadlth @cadlth @cadlth @cadlth @cadlth @cadlth @cadlth @cadlth @cadlth @cadlth",
   "impactMetrics": [
     {
@@ -36,5 +38,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged because the contribution description and impact description contain nothing but repeated instances of the user's handle, which constitutes spam according to rule 11.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Developer Ecosystem"
+  "pwCategory": "Developer Ecosystem",
+  "pwCategorySuggestions": "Community Building, User Experience & Adoption, Media Production"
 }

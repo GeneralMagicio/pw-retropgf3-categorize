@@ -10,7 +10,9 @@
       "description": "gaktau"
     }
   ],
-  "impactCategory": ["OP_STACK"],
+  "impactCategory": [
+    "OP_STACK"
+  ],
   "impactDescription": "ohyeah wkwkwkwkwkwkwkwkwkkwkwwkkwkwkwkwkwkwkwkwkkwkwkwkwkwkwkwkwkwkkwwkwkwwkkwk gatau gw bang aowkoakwoawkoakowkoakwoakowakowakokoakoakowakoakoaokaowaowkoawkaowkaowkaowkaokwokwaowkaokwoakwaokwoawoakowakwoawkaowkaowkaokwoakwoakwokaowkaowkaowkaowkaowkoakwoa",
   "impactMetrics": [
     {
@@ -42,5 +44,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged because it failed to abide by the rule prohibiting applications in languages other than English.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Community Building"
+  "pwCategory": "Community Building",
+  "pwCategorySuggestions": "Blockchain Infrastructure, Developer Ecosystem"
 }

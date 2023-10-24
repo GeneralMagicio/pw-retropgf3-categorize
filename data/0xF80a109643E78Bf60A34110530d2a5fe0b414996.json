@@ -61,5 +61,6 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xF80a109643E78Bf60A34110530d2a5fe0b414996.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xF80a109643E78Bf60A34110530d2a5fe0b414996.json",
   "RPGF3_Application_UID": "0x5c6601dfaab3603567d35888988d2588444d2f4d009ee16f1ba5ce1ad8036c9c",
-  "applicantAddress": "0xF80a109643E78Bf60A34110530d2a5fe0b414996"
+  "applicantAddress": "0xF80a109643E78Bf60A34110530d2a5fe0b414996",
+  "pwCategorySuggestions": "Tokenization Platforms, Blockchain Infrastructure, Media Production"
 }

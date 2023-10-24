@@ -75,7 +75,9 @@
       "description": "\"ilikedat\" by LATASHÁ  (LATASHÁ & Jah. Music Video Collaboration.)"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "My contributions have introduced diverse voices and innovative narratives to the web3 space. As part of a web3 cultural education team, I've onboarded artists and helped educate 4,000+, expanding the community. While also providing and receiving recognition for dynamic, wide-ranging, and innovative visual artworks.",
   "impactMetrics": [
     {
@@ -133,5 +135,6 @@
   "applicantAddress": "0x9ED5c1B24478f5069fEbd8359A3869F971C365c3",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Community Building"
+  "pwCategory": "Community Building",
+  "pwCategorySuggestions": "Blockchain Education, Content Creation, Community Building"
 }

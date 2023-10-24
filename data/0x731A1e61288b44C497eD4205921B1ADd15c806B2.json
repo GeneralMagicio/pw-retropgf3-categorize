@@ -10,7 +10,9 @@
       "description": "My Behance"
     }
   ],
-  "impactCategory": ["OP_STACK"],
+  "impactCategory": [
+    "OP_STACK"
+  ],
   "impactDescription": "The Optimism Collective believes that impact to the collective should be rewarded with profit to the individual. If you want to get started building, head to our Ecosystem Contributions board to find a project. If you want to get started building, head to our Ecosystem Contributions board to find a project.",
   "impactMetrics": [
     {
@@ -43,5 +45,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for promises of future impact as it mentions anticipations for future rounds of RetroPGF and plans to support builders, creators, and educators, but doesn't provide any past measurable impact on Web3/blockchain space.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Developer Ecosystem"
+  "pwCategory": "Developer Ecosystem",
+  "pwCategorySuggestions": "Governance & Tokens, Developer Ecosystem, End-User Experience"
 }

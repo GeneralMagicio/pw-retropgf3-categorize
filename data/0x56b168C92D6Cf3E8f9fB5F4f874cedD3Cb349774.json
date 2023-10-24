@@ -43,5 +43,6 @@
   "pwRecategorizeToType": "PROJECT",
   "pwRecategorizeReason": "NO, the person's bio, contribution and impact descriptions refer to the use of 'I', indicating that it is an individual applicant.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Optimism Ambassador"
+  "pwCategory": "Optimism Ambassador",
+  "pwCategorySuggestions": "Cross-Chain Platforms, Community Building, Tokenization Platforms"
 }

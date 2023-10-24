@@ -10,7 +10,9 @@
       "description": "智能合约交互"
     }
   ],
-  "impactCategory": ["COLLECTIVE_GOVERNANCE"],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
   "impactDescription": "Älä jää tunteidesi kanssa yksin. 🧡\n\nRahaan liittyvä ahdistus on yleistä. Se voi olla lievää, ohimenevää tai tilannesidonnaista. Pitkittyessään se voi näyttäytyä pelkona, epätoivona ja häpeänä, jolloin rahaan liittyvät tunteet voivat alkaa hallitsemaan ajatuksia.\n\nOn tärkeää kohdata rahaan liittyvät tunteet ja puhua niistä matalalla kynnyksellä. Usein olo helpottuu, kun joku kuuntelee.\n\nHuolien kanssa ei tarvitse jäädä yksi",
   "impactMetrics": [
     {
@@ -42,5 +44,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged because it contains sections that are not written in English, violating Rule 11.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Community Building"
+  "pwCategory": "Community Building",
+  "pwCategorySuggestions": "Decentralized Finance (DeFi)"
 }

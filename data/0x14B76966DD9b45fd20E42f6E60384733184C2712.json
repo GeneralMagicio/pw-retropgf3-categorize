@@ -50,7 +50,9 @@
       "description": "On-chain Detective and Layer 2 Activity On-chain."
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "I've created numerous pieces of content to foster awareness both online and offline regarding the blockchain ecosystem, with a primary focus on Ethereum, Layer 2, and the Optimism Ecosystem. Through these educational materials, my goal is to demystify complex concepts and inspire a deeper understanding of decentralized technologies, encouraging a wider adoption and fostering a community of informed enthusiasts ready to explore the myriad possibilities within this innovative landscape.\n",
   "impactMetrics": [
     {
@@ -122,5 +124,6 @@
   "applicantAddress": "0x14B76966DD9b45fd20E42f6E60384733184C2712",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Blockchain Education"
+  "pwCategory": "Blockchain Education",
+  "pwCategorySuggestions": "Content Creation, Community Building, Education"
 }

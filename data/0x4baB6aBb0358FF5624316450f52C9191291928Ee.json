@@ -79,5 +79,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "Flagged: The application is in English but the links and the content provided are mostly in Russian. This violates Rule 11 which states applications must be in English.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Community Building"
+  "pwCategory": "Community Building",
+  "pwCategorySuggestions": "End-User Experience & Adoption, Community Building, Education"
 }

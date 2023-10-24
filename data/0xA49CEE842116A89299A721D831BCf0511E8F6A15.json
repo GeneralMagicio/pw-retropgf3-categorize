@@ -103,5 +103,6 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xA49CEE842116A89299A721D831BCf0511E8F6A15.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xA49CEE842116A89299A721D831BCf0511E8F6A15.json",
   "RPGF3_Application_UID": "0x32877d8e812b802cedc6a27ad99c2454ef1e2e6c9c1d16147e9a0810a3a01761",
-  "applicantAddress": "0xA49CEE842116A89299A721D831BCf0511E8F6A15"
+  "applicantAddress": "0xA49CEE842116A89299A721D831BCf0511E8F6A15",
+  "pwCategorySuggestions": "NFT Platforms, Community Building, Fundraising"
 }

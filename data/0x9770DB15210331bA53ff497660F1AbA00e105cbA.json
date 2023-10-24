@@ -39,5 +39,6 @@
   "applicantAddress": "0x9770DB15210331bA53ff497660F1AbA00e105cbA",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Non-Fungible Tokens (NFTs)"
+  "pwCategory": "Non-Fungible Tokens (NFTs)",
+  "pwCategorySuggestions": "NFT Aggregator, Trading Tools, Web3 Community Platform"
 }

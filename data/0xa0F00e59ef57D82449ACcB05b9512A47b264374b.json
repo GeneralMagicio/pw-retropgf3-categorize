@@ -130,5 +130,6 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xa0F00e59ef57D82449ACcB05b9512A47b264374b.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xa0F00e59ef57D82449ACcB05b9512A47b264374b.json",
   "RPGF3_Application_UID": "0x6093215024946600fa2f854f941d918ea3a7f11283cb4e430969c36937b39e66",
-  "applicantAddress": "0xa0F00e59ef57D82449ACcB05b9512A47b264374b"
+  "applicantAddress": "0xa0F00e59ef57D82449ACcB05b9512A47b264374b",
+  "pwCategorySuggestions": "Data Analytics, Education, Community Building"
 }

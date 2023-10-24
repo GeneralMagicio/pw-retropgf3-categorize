@@ -20,7 +20,10 @@
       "description": "LlamaFolio open source organization"
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "- LlamaFolio supports 38 DeFi protocols on Optimism for a cumulative TVL of $577m (according to DefiLlama).\n- Our API is being used by LlamaSwap (DEX aggregator) to retrieve users tokens balances (>$726m volume on Optimism and Base).\n- Open sourced our API (http://github.com/llamafolio/llamafolio-api) (8 contributors)\n- Open sourced a registry of popular tokens (https://github.com/llamafolio/llamafolio-tokens) (~4k download on npm)\n- Open sourced an EVM indexer (compatible with Optimism)(https://github.com/llamafolio/evm-indexer) (20+ forks on github)",
   "impactMetrics": [
     {
@@ -55,5 +58,6 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x2cd0ac587Fc0E6FBcF8A47A449971649E7dab835.json",
   "RPGF3_Application_UID": "0xb98aad5071259164b02fe2266401b557446b4d0bcb509fdb94a1acf2095332b4",
   "applicantAddress": "0x2cd0ac587Fc0E6FBcF8A47A449971649E7dab835",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Tokenization Platforms, Blockchain Infrastructure"
 }

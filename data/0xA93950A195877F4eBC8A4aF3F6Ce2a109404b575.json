@@ -102,5 +102,6 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xA93950A195877F4eBC8A4aF3F6Ce2a109404b575.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xA93950A195877F4eBC8A4aF3F6Ce2a109404b575.json",
   "RPGF3_Application_UID": "0x0b2ba3709c19f531dab7bb989f2d7086b4080561f6f49269dd1a3d469c7ef6b1",
-  "applicantAddress": "0xA93950A195877F4eBC8A4aF3F6Ce2a109404b575"
+  "applicantAddress": "0xA93950A195877F4eBC8A4aF3F6Ce2a109404b575",
+  "pwCategorySuggestions": "Blockchain Infrastructure, Content Creation, Community Building"
 }

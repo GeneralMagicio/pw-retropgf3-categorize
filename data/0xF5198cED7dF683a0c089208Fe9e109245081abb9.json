@@ -10,7 +10,10 @@
       "description": "The youtube channel, has been uploading about optimism, and will be teaching ."
     }
   ],
-  "impactCategory": ["COLLECTIVE_GOVERNANCE", "OP_STACK"],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "OP_STACK"
+  ],
   "impactDescription": "this is my first time and seeing protocols like worldcoin, how they making an impact as a software developer i want to be a big part of this and protocol by education, and solving problems in east Africa and the whole Africa.\nSo i have taught and continue to  teach many people In Kenya.\nI want to reach outerparts in EastAfrica and Later in The Whole Africa.\nMany are Farmers so am building a protocol that is helping alot of Farmers to avoid being scammed by leaders and bring financial freedom\n# OPTIMISMISFREEDOM",
   "impactMetrics": [
     {
@@ -42,5 +45,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "Flagged: The application promises future impact and deliverables which is against the grant program rules.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Blockchain Education"
+  "pwCategory": "Blockchain Education",
+  "pwCategorySuggestions": "Tokenization Platforms, Blockchain Infrastructure, Decentralized Finance (DeFi)"
 }

@@ -38,5 +38,6 @@
   "applicantAddress": "0xaa23a779E0E09B40efBc4a5D8539517ffb2E6eF3",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Layer 2 Scaling"
+  "pwCategory": "Layer 2 Scaling",
+  "pwCategorySuggestions": "Governance & Tokens, User Experience & Adoption, NFTs"
 }

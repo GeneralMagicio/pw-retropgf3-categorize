@@ -40,5 +40,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "Flag the application. The contribution description and impact description are vague and do not clearly demonstrate a specific impact on the Web3/blockchain space. The contribution links also lead to a messaging platform, not to a specific project or contribution.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Community Building"
+  "pwCategory": "Community Building",
+  "pwCategorySuggestions": "Community Building, Content Creation, User Experience & Adoption"
 }

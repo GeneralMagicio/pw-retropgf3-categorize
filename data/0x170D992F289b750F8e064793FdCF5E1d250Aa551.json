@@ -48,5 +48,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for spam because the contribution description and impact description lacks substance and appears to be filled with irrelevant repetitive text.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Non-Fungible Tokens (NFTs)"
+  "pwCategory": "Non-Fungible Tokens (NFTs)",
+  "pwCategorySuggestions": "NFTs, Layer 2 Scaling, Optimism"
 }

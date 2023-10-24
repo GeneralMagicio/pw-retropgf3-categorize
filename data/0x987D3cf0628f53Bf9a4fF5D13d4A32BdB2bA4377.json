@@ -33,5 +33,6 @@
   "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x987D3cf0628f53Bf9a4fF5D13d4A32BdB2bA4377.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x987D3cf0628f53Bf9a4fF5D13d4A32BdB2bA4377.json",
   "RPGF3_Application_UID": "0xaf043331448d3bb0f705e6e89168f92a44cec21a6e469cd98d8a6951e5be8d88",
-  "applicantAddress": "0x987D3cf0628f53Bf9a4fF5D13d4A32BdB2bA4377"
+  "applicantAddress": "0x987D3cf0628f53Bf9a4fF5D13d4A32BdB2bA4377",
+  "pwCategorySuggestions": "Cross-Chain Platforms, Decentralized Finance (DeFi), NFT Aggregator"
 }

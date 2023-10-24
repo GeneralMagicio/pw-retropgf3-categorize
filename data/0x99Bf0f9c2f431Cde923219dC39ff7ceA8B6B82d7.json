@@ -41,5 +41,6 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x99Bf0f9c2f431Cde923219dC39ff7ceA8B6B82d7.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x99Bf0f9c2f431Cde923219dC39ff7ceA8B6B82d7.json",
   "RPGF3_Application_UID": "0xba34963f6acad69dddb3d7ab3ba4a78523073e3db0ec8cab0f30c04e229aa387",
-  "applicantAddress": "0x99Bf0f9c2f431Cde923219dC39ff7ceA8B6B82d7"
+  "applicantAddress": "0x99Bf0f9c2f431Cde923219dC39ff7ceA8B6B82d7",
+  "pwCategorySuggestions": "Tokenization Platforms"
 }

@@ -52,5 +52,6 @@
   "applicantAddress": "0x953A1531acDE08DDE9644b81850E45FE85555f39",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Layer 2 Scaling"
+  "pwCategory": "Layer 2 Scaling",
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Layer 2 Scaling, Web3 Community Platform"
 }

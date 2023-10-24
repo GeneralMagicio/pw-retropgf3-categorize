@@ -44,5 +44,6 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x7719Be6618F4de9D9CacC5bEd06190BD7137b387.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x7719Be6618F4de9D9CacC5bEd06190BD7137b387.json",
   "RPGF3_Application_UID": "0x461ff414c09032392d6191da84e70489c070fe85c185dde3ea48f3ca7ab569cc",
-  "applicantAddress": "0x7719Be6618F4de9D9CacC5bEd06190BD7137b387"
+  "applicantAddress": "0x7719Be6618F4de9D9CacC5bEd06190BD7137b387",
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Bridge Protocol, Optimus, Wallet Management"
 }

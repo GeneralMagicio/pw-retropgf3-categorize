@@ -41,5 +41,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for violating rule 10 as the contributions mentioned such as making a lot of transactions and minting NFTs are user interactions, which are not in scope to be rewarded in this grant program.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Layer 2 Scaling"
+  "pwCategory": "Layer 2 Scaling",
+  "pwCategorySuggestions": "Layer 2 Scaling, NFT Aggregator, Web3 Community Platform"
 }

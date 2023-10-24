@@ -15,7 +15,10 @@
       "description": "Github action for slither"
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM", "OP_STACK"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "OP_STACK"
+  ],
   "impactDescription": "By allowing developers to find the most common vulnerabilities on their smart contracts, Slither helps to improve the security of the Optimism ecosystem.\n\nSlither has 90+ detectors, and works on both Solidity and Vyper. In addition it provides printers, helping to review quickly features of contracts. It's python API can also be used to leverage its inbuilt analysis for custom needs.\n\nSlither can directly be run on a contract deployed on optimism, with `slither optim:0x..ADDRESS`",
   "impactMetrics": [
     {
@@ -50,5 +53,6 @@
   "applicantAddress": "0x91E89d4c34Ce348E70Ff2c59555517856E662bB0",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Developer Ecosystem"
+  "pwCategory": "Developer Ecosystem",
+  "pwCategorySuggestions": "Smart Contract Analysis, Developer Tools"
 }

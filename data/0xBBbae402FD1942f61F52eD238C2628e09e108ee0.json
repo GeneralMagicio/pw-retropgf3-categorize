@@ -10,7 +10,9 @@
       "description": "Binance"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "My contributions are very important to cryptocurrency, it gives the public quick and easier access, many great things about the cryptocurrency market are waiting for everyone to discover, expand the scale and increase the influence.  Enjoying links with large organizations, cryptocurrencies will grow stronger over time",
   "impactMetrics": [
     {
@@ -41,5 +43,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for violating the rules as it contains promises of future impact, which is against rule 1. The applicant states \"I will actively vote for the admin, I will do the tasks required by the project, I will actively use the network and give feedback, if I have a good idea I will propose it to the board, I will continue the discussion\". These are all actions they plan on doing in the future, not things they have already done.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Community Building"
+  "pwCategory": "Community Building",
+  "pwCategorySuggestions": "Community Building, Governance & Tokens, Decentralized Finance (DeFi)"
 }

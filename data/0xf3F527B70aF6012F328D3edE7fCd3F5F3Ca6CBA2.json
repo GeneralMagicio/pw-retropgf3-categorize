@@ -56,5 +56,6 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xf3F527B70aF6012F328D3edE7fCd3F5F3Ca6CBA2.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xf3F527B70aF6012F328D3edE7fCd3F5F3Ca6CBA2.json",
   "RPGF3_Application_UID": "0x53cb6fdfffcd21aa5dfa3148f22fcbcfded49bafde4545047c2e43279fb0fbb6",
-  "applicantAddress": "0xf3F527B70aF6012F328D3edE7fCd3F5F3Ca6CBA2"
+  "applicantAddress": "0xf3F527B70aF6012F328D3edE7fCd3F5F3Ca6CBA2",
+  "pwCategorySuggestions": "Wallet Management, Web3 Community Platform, Decentralized Finance (DeFi)"
 }

@@ -46,5 +46,6 @@
   "applicantAddress": "0xaB5309888C39646bb222a70E0Bc1C69e3326Ee77",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "End User Experience and Adoption"
+  "pwCategory": "End User Experience and Adoption",
+  "pwCategorySuggestions": "Community Building, User Experience & Adoption, Beta Testing"
 }

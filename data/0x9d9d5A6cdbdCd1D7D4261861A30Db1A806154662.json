@@ -125,5 +125,6 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x9d9d5A6cdbdCd1D7D4261861A30Db1A806154662.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x9d9d5A6cdbdCd1D7D4261861A30Db1A806154662.json",
   "RPGF3_Application_UID": "0xf0e9da0f8ecaa1caaf7fbcfbb2c51dbdfcfc9be1becc3fc5d584b56779ba6b5e",
-  "applicantAddress": "0x9d9d5A6cdbdCd1D7D4261861A30Db1A806154662"
+  "applicantAddress": "0x9d9d5A6cdbdCd1D7D4261861A30Db1A806154662",
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Blockchain Infrastructure, Tokenization Platforms"
 }

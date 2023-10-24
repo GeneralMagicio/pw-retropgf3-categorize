@@ -39,5 +39,6 @@
   "applicantName": "GabrielZygmunt",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xB65dE60cF2B0F10742Ee1E73142AA69aBc7f74de.json",
   "RPGF3_Application_UID": "0x262452b5c368e43dd22b88f9a75e4c60bb893ed2974e2d8ccaa013bd1fd1d445",
-  "applicantAddress": "0xB65dE60cF2B0F10742Ee1E73142AA69aBc7f74de"
+  "applicantAddress": "0xB65dE60cF2B0F10742Ee1E73142AA69aBc7f74de",
+  "pwCategorySuggestions": "Governance & Tokens, Community Building, User Experience & Adoption"
 }

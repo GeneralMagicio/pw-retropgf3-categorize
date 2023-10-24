@@ -41,5 +41,6 @@
   "applicantName": "marquez",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x723626CBB2D266b198dcc3C6928094DBC963C5B5.json",
   "RPGF3_Application_UID": "0x63c6953123e3fc3bede4647eb17234eb2315d5e64ccf666c2b245167e44d46ae",
-  "applicantAddress": "0x723626CBB2D266b198dcc3C6928094DBC963C5B5"
+  "applicantAddress": "0x723626CBB2D266b198dcc3C6928094DBC963C5B5",
+  "pwCategorySuggestions": "Non-Fungible Tokens (NFTs), Decentralized Finance (DeFi)"
 }

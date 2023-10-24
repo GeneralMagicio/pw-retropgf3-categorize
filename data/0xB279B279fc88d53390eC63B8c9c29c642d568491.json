@@ -10,7 +10,9 @@
       "description": "Rastha"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "Ive made a lot of refferals to my IRL friends, and they liked to use the chain, they are using some protocols like Synthetix, Polynominal and Thales. Ive not made a lot of contributions but great things are made by a lot of small things brought together",
   "impactMetrics": [
     {
@@ -41,5 +43,6 @@
   "applicantAddress": "0xB279B279fc88d53390eC63B8c9c29c642d568491",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Optimism Ambassador"
+  "pwCategory": "Optimism Ambassador",
+  "pwCategorySuggestions": "Layer 2 Scaling, Smart Contract Platforms, Decentralized Finance (DeFi)"
 }

@@ -47,5 +47,6 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x7ab066BCD945264e1B1C8d451CB3517c973e676c.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x7ab066BCD945264e1B1C8d451CB3517c973e676c.json",
   "RPGF3_Application_UID": "0x8dc985486bea3e55a0bf61a1622319985802a6a446a34b23d1c819811c10fb0f",
-  "applicantAddress": "0x7ab066BCD945264e1B1C8d451CB3517c973e676c"
+  "applicantAddress": "0x7ab066BCD945264e1B1C8d451CB3517c973e676c",
+  "pwCategorySuggestions": "Blockchain Education, Web3 Community Platform, Governance & Tokens"
 }

@@ -50,7 +50,9 @@
       "description": "ClayStack: Liquid Staking"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "I created my social media platform for sharing content in 2022. I began with a Facebook page that shared information about interesting dApps, airdrops, security, and educational content.\n\nAfterward, I transitioned to creating a Twitter account dedicated to sharing educational content and became a full-time researcher. I have successfully introduced numerous end users to the Optimism, Ethereum and Crypto ecosystems.",
   "impactMetrics": [
     {
@@ -82,5 +84,6 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x3D2c984b5e19706c13529855f50fc5482De23bFf.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x3D2c984b5e19706c13529855f50fc5482De23bFf.json",
   "RPGF3_Application_UID": "0x7cecab5fee27033ffa260ec62dae5bfea24d9f6714b453c331ee9dc86a562db7",
-  "applicantAddress": "0x3D2c984b5e19706c13529855f50fc5482De23bFf"
+  "applicantAddress": "0x3D2c984b5e19706c13529855f50fc5482De23bFf",
+  "pwCategorySuggestions": "Community Building, Education, Content Creation"
 }

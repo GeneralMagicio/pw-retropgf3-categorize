@@ -114,5 +114,6 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x0AF52E01F87fCE46caf4c5B4C03e879c3441a19F.json",
   "RPGF3_Application_UID": "0x4e08982cc62798c181d57115ec78b2a0758dbf497814ccd84c2ee1e9dcd9e607",
   "applicantAddress": "0x0AF52E01F87fCE46caf4c5B4C03e879c3441a19F",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwCategorySuggestions": "Media Production, Content Creation, Community Building"
 }

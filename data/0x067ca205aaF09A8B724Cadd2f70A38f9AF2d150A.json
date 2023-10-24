@@ -10,7 +10,9 @@
       "description": "The link shows on-chain activities of developers from Web3bridge."
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
   "impactDescription": "Web3bridge, as a Web3 development bootcamp has been directly and indirectly responsible for a large number of developers building on various chains (Optimism inclusive) from Africa. Web3bridge has run Eight (8) successful cohorts with cohort IX presently in session, also Web3bridge has supported over five (5) other boot camps in Africa training Web3 developers with curriculum and mentors to ensure that the African ecosystem produce developers who are able to work in and build dapps for the ecosystem across chains.\n\n\nWeb3bridge has also across various cohorts introduced the developers to Optimism while learning in the cohorts and generally working to make sure that there is a growing number of developers in the ecosystem to support adoption and dev onboarding to various chains",
   "impactMetrics": [
     {
@@ -41,5 +43,6 @@
   "applicantAddress": "0x067ca205aaF09A8B724Cadd2f70A38f9AF2d150A",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Developer Ecosystem"
+  "pwCategory": "Developer Ecosystem",
+  "pwCategorySuggestions": "Blockchain Education, Developer Ecosystem, Web3 Community Platform"
 }

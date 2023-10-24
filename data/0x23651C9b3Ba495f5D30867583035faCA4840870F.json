@@ -10,7 +10,9 @@
       "description": "Github Repository for Optimistic Indexer"
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
   "impactDescription": "Our open-source indexer facilitates enhanced blockchain application interactions with smart contracts. It provides efficient blockchain data access via APIs, aiding the Collective in innovation. The indexer has handled a sizable user base and events, demonstrating scalability for over 50K+ onchain users. As an open-source solution, it offers a cost-effective alternative to decentralized or in-house indexers. It simplifies transaction data and event access, enabling permissionless development. Developers and new projects, previously reliant on other indexers, benefit significantly. The indexer was employed in Polynomial's Earn Vaults v2, serving over 50K users and indexing 250K+ events, showcasing its utility. For more detailed performance insights, refer to the impact metrics section.",
   "impactMetrics": [
     {
@@ -38,5 +40,6 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x23651C9b3Ba495f5D30867583035faCA4840870F.json",
   "RPGF3_Application_UID": "0x90ef634fad04d6ac2882db44d4a84f31c7f0621f3abd00efb067416e4ff1641c",
   "applicantAddress": "0x23651C9b3Ba495f5D30867583035faCA4840870F",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwCategorySuggestions": "Smart Contract Platforms, Tokenization Platforms, Blockchain Infrastructure"
 }

@@ -45,5 +45,6 @@
   "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xefef50EbACd8DA3c13932ac204361B704Eb8292C.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xefef50EbACd8DA3c13932ac204361B704Eb8292C.json",
   "RPGF3_Application_UID": "0xb35269ecc1f0a00cdbd12ba986f61174ae69bc6274aaabbb8ec13eff0ea1b461",
-  "applicantAddress": "0xefef50EbACd8DA3c13932ac204361B704Eb8292C"
+  "applicantAddress": "0xefef50EbACd8DA3c13932ac204361B704Eb8292C",
+  "pwCategorySuggestions": "Smart Contract Development, Interoperability"
 }

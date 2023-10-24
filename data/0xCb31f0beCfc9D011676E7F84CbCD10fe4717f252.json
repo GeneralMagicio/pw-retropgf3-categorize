@@ -120,7 +120,10 @@
       "description": "Link to Full Content Database on Notion"
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "With my content I have educated users and thereby created turst/credibility. Furthermore, I have inspired new users to join the Collective. By familiarizing people with the technology & educating them about the trust assumptions that underly the networks, I contributed to growing the community, as is evidenced by the significant reach of my posts/threads (see google sheet linked below).\n\nAdditionally, my more technical content is empowering builders to design highly customized app-specific rollups on the OP-Stack & piece together the ideal network configs for their specific use cases, also through RaaS like Caldera. By educating builders about the advantages of modular execution layers, I help to grow the OP Stack's ecosystem of builders and subsequently chains in the Superchain vision.",
   "impactMetrics": [
     {
@@ -145,5 +148,6 @@
   "applicantAddress": "0xCb31f0beCfc9D011676E7F84CbCD10fe4717f252",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Blockchain Education"
+  "pwCategory": "Blockchain Education",
+  "pwCategorySuggestions": "Blockchain Education, Content Creation, Developer Ecosystem"
 }

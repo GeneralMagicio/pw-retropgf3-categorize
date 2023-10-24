@@ -45,5 +45,6 @@
   "applicantName": "Kwenta",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xC065E02D562cc390F3569305990BFD13B17eEC6B.json",
   "RPGF3_Application_UID": "0x4cd4c0671a5d7bda3cd010d83ca26956c608eb0fc4350291acedb62596d3c03c",
-  "applicantAddress": "0xC065E02D562cc390F3569305990BFD13B17eEC6B"
+  "applicantAddress": "0xC065E02D562cc390F3569305990BFD13B17eEC6B",
+  "pwCategorySuggestions": "Decentralized Exchanges (DEXs), Layer 2 Scaling, Community Building"
 }

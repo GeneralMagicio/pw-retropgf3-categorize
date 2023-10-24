@@ -30,10 +30,17 @@ export async function exportCategorySuggestionsCsv(filter: string) {
 
   try {
     const parser = new Parser({
-      fields: ["displayName",     });
+      fields: [
+        "displayName",
+        "bio",
+        "contributionDescription",
+        "impactDescription",
+        "RPGF3_Application_UID",
+      ],
+    });
     const csv = parser.parse(applications);
     await fs.writeFile(
-      `export/category-suggestions-${filter.toLocaleLowerCase()}`,
+      `export/category-suggestions-${filter.toLocaleLowerCase()}.csv`,
       csv
     );
   } catch (err) {

@@ -10,7 +10,9 @@
       "description": "Oldskool SpeedMetalBand"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "There is still no impact on the Optimism Collective as I am still thinking of converting the original musicfiles of my band into NFT's on the Optimism blockchain for selling to the public. Our music was written in 1984 and recorded in a 24-tracks studio. ",
   "impactMetrics": [
     {
@@ -36,5 +38,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for violating the rule of \"Promises of future impact\" as the applicant is indicating plans to convert music files into NFTs but hasn't yet executed or made any impact.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Non-Fungible Tokens (NFTs)"
+  "pwCategory": "Non-Fungible Tokens (NFTs)",
+  "pwCategorySuggestions": "NFTs, Tokenization Platforms"
 }

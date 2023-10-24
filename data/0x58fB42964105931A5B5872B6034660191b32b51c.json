@@ -10,7 +10,9 @@
       "description": "etherscan"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "My contributions to optimism is that i used it on bridging and minting nfts. With its low gas fees, I can easily interact with different NFT projects and bridging funds. Its super fast and I really love it. Soon, it will surpass etherium and will solve its scalability challenges.",
   "impactMetrics": [
     {
@@ -42,5 +44,6 @@
   "applicantAddress": "0x58fB42964105931A5B5872B6034660191b32b51c",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Layer 2 Scaling"
+  "pwCategory": "Layer 2 Scaling",
+  "pwCategorySuggestions": "Layer 2 Scaling, Non-Fungible Tokens (NFTs), Blockchain Infrastructure"
 }

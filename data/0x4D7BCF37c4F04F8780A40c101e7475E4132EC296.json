@@ -10,7 +10,9 @@
       "description": "RetroPGF Round 2"
     }
   ],
-  "impactCategory": ["COLLECTIVE_GOVERNANCE"],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
   "impactDescription": "\nMy contributions have strengthened the Optimism Collective by improving platform performance, nurturing a vibrant community, and increasing visibility. These efforts have elevated user confidence and participation in the Optimism ecosystem, fostering growth and innovation.",
   "impactMetrics": [
     {
@@ -35,5 +37,6 @@
   "applicantAddress": "0x4D7BCF37c4F04F8780A40c101e7475E4132EC296",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Developer Ecosystem"
+  "pwCategory": "Developer Ecosystem",
+  "pwCategorySuggestions": "Community Building, Developer Ecosystem, User Experience & Adoption"
 }

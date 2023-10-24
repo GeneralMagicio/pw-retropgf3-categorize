@@ -45,5 +45,6 @@
   "applicantName": "ProMint",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xC48f0a509f8D7ef050022a78Df5FeFA0fC3a2FEb.json",
   "RPGF3_Application_UID": "0xf2e5092df31bedfdc2e758e6a5f63da1a02f2e1e4903b18b6215b821b3e10324",
-  "applicantAddress": "0xC48f0a509f8D7ef050022a78Df5FeFA0fC3a2FEb"
+  "applicantAddress": "0xC48f0a509f8D7ef050022a78Df5FeFA0fC3a2FEb",
+  "pwCategorySuggestions": "Content Creation, Community Building, End-User Experience"
 }

@@ -10,7 +10,10 @@
       "description": "x.com influencer"
     }
   ],
-  "impactCategory": ["COLLECTIVE_GOVERNANCE", "OP_STACK"],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "OP_STACK"
+  ],
   "impactDescription": "But this is not just about financial gain. It's about being part of a global community that is driving the transformation of the world's economic landscape. By embracing cryptocurrencies, we become champions of financial inclusion, privacy, and empowerment.",
   "impactMetrics": [
     {
@@ -41,5 +44,6 @@
   "applicantAddress": "0xd47315929C1A1757782453B776ada2cbEfacEFfB",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Influencer Marketing"
+  "pwCategory": "Influencer Marketing",
+  "pwCategorySuggestions": "Community Building, Education, Cryptocurrency Services"
 }

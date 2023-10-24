@@ -61,5 +61,6 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xAcb4313910574b69e8116617105b97993ED8319d.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xAcb4313910574b69e8116617105b97993ED8319d.json",
   "RPGF3_Application_UID": "0x2f75e5c1fce8a95703eff8dbecda9d426edcca1db1b69628e151b57b21bfa25c",
-  "applicantAddress": "0xAcb4313910574b69e8116617105b97993ED8319d"
+  "applicantAddress": "0xAcb4313910574b69e8116617105b97993ED8319d",
+  "pwCategorySuggestions": "Education, Community Building, Technology Adoption"
 }

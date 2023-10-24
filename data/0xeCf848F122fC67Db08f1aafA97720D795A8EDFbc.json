@@ -10,7 +10,10 @@
       "description": "github account"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION", "OP_STACK"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
   "impactDescription": "I have contributed to the development of the Optimism Kovan testnet, which has played a vital role in testing and debugging the Optimism protocol. I have also contributed to the development of the Optimism documentation, which has helped to make the project more accessible to new users and developers.",
   "impactMetrics": [
     {
@@ -34,5 +37,6 @@
   "applicantAddress": "0xeCf848F122fC67Db08f1aafA97720D795A8EDFbc",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Developer Ecosystem"
+  "pwCategory": "Developer Ecosystem",
+  "pwCategorySuggestions": "Developer Ecosystem, Documentation, Layer 2 Scaling"
 }

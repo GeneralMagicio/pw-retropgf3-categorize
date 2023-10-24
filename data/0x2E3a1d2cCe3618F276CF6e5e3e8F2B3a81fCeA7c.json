@@ -55,5 +55,6 @@
   "pwRecategorizeToType": "PROJECT",
   "pwRecategorizeReason": "NO, the application is incorrectly categorized as \"INDIVIDUAL\". The contribution description, impact description, and the provided website URL suggest that this is a project rather than an individual.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Community Building"
+  "pwCategory": "Community Building",
+  "pwCategorySuggestions": "Community Building, User Experience & Adoption, Governance & Tokens"
 }

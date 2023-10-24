@@ -40,7 +40,9 @@
       "description": "Latest Dencun devnet release."
     }
   ],
-  "impactCategory": ["OP_STACK"],
+  "impactCategory": [
+    "OP_STACK"
+  ],
   "impactDescription": "We have contributed to the ongoing effort of the EF's DevOps team EthPandaOps on the EIP-4844 by being the go-to solution for visualizing, examining, and navigating blob shard txs, as well as ensuring blob data persistence and its consistent availability through our web app and REST API.\n\nBlobscan has been integrated as a core tool into the EIP-4844 development stack. It has been notably integrated into ethPandaOps's Helm charts repository for easy Kubernetes deployment. The DevOps team runs their own dedicated instance of our explorer as well. We have extended support for every devnet, and as of now, have supported seven releases.",
   "impactMetrics": [
     {
@@ -98,5 +100,6 @@
   "applicantAddress": "0xA6505171a320AAD27da33c9514b555D3b331D235",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Developer Ecosystem"
+  "pwCategory": "Developer Ecosystem",
+  "pwCategorySuggestions": "Blockchain Infrastructure, Developer Tools"
 }

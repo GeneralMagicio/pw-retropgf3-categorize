@@ -78,5 +78,6 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x60d0edb6e40cd6BF0b1DFc90C58bA0D3Ed0C9A2d.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x60d0edb6e40cd6BF0b1DFc90C58bA0D3Ed0C9A2d.json",
   "RPGF3_Application_UID": "0xddc9a054991a682b95fd92825602c1b0dafde853408d08328f9cca77e6fd0caf",
-  "applicantAddress": "0x60d0edb6e40cd6BF0b1DFc90C58bA0D3Ed0C9A2d"
+  "applicantAddress": "0x60d0edb6e40cd6BF0b1DFc90C58bA0D3Ed0C9A2d",
+  "pwCategorySuggestions": "Bridge and Onboarding, Layer 2 Scaling, Decentralized Finance (DeFi)"
 }

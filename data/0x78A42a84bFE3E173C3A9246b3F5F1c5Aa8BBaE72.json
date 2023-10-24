@@ -45,5 +45,6 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x78A42a84bFE3E173C3A9246b3F5F1c5Aa8BBaE72.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x78A42a84bFE3E173C3A9246b3F5F1c5Aa8BBaE72.json",
   "RPGF3_Application_UID": "0xf2fa6ac688020b373c3b7a0342f89986ef1fe95003abb826cfcef3a842bbcb9a",
-  "applicantAddress": "0x78A42a84bFE3E173C3A9246b3F5F1c5Aa8BBaE72"
+  "applicantAddress": "0x78A42a84bFE3E173C3A9246b3F5F1c5Aa8BBaE72",
+  "pwCategorySuggestions": "Decentralized Social Messaging, NFT Integration, Community Organization"
 }

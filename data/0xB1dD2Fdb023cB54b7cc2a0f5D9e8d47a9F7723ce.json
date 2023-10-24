@@ -76,5 +76,6 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xB1dD2Fdb023cB54b7cc2a0f5D9e8d47a9F7723ce.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xB1dD2Fdb023cB54b7cc2a0f5D9e8d47a9F7723ce.json",
   "RPGF3_Application_UID": "0x39d1825ce239c5125f84e5269af4c692a71a93f651dd40e813f0aabaf016b5fd",
-  "applicantAddress": "0xB1dD2Fdb023cB54b7cc2a0f5D9e8d47a9F7723ce"
+  "applicantAddress": "0xB1dD2Fdb023cB54b7cc2a0f5D9e8d47a9F7723ce",
+  "pwCategorySuggestions": "Decentralized Exchanges (DEXs), Trading Tools, Tokenization Platforms"
 }

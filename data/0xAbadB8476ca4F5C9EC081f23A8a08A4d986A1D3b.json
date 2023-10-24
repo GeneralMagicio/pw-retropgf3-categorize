@@ -45,5 +45,6 @@
   "applicantAddress": "0xAbadB8476ca4F5C9EC081f23A8a08A4d986A1D3b",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "End User Experience and Adoption"
+  "pwCategory": "End User Experience and Adoption",
+  "pwCategorySuggestions": "User Experience & Adoption, Developer Ecosystem, Web3 Community Platform"
 }

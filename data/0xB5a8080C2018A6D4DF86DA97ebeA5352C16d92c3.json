@@ -40,5 +40,6 @@
   "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xB5a8080C2018A6D4DF86DA97ebeA5352C16d92c3.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xB5a8080C2018A6D4DF86DA97ebeA5352C16d92c3.json",
   "RPGF3_Application_UID": "0x2c8225bfeca1b329736cf6945bfb0028f043c8171120b1323cd3553826b9337f",
-  "applicantAddress": "0xB5a8080C2018A6D4DF86DA97ebeA5352C16d92c3"
+  "applicantAddress": "0xB5a8080C2018A6D4DF86DA97ebeA5352C16d92c3",
+  "pwCategorySuggestions": "Blockchain Infrastructure, Data Analysis, Network Monitoring"
 }

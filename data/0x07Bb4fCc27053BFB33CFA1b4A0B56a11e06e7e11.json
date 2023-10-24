@@ -210,7 +210,7 @@
     },
     {
       "description": "Thoughts and prayers for alt L1s",
-      "number": 4.069460496408431e55,
+      "number": 4.069460496408431e+55,
       "url": "https://they_need_all_the_help_they_can_get"
     },
     {
@@ -234,5 +234,6 @@
   "RPGF3_Application_UID": "0xa61ec1b9a25e78d19e25d5e23dc3413ed056b8e40180a3efd3321577a64b5735",
   "applicantAddress": "0x07Bb4fCc27053BFB33CFA1b4A0B56a11e06e7e11",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "This application should be flagged for false statements and deception, as the applicant admits to not having done any work worthy of a retroactive reward."
+  "pwFlaggedReason": "This application should be flagged for false statements and deception, as the applicant admits to not having done any work worthy of a retroactive reward.",
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Smart Contract Platforms, Blockchain Infrastructure"
 }

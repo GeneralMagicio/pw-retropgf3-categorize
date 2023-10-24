@@ -20,7 +20,9 @@
       "description": "Proofivy homepage with more info"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "Proofivy has provided a novel crypto application, onchain IP, for Optimism users.\nProofivy has onboarded scientists to Optimism. Feedback from them has been great.\n\nProofivy's iPhone app has expended the reach of Optimism to users without a crypto wallet.",
   "impactMetrics": [
     {
@@ -45,5 +47,6 @@
   "applicantAddress": "0x38189D98110A395A1366F1c95875f81fD458a6C3",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "User Experience & Adoption"
+  "pwCategory": "User Experience & Adoption",
+  "pwCategorySuggestions": "Decentralized Identity, Web3 Community Platform"
 }

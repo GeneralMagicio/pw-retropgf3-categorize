@@ -60,5 +60,6 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x8ab83D869f2Bc250b781D26F6584fd5c562FdD9D.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x8ab83D869f2Bc250b781D26F6584fd5c562FdD9D.json",
   "RPGF3_Application_UID": "0x3966cf2ba759552d83e72b370d0c90f1f63f2a93f0d393c575696be9786fc476",
-  "applicantAddress": "0x8ab83D869f2Bc250b781D26F6584fd5c562FdD9D"
+  "applicantAddress": "0x8ab83D869f2Bc250b781D26F6584fd5c562FdD9D",
+  "pwCategorySuggestions": "Tokenization Platforms, Blockchain Infrastructure, User Experience & Adoption"
 }

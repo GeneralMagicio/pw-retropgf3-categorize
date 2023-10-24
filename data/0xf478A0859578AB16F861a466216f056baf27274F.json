@@ -49,5 +49,6 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, the application is categorized as a project but the use of first-person pronouns such as \"I\" in the \"contributionDescription\" suggests that this might be an individual.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Blockchain Infrastructure"
+  "pwCategory": "Blockchain Infrastructure",
+  "pwCategorySuggestions": "Media Production"
 }

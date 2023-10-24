@@ -37,5 +37,6 @@
   "applicantName": "0xSalman",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xBae5aBDc9BdB50d4DE0ac07eE13f233e6AF2Eaae.json",
   "RPGF3_Application_UID": "0x5effc6bf83d22623146bdd81e6bb55bc287b68aced8ad0d4be8cccbf5f408b19",
-  "applicantAddress": "0xBae5aBDc9BdB50d4DE0ac07eE13f233e6AF2Eaae"
+  "applicantAddress": "0xBae5aBDc9BdB50d4DE0ac07eE13f233e6AF2Eaae",
+  "pwCategorySuggestions": "Blockchain Infrastructure, Developer Ecosystem"
 }

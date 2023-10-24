@@ -10,7 +10,9 @@
       "description": "My telegram channel"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "I'm sharing about Optimism in my community on Telegram and with friends. A lot of them are investing heavily in Optimism and support delegation protocols. Also, I encourage them to share the word about Optimism through their influencer network. Hope that helps!",
   "impactMetrics": [
     {
@@ -42,5 +44,6 @@
   "applicantAddress": "0x05B938467c7009733719c48410D6Fd939A320271",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Community Building"
+  "pwCategory": "Community Building",
+  "pwCategorySuggestions": "Community Building, Delegated Voting, Cryptocurrency Investment"
 }

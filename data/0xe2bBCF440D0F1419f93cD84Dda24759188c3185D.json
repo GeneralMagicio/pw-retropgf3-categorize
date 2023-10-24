@@ -41,5 +41,6 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xe2bBCF440D0F1419f93cD84Dda24759188c3185D.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xe2bBCF440D0F1419f93cD84Dda24759188c3185D.json",
   "RPGF3_Application_UID": "0x1402768b4e6481137978e3ecd853cb0e7eefff51f2b8838c382b5d4907931224",
-  "applicantAddress": "0xe2bBCF440D0F1419f93cD84Dda24759188c3185D"
+  "applicantAddress": "0xe2bBCF440D0F1419f93cD84Dda24759188c3185D",
+  "pwCategorySuggestions": "Blockchain Infrastructure, User Experience & Adoption, Privacy Coins"
 }

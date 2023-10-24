@@ -35,5 +35,6 @@
   "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x581f00D9ebef412FDaf173f14164275925c846B1.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x581f00D9ebef412FDaf173f14164275925c846B1.json",
   "RPGF3_Application_UID": "0x88c7517ba93f1ab692ec4443dace7758e907b7a34ca27fb868ee1a94ccc72ebf",
-  "applicantAddress": "0x581f00D9ebef412FDaf173f14164275925c846B1"
+  "applicantAddress": "0x581f00D9ebef412FDaf173f14164275925c846B1",
+  "pwCategorySuggestions": "Community Building, User Experience & Adoption, Governance & Tokens"
 }

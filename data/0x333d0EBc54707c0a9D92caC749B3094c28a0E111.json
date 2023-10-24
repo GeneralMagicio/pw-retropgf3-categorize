@@ -20,7 +20,9 @@
       "description": "Farcaster, Permissionless "
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "Created artwork with over two thousand NFTs minted in support of Farcaster and the Farcaster ecosystem. Created art for first Nouns style DAO not on Mainnet for ENERGY DAO on the ZORA network.  Creator of Purple DAO season two artwork for Farcaster's public good DAO. ",
   "impactMetrics": [
     {
@@ -59,5 +61,6 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x333d0EBc54707c0a9D92caC749B3094c28a0E111.json",
   "RPGF3_Application_UID": "0x94102ff78bd85aaf9f0e113720be12b18aff3a47f8bd313387c4a78d687ac330",
   "applicantAddress": "0x333d0EBc54707c0a9D92caC749B3094c28a0E111",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwCategorySuggestions": "NFTs"
 }

@@ -107,5 +107,6 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xe1887fF140BfA9D3b45D0B2077b7471124acD242.jpeg",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xe1887fF140BfA9D3b45D0B2077b7471124acD242.json",
   "RPGF3_Application_UID": "0x77fed52df52899326c6f32bf7f310beed1bfd2fab75b3c952017e590481846e5",
-  "applicantAddress": "0xe1887fF140BfA9D3b45D0B2077b7471124acD242"
+  "applicantAddress": "0xe1887fF140BfA9D3b45D0B2077b7471124acD242",
+  "pwCategorySuggestions": "Web3 Education, Layer 2 Scaling, NFT Collectibles"
 }

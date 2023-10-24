@@ -10,7 +10,9 @@
       "description": "Sum Pictures  gives the decision making power to creators and their audiences."
     }
   ],
-  "impactCategory": ["COLLECTIVE_GOVERNANCE"],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
   "impactDescription": "\n\nWe stand at a crossroads in the history of entertainment with unprecedented potential to propel the industry into new horizons.\n\nAt SUM PICTURES, we're committed to navigating this exciting landscape, driving innovation and pushing boundaries.\n\n\nIn the present landscape,\n\na mere handful of algorithm-driven executives\n\nhold the power to grant projects the green light.\n\nSum Pictures\n\ngives that power to creators and their audiences,\n\nallowing them to decide which movies get made and how.\n",
   "impactMetrics": [
     {
@@ -41,5 +43,6 @@
   "applicantAddress": "0xB0abAEfc47e5b244638BFE474Fb15FC33e6A1d6A",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Content Creation"
+  "pwCategory": "Content Creation",
+  "pwCategorySuggestions": "Content Creation, Community Building, Blockchain Infrastructure"
 }

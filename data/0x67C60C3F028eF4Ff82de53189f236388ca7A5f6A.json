@@ -10,7 +10,9 @@
       "description": "1"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "给朋友介绍2层op公链、推荐朋友采用2层的op网络、操作更便捷、效率更快、别的东西我没也没有做什么、我也只是想要op网络的空投、我又能有什么坏心思呢、The Superchain token list is a list of tokens managed by the maintainers of this repo that have been deployed on Superchains including the OP Mainnet and Base. It serves as a source of truth for services such as the Optimism bridge UI.\n\nIt is worth noting that the Superchain Token List makes a distinction between token deployment / bridging and list curation. Tokens can be deployed / bridged in a permissionless manner, anyone can deploy / bridge a token on the Superchain.\n\nPlease note that by adding a token to the list we aren’t making any claims about the token itself; tokens are not reviewed for their quality, merits, or soundness as investments.",
   "impactMetrics": [
     {
@@ -43,5 +45,6 @@
   "pwRecategorizeToType": "PROJECT",
   "pwRecategorizeReason": "NO, the application should be categorized as a PROJECT as the \"contributionDescription\" and \"impactDescription\" clearly describe an initiative or project (the Superchain token list), not an individual.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Tokenization Platforms"
+  "pwCategory": "Tokenization Platforms",
+  "pwCategorySuggestions": "Tokenization Platforms, Blockchain Infrastructure, Decentralized Finance (DeFi)"
 }

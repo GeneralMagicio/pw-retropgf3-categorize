@@ -34,5 +34,6 @@
   "applicantName": "Arsalan - Ankr",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x5eEeB9F8a2050533BBEd20F87d445Dcf309a5eA7.json",
   "RPGF3_Application_UID": "0x4fa62d7e6f1c9e324e6faeb6589d100573bd57b709df68edbe00204200670e1a",
-  "applicantAddress": "0x5eEeB9F8a2050533BBEd20F87d445Dcf309a5eA7"
+  "applicantAddress": "0x5eEeB9F8a2050533BBEd20F87d445Dcf309a5eA7",
+  "pwCategorySuggestions": "Smart Contract Platforms, Blockchain Infrastructure, Developer Ecosystem"
 }

@@ -33,5 +33,6 @@
   "applicantName": "charmander",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xb84590A64BEAEA3cEAF8c32566c850e72be6617B.json",
   "RPGF3_Application_UID": "0x367dbd417a601c354a57f1e241f112c8b8d7575468b7c3df06d20855c2e15181",
-  "applicantAddress": "0xb84590A64BEAEA3cEAF8c32566c850e72be6617B"
+  "applicantAddress": "0xb84590A64BEAEA3cEAF8c32566c850e72be6617B",
+  "pwCategorySuggestions": "Privacy Coins, Blockchain Infrastructure, Smart Contract Platforms"
 }

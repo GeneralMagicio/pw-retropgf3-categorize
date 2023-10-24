@@ -46,5 +46,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for promising future impact and potential advertising, as the applicant talks about hoping to promote and support artists in the future which falls into a promise of future deliverables or impact and could be seen as using the application to showcase artists they support.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Non-Fungible Tokens (NFTs)"
+  "pwCategory": "Non-Fungible Tokens (NFTs)",
+  "pwCategorySuggestions": "NFTs, Content Creation, Community Building"
 }

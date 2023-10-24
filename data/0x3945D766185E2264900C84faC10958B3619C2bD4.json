@@ -20,7 +20,10 @@
       "description": "Github with various tools such as lightweight QV and RxC Voice"
     }
   ],
-  "impactCategory": ["COLLECTIVE_GOVERNANCE", "DEVELOPER_ECOSYSTEM"],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM"
+  ],
   "impactDescription": "The PCOArt system we're building will bring new attention to Optimism. Our pathbreaking work in quadratic funding, soul bound tokens, and more has left positive impacts on the general culture of Optimism Collective. We expect our work to continue to enrich this ecosystem and are proud to support it!",
   "impactMetrics": [
     {
@@ -52,5 +55,6 @@
   "applicantAddress": "0x3945D766185E2264900C84faC10958B3619C2bD4",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Governance & Tokens"
+  "pwCategory": "Governance & Tokens",
+  "pwCategorySuggestions": "Decentralized Governance, Blockchain Infrastructure, Social Impact"
 }

@@ -72,5 +72,6 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x8d8087ffD46338cA8b08175a8C3cE25CaA67e171.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x8d8087ffD46338cA8b08175a8C3cE25CaA67e171.json",
   "RPGF3_Application_UID": "0x1335374f0d00c61bf195d9eaeb9c4c55ae4a1a0b883ee0d71b680a4783ad528f",
-  "applicantAddress": "0x8d8087ffD46338cA8b08175a8C3cE25CaA67e171"
+  "applicantAddress": "0x8d8087ffD46338cA8b08175a8C3cE25CaA67e171",
+  "pwCategorySuggestions": "Community Building, Web3 Community Platform, Hackathons"
 }

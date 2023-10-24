@@ -43,5 +43,6 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, it should be categorized as \"INDIVIDUAL\", because it repeatedly uses first person reference such as \"For me\" in the description.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Web3 Community Platform"
+  "pwCategory": "Web3 Community Platform",
+  "pwCategorySuggestions": "Blockchain Infrastructure"
 }

@@ -10,7 +10,9 @@
       "description": "1 characters"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "Early support of the Optimism chain, sharing it with my friends and other members of the crypto currency community, when there was demand and activity in the space, however now I am just building and focusing on quality of life. I am certain there will become more time to start sharing with friends and the community but for now it is just time for creation.",
   "impactMetrics": [
     {
@@ -36,5 +38,6 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, the application category is incorrect. The usage of first-person pronouns like \"I\" and \"my\" in the bio and contribution description suggests that the applicant is an individual, not a project.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Community Building"
+  "pwCategory": "Community Building",
+  "pwCategorySuggestions": "Content Creation, Community Building, Photographer"
 }

@@ -40,5 +40,6 @@
   "applicantName": "Vladislav",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xb7c0F794d8b91Bd32F93D34aDddA09fb4394baA3.json",
   "RPGF3_Application_UID": "0x40ae0d3ebfccbaa363638b6bc4ec1965757ba2b037abe66c1ebce7de48d477c2",
-  "applicantAddress": "0xb7c0F794d8b91Bd32F93D34aDddA09fb4394baA3"
+  "applicantAddress": "0xb7c0F794d8b91Bd32F93D34aDddA09fb4394baA3",
+  "pwCategorySuggestions": "Community Building, User Experience & Adoption, Governance & Tokens"
 }

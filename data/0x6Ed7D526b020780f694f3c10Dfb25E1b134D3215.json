@@ -30,7 +30,10 @@
       "description": "Repositories for the smart contract code"
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "Delegate has improved safety, UX, and reputation tooling for the Collective. Users no longer have to connect their cold wallets/vaults/multisigs to unknown websites, they can \"delegate once, use forever\". This reduces phishing risk and creates a safe NFT/DeFi ecosystem on Optimism, just as we've seen on Ethereum. We've also seen greatly improved UX - by safely interacting from a hot wallet or mobile wallet, users can do low-risk onchain activity like voting or gaming on the go. And onchain reputation, which is critical to Optimism Collective governance, is enhanced by identity clusters formed within the registry.",
   "impactMetrics": [
     {
@@ -60,5 +63,6 @@
   "applicantAddress": "0x6Ed7D526b020780f694f3c10Dfb25E1b134D3215",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Decentralized Identity"
+  "pwCategory": "Decentralized Identity",
+  "pwCategorySuggestions": "Decentralized Identity, Tokenization Platforms, Blockchain Infrastructure"
 }

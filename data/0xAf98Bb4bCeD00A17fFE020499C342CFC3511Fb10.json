@@ -39,5 +39,6 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xAf98Bb4bCeD00A17fFE020499C342CFC3511Fb10.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xAf98Bb4bCeD00A17fFE020499C342CFC3511Fb10.json",
   "RPGF3_Application_UID": "0x6a3098d9df9b25a248359c422733a550a17f87cc571272e7b9f864cf789fbb5e",
-  "applicantAddress": "0xAf98Bb4bCeD00A17fFE020499C342CFC3511Fb10"
+  "applicantAddress": "0xAf98Bb4bCeD00A17fFE020499C342CFC3511Fb10",
+  "pwCategorySuggestions": "Decentralized Lending Platforms, Optimism Scaling, ERC20/ERC721 Lending"
 }

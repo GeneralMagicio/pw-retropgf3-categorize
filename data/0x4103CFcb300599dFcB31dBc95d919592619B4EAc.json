@@ -10,7 +10,9 @@
       "description": "Txns"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "I learned about Op quite late. In recent times OP has made great strides, especially in issues such as processing speed and transaction fees. As someone who regularly trades on OP, I feel very satisfied about this. Hope you will improve more and more!",
   "impactMetrics": [
     {
@@ -37,5 +39,6 @@
   "applicantName": "brianha",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x4103CFcb300599dFcB31dBc95d919592619B4EAc.json",
   "RPGF3_Application_UID": "0x500f36518b3ab46aeca104132392ffd6d804a238baa5418435614ab442d13311",
-  "applicantAddress": "0x4103CFcb300599dFcB31dBc95d919592619B4EAc"
+  "applicantAddress": "0x4103CFcb300599dFcB31dBc95d919592619B4EAc",
+  "pwCategorySuggestions": "Smart Contract Platforms"
 }

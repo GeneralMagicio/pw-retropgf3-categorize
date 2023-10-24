@@ -103,5 +103,6 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xa4eC807A15f389A2b9aC985eCcF4b08ddDDB6f9d.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xa4eC807A15f389A2b9aC985eCcF4b08ddDDB6f9d.json",
   "RPGF3_Application_UID": "0xbd1652fe3e5c7e160ca3e86da27567cd0f8f8cea3399a1003cf90364ed046d3b",
-  "applicantAddress": "0xa4eC807A15f389A2b9aC985eCcF4b08ddDDB6f9d"
+  "applicantAddress": "0xa4eC807A15f389A2b9aC985eCcF4b08ddDDB6f9d",
+  "pwCategorySuggestions": "Blockchain Gaming, Open Source Projects, Community Building"
 }

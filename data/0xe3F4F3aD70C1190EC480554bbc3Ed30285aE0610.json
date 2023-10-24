@@ -55,5 +55,6 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xe3F4F3aD70C1190EC480554bbc3Ed30285aE0610.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xe3F4F3aD70C1190EC480554bbc3Ed30285aE0610.json",
   "RPGF3_Application_UID": "0x9359577504bc54685070e27e7da2343605e1ec520ee78ee1f81096e0408089a7",
-  "applicantAddress": "0xe3F4F3aD70C1190EC480554bbc3Ed30285aE0610"
+  "applicantAddress": "0xe3F4F3aD70C1190EC480554bbc3Ed30285aE0610",
+  "pwCategorySuggestions": "Non-Fungible Tokens (NFTs), Smart Contract Platforms, Blockchain Infrastructure"
 }

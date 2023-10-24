@@ -10,7 +10,10 @@
       "description": "Contract"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION", "OP_STACK"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
   "impactDescription": "I believe I should be selected as an Contributor user because of my expertise in the field. I have a deep understanding of technology and am able to evaluate products quickly and accurately. I am also extremely familiar with the process of alpha testing and have experience in providing useful feedback to developers. I am reliable, responsible, and have a strong work ethic, which I believe makes me an ideal candidate for the position.",
   "impactMetrics": [
     {
@@ -35,5 +38,6 @@
   "applicantAddress": "0x000000423dd4bcd055a8C227676ECF9f3A19A75B",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Developer Ecosystem"
+  "pwCategory": "Developer Ecosystem",
+  "pwCategorySuggestions": "Community Building, User Experience & Adoption, Governance & Tokens"
 }

@@ -74,5 +74,6 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xDaDd7c883288Cfe2E257B0A361865E5e9349808b.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xDaDd7c883288Cfe2E257B0A361865E5e9349808b.json",
   "RPGF3_Application_UID": "0xde0444cd4e7dee41446e2dae23d5d0ea279600ec72d2206a14eea5879e5a3c4a",
-  "applicantAddress": "0xDaDd7c883288Cfe2E257B0A361865E5e9349808b"
+  "applicantAddress": "0xDaDd7c883288Cfe2E257B0A361865E5e9349808b",
+  "pwCategorySuggestions": "Smart Contract Platforms, Blockchain Infrastructure, Developer Ecosystem"
 }

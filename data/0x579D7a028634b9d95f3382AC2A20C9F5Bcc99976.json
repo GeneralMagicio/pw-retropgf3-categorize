@@ -15,7 +15,9 @@
       "description": "API3Server.sol contract for Optimism: 0x3dEC619dc529363767dEe9E71d8dD1A5bc270D76"
     }
   ],
-  "impactCategory": ["OP_STACK"],
+  "impactCategory": [
+    "OP_STACK"
+  ],
   "impactDescription": "API3 has had little traction on Optimism but has supported Base by deploying API3 QRNG in July and dAPI price feeds in September. These deployments provide builders on Base with the infrastructure required to deploy dApps across core verticles as well as DeFi. Upon deployment we have seen a handful of dApps engage the API3 team looking to utilize the QRNG, as this was an oracle not available on the ecosystem. ",
   "impactMetrics": [
     {
@@ -37,5 +39,6 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x579D7a028634b9d95f3382AC2A20C9F5Bcc99976.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x579D7a028634b9d95f3382AC2A20C9F5Bcc99976.json",
   "RPGF3_Application_UID": "0xc5e329a9f4b232618fe38dc93b49c64bd3d34d99dff253dd64ffef7daf683b76",
-  "applicantAddress": "0x579D7a028634b9d95f3382AC2A20C9F5Bcc99976"
+  "applicantAddress": "0x579D7a028634b9d95f3382AC2A20C9F5Bcc99976",
+  "pwCategorySuggestions": "Decentralized Oracle Infrastructure, Decentralized Finance (DeFi), Developer Ecosystem"
 }

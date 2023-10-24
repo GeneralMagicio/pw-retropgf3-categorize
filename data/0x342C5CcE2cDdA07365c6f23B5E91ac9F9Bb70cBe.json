@@ -10,7 +10,9 @@
       "description": "Did multiple transactions for my personal use "
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "Gladly, I was able to onboard multiple friends into the Optimism BC, which was (honestly) a bit difficult since many are not open to use different BCs than what they are use to. The great part is many of them have contacted me and showed love for the Optimism and enthusiasm in continuing to use the BC.",
   "impactMetrics": [
     {
@@ -40,5 +42,6 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x342C5CcE2cDdA07365c6f23B5E91ac9F9Bb70cBe.json",
   "RPGF3_Application_UID": "0xa4887579041502db7a9aad8ee2c4b440cafc059633549da8cd89374c4a7bf87e",
   "applicantAddress": "0x342C5CcE2cDdA07365c6f23B5E91ac9F9Bb70cBe",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwCategorySuggestions": "Layer 2 Scaling, NFTs, Community Building"
 }

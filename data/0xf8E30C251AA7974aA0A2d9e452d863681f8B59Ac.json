@@ -74,5 +74,6 @@
   "applicantAddress": "0xf8E30C251AA7974aA0A2d9e452d863681f8B59Ac",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Developer Ecosystem"
+  "pwCategory": "Developer Ecosystem",
+  "pwCategorySuggestions": "Developer Ecosystem, Blockchain Infrastructure, Layer 2 Scaling"
 }

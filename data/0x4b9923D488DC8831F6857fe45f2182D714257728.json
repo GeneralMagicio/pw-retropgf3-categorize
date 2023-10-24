@@ -10,7 +10,9 @@
       "description": "soundxyz profile"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "My support help Artists have fun to continue their dream onchain, and help other people know about OP's NFTs and music NFTs and mint them. Also I joined many group about NFT music to support them and inspired other to mint NFTs. My journey has not end here, I will continue to support Artists and share NFT music to others.",
   "impactMetrics": [
     {
@@ -39,5 +41,6 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x4b9923D488DC8831F6857fe45f2182D714257728.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x4b9923D488DC8831F6857fe45f2182D714257728.json",
   "RPGF3_Application_UID": "0x4b8c6393b1b16d6e969e48c2ee60802ea6bc32035bf026a3432f006cb77ce159",
-  "applicantAddress": "0x4b9923D488DC8831F6857fe45f2182D714257728"
+  "applicantAddress": "0x4b9923D488DC8831F6857fe45f2182D714257728",
+  "pwCategorySuggestions": "Non-Fungible Tokens (NFTs), Digital Identity, Community Building"
 }

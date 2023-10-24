@@ -41,5 +41,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged because the contribution and impact descriptions are in a language other than English, which violates rule 11.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Community Building"
+  "pwCategory": "Community Building",
+  "pwCategorySuggestions": "Community Building"
 }

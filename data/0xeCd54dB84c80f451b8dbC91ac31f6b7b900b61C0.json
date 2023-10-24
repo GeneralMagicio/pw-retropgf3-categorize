@@ -35,7 +35,9 @@
       "description": "Github"
     }
   ],
-  "impactCategory": ["COLLECTIVE_GOVERNANCE"],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
   "impactDescription": "The key impact we see so far is a good number of motivated and high-performing potential candidates for the citizen house:\n\n- Within a limited communication campaign the number of good candidates is already comparable to the current citizen house, proving the growth potential\n- Scores vary, but a median score of attested users is close to the level of the current OP Delegates (based on the formula and on-chain stats) \n- Users needed to pay a small fee on OP (to cover the fees for the on-chain writing), so it meant they had funds on the OP chain and were engaged in the reputation/governance game",
   "impactMetrics": [
     {
@@ -102,5 +104,6 @@
   "applicantAddress": "0xeCd54dB84c80f451b8dbC91ac31f6b7b900b61C0",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Governance & Tokens"
+  "pwCategory": "Governance & Tokens",
+  "pwCategorySuggestions": "Reputation Systems, Governance Tokens, Web3 Community Platforms"
 }

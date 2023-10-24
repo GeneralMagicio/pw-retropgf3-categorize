@@ -45,5 +45,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "Flagged: The application contains false and irrelevant links for both the contribution and the impact metrics, which goes against the rule about spam.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Community Building"
+  "pwCategory": "Community Building",
+  "pwCategorySuggestions": "Layer 2 Scaling, User Experience & Adoption, Smart Contract Platforms"
 }

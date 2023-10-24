@@ -10,7 +10,9 @@
       "description": "This is my wallet address"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "Maybe I can't contribute much regarding optimism, but I will try my best to contribute in whatever field I can. Because I Have Very Less Experience About The BlockChain World.Might Be One Of The Stack Ops I Can Do. But even that is a rather difficult thing for me. with this meager income.",
   "impactMetrics": [
     {
@@ -43,5 +45,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for violating rule 1: Promises of future impact. The applicant is making promises about future contributions without providing details of any past contributions or impact in the Web3/blockchain space.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Blockchain Education"
+  "pwCategory": "Blockchain Education",
+  "pwCategorySuggestions": "Blockchain Infrastructure, User Experience & Adoption, Community Building"
 }

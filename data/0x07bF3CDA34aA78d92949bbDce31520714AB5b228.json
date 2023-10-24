@@ -40,7 +40,10 @@
       "description": "Article about EIP-4626 compatibility that lists 🐍 snekmate's code as impeccable"
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM", "OP_STACK"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "OP_STACK"
+  ],
   "impactDescription": "The main impact of 🐍 snekmate are twofold:\n1) 🐍 snekmate has built the secure foundations for any Vyper builder to kick start on the OP stack. Did you need an ERC-20 Vyper implementation for Optimism? Use 🐍 snekmate. Did you need some fancy math functions in Vyper for your AMM/DEX on Optimism? Use 🐍 snekmate. To put everything in one sentence: 🐍 snekmate has been the go-to-source for any Vyper code and ensured the security of the contracts with over 16k lines of unit, fuzzing & invariant tests. 🐍 snekmate has ensured that Vyper contracts deployed on Optimism follow the highest security standards and best practices.\n2) 🐍 snekmate has become the go-to-source for educating and understanding Vyper code. The entire code base is enriched with explanatory comments, making it easy to grasp.",
   "impactMetrics": [
     {
@@ -84,5 +87,6 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, it should be categorized as an INDIVIDUAL because the bio starts with \"Hi I'm Pascal,\" which indicates an individual, not a project.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Smart Contract Platforms"
+  "pwCategory": "Smart Contract Platforms",
+  "pwCategorySuggestions": "Smart Contract Platforms, Developer Ecosystem, Blockchain Education"
 }

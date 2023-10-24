@@ -38,5 +38,6 @@
   "applicantName": "Daniel | REYIELD.fi",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x7F6639Fea4D2969372366CfA9d65d95df4DF3473.json",
   "RPGF3_Application_UID": "0xdcc1d57caa3532337aa8209145ef65a4505911bbba1490c6ce336245e712aa4b",
-  "applicantAddress": "0x7F6639Fea4D2969372366CfA9d65d95df4DF3473"
+  "applicantAddress": "0x7F6639Fea4D2969372366CfA9d65d95df4DF3473",
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Smart Contract Platforms, User Experience & Adoption"
 }

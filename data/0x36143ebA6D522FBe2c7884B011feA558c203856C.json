@@ -70,7 +70,9 @@
       "description": "RPC Request Batching: Easily 10x your requests performance"
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
   "impactDescription": "Our contributions have had a positive impact on builders scene, being used by developers on Ethereum, Optimism, and any other EVM ecosystem.\n\nWe have built great utilities such as our Solidity Hardhat Boilerplate to public good protocols such as Sidechain Oracles; but our list extends to 12 projects and tools ready to use.\n\nWe are proud that several of our repositories reach hundreds of stars and dozens of forks, as well as dozens and hundreds of dependencies from our libraries, which motivates us to continue pursuing what the future of finance and Web3 should be: permissionless, open-source, and decentralized.\n\nMore details are in our Notion page, attached to this application.",
   "impactMetrics": [
     {
@@ -115,5 +117,6 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x36143ebA6D522FBe2c7884B011feA558c203856C.json",
   "RPGF3_Application_UID": "0xec3f9d8ca269e264d0b8b3516c2a71d34cc145b78150b3d4afe207b6aef0efce",
   "applicantAddress": "0x36143ebA6D522FBe2c7884B011feA558c203856C",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwCategorySuggestions": "Developer Ecosystem, Smart Contract Platforms, Decentralized Finance (DeFi)"
 }

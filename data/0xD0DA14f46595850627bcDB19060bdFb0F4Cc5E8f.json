@@ -99,5 +99,6 @@
   "applicantAddress": "0xD0DA14f46595850627bcDB19060bdFb0F4Cc5E8f",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Web3 Community Platform"
+  "pwCategory": "Web3 Community Platform",
+  "pwCategorySuggestions": "Community Building, User Experience & Adoption, Tokenization Platforms"
 }

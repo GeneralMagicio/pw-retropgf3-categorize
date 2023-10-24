@@ -137,5 +137,6 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xc6E5084b11eE98da7bDBc4F9cabf5E17bb209652.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xc6E5084b11eE98da7bDBc4F9cabf5E17bb209652.json",
   "RPGF3_Application_UID": "0x93977731af37cb1a984d86979b1c4e3dc421a6328fee9a15ff2c110cf0ba7ae2",
-  "applicantAddress": "0xc6E5084b11eE98da7bDBc4F9cabf5E17bb209652"
+  "applicantAddress": "0xc6E5084b11eE98da7bDBc4F9cabf5E17bb209652",
+  "pwCategorySuggestions": "Smart Contract Platforms, Layer 2 Scaling, Developer Ecosystem"
 }

@@ -15,7 +15,9 @@
       "description": "a discovery service to find optimistic rollups and run their nodes in 4 steps"
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
   "impactDescription": "Streamlined Adoption: Opti-mystic, our roll-up discovery service, has simplified the process of discovering and utilizing roll-ups on the opStack. This has lowered the barriers to entry for developers and users, promoting the broader adoption of Optimism solutions.\n\nCommunity Growth: By providing essential tools for monitoring and roll-up discovery, we've contributed to the growth of the Optimism community. More developers and users can actively engage with the network, fostering a larger, more vibrant collective.\n\nEcosystem Resilience: Our contributions support the overall resilience and sustainability of the Optimism ecosystem. With enhanced monitoring and easier access to roll-ups, the network can adapt to challenges and scale more effectively.",
   "impactMetrics": [
     {
@@ -47,5 +49,6 @@
   "applicantAddress": "0xc94EdaBAA441B5e39d4979462991D6cCA705486e",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Developer Ecosystem"
+  "pwCategory": "Developer Ecosystem",
+  "pwCategorySuggestions": "Web3 Infrastructure, Developer Tools, Adoption"
 }

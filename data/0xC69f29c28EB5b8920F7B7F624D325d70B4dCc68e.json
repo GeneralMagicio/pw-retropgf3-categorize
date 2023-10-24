@@ -42,5 +42,6 @@
   "applicantName": "Johan Punk",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xC69f29c28EB5b8920F7B7F624D325d70B4dCc68e.json",
   "RPGF3_Application_UID": "0x9095188e3138c4c5e096b6bcd9229a5a26b95beef48b3313dc87c6363e510b01",
-  "applicantAddress": "0xC69f29c28EB5b8920F7B7F624D325d70B4dCc68e"
+  "applicantAddress": "0xC69f29c28EB5b8920F7B7F624D325d70B4dCc68e",
+  "pwCategorySuggestions": "Community Building, Content Creation, Blockchain Infrastructure"
 }

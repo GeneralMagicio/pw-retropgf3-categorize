@@ -48,5 +48,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for spam because the contribution description and impact description is filled mostly with nonsensical phrases, and it seems likely the applicant is not related to the given project in a meaningful way.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Community Building"
+  "pwCategory": "Community Building",
+  "pwCategorySuggestions": "Community Building, User Experience & Adoption"
 }

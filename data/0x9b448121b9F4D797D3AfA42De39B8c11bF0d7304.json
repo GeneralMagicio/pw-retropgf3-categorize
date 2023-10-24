@@ -34,5 +34,6 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x9b448121b9F4D797D3AfA42De39B8c11bF0d7304.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x9b448121b9F4D797D3AfA42De39B8c11bF0d7304.json",
   "RPGF3_Application_UID": "0x1b301c3f971a78959e0c38bf59205df23d364b31d21d774aa5902b3547df0e76",
-  "applicantAddress": "0x9b448121b9F4D797D3AfA42De39B8c11bF0d7304"
+  "applicantAddress": "0x9b448121b9F4D797D3AfA42De39B8c11bF0d7304",
+  "pwCategorySuggestions": "Content Creation, Media Production, Cryptocurrency Services"
 }

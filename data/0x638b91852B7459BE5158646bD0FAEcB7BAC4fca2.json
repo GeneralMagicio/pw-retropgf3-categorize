@@ -128,5 +128,6 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x638b91852B7459BE5158646bD0FAEcB7BAC4fca2.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x638b91852B7459BE5158646bD0FAEcB7BAC4fca2.json",
   "RPGF3_Application_UID": "0x166b7be374825b11dc2af89b61ef1d66b5b45487b97ea3dd569e62f2f7b7b41e",
-  "applicantAddress": "0x638b91852B7459BE5158646bD0FAEcB7BAC4fca2"
+  "applicantAddress": "0x638b91852B7459BE5158646bD0FAEcB7BAC4fca2",
+  "pwCategorySuggestions": "Community Building, Developer Ecosystem, NFT Aggregator"
 }

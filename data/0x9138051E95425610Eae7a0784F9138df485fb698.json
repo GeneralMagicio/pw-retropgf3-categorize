@@ -66,5 +66,6 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x9138051E95425610Eae7a0784F9138df485fb698.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x9138051E95425610Eae7a0784F9138df485fb698.json",
   "RPGF3_Application_UID": "0xe97f58b3c9ba77ea09f9df85da3d606d913c435aff077a1782390b86477c0bc1",
-  "applicantAddress": "0x9138051E95425610Eae7a0784F9138df485fb698"
+  "applicantAddress": "0x9138051E95425610Eae7a0784F9138df485fb698",
+  "pwCategorySuggestions": "Content Creation, Community Building, User Experience & Adoption"
 }

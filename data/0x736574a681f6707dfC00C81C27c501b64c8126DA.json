@@ -10,7 +10,9 @@
       "description": "0x736574a681f6707dfC00C81C27c501b64c8126DA"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "I am using Optimism chain and brought other people from my friend circle by letting them know the benefits using the chain. Optimism chain is not only cheap and reduces cost, but it's also very fast for each and every transaction. The utilities are the best... ",
   "impactMetrics": [
     {
@@ -34,5 +36,6 @@
   "applicantAddress": "0x736574a681f6707dfC00C81C27c501b64c8126DA",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Layer 2 Scaling"
+  "pwCategory": "Layer 2 Scaling",
+  "pwCategorySuggestions": "Layer 2 Scaling, User Experience & Adoption, Community Building"
 }

@@ -55,7 +55,10 @@
       "description": "Onchain Experiments - my YouTube Channel"
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "Benefits:\n\n- Tangible: Introduced musicians like SolSiete.eth and DavydMusic.eth to onchain publishing. Artists who never profited from social platforms now earn ETH.\n- Intangible: Simplified entry into the blockchain world, enhancing Optimism's user base and showcasing a user-friendly blockchain experience.\n\nBeneficiaries:\n- Musicians: e.g., Sol Siete, DavydMusic & Warroking.\n- Collectives: MusicaW3 and Invest in Music.\n- Fans: sebas.eth and bosco.eth are active participants.\n\nMerging digital art's potential with Optimism's affordability, Onchain Magic empowers everyday musicians in the blockchain era.",
   "impactMetrics": [
     {
@@ -95,5 +98,6 @@
   "applicantAddress": "0xcfBf34d385EA2d5Eb947063b67eA226dcDA3DC38",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Developer Ecosystem"
+  "pwCategory": "Developer Ecosystem",
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Tokenization Platforms, Blockchain Infrastructure"
 }

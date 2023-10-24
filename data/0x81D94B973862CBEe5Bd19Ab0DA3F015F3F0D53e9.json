@@ -326,5 +326,6 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x81D94B973862CBEe5Bd19Ab0DA3F015F3F0D53e9.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x81D94B973862CBEe5Bd19Ab0DA3F015F3F0D53e9.json",
   "RPGF3_Application_UID": "0x88f30d4bea5c59624c8d99b967ea34559f7bcadf9783e1d6ac2849cf3a4fd843",
-  "applicantAddress": "0x81D94B973862CBEe5Bd19Ab0DA3F015F3F0D53e9"
+  "applicantAddress": "0x81D94B973862CBEe5Bd19Ab0DA3F015F3F0D53e9",
+  "pwCategorySuggestions": "Community Building, Social Media Marketing, Developer Ecosystem"
 }

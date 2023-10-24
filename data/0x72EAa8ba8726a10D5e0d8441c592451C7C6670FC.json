@@ -75,7 +75,10 @@
       "description": "Educational content"
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "While is very early days for account abstraction, Alchemy’s contributions have had a measurable impact on the ecosystem across a number of dimensions. \n\nWallets using our infrastructure have grown to become the leading source of account abstraction transactions (or UserOps) for both Optimism and Base since its launch, with both our bundlers and paymasters for each chain serving the overwhelming majority of UserOps by October 2023. \n\nFinally, our educational content has been accessed by thousands, and spans dozens of blog posts as well as video and other content.",
   "impactMetrics": [
     {
@@ -150,5 +153,6 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x72EAa8ba8726a10D5e0d8441c592451C7C6670FC.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x72EAa8ba8726a10D5e0d8441c592451C7C6670FC.json",
   "RPGF3_Application_UID": "0xf3df23e97d2c4b6936cafe233e48416ed37708a2a0eecd959450a82ed3a5f730",
-  "applicantAddress": "0x72EAa8ba8726a10D5e0d8441c592451C7C6670FC"
+  "applicantAddress": "0x72EAa8ba8726a10D5e0d8441c592451C7C6670FC",
+  "pwCategorySuggestions": "Smart Contract Platforms, Blockchain Infrastructure, Developer Ecosystem"
 }

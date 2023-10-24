@@ -50,5 +50,6 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, the application is talking in the first person (\"i am\"), indicating it's likely an individual, not a project.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Decentralized Identity"
+  "pwCategory": "Decentralized Identity",
+  "pwCategorySuggestions": "Decentralized Identity, Blockchain Infrastructure, Web3 Community Platform"
 }

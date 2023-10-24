@@ -69,5 +69,6 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xD4f14555E5a6B1f5AFd132E4C51a717C7016Be3C.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xD4f14555E5a6B1f5AFd132E4C51a717C7016Be3C.json",
   "RPGF3_Application_UID": "0xeec5041f2bae8c48877836c3e932a2df54a1369c3f297f8474935c0a2bad18f0",
-  "applicantAddress": "0xD4f14555E5a6B1f5AFd132E4C51a717C7016Be3C"
+  "applicantAddress": "0xD4f14555E5a6B1f5AFd132E4C51a717C7016Be3C",
+  "pwCategorySuggestions": "Layer 2 Scaling, Tokenization Platforms, Blockchain Infrastructure"
 }

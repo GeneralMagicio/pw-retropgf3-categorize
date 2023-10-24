@@ -10,7 +10,9 @@
       "description": "I contribusion"
     }
   ],
-  "impactCategory": ["COLLECTIVE_GOVERNANCE"],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
   "impactDescription": "The impact is that I have to maintain the optimistic ecosystem so that optimistic always gets the top ranking and it must be maintained with a very large community. I am sure that optim8s is a very strong coin and network that will last a long time in the future.",
   "impactMetrics": [
     {
@@ -43,5 +45,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for promising future impact and not highlighting a valid contribution.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Layer 2 Scaling"
+  "pwCategory": "Layer 2 Scaling",
+  "pwCategorySuggestions": "Optimistic Rollups, Layer 2 Scaling, Community Building"
 }

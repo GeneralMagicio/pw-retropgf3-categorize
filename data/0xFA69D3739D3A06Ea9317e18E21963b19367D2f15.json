@@ -76,5 +76,6 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xFA69D3739D3A06Ea9317e18E21963b19367D2f15.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xFA69D3739D3A06Ea9317e18E21963b19367D2f15.json",
   "RPGF3_Application_UID": "0xa4f5f97064e5ebdc97591521be056a911731925f81c694ed0bc84f6fc1b7ddea",
-  "applicantAddress": "0xFA69D3739D3A06Ea9317e18E21963b19367D2f15"
+  "applicantAddress": "0xFA69D3739D3A06Ea9317e18E21963b19367D2f15",
+  "pwCategorySuggestions": "Community Building, Web3 Community Platform, Event Organization"
 }

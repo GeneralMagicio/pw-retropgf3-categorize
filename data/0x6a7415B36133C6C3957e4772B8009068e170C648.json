@@ -10,7 +10,9 @@
       "description": "Support Creators and Developers "
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "Brings awareness and creators, Transaction, such as NFTs, bridge liquidity, use Dapps like arbiter finance, support projects being built on OP. \nFollow and retweet OPs contents on Twitter, explore and continued interaction with OP chain, will continue to collect and support NFTs projects and creators and swap on OP as the community grows.",
   "impactMetrics": [
     {
@@ -42,5 +44,6 @@
   "applicantAddress": "0x6a7415B36133C6C3957e4772B8009068e170C648",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Community Building"
+  "pwCategory": "Community Building",
+  "pwCategorySuggestions": "NFTs, Decentralized Finance (DeFi), Community Building"
 }

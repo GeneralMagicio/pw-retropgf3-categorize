@@ -10,7 +10,9 @@
       "description": "Ukrainian national educational platform Diia.Osvita"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "The course consists of four modules. Each module features 9-14 lessons. Lessons consist of videos, text lectures, illustrations and diagrams, tests, additional materials, and practical cases. All tests and cases are compulsory and a student must finish every lesson and complete every task within a module in order to complete the module and receive a certificate.\n\nMaterials featuring Optimism are found in Module 01 in Lesson 9: “Blockchain Layers. Sidechains,” including a dedicated 6-minute video on Optimistic rollups & OP Stack, additional materials, and a test question. Materials on Optimism were developed with Rev Miller and CJ Hetherington from Atlantis World with CJ presenting the information in the video. Also, Optimism Foundation is positioned as a core partner in all communications.",
   "impactMetrics": [
     {
@@ -50,5 +52,6 @@
   "applicantAddress": "0xff95a2f9bf8fe8019d1f705B5b1e3cb8a8F223C0",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Blockchain Education"
+  "pwCategory": "Blockchain Education",
+  "pwCategorySuggestions": "Blockchain Education, Web3 Community Platform, Media Production"
 }

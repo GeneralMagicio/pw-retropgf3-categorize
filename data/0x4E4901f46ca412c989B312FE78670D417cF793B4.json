@@ -50,5 +50,6 @@
   "applicantAddress": "0x4E4901f46ca412c989B312FE78670D417cF793B4",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Tokenization Platforms"
+  "pwCategory": "Tokenization Platforms",
+  "pwCategorySuggestions": "Tokenized Betting, Gambling, Layer 2 Scaling"
 }

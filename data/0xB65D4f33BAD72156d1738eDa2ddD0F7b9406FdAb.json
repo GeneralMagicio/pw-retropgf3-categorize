@@ -48,5 +48,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for containing spam and false statements, as the applicant has provided irrelevant answers, and their contribution and impact description is disjointed and unclear.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Community Building"
+  "pwCategory": "Community Building",
+  "pwCategorySuggestions": "Developer Ecosystem"
 }

@@ -10,7 +10,9 @@
       "description": "http://www.etherscan.org"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "I've been heavily involved in the various Optimism blochain tests.\nFor example, I completed all 18 Optimism quests and obtained all 18 NFTs.\nI've also done a lot to help my friends and family get to know the Optimism ecosystem. \nMost of my friends, colleagues and close family have completed at least one Optimism quest thanks to me.",
   "impactMetrics": [
     {
@@ -34,5 +36,6 @@
   "applicantAddress": "0xDffb0C8579DB5A49255D92bA53fA27b6afAEcC84",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Community Building"
+  "pwCategory": "Community Building",
+  "pwCategorySuggestions": "Web3 Community Platform, NFT Aggregator, User Experience & Adoption"
 }

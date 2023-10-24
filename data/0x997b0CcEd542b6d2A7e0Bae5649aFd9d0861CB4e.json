@@ -67,5 +67,6 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x997b0CcEd542b6d2A7e0Bae5649aFd9d0861CB4e.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x997b0CcEd542b6d2A7e0Bae5649aFd9d0861CB4e.json",
   "RPGF3_Application_UID": "0xbf404bca5d05ea0935976e34bae30e8e1e3bcc2298b15fa496c2ede18abe7333",
-  "applicantAddress": "0x997b0CcEd542b6d2A7e0Bae5649aFd9d0861CB4e"
+  "applicantAddress": "0x997b0CcEd542b6d2A7e0Bae5649aFd9d0861CB4e",
+  "pwCategorySuggestions": "Decentralized Social Network, Optimism Integration, Developer Support"
 }

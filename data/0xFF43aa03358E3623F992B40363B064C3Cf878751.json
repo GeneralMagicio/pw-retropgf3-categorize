@@ -10,7 +10,9 @@
       "description": "asdssad"
     }
   ],
-  "impactCategory": ["OP_STACK"],
+  "impactCategory": [
+    "OP_STACK"
+  ],
   "impactDescription": "Optimism is a layer-2 scaling solution for Ethereum, designed to improve its scalability and reduce transaction fees. Any contributions or developments related to Optimism would be the work of the developers and contributors directly involved with the project.",
   "impactMetrics": [
     {
@@ -37,5 +39,6 @@
   "pwRecategorizeToType": "PROJECT",
   "pwRecategorizeReason": "NO, the application is miscategorized. The contributions and impacts listed refer to collective efforts of a project rather than the efforts of a single individual.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Layer 2 Scaling"
+  "pwCategory": "Layer 2 Scaling",
+  "pwCategorySuggestions": "Layer 2 Scaling, Web3 Community Platform"
 }

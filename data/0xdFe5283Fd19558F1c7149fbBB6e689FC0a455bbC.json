@@ -41,5 +41,6 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xdFe5283Fd19558F1c7149fbBB6e689FC0a455bbC.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xdFe5283Fd19558F1c7149fbBB6e689FC0a455bbC.json",
   "RPGF3_Application_UID": "0x5cf8c7a9439df2d0ec0e08140c72bd359dfdce2a05a5d6318eaadfebb41e1d06",
-  "applicantAddress": "0xdFe5283Fd19558F1c7149fbBB6e689FC0a455bbC"
+  "applicantAddress": "0xdFe5283Fd19558F1c7149fbBB6e689FC0a455bbC",
+  "pwCategorySuggestions": "Community Building, Decentralized Finance (DeFi), User Experience & Adoption"
 }

@@ -104,5 +104,6 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x6c3F26ae7312Ca3602697557786C5Eb760FC2542.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x6c3F26ae7312Ca3602697557786C5Eb760FC2542.json",
   "RPGF3_Application_UID": "0x1b4423b4222381f89f033d96ce71e5d9bd45f28eaf0dcced1be9ea375ea66e77",
-  "applicantAddress": "0x6c3F26ae7312Ca3602697557786C5Eb760FC2542"
+  "applicantAddress": "0x6c3F26ae7312Ca3602697557786C5Eb760FC2542",
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Non-Fungible Tokens (NFTs), Community Building"
 }

@@ -128,5 +128,6 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x8F5415415d9200cCd8523F3Ee88F96F476141CC3.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x8F5415415d9200cCd8523F3Ee88F96F476141CC3.json",
   "RPGF3_Application_UID": "0x54a6bad0095142765e250c7f11c1465095131d295563f9ba315840763f55dd3e",
-  "applicantAddress": "0x8F5415415d9200cCd8523F3Ee88F96F476141CC3"
+  "applicantAddress": "0x8F5415415d9200cCd8523F3Ee88F96F476141CC3",
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Blockchain Infrastructure, User Experience & Adoption"
 }

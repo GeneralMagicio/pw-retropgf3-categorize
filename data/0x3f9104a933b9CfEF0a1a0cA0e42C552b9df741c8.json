@@ -149,5 +149,6 @@
   "applicantAddress": "0x3f9104a933b9CfEF0a1a0cA0e42C552b9df741c8",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Web3 Gaming"
+  "pwCategory": "Web3 Gaming",
+  "pwCategorySuggestions": "Decentralized Gaming, Layer 2 Scaling, Blockchain Education"
 }

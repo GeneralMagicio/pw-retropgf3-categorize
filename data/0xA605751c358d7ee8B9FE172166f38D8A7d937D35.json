@@ -10,7 +10,9 @@
       "description": "Just my chain activities "
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "I have been using the OP chain for most transactions from minting NFTS to bridging.\nI find it very optimized and cheap for user with low funds.\nI introduced Most students in my small whatsapp group for airdrop tasks to using the Optimism chain for most of their blockchain and Airdrop transactions due to cost save, ease and speed as against other chains.",
   "impactMetrics": [
     {
@@ -35,5 +37,6 @@
   "applicantAddress": "0xA605751c358d7ee8B9FE172166f38D8A7d937D35",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Web3 Advocacy"
+  "pwCategory": "Web3 Advocacy",
+  "pwCategorySuggestions": "Smart Contract Platforms, Tokenization Platforms, End-User Experience"
 }

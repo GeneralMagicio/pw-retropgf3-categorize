@@ -10,7 +10,10 @@
       "description": "i hope you"
     }
   ],
-  "impactCategory": ["COLLECTIVE_GOVERNANCE", "OP_STACK"],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "OP_STACK"
+  ],
   "impactDescription": "My Contributions this powerfull, becouse i hope this project can save me, i need your help, please sir help me with your project. make me happy ending in my live with your project Sir. I can help you and suport you to bulider thid project, becasue i am seriously hope you can save me, Thanks youu..",
   "impactMetrics": [
     {
@@ -33,5 +36,6 @@
   "RPGF3_Application_UID": "0x01f187392012585988088bfb074ced6c81fc007ea938ea6ca336568473e5f1f4",
   "applicantAddress": "0x131C3DbD6837b08Ec9Ba5cdc69533Be0565fF94d",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "This application should be flagged for promises of future impact - the applicant commits to help and support the project in the future and expresses hope that the project will help them."
+  "pwFlaggedReason": "This application should be flagged for promises of future impact - the applicant commits to help and support the project in the future and expresses hope that the project will help them.",
+  "pwCategorySuggestions": "NFT Aggregator"
 }

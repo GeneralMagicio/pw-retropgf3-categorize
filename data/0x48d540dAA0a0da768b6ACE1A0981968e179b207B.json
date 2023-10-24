@@ -10,7 +10,10 @@
       "description": "Metamask"
     }
   ],
-  "impactCategory": ["COLLECTIVE_GOVERNANCE", "OP_STACK"],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "OP_STACK"
+  ],
   "impactDescription": "My involvement with the Optimism Collective has been transformative, driving the acceptance and evolution of Layer 2 scaling solutions in cryptocurrency. Through our efforts, we've significantly reduced transaction costs and latency, enhancing efficiency for users and developers. This achievement not only improves the user experience but also promotes the growth of the broader crypto community. The adoption of Layer 2 solutions addresses key challenges, lowering fees and increasing transaction speed. This progress encourages innovation, making crypto technology more accessible and promising a more inclusive and scalable future.",
   "impactMetrics": [
     {
@@ -34,5 +37,6 @@
   "applicantAddress": "0x48d540dAA0a0da768b6ACE1A0981968e179b207B",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Layer 2 Scaling"
+  "pwCategory": "Layer 2 Scaling",
+  "pwCategorySuggestions": "Layer 2 Scaling, Blockchain Infrastructure, User Experience & Adoption"
 }

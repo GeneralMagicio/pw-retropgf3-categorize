@@ -10,7 +10,10 @@
       "description": "Here is my wallet address, hope you consider confirming the airdrop for me"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION", "OP_STACK"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
   "impactDescription": "\nAs the ecosystem expands, new user growth is true, but will loyal users like me get many?. And I hope in the future I will receive a little reward from you through my small contributions. and in the future I hope Optimism will expand and develop further",
   "impactMetrics": [
     {
@@ -35,5 +38,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for violating the \"Promises of future impact\" rule as the applicant is promising further participation and impact.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "End User Experience and Adoption"
+  "pwCategory": "End User Experience and Adoption",
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), User Experience & Adoption, Community Building"
 }

@@ -10,7 +10,9 @@
       "description": "just trying to make my dream come true thru airdroping"
     }
   ],
-  "impactCategory": ["OP_STACK"],
+  "impactCategory": [
+    "OP_STACK"
+  ],
   "impactDescription": "I DO WHATEVER IT TAKES .. i believe in this project ..  i will support it .. \nI DO WHATEVER IT TAKES .. i believe in this project ..  i will support it .. \nI DO WHATEVER IT TAKES .. i believe in this project ..  i will support it .. \nI DO WHATEVER IT TAKES .. i believe in this project ..  i will support it .. ",
   "impactMetrics": [
     {
@@ -36,5 +38,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged because it contains spam such as irrelevant and repetitive answers in the 'contributionDescription' and 'impactDescription'.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Community Building"
+  "pwCategory": "Community Building",
+  "pwCategorySuggestions": "Community Building, User Experience & Adoption, Content Creation"
 }

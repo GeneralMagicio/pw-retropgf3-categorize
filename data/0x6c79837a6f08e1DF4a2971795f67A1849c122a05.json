@@ -108,5 +108,6 @@
   "applicantName": "Hen",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x6c79837a6f08e1DF4a2971795f67A1849c122a05.json",
   "RPGF3_Application_UID": "0xaf869c5736e4275f6d6bd2c4a9b8dac21dab4558e0758e6db27e13807f6b1a94",
-  "applicantAddress": "0x6c79837a6f08e1DF4a2971795f67A1849c122a05"
+  "applicantAddress": "0x6c79837a6f08e1DF4a2971795f67A1849c122a05",
+  "pwCategorySuggestions": "Smart Contract Platforms"
 }

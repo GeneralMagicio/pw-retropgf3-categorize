@@ -10,7 +10,9 @@
       "description": "U can find my account transaction here"
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
   "impactDescription": "I think continuous contribution is very impactive for a blockchains broader development. My continuous usage of various dapps and platform will bring them incourageous to bring good product in web3. My transaction and tvl will help various dapps and defi",
   "impactMetrics": [
     {
@@ -33,5 +35,6 @@
   "applicantAddress": "0x340e0850fae2f6E81110Dab949A9da949859bAE0",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "End User Experience and Adoption"
+  "pwCategory": "End User Experience and Adoption",
+  "pwCategorySuggestions": "Layer 2 Scaling, Decentralized Finance (DeFi), Non-Fungible Tokens (NFTs)"
 }

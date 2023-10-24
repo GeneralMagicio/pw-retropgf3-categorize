@@ -47,5 +47,6 @@
   "applicantAddress": "0x389aD3700E5bCcab1f90fbc0B60F6Ee7558952b9",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "The provided information doesn't give specific details about the project's purpose, functionality, or main features. Therefore, it's not possible to assign an accurate category from the list provided."
+  "pwCategory": "The provided information doesn't give specific details about the project's purpose, functionality, or main features. Therefore, it's not possible to assign an accurate category from the list provided.",
+  "pwCategorySuggestions": "Community Building, User Experience & Adoption, Tokenization Platforms"
 }

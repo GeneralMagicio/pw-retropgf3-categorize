@@ -45,5 +45,6 @@
   "applicantAddress": "0xd3300E1Aa7D8F99b47038e6b53Bc36407edee9D7",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Developer Ecosystem"
+  "pwCategory": "Developer Ecosystem",
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Layer 2 Scaling, Community Building"
 }

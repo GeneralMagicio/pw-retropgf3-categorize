@@ -80,7 +80,9 @@
       "description": "Talk on introduction to DAO governance (Spanish) Host: Push en Español"
     }
   ],
-  "impactCategory": ["COLLECTIVE_GOVERNANCE"],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
   "impactDescription": "I naturally connected with diverse communities, inviting them to join Optimism's governance journey. My guidance and support facilitated participation in missions and grants, impacting communities like Espacio Cripto, Cryptoversidad, H.E.R. LATAM, and Cryptonikas. I also offered guidance to individuals and communities interested in governance. My passion lies in onboarding, and I intend to keep nurturing these connections.",
   "impactMetrics": [
     {
@@ -132,5 +134,6 @@
   "applicantAddress": "0x7fC80faD32Ec41fd5CfcC14EeE9C31953b6B4a8B",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Community Building"
+  "pwCategory": "Community Building",
+  "pwCategorySuggestions": "Governance & Tokens, Community Building, Web3 Community Platform"
 }

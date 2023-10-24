@@ -37,5 +37,6 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xe9A80AD27F60Ab52AE563718896E513263DE6993.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xe9A80AD27F60Ab52AE563718896E513263DE6993.json",
   "RPGF3_Application_UID": "0xe5f0ccf4597eb114a1ff610f75921f278805a3639b54c692609cf1c37a165f6a",
-  "applicantAddress": "0xe9A80AD27F60Ab52AE563718896E513263DE6993"
+  "applicantAddress": "0xe9A80AD27F60Ab52AE563718896E513263DE6993",
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Nonprofit Funding, Open Source Projects"
 }

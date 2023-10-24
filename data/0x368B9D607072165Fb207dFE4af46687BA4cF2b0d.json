@@ -10,7 +10,9 @@
       "description": "Over 30 videos and 60 publications about Optimism"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "* As a popular Influencer (YouTube, TikTok and Telegram platforms), I actively promote my favorite network to the masses. In addition, I create educational activities to educate the community and increase their knowledge of cybersecurity.\n\n* Donation support for projects built on Optimism.",
   "impactMetrics": [
     {
@@ -40,5 +42,6 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x368B9D607072165Fb207dFE4af46687BA4cF2b0d.json",
   "RPGF3_Application_UID": "0xf9345a5f9e7e6cc803b7a71e68fd630953d055cfdaf57f38dfba3805d70425fe",
   "applicantAddress": "0x368B9D607072165Fb207dFE4af46687BA4cF2b0d",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwCategorySuggestions": "Content Creation, Community Building, Web3 Community Platform"
 }

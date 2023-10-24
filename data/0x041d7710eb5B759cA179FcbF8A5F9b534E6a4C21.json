@@ -30,7 +30,9 @@
       "description": "Promoting bridges"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "- Awareness of possibilities onchain\n- Safety procedures to follow for new users\n- Active in governance and delegated all of my OP thats not being used for yield onchain.\n- Promote thesis of superchain future as it's something i completely believe in. ",
   "impactMetrics": [
     {
@@ -52,5 +54,6 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x041d7710eb5B759cA179FcbF8A5F9b534E6a4C21.json",
   "RPGF3_Application_UID": "0x049f73e024f2483919a78f037c21cbc57368e5e93c80c7309bf8dc67e30013d1",
   "applicantAddress": "0x041d7710eb5B759cA179FcbF8A5F9b534E6a4C21",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwCategorySuggestions": "Developer Ecosystem, Community Building"
 }

@@ -40,5 +40,6 @@
   "applicantAddress": "0x3A18da831eBd8860e81130D25342DB3481eE06c1",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Layer 2 Scaling"
+  "pwCategory": "Layer 2 Scaling",
+  "pwCategorySuggestions": "Layer 2 Scaling, Smart Contract Platforms, Community Building"
 }

@@ -38,5 +38,6 @@
   "applicantAddress": "0xB879E8D9bF8a446D731d491b9d640A74A0CD41D5",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Community Building"
+  "pwCategory": "Community Building",
+  "pwCategorySuggestions": "N/A"
 }

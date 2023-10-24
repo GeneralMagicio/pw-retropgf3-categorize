@@ -60,7 +60,9 @@
       "description": "participating in Onchain Summer, my NFT CosmoBase in TOP-15"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "As I said translations into Russian and Ukrainian attract the Russian-speaking and Ukrainian-speaking community that lives all over the world. My main goal is to provide content for educational purposes and attract new users to Superchain by my educational content. You can see how many people was involved in Ambassador Program because of my thread (I give an impact metrics below).",
   "impactMetrics": [
     {
@@ -102,5 +104,6 @@
   "applicantAddress": "0x5f0C93B26413084099ac7fEf84E1B2D101104172",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Community Building"
+  "pwCategory": "Community Building",
+  "pwCategorySuggestions": "Content Creation, Community Building, Blockchain Education"
 }

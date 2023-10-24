@@ -10,7 +10,10 @@
       "description": "Swap and send"
     }
   ],
-  "impactCategory": ["COLLECTIVE_GOVERNANCE", "OP_STACK"],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "OP_STACK"
+  ],
   "impactDescription": "Swap on Hop Protocol\nAddress\n0x4200000000000000000000000000000000000006\nName\nDeposit (index_topic_1 address sender, uint256 value)View Source\n\nTopics\n0 0xe1fffcc4923d04b559f4d29a8bfc6cda04eb5b0d3c460751c2402c5c5cc9109c\n1  0x86cA30bEF97fB651b8d866D45503684b90cb3312\nData\nvalue :\n1000000000000000\n",
   "impactMetrics": [
     {
@@ -39,5 +42,6 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x4F506Adc76074e9A046e60AD17a882991721df5f.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x4F506Adc76074e9A046e60AD17a882991721df5f.json",
   "RPGF3_Application_UID": "0x1464444fc4f78c7953119ff1b10da7eea2135769f6e2a11508fd3cb0f8eb9802",
-  "applicantAddress": "0x4F506Adc76074e9A046e60AD17a882991721df5f"
+  "applicantAddress": "0x4F506Adc76074e9A046e60AD17a882991721df5f",
+  "pwCategorySuggestions": "Tokenization Platforms, Web3 Community Platform"
 }

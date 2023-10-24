@@ -40,5 +40,6 @@
   "applicantName": "Brownies",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x55CAB1893dB3eE2cc65430f84b3f8E6b3840a22a.json",
   "RPGF3_Application_UID": "0x6c8f57254afd03f55294bd43e61016b2ea38b074e0ce1d2c2929d3b7bc2a7cef",
-  "applicantAddress": "0x55CAB1893dB3eE2cc65430f84b3f8E6b3840a22a"
+  "applicantAddress": "0x55CAB1893dB3eE2cc65430f84b3f8E6b3840a22a",
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Smart Contract Platforms, Community Building"
 }

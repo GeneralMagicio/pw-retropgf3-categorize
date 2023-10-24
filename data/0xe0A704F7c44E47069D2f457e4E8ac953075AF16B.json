@@ -10,7 +10,9 @@
       "description": "example of activities"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "If we are able to find the any issues or errors by using  by using different wallet like Metamask and Trezor, we are able to learn the stability and reliability of the Optimism network. We can then inform the Optimism Network Team to resolve the errors and issues on a timely matter.",
   "impactMetrics": [
     {
@@ -44,5 +46,6 @@
   "pwRecategorizeToType": "PROJECT",
   "pwRecategorizeReason": "NO, the application should be categorized as \"PROJECT\" as it does not refer to any individual efforts or statements like \"I\" or \"me\". It is more focused on a wider project effort.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Blockchain Infrastructure"
+  "pwCategory": "Blockchain Infrastructure",
+  "pwCategorySuggestions": "Web3 Infrastructure, Wallet Management"
 }

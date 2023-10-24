@@ -10,7 +10,9 @@
       "description": "Close to half of my tx have come from covering OP campaigns"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "As mentioned in the first description, I have covered the Optimism network and ecosystem quite extensively. I will include links to each of my videos, as well as the viewer count for each one. I have had quite a lot of engagement on youtube and twitter from new and experienced users asking for help navigating campaign tasks and projects on Optimism.",
   "impactMetrics": [
     {
@@ -135,5 +137,6 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x2E849DB35D4E7753902414D466d97ad02d333F56.json",
   "RPGF3_Application_UID": "0x4f1f2f5b1c5ab11d0eb9aa6e10fe3b47b7505d41ff6f75151f055457026438d2",
   "applicantAddress": "0x2E849DB35D4E7753902414D466d97ad02d333F56",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwCategorySuggestions": "Content Creation, Community Building, User Experience & Adoption"
 }

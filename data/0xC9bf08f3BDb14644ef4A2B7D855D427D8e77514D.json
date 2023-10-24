@@ -35,5 +35,6 @@
   "applicantName": "alalaala",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xC9bf08f3BDb14644ef4A2B7D855D427D8e77514D.json",
   "RPGF3_Application_UID": "0xcf3bd2b6490fe2f9d05cec37d03cbb530387323c1acd08f9a0f3d9f1e26e830a",
-  "applicantAddress": "0xC9bf08f3BDb14644ef4A2B7D855D427D8e77514D"
+  "applicantAddress": "0xC9bf08f3BDb14644ef4A2B7D855D427D8e77514D",
+  "pwCategorySuggestions": "User Experience & Adoption, Community Building, Content Creation"
 }

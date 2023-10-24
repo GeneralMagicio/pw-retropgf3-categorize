@@ -39,5 +39,6 @@
   "applicantAddress": "0x0000006c21964AF0d420af8992851A30fA13c68b",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "End User Experience and Adoption"
+  "pwCategory": "End User Experience and Adoption",
+  "pwCategorySuggestions": "User Experience & Adoption, Wallet Management"
 }

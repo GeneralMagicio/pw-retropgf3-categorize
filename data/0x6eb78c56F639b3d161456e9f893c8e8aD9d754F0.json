@@ -25,7 +25,9 @@
       "description": "RetroPGF Community NFT Collection "
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "We sponsored booths at ETHBarcelona and Funding the Commons at EthCC and doing so onboarded 97 new projects that were previously unaware of RetroPGF. Our continuous engagement on social media created a growing community of grassroot enthusiasts spreading the RetroPGF meme. Additionally, our website acts as a hub, providing an overview of all projects that received funding in rounds 1 and 2, as well as in depth case studies and educational resources to get projects excited about what RetroPGF can do and push them to apply to round 3! \n",
   "impactMetrics": [
     {
@@ -72,5 +74,6 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x6eb78c56F639b3d161456e9f893c8e8aD9d754F0.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x6eb78c56F639b3d161456e9f893c8e8aD9d754F0.json",
   "RPGF3_Application_UID": "0x4174425509a7abc8a01e4b0c7176ee7d04f6e88e80968a0935aedce5337afb85",
-  "applicantAddress": "0x6eb78c56F639b3d161456e9f893c8e8aD9d754F0"
+  "applicantAddress": "0x6eb78c56F639b3d161456e9f893c8e8aD9d754F0",
+  "pwCategorySuggestions": "Community Building, Education & Advocacy, Content Creation"
 }

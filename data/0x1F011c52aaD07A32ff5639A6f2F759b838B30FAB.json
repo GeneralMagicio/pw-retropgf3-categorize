@@ -46,5 +46,6 @@
   "applicantAddress": "0x1F011c52aaD07A32ff5639A6f2F759b838B30FAB",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "NFTs"
+  "pwCategory": "NFTs",
+  "pwCategorySuggestions": "NFTs, Layer 2 Scaling, Blockchain Infrastructure"
 }

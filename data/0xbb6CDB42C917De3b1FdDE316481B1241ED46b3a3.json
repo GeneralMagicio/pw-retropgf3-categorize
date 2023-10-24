@@ -44,5 +44,6 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xbb6CDB42C917De3b1FdDE316481B1241ED46b3a3.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xbb6CDB42C917De3b1FdDE316481B1241ED46b3a3.json",
   "RPGF3_Application_UID": "0xf7e99050d67483864a93191708b7ec0b23b2f1a85d5bfd8535c464508fb3dfce",
-  "applicantAddress": "0xbb6CDB42C917De3b1FdDE316481B1241ED46b3a3"
+  "applicantAddress": "0xbb6CDB42C917De3b1FdDE316481B1241ED46b3a3",
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Layer 2 Scaling, Yield Analysis"
 }

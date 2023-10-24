@@ -40,5 +40,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "Yes, this application should be flagged for violating the rules of the grant program. The contribution description and impact descriptions essentially promise future impact, which is strictly against the rules. The applicant does not provide any clear past contribution or impact.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Community Building"
+  "pwCategory": "Community Building",
+  "pwCategorySuggestions": "Community Building, User Experience & Adoption"
 }

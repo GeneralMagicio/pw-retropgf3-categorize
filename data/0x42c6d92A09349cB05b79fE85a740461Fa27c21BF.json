@@ -47,5 +47,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "Flagged: The application contains promises of future impact with \"Hopefully the Op ring will become more and more popular and develop as strongly as ETH and BTC\", which is against the grant program rules.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Non-Fungible Tokens (NFTs)"
+  "pwCategory": "Non-Fungible Tokens (NFTs)",
+  "pwCategorySuggestions": "Tokenization Platforms, Decentralized Finance (DeFi), End-User Experience"
 }

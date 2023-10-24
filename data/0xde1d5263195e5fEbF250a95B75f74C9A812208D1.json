@@ -41,5 +41,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged because it's in a language that's not English which is against the rules of the Grant program.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Decentralized Finance (DeFi)"
+  "pwCategory": "Decentralized Finance (DeFi)",
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Tokenization Platforms, Layer 2 Scaling"
 }

@@ -40,5 +40,6 @@
   "pwRecategorizeToType": "PROJECT",
   "pwRecategorizeReason": "NO, the application seems to be created by an individual, but the content provided is nonspecific and spam-like, hence it is hard to definitively categorize it.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Developer Ecosystem"
+  "pwCategory": "Developer Ecosystem",
+  "pwCategorySuggestions": "Developer Ecosystem"
 }

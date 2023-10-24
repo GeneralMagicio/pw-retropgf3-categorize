@@ -10,7 +10,9 @@
       "description": "Optimism Airdrop"
     }
   ],
-  "impactCategory": ["COLLECTIVE_GOVERNANCE"],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
   "impactDescription": "there is many people from indonesian learn more about optimism, focus with OP Stack. With OP Stack makes other layer 2 can bridge cross-chain easier than before. OP Stack is the future of cross-chain. this is incredible! I hope so, Optimism Foundation can bring more inovation on blockchain.",
   "impactMetrics": [
     {
@@ -38,5 +40,6 @@
   "pwRecategorizeToType": "PROJECT",
   "pwRecategorizeReason": "NO, the application is not correctly categorized because the description suggests Nakama Airdrop is a project aimed at sharing information and updates about the optimism foundation to its members on a telegram channel, not an individual.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Community Building"
+  "pwCategory": "Community Building",
+  "pwCategorySuggestions": "Community Building, Cross-Chain Platforms, Blockchain Education"
 }

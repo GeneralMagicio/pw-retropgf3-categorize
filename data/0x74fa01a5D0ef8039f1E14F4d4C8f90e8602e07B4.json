@@ -15,7 +15,9 @@
       "description": "Live Taxman website"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "Taxman helped many DAO contributors (especially at BanklessDAO) calculate their tax liability while they earned, reducing stress during tax season.  This reduced stress smooths out the contribution process, encouraging contributors to keep contributing year after year.  \n\nMany contributors at BanklessDAO who used Taxman are working on education and awareness projects for the Optimism Collective.  Taxman supports these contributors so they can do their best work for the collective.",
   "impactMetrics": [
     {
@@ -45,5 +47,6 @@
   "applicantAddress": "0x74fa01a5D0ef8039f1E14F4d4C8f90e8602e07B4",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "End-User Experience"
+  "pwCategory": "End-User Experience",
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Taxation Tools, Governance & Tokens"
 }

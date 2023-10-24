@@ -10,7 +10,9 @@
       "description": "I share educational event with my community members on my WhatsApp/twitter"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "As an Optimism ecosystem user, I go beyond personal benefits. I promote growth by onboarding users, giving feedback, and creating awareness. This strengthens the network effect and attracts developers. I also educate and advocate for Layer 2 solutions, making them accessible. Using these solutions, like DeFi and NFTs, supports the ecosystem's economic health.",
   "impactMetrics": [
     {
@@ -35,5 +37,6 @@
   "applicantAddress": "0x10Fedd3a2eCC9ABbDE294C1d13e1f71EB71F3aad",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Web3 Advocacy"
+  "pwCategory": "Web3 Advocacy",
+  "pwCategorySuggestions": "Web3 Community Platform, Layer 2 Scaling, Decentralized Finance (DeFi)"
 }

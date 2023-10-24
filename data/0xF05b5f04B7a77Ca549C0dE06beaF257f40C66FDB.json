@@ -51,5 +51,6 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xF05b5f04B7a77Ca549C0dE06beaF257f40C66FDB.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xF05b5f04B7a77Ca549C0dE06beaF257f40C66FDB.json",
   "RPGF3_Application_UID": "0x6752ee31f5e09caedd68da815fc684456bca90ffa4336fd021180f91ef5ac85a",
-  "applicantAddress": "0xF05b5f04B7a77Ca549C0dE06beaF257f40C66FDB"
+  "applicantAddress": "0xF05b5f04B7a77Ca549C0dE06beaF257f40C66FDB",
+  "pwCategorySuggestions": "Smart Contract Platforms, Wallet Management, Blockchain Infrastructure"
 }

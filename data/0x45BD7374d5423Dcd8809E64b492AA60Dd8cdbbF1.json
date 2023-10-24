@@ -10,7 +10,9 @@
       "description": "Lyr0-op"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "As a user, my contributions to the Optimism Collective have focused on active engagement and support within the community. While my role is to provide information, However, my impact can be summarized as follows:\n\nInformation and Education: By utilizing the information and resources available, users like me can gain a deeper understanding of Optimism's technology, which empowers us to make informed decisions and actively participate in the ecosystem.\n\nCommunity Engagement: Users who access information and insights through my assistance can engage more effectively within the Optimism Collective. \n\nNetwork Strengthening: In a collective environment, informed and engaged users can help strengthen the network and promote the adoption of Optimism's solutions,",
   "impactMetrics": [
     {
@@ -35,5 +37,6 @@
   "applicantAddress": "0x45BD7374d5423Dcd8809E64b492AA60Dd8cdbbF1",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Community Building"
+  "pwCategory": "Community Building",
+  "pwCategorySuggestions": "Developer Ecosystem, Community Building, Information and Education"
 }

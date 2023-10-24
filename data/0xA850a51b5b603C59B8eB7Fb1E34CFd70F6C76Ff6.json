@@ -10,7 +10,10 @@
       "description": "this are my address"
     }
   ],
-  "impactCategory": ["COLLECTIVE_GOVERNANCE", "OP_STACK"],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "OP_STACK"
+  ],
   "impactDescription": "As a dedicated member of the Optimism Collective, my contributions have made a meaningful impact by fostering an environment of positive change and growth. Through active engagement, collaboration, and advocacy for sustainable solutions, I have helped the Collective further its mission of inspiring optimism, driving social progress, and promoting collective well-being. My commitment to community-driven initiatives, education, and innovative ideas has not only enriched our collective efforts but has also contributed to the broader movement of creating a brighter, more hopeful future for all. Together, we are transforming optimism into tangible, impactful change.",
   "impactMetrics": [
     {
@@ -35,5 +38,6 @@
   "applicantAddress": "0xA850a51b5b603C59B8eB7Fb1E34CFd70F6C76Ff6",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Community Building"
+  "pwCategory": "Community Building",
+  "pwCategorySuggestions": "Community Building, Governance & Tokens, Developer Ecosystem"
 }

@@ -25,7 +25,9 @@
       "description": "OP stack finality analysis."
     }
   ],
-  "impactCategory": ["OP_STACK"],
+  "impactCategory": [
+    "OP_STACK"
+  ],
   "impactDescription": "My contributions sparked community and academic interest towards OP stack and rollup designs in general. This has led me  to heavily contribute to L2BEAT and to public debates on the topic. My DA cost analysis has helped projects analysing costs of projects deployments, for example p256 curve verification for Clave AA.",
   "impactMetrics": [
     {
@@ -67,5 +69,6 @@
   "applicantAddress": "0x33D66941465ac776C38096cb1bc496C673aE7390",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Blockchain Infrastructure"
+  "pwCategory": "Blockchain Infrastructure",
+  "pwCategorySuggestions": "Blockchain Infrastructure"
 }

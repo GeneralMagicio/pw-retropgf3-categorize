@@ -20,7 +20,10 @@
       "description": "ETHAccra Hackathon Facts & Figures"
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "Developer Ecosystem\nThe hackathon marked a significant milestone as the first of its kind in Ghana, paving the way for further innovation in the region. Many of the participants were first-time builders who were new to web3 technology. Hence ETHAccra has successfully welcomed and integrated these new builders into the ecosystem, and we remain committed to this mission. \n\nEnd User Experience and Adoption\nAdditionally during the Developer Campus tour we have onboard many participants into the Optimism ecosystem by setting up a web3 wallet and introducing them into the ecosystem. We also provided them with educational learning material on how to better navigate in the Optimism L2 ecosystem.\n",
   "impactMetrics": [
     {
@@ -60,5 +63,6 @@
   "applicantAddress": "0x9ac685a55bce6b515fC1Ea713146f6D099A5054b",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Community Building"
+  "pwCategory": "Community Building",
+  "pwCategorySuggestions": "Developer Ecosystem, End-User Experience, Adoption"
 }

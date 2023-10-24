@@ -53,5 +53,6 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xc56618e14Dc795D0a3aeF77cFC9F3B1dba2514c6.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xc56618e14Dc795D0a3aeF77cFC9F3B1dba2514c6.json",
   "RPGF3_Application_UID": "0xa9ebc461f41b0cf7f17689690f5baed6716664a78c3feb30dc373c6c05f159f7",
-  "applicantAddress": "0xc56618e14Dc795D0a3aeF77cFC9F3B1dba2514c6"
+  "applicantAddress": "0xc56618e14Dc795D0a3aeF77cFC9F3B1dba2514c6",
+  "pwCategorySuggestions": "Smart Contract Platforms, Developer Ecosystem, Community Building"
 }

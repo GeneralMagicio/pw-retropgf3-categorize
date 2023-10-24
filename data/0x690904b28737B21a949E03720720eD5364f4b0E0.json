@@ -43,5 +43,6 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, the application is not correctly categorized. It seems to be an individual (\"I love myself\", \"You are only evaluated based on the impact you already had\") posing as a project.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Developer Ecosystem"
+  "pwCategory": "Developer Ecosystem",
+  "pwCategorySuggestions": "Governance Tokens"
 }

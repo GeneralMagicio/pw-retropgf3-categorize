@@ -40,7 +40,10 @@
       "description": "Rollux Mainnet DORA"
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "Supra’s DVRF, the first VRF on Base and Mantle, provides fair random numbers for blockchain gaming and casinoFi, aiding developers in powering dapps with on-chain verifiable randomness. Its VRF design, recognized by ACM CCS 2023, ensures low-latency and security. As the lone oracle provider on Rollux, SupraOracles delivers on-chain price updates for 150 data pairs every 30 seconds, attracting dapps for various protocols. Its oracle chain offers real-world, real-time data access via a unified contract on Rollux, simplifying developer interactions.",
   "impactMetrics": [
     {
@@ -74,5 +77,6 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x6a813AD99472Ca0868e104E607E4dD4C2616C3B5.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x6a813AD99472Ca0868e104E607E4dD4C2616C3B5.json",
   "RPGF3_Application_UID": "0xc3ad567e82145d15987c82efccc1aee7803bb69750cf221f2c68165c688c1878",
-  "applicantAddress": "0x6a813AD99472Ca0868e104E607E4dD4C2616C3B5"
+  "applicantAddress": "0x6a813AD99472Ca0868e104E607E4dD4C2616C3B5",
+  "pwCategorySuggestions": "Decentralized Oracle Services, Cross-Chain Platforms, Blockchain Gaming"
 }

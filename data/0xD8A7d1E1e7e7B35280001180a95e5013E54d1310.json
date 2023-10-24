@@ -86,5 +86,6 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xD8A7d1E1e7e7B35280001180a95e5013E54d1310.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xD8A7d1E1e7e7B35280001180a95e5013E54d1310.json",
   "RPGF3_Application_UID": "0xc15f111484081470f19dfc3881788a82c8190a130e85b68d5fbce1cc650d1416",
-  "applicantAddress": "0xD8A7d1E1e7e7B35280001180a95e5013E54d1310"
+  "applicantAddress": "0xD8A7d1E1e7e7B35280001180a95e5013E54d1310",
+  "pwCategorySuggestions": "Music NFTs, Royalty Payments, Web3 Education"
 }

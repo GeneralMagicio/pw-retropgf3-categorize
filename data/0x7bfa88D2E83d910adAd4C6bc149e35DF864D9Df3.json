@@ -10,7 +10,9 @@
       "description": "有"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "yes.从：\n0x7bfa88d2e83d910adad4c6bc149e35df864d9df3 \n互动对象（至）：\n合约0xcd98de456b233d828e4419eb1c24424fa02d8714 \n 传输  0 。00069 以太坊来自 0xcd98de456b233d828e4419eb1c24424fa02d8714 到  0xae6fdda940155d090e3a3de9b090ad6a392f761a\n 传输  0 。001 ETH来自 0xcd98de456b233d828e4419eb1c24424fa02d8714 到  0xff5ae9​​b0a7522736299d797d80b8fc6f31d61100\n",
   "impactMetrics": [
     {
@@ -43,5 +45,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged because it is in a language other than English.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Collective Governance"
+  "pwCategory": "Collective Governance",
+  "pwCategorySuggestions": "Tokenization Platforms, Blockchain Infrastructure, Community Building"
 }

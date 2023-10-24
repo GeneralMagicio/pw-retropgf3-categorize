@@ -10,7 +10,9 @@
       "description": "all transactions in Optimism"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "you are a very kind person, in giving gifts to everyone. so we are happy to be here. Don't forget our hope is that you are always enthusiastic, you will be successful if you continue to be enthusiastic. we are here and be at the forefront, and be the first to try to be here",
   "impactMetrics": [
     {
@@ -45,5 +47,6 @@
   "pwRecategorizeToType": "PROJECT",
   "pwRecategorizeReason": "NO, the application is miscategorized. Although the 'applicantType' is listed as 'INDIVIDUAL', the language used throughout the application frequently refers to 'we', suggesting it's a group or project.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Decentralized Finance (DeFi)"
+  "pwCategory": "Decentralized Finance (DeFi)",
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), NFT Aggregator, Web3 Community Platform"
 }

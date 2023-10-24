@@ -47,5 +47,6 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xdF6d390102457707245dAa09dE2640eCc9F52bAc.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xdF6d390102457707245dAa09dE2640eCc9F52bAc.json",
   "RPGF3_Application_UID": "0x9df4885a4953e15c4611373297a09b4effa13322206be6bc97348c7cd30ed461",
-  "applicantAddress": "0xdF6d390102457707245dAa09dE2640eCc9F52bAc"
+  "applicantAddress": "0xdF6d390102457707245dAa09dE2640eCc9F52bAc",
+  "pwCategorySuggestions": "Governance Tokens, Web3 Community Platform, Smart Contract Platforms"
 }

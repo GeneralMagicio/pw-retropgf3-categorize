@@ -10,7 +10,9 @@
       "description": "."
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "                                                                                                                                                                                                                                                                            ",
   "impactMetrics": [
     {
@@ -41,5 +43,6 @@
   "RPGF3_Application_UID": "0x4131f4ae1b5abc32844ebd623bb69fd6dc565689ca9b01d3e683b7abb4d5a022",
   "applicantAddress": "0x0BAC6DBd438bE80D16137d235837A6177e2c9648",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "This application should be flagged due to the lack of detailed descriptions in the 'contributionDescription' and 'impactDescription' sections, indicating that the applicant might not have made a valid contribution.."
+  "pwFlaggedReason": "This application should be flagged due to the lack of detailed descriptions in the 'contributionDescription' and 'impactDescription' sections, indicating that the applicant might not have made a valid contribution..",
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Non-Fungible Tokens (NFTs), Blockchain Education"
 }

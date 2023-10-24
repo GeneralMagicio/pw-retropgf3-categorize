@@ -10,7 +10,9 @@
       "description": "twitter + discord daily presence "
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "I have been extremely consistent in being present within discord and twitter; helping new members wrap their head around current events / important information / etc.\n\nI truly hope to ramp this up (especially on Twitter), as I have a deep passion for crypto",
   "impactMetrics": [
     {
@@ -35,5 +37,6 @@
   "applicantAddress": "0x686878c03282b225d7331bf3Deafdf27Cd6a38F6",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Community Building"
+  "pwCategory": "Community Building",
+  "pwCategorySuggestions": "Community Building, Content Creation, Blockchain Education"
 }

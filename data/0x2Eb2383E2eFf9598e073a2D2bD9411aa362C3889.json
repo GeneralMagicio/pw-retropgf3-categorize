@@ -10,7 +10,9 @@
       "description": "1"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "a multichain world brings its own challenges. Ethereum L2s are already pushing the limits of tooling and UX, and we are nowhere near global scale. To support the next hundreds, thousands, and millions of chains, we need a paradigm shift.\n\nThe reality is–as growing brands and ecosystems look for platforms to call home, they have limited, imperfect options. Large ecosystems like Coinbase are faced with a difficult decision: they can deploy on Ethereum and forfeit scalability, choose a single L2 and be dependent on that ecosystem, or deploy and maintain their own chain and fragment liquidity and network effects.",
   "impactMetrics": [
     {
@@ -32,5 +34,6 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x2Eb2383E2eFf9598e073a2D2bD9411aa362C3889.json",
   "RPGF3_Application_UID": "0x52d2ab8ca498829199a3826deb1c0f761987900e0800960fbb450692662b20f0",
   "applicantAddress": "0x2Eb2383E2eFf9598e073a2D2bD9411aa362C3889",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwCategorySuggestions": "Tokenization Platforms, Blockchain Infrastructure, Decentralized Finance (DeFi)"
 }

@@ -43,5 +43,6 @@
   "applicantAddress": "0x43f9c4C6592853fC6e87e4280f84ace6a344d8e7",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Collective Governance"
+  "pwCategory": "Collective Governance",
+  "pwCategorySuggestions": "Governance & Tokens"
 }

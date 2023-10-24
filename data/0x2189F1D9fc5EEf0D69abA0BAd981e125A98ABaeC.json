@@ -30,7 +30,9 @@
       "description": "People's leaderboard "
     }
   ],
-  "impactCategory": ["COLLECTIVE_GOVERNANCE"],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
   "impactDescription": "1. Made crypto and mainstream media outlets, VCs, academic researchers, and everyone in the DAO ecosystem aware of Optimism DAO and its activity and contributions. \n\n2. Created profiles for 275+ DAOs on Optimism, and 88k+ voters and all delegates of the Optimism Collective, emphasizing our commitment to data transparency.\n\n3. By curating and listing 38 DAO tools available on Optimism, we display the most comprehensive resource for individuals and organizations looking to deploy a DAO on Optimism.\n\n5. Over the past 24 months, governance data on DeepDAO has been accessed by over 120,000 people, underscoring our pivotal role in creating stakeholder engagement in the DAO ecosystem. \n\n6. Our comprehensive dataset enables stakeholders access to deeper, analytical treasury and governance metrics.",
   "impactMetrics": [
     {
@@ -78,5 +80,6 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x2189F1D9fc5EEf0D69abA0BAd981e125A98ABaeC.json",
   "RPGF3_Application_UID": "0x577ede5b874e212884380a586d387d9a1ac81ebeb0a5dd780468f4c5b0a413f1",
   "applicantAddress": "0x2189F1D9fc5EEf0D69abA0BAd981e125A98ABaeC",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwCategorySuggestions": "DAO Analytics, Governance Transparency"
 }

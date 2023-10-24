@@ -10,7 +10,9 @@
       "description": "Op army"
     }
   ],
-  "impactCategory": ["COLLECTIVE_GOVERNANCE"],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
   "impactDescription": "In my country, Thailand, I see injustice, corruption, monopoly, and small capital cannot fight against monopoly capital. I want to see a future world with transparency and antitrust. It can make small people fight against big capitalists. I want to see fairness in society and hope OP will be like that.",
   "impactMetrics": [
     {
@@ -43,5 +45,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for violating the grant program rules about the promises of future impact. The applicant is promising to use OP every day and to invite friends in the future, which is not allowed according to the rules.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Community Building"
+  "pwCategory": "Community Building",
+  "pwCategorySuggestions": "Community Building, Governance & Tokens, Decentralized Finance (DeFi)"
 }

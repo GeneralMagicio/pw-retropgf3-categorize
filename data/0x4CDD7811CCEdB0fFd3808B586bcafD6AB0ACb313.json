@@ -40,7 +40,9 @@
       "description": "An example of my posts to share the news when there was an interesting AMA "
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "My contributions primarily consisted of posts on Twitter, where I aimed to create a substantial impact by raising awareness about the Optimism ecosystem. While promoting Optimism as a Layer-2 network is crucial, I also endeavored to convey that it's not merely a scaling solution, but a vibrant ecosystem with numerous opportunities for user participation",
   "impactMetrics": [
     {
@@ -81,5 +83,6 @@
   "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x4CDD7811CCEdB0fFd3808B586bcafD6AB0ACb313.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x4CDD7811CCEdB0fFd3808B586bcafD6AB0ACb313.json",
   "RPGF3_Application_UID": "0xd8954972d3580199658bcc9ac03298b4f689ef06fc6f505c853851aa4ca25c41",
-  "applicantAddress": "0x4CDD7811CCEdB0fFd3808B586bcafD6AB0ACb313"
+  "applicantAddress": "0x4CDD7811CCEdB0fFd3808B586bcafD6AB0ACb313",
+  "pwCategorySuggestions": "Community Building, Developer Ecosystem, Web3 Community Platform"
 }

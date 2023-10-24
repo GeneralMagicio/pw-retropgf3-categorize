@@ -42,5 +42,6 @@
   "pwRecategorizeToType": "PROJECT",
   "pwRecategorizeReason": "NO, the application is incorrectly categorized. This seems more like a PROJECT application due to references made to a community and ecosystem, even though 'I' is used.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Community Building"
+  "pwCategory": "Community Building",
+  "pwCategorySuggestions": "Community Building, Media Production, Cryptocurrency Services"
 }

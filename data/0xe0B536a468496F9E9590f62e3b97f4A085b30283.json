@@ -41,5 +41,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "Flagged: The applicant's contribution description and impact description are vague and do not specify any actual past contributions or impacts to the Web3/blockchain space.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Community Building"
+  "pwCategory": "Community Building",
+  "pwCategorySuggestions": "Community Building, End-User Experience, Wallet Management"
 }

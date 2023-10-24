@@ -137,5 +137,6 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x8110d1D04ac316fdCACe8f24fD60C86b810AB15A.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x8110d1D04ac316fdCACe8f24fD60C86b810AB15A.json",
   "RPGF3_Application_UID": "0x819c3c9958e7c056a21ee4ab1138f8d0efa1e1f826105a045b42585ee6bc86e5",
-  "applicantAddress": "0x8110d1D04ac316fdCACe8f24fD60C86b810AB15A"
+  "applicantAddress": "0x8110d1D04ac316fdCACe8f24fD60C86b810AB15A",
+  "pwCategorySuggestions": "Token Engineering, Decentralized Governance, Open Source Research"
 }

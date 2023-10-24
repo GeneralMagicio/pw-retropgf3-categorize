@@ -10,7 +10,9 @@
       "description": "I’m a crypto enthusiast and still learning"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "well i think i’m just a big user on Optimism chain. I do lot of tx on Optimism. I buy lots of nfts and sold them as well. Sadly i never get on round 1 and 2 but it’s ok, I never have problem with that. Probably it just misunderstood. I did a little bit of stacking so yeah i think i have lots of contribution tu this chain",
   "impactMetrics": [
     {
@@ -41,5 +43,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged due to violating the rule 1 of promising future impact and being vague about their past contributions. The applicant does not provide specific details about his past contributions to the blockchain space, instead chooses to promise his commitment to the future activities.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Optimism Ambassador"
+  "pwCategory": "Optimism Ambassador",
+  "pwCategorySuggestions": "NFTs, Layer 2 Scaling, Decentralized Finance (DeFi)"
 }

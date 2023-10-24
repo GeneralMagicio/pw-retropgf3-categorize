@@ -10,7 +10,9 @@
       "description": "This mint was on Polygon or Eth or OP but always OP is my choice"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "I always suggest OP to my freinds, i think more than 100 ppl joined OP journey cuz of me and also i sent many feedbacks and suggest many features in the last year, hope this helped the project and assist u guys cuz i realy love the project and can see it along with ETH in the Volume",
   "impactMetrics": [
     {
@@ -41,5 +43,6 @@
   "applicantAddress": "0x26c534e9F35FB06c59495e199D30b7E3098a51a9",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Blockchain Infrastructure"
+  "pwCategory": "Blockchain Infrastructure",
+  "pwCategorySuggestions": "Tokenization Platforms, User Experience & Adoption, Community Building"
 }

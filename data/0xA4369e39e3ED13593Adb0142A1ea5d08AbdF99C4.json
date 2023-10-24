@@ -233,5 +233,6 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xA4369e39e3ED13593Adb0142A1ea5d08AbdF99C4.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xA4369e39e3ED13593Adb0142A1ea5d08AbdF99C4.json",
   "RPGF3_Application_UID": "0x03f067fb513eb032c6138820aa7d1ae3d80ff4bfd213ad79f62ffd6f145f1a3c",
-  "applicantAddress": "0xA4369e39e3ED13593Adb0142A1ea5d08AbdF99C4"
+  "applicantAddress": "0xA4369e39e3ED13593Adb0142A1ea5d08AbdF99C4",
+  "pwCategorySuggestions": "Community Building, Governance & Tokens, Media Production"
 }

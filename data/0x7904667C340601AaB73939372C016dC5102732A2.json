@@ -129,5 +129,6 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x7904667C340601AaB73939372C016dC5102732A2.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x7904667C340601AaB73939372C016dC5102732A2.json",
   "RPGF3_Application_UID": "0xf9cbdc7fa9d0e03f65030f716d9a53a98bee7d06861d236484b88ce586988fb6",
-  "applicantAddress": "0x7904667C340601AaB73939372C016dC5102732A2"
+  "applicantAddress": "0x7904667C340601AaB73939372C016dC5102732A2",
+  "pwCategorySuggestions": "NFT Aggregator, Tokenization Platforms, Web3 Community Platform"
 }

@@ -10,7 +10,9 @@
       "description": "Open Source Repos"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "Optimism's users have very little privacy focused application (only zkBOB?) to choose from natively on the rollup. Users on Optimism can bridge funds to Polygon to access Nata Network's privacy ZK-rollup, then bridge funds back to a new address on Optimism. ",
   "impactMetrics": [
     {
@@ -65,5 +67,6 @@
   "applicantAddress": "0x574755975ce360Bf70aa4960950A95AE3A2C0f92",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Blockchain Infrastructure"
+  "pwCategory": "Blockchain Infrastructure",
+  "pwCategorySuggestions": "Cross-Chain Platforms, Privacy Coins, Layer 2 Scaling"
 }

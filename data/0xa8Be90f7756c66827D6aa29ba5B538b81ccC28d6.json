@@ -10,7 +10,10 @@
       "description": "Twitter Profil link"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION", "OP_STACK"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
   "impactDescription": "I often follow the news that appears on Optimism Social Media, and I have followed all Optimism Social Media accounts so that I always know news from Optimism, success is always the team from Optimism, I will always support Project Dari Optimism, \nThank you, and success as always once again, hopefully in the future the OPTIMIST Project will be more advanced and can compete with the Big Projects",
   "impactMetrics": [
     {
@@ -41,5 +44,6 @@
   "applicantAddress": "0xa8Be90f7756c66827D6aa29ba5B538b81ccC28d6",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Optimism Ambassador"
+  "pwCategory": "Optimism Ambassador",
+  "pwCategorySuggestions": "Community Building, User Experience & Adoption, Developer Ecosystem"
 }

@@ -35,7 +35,9 @@
       "description": "This is a service to aggregate news on literally all the top projects in crypto"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "We have a strong media presence. Here are links to videos and posts where we've talked about the Optimism ecosystem. We popularized your ecosystem among our audience, agitated users to do quests, use bridges, explore the ecosystem. In total, you've brought several thousand active users to you. And we have already made instructions on how to work with your ecosystem in our WEB resources",
   "impactMetrics": [
     {
@@ -58,5 +60,6 @@
   "applicantAddress": "0xc22Fa161047135dD0A0bAd933e85c20020B69023",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Blockchain Education"
+  "pwCategory": "Blockchain Education",
+  "pwCategorySuggestions": "Blockchain Education, Community Building, Media Production"
 }

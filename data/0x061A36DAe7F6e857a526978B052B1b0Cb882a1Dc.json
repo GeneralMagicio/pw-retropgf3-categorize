@@ -15,7 +15,9 @@
       "description": "OP Stack related threads, X Spaces, & \"intern notes\" (discussion breakdowns)"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "Our in depth breakdowns of complex topics help the community understand the underlying infrastructure that goes into building an OP Stack rollup, including sequencer or prover explainers. Plus, our weekly newsletter highlights the biggest updates across the Optimism ecosystem, such as showing users how to onboard to a new OP Stack chain such as Ancient8. On top of this, we offer an environment for thought leaders & builders to share & publish their own thoughts to one of, if not the biggest modular community in web3. We have received support from some of the top minds in the space, including those from the Celestia & Avail teams, Jon Charbonneau, and many others.",
   "impactMetrics": [
     {
@@ -43,5 +45,6 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x061A36DAe7F6e857a526978B052B1b0Cb882a1Dc.json",
   "RPGF3_Application_UID": "0xf6ad557d7f9065d81c1e90f0d41b7808c028437740b206be489523c76035e5a9",
   "applicantAddress": "0x061A36DAe7F6e857a526978B052B1b0Cb882a1Dc",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwCategorySuggestions": "Media Production, Community Building, Blockchain Education"
 }

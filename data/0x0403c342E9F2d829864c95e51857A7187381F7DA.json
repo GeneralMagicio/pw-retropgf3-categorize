@@ -44,5 +44,6 @@
   "applicantAddress": "0x0403c342E9F2d829864c95e51857A7187381F7DA",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Community Building"
+  "pwCategory": "Community Building",
+  "pwCategorySuggestions": "Community Building, Content Creation, Cryptocurrency Services"
 }

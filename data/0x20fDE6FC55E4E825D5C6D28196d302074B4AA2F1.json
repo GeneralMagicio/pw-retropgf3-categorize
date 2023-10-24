@@ -47,5 +47,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for providing vague statements about contributions made. It lacks specific details and measurable impact metrics.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Developer Ecosystem"
+  "pwCategory": "Developer Ecosystem",
+  "pwCategorySuggestions": "Developer Ecosystem"
 }

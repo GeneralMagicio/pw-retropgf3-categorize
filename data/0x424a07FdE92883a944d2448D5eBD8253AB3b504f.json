@@ -41,5 +41,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for promising future deliverables or impact, which is against the grant program rules.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Layer 2 Scaling"
+  "pwCategory": "Layer 2 Scaling",
+  "pwCategorySuggestions": "Smart Contract Platforms, Community Building"
 }

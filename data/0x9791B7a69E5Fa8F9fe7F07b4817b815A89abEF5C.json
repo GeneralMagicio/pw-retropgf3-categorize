@@ -41,5 +41,6 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x9791B7a69E5Fa8F9fe7F07b4817b815A89abEF5C.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x9791B7a69E5Fa8F9fe7F07b4817b815A89abEF5C.json",
   "RPGF3_Application_UID": "0x6ecdfca90e94ecc3205d3bb4525e74ef694394411e35c85a7bc3832744b1a980",
-  "applicantAddress": "0x9791B7a69E5Fa8F9fe7F07b4817b815A89abEF5C"
+  "applicantAddress": "0x9791B7a69E5Fa8F9fe7F07b4817b815A89abEF5C",
+  "pwCategorySuggestions": "Decentralized Social Media, NFT Integration, AI-driven Protocols"
 }

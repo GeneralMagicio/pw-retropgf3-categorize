@@ -15,7 +15,9 @@
       "description": "Artislamic.eth"
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
   "impactDescription": "We can provide NFT works featuring art and 3D design. We plan to showcase our artworks, old and new, in the NFT space in the future. Artislamic.com is an online digital art and photography gallery since 1999. Here you will find about 5500 specially designed 2D and 3D graphics, drawings, digital motifs and specially taken photos. Our gallery contains landscape and nature views, flower photos, mixed digital motifs exhibition; artworks with the name of Allah (God), with the name of the Last Prophet Muhammad and with various religious phrases. There is also \"99 Excellent Names of Your Creator\" artworks and classic Islamic calligraphy exhibition. You can send any artwork you like as free e-card to your friends or download them as wallpapers for using on your computer. ",
   "impactMetrics": [
     {
@@ -43,5 +45,6 @@
   "pwRecategorizeToType": "PROJECT",
   "pwRecategorizeReason": "NO, the application is incorrectly categorized. It should be categorized as \"PROJECT\" as it represents an online digital art and photography gallery \"Artislamic.com\", not an individual.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Non-Fungible Tokens (NFTs)"
+  "pwCategory": "Non-Fungible Tokens (NFTs)",
+  "pwCategorySuggestions": "NFT Marketplace, Digital Art, Online Gallery"
 }

@@ -89,5 +89,6 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xa12f6928972B3B3C72259C7631BC1C37aA813C2e.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xa12f6928972B3B3C72259C7631BC1C37aA813C2e.json",
   "RPGF3_Application_UID": "0x335ee234463e3a9bf9ea3325fd6942f30877714716b159ca7843f9b4d9ff4285",
-  "applicantAddress": "0xa12f6928972B3B3C72259C7631BC1C37aA813C2e"
+  "applicantAddress": "0xa12f6928972B3B3C72259C7631BC1C37aA813C2e",
+  "pwCategorySuggestions": "Decentralized Governance, Web3 Community Platform, Blockchain Infrastructure"
 }

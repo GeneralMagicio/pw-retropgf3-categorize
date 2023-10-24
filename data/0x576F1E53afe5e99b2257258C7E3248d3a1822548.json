@@ -10,7 +10,10 @@
       "description": "Source code"
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM", "OP_STACK"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "OP_STACK"
+  ],
   "impactDescription": "Roll-op was used in the EthCon Seoul hackathon in order to implement an on-chain rollup-as-a-service provider: users could request a rollup via an on-chain transaction, and providers could accept the offer, deploy the rollup and make the various contract addresses available on-chain. \n\nThis project (RICRolling — https://github.com/orgs/ricrolling/) won first place as well as prizes from Taiko, Polygon zkEVM and Linea.\n\nThe team at Upnode (https://upnode.org/) has been working closely with us and is integrating roll-op into their node infrastructure.\n\nMultiple teams have been in touch with me about the possibility of using roll-op as a way to self-host their rollapps (I sadly can't disclose because of their current relationships with their Rollup-as-a-Service provider).",
   "impactMetrics": [
     {
@@ -39,5 +42,6 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x576F1E53afe5e99b2257258C7E3248d3a1822548.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x576F1E53afe5e99b2257258C7E3248d3a1822548.json",
   "RPGF3_Application_UID": "0x42e31df838a5ec5afb2756b26e286455f52d06f8ddc202c389d046590f583fb8",
-  "applicantAddress": "0x576F1E53afe5e99b2257258C7E3248d3a1822548"
+  "applicantAddress": "0x576F1E53afe5e99b2257258C7E3248d3a1822548",
+  "pwCategorySuggestions": "Smart Contract Platforms, Blockchain Infrastructure, Developer Ecosystem"
 }

@@ -15,7 +15,10 @@
       "description": "Weekly newsletter archive"
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "Week in Ethereum News is a weekly newsletter with a strong developer focus.\n\nProvides awareness of the OP Stack & Retro PGF to application developers and OP Stack apps for end users.  \n\n406 mentions of Optimism in 116 issues (includes payment methods for job listings), Optimism first appeared in January 19, 2020 issue.  Plasma Group first appeared in February 2, 2019.",
   "impactMetrics": [
     {
@@ -50,5 +53,6 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x288C53a1BA857EaD34AD0e79F644087F8174185a.json",
   "RPGF3_Application_UID": "0xf3754e2f022a88ffa5a845b5455703aab98797d4c0bb8d86181952fbc5655412",
   "applicantAddress": "0x288C53a1BA857EaD34AD0e79F644087F8174185a",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwCategorySuggestions": "Blockchain Infrastructure, Developer Ecosystem, Content Creation"
 }

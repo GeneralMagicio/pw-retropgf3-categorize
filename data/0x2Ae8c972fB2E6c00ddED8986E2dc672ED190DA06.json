@@ -25,7 +25,9 @@
       "description": "Modular Stack for Dummies (10 pages)"
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
   "impactDescription": "My work sits completely on the education side. I believe that my dashboards and guides help hundreds of analysts and devrel/bizdev/marketing/pm folks better understand and navigate the onchain ecosystems. \n\nIt's hard to quantify my impact, but I do know from word of mouth and testimonials that the work has benefited many inside and outside the OP Collective ecosystem.",
   "impactMetrics": [
     {
@@ -56,5 +58,6 @@
   "applicantAddress": "0x2Ae8c972fB2E6c00ddED8986E2dc672ED190DA06",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Blockchain Education"
+  "pwCategory": "Blockchain Education",
+  "pwCategorySuggestions": "Blockchain Education, Content Creation"
 }

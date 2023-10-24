@@ -15,7 +15,9 @@
       "description": "OP collective avatar "
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "I have completed all quests on coinbase for RPGF2 . Set up my avatar op nft that I have also updated .  Made numerous transactions over the op network.  Delegate op eth  own nfts on the op network & Used end user dapps I.e bridge swap ect . I have posted my journey on X.com/@420time8 . I have shared my experience in twitter spaces & had onboarded 2 followers during RPGF2 . Helping them design there own avatar.  ",
   "impactMetrics": [
     {
@@ -53,5 +55,6 @@
   "applicantAddress": "0x317A8C15eF921Ea907b4Daf831ED05E72BE4248a",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "End User Experience and Adoption"
+  "pwCategory": "End User Experience and Adoption",
+  "pwCategorySuggestions": "Blockchain Infrastructure, NFTs, Decentralized Finance (DeFi)"
 }

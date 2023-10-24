@@ -10,7 +10,10 @@
       "description": "dont have "
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION", "OP_STACK"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
   "impactDescription": "I believe this is a faithful project.The projector has a lot of attractions so hopefully the project will be better in the future and will be the best.\nI love it and congratulations to the team for their efforts and dedication and highly appreciated the visionary thought of the projector and it will create history",
   "impactMetrics": [
     {
@@ -42,5 +45,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged because the individual is promising future impact, which is against the rules of the grant program.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Blockchain Infrastructure"
+  "pwCategory": "Blockchain Infrastructure",
+  "pwCategorySuggestions": "Community Building"
 }

@@ -40,5 +40,6 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO. The application is made by an individual not a project as the applicant uses terms such as \"I\" and \"my\" in the descriptions provided.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Community Building"
+  "pwCategory": "Community Building",
+  "pwCategorySuggestions": "Developer Ecosystem, Cross-Chain Platforms, Community Building"
 }

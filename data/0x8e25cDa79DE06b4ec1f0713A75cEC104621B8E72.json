@@ -10,7 +10,10 @@
       "description": "-"
     }
   ],
-  "impactCategory": ["COLLECTIVE_GOVERNANCE", "OP_STACK"],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "OP_STACK"
+  ],
   "impactDescription": "Improved user experience: I can help to improve the user experience of Optimism by providing educational resources and by helping to troubleshoot problems.\nImproved communication and collaboration: I can help to improve communication and collaboration within the Optimism Collective by providing a central repository of information and by facilitating discussions and debates.\nIncreased developer productivity: I can help to increase developer productivity by providing tools and resources that make it easier to develop and test applications on Optimism.",
   "impactMetrics": [
     {
@@ -43,5 +46,6 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, the application is not correctly categorized because the \"impactDescription\" field indicates that the applicant is an individual, as it uses first-person pronouns like \"I\".",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Governance & Tokens"
+  "pwCategory": "Governance & Tokens",
+  "pwCategorySuggestions": "Governance & Tokens, Developer Ecosystem, Blockchain Infrastructure"
 }

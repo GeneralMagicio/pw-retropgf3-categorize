@@ -10,7 +10,10 @@
       "description": "-"
     }
   ],
-  "impactCategory": ["COLLECTIVE_GOVERNANCE", "OP_STACK"],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "OP_STACK"
+  ],
   "impactDescription": "Start and set community action goals and respond to feedback. In addition, the distribution of information and news for community development of optimism, in voting or expressing opinions, is a way to participate in recommendations or guidelines in which direction the community will go, which is why we chose this path.",
   "impactMetrics": [
     {
@@ -35,5 +38,6 @@
   "applicantAddress": "0xbD7DBd5AbEBB79F899c8D74a03855181F9BEAe37",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Community Building"
+  "pwCategory": "Community Building",
+  "pwCategorySuggestions": "Community Building, Governance & Tokens, Content Creation"
 }

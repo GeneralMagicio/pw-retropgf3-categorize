@@ -40,7 +40,10 @@
       "description": "Contributors who fund buidls on Optimism can now claim daily OP tokens."
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "Rpgf 2 strongly motivated our team as it is one of our dapp formerly known as app.givestation.org will now be moved to YouBuidl.dev while other products also are there too.\n\nYouBuidl makes it easy for both developers, creators, contributors and even investors to participate in the growing world of decentralized finance and web3 applications. So whether you’re an innovator looking for funding or an investor seeking opportunities, YouBuidl is the perfect platform for you.",
   "impactMetrics": [
     {
@@ -72,5 +75,6 @@
   "applicantAddress": "0x9120b6fdF6eeF4Eea3Eb56EcAe7EcFB79a8e7bDD",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Decentralized Finance (DeFi)"
+  "pwCategory": "Decentralized Finance (DeFi)",
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Web3 Community Platform, Tokenization Platforms"
 }

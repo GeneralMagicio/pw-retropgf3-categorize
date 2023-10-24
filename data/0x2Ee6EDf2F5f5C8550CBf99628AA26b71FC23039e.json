@@ -45,7 +45,9 @@
       "description": "16-hour Brownie, Python, and Solidity course. "
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
   "impactDescription": "We've created educational content used to jump start thousands of careers in the web3 ecosystem. Graduates of my content have gone on to join:\n- Trail of Bits\n- Chainlink Labs\n- Cyfrin \n- Openzeppelin\nCreated their own protocols, and more.\n\nThese developers are now living among us building the future of web3 🦾",
   "impactMetrics": [
     {
@@ -147,5 +149,6 @@
   "applicantAddress": "0x2Ee6EDf2F5f5C8550CBf99628AA26b71FC23039e",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Blockchain Education"
+  "pwCategory": "Blockchain Education",
+  "pwCategorySuggestions": "Blockchain Education"
 }

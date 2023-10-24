@@ -10,7 +10,10 @@
       "description": "A programming quest about Cannon & fraud proofs."
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "1. Developers' Growth: The devs delved into innovative problem-solving, exploring new avenues and methodologies, necessary for uncovering unexplored possibilities within the Optimism ecosystem.\n \n2. Community Cohesion: Engaged 90+ developers, note that each user on Node Guardians has to connect his Github account to solve quests and this is how the metrics are tracked.\n\n3. Visibility Boost: 35k views and 100+ likes on Twitter, strengthening Optimism Collective's stance in the space.\n\n4. Technology Showcase: The fraud proof challenge highlighted the real-world applicability and efficiency of Optimism's tech.\n\n5. Valuable Feedback: Post-quest, participants had a better understanding of OP's fraud proofs and expressed interest to delve deeper into Optimism.\n\n6. Video - Awareness - no shilling",
   "impactMetrics": [
     {
@@ -50,5 +53,6 @@
   "applicantAddress": "0x6ef87E0Aaadb2c3d07fD98a098Af5FaD0aD45811",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Developer Ecosystem"
+  "pwCategory": "Developer Ecosystem",
+  "pwCategorySuggestions": "Developer Community Building, Technology Showcase, Awareness & Education"
 }

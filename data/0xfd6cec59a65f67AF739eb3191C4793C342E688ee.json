@@ -10,7 +10,10 @@
       "description": "ssd"
     }
   ],
-  "impactCategory": ["COLLECTIVE_GOVERNANCE", "OP_STACK"],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "OP_STACK"
+  ],
   "impactDescription": "i already provide feedback for optimism testnet. and i am the optimism airdrop eligibility. and i bridge from optimism network to ethereum. and i wish in the future i can get more airdrop from optimism and i wish optimism become number one crypto in the world",
   "impactMetrics": [
     {
@@ -42,5 +45,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for promising future impact (\"i wish in the future i can get more airdrop from optimism and i wish optimism become number one crypto in the world\"), which violates Rule 1 of the grant program.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "End User Experience and Adoption"
+  "pwCategory": "End User Experience and Adoption",
+  "pwCategorySuggestions": "Blockchain Infrastructure, User Experience & Adoption, Governance & Tokens"
 }

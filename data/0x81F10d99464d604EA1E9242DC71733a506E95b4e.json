@@ -10,7 +10,10 @@
       "description": "x"
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "Whit the knowledge that i had that time in hope they make the right decisions.  Provided impact to end users in the Optimism Collective was no easy task , or helping new end users into the Collective. i will still spreading the hype and my knowledge. ",
   "impactMetrics": [
     {
@@ -42,5 +45,6 @@
   "applicantAddress": "0x81F10d99464d604EA1E9242DC71733a506E95b4e",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Community Building"
+  "pwCategory": "Community Building",
+  "pwCategorySuggestions": "Community Building, User Experience & Adoption, Developer Ecosystem"
 }

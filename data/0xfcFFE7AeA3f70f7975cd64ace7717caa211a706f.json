@@ -10,7 +10,9 @@
       "description": "p2p service for global users"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "creating p2p web for next billion users safe and secure full transparent we believe new user can buy crypto easily.\nThe Best P2P Platform is here with 100% Genuine & Verified \n\nWhy TF EXCHANGE? \n\n👉 Maximum Exchange Price In The market\n👉 Instant Payment\n👉 100% Transparency With Fully Decentralized Payment\n👉 NO KYC | 100% SECURE\n👉 100% Payment Garantee",
   "impactMetrics": [
     {
@@ -42,5 +44,6 @@
   "pwRecategorizeToType": "PROJECT",
   "pwRecategorizeReason": "NO, it should be categorized as \"PROJECT\" since the application details are in reference to a website project (https://tfexchange.in) and not an individual's contributions.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Decentralized Exchanges (DEXs)"
+  "pwCategory": "Decentralized Exchanges (DEXs)",
+  "pwCategorySuggestions": "Decentralized Exchanges (DEXs), User Experience & Adoption"
 }

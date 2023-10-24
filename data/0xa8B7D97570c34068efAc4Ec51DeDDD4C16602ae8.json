@@ -43,5 +43,6 @@
   "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xa8B7D97570c34068efAc4Ec51DeDDD4C16602ae8.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xa8B7D97570c34068efAc4Ec51DeDDD4C16602ae8.json",
   "RPGF3_Application_UID": "0x409d4231613e421d9a3a8192f90b126f470b3fd23a10e44dc149b2411d2e4b74",
-  "applicantAddress": "0xa8B7D97570c34068efAc4Ec51DeDDD4C16602ae8"
+  "applicantAddress": "0xa8B7D97570c34068efAc4Ec51DeDDD4C16602ae8",
+  "pwCategorySuggestions": "Layer 2 Scaling, Developer Ecosystem, Community Building"
 }

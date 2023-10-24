@@ -60,5 +60,6 @@
   "applicantAddress": "0x74E121599DB43F2b11b75179aaF06F5ED6187977",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Influencer Marketing"
+  "pwCategory": "Influencer Marketing",
+  "pwCategorySuggestions": "Community Building, User Experience & Adoption, Content Creation"
 }

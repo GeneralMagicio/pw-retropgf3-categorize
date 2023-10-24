@@ -10,7 +10,9 @@
       "description": "1"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "The remainder of unclaimed OP from Airdrop #1 is being distributed directly to eligible addresses.\n\nIf you were eligible for Airdrop #1, but you haven’t claimed your tokens yet, you will receive OP directly at your address.\n\nThis will distribute 48M OP to just over 88,000 unique addresses. Distribution began today at roughly 16:00 UTC. We expect it to complete within 12 hours.",
   "impactMetrics": [
     {
@@ -35,5 +37,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for promising future impact. The applicant states that they will distribute 48M OP to various addresses over a 12 hour period.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Governance & Tokens"
+  "pwCategory": "Governance & Tokens",
+  "pwCategorySuggestions": "Tokenization Platforms, NFT Aggregator, User Experience & Adoption"
 }

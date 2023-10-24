@@ -20,7 +20,10 @@
       "description": "our dao rewards for contributor  are distributed by this  redpacket contract.   "
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "Radiant to 10K Chinese language developers from the mainland and overseas.   We help to promote the op stack and op fraud-proof system to developers to get to know Optimism. Our dao also deploys the dao reward contract on OP mainnet.  Our dao members can claim their reward and bonus on Op. \n",
   "impactMetrics": [
     {
@@ -59,5 +62,6 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x1F7b953113f4dFcBF56a1688529CC812865840e1.json",
   "RPGF3_Application_UID": "0x4aa2191cde4ef94ed2bab5b0964b9fb219e7b306563ed809a7ec6aa3191e0618",
   "applicantAddress": "0x1F7b953113f4dFcBF56a1688529CC812865840e1",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwCategorySuggestions": "Developer Education, Community Building, Decentralized Finance (DeFi)"
 }

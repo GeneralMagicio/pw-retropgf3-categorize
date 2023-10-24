@@ -10,7 +10,9 @@
       "description": "OP Friday (Persian Version)"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "I think persian people don't know much about Optimist and there are few articles in Persian language available in social media.\nI think persian people don't know much about Optimist and there are few articles in Persian language available in social media.",
   "impactMetrics": [
     {
@@ -36,5 +38,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for violating rule 11 as it contains repeated phrases in the contribution and impact description and it is not in English.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Community Building"
+  "pwCategory": "Community Building",
+  "pwCategorySuggestions": "Content Creation, Community Building, Blockchain Education"
 }

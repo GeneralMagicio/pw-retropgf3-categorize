@@ -10,7 +10,9 @@
       "description": "0x6e2a1EfCE794Bf01D6A41bC9f1ffB7bBd1a22BE3"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "I have been using the Optimism network for a long time and I really like how quickly everything goes, the commission is also small. I think in the future you will be in the top networks. All my activities can be seen in the scan, I probably didn’t influence the optimism team in any way since I’m an ordinary user)",
   "impactMetrics": [
     {
@@ -35,5 +37,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for violating rule 10. The applicant is an end-user, not a contributor to the collective.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "End User Experience and Adoption"
+  "pwCategory": "End User Experience and Adoption",
+  "pwCategorySuggestions": "Layer 2 Scaling, User Experience & Adoption, Blockchain Infrastructure"
 }

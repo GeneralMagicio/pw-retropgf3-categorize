@@ -15,7 +15,10 @@
       "description": "on my tiktok chanel"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION", "OP_STACK"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
   "impactDescription": "will did some task for benefit optimsim in future\nex : swab,bridge,governance (vote) in official dap and the eco of optimism.\nlove to get some exprience in optimism maybe some new task in festival with all eco patnership of optimism will be great.\nsome symbol maybe such us nft for valuable people who get expreince in optimism its would be awesome.",
   "impactMetrics": [
     {
@@ -53,5 +56,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged because it promises future deliverables or impact which is violation of Rule 1.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Optimism Ambassador"
+  "pwCategory": "Optimism Ambassador",
+  "pwCategorySuggestions": "Governance & Tokens, Decentralized Finance (DeFi), Non-Fungible Tokens (NFTs)"
 }

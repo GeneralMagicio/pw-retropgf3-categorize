@@ -35,7 +35,10 @@
       "description": "Dashboard of important Farcaster analytics"
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "My projects have made it easier for dozens of developers to build applications (Searchcaster), dozens of artists to distribute their work (Fardrop), and tens of thousands of consumers to observe the network/take control of their decentralized social profiles (Searchcaster, Farcaster Network, fcstr.xyz, etc.). These tools are built to enhance the Farcaster ecosystem which is rooted in OP Mainnet.",
   "impactMetrics": [
     {
@@ -76,5 +79,6 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x179A862703a4adfb29896552DF9e307980D19285.json",
   "RPGF3_Application_UID": "0x79619331d5996c793ac13edcd77c369de5e72344add6ebedac5977c0552067a0",
   "applicantAddress": "0x179A862703a4adfb29896552DF9e307980D19285",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwCategorySuggestions": "Blockchain Infrastructure, Developer Ecosystem, User Experience & Adoption"
 }

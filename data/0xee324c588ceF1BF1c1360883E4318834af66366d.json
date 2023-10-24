@@ -161,5 +161,6 @@
   "applicantAddress": "0xee324c588ceF1BF1c1360883E4318834af66366d",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Web3 Community Platform"
+  "pwCategory": "Web3 Community Platform",
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Web3 Community Platform, Media Production"
 }

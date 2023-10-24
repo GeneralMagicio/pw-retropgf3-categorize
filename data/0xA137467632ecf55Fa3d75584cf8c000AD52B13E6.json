@@ -33,5 +33,6 @@
   "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xA137467632ecf55Fa3d75584cf8c000AD52B13E6.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xA137467632ecf55Fa3d75584cf8c000AD52B13E6.json",
   "RPGF3_Application_UID": "0xdc08862e11861f27f252dafb60c1d0001f7f1159152caed5b844744256334048",
-  "applicantAddress": "0xA137467632ecf55Fa3d75584cf8c000AD52B13E6"
+  "applicantAddress": "0xA137467632ecf55Fa3d75584cf8c000AD52B13E6",
+  "pwCategorySuggestions": "Decentralized Exchanges (DEXs), Layer 2 Scaling, User Experience & Adoption"
 }

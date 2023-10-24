@@ -10,7 +10,10 @@
       "description": "The site will be up and running in the near future."
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "* I am a lead investor and CEO of the Foumis project, which is being developed on the Optimism stack. At the moment it exists only in concept format, but we have already recruited a team and started working.\n\n* I use and financially support many projects launched in the Optimism network.\n\n* Active user of your Discord. Always helping people with advice.",
   "impactMetrics": [
     {
@@ -45,5 +48,6 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x40539C7cc7b73755D60e3d524ed5D75927c5f4d6.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x40539C7cc7b73755D60e3d524ed5D75927c5f4d6.json",
   "RPGF3_Application_UID": "0x2113c4424cff81be38cd9b5930551d3bc27a6788c5a7fb6604b424506511b41d",
-  "applicantAddress": "0x40539C7cc7b73755D60e3d524ed5D75927c5f4d6"
+  "applicantAddress": "0x40539C7cc7b73755D60e3d524ed5D75927c5f4d6",
+  "pwCategorySuggestions": "Developer Ecosystem, Smart Contract Platforms, Community Building"
 }

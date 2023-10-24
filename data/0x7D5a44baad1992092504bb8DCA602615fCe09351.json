@@ -74,5 +74,6 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x7D5a44baad1992092504bb8DCA602615fCe09351.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x7D5a44baad1992092504bb8DCA602615fCe09351.json",
   "RPGF3_Application_UID": "0x1dfca7cffa9babbcc0b9646e2e620da444285f4dc7d6e7f3692446ffe4d6b66b",
-  "applicantAddress": "0x7D5a44baad1992092504bb8DCA602615fCe09351"
+  "applicantAddress": "0x7D5a44baad1992092504bb8DCA602615fCe09351",
+  "pwCategorySuggestions": "Smart Contract Security, Developer Education, Blockchain Gaming"
 }

@@ -75,7 +75,10 @@
       "description": "One of many spaces"
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "Our primary focus has been to bring Ethereum education awareness in a country that is already familiar with the word \"Bitcoin.\" Our efforts sought to demystify and introduce the impact that smart contracts currently have and could later have in the future. \n\nWe have aimed to inspire Salvadorans that they, too, can be part of this future.  By working on being a trusted source of information, knowledge, and guidepost, we have laid the groundwork for El Salvador to learn to adopt smart contracts and continue their journey to learn Ethereum. \n\nAs a result of our efforts:\n28 new developers are undergoing Ethereum Developer Pack\n\nEth-Volcano (Spaces) Talks Total:\n2477 total attendees \n\nEth-Volcano X impressions Total:\n295,400 impressions with 406 followers ",
   "impactMetrics": [
     {
@@ -107,5 +110,6 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x5a039c597251fCbB574101Fc510a1759cc6871aF.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x5a039c597251fCbB574101Fc510a1759cc6871aF.json",
   "RPGF3_Application_UID": "0xf3526ec21d5b1146008c629fe9837f2c5ab099b1590e28dfb7005c126234fb11",
-  "applicantAddress": "0x5a039c597251fCbB574101Fc510a1759cc6871aF"
+  "applicantAddress": "0x5a039c597251fCbB574101Fc510a1759cc6871aF",
+  "pwCategorySuggestions": "Blockchain Education, Community Building, Digital Identity"
 }

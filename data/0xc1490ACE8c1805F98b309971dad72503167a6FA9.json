@@ -10,7 +10,10 @@
       "description": "my profile on sound.xyz "
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "-Collected  more than 350 music NFTs, mostly on OP, backed 40 artists, introduced music NFTs directly to more than 30 people , more than 10 of them made confirmed collecting actions \n-Educated people around about opportunities on OP ecosystem, focus on music NFTs, lowest-fastest layer 2, optimized layer as its name. Some of them are dev (from level finance) and freelance coder who had more than 5 yrs in crypto . Promoted KOLs who writing reviews about music NFT products on Sound.xyz (@nhagio_o, @hanpro20,@SolitaryVegeta)",
   "impactMetrics": [
     {
@@ -39,5 +42,6 @@
   "applicantAddress": "0xc1490ACE8c1805F98b309971dad72503167a6FA9",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Non-Fungible Tokens (NFTs)"
+  "pwCategory": "Non-Fungible Tokens (NFTs)",
+  "pwCategorySuggestions": "NFTs, Layer 2 Scaling, Community Building"
 }

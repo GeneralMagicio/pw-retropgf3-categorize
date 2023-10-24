@@ -10,7 +10,10 @@
       "description": "Digital Portfolio "
     }
   ],
-  "impactCategory": ["COLLECTIVE_GOVERNANCE", "DEVELOPER_ECOSYSTEM"],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM"
+  ],
   "impactDescription": "I’m a digital content creator which intends to gain creative expression in the crypto realm. Optimism $OP seems to be  an effective way to develop transactions of my digital creative assets. Optimism transactions are quick and reliable. I believe in the power of digital illustrators to create content that generates meaningful links in digital communities. I believe Optimism will help to mediate, in an effective way, such creative connections.",
   "impactMetrics": [
     {
@@ -34,5 +37,6 @@
   "applicantAddress": "0xD5E602342754B14D8777F48aB418f6977E18f745",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Content Creation"
+  "pwCategory": "Content Creation",
+  "pwCategorySuggestions": "Tokenization Platforms, Digital Identity, Blockchain Infrastructure"
 }

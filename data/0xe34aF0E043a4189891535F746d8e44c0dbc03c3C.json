@@ -60,5 +60,6 @@
   "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xe34aF0E043a4189891535F746d8e44c0dbc03c3C.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xe34aF0E043a4189891535F746d8e44c0dbc03c3C.json",
   "RPGF3_Application_UID": "0x54b5917ba3ae0b4afb71efd0369f4b65b43bf2453710edcb3340581972f99dea",
-  "applicantAddress": "0xe34aF0E043a4189891535F746d8e44c0dbc03c3C"
+  "applicantAddress": "0xe34aF0E043a4189891535F746d8e44c0dbc03c3C",
+  "pwCategorySuggestions": "Smart Contract Platforms, Blockchain Infrastructure, Decentralized Finance (DeFi)"
 }

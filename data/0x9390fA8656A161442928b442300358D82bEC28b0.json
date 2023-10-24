@@ -76,5 +76,6 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x9390fA8656A161442928b442300358D82bEC28b0.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x9390fA8656A161442928b442300358D82bEC28b0.json",
   "RPGF3_Application_UID": "0xf06599d874b0ba5b14c384a6aec73ec01f731899db046f0cbbfcb529b8265dc7",
-  "applicantAddress": "0x9390fA8656A161442928b442300358D82bEC28b0"
+  "applicantAddress": "0x9390fA8656A161442928b442300358D82bEC28b0",
+  "pwCategorySuggestions": "Education & Certification, Decentralized Finance (DeFi), Community Building"
 }

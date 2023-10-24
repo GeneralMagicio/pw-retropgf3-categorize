@@ -10,7 +10,9 @@
       "description": "good project"
     }
   ],
-  "impactCategory": ["OP_STACK"],
+  "impactCategory": [
+    "OP_STACK"
+  ],
   "impactDescription": "Optimism is very fast for transactions.\nso I will provide a little lesson for friends and family\nSo let's build this network together for proper planning and governance\nOptimism is very fast for transactions.\nso I will provide a little lesson for friends and family\nSo let's build this network together for proper planning and governance",
   "impactMetrics": [
     {
@@ -31,5 +33,6 @@
   "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x431bad1ba1EE3debEc06c31672b6d03Da801248f.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x431bad1ba1EE3debEc06c31672b6d03Da801248f.json",
   "RPGF3_Application_UID": "0x894d96becdb870ec85dae64a960d53c32d21d2138b1f1509a8934d8c7b2cb466",
-  "applicantAddress": "0x431bad1ba1EE3debEc06c31672b6d03Da801248f"
+  "applicantAddress": "0x431bad1ba1EE3debEc06c31672b6d03Da801248f",
+  "pwCategorySuggestions": "Smart Contract Platforms, Governance & Tokens, Community Building"
 }

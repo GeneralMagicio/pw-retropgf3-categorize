@@ -10,7 +10,10 @@
       "description": "dwoijjajknldwakn awdk daw"
     }
   ],
-  "impactCategory": ["COLLECTIVE_GOVERNANCE", "OP_STACK"],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "OP_STACK"
+  ],
   "impactDescription": "very impactvery impactvery impactvery impactvery impactvery impactvery impactvery impactvery impactvery impactvery impactvery impactvery impactvery impactvery impactvery impactvery impactvery impactvery impactvery impact very impactvery impactvery impactvery impactvery impactvery impactvery impact",
   "impactMetrics": [
     {
@@ -46,5 +49,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for spam because the 'bio' and 'contribution description' sections contain nonsensical and repetitive content.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Blockchain Infrastructure"
+  "pwCategory": "Blockchain Infrastructure",
+  "pwCategorySuggestions": "Content Creation, Community Building, User Experience & Adoption"
 }

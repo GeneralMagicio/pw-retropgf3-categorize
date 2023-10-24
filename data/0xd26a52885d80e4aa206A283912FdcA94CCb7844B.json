@@ -89,5 +89,6 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xd26a52885d80e4aa206A283912FdcA94CCb7844B.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xd26a52885d80e4aa206A283912FdcA94CCb7844B.json",
   "RPGF3_Application_UID": "0x70e67f4b67a491564f7d4df7ddf4e5360791fd9a614a74804a2a452405293409",
-  "applicantAddress": "0xd26a52885d80e4aa206A283912FdcA94CCb7844B"
+  "applicantAddress": "0xd26a52885d80e4aa206A283912FdcA94CCb7844B",
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Peer-to-Peer Lending, Education & Community Building"
 }

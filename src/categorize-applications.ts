@@ -10,9 +10,9 @@ import pc from "picocolors";
 const model = new ChatOpenAI({ modelName: "gpt-3.5-turbo" });
 
 const promptTemplate = PromptTemplate.fromTemplate(
-  `Below is a desctiption of a project active in the Web3/blockchain space. 
+  `Below is a description of a project active in the Web3/blockchain space. 
   
-  I would like you to categorize this project by suggesting a list of up to 10 categories that best 
+  I would like you to categorize this project by suggesting a list of up to 3 categories that best 
   describe the project. 
 
   Example categories: Decentralized Finance (DeFi), Non-Fungible Tokens (NFTs), Layer 2 Scaling, 
@@ -26,6 +26,8 @@ const promptTemplate = PromptTemplate.fromTemplate(
   
   IMPORTANT: The example categories above are not exhaustive. You can suggest any category you think is relevant.
   IMPORTANT: One category is max 3 words!
+  IMPORTANT: Be as detailed and specific as possible, e.g. "Decentralized Finance (DeFi)" instead of "Finance".
+  IMPORTANT: Really think this through. What is the project about? What is the main focus? What is the main use case?
 
   Output a comma separated list of categories, no row numbers, no commas or other separators.
 
@@ -50,7 +52,8 @@ export async function categorizeApplications(analyzeAll: YesOrNo) {
       const application = JSON.parse(doc.pageContent);
 
       const shouldProcess =
-        analyzeAll === "yes" || !(
+        analyzeAll === "yes" || !("pwCategorySuggestions" in application);
+
       if (!shouldProcess) {
         continue;
       }

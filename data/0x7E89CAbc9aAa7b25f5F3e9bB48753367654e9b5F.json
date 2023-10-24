@@ -15,7 +15,9 @@
       "description": "Nft that is on my profile"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "Selling Nft on various Nft market place platforms including Opensea and especially those linked to the Optimism network and Nft on Optimism such as on Mirror. I also sold Nft several times on Opensea with the Optimism network, letting some and most people know. about what the Optimism network is.",
   "impactMetrics": [
     {
@@ -47,5 +49,6 @@
   "applicantAddress": "0x7E89CAbc9aAa7b25f5F3e9bB48753367654e9b5F",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "End User Experience and Adoption"
+  "pwCategory": "End User Experience and Adoption",
+  "pwCategorySuggestions": "Tokenization Platforms, Decentralized Finance (DeFi), NFT Aggregator"
 }

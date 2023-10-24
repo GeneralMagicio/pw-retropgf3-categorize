@@ -10,7 +10,9 @@
       "description": "Training photo"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "Contributions to the community in India through by nurturing a community of well-informed crypto enthusiasts, these training programs can stimulate innovation and entrepreneurship in the blockchain space. Participants may be inspired to develop blockchain-based solutions, contributing to India's technological advancement.\n\nLastly, such initiatives can also attract global investments and collaborations, as a well-educated and informed crypto community can be seen as a stable and promising ecosystem for investment.\n\nIn conclusion, training programs for the crypto community in India are instrumental in fostering informed, responsible, and innovative participation in the crypto space. ",
   "impactMetrics": [
     {
@@ -41,5 +43,6 @@
   "applicantAddress": "0xE32F096Db0EB9A0600b0cBEb7CEDB37f21690ed7",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Blockchain Education"
+  "pwCategory": "Blockchain Education",
+  "pwCategorySuggestions": "Community Building, Blockchain Education, Cryptocurrency Services"
 }

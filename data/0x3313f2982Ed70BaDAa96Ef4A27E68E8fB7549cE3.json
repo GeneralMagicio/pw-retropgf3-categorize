@@ -10,7 +10,9 @@
       "description": "retropgf3"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "maybe just minor\nfor sure just bought nft nft that i can efford to bought for my long investment...................................................................................................................................................thx be4",
   "impactMetrics": [
     {
@@ -42,5 +44,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "Flagged for violation of grant program rule number 11 - The application contains unrelated and irrelevant answers in the 'contributionDescription' and 'impactDescription' sections.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Non-Fungible Tokens (NFTs)"
+  "pwCategory": "Non-Fungible Tokens (NFTs)",
+  "pwCategorySuggestions": "Non-Fungible Tokens (NFTs)"
 }

@@ -43,5 +43,6 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "No, this application is not correctly categorized. The application uses first person pronouns (\"I\", \"me\"), indicating that it should be categorized as an \"INDIVIDUAL\" not a \"PROJECT\".",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Blockchain Infrastructure"
+  "pwCategory": "Blockchain Infrastructure",
+  "pwCategorySuggestions": "Cross-Chain Platforms, Community Building"
 }

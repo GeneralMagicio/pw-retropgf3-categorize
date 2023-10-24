@@ -10,7 +10,9 @@
       "description": "https://github.com/arifan1998"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "My contributions have had a positive impact on the Optimism Collective by fostering a sense of community and encouraging user participation. By promoting airdrops, I've helped attract new users and incentivized them to explore the Optimistic Rollup ecosystem. Additionally, my retro-inspired design contributions have enhanced the user experience, making the collective more appealing and user-friendly. Ultimately, these efforts have contributed to the growth and vibrancy of the Optimism community.",
   "impactMetrics": [
     {
@@ -39,5 +41,6 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x610947C46170183f64dB62D99E4ab88D022246aE.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x610947C46170183f64dB62D99E4ab88D022246aE.json",
   "RPGF3_Application_UID": "0xeb9844c9037fb9394b3bedac8a76c8d025a7c80ba941a237edc14c84bbd92a6e",
-  "applicantAddress": "0x610947C46170183f64dB62D99E4ab88D022246aE"
+  "applicantAddress": "0x610947C46170183f64dB62D99E4ab88D022246aE",
+  "pwCategorySuggestions": "Community Building, User Experience & Adoption, Developer Ecosystem"
 }

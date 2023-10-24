@@ -10,7 +10,9 @@
       "description": "Community is key"
     }
   ],
-  "impactCategory": ["OP_STACK"],
+  "impactCategory": [
+    "OP_STACK"
+  ],
   "impactDescription": "I'm so glad to have been given the opportunity to participate this event. The Optimism Collective is a group of companies, communities, and citizens working together to reward public goods and build a sustainable future for Ethereum. The collective aims to dispel the myth that public goods cannot be profitable by deploying a new model for rewarding those who create or sustain public goods - retroactive public goods funding (RetroPGF) - to support projects and communities building for the common good. RetroPGF is advantageous because it is relatively easy to agree on what is useful and see who built it. It is a lot harder to identify in advance what will be useful and which team will do the best job of building it.",
   "impactMetrics": [
     {
@@ -45,5 +47,6 @@
   "pwRecategorizeToType": "PROJECT",
   "pwRecategorizeReason": "NO, this application should be categorized as PROJECT instead of INDIVIDUAL because although the applicant name is not a legal name, the terms 'collective' and 'companies, communities, and citizens working together' suggest it's not an individual's effort.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Collective Governance"
+  "pwCategory": "Collective Governance",
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Governance & Tokens, Community Building"
 }

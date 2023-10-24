@@ -36,5 +36,6 @@
   "applicantAddress": "0x4326e1e02841bF03a0424Ef61239543A9FdB6a30",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Community Building"
+  "pwCategory": "Community Building",
+  "pwCategorySuggestions": "Content Creation, Community Building, Legal Services"
 }

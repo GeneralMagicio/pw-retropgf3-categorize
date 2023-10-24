@@ -10,7 +10,9 @@
       "description": "under construction"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "The Purpose of the \"Optimism Degenset\" Project:\n\nTo bring together \"Optimism\" network members interested in improving their financial knowledge and investment skills.\n\nTo develop and launch the \"Optimism Degenset\" web platform, offering the following features:\n\nWallet Ratings: Users will be able to evaluate and compare their investment portfolios, receiving feedback from the community.\n\nCollaborations: Mechanisms will be created to facilitate participation in joint investment projects and research.\n\nExclusive Bonuses: Users with high ratings will gain access to exclusive offers and bonuses from partners within the \"Optimism\" network.\n\nNFT Ratings: Wallet ratings will be represented as unique NFTs, making them even more appealing to participants.",
   "impactMetrics": [
     {
@@ -37,5 +39,6 @@
   "pwRecategorizeToType": "PROJECT",
   "pwRecategorizeReason": "NO, the application is incorrectly categorized. Despite stating \"I am excited about the potential of \\\"Optimism Degenset\\\" and am dedicated to bringing this project to life.\", the rest of the application refers to \"we\" and talks about project goals and objectives, hence it should be categorized as \"PROJECT\".",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Community Building"
+  "pwCategory": "Community Building",
+  "pwCategorySuggestions": "Community Building, User Experience & Adoption, NFT Aggregator"
 }

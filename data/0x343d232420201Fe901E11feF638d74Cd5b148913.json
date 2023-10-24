@@ -50,5 +50,6 @@
   "pwRecategorizeToType": "PROJECT",
   "pwRecategorizeReason": "NO. The applicant seems to be writing about a project called Optimism, therefore the application should be categorized as \"PROJECT\".",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Layer 2 Scaling"
+  "pwCategory": "Layer 2 Scaling",
+  "pwCategorySuggestions": "Layer 2 Scaling, Smart Contract Platforms, Decentralized Finance (DeFi)"
 }

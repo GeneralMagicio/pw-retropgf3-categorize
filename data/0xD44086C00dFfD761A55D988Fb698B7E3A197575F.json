@@ -33,5 +33,6 @@
   "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xD44086C00dFfD761A55D988Fb698B7E3A197575F.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xD44086C00dFfD761A55D988Fb698B7E3A197575F.json",
   "RPGF3_Application_UID": "0xde345ebb3e0248733304d39e16ce8cd4a55ad26a809682449a7bc14b68375765",
-  "applicantAddress": "0xD44086C00dFfD761A55D988Fb698B7E3A197575F"
+  "applicantAddress": "0xD44086C00dFfD761A55D988Fb698B7E3A197575F",
+  "pwCategorySuggestions": "Digital Identity, User Experience & Adoption, Web3 Community Platform"
 }

@@ -10,7 +10,9 @@
       "description": "Meetup images"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "20 ppl were onboarded to Optimism L2 way back in early 2022.\n\nI conducted a meetup with 20 people on L2 and specifically about Optimism since i was one among the first to bridge to Optimism. I'm attaching images of that meetup. We emphasized on the importance of iterative governance of Optimism stack.\n\nAlmost all of the attendees were not used to even metamask. Hence, i helped them to bridge and use some dapps. Education and adoption are the cornerstone in web3.",
   "impactMetrics": [
     {
@@ -40,5 +42,6 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x2935771e6cf78431Fd50Cc4badf3aADCd73b8B1C.json",
   "RPGF3_Application_UID": "0xe6f4000a87eac6790e8b869c67508819b16b426984b4fefbb125b999d796c77e",
   "applicantAddress": "0x2935771e6cf78431Fd50Cc4badf3aADCd73b8B1C",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwCategorySuggestions": "Education and Adoption, Web3 Community Platform, Developer Ecosystem"
 }

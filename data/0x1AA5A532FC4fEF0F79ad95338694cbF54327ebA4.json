@@ -10,7 +10,10 @@
       "description": "Mentoships descriptions, replies are hidden to keep everyone privacy."
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM", "OP_STACK"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "OP_STACK"
+  ],
   "impactDescription": "EthernautDAO provides high-level developers to the ecosystem by migrating senior web2 devs into Optimism. We do tailor mentorships and while we are chain agnostics the last year we have fully focused our efforts on Optimism. We don't charge Mentors or Mentees, this is a free service we consider a public good. We live on donations and use the funds to keep mentors engaged.",
   "impactMetrics": [
     {
@@ -52,5 +55,6 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x1AA5A532FC4fEF0F79ad95338694cbF54327ebA4.json",
   "RPGF3_Application_UID": "0x39b4a7a07052cd200b017579a2717911881ffd3ed4bd94c085ba08435373c855",
   "applicantAddress": "0x1AA5A532FC4fEF0F79ad95338694cbF54327ebA4",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwCategorySuggestions": "Developer Mentoring, Web2 to Web3 Migration, Optimism"
 }

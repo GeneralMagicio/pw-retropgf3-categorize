@@ -15,7 +15,9 @@
       "description": "Repo for Snapshot X, our EVM onchain voting framework."
     }
   ],
-  "impactCategory": ["COLLECTIVE_GOVERNANCE"],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
   "impactDescription": "Snapshot is the most widely used tool across the Optimism ecosystem to facilitate governance. Even though the Collective has stopped using it in favor of on-chain voting, today we have 491 spaces on Snapshot that call Optimism their home.\n\nWe've provided these services for free because we believe governance is for everyone, and we like to think that we're building the framework for new types of organizations to thrive. In addition, we're working on a new on-chain voting framework we call Snapshot X that will soon be available on Optimism and will be much more flexible than Compound Governor.",
   "impactMetrics": [
     {
@@ -62,5 +64,6 @@
   "applicantAddress": "0xf9551c66995eD3Ff9bb05C9Fd7ff148Bd75dc99a",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Governance & Tokens"
+  "pwCategory": "Governance & Tokens",
+  "pwCategorySuggestions": "Decentralized Governance Platform, Layer 2 Scaling, Blockchain Infrastructure"
 }

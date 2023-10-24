@@ -83,5 +83,6 @@
   "applicantAddress": "0xa984C0338cC374Ce335D3565260e5a0d2a92dbac",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Community Building"
+  "pwCategory": "Community Building",
+  "pwCategorySuggestions": "Content Creation, Community Building, User Experience & Adoption"
 }

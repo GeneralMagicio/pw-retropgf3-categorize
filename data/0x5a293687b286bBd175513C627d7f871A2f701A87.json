@@ -20,7 +20,9 @@
       "description": "Optimism ecosystem have benefited from the GoPlus Security API services"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "Daily Token Detection Count for Each Access Point. \nThe top 4 in this realm have had the highest usage of GoPlus Security’s API services in consecutive order:\n1. [DEXTools](https://www.dextools.io/app/en/pairs): a cryptocurrency-related platform and toolset that is multi-chain, Optimism included.\n2. [DEX Screener](https://dexscreener.com/): a powerful price analysis platform that is multi-chain, Optimism included.\n3. [OKX](https://www.okx.com/): an innovative cryptocurrency exchange and wallet that is multi-chain, Optimism included.\n4. [Bitget Wallet](https://web3.bitget.com/en) (Formerly known as BitKeep): a world-class multi-chain crypto wallet, Optimism included. \n\n",
   "impactMetrics": [
     {
@@ -59,5 +61,6 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x5a293687b286bBd175513C627d7f871A2f701A87.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x5a293687b286bBd175513C627d7f871A2f701A87.json",
   "RPGF3_Application_UID": "0xd34b4f953913284fa62737fcec2439fd6b192149023f6dbd6f3a91f5b716d295",
-  "applicantAddress": "0x5a293687b286bBd175513C627d7f871A2f701A87"
+  "applicantAddress": "0x5a293687b286bBd175513C627d7f871A2f701A87",
+  "pwCategorySuggestions": "Decentralized Identity"
 }

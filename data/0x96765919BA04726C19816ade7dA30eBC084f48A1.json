@@ -51,5 +51,6 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x96765919BA04726C19816ade7dA30eBC084f48A1.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x96765919BA04726C19816ade7dA30eBC084f48A1.json",
   "RPGF3_Application_UID": "0x4cd6de3604ab5f5ac866ee555fd9a6b19b4590890870251417dbfcc7b6602281",
-  "applicantAddress": "0x96765919BA04726C19816ade7dA30eBC084f48A1"
+  "applicantAddress": "0x96765919BA04726C19816ade7dA30eBC084f48A1",
+  "pwCategorySuggestions": "Governance & Transparency"
 }

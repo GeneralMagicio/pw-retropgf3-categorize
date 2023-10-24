@@ -39,5 +39,6 @@
   "applicantAddress": "0xb55Dc6944711218c9bEFb93D6Fc9C0bE91ecB6bE",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "End User Experience and Adoption"
+  "pwCategory": "End User Experience and Adoption",
+  "pwCategorySuggestions": "Community Building, User Experience & Adoption, Blockchain Education"
 }

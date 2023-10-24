@@ -33,5 +33,6 @@
   "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9418A9711FD9856E1E00ac3Da7301Db635d7a5Eb.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x9418A9711FD9856E1E00ac3Da7301Db635d7a5Eb.json",
   "RPGF3_Application_UID": "0x236ab868f590c56e3f80c22cb0349b163a29c8e4365e70d2db415d59ff10ca14",
-  "applicantAddress": "0x9418A9711FD9856E1E00ac3Da7301Db635d7a5Eb"
+  "applicantAddress": "0x9418A9711FD9856E1E00ac3Da7301Db635d7a5Eb",
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), NFTs, Web3 Community Platform"
 }

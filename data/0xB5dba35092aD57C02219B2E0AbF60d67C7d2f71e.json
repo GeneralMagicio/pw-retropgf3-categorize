@@ -34,5 +34,6 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xB5dba35092aD57C02219B2E0AbF60d67C7d2f71e.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xB5dba35092aD57C02219B2E0AbF60d67C7d2f71e.json",
   "RPGF3_Application_UID": "0xc1bb9d8e0a6e46f11f9d540b13bf040a77fa04a739c1889c32d23b12cac767c8",
-  "applicantAddress": "0xB5dba35092aD57C02219B2E0AbF60d67C7d2f71e"
+  "applicantAddress": "0xB5dba35092aD57C02219B2E0AbF60d67C7d2f71e",
+  "pwCategorySuggestions": "Decentralized Governance, Mobile Applications, Blockchain Infrastructure"
 }

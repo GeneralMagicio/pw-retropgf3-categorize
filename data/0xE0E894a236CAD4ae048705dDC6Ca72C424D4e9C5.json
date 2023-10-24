@@ -10,7 +10,10 @@
       "description": "Channel"
     }
   ],
-  "impactCategory": ["COLLECTIVE_GOVERNANCE", "OP_STACK"],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "OP_STACK"
+  ],
   "impactDescription": "I've done posts on my telegram channel and tweeter, I also help newbies and advise to use Optimism specifically for convenient and safe storage of money and as a great option for exchange . I and my friends in the crypto world like this project a lot",
   "impactMetrics": [
     {
@@ -37,5 +40,6 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO. The application is from an individual, not a project, as indicated by the use of \"I\" in the description of contributions and impact.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Community Building"
+  "pwCategory": "Community Building",
+  "pwCategorySuggestions": "Community Building, End-User Experience, Wallet Management"
 }

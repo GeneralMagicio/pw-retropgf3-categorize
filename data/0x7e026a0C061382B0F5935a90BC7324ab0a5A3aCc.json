@@ -91,5 +91,6 @@
   "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7e026a0C061382B0F5935a90BC7324ab0a5A3aCc.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x7e026a0C061382B0F5935a90BC7324ab0a5A3aCc.json",
   "RPGF3_Application_UID": "0x06b26b0ba3df69696ea47a30cd1f8114824ff994556f5331c8eefc96bac8cf9e",
-  "applicantAddress": "0x7e026a0C061382B0F5935a90BC7324ab0a5A3aCc"
+  "applicantAddress": "0x7e026a0C061382B0F5935a90BC7324ab0a5A3aCc",
+  "pwCategorySuggestions": "Blockchain Education, Smart Contract Platforms, Community Building"
 }

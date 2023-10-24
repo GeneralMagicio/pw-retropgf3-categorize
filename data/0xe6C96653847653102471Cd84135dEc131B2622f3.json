@@ -10,7 +10,9 @@
       "description": "0xe6C96653847653102471Cd84135dEc131B2622f3"
     }
   ],
-  "impactCategory": ["OP_STACK"],
+  "impactCategory": [
+    "OP_STACK"
+  ],
   "impactDescription": "Bir aile pikniği dönüşüydü. Uzun yıllardır görüşmediğimiz, okumuş, belli bir mevkiye gelmiş yakın bir akrabamız da bizimleydi. Politik konular üzerine konuşurken ne iş yaptığımı merak etti ve Gerçek Hayat’ta çalıştığımı söyleyince, “dağıtımını mı yapıyorsun” diye sordu. “Hayır, derginin kendisinde..” diyebilmiştim mahcup bir edayla. “Ben de abonesiyim” demişti ama sanırım abonesi olduğu o dergide çalışıyor olmamı bana bir türlü konduramıyordu.",
   "impactMetrics": [
     {
@@ -38,5 +40,6 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, the application should be categorized as INDIVIDUAL as the name of the applicant \"Nihat Çelikel\" is a personal name and not a project.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Content Creation"
+  "pwCategory": "Content Creation",
+  "pwCategorySuggestions": "Media Production, Content Creation, Community Building"
 }

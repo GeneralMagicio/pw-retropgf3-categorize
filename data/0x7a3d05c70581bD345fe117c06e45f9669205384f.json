@@ -75,5 +75,6 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x7a3d05c70581bD345fe117c06e45f9669205384f.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x7a3d05c70581bD345fe117c06e45f9669205384f.json",
   "RPGF3_Application_UID": "0x723da383185924834ea462c791d4e21dac5dedc94ba164bd37adc571ba5008ed",
-  "applicantAddress": "0x7a3d05c70581bD345fe117c06e45f9669205384f"
+  "applicantAddress": "0x7a3d05c70581bD345fe117c06e45f9669205384f",
+  "pwCategorySuggestions": "User Experience & Adoption, Blockchain Infrastructure"
 }

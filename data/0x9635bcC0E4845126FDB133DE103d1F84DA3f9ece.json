@@ -15,7 +15,9 @@
       "description": "proof transaction"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "i'm contestant of Bored Town X Optimism Art Contest,for this contest I joined in enlivening this project and invite many people to joined this contest and introduce the what is OP chain,RetroPGf, and more experience of OP chain like this chain is smooth,faster,cheaper and famous",
   "impactMetrics": [
     {
@@ -46,5 +48,6 @@
   "applicantAddress": "0x9635bcC0E4845126FDB133DE103d1F84DA3f9ece",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Non-Fungible Tokens (NFTs)"
+  "pwCategory": "Non-Fungible Tokens (NFTs)",
+  "pwCategorySuggestions": "Community Building, Non-Fungible Tokens (NFTs), Decentralized Identity"
 }

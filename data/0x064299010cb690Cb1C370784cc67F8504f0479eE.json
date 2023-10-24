@@ -46,5 +46,6 @@
   "applicantAddress": "0x064299010cb690Cb1C370784cc67F8504f0479eE",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Optimism Ambassador"
+  "pwCategory": "Optimism Ambassador",
+  "pwCategorySuggestions": "Decentralized Exchanges (DEXs), Non-Fungible Tokens (NFTs), Layer 2 Scaling"
 }

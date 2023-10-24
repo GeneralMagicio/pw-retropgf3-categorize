@@ -45,5 +45,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for promising future impact and deliverables in the contribution and impact description.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Education"
+  "pwCategory": "Education",
+  "pwCategorySuggestions": "Community Building, Blockchain Education, Content Creation"
 }

@@ -40,7 +40,9 @@
       "description": "X post promoting donations via Optimism"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "Promoting at in-person events - This would help raise awareness of Optimism among attendees and attract new users, developers, and projects to build on it.\n\nPromoting via social media - Engaging communities on platforms like Twitter and Discord would help spread the word about Optimism to a wider online audience.\n\nUsing Optimism for a community NFT project - Successfully issuing and trading NFTs on Optimism would demonstrate its functionality and capabilities. Promoting future drops could encourage others to also use Optimism for applications.",
   "impactMetrics": [
     {
@@ -72,5 +74,6 @@
   "applicantAddress": "0xa8258ED271BB9be9d7E16c5818E45eF6F2577d92",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Community Building"
+  "pwCategory": "Community Building",
+  "pwCategorySuggestions": "Community Building, Tokenization Platforms, Blockchain Infrastructure"
 }

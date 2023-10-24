@@ -57,5 +57,6 @@
   "applicantAddress": "0xa02d34e0f2235661F4b46b8A7BEDB42c4cce104b",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Governance Tokens"
+  "pwCategory": "Governance Tokens",
+  "pwCategorySuggestions": "Governance & Tokens"
 }

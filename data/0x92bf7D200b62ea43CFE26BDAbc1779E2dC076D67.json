@@ -50,7 +50,9 @@
       "description": "Ink Tank #1"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "My spaces have helped bring more awareness to the Optimism Collective. I'm native to the on-chain art collecting crowd that consists of a fairly diverse mix of talents. I've gotten to give good airtime sharing what OC is out to achieve and how devs and other can get involved building on Optimism. Onboarding vis a vis meeting people where they are on social media taking them further down the funnel towards building or participating in DAO governance. ",
   "impactMetrics": [
     {
@@ -84,5 +86,6 @@
   "applicantAddress": "0x92bf7D200b62ea43CFE26BDAbc1779E2dC076D67",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Community Building"
+  "pwCategory": "Community Building",
+  "pwCategorySuggestions": "Community Building, Content Creation, Web3 Community Platform"
 }
