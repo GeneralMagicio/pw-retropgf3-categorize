@@ -40,5 +40,8 @@
   "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x345157b915DdC5eC43bb9ce364c1dFbc70801E02.jpeg",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x345157b915DdC5eC43bb9ce364c1dFbc70801E02.json",
   "RPGF3_Application_UID": "0x6a19f77a692a1f5df6569c65ddbbe9a5c021dfb570db260366e1970046a7955e",
-  "applicantAddress": "0x345157b915DdC5eC43bb9ce364c1dFbc70801E02"
+  "applicantAddress": "0x345157b915DdC5eC43bb9ce364c1dFbc70801E02",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "This application should be flagged for promising future impact as the applicant asserts that Ethereum needs to scale to internet-level for more global impact, but doesn't specify any actual contributions they've made.",
+  "pwCategorySuggestions": "Layer 2 Scaling, Smart Contract Platforms, Blockchain Infrastructure, Developer Ecosystem, Decentralized Finance (DeFi)"
 }

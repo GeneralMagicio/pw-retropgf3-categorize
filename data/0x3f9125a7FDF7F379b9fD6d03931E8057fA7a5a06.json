@@ -279,5 +279,6 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x3f9125a7FDF7F379b9fD6d03931E8057fA7a5a06.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x3f9125a7FDF7F379b9fD6d03931E8057fA7a5a06.json",
   "RPGF3_Application_UID": "0x7eb64cd4bd3b28fd36029377d136948aa74a5ca126df2e165574c736182267ff",
-  "applicantAddress": "0x3f9125a7FDF7F379b9fD6d03931E8057fA7a5a06"
+  "applicantAddress": "0x3f9125a7FDF7F379b9fD6d03931E8057fA7a5a06",
+  "pwCategorySuggestions": "Developer Ecosystem, Blockchain Infrastructure, Content Creation, Web3 Community Platform"
 }

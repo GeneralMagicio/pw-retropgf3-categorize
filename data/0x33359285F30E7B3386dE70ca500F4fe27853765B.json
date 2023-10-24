@@ -157,5 +157,7 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x33359285F30E7B3386dE70ca500F4fe27853765B.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x33359285F30E7B3386dE70ca500F4fe27853765B.json",
   "RPGF3_Application_UID": "0x6edbaf833fdee6fb7ae4411e30ac9da8ee22af2c2aea303adbeaf5de80937d6f",
-  "applicantAddress": "0x33359285F30E7B3386dE70ca500F4fe27853765B"
+  "applicantAddress": "0x33359285F30E7B3386dE70ca500F4fe27853765B",
+  "pwIsFlagged": false,
+  "pwCategorySuggestions": "Decentralized Identity, Privacy, Smart Contract Platforms, Digital Rights, Transparent Governance"
 }

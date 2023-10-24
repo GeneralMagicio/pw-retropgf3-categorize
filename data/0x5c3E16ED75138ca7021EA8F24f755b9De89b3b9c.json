@@ -10,9 +10,7 @@
       "description": "great"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "greatgreat project i follow this project 2 years this is great succefull all time . thanks for shearing this wonderful opportunity . huge successful . this project interface is amazing . and i try optimism bridge very fast work . Positive thinking refers to a belief or mental attitude which makes us think that good things will happen eventually and our efforts will pay off sooner or later. It is the opposite of negative thinking which makes our mind full of stress and fear. Thus, an essay on positive thinking will show us how it reinforces thoughts like optimism and hope and works wonders.",
   "impactMetrics": [
     {
@@ -43,8 +41,8 @@
   "applicantAddress": "0x5c3E16ED75138ca7021EA8F24f755b9De89b3b9c",
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for containing spam as it has irrelevant and vague descriptions, and does not clearly explain the contribution to the Web3/blockchain space.",
-  "recategorizeToType": "INDIVIDUAL",
-  "recategorizeReason": "NO, it is not correctly categorized. This is likely an INDIVIDUAL application because it is frequently speaking in the first person such as \"i follow this project\" and \"i try optimism bridge\".",
+  "pwRecategorizeToType": "INDIVIDUAL",
+  "pwRecategorizeReason": "NO, it is not correctly categorized. This is likely an INDIVIDUAL application because it is frequently speaking in the first person such as \"i follow this project\" and \"i try optimism bridge\".",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Smart Contract Platforms, Tokenization Platforms, Blockchain Infrastructure, Decentralized Finance (DeFi), End-User Experience",
   "pwCategory": "User Experience & Adoption"

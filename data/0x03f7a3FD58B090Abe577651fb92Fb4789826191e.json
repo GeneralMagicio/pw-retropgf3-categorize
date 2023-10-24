@@ -67,5 +67,7 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x03f7a3FD58B090Abe577651fb92Fb4789826191e.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x03f7a3FD58B090Abe577651fb92Fb4789826191e.json",
   "RPGF3_Application_UID": "0x3b9f8c24da4058057f2f4d10a8ee7f3f6625529a38ffc4cd2ba1f1a8772bbb88",
-  "applicantAddress": "0x03f7a3FD58B090Abe577651fb92Fb4789826191e"
+  "applicantAddress": "0x03f7a3FD58B090Abe577651fb92Fb4789826191e",
+  "pwIsFlagged": false,
+  "pwCategorySuggestions": "Tokenization Platforms, Decentralized Governance, Developer Ecosystem, Blockchain Infrastructure, End-User Experience"
 }

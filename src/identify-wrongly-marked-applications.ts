@@ -69,9 +69,9 @@ export async function identifyWronglyMarkedApplications(analyzeAll: YesOrNo) {
         );
         console.log(`◆  Reason: ${result.content}${pc.gray("\n│")}`);
 
-        application.recategorizeToType =
+        application.pwRecategorizeToType =
           application.applicantType === "PROJECT" ? "INDIVIDUAL" : "PROJECT";
-        application.recategorizeReason = result.content;
+        application.pwRecategorizeReason = result.content;
       }
       application.pwApplicantTypeChecked = true;
 

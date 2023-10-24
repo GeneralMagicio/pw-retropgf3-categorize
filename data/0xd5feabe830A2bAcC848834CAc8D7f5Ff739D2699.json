@@ -43,8 +43,8 @@
   "RPGF3_Application_UID": "0xeb87df25ba292b20da6da7bb5af5965042b088275177d9efd63f4f1778d3b4b7",
   "applicantAddress": "0xd5feabe830A2bAcC848834CAc8D7f5Ff739D2699",
   "pwIsFlagged": false,
-  "recategorizeToType": "PROJECT",
-  "recategorizeReason": "NO. The application is from a project, not an individual as it is categorised. The use of \"We provide basic services\" suggests a group or project rather than an individual.",
+  "pwRecategorizeToType": "PROJECT",
+  "pwRecategorizeReason": "NO. The application is from a project, not an individual as it is categorised. The use of \"We provide basic services\" suggests a group or project rather than an individual.",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Blockchain Infrastructure, Developer Ecosystem, Cryptocurrency Services",
   "pwCategory": "Blockchain Infrastructure"

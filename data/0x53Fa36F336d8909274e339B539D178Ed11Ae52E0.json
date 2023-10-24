@@ -10,9 +10,7 @@
       "description": "cool"
     }
   ],
-  "impactCategory": [
-    "COLLECTIVE_GOVERNANCE"
-  ],
+  "impactCategory": ["COLLECTIVE_GOVERNANCE"],
   "impactDescription": "make fun ! so cool~I have done work which has increased the number of active users in the Optimism ecosystem.If so, you could be eligible for some of the  30,000,000 OP being allocated in RetroPGF 3!Sign up now  (deadline to do so is October 23rd).Any contributions which support end-user adoption could qualify, including onboarding new users to Optimism, Optimism-focused content creation, Layer 2 education, and more.",
   "impactMetrics": [
     {
@@ -44,8 +42,8 @@
   "applicantAddress": "0x53Fa36F336d8909274e339B539D178Ed11Ae52E0",
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for making promises of future impact in the \"contributionDescription\" and \"impactDescription\" fields, which is a violation of the rules.",
-  "recategorizeToType": "INDIVIDUAL",
-  "recategorizeReason": "NO, the application is incorrectly categorized because it uses first-person pronouns like \"I\" and \"me\" which indicate an individual, not a project.",
+  "pwRecategorizeToType": "INDIVIDUAL",
+  "pwRecategorizeReason": "NO, the application is incorrectly categorized because it uses first-person pronouns like \"I\" and \"me\" which indicate an individual, not a project.",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Layer 2 Scaling, Content Creation, End-User Experience, User Adoption",
   "pwCategory": "Community Building"

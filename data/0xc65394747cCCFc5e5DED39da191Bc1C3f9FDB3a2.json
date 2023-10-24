@@ -40,8 +40,8 @@
   "applicantAddress": "0xc65394747cCCFc5e5DED39da191Bc1C3f9FDB3a2",
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for violating rule 6: Advertising, as the applicant is promoting an event where participants can win tokens.",
-  "recategorizeToType": "PROJECT",
-  "recategorizeReason": "NO, the application is not correctly categorized because it talks about \"we\" and \"our\" which implies that it is a project and not an individual.",
+  "pwRecategorizeToType": "PROJECT",
+  "pwRecategorizeReason": "NO, the application is not correctly categorized because it talks about \"we\" and \"our\" which implies that it is a project and not an individual.",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Tokenization Platforms, Blockchain Infrastructure, Web3 Community Platform, Media Production, Cryptocurrency Services",
   "pwCategory": "Cross-Chain Platforms"

@@ -10,9 +10,7 @@
       "description": "Hildr is an OP Stack rollup client written in latest Java with GraalVM native."
     }
   ],
-  "impactCategory": [
-    "OP_STACK"
-  ],
+  "impactCategory": ["OP_STACK"],
   "impactDescription": "AFAIK OP stack is the first L2 rollup which support and encourage client diversity, which is important for decentralized. A16Z team build Magi which is the first non official client written   in Rust. Then we build Hildr which is the second non official client written in Java. Hildr and Magi makes OP stack client diversity far ahead of other L2 teams.",
   "impactMetrics": [
     {
@@ -53,8 +51,8 @@
   "RPGF3_Application_UID": "0x4d6a8934a57ef082939fbf87ce03b8c57abaf7cb436eaa819fb9b5f9736ecd79",
   "applicantAddress": "0x56EdF679B0C80D528E17c5Ffe514dc9a1b254b9c",
   "pwIsFlagged": false,
-  "recategorizeToType": "INDIVIDUAL",
-  "recategorizeReason": "NO, this application should be categorized as INDIVIDUAL because the bio refers to \"I\" and \"me\", indicating that the applicant is an individual.",
+  "pwRecategorizeToType": "INDIVIDUAL",
+  "pwRecategorizeReason": "NO, this application should be categorized as INDIVIDUAL because the bio refers to \"I\" and \"me\", indicating that the applicant is an individual.",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Layer 2 Scaling, Smart Contract Platforms, Blockchain Infrastructure, Developer Ecosystem, Blockchain Education",
   "pwCategory": "Developer Ecosystem"

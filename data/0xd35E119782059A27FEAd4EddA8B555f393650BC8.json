@@ -110,8 +110,8 @@
   "RPGF3_Application_UID": "0x23afbebc655637c91f6a42572b8af43c2ae6e61655c55ba52e5ace484eff8e72",
   "applicantAddress": "0xd35E119782059A27FEAd4EddA8B555f393650BC8",
   "pwIsFlagged": false,
-  "recategorizeToType": "INDIVIDUAL",
-  "recategorizeReason": "NO. The application is submitted by an individual named Jakub who is a Core Contributor of Synthetix, hence, it should be categorized as \"INDIVIDUAL\".",
+  "pwRecategorizeToType": "INDIVIDUAL",
+  "pwRecategorizeReason": "NO. The application is submitted by an individual named Jakub who is a Core Contributor of Synthetix, hence, it should be categorized as \"INDIVIDUAL\".",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Smart Contract Platforms, Developer Ecosystem, Web3 Community Platform, Blockchain Infrastructure, End-User Experience",
   "pwCategory": "Developer Ecosystem"

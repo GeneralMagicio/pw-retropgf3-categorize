@@ -10,10 +10,7 @@
       "description": "Good "
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION",
-    "OP_STACK"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION", "OP_STACK"],
   "impactDescription": "I really excited for this  airdrop community is fast growing. This has definitely huge potential as well.  really excited for this  airdrop community is fast growing. This has definitely huge potential as well.  really excited for this  airdrop community is fast growing. This has definitely huge potential as well",
   "impactMetrics": [
     {
@@ -38,8 +35,8 @@
   "applicantAddress": "0x16e1F981A495bC1e2915721bF8B6F3a66F99C551",
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for spam due to the repeated sentences that don't provide clear detail about any measurable impact in the Web3/blockchain space.",
-  "recategorizeToType": "INDIVIDUAL",
-  "recategorizeReason": "NO, the application uses first person pronouns such as \"I\" indicating that the it may be an individual rather than a project.",
+  "pwRecategorizeToType": "INDIVIDUAL",
+  "pwRecategorizeReason": "NO, the application uses first person pronouns such as \"I\" indicating that the it may be an individual rather than a project.",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Community Building, User Experience & Adoption, Governance & Tokens, Developer Ecosystem, Cryptocurrency Services",
   "pwCategory": "Community Building"

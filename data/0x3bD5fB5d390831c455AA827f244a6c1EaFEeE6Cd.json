@@ -39,5 +39,6 @@
   "applicantName": "IamSang",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x3bD5fB5d390831c455AA827f244a6c1EaFEeE6Cd.json",
   "RPGF3_Application_UID": "0xf13bae30d29e4261c95935e70a48f166402c90f29f30833e54b1c614b3bb207b",
-  "applicantAddress": "0x3bD5fB5d390831c455AA827f244a6c1EaFEeE6Cd"
+  "applicantAddress": "0x3bD5fB5d390831c455AA827f244a6c1EaFEeE6Cd",
+  "pwCategorySuggestions": "Layer 2 Scaling, User Experience & Adoption, Community Building"
 }

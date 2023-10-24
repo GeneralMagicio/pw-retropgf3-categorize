@@ -10,9 +10,7 @@
       "description": "Optimism Bedrock Upgrade Explained"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": " Facilitating adaptability for future advancements is crucial in our rapidly evolving world. By fostering a culture of continuous learning and innovation, individuals and organizations can prepare themselves for upcoming challenges and opportunities. Embracing change, staying updated with the latest technologies, and honing versatile skills are essential steps toward ensuring adaptability. Encouraging a growth mindset, promoting collaboration, and investing in research and development can further enhance adaptability, allowing us to navigate the complexities of the future successfully. ",
   "impactMetrics": [
     {
@@ -42,8 +40,8 @@
   "RPGF3_Application_UID": "0x40181ddc99a6a842fddba07597390a53c27b70c386b8efc588455735e0a94093",
   "applicantAddress": "0xFA233cC0dccf4892E688Ff4118866244196565E8",
   "pwIsFlagged": false,
-  "recategorizeToType": "INDIVIDUAL",
-  "recategorizeReason": "NO, the application is about an individual contribution to a project, not the project itself. The applicant talks about \"I\" and has LinkedIn profile - signs of being an individual.",
+  "pwRecategorizeToType": "INDIVIDUAL",
+  "pwRecategorizeReason": "NO, the application is about an individual contribution to a project, not the project itself. The applicant talks about \"I\" and has LinkedIn profile - signs of being an individual.",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Blockchain Education",
   "pwCategory": "Blockchain Education"

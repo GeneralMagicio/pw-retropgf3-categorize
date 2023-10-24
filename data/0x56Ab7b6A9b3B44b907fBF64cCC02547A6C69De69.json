@@ -10,9 +10,7 @@
       "description": "1"
     }
   ],
-  "impactCategory": [
-    "COLLECTIVE_GOVERNANCE"
-  ],
+  "impactCategory": ["COLLECTIVE_GOVERNANCE"],
   "impactDescription": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
   "impactMetrics": [
     {
@@ -36,8 +34,8 @@
   "applicantAddress": "0x56Ab7b6A9b3B44b907fBF64cCC02547A6C69De69",
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for containing spam, as it contains irrelevant answers in 'contributionDescription' and 'impactDescription' fields.",
-  "recategorizeToType": "PROJECT",
-  "recategorizeReason": "NO, the application is not properly categorized due to lack of defining information about the applicant being \"INDIVIDUAL\" or \"PROJECT\", and the spammy content in the 'contributionDescription' and 'impactDescription' fields.",
+  "pwRecategorizeToType": "PROJECT",
+  "pwRecategorizeReason": "NO, the application is not properly categorized due to lack of defining information about the applicant being \"INDIVIDUAL\" or \"PROJECT\", and the spammy content in the 'contributionDescription' and 'impactDescription' fields.",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Smart Contract Platforms, Tokenization Platforms, Blockchain Infrastructure, Decentralized Finance (DeFi), Cryptocurrency Services",
   "pwCategory": "The project description provided is not valid to determine its category as it contains random alphanumeric characters instead of a meaningful description of the project."

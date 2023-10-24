@@ -25,10 +25,7 @@
       "description": "Optimism AI's second product, featuring a full version chatbot."
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM",
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Our chatbots were a game-changer for Optimism. In just a week, over 300 people, including newcomers, pros, developers, researchers, and enthusiasts, turned to us. We made finding answers easy, kindling a bright spark of enthusiasm within the Optimism Collective.",
   "impactMetrics": [
     {
@@ -57,8 +54,8 @@
   "RPGF3_Application_UID": "0x142686fc4533c663125ad5cd2d7f0c6e7f175ab2b3aeb53c957fffb375a93091",
   "applicantAddress": "0x6087470D55109Fc34802A50a01982b9d0C0B8668",
   "pwIsFlagged": false,
-  "recategorizeToType": "INDIVIDUAL",
-  "recategorizeReason": "NO, the application is from an individual acting as a representative of a project because the bio describes personal skills and experience.",
+  "pwRecategorizeToType": "INDIVIDUAL",
+  "pwRecategorizeReason": "NO, the application is from an individual acting as a representative of a project because the bio describes personal skills and experience.",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Developer Tools, User Support, Community Building",
   "pwCategory": "Community Building"

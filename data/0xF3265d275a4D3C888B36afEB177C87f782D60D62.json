@@ -10,9 +10,7 @@
       "description": "0xf36e50968d20d1dd8bc78526c41416e514e668b7b5cfa02f0b27310347c5bdb7"
     }
   ],
-  "impactCategory": [
-    "OP_STACK"
-  ],
+  "impactCategory": ["OP_STACK"],
   "impactDescription": "Optimism’s vision is to build a global system where positive impact to the collective is rewarded by profit to the individual. RetroPGF is an experimental mechanism to realize this goal of By funding public goods sustainably, the Collective can create a rich ecosystem and a better economy",
   "impactMetrics": [
     {
@@ -35,8 +33,8 @@
   "RPGF3_Application_UID": "0xa34714740a449dbdac80a0b51a9d4bfdb633e251880ed253b322e74efcc55dcb",
   "applicantAddress": "0xF3265d275a4D3C888B36afEB177C87f782D60D62",
   "pwIsFlagged": false,
-  "recategorizeToType": "PROJECT",
-  "recategorizeReason": "NO, the application seems to represent a project (Optimism or RetroPGF) rather than an individual.",
+  "pwRecategorizeToType": "PROJECT",
+  "pwRecategorizeReason": "NO, the application seems to represent a project (Optimism or RetroPGF) rather than an individual.",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Governance & Tokens, Tokenization Platforms, Blockchain Infrastructure, Community Building",
   "pwCategory": "Collective Governance"

@@ -72,5 +72,7 @@
   "applicantName": "bestape",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x0D89421D6eec0A4385F95f410732186A2Ab45077.json",
   "RPGF3_Application_UID": "0x0a337cfd252f13746c53175e32881945f64ee405fa9abccfefdc10b195d205ef",
-  "applicantAddress": "0x0D89421D6eec0A4385F95f410732186A2Ab45077"
+  "applicantAddress": "0x0D89421D6eec0A4385F95f410732186A2Ab45077",
+  "pwIsFlagged": false,
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Smart Contract Platforms, Tokenization Platforms, Developer Ecosystem"
 }

@@ -10,9 +10,7 @@
       "description": "Amazing"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Optimism give me much better experience especially for the blockchain ecosystem and the project of testnet and make me happy to learn something new . If im eligible to this chance i will keep support this project until moon. And after i read on the tokenomics im interest to join this",
   "impactMetrics": [
     {
@@ -37,8 +35,8 @@
   "applicantAddress": "0xf404c766245E5B43F8241367A22710E4BD89f8B2",
   "pwIsFlagged": true,
   "pwFlaggedReason": "Flagged: The application includes uncertain promises of future impact and support (e.g., \"If I'm eligible...I will keep support this project until moon\") which violates Rule 1.",
-  "recategorizeToType": "INDIVIDUAL",
-  "recategorizeReason": "NO, this should be categorized as \"INDIVIDUAL\" as the applicant uses first-person pronouns \"I\" and \"me\".",
+  "pwRecategorizeToType": "INDIVIDUAL",
+  "pwRecategorizeReason": "NO, this should be categorized as \"INDIVIDUAL\" as the applicant uses first-person pronouns \"I\" and \"me\".",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Tokenization Platforms, Smart Contract Platforms, Blockchain Infrastructure, Decentralized Finance (DeFi), Community Building",
   "pwCategory": "Blockchain Education"

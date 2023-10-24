@@ -40,5 +40,8 @@
   "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x22bAac1E95efC010E35D5eD643BB16c9dB254a11.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x22bAac1E95efC010E35D5eD643BB16c9dB254a11.json",
   "RPGF3_Application_UID": "0x7c42ca7c12ac65ff9a5c59b469417fd842d79efb021600fb43f2c9a14ecb53b0",
-  "applicantAddress": "0x22bAac1E95efC010E35D5eD643BB16c9dB254a11"
+  "applicantAddress": "0x22bAac1E95efC010E35D5eD643BB16c9dB254a11",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "This application should be flagged for being outside of RetroPGF's scope as the contributions made by the individual are user interactions, which are explicitly stated as not in scope to be rewarded in RetroPGF 3.",
+  "pwCategorySuggestions": "Layer 2 Scaling, Smart Contract Platforms, Decentralized Finance (DeFi), Wallet Management"
 }

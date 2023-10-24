@@ -20,9 +20,7 @@
       "description": "Personal github profile"
     }
   ],
-  "impactCategory": [
-    "OP_STACK"
-  ],
+  "impactCategory": ["OP_STACK"],
   "impactDescription": "Accelerated the availability of more private communication options. Supporting the transition of research to practice allows for more things like https://spiraldb.xyz/balances/  - Impact both through direct distribution of capital, and through regular talks (e.g https://speak.protocol.berlin/protocol-berg/talk/Y7HNG9/, ethCC, HCPP, etc) to bridge research results to the web3 community.",
   "impactMetrics": [
     {
@@ -53,8 +51,8 @@
   "RPGF3_Application_UID": "0x80b576d7e0307515a72bfc390bebd2c3f7acd522a90575c0ce3387985c6eece5",
   "applicantAddress": "0xbd43CDeDaaF8CFCFeC0C6597edF748FE402F6F00",
   "pwIsFlagged": false,
-  "recategorizeToType": "INDIVIDUAL",
-  "recategorizeReason": "NO, it should be categorized as an INDIVIDUAL because the bio refers to \"I\" and \"me\", indicating it's a person, not a project.",
+  "pwRecategorizeToType": "INDIVIDUAL",
+  "pwRecategorizeReason": "NO, it should be categorized as an INDIVIDUAL because the bio refers to \"I\" and \"me\", indicating it's a person, not a project.",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Blockchain Infrastructure, Decentralized Finance (DeFi), Privacy Coins, Governance & Tokens, Web3 Community Platform",
   "pwCategory": "Blockchain Infrastructure"

@@ -50,5 +50,7 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x186113E44D217117E327c3B16Dd547eE42967c06.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x186113E44D217117E327c3B16Dd547eE42967c06.json",
   "RPGF3_Application_UID": "0xc558d854e51853dc6d6ed83b3e9edd33bc04d9ec0dc0bd0ec79c5f169c3e5602",
-  "applicantAddress": "0x186113E44D217117E327c3B16Dd547eE42967c06"
+  "applicantAddress": "0x186113E44D217117E327c3B16Dd547eE42967c06",
+  "pwIsFlagged": false,
+  "pwCategorySuggestions": "Content Creation, Community Building, User Experience & Adoption, Governance & Tokens, Developer Ecosystem"
 }

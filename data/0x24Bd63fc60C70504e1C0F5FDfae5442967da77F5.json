@@ -41,5 +41,7 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x24Bd63fc60C70504e1C0F5FDfae5442967da77F5.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x24Bd63fc60C70504e1C0F5FDfae5442967da77F5.json",
   "RPGF3_Application_UID": "0x2cdaab055c43c2d801ecf049138792607fa1e1ff27f33018a0b023b46b64d81a",
-  "applicantAddress": "0x24Bd63fc60C70504e1C0F5FDfae5442967da77F5"
+  "applicantAddress": "0x24Bd63fc60C70504e1C0F5FDfae5442967da77F5",
+  "pwIsFlagged": false,
+  "pwCategorySuggestions": "Categories: Non-Fungible Tokens (NFTs), Decentralized Finance (DeFi), Layer 2 Scaling, Web3 Community Platform, Media Production"
 }

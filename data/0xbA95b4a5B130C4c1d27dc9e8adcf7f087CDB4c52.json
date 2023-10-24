@@ -47,8 +47,8 @@
   "applicantAddress": "0xbA95b4a5B130C4c1d27dc9e8adcf7f087CDB4c52",
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for spam due to the usage of irrelevant and non-English statements.",
-  "recategorizeToType": "PROJECT",
-  "recategorizeReason": "NO, the application is miscategorized because the contribution is discussed in the context of an organization (PASOKARA), suggesting it should be categorized as a PROJECT rather than an INDIVIDUAL.",
+  "pwRecategorizeToType": "PROJECT",
+  "pwRecategorizeReason": "NO, the application is miscategorized because the contribution is discussed in the context of an organization (PASOKARA), suggesting it should be categorized as a PROJECT rather than an INDIVIDUAL.",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Community Building, Governance Tokens, Content Creation",
   "pwCategory": "Community Building"

@@ -10,9 +10,7 @@
       "description": "My Github Repo"
     }
   ],
-  "impactCategory": [
-    "COLLECTIVE_GOVERNANCE"
-  ],
+  "impactCategory": ["COLLECTIVE_GOVERNANCE"],
   "impactDescription": "Since it's a begginning emerging project I have not yet run a round or help funded a new project so I can't say there were contributions done yet, and in the future there will be of course, the impact goal is to fund the development of new dApps on the Optimism Collective.",
   "impactMetrics": [
     {
@@ -44,8 +42,8 @@
   "applicantAddress": "0xCb94B70cf011c3Ee99357499d060345daD585C6d",
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged because it violates the rule regarding promises of future impact. The applicant promises their future contributions would be \"building and testing DApps on the Optimism Mainnet\" and \"beginning to create a community of builders around the OP stack\".",
-  "recategorizeToType": "INDIVIDUAL",
-  "recategorizeReason": "NO, the application should be categorized as \"INDIVIDUAL\" because it refers to \"I\" and \"me\", indicating a single person, not a project.",
+  "pwRecategorizeToType": "INDIVIDUAL",
+  "pwRecategorizeReason": "NO, the application should be categorized as \"INDIVIDUAL\" because it refers to \"I\" and \"me\", indicating a single person, not a project.",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Developer Ecosystem, Community Building, Smart Contract Platforms, End-User Experience, Governance & Tokens",
   "pwCategory": "Developer Ecosystem"

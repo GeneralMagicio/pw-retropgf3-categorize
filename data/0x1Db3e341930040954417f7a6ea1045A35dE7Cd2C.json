@@ -34,5 +34,8 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x1Db3e341930040954417f7a6ea1045A35dE7Cd2C.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x1Db3e341930040954417f7a6ea1045A35dE7Cd2C.json",
   "RPGF3_Application_UID": "0x3ef0c9e5c4e326c28ae6081889e23aabb6024027617f395dde8a92c664c6ea9f",
-  "applicantAddress": "0x1Db3e341930040954417f7a6ea1045A35dE7Cd2C"
+  "applicantAddress": "0x1Db3e341930040954417f7a6ea1045A35dE7Cd2C",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "This application should be flagged for promising future deliverables or impact which is against the Grant Program rules.",
+  "pwCategorySuggestions": "Community Building, User Experience & Adoption, Developer Ecosystem, Tokenization Platforms, Blockchain Infrastructure"
 }

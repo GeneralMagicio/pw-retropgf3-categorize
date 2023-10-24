@@ -84,5 +84,6 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x4B8810b079eb22ecF2D1f75E08E0AbbD6fD87dbF.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x4B8810b079eb22ecF2D1f75E08E0AbbD6fD87dbF.json",
   "RPGF3_Application_UID": "0x62b8c0895d6654e29f76021c1cabd87c59f4fe65f740b86368eda5649b697d4a",
-  "applicantAddress": "0x4B8810b079eb22ecF2D1f75E08E0AbbD6fD87dbF"
+  "applicantAddress": "0x4B8810b079eb22ecF2D1f75E08E0AbbD6fD87dbF",
+  "pwCategorySuggestions": "Decentralized Identity, Privacy, Web3 Community Platform, Governance & Tokens"
 }

@@ -101,5 +101,7 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x2C4F3af64e1A832deb10D98aFAA71233794467F8.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x2C4F3af64e1A832deb10D98aFAA71233794467F8.json",
   "RPGF3_Application_UID": "0x99ad2850c7cbda52a16676d6ab956b1434c64f4124d5f2108aa12fda5325205c",
-  "applicantAddress": "0x2C4F3af64e1A832deb10D98aFAA71233794467F8"
+  "applicantAddress": "0x2C4F3af64e1A832deb10D98aFAA71233794467F8",
+  "pwIsFlagged": false,
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Liquidity Protocol, Developer Ecosystem, Tokenization Platforms, Governance & Tokens"
 }

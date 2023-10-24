@@ -10,9 +10,7 @@
       "description": "That is the Eskrow website"
     }
   ],
-  "impactCategory": [
-    "COLLECTIVE_GOVERNANCE"
-  ],
+  "impactCategory": ["COLLECTIVE_GOVERNANCE"],
   "impactDescription": "Eskrow offers a secure solution for crypto token swaps, catering to a diverse user base, including those on the Optimism blockchain. We address trust issues in asset exchanges, enabling secure and trust-free transactions. Users no longer need to rely on trust in their counterparts. Eskrow ensures both parties fulfill their commitments, eliminating the risk of one party failing to deliver. Our universal compatibility guarantees a seamless and secure exchange experience today.",
   "impactMetrics": [
     {
@@ -43,8 +41,8 @@
   "RPGF3_Application_UID": "0x06c719c3e0ac2c6824c527e3dbf359bc05b37ab75d2bb6cb9c618835ec5e5e4b",
   "applicantAddress": "0x209Ba62148AA31e3F397c3B4539Fc292D22FB68e",
   "pwIsFlagged": false,
-  "recategorizeToType": "INDIVIDUAL",
-  "recategorizeReason": "NO, the application is titled as a \"PROJECT\" but the descriptions given refer to individual efforts, indicated by uses of \"I\" and \"my\".",
+  "pwRecategorizeToType": "INDIVIDUAL",
+  "pwRecategorizeReason": "NO, the application is titled as a \"PROJECT\" but the descriptions given refer to individual efforts, indicated by uses of \"I\" and \"my\".",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Decentralized Exchanges (DEXs), Trustless Swaps, User Experience & Adoption, Smart Contract Platforms",
   "pwCategory": "Smart Contract Platforms"

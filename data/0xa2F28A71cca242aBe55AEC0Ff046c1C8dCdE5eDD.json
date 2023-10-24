@@ -10,9 +10,7 @@
       "description": " "
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM"],
   "impactDescription": "We empower people to analyze on-chain data using their own infrastructure and ease the process of setting up a data pipeline, even without any data engineering knowledge. To further lower the entry barriers, we've integrated a text-to-SQL feature, reducing the need for SQL fluency to query over on-chain data.\n\nThis could potentially boost blockchain engagement and adoption by both individuals and enterprises.",
   "impactMetrics": [
     {
@@ -35,8 +33,8 @@
   "RPGF3_Application_UID": "0x871c89bc90ce389fa016eb8e0b805f8dc921b6a15d9b52667886a62e6bbac693",
   "applicantAddress": "0xa2F28A71cca242aBe55AEC0Ff046c1C8dCdE5eDD",
   "pwIsFlagged": false,
-  "recategorizeToType": "INDIVIDUAL",
-  "recategorizeReason": "NO, this application should be categorized as \"INDIVIDUAL\" as the bio section includes first person pronouns like \"I\" and \"me\".",
+  "pwRecategorizeToType": "INDIVIDUAL",
+  "pwRecategorizeReason": "NO, this application should be categorized as \"INDIVIDUAL\" as the bio section includes first person pronouns like \"I\" and \"me\".",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Data Analytics, Blockchain Infrastructure, Web3 Community Platform, Developer Ecosystem, User Experience & Adoption",
   "pwCategory": "Blockchain Infrastructure"

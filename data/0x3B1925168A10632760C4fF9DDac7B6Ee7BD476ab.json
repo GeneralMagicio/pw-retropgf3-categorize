@@ -10,9 +10,7 @@
       "description": "delegating "
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "we are delegating OP token, we are minting the NFT of OP chain and doing transaction, we are observing and doing transactions on the Dapps, we are donating through https://passport.gitcoin.co, we are bridging, swapping, staking, sending token, adding liquidity pool ",
   "impactMetrics": [
     {
@@ -42,8 +40,8 @@
   "RPGF3_Application_UID": "0xb77d800685667bb287bcd2e2fd01b6879f46a3577945ba8e29b85fa14e815720",
   "applicantAddress": "0x3B1925168A10632760C4fF9DDac7B6Ee7BD476ab",
   "pwIsFlagged": false,
-  "recategorizeToType": "PROJECT",
-  "recategorizeReason": "NO, the application is categorized as an individual, but the language in the contribution and impact description consistently uses \"we\", suggesting that it's a project or a group and not an individual.",
+  "pwRecategorizeToType": "PROJECT",
+  "pwRecategorizeReason": "NO, the application is categorized as an individual, but the language in the contribution and impact description consistently uses \"we\", suggesting that it's a project or a group and not an individual.",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Non-Fungible Tokens (NFTs), Smart Contract Platforms, Tokenization Platforms, Web3 Community Platform",
   "pwCategory": "Decentralized Finance (DeFi)"

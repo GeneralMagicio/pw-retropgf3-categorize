@@ -10,9 +10,7 @@
       "description": "lfg"
     }
   ],
-  "impactCategory": [
-    "OP_STACK"
-  ],
+  "impactCategory": ["OP_STACK"],
   "impactDescription": "brigdeasdadasssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssf",
   "impactMetrics": [
     {
@@ -37,8 +35,8 @@
   "applicantAddress": "0x56Bc19deF19a6D49f1d2d03De4F3C2beB026249b",
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for having spam content with nonsensical and irrelevant answers in the contribution and impact descriptions.",
-  "recategorizeToType": "PROJECT",
-  "recategorizeReason": "NO, the application does not provide sufficient information to deduce whether it is from an individual or a project.",
+  "pwRecategorizeToType": "PROJECT",
+  "pwRecategorizeReason": "NO, the application does not provide sufficient information to deduce whether it is from an individual or a project.",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Tokenization Platforms, Bridge, NFT, Discord, Transaction",
   "pwCategory": "Cross-Chain Platforms"

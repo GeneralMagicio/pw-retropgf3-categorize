@@ -36,8 +36,8 @@
   "RPGF3_Application_UID": "0xf401d148c229632073b29e99ccbe3a1b81b70b9ca62d72577725b79b5a1d5b97",
   "applicantAddress": "0x18CCC8750cEb411e778bD34c8E7A183BAC465AE6",
   "pwIsFlagged": false,
-  "recategorizeToType": "INDIVIDUAL",
-  "recategorizeReason": "NO, it should be categorized as \"INDIVIDUAL\" because the application uses first person pronouns \"I\" or \"me\", indicating an individual not a project.",
+  "pwRecategorizeToType": "INDIVIDUAL",
+  "pwRecategorizeReason": "NO, it should be categorized as \"INDIVIDUAL\" because the application uses first person pronouns \"I\" or \"me\", indicating an individual not a project.",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "NFTs, Layer 2 Scaling, Social Media, Tokenization Platforms, Blockchain Infrastructure",
   "pwCategory": "Blockchain Education"

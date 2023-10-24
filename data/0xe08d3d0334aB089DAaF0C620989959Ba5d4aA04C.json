@@ -10,9 +10,7 @@
       "description": "Defigourmet"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "The primary objective of the website is to aggregate all transactions from various protocols, including Layer 1 and Layer 2, onto a single platform. The primary benefit is to enhance the user experience for both professional and non-professional Optimism users, allowing them to easily track all their protocol activities.",
   "impactMetrics": [
     {
@@ -36,8 +34,8 @@
   "RPGF3_Application_UID": "0x895b1c9c2f2a6afb92839c0f400e634ac45b53346518b5b685f115ab555fe74f",
   "applicantAddress": "0xe08d3d0334aB089DAaF0C620989959Ba5d4aA04C",
   "pwIsFlagged": false,
-  "recategorizeToType": "INDIVIDUAL",
-  "recategorizeReason": "NO, it is not correctly categorized, the application should be categorized under \"INDIVIDUAL\" as the applicant mentioned \"I am working alone on my website\".",
+  "pwRecategorizeToType": "INDIVIDUAL",
+  "pwRecategorizeReason": "NO, it is not correctly categorized, the application should be categorized under \"INDIVIDUAL\" as the applicant mentioned \"I am working alone on my website\".",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Tokenization Platforms, Layer 2 Scaling, Web3 Community Platform, User Experience & Adoption, Governance & Tokens",
   "pwCategory": "Blockchain Infrastructure"

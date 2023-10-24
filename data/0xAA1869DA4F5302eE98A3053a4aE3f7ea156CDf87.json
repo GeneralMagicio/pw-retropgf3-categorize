@@ -10,9 +10,7 @@
       "description": "You can help me with the "
     }
   ],
-  "impactCategory": [
-    "OP_STACK"
-  ],
+  "impactCategory": ["OP_STACK"],
   "impactDescription": "Hi I'm here for you can you can help me with your project for the moon and back to work tomorrow and I will be there in about a half hour and a half hour and a half hour and a half hour and a half hour and a half hour and a half hour and a half hour and a ",
   "impactMetrics": [
     {
@@ -43,8 +41,8 @@
   "applicantAddress": "0xAA1869DA4F5302eE98A3053a4aE3f7ea156CDf87",
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for violating rule 1, promises of future impact, and rule 11, as it appears to contain spam or irrelevant answers.",
-  "recategorizeToType": "INDIVIDUAL",
-  "recategorizeReason": "NO, this seems to be an INDIVIDUAL applicant as the bio and descriptions use singular pronouns such as \"I\" and \"me\".",
+  "pwRecategorizeToType": "INDIVIDUAL",
+  "pwRecategorizeReason": "NO, this seems to be an INDIVIDUAL applicant as the bio and descriptions use singular pronouns such as \"I\" and \"me\".",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Smart Contract Platforms, Tokenization Platforms, Blockchain Infrastructure, Decentralized Finance (DeFi), User Experience & Adoption",
   "pwCategory": "The project description is unclear. It seems to have some repetition and no specific clarity about which area the project is primarily focused on."

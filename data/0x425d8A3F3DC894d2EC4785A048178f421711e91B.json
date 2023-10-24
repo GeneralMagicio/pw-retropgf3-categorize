@@ -10,9 +10,7 @@
       "description": "optimism"
     }
   ],
-  "impactCategory": [
-    "COLLECTIVE_GOVERNANCE"
-  ],
+  "impactCategory": ["COLLECTIVE_GOVERNANCE"],
   "impactDescription": "I've been actively disseminating knowledge about optimism within my close-knit circle of family and friends. Additionally, I consistently engage with the latest developments and updates related to optimism. It's essential for me to stay informed and involved so that I can contribute to making well-informed decisions that benefit the overall progress of the project.",
   "impactMetrics": [
     {
@@ -35,8 +33,8 @@
   "RPGF3_Application_UID": "0xa5860afa0d020feb2fdc3cfb9b21a99d6dbcfad6d76d0c6616ea7f0b0028f363",
   "applicantAddress": "0x425d8A3F3DC894d2EC4785A048178f421711e91B",
   "pwIsFlagged": false,
-  "recategorizeToType": "INDIVIDUAL",
-  "recategorizeReason": "NO, it is not correctly categorized. The application contains the use of \"I\" and \"me\", indicating it is from an individual, not a project.",
+  "pwRecategorizeToType": "INDIVIDUAL",
+  "pwRecategorizeReason": "NO, it is not correctly categorized. The application contains the use of \"I\" and \"me\", indicating it is from an individual, not a project.",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Content Creation, Community Building, User Experience & Adoption, Governance & Tokens, Developer Ecosystem",
   "pwCategory": "Community Building"

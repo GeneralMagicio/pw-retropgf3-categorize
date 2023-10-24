@@ -77,8 +77,8 @@
   "RPGF3_Application_UID": "0x4b5d1bb924ecf1996a5c193a61a18ee1603e8f3b71eccb3a1e2e73c059ca4091",
   "applicantAddress": "0x8D3A410962b1BcEe613f4aA41718cCfe161E9756",
   "pwIsFlagged": false,
-  "recategorizeToType": "INDIVIDUAL",
-  "recategorizeReason": "NO. The application talks about \"I\" and \"me\", which are sure signs of an individual. Therefore, it should be categorized as \"INDIVIDUAL\", not \"PROJECT\".",
+  "pwRecategorizeToType": "INDIVIDUAL",
+  "pwRecategorizeReason": "NO. The application talks about \"I\" and \"me\", which are sure signs of an individual. Therefore, it should be categorized as \"INDIVIDUAL\", not \"PROJECT\".",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Smart Contract Platforms, Layer 2 Scaling, Blockchain Infrastructure, Developer Ecosystem, Education",
   "pwCategory": "Developer Ecosystem"

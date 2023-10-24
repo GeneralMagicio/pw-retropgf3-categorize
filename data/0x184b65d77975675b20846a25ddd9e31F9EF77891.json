@@ -10,9 +10,7 @@
       "description": "asdfasdfasd"
     }
   ],
-  "impactCategory": [
-    "OP_STACK"
-  ],
+  "impactCategory": ["OP_STACK"],
   "impactDescription": "test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test ",
   "impactMetrics": [
     {
@@ -44,8 +42,8 @@
   "applicantAddress": "0x184b65d77975675b20846a25ddd9e31F9EF77891",
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged as spam because the contribution and impact descriptions are repeated phrases with no meaningful content.",
-  "recategorizeToType": "INDIVIDUAL",
-  "recategorizeReason": "NO, this application should not be categorized as a PROJECT because it does not provide clear details about a project; instead, it consists of non-informative, repeated phrases.",
+  "pwRecategorizeToType": "INDIVIDUAL",
+  "pwRecategorizeReason": "NO, this application should not be categorized as a PROJECT because it does not provide clear details about a project; instead, it consists of non-informative, repeated phrases.",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Content Creation, Community Building, User Experience & Adoption",
   "pwCategory": "Content Creation"

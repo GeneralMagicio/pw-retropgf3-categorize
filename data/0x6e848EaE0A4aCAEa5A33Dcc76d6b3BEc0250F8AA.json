@@ -40,5 +40,6 @@
   "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x6e848EaE0A4aCAEa5A33Dcc76d6b3BEc0250F8AA.jpeg",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x6e848EaE0A4aCAEa5A33Dcc76d6b3BEc0250F8AA.json",
   "RPGF3_Application_UID": "0x649c4d7b5e24f28ff6ccb76a0303f3de41dffe5521a902e81cb79a1be457c876",
-  "applicantAddress": "0x6e848EaE0A4aCAEa5A33Dcc76d6b3BEc0250F8AA"
+  "applicantAddress": "0x6e848EaE0A4aCAEa5A33Dcc76d6b3BEc0250F8AA",
+  "pwCategorySuggestions": "Content Creation, Community Building, Governance & Tokens, Developer Ecosystem, Smart Contract Platforms"
 }

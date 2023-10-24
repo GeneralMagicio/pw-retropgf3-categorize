@@ -15,9 +15,7 @@
       "description": "Over 100 podcast episodes covering OP News."
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Our daily briefing boosts Optimism Collective's brand awareness, reaching over 2,000 crypto enthusiasts. We provide essential OP News coverage, keeping end-users, developers, journalists, and crypto security firms informed about network upgrades, new OP Stack chains, and airdrops. Our briefs have even inspired news articles, like this one published by The Block on Optimism Airdrop 3 after the journalist read our newsletter.",
   "impactMetrics": [
     {
@@ -80,8 +78,8 @@
   "RPGF3_Application_UID": "0x63a5295135ccaf721e190743dc6e47f71ba76cd8bb5635d7049b27a8c3511d25",
   "applicantAddress": "0xEB40A065854bd90126A4E697aeA0976BA51b2eE7",
   "pwIsFlagged": false,
-  "recategorizeToType": "PROJECT",
-  "recategorizeReason": "NO, it should be categorized as PROJECT since the description is about a podcast and newsletter service, \"ETH Daily,\" which is not an individual’s task.",
+  "pwRecategorizeToType": "PROJECT",
+  "pwRecategorizeReason": "NO, it should be categorized as PROJECT since the description is about a podcast and newsletter service, \"ETH Daily,\" which is not an individual’s task.",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Content Creation, Community Building, User Experience & Adoption, Media Production, Cryptocurrency Services",
   "pwCategory": "Community Building"

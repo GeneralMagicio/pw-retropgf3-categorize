@@ -44,5 +44,8 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x3790cd6a40abB52E7f994A20b4214AC22BF4BD2E.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x3790cd6a40abB52E7f994A20b4214AC22BF4BD2E.json",
   "RPGF3_Application_UID": "0xcb45482c365ac16b0691ddde5dc781745d74b283352a6291f62c096225ddb2f7",
-  "applicantAddress": "0x3790cd6a40abB52E7f994A20b4214AC22BF4BD2E"
+  "applicantAddress": "0x3790cd6a40abB52E7f994A20b4214AC22BF4BD2E",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "Flagged because the application contains spam, specifically, the repeated phrases in the contribution and impact descriptions.",
+  "pwCategorySuggestions": "Smart Contract Platforms, Low Fee Blockchain"
 }

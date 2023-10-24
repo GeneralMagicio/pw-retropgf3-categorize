@@ -10,9 +10,7 @@
       "description": "website"
     }
   ],
-  "impactCategory": [
-    "COLLECTIVE_GOVERNANCE"
-  ],
+  "impactCategory": ["COLLECTIVE_GOVERNANCE"],
   "impactDescription": "I am the founder of the holdstation community and our company is extremely fond of the optimist network. In 2022, I allowed all members of the company to register and participate in optimist campaigns. In addition, we support posting on the website, X, Facebook to call for and create benefits for us",
   "impactMetrics": [
     {
@@ -44,8 +42,8 @@
   "applicantAddress": "0xE927554Cddbf6145FE7D77afC31d7EAEdEC60162",
   "pwIsFlagged": true,
   "pwFlaggedReason": "Flagged: The provided contribution link leads to a non-English content which is a violation of the grant program's rules.",
-  "recategorizeToType": "PROJECT",
-  "recategorizeReason": "NO, the application should be categorized as \"PROJECT\" as the applicant talks about a community they founded and a company they're involved with, indicating this effort goes beyond a single individual.",
+  "pwRecategorizeToType": "PROJECT",
+  "pwRecategorizeReason": "NO, the application should be categorized as \"PROJECT\" as the applicant talks about a community they founded and a company they're involved with, indicating this effort goes beyond a single individual.",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Community Building, OTC Services",
   "pwCategory": "Community Building"

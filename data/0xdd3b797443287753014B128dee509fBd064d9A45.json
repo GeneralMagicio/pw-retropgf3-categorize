@@ -10,9 +10,7 @@
       "description": "OC"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Introducing optimism to the general public. This is because of the high amount of plastic waste in my area. I also have an idea to provide incentives in the form of optimism to introduce optimism to beginners. I want to demonstrate positive progress to the optimism community.",
   "impactMetrics": [
     {
@@ -43,8 +41,8 @@
   "applicantAddress": "0xdd3b797443287753014B128dee509fBd064d9A45",
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for promising future impact through the development of a startup and introducing optimism to beginners which are future outcomes.",
-  "recategorizeToType": "PROJECT",
-  "recategorizeReason": "NO, it is not correctly categorized. The application mentions an \"Association of young people\" which implies a group effort, making it more suited to a PROJECT categorization.",
+  "pwRecategorizeToType": "PROJECT",
+  "pwRecategorizeReason": "NO, it is not correctly categorized. The application mentions an \"Association of young people\" which implies a group effort, making it more suited to a PROJECT categorization.",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Tokenization Platforms, Supply Chain Management, Blockchain Infrastructure, Community Building, Content Creation",
   "pwCategory": "Community Building"

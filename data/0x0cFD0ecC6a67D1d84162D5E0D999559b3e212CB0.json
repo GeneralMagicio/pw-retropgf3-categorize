@@ -44,5 +44,8 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x0cFD0ecC6a67D1d84162D5E0D999559b3e212CB0.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x0cFD0ecC6a67D1d84162D5E0D999559b3e212CB0.json",
   "RPGF3_Application_UID": "0xab54c5e284bb1e357f91309c006df1c11fb6fb34b1d6191ecb02cde15fd00405",
-  "applicantAddress": "0x0cFD0ecC6a67D1d84162D5E0D999559b3e212CB0"
+  "applicantAddress": "0x0cFD0ecC6a67D1d84162D5E0D999559b3e212CB0",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "The application should be flagged due to violating rule 11 - the application contains language other than English.",
+  "pwCategorySuggestions": "Cryptocurrency Services"
 }

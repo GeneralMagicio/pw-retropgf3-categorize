@@ -35,5 +35,8 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x098e5d99A4ABcE070910f640AD4a6b65F9F43Fbe.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x098e5d99A4ABcE070910f640AD4a6b65F9F43Fbe.json",
   "RPGF3_Application_UID": "0xdf976df63d42782f4ebc7e60cfea99fdf46bf0f5ebfc6db4d8578aa01c947d69",
-  "applicantAddress": "0x098e5d99A4ABcE070910f640AD4a6b65F9F43Fbe"
+  "applicantAddress": "0x098e5d99A4ABcE070910f640AD4a6b65F9F43Fbe",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "The application should be flagged because it lacks the required detailed descriptions about the contribution and its impact.",
+  "pwCategorySuggestions": "Governance & Tokens, Tokenization Platforms"
 }

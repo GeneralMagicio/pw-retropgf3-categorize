@@ -10,9 +10,7 @@
       "description": "yo"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "im user optimism like holding nft and share list recomended project sure have whitelist im user optimism like holding nft and share list recomended project sure have whitelist im user optimism like holding nft and share list recomended project sure have whitelist im user optimism like holding nft and share list recomended project sure have whitelist ",
   "impactMetrics": [
     {
@@ -37,8 +35,8 @@
   "applicantAddress": "0x982e4189F6e0bbb0ED37db7B5570BAb031d28B9d",
   "pwIsFlagged": true,
   "pwFlaggedReason": "Flagged: The application should be flagged for violation of rule 10, as the provided contribution description as it purely involves user interactions such as holding NFTs which are not in the scope of rewards in the RetroPGF 3 grant program.",
-  "recategorizeToType": "INDIVIDUAL",
-  "recategorizeReason": "NO, the application uses \"I\" and \"me\" indicating this application is by an individual.",
+  "pwRecategorizeToType": "INDIVIDUAL",
+  "pwRecategorizeReason": "NO, the application uses \"I\" and \"me\" indicating this application is by an individual.",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "NFT Aggregator, Community Building, User Experience & Adoption, Web3 Community Platform, Tokenization Platforms",
   "pwCategory": "NFT Aggregator"

@@ -110,5 +110,6 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x5a039c597251fCbB574101Fc510a1759cc6871aF.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x5a039c597251fCbB574101Fc510a1759cc6871aF.json",
   "RPGF3_Application_UID": "0xf3526ec21d5b1146008c629fe9837f2c5ab099b1590e28dfb7005c126234fb11",
-  "applicantAddress": "0x5a039c597251fCbB574101Fc510a1759cc6871aF"
+  "applicantAddress": "0x5a039c597251fCbB574101Fc510a1759cc6871aF",
+  "pwCategorySuggestions": "Community Building, Education, Media Production"
 }

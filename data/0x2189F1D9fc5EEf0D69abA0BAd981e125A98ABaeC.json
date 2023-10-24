@@ -79,5 +79,7 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x2189F1D9fc5EEf0D69abA0BAd981e125A98ABaeC.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x2189F1D9fc5EEf0D69abA0BAd981e125A98ABaeC.json",
   "RPGF3_Application_UID": "0x577ede5b874e212884380a586d387d9a1ac81ebeb0a5dd780468f4c5b0a413f1",
-  "applicantAddress": "0x2189F1D9fc5EEf0D69abA0BAd981e125A98ABaeC"
+  "applicantAddress": "0x2189F1D9fc5EEf0D69abA0BAd981e125A98ABaeC",
+  "pwIsFlagged": false,
+  "pwCategorySuggestions": "DAO Analytics Engine, Governance Data Platform, DAO Tools Aggregator, Web3 Community Platform, Stakeholder Engagement Platform"
 }

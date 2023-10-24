@@ -41,5 +41,7 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x3437f6ED844013852650851D769ae7939B5e0aec.jpeg",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x3437f6ED844013852650851D769ae7939B5e0aec.json",
   "RPGF3_Application_UID": "0x6030682fe8c5c892dfc2bb0a5b90d17edbcdd8bf0d94fa0c6f1ea641b2642655",
-  "applicantAddress": "0x3437f6ED844013852650851D769ae7939B5e0aec"
+  "applicantAddress": "0x3437f6ED844013852650851D769ae7939B5e0aec",
+  "pwIsFlagged": false,
+  "pwCategorySuggestions": "Optimism, NFTs, Layer 2 Scaling, Trading Platform, Low Transaction Fees."
 }

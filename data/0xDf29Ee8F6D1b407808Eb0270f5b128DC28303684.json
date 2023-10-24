@@ -25,9 +25,7 @@
       "description": "Discord"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "We have enabled the adoption of DeFi on ethereum and optimism through our various meetups and discussions on our discord. We've brought optimism to a wide audience through our educational content. In addition, numerous discussions on the optimism collective and op stack technologies have been held within our French-speaking community.",
   "impactMetrics": [
     {
@@ -61,8 +59,8 @@
   "RPGF3_Application_UID": "0x9a2f7a663b1f3dc5456597d188a094a67977908286a694c71481d399becb44d0",
   "applicantAddress": "0xDf29Ee8F6D1b407808Eb0270f5b128DC28303684",
   "pwIsFlagged": false,
-  "recategorizeToType": "INDIVIDUAL",
-  "recategorizeReason": "NO, it is not correctly categorized as the applicant mentions \"I'm Arthurws, PM at Nuant and contributor at DeFi France.\" indicating this is an individual applicant.",
+  "pwRecategorizeToType": "INDIVIDUAL",
+  "pwRecategorizeReason": "NO, it is not correctly categorized as the applicant mentions \"I'm Arthurws, PM at Nuant and contributor at DeFi France.\" indicating this is an individual applicant.",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Community Building, User Experience & Adoption, Blockchain Education, Web3 Community Platform, Media Production",
   "pwCategory": "Community Building"

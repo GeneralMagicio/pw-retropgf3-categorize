@@ -39,8 +39,8 @@
   "applicantAddress": "0xc672f3cca8Ea59ff55996b803987Ac86B64Ca363",
   "pwIsFlagged": true,
   "pwFlaggedReason": "Yes, this application should be flagged for violating the rules of the grant program. The contribution description and impact description imply that the applicant uses the grant to promote and advertise, which is against rule 6. Advertising - Using RetroPGF application to showcase something you are selling like a token sale or NFT drop.",
-  "recategorizeToType": "PROJECT",
-  "recategorizeReason": "NO, the application is incorrectly categorized. This seems more like a PROJECT application due to references made to a community and ecosystem, even though 'I' is used.",
+  "pwRecategorizeToType": "PROJECT",
+  "pwRecategorizeReason": "NO, the application is incorrectly categorized. This seems more like a PROJECT application due to references made to a community and ecosystem, even though 'I' is used.",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Community Building, Content Creation, Media Production, Cryptocurrency Services, Web3 Community Platform",
   "pwCategory": "Community Building"

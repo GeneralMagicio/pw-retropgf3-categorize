@@ -80,5 +80,6 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x465E764B56429788e031160F66a5F9791193B56F.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x465E764B56429788e031160F66a5F9791193B56F.json",
   "RPGF3_Application_UID": "0x194255ca2a18149a5cc6781b5cd6649212725133b038aba97a8b2ba7fd78b8bb",
-  "applicantAddress": "0x465E764B56429788e031160F66a5F9791193B56F"
+  "applicantAddress": "0x465E764B56429788e031160F66a5F9791193B56F",
+  "pwCategorySuggestions": "Layer 2 Scaling, User Experience & Adoption, Decentralized Identity, NFTs, Tokenization Platforms"
 }

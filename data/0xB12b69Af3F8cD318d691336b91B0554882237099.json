@@ -46,8 +46,8 @@
   "applicantAddress": "0xB12b69Af3F8cD318d691336b91B0554882237099",
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for including irrelevant and repeated content in both the contribution and impact descriptions, indicating potential spam.",
-  "recategorizeToType": "PROJECT",
-  "recategorizeReason": "NO, the application seems to be from a project as the description and bio talk about developing a website and graphic design, and there are no clear references to an individual's actions.",
+  "pwRecategorizeToType": "PROJECT",
+  "pwRecategorizeReason": "NO, the application seems to be from a project as the description and bio talk about developing a website and graphic design, and there are no clear references to an individual's actions.",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Web Development, Cryptocurrency Education",
   "pwCategory": "Blockchain Education"

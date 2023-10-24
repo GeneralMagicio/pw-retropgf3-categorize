@@ -10,10 +10,7 @@
       "description": "NFT Marketplace"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION",
-    "OP_STACK"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION", "OP_STACK"],
   "impactDescription": "The utility token that facilitates transactions on the Creath Art Marketplace, enables platform governance and empowers its users. CGT holders play a beneficial role in the development of Creath by participating investment opportunities from staking and in decision-making processes.",
   "impactMetrics": [
     {
@@ -44,8 +41,8 @@
   "RPGF3_Application_UID": "0x55029829c5b131733c98dd6c4b4ba3234d2979b0281edc4142455b0936ea107e",
   "applicantAddress": "0x2a239a0dd0d618930803bA540f1669c0e0766877",
   "pwIsFlagged": false,
-  "recategorizeToType": "PROJECT",
-  "recategorizeReason": "NO, it should be categorized as \"PROJECT\" because the application is about the Creath Art Marketplace, which is more than an individual's contribution.",
+  "pwRecategorizeToType": "PROJECT",
+  "pwRecategorizeReason": "NO, it should be categorized as \"PROJECT\" because the application is about the Creath Art Marketplace, which is more than an individual's contribution.",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Tokenization Platforms, Art Marketplace, Governance & Tokens, End-User Experience, Community Building",
   "pwCategory": "Non-Fungible Tokens (NFTs)"

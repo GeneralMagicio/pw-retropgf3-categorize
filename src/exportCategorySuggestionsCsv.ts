@@ -29,7 +29,9 @@ export async function exportCategorySuggestionsCsv(filter: string) {
   }
 
   try {
-    const parser = new Parser({ fields: ["pwCategorySuggestions"] });
+    const parser = new Parser({
+      fields: ["displayName", "pwCategorySuggestions", "RPGF3_Application_UID"],
+    });
     const csv = parser.parse(applications);
     await fs.writeFile(
       `export/category-suggestions-${filter.toLocaleLowerCase()}`,

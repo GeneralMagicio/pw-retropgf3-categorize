@@ -10,10 +10,7 @@
       "description": "-"
     }
   ],
-  "impactCategory": [
-    "COLLECTIVE_GOVERNANCE",
-    "OP_STACK"
-  ],
+  "impactCategory": ["COLLECTIVE_GOVERNANCE", "OP_STACK"],
   "impactDescription": "Improved user experience: I can help to improve the user experience of Optimism by providing educational resources and by helping to troubleshoot problems.\nImproved communication and collaboration: I can help to improve communication and collaboration within the Optimism Collective by providing a central repository of information and by facilitating discussions and debates.\nIncreased developer productivity: I can help to increase developer productivity by providing tools and resources that make it easier to develop and test applications on Optimism.",
   "impactMetrics": [
     {
@@ -43,8 +40,8 @@
   "RPGF3_Application_UID": "0x75a21d19ed1025cc31c93e4a551e9bb354336e9f6f05f752c420b678f639ce64",
   "applicantAddress": "0x8e25cDa79DE06b4ec1f0713A75cEC104621B8E72",
   "pwIsFlagged": false,
-  "recategorizeToType": "INDIVIDUAL",
-  "recategorizeReason": "NO, the application is not correctly categorized because the \"impactDescription\" field indicates that the applicant is an individual, as it uses first-person pronouns like \"I\".",
+  "pwRecategorizeToType": "INDIVIDUAL",
+  "pwRecategorizeReason": "NO, the application is not correctly categorized because the \"impactDescription\" field indicates that the applicant is an individual, as it uses first-person pronouns like \"I\".",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Governance Tokens, User Experience & Adoption, Developer Ecosystem, Blockchain Infrastructure, Content Creation",
   "pwCategory": "Governance & Tokens"

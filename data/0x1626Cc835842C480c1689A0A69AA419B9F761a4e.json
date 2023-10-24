@@ -86,5 +86,7 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x1626Cc835842C480c1689A0A69AA419B9F761a4e.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x1626Cc835842C480c1689A0A69AA419B9F761a4e.json",
   "RPGF3_Application_UID": "0x83acb708e662400cbe8f8e9ec313f26d40e78e789577bce3e895d16eea8b5fbc",
-  "applicantAddress": "0x1626Cc835842C480c1689A0A69AA419B9F761a4e"
+  "applicantAddress": "0x1626Cc835842C480c1689A0A69AA419B9F761a4e",
+  "pwIsFlagged": false,
+  "pwCategorySuggestions": "Community Building, Developer Ecosystem, Hackathon, Grant Programs, Smart Contract Platforms"
 }

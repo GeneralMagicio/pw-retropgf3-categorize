@@ -20,9 +20,7 @@
       "description": "Cannon Package Registry Contract"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM"],
   "impactDescription": "- Cannon has been especially impactful in the Synthetix Ecosystem, which is one of the largest drivers of activity on OP Mainnet.\n- Cannon has made it straightforward to deploy, configure, and upgrade an isolated deployment on Base Goerli (an OP Stack chain) for Synthetix V3 Perps Testnet competition. See Synthetix V3’s GitOps repository: https://github.com/Synthetixio/synthetix-deployments\n- Builders in the Optimism ecosystem are building front-ends, bots, and smart contracts with Cannon. See the Synthetix V3 Sandbox: https://github.com/synthetixio/synthetix-sandbox\n- We’ve seen some organic adoption from developers outside of the Synthetix ecosystem. e.g. Grateful has deployed to OP Mainnet using Cannon and published their package: https://usecannon.com/packages/grateful/latest/10-main",
   "impactMetrics": [
     {
@@ -79,8 +77,8 @@
   "RPGF3_Application_UID": "0x7a09be22acae5e2d531965a619820b6b9d985f60051c524c2e2b5036aac7489b",
   "applicantAddress": "0x07Aeeb7E544A070a2553e142828fb30c214a1F86",
   "pwIsFlagged": false,
-  "recategorizeToType": "INDIVIDUAL",
-  "recategorizeReason": "NO, it is not correctly categorized because despite having an individual's name (Noah), the application talks more about the project (Cannon) and its impacts rather than focusing on individual achievements.",
+  "pwRecategorizeToType": "INDIVIDUAL",
+  "pwRecategorizeReason": "NO, it is not correctly categorized because despite having an individual's name (Noah), the application talks more about the project (Cannon) and its impacts rather than focusing on individual achievements.",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Smart Contract Platforms, Developer Ecosystem, Blockchain Infrastructure",
   "pwCategory": "Developer Ecosystem"

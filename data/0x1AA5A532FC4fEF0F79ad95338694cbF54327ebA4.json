@@ -54,5 +54,7 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x1AA5A532FC4fEF0F79ad95338694cbF54327ebA4.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x1AA5A532FC4fEF0F79ad95338694cbF54327ebA4.json",
   "RPGF3_Application_UID": "0x39b4a7a07052cd200b017579a2717911881ffd3ed4bd94c085ba08435373c855",
-  "applicantAddress": "0x1AA5A532FC4fEF0F79ad95338694cbF54327ebA4"
+  "applicantAddress": "0x1AA5A532FC4fEF0F79ad95338694cbF54327ebA4",
+  "pwIsFlagged": false,
+  "pwCategorySuggestions": "Developer Mentorship, Web3 Education, Chain Agnostic, Optimism, Public Good"
 }

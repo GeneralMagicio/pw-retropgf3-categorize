@@ -10,10 +10,7 @@
       "description": "Github Repo"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM",
-    "OP_STACK"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM", "OP_STACK"],
   "impactDescription": "A number of projects (Sygma, Coinbase Base) are planning to use Rust to develop alternative clients for Cannon and the OP stack. Cannon-rs can speeds up this development by proving low level system APIs for Cannon upon which more complex provable programs can be built.\n\nProviding developers with a way to develop with Rust for Cannon improves adoption and diversity of code that can be proven using Cannon.",
   "impactMetrics": [
     {
@@ -49,8 +46,8 @@
   "RPGF3_Application_UID": "0xebfde003ee2e4a52eb4a22d74759fdff01dfea6712dce0df1212dfa95341819c",
   "applicantAddress": "0xc0017405E287476443Ab1B342B86f2ea92Ef9F73",
   "pwIsFlagged": false,
-  "recategorizeToType": "INDIVIDUAL",
-  "recategorizeReason": "NO. This application is filled out by an individual but is categorized as a project.",
+  "pwRecategorizeToType": "INDIVIDUAL",
+  "pwRecategorizeReason": "NO. This application is filled out by an individual but is categorized as a project.",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Smart Contract Platforms, Blockchain Infrastructure, Developer Ecosystem",
   "pwCategory": "Developer Ecosystem"

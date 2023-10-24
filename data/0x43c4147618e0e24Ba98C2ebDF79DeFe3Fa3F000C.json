@@ -10,9 +10,7 @@
       "description": "test"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "A katana is a traditional Japanese sword known for its distinctive appearance and historical significance. It is a type of long, curved, single-edged sword that has become iconic and is often associated with samurai warriors. Here are some key characteristics and details about the katana:",
   "impactMetrics": [
     {
@@ -36,8 +34,8 @@
   "applicantAddress": "0x43c4147618e0e24Ba98C2ebDF79DeFe3Fa3F000C",
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for being Outside of RetroPGF's scope, as the contribution does not have a clear relationship to Optimism, nor does it highlight a valid contribution in the Web3/blockchain space.",
-  "recategorizeToType": "INDIVIDUAL",
-  "recategorizeReason": "NO, the application mentions a traditional Japanese sword but doesn't make any reference to a project, hence the application should be categorized as \"INDIVIDUAL\" instead of \"PROJECT\".",
+  "pwRecategorizeToType": "INDIVIDUAL",
+  "pwRecategorizeReason": "NO, the application mentions a traditional Japanese sword but doesn't make any reference to a project, hence the application should be categorized as \"INDIVIDUAL\" instead of \"PROJECT\".",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Blockchain Gaming",
   "pwCategory": "Blockchain Gaming"

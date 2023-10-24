@@ -40,5 +40,7 @@
   "applicantName": "lightclient",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x0000006916a87b82333f4245046623b23794C65C.json",
   "RPGF3_Application_UID": "0x853effbc5590961f4157c181e7f2e1c090d8434fd993b0fee10d58916c34e80a",
-  "applicantAddress": "0x0000006916a87b82333f4245046623b23794C65C"
+  "applicantAddress": "0x0000006916a87b82333f4245046623b23794C65C",
+  "pwIsFlagged": false,
+  "pwCategorySuggestions": "Smart Contract Platforms, Blockchain Infrastructure, Developer Ecosystem, End-User Experience, Governance & Tokens"
 }

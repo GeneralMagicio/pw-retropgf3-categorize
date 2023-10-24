@@ -40,5 +40,7 @@
   "applicantName": "Jimmy",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x301c2cfca20189988292eE03312f43Adf541CB20.json",
   "RPGF3_Application_UID": "0x613f763a7000491408631468515429375f3240d42c542954693dff62b76df7b9",
-  "applicantAddress": "0x301c2cfca20189988292eE03312f43Adf541CB20"
+  "applicantAddress": "0x301c2cfca20189988292eE03312f43Adf541CB20",
+  "pwIsFlagged": false,
+  "pwCategorySuggestions": "Blockchain Analytics, Data Platform, Developer Tools, Optimism Ecosystem"
 }

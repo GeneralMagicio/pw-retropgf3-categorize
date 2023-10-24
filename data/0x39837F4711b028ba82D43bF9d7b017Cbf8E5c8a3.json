@@ -10,9 +10,7 @@
       "description": "N/A"
     }
   ],
-  "impactCategory": [
-    "COLLECTIVE_GOVERNANCE"
-  ],
+  "impactCategory": ["COLLECTIVE_GOVERNANCE"],
   "impactDescription": "My contributions to the Optimism Collective have had a profound and lasting impact, serving as a catalyst for positive change and fostering a deeper understanding of the initiative's core principles. By focusing on education and advocacy, I was able to illuminate the transformative potential of Optimism to a broad audience, ensuring that more individuals could access, understand, and benefit from its offerings.",
   "impactMetrics": [
     {
@@ -42,8 +40,8 @@
   "RPGF3_Application_UID": "0x1e95c2cbcf5fd1c0a0124abdddce8b8cc4fca12ceaf00b76fa43c8c06439789b",
   "applicantAddress": "0x39837F4711b028ba82D43bF9d7b017Cbf8E5c8a3",
   "pwIsFlagged": false,
-  "recategorizeToType": "INDIVIDUAL",
-  "recategorizeReason": "NO, it is not correctly categorized because it talks about \"I\" and \"my,\" indicating it's an individual, not a project.",
+  "pwRecategorizeToType": "INDIVIDUAL",
+  "pwRecategorizeReason": "NO, it is not correctly categorized because it talks about \"I\" and \"my,\" indicating it's an individual, not a project.",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Blockchain Education, Community Building, User Experience & Adoption, Governance & Tokens",
   "pwCategory": "Blockchain Education"

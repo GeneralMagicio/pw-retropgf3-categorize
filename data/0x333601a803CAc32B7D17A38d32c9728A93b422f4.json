@@ -38,5 +38,7 @@
   "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x333601a803CAc32B7D17A38d32c9728A93b422f4.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x333601a803CAc32B7D17A38d32c9728A93b422f4.json",
   "RPGF3_Application_UID": "0xc2823a54c1f07eb30a69cb3c042c674182b50d49e03c7d48ba5cb84220f0bc62",
-  "applicantAddress": "0x333601a803CAc32B7D17A38d32c9728A93b422f4"
+  "applicantAddress": "0x333601a803CAc32B7D17A38d32c9728A93b422f4",
+  "pwIsFlagged": false,
+  "pwCategorySuggestions": "Web3 Community Platform, Decentralized Identity, NFT Aggregator, Trading Tools, User Experience & Adoption"
 }

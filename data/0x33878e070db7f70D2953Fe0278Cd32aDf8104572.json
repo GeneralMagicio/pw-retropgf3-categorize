@@ -62,5 +62,7 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x33878e070db7f70D2953Fe0278Cd32aDf8104572.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x33878e070db7f70D2953Fe0278Cd32aDf8104572.json",
   "RPGF3_Application_UID": "0x9fae00fd359ac7113bf727c79ccb70420f04150e8b432bd1617c615d47c5448d",
-  "applicantAddress": "0x33878e070db7f70D2953Fe0278Cd32aDf8104572"
+  "applicantAddress": "0x33878e070db7f70D2953Fe0278Cd32aDf8104572",
+  "pwIsFlagged": false,
+  "pwCategorySuggestions": "Grant Management, Public Goods, Ecosystem Growth, Community Engagement, Partner Success"
 }

@@ -57,5 +57,7 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x2cd0ac587Fc0E6FBcF8A47A449971649E7dab835.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x2cd0ac587Fc0E6FBcF8A47A449971649E7dab835.json",
   "RPGF3_Application_UID": "0xb98aad5071259164b02fe2266401b557446b4d0bcb509fdb94a1acf2095332b4",
-  "applicantAddress": "0x2cd0ac587Fc0E6FBcF8A47A449971649E7dab835"
+  "applicantAddress": "0x2cd0ac587Fc0E6FBcF8A47A449971649E7dab835",
+  "pwIsFlagged": false,
+  "pwCategorySuggestions": "Open Source Projects, DeFi Portfolio Tracker, Permissionless Platform, Privacy-conscious, Web3 Community Platform"
 }

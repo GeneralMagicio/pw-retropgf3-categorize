@@ -57,5 +57,6 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x6f82780153C8b32Aed7766556969000B7bD16D2c.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x6f82780153C8b32Aed7766556969000B7bD16D2c.json",
   "RPGF3_Application_UID": "0x0445f30a09e5b7de9b38674747fc5d2ff939d7e5df4a3b2ab538149b296c6562",
-  "applicantAddress": "0x6f82780153C8b32Aed7766556969000B7bD16D2c"
+  "applicantAddress": "0x6f82780153C8b32Aed7766556969000B7bD16D2c",
+  "pwCategorySuggestions": "NFTs, Music, Optimims, Sound.xyz, Camel venture"
 }

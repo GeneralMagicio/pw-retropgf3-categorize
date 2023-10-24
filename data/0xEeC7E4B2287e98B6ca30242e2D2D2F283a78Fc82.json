@@ -20,10 +20,7 @@
       "description": "Direct transfer to Farcaster profiles"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM",
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "- Our contracts and ERC-4337 passkey tests have been quoted dozens of times in the 4337 Mafia, Web Sessions, and Modular Accounts Telegram chats. \n\n- Our connect with Farcaster feature generated 500+ signups. These profiles have the option to deploy an ERC-4337 passkey account.",
   "impactMetrics": [
     {
@@ -46,8 +43,8 @@
   "RPGF3_Application_UID": "0x564162823418a919885acb3cff4ea7857147144353c792923d4e7eb27e110d8c",
   "applicantAddress": "0xEeC7E4B2287e98B6ca30242e2D2D2F283a78Fc82",
   "pwIsFlagged": false,
-  "recategorizeToType": "INDIVIDUAL",
-  "recategorizeReason": "NO, the application should be categorized as an INDIVIDUAL because the bio states \"I jumped into web3 in 2021\".",
+  "pwRecategorizeToType": "INDIVIDUAL",
+  "pwRecategorizeReason": "NO, the application should be categorized as an INDIVIDUAL because the bio states \"I jumped into web3 in 2021\".",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Tokenization Platforms, Web3 Community Platform, Decentralized Identity",
   "pwCategory": "Wallet Management"

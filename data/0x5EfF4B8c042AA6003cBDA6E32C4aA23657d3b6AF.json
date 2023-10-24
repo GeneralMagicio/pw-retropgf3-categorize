@@ -71,5 +71,6 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x5EfF4B8c042AA6003cBDA6E32C4aA23657d3b6AF.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x5EfF4B8c042AA6003cBDA6E32C4aA23657d3b6AF.json",
   "RPGF3_Application_UID": "0x127bdc6d776fb958f986cd2059b43e917a2d74e912c0b360316f77a05b30087b",
-  "applicantAddress": "0x5EfF4B8c042AA6003cBDA6E32C4aA23657d3b6AF"
+  "applicantAddress": "0x5EfF4B8c042AA6003cBDA6E32C4aA23657d3b6AF",
+  "pwCategorySuggestions": "Developer Support, Technical Assistance"
 }

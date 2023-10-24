@@ -37,8 +37,8 @@
   "RPGF3_Application_UID": "0xe308f8338ff498fc7b4ae77454d547582f99ff721d8c82130d0ad92c2fdafffb",
   "applicantAddress": "0x6deBF7Bc0EEdd7c51A9334d7f1E01c84678e3Ae7",
   "pwIsFlagged": false,
-  "recategorizeToType": "PROJECT",
-  "recategorizeReason": "NO, the application is misclassified. Despite the applicantType being \"INDIVIDUAL\", the applicant refers to team events and contributions to the collective, suggesting that this might be a PROJECT application.",
+  "pwRecategorizeToType": "PROJECT",
+  "pwRecategorizeReason": "NO, the application is misclassified. Despite the applicantType being \"INDIVIDUAL\", the applicant refers to team events and contributions to the collective, suggesting that this might be a PROJECT application.",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Community Building, User Experience & Adoption, Governance & Tokens, Developer Ecosystem, Decentralized Identity",
   "pwCategory": "End User Experience and Adoption"

@@ -55,5 +55,7 @@
   "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x34d6Dbd097f6b739C59D7467779549Aea60e1F84.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x34d6Dbd097f6b739C59D7467779549Aea60e1F84.json",
   "RPGF3_Application_UID": "0x07eb70211826da3e78898cf90a43959efc016390207ae49ea19ac856deda8e68",
-  "applicantAddress": "0x34d6Dbd097f6b739C59D7467779549Aea60e1F84"
+  "applicantAddress": "0x34d6Dbd097f6b739C59D7467779549Aea60e1F84",
+  "pwIsFlagged": false,
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Risk Analysis, Stablecoins, Liquid Staking Derivatives, Optimism Ecosystem"
 }

@@ -40,8 +40,8 @@
   "applicantAddress": "0x08DC8489c7CB11010210Ffe7acA543e2DB18DEaf",
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for violating the rule of \"Promises of future impact\" as the applicant claims that \"Citizens’ House will come live later in 2022\".",
-  "recategorizeToType": "PROJECT",
-  "recategorizeReason": "NO, the application seems to be for a project (named \"The Optimism Collective\") rather than an individual.",
+  "pwRecategorizeToType": "PROJECT",
+  "pwRecategorizeReason": "NO, the application seems to be for a project (named \"The Optimism Collective\") rather than an individual.",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Governance & Tokens, Tokenization Platforms, Blockchain Infrastructure, Decentralized Finance (DeFi), End-User Experience",
   "pwCategory": "Governance Tokens"

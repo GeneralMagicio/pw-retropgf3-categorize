@@ -131,5 +131,6 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x3b067Af83F540cB827825a6Ee5480441a4237E77.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x3b067Af83F540cB827825a6Ee5480441a4237E77.json",
   "RPGF3_Application_UID": "0x0ace9050e3c67022816825143db0a483647bc719202adffc555e04b4bfd4f522",
-  "applicantAddress": "0x3b067Af83F540cB827825a6Ee5480441a4237E77"
+  "applicantAddress": "0x3b067Af83F540cB827825a6Ee5480441a4237E77",
+  "pwCategorySuggestions": "Token Engineering, Education, Community Building"
 }

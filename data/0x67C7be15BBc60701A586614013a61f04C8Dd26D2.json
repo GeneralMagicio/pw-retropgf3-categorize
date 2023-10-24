@@ -51,5 +51,6 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x67C7be15BBc60701A586614013a61f04C8Dd26D2.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x67C7be15BBc60701A586614013a61f04C8Dd26D2.json",
   "RPGF3_Application_UID": "0x08aa14327f3f4ae93625db807c8fe5fe99118a260047a9dd3894c1a39ee1f0e4",
-  "applicantAddress": "0x67C7be15BBc60701A586614013a61f04C8Dd26D2"
+  "applicantAddress": "0x67C7be15BBc60701A586614013a61f04C8Dd26D2",
+  "pwCategorySuggestions": "Community Building, NFT Marketplace, Cross-Chain Platforms, User Experience & Adoption, Blockchain Gaming"
 }

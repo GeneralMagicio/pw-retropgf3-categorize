@@ -78,5 +78,7 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x179A862703a4adfb29896552DF9e307980D19285.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x179A862703a4adfb29896552DF9e307980D19285.json",
   "RPGF3_Application_UID": "0x79619331d5996c793ac13edcd77c369de5e72344add6ebedac5977c0552067a0",
-  "applicantAddress": "0x179A862703a4adfb29896552DF9e307980D19285"
+  "applicantAddress": "0x179A862703a4adfb29896552DF9e307980D19285",
+  "pwIsFlagged": false,
+  "pwCategorySuggestions": "Developer Ecosystem, Smart Contract Platforms, Content Creation, User Experience & Adoption, Tokenization Platforms"
 }

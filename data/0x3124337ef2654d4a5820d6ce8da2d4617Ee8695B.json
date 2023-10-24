@@ -10,9 +10,7 @@
       "description": "Free"
     }
   ],
-  "impactCategory": [
-    "OP_STACK"
-  ],
+  "impactCategory": ["OP_STACK"],
   "impactDescription": "This part of your application helps badgeholders understand how your work has benefitted the Optimism Collective. We strongly encourage you spend time going into detail here free Describe your contribution(s) to Optimism\nPlease share the contributions you wish to receive RetroPGF for.",
   "impactMetrics": [
     {
@@ -35,8 +33,8 @@
   "applicantAddress": "0x3124337ef2654d4a5820d6ce8da2d4617Ee8695B",
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged because it contains irrelevant and incomplete answers, which violates the grant program rule against spam.",
-  "recategorizeToType": "INDIVIDUAL",
-  "recategorizeReason": "NO, the application is not correctly categorized because it gives no clear indication whether it's from an individual or a project due to irrelevant and incomplete answers provided.",
+  "pwRecategorizeToType": "INDIVIDUAL",
+  "pwRecategorizeReason": "NO, the application is not correctly categorized because it gives no clear indication whether it's from an individual or a project due to irrelevant and incomplete answers provided.",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Web3 Community Platform, Blockchain Infrastructure",
   "pwCategory": "Web3 Community Platform"

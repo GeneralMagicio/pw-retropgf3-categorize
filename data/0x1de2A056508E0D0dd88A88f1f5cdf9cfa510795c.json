@@ -62,5 +62,7 @@
   "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x1de2A056508E0D0dd88A88f1f5cdf9cfa510795c.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x1de2A056508E0D0dd88A88f1f5cdf9cfa510795c.json",
   "RPGF3_Application_UID": "0xf79ce6e79fdb9112ac891b4e0c8f61c038fde1c1ced9d1b7e03c93c31e5f5b1f",
-  "applicantAddress": "0x1de2A056508E0D0dd88A88f1f5cdf9cfa510795c"
+  "applicantAddress": "0x1de2A056508E0D0dd88A88f1f5cdf9cfa510795c",
+  "pwIsFlagged": false,
+  "pwCategorySuggestions": "Governance & Tokens, Developer Ecosystem, Web3 Community Platform"
 }

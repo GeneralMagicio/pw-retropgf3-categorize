@@ -40,8 +40,8 @@
   "applicantAddress": "0x690904b28737B21a949E03720720eD5364f4b0E0",
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for violating the \"False statements & Deception\" rule as there are no concrete past contributions mentioned, instead, it has simply copy-pasted the grant guidelines into the application.",
-  "recategorizeToType": "INDIVIDUAL",
-  "recategorizeReason": "NO, the application is not correctly categorized. It seems to be an individual (\"I love myself\", \"You are only evaluated based on the impact you already had\") posing as a project.",
+  "pwRecategorizeToType": "INDIVIDUAL",
+  "pwRecategorizeReason": "NO, the application is not correctly categorized. It seems to be an individual (\"I love myself\", \"You are only evaluated based on the impact you already had\") posing as a project.",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Developer Ecosystem, Governance & Tokens, Web3 Community Platform, Retroactive Funding",
   "pwCategory": "Developer Ecosystem"

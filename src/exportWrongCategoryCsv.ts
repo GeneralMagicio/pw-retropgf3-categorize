@@ -8,7 +8,7 @@ import pc from "picocolors";
 type WrongCategoryApplication = {
   project: string;
   applicantType: string;
-  recategorizeToType: string;
+  pwRecategorizeToType: string;
   reason: string;
   applicantAddress: string;
   RPGF3_Application_UID: string;
@@ -30,14 +30,14 @@ export async function exportWrongCategoryCsv() {
   for (const doc of docs) {
     const application = JSON.parse(doc.pageContent);
     if (
-      application.recategorizeToType &&
-      application.recategorizeToType !== application.applicantType
+      application.pwRecategorizeToType &&
+      application.pwRecategorizeToType !== application.applicantType
     ) {
       wrongCategoryApplications.push({
         project: application.displayName,
         applicantType: application.applicantType,
-        recategorizeToType: application.recategorizeToType,
-        reason: application.recategorizeReason,
+        pwRecategorizeToType: application.pwRecategorizeToType,
+        reason: application.pwRecategorizeReason,
         applicantAddress: application.applicantAddress,
         RPGF3_Application_UID: application.RPGF3_Application_UID,
       });

@@ -20,9 +20,7 @@
       "description": "The Ethers.js documentation."
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM"],
   "impactDescription": "The impact provided by Ethers has been a simple and popular developer library.\n\nMany aspects of Ethers favour simplicity and safety-by-default, such as \"garbage-in, fail loud\" (opposed to \"garbage-in, garbage-out\", which often results in unsafe or error prone behaviour) which has helped protect developers and end-users from innocent mistakes, which could be costly or dangerous in the the blockchain world. Making it difficult to build a foot-gun is a feature.\n\nBy being so widely used, it has also led to the development of many other projects on top of it, further expanding the ecosystem.",
   "impactMetrics": [
     {
@@ -69,8 +67,8 @@
   "RPGF3_Application_UID": "0xf3e6f4737869efd0967440e4f97ea91b3ce3611c801675319874ea02f4d7a668",
   "applicantAddress": "0x8ba1f109551bD432803012645Ac136ddd64DBA72",
   "pwIsFlagged": false,
-  "recategorizeToType": "INDIVIDUAL",
-  "recategorizeReason": "NO, the application is categorized as a PROJECT, but the bio section indicates that it's an individual (\"A random Canadian developer, dedicating his time to a variety of open source projects\").",
+  "pwRecategorizeToType": "INDIVIDUAL",
+  "pwRecategorizeReason": "NO, the application is categorized as a PROJECT, but the bio section indicates that it's an individual (\"A random Canadian developer, dedicating his time to a variety of open source projects\").",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Smart Contract Platforms, Blockchain Infrastructure, Developer Ecosystem, Tokenization Platforms, End-User Experience",
   "pwCategory": "Developer Ecosystem"

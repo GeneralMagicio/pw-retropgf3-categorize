@@ -40,5 +40,6 @@
   "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x705164A3A221Ada070E1adf35d30D973A782C918.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x705164A3A221Ada070E1adf35d30D973A782C918.json",
   "RPGF3_Application_UID": "0xb1c87b3bf10d41e5607de5950ae0797100259f998b64305dcbb85f751b008c5d",
-  "applicantAddress": "0x705164A3A221Ada070E1adf35d30D973A782C918"
+  "applicantAddress": "0x705164A3A221Ada070E1adf35d30D973A782C918",
+  "pwCategorySuggestions": "Community Building, End-User Experience, Developer Ecosystem, User Experience & Adoption, Smart Contract Platforms"
 }

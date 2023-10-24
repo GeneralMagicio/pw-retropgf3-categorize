@@ -102,5 +102,7 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x33DB27C21E0f7a2f3351A4C6DDceDFB9F713410b.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x33DB27C21E0f7a2f3351A4C6DDceDFB9F713410b.json",
   "RPGF3_Application_UID": "0x91941c2cb8e8079a32813cfa72facb995b4803285685955ef4f4772cd525f50b",
-  "applicantAddress": "0x33DB27C21E0f7a2f3351A4C6DDceDFB9F713410b"
+  "applicantAddress": "0x33DB27C21E0f7a2f3351A4C6DDceDFB9F713410b",
+  "pwIsFlagged": false,
+  "pwCategorySuggestions": "Cross-Chain Platforms, Layer 2 Scaling, Tokenization Platforms, Blockchain Infrastructure, Governance Tokens"
 }

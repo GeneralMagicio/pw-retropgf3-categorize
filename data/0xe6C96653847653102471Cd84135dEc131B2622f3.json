@@ -10,9 +10,7 @@
       "description": "0xe6C96653847653102471Cd84135dEc131B2622f3"
     }
   ],
-  "impactCategory": [
-    "OP_STACK"
-  ],
+  "impactCategory": ["OP_STACK"],
   "impactDescription": "Bir aile pikniği dönüşüydü. Uzun yıllardır görüşmediğimiz, okumuş, belli bir mevkiye gelmiş yakın bir akrabamız da bizimleydi. Politik konular üzerine konuşurken ne iş yaptığımı merak etti ve Gerçek Hayat’ta çalıştığımı söyleyince, “dağıtımını mı yapıyorsun” diye sordu. “Hayır, derginin kendisinde..” diyebilmiştim mahcup bir edayla. “Ben de abonesiyim” demişti ama sanırım abonesi olduğu o dergide çalışıyor olmamı bana bir türlü konduramıyordu.",
   "impactMetrics": [
     {
@@ -37,8 +35,8 @@
   "applicantAddress": "0xe6C96653847653102471Cd84135dEc131B2622f3",
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged because it violates rule 11. The text in the \"contributionDescription\" and \"impactDescription\" fields are in a language other than English.",
-  "recategorizeToType": "INDIVIDUAL",
-  "recategorizeReason": "NO, the application should be categorized as INDIVIDUAL as the name of the applicant \"Nihat Çelikel\" is a personal name and not a project.",
+  "pwRecategorizeToType": "INDIVIDUAL",
+  "pwRecategorizeReason": "NO, the application should be categorized as INDIVIDUAL as the name of the applicant \"Nihat Çelikel\" is a personal name and not a project.",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Category suggestions: Blockchain Infrastructure, Content Creation, Community Building, Media Production, Cryptocurrency Services",
   "pwCategory": "Content Creation"

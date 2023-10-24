@@ -52,8 +52,8 @@
   "applicantAddress": "0x2E3a1d2cCe3618F276CF6e5e3e8F2B3a81fCeA7c",
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for violation of rule 1, as the applicant promises future support and success of the project without providing evidence of past or current contributions.",
-  "recategorizeToType": "PROJECT",
-  "recategorizeReason": "NO, the application is incorrectly categorized as \"INDIVIDUAL\". The contribution description, impact description, and the provided website URL suggest that this is a project rather than an individual.",
+  "pwRecategorizeToType": "PROJECT",
+  "pwRecategorizeReason": "NO, the application is incorrectly categorized as \"INDIVIDUAL\". The contribution description, impact description, and the provided website URL suggest that this is a project rather than an individual.",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Community Building, Tokenization Platforms",
   "pwCategory": "Community Building"

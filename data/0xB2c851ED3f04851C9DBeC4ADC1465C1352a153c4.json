@@ -39,8 +39,8 @@
   "applicantAddress": "0xB2c851ED3f04851C9DBeC4ADC1465C1352a153c4",
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for the language used, as it is not in English which violates the program rules.",
-  "recategorizeToType": "INDIVIDUAL",
-  "recategorizeReason": "NO, it should be categorized as INDIVIDUAL because the bio and descriptions suggest it was written by an individual, not a project.",
+  "pwRecategorizeToType": "INDIVIDUAL",
+  "pwRecategorizeReason": "NO, it should be categorized as INDIVIDUAL because the bio and descriptions suggest it was written by an individual, not a project.",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Cryptocurrency Services",
   "pwCategory": "Cryptocurrency Services"

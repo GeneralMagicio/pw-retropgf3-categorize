@@ -77,5 +77,7 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x1208a26FAa0F4AC65B42098419EB4dAA5e580AC6.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x1208a26FAa0F4AC65B42098419EB4dAA5e580AC6.json",
   "RPGF3_Application_UID": "0x351cfe61628239f979f88da463f81b6feaeff65bfbeeed489041a44fef1b6293",
-  "applicantAddress": "0x1208a26FAa0F4AC65B42098419EB4dAA5e580AC6"
+  "applicantAddress": "0x1208a26FAa0F4AC65B42098419EB4dAA5e580AC6",
+  "pwIsFlagged": false,
+  "pwCategorySuggestions": "NFTs, Web3 Community Platform"
 }

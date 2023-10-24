@@ -25,9 +25,7 @@
       "description": "Future of Ethereum, L2s, proto-danksharding and more"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Even though it covers crypto in general, the emphasis was always on decentralization and the ideas on which Ethereum was built. Ever since Layer 2s emerged, we have been talking about their advantages and encouraging listeners to start using them, with a big emphasis on Optimism and now the Superchain.\n\nAs its very hard to prove the numbers I am sharing with you the badge from my hosting service (Podbean) for reaching 100k+ listeners early October in Link 1.\n\nSince January 2023 the podcasts are also published on business daily www.e15.cz/kryptospace with short accompanying text to get better reach.",
   "impactMetrics": [
     {
@@ -74,8 +72,8 @@
   "RPGF3_Application_UID": "0xffadcc516ca998e9e94fbb00b9a912c3bcb9d6e1f8f2e87e3d411c61a7ddae40",
   "applicantAddress": "0x6F74d9151532F6faf740Cb1e5092e0D20e34c332",
   "pwIsFlagged": false,
-  "recategorizeToType": "INDIVIDUAL",
-  "recategorizeReason": "NO, the application is not correctly categorized. The applicant talks about \"I\" and \"me\" within the application indicating that it is coming from an individual not a project.",
+  "pwRecategorizeToType": "INDIVIDUAL",
+  "pwRecategorizeReason": "NO, the application is not correctly categorized. The applicant talks about \"I\" and \"me\" within the application indicating that it is coming from an individual not a project.",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Blockchain Education, Decentralized Finance (DeFi), Layer 2 Scaling, Ethereum, Media Production",
   "pwCategory": "Blockchain Education"

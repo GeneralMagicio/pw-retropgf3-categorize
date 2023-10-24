@@ -34,5 +34,7 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x0000C291A4D0814b6c764CF001a0eBB0E2c5b498.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x0000C291A4D0814b6c764CF001a0eBB0E2c5b498.json",
   "RPGF3_Application_UID": "0xf080f1fc26719276abee08dc4cec9c03199942b8d0a437458cf9dfc54e67541f",
-  "applicantAddress": "0x0000C291A4D0814b6c764CF001a0eBB0E2c5b498"
+  "applicantAddress": "0x0000C291A4D0814b6c764CF001a0eBB0E2c5b498",
+  "pwIsFlagged": false,
+  "pwCategorySuggestions": "Blockchain Education"
 }

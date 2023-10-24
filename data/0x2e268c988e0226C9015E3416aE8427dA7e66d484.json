@@ -42,5 +42,7 @@
   "applicantName": "Mr_Kentico",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x2e268c988e0226C9015E3416aE8427dA7e66d484.json",
   "RPGF3_Application_UID": "0x876be0e2a16d36a76945323a83278d1ca6410a37cc1f56729356bab8a4c9d460",
-  "applicantAddress": "0x2e268c988e0226C9015E3416aE8427dA7e66d484"
+  "applicantAddress": "0x2e268c988e0226C9015E3416aE8427dA7e66d484",
+  "pwIsFlagged": false,
+  "pwCategorySuggestions": "NFTs, Decentralized Applications (dApps), Gaming, Digital Collectibles, Economic Growth"
 }

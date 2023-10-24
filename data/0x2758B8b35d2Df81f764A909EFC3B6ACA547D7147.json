@@ -42,5 +42,7 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x2758B8b35d2Df81f764A909EFC3B6ACA547D7147.jpeg",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x2758B8b35d2Df81f764A909EFC3B6ACA547D7147.json",
   "RPGF3_Application_UID": "0x801b6edf293467a883cf1fe81fd174eab4a47a038df2d329e590b207be55f6c9",
-  "applicantAddress": "0x2758B8b35d2Df81f764A909EFC3B6ACA547D7147"
+  "applicantAddress": "0x2758B8b35d2Df81f764A909EFC3B6ACA547D7147",
+  "pwIsFlagged": false,
+  "pwCategorySuggestions": "Blockchain Music, Community Building, Web3 Community Platform, Decentralized Finance (DeFi), Tokenization Platforms"
 }

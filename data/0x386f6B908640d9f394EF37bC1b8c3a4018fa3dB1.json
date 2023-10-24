@@ -46,5 +46,7 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x386f6B908640d9f394EF37bC1b8c3a4018fa3dB1.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x386f6B908640d9f394EF37bC1b8c3a4018fa3dB1.json",
   "RPGF3_Application_UID": "0x0fd67ac5b7610143e5de49212073798303be0009c69266484a75f96eb39fd0bb",
-  "applicantAddress": "0x386f6B908640d9f394EF37bC1b8c3a4018fa3dB1"
+  "applicantAddress": "0x386f6B908640d9f394EF37bC1b8c3a4018fa3dB1",
+  "pwIsFlagged": false,
+  "pwCategorySuggestions": "Tokenization Platforms, Decentralized Finance (DeFi), Cross-Chain Platforms, Smart Contract Platforms, Liquidity Exchange"
 }

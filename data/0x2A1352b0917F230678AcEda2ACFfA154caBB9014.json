@@ -37,8 +37,8 @@
   "applicantAddress": "0x2A1352b0917F230678AcEda2ACFfA154caBB9014",
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for spam and deceptive content as both the contribution and impact descriptions are repetitive and don't provide clear, genuine details of any actual contributions or impacts made.",
-  "recategorizeToType": "PROJECT",
-  "recategorizeReason": "NO, the application seems to be created by an individual, but the content provided is nonspecific and spam-like, hence it is hard to definitively categorize it.",
+  "pwRecategorizeToType": "PROJECT",
+  "pwRecategorizeReason": "NO, the application seems to be created by an individual, but the content provided is nonspecific and spam-like, hence it is hard to definitively categorize it.",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Developer Ecosystem, Web3 Community Platform",
   "pwCategory": "Developer Ecosystem"

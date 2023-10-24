@@ -46,8 +46,8 @@
   "RPGF3_Application_UID": "0x9d30e1a990477a7fe6e7c78b8bf2b04ef5d7531f6afff871eac03c44a0460986",
   "applicantAddress": "0xB9007730f3779a854A6FCF00332645fE5BfE35Fe",
   "pwIsFlagged": false,
-  "recategorizeToType": "INDIVIDUAL",
-  "recategorizeReason": "NO, it is not correctly categorized. The application is categorized as a \"PROJECT\" but the language used, such as \"I'm so happy\" and \"I feel very comfortable and confident\", indicates it's an individual.",
+  "pwRecategorizeToType": "INDIVIDUAL",
+  "pwRecategorizeReason": "NO, it is not correctly categorized. The application is categorized as a \"PROJECT\" but the language used, such as \"I'm so happy\" and \"I feel very comfortable and confident\", indicates it's an individual.",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Blockchain Infrastructure, Developer Ecosystem, User Experience & Adoption, Community Building",
   "pwCategory": "User Experience & Adoption"

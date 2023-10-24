@@ -48,5 +48,6 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x40539C7cc7b73755D60e3d524ed5D75927c5f4d6.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x40539C7cc7b73755D60e3d524ed5D75927c5f4d6.json",
   "RPGF3_Application_UID": "0x2113c4424cff81be38cd9b5930551d3bc27a6788c5a7fb6604b424506511b41d",
-  "applicantAddress": "0x40539C7cc7b73755D60e3d524ed5D75927c5f4d6"
+  "applicantAddress": "0x40539C7cc7b73755D60e3d524ed5D75927c5f4d6",
+  "pwCategorySuggestions": "Smart Contract Platforms, Layer 2 Scaling, Community Building, Developer Ecosystem, End-User Experience"
 }

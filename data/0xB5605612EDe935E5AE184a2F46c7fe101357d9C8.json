@@ -40,8 +40,8 @@
   "applicantAddress": "0xB5605612EDe935E5AE184a2F46c7fe101357d9C8",
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for promising future impact and potential violation of rule 10 as user interactions (staking) are not within the scope of RetroPGF.",
-  "recategorizeToType": "INDIVIDUAL",
-  "recategorizeReason": "NO, the application is categorized as a \"PROJECT\" but the language used throughout refers to a single person implying it should be categorized as an \"INDIVIDUAL\".",
+  "pwRecategorizeToType": "INDIVIDUAL",
+  "pwRecategorizeReason": "NO, the application is categorized as a \"PROJECT\" but the language used throughout refers to a single person implying it should be categorized as an \"INDIVIDUAL\".",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Community Building, Tokenization Platforms, Governance & Tokens, Cryptocurrency Services",
   "pwCategory": "Cryptocurrency Services"

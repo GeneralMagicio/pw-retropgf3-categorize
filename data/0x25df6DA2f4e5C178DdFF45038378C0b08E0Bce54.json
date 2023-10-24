@@ -91,5 +91,8 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x25df6DA2f4e5C178DdFF45038378C0b08E0Bce54.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x25df6DA2f4e5C178DdFF45038378C0b08E0Bce54.json",
   "RPGF3_Application_UID": "0x0fd702364b086485a727ee20c94abe75c1c916e9ad9c6dc17eff8c64487dfd8a",
-  "applicantAddress": "0x25df6DA2f4e5C178DdFF45038378C0b08E0Bce54"
+  "applicantAddress": "0x25df6DA2f4e5C178DdFF45038378C0b08E0Bce54",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "This application should be flagged because it promises future impact that violates the first rule - \"We will launch WTF on-chain certificates on optimism by the end of 2023.\".",
+  "pwCategorySuggestions": "Blockchain Education, Developer Ecosystem, Content Creation, Community Building, Decentralized Finance (DeFi)"
 }

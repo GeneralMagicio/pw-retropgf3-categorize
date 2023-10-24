@@ -40,8 +40,8 @@
   "applicantAddress": "0x5bed59AE93C8C940Ca42E44FC17Df139A8b8e30a",
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for promises of future impact. The applicant states they will \"do their best to keep optimism strong\" and \"one day optimism will become a powerful exchange platform,\" which are both future-focused statements not allowed under the grant rules.",
-  "recategorizeToType": "INDIVIDUAL",
-  "recategorizeReason": "NO, the application is categorized as a project but uses \"I\" indicating it should be an individual.",
+  "pwRecategorizeToType": "INDIVIDUAL",
+  "pwRecategorizeReason": "NO, the application is categorized as a project but uses \"I\" indicating it should be an individual.",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Web3 Community Platform",
   "pwCategory": "Web3 Community Platform"

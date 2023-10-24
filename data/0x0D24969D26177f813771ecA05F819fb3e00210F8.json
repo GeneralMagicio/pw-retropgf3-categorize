@@ -46,8 +46,8 @@
   "RPGF3_Application_UID": "0x2f74f8283aa86772d71ca5206545deddaaba12829e8cf630d0e6a7dcd66ba8c3",
   "applicantAddress": "0x0D24969D26177f813771ecA05F819fb3e00210F8",
   "pwIsFlagged": false,
-  "recategorizeToType": "INDIVIDUAL",
-  "recategorizeReason": "NO, the applicant talks about \"I\" and \"me\" indicating that it is an individual, not a project.",
+  "pwRecategorizeToType": "INDIVIDUAL",
+  "pwRecategorizeReason": "NO, the applicant talks about \"I\" and \"me\" indicating that it is an individual, not a project.",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Community Building, Content Creation, Blockchain Education",
   "pwCategory": "Community Building"

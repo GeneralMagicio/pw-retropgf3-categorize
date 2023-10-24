@@ -81,5 +81,6 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x52fb5461fb325C5F8D3e8443ec10527e32dA72e2.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x52fb5461fb325C5F8D3e8443ec10527e32dA72e2.json",
   "RPGF3_Application_UID": "0xb8eaf64a68197ba69868bcd9f8340c5ca66ca060428878199e8d9ee7849c896e",
-  "applicantAddress": "0x52fb5461fb325C5F8D3e8443ec10527e32dA72e2"
+  "applicantAddress": "0x52fb5461fb325C5F8D3e8443ec10527e32dA72e2",
+  "pwCategorySuggestions": "Blockchain Education, Decentralized Finance (DeFi), Non-Fungible Tokens (NFTs), Community Building"
 }

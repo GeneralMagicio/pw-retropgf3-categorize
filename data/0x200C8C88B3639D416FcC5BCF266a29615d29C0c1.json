@@ -64,5 +64,7 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x200C8C88B3639D416FcC5BCF266a29615d29C0c1.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x200C8C88B3639D416FcC5BCF266a29615d29C0c1.json",
   "RPGF3_Application_UID": "0xd4125ec1c05bcc71b24dd03b518681a9b5aef8ff46cfcabb951374bfae6ca855",
-  "applicantAddress": "0x200C8C88B3639D416FcC5BCF266a29615d29C0c1"
+  "applicantAddress": "0x200C8C88B3639D416FcC5BCF266a29615d29C0c1",
+  "pwIsFlagged": false,
+  "pwCategorySuggestions": "Decentralized Storage"
 }

@@ -66,5 +66,6 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x53352a00316573E8F52696C572F1293Ac877eF4d.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x53352a00316573E8F52696C572F1293Ac877eF4d.json",
   "RPGF3_Application_UID": "0x7b65040771f48fc39f1a8cea60c0b5d8eb89a87b8e3c62a364a746ce4e0e8cce",
-  "applicantAddress": "0x53352a00316573E8F52696C572F1293Ac877eF4d"
+  "applicantAddress": "0x53352a00316573E8F52696C572F1293Ac877eF4d",
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Smart Contract Platforms, Lending Protocol, Native Liquidity Market, Abstracted Smart Contracts"
 }

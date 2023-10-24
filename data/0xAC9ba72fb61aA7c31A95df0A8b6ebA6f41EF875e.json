@@ -43,8 +43,8 @@
   "RPGF3_Application_UID": "0xaf72f298c070d96e72345b7f99ee16da493018914aaac00a1db76fda08f5e9f9",
   "applicantAddress": "0xAC9ba72fb61aA7c31A95df0A8b6ebA6f41EF875e",
   "pwIsFlagged": false,
-  "recategorizeToType": "INDIVIDUAL",
-  "recategorizeReason": "NO. The applicant is described as the CEO of Cometh, which should make the applicantType \"INDIVIDUAL\", not \"PROJECT\".",
+  "pwRecategorizeToType": "INDIVIDUAL",
+  "pwRecategorizeReason": "NO. The applicant is described as the CEO of Cometh, which should make the applicantType \"INDIVIDUAL\", not \"PROJECT\".",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Layer 2 Scaling, Smart Contract Platforms, Blockchain Infrastructure, Governance & Tokens",
   "pwCategory": "Blockchain Infrastructure"

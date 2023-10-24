@@ -36,5 +36,8 @@
   "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x1Cb540697F6965De25662b83E94d797059dd9512.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x1Cb540697F6965De25662b83E94d797059dd9512.json",
   "RPGF3_Application_UID": "0x1428de65054aca29703ee946af2abd0024728ec8f50a7aabf47f89a6dcc09d0b",
-  "applicantAddress": "0x1Cb540697F6965De25662b83E94d797059dd9512"
+  "applicantAddress": "0x1Cb540697F6965De25662b83E94d797059dd9512",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "This application should be flagged for violating rule 2 (False statements & deception) as the applicant's claims about contributions towards \"Testing of all projects from optimism\" is too vague and lacks any provided proof, which may potentially be a false claim.",
+  "pwCategorySuggestions": "Developer Ecosystem, Tokenization Platforms, Community Building"
 }

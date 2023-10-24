@@ -10,9 +10,7 @@
       "description": "ahoy"
     }
   ],
-  "impactCategory": [
-    "OP_STACK"
-  ],
+  "impactCategory": ["OP_STACK"],
   "impactDescription": "This means public goods funding is a critical growth strategy. For Optimism, well-funded public goods means better developer tooling, widespread user education, safer infrastructure, and industry-leading research. It means Optimism can last and thrive.\nOnce we show that this model can drive a successful economy for the Optimism Collective, we can scale the principle of impact = profit to the world!",
   "impactMetrics": [
     {
@@ -36,8 +34,8 @@
   "RPGF3_Application_UID": "0x1a5e6955798de068a5e5e59aa8bde459f947e5b708e785fb3f755066aca6ddf9",
   "applicantAddress": "0x1295947FeFbd38124e783Dd78e4cD7f40a1519Da",
   "pwIsFlagged": false,
-  "recategorizeToType": "PROJECT",
-  "recategorizeReason": "NO, the application is not correctly categorized as it refers to \"we\" indicating it most likely is a project rather than an individual.",
+  "pwRecategorizeToType": "PROJECT",
+  "pwRecategorizeReason": "NO, the application is not correctly categorized as it refers to \"we\" indicating it most likely is a project rather than an individual.",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Blockchain Infrastructure, Community Building, Developer Ecosystem, Governance & Tokens, End-User Experience",
   "pwCategory": "Developer Ecosystem"

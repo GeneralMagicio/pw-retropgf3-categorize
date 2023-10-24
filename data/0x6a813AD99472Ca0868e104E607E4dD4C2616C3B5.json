@@ -77,5 +77,6 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x6a813AD99472Ca0868e104E607E4dD4C2616C3B5.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x6a813AD99472Ca0868e104E607E4dD4C2616C3B5.json",
   "RPGF3_Application_UID": "0xc3ad567e82145d15987c82efccc1aee7803bb69750cf221f2c68165c688c1878",
-  "applicantAddress": "0x6a813AD99472Ca0868e104E607E4dD4C2616C3B5"
+  "applicantAddress": "0x6a813AD99472Ca0868e104E607E4dD4C2616C3B5",
+  "pwCategorySuggestions": "Decentralized Oracles, Cross-Chain Platforms, Blockchain Gaming, Web3 Community Platform, Real-Time Data"
 }

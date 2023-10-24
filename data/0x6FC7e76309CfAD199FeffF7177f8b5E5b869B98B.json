@@ -44,8 +44,8 @@
   "RPGF3_Application_UID": "0x79ba7650af4b599a1edbde63e9d49936efec93afc94d5531c5e37c8543b50200",
   "applicantAddress": "0x6FC7e76309CfAD199FeffF7177f8b5E5b869B98B",
   "pwIsFlagged": false,
-  "recategorizeToType": "INDIVIDUAL",
-  "recategorizeReason": "NO, the application should be categorized as \"INDIVIDUAL\" as the applicant talks about personal actions like \"Got involved in\", \"Turned on notifications\", suggesting this application is made by an individual and not a project.",
+  "pwRecategorizeToType": "INDIVIDUAL",
+  "pwRecategorizeReason": "NO, the application should be categorized as \"INDIVIDUAL\" as the applicant talks about personal actions like \"Got involved in\", \"Turned on notifications\", suggesting this application is made by an individual and not a project.",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Layer 2 Scaling, NFTs, Decentralized Finance (DeFi), Social Media, Community Building",
   "pwCategory": "Blockchain Infrastructure"

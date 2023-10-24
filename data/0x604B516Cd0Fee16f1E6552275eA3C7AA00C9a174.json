@@ -38,8 +38,8 @@
   "RPGF3_Application_UID": "0x83dd20987371ccf1ce2f7472b92219f098cd89eaaaedf0a9e5c1f05c3a41b830",
   "applicantAddress": "0x604B516Cd0Fee16f1E6552275eA3C7AA00C9a174",
   "pwIsFlagged": false,
-  "recategorizeToType": "INDIVIDUAL",
-  "recategorizeReason": "NO, the application is not correctly categorized as it refers to \"I\" and \"me\" indicating it is from an individual, not a project.",
+  "pwRecategorizeToType": "INDIVIDUAL",
+  "pwRecategorizeReason": "NO, the application is not correctly categorized as it refers to \"I\" and \"me\" indicating it is from an individual, not a project.",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Smart Contract Platforms, Blockchain Infrastructure, Tokenization Platforms, Digital Identity",
   "pwCategory": "Decentralized Finance (DeFi)"

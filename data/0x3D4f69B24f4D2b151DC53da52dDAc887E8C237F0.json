@@ -49,5 +49,6 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x3D4f69B24f4D2b151DC53da52dDAc887E8C237F0.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x3D4f69B24f4D2b151DC53da52dDAc887E8C237F0.json",
   "RPGF3_Application_UID": "0x08b9ec609e8439ab3b9bc160283fad28078abca1cbee16bca0da822d240f27b4",
-  "applicantAddress": "0x3D4f69B24f4D2b151DC53da52dDAc887E8C237F0"
+  "applicantAddress": "0x3D4f69B24f4D2b151DC53da52dDAc887E8C237F0",
+  "pwCategorySuggestions": "Blockchain Social Platform, Cross-Chain Transactions, Mining Platform, Content Platform, Information Sharing"
 }

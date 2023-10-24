@@ -47,7 +47,7 @@
   "applicantAddress": "0x002748dB885D4CCfe3C7C92143f0805F4eBEEC01",
   "pwIsFlagged": false,
   "Applicant Type": "INDIVIDUAL",
-  "recategorizeReason": "NO, the application is miscategorized. The \"contributionDescription\" and \"impactDescription\" sections use \"I\" indicating an individual applicant, not a project.",
+  "pwRecategorizeReason": "NO, the application is miscategorized. The \"contributionDescription\" and \"impactDescription\" sections use \"I\" indicating an individual applicant, not a project.",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Developer Ecosystem, Education, Layer 2 Scaling, Tokenization Platforms, Content Creation",
   "pwCategory": "Education"

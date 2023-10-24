@@ -44,8 +44,8 @@
   "RPGF3_Application_UID": "0x01394b46f08162b82aa4975797ef24b2f906b313233c0222b9b8bee9c0f71525",
   "applicantAddress": "0x96c9ec696D4a44c1E6221638d0B9A27eF0b4A160",
   "pwIsFlagged": false,
-  "recategorizeToType": "PROJECT",
-  "recategorizeReason": "NO, the application should be categorized as \"PROJECT\" because it refers to collective actions, a website, and a user community, rather than individual actions or needs.",
+  "pwRecategorizeToType": "PROJECT",
+  "pwRecategorizeReason": "NO, the application should be categorized as \"PROJECT\" because it refers to collective actions, a website, and a user community, rather than individual actions or needs.",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Community Building, Decentralized Social Media, DeFi, NFTs, Governance & Tokens",
   "pwCategory": "Community Building"

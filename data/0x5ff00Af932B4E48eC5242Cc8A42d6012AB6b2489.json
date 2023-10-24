@@ -37,5 +37,6 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x5ff00Af932B4E48eC5242Cc8A42d6012AB6b2489.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x5ff00Af932B4E48eC5242Cc8A42d6012AB6b2489.json",
   "RPGF3_Application_UID": "0x88a83d3923cf38741e9a092503debc8148b803b233c869e3ee2c91b51abdbb6f",
-  "applicantAddress": "0x5ff00Af932B4E48eC5242Cc8A42d6012AB6b2489"
+  "applicantAddress": "0x5ff00Af932B4E48eC5242Cc8A42d6012AB6b2489",
+  "pwCategorySuggestions": "Community Building, Positive Impact, Support and Mentoring"
 }

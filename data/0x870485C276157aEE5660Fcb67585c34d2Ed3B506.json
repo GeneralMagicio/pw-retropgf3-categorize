@@ -45,8 +45,8 @@
   "RPGF3_Application_UID": "0x16f1b76aeb722cc447b037235e07298484bf79f7aab576794e925f03e37fd182",
   "applicantAddress": "0x870485C276157aEE5660Fcb67585c34d2Ed3B506",
   "pwIsFlagged": false,
-  "recategorizeToType": "INDIVIDUAL",
-  "recategorizeReason": "NO, the application uses \"I\" in the bio indicating it is an application from an individual, not a project.",
+  "pwRecategorizeToType": "INDIVIDUAL",
+  "pwRecategorizeReason": "NO, the application uses \"I\" in the bio indicating it is an application from an individual, not a project.",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Community Building, Governance & Tokens, End-User Experience, Blockchain Infrastructure, Decentralized Finance (DeFi)",
   "pwCategory": "Community Building"

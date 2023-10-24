@@ -39,5 +39,7 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x223060E066EeA8f58D4ed0cbabc627967d3acE6C.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x223060E066EeA8f58D4ed0cbabc627967d3acE6C.json",
   "RPGF3_Application_UID": "0x98ea31f260e244c20234a0a124d3c9b75ce60c08dad0b63d562e1d6b858be763",
-  "applicantAddress": "0x223060E066EeA8f58D4ed0cbabc627967d3acE6C"
+  "applicantAddress": "0x223060E066EeA8f58D4ed0cbabc627967d3acE6C",
+  "pwIsFlagged": false,
+  "pwCategorySuggestions": "Layer 2 Scaling, Smart Contract Platforms, Developer Ecosystem, Web3 Community Platform"
 }

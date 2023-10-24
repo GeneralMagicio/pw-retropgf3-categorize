@@ -99,5 +99,6 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x47a71c373e3F407f668509c2A6BD46911162bF56.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x47a71c373e3F407f668509c2A6BD46911162bF56.json",
   "RPGF3_Application_UID": "0x64c7ca00fc9414ad889721dd400f16c690d62bf1b01cb4202cf56dcd183be5d9",
-  "applicantAddress": "0x47a71c373e3F407f668509c2A6BD46911162bF56"
+  "applicantAddress": "0x47a71c373e3F407f668509c2A6BD46911162bF56",
+  "pwCategorySuggestions": "Community Building, Content Creation, End-User Experience, Translation Services"
 }

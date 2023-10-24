@@ -59,5 +59,7 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x0eB2F36C1ac5984B3769574F9Ff0c71B5922f26A.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x0eB2F36C1ac5984B3769574F9Ff0c71B5922f26A.json",
   "RPGF3_Application_UID": "0x3b9c2afa15af7f244fba23d13de2ffbd6d87968031ec84c54c28e1716a4dd12b",
-  "applicantAddress": "0x0eB2F36C1ac5984B3769574F9Ff0c71B5922f26A"
+  "applicantAddress": "0x0eB2F36C1ac5984B3769574F9Ff0c71B5922f26A",
+  "pwIsFlagged": false,
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Stablecoins, Layer 2 Scaling, Smart Contract Platforms, Governance & Tokens"
 }

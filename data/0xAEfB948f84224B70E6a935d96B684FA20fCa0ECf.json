@@ -39,8 +39,8 @@
   "applicantAddress": "0xAEfB948f84224B70E6a935d96B684FA20fCa0ECf",
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for false statements & deception, because the contribution and impact description are irrelevant and don't appear to be related to Web3/blockchain space.",
-  "recategorizeToType": "PROJECT",
-  "recategorizeReason": "NO, the application should be categorized as PROJECT since there is a contract address listed in the contribution links and the descriptions are related to a project (Goddess Venus) rather than an individual's efforts.",
+  "pwRecategorizeToType": "PROJECT",
+  "pwRecategorizeReason": "NO, the application should be categorized as PROJECT since there is a contract address listed in the contribution links and the descriptions are related to a project (Goddess Venus) rather than an individual's efforts.",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Content Creation, Community Building, User Experience & Adoption, Governance & Tokens, Developer Ecosystem",
   "pwCategory": "Community Building"

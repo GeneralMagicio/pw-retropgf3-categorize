@@ -41,5 +41,8 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x10e3fF372F586C11D565c673838F5D8d2110B8Aa.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x10e3fF372F586C11D565c673838F5D8d2110B8Aa.json",
   "RPGF3_Application_UID": "0x68d614af269519e416e7c7f551805a060ff13c6dd4fe574d1872c89da4bf7ebd",
-  "applicantAddress": "0x10e3fF372F586C11D565c673838F5D8d2110B8Aa"
+  "applicantAddress": "0x10e3fF372F586C11D565c673838F5D8d2110B8Aa",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "This application should be flagged because the contribution description and impact description are left empty.",
+  "pwCategorySuggestions": "Media Production, Content Creation"
 }

@@ -34,5 +34,8 @@
   "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x131C3DbD6837b08Ec9Ba5cdc69533Be0565fF94d.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x131C3DbD6837b08Ec9Ba5cdc69533Be0565fF94d.json",
   "RPGF3_Application_UID": "0x01f187392012585988088bfb074ced6c81fc007ea938ea6ca336568473e5f1f4",
-  "applicantAddress": "0x131C3DbD6837b08Ec9Ba5cdc69533Be0565fF94d"
+  "applicantAddress": "0x131C3DbD6837b08Ec9Ba5cdc69533Be0565fF94d",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "This application should be flagged for promises of future impact - the applicant commits to help and support the project in the future and expresses hope that the project will help them.",
+  "pwCategorySuggestions": "NFTs, Community Building, User Experience & Adoption, Content Creation, Cryptocurrency Services"
 }

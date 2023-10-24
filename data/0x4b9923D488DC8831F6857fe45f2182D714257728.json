@@ -41,5 +41,6 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x4b9923D488DC8831F6857fe45f2182D714257728.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x4b9923D488DC8831F6857fe45f2182D714257728.json",
   "RPGF3_Application_UID": "0x4b8c6393b1b16d6e969e48c2ee60802ea6bc32035bf026a3432f006cb77ce159",
-  "applicantAddress": "0x4b9923D488DC8831F6857fe45f2182D714257728"
+  "applicantAddress": "0x4b9923D488DC8831F6857fe45f2182D714257728",
+  "pwCategorySuggestions": "NFTs, Music, Content Creation, Community Building, User Experience & Adoption"
 }

@@ -39,8 +39,8 @@
   "applicantAddress": "0x50593C113fb168117a30823034E660A830FAefB4",
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged because it violates rule number 11, which states that applications in languages other than English are not allowed. The bio and contribution description are written in a language other than English.",
-  "recategorizeToType": "PROJECT",
-  "recategorizeReason": "NO, the application should be categorized as a PROJECT, not an INDIVIDUAL, based on the nature of the contribution and impact descriptions which focus on an initiative or project, rather than an individual's work.",
+  "pwRecategorizeToType": "PROJECT",
+  "pwRecategorizeReason": "NO, the application should be categorized as a PROJECT, not an INDIVIDUAL, based on the nature of the contribution and impact descriptions which focus on an initiative or project, rather than an individual's work.",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Cross-Chain Platforms, Smart Contract Platforms, Blockchain Infrastructure, Decentralized Finance (DeFi), User Experience & Adoption",
   "pwCategory": "Cross-Chain Platforms"

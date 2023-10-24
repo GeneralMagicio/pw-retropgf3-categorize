@@ -40,8 +40,8 @@
   "applicantAddress": "0x56b168C92D6Cf3E8f9fB5F4f874cedD3Cb349774",
   "pwIsFlagged": true,
   "pwFlaggedReason": "Flagged. The application violates rule 1, as it promises future impact and contributions for the Optimism network, but no existing or past contributions are listed.",
-  "recategorizeToType": "PROJECT",
-  "recategorizeReason": "NO, the person's bio, contribution and impact descriptions refer to the use of 'I', indicating that it is an individual applicant.",
+  "pwRecategorizeToType": "PROJECT",
+  "pwRecategorizeReason": "NO, the person's bio, contribution and impact descriptions refer to the use of 'I', indicating that it is an individual applicant.",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Community Building, Developer Ecosystem, Governance & Tokens, Smart Contract Platforms, Web3 Community Platform",
   "pwCategory": "Optimism Ambassador"

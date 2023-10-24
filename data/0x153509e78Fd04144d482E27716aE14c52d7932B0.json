@@ -40,8 +40,8 @@
   "applicantAddress": "0x153509e78Fd04144d482E27716aE14c52d7932B0",
   "pwIsFlagged": true,
   "pwFlaggedReason": "Flag the application - the contribution and impact descriptions are repetitive and vague, and don't clearly highlight a valid contribution to Optimism technology.",
-  "recategorizeToType": "INDIVIDUAL",
-  "recategorizeReason": "NO, it should be categorized as \"INDIVIDUAL\", because it repeatedly uses first person reference such as \"For me\" in the description.",
+  "pwRecategorizeToType": "INDIVIDUAL",
+  "pwRecategorizeReason": "NO, it should be categorized as \"INDIVIDUAL\", because it repeatedly uses first person reference such as \"For me\" in the description.",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Web3 Community Platform, Environmental Solutions",
   "pwCategory": "Web3 Community Platform"

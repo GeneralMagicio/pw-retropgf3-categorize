@@ -10,9 +10,7 @@
       "description": "Github"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "I believe in the power of cryptocurrency and the opportunities of freedom it provides and Optimism is one of those ways. While I may not be a developer, I am trying to use influence and high quality content, including relationship building, to bring a greater awareness of crypto around the world. And I believe it's a good work we can do across the board to better us as a society. And I hope that continues to build within the collective.",
   "impactMetrics": [
     {
@@ -36,8 +34,8 @@
   "RPGF3_Application_UID": "0x02a9c34a468d33bc28a5f434f7116eb92137e65e34d75ab1ceab0aa3c67c65ab",
   "applicantAddress": "0xf99D5eE251872549dA31DbC5882D0920cbAF80AF",
   "pwIsFlagged": false,
-  "recategorizeToType": "PROJECT",
-  "recategorizeReason": "NO, the use of \"we\" in the bio indicates this might be a group or project, not an individual.",
+  "pwRecategorizeToType": "PROJECT",
+  "pwRecategorizeReason": "NO, the use of \"we\" in the bio indicates this might be a group or project, not an individual.",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Community Building, Content Creation, Web3 Community Platform, Cryptocurrency Services, Media Production",
   "pwCategory": "Community Building"

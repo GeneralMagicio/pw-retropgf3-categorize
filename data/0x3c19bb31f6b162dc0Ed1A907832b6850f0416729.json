@@ -49,5 +49,6 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x3c19bb31f6b162dc0Ed1A907832b6850f0416729.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x3c19bb31f6b162dc0Ed1A907832b6850f0416729.json",
   "RPGF3_Application_UID": "0x55af1d5590fa0291acaa0ece75dacf7acf8977a753354e59610c2129712ab591",
-  "applicantAddress": "0x3c19bb31f6b162dc0Ed1A907832b6850f0416729"
+  "applicantAddress": "0x3c19bb31f6b162dc0Ed1A907832b6850f0416729",
+  "pwCategorySuggestions": "Decentralized Collaboration, Web3 Native Protocol, Resource Allocation, Trust and Transparency, DAO Integration"
 }

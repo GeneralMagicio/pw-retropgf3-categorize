@@ -10,10 +10,7 @@
       "description": "Application UX Research"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM",
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "A good app UX may influence people to use other OP Mainnet apps.\nUX Audits help application developers better serve their target audience.\nEvery audit includes suggestions to improve the Web3 experience of the DApp, developers and product owners can use this information to provide better experiences to their users, increase traffic and DApp usage, which should also reflect to positive user adoption. ",
   "impactMetrics": [
     {
@@ -36,8 +33,8 @@
   "RPGF3_Application_UID": "0x4a9fce27c66e104b86ebb868d1811b3c4b3b66d4332eba4a83c50838ba231c99",
   "applicantAddress": "0x6D97d65aDfF6771b31671443a6b9512104312d3D",
   "pwIsFlagged": false,
-  "recategorizeToType": "INDIVIDUAL",
-  "recategorizeReason": "NO, it should be categorized as \"INDIVIDUAL\" because the application is from a person named Marko and he refers to his work using \"I\" in the impact description.",
+  "pwRecategorizeToType": "INDIVIDUAL",
+  "pwRecategorizeReason": "NO, it should be categorized as \"INDIVIDUAL\" because the application is from a person named Marko and he refers to his work using \"I\" in the impact description.",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "User Experience & Adoption",
   "pwCategory": "User Experience & Adoption"

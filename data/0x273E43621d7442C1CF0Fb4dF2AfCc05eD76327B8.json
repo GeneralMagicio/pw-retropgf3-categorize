@@ -43,5 +43,8 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x273E43621d7442C1CF0Fb4dF2AfCc05eD76327B8.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x273E43621d7442C1CF0Fb4dF2AfCc05eD76327B8.json",
   "RPGF3_Application_UID": "0xda198a8a71671711a0a40d53ef8f45e9fd90313c38713403381936c825094a16",
-  "applicantAddress": "0x273E43621d7442C1CF0Fb4dF2AfCc05eD76327B8"
+  "applicantAddress": "0x273E43621d7442C1CF0Fb4dF2AfCc05eD76327B8",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "The application should be flagged for violating the Grant program rule 1: Promises of future impact. The application promises the release of substantial application updates and hints at a large audience base in future, without providing concrete measurable impact.",
+  "pwCategorySuggestions": "Layer 2 Scaling, Smart Contract Platforms, Web3 Community Platform, Blockchain Infrastructure"
 }

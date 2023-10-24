@@ -37,5 +37,6 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x48538A4804593E9E3996065083280F9b43d8DAAD.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x48538A4804593E9E3996065083280F9b43d8DAAD.json",
   "RPGF3_Application_UID": "0xbbc0e9a4f0b77045483b4f03a51c9ba6de6317ba051eb0690bce96bcf08c04c4",
-  "applicantAddress": "0x48538A4804593E9E3996065083280F9b43d8DAAD"
+  "applicantAddress": "0x48538A4804593E9E3996065083280F9b43d8DAAD",
+  "pwCategorySuggestions": "Layer 2 Scaling, Developer Ecosystem, Documentation & Education, Community Engagement, Advocacy & Adoption"
 }

@@ -10,9 +10,7 @@
       "description": "dfsdfsdfsdf"
     }
   ],
-  "impactCategory": [
-    "OP_STACK"
-  ],
+  "impactCategory": ["OP_STACK"],
   "impactDescription": "Describe your contribution(s) to Optimism\nPlease share the contributions you wish to receive RetroPGF for.Describe your contribution(s) to Optimism\nPlease share the contributions you wish to receive RetroPGF for.Describe your contribution(s) to Optimism\nPlease share the contributions you wish to receive RetroPGF for.Describe your contribution(s) to Optimism\nPlease share the contributions you wish to receive RetroPGF for.",
   "impactMetrics": [
     {
@@ -37,8 +35,8 @@
   "applicantAddress": "0x457A223A59de9F7311c5d9af84bF81eF55C87735",
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for Spam and False statements & deception as it provides irrelevant and repeated placeholder text in place of actual descriptions of their contributions and impact in the Web3/blockchain space.",
-  "recategorizeToType": "INDIVIDUAL",
-  "recategorizeReason": "NO. This application is flagged as spam and contains repeated placeholder text rather than any specific details indicating it's a project.",
+  "pwRecategorizeToType": "INDIVIDUAL",
+  "pwRecategorizeReason": "NO. This application is flagged as spam and contains repeated placeholder text rather than any specific details indicating it's a project.",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Smart Contract Platforms",
   "pwCategory": "Smart Contract Platforms"

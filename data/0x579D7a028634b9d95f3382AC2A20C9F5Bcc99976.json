@@ -39,5 +39,6 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x579D7a028634b9d95f3382AC2A20C9F5Bcc99976.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x579D7a028634b9d95f3382AC2A20C9F5Bcc99976.json",
   "RPGF3_Application_UID": "0xc5e329a9f4b232618fe38dc93b49c64bd3d34d99dff253dd64ffef7daf683b76",
-  "applicantAddress": "0x579D7a028634b9d95f3382AC2A20C9F5Bcc99976"
+  "applicantAddress": "0x579D7a028634b9d95f3382AC2A20C9F5Bcc99976",
+  "pwCategorySuggestions": "Decentralized Oracles, DeFi, Web3 Integration"
 }

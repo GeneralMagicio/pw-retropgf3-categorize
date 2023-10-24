@@ -152,5 +152,6 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x556c178B5f1793B8a626eA57FbBA79010b4370Bd.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x556c178B5f1793B8a626eA57FbBA79010b4370Bd.json",
   "RPGF3_Application_UID": "0x676eecad0c79cd04879698642e58d5fa8d5aa3d1b6ec2eed641978466334a9a2",
-  "applicantAddress": "0x556c178B5f1793B8a626eA57FbBA79010b4370Bd"
+  "applicantAddress": "0x556c178B5f1793B8a626eA57FbBA79010b4370Bd",
+  "pwCategorySuggestions": "Decentralized Exchanges (DEXs), Limit Orders, Swap Aggregator, DAO Governance, Liquidity Mining"
 }

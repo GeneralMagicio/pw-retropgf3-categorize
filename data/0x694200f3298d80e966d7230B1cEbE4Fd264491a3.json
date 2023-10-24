@@ -46,5 +46,6 @@
   "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x694200f3298d80e966d7230B1cEbE4Fd264491a3.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x694200f3298d80e966d7230B1cEbE4Fd264491a3.json",
   "RPGF3_Application_UID": "0x9dc2727e3e77e3363dd48977ad3330d87f2eca02fbdbeb16ec63e025ee220f40",
-  "applicantAddress": "0x694200f3298d80e966d7230B1cEbE4Fd264491a3"
+  "applicantAddress": "0x694200f3298d80e966d7230B1cEbE4Fd264491a3",
+  "pwCategorySuggestions": "Content Creation, Community Building, User Experience & Adoption, Media Production, Cryptocurrency Services"
 }

@@ -80,5 +80,6 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x57EA12A3A8E441f5FE7B1F3Af1121097b7d3B6A8.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x57EA12A3A8E441f5FE7B1F3Af1121097b7d3B6A8.json",
   "RPGF3_Application_UID": "0x488ecb65fbc1b1f66c7723a9b30424f10292beb3d130e5ae6f6b18117763035d",
-  "applicantAddress": "0x57EA12A3A8E441f5FE7B1F3Af1121097b7d3B6A8"
+  "applicantAddress": "0x57EA12A3A8E441f5FE7B1F3Af1121097b7d3B6A8",
+  "pwCategorySuggestions": "Privacy-preserving payments, Stealth address protocol, EVM networks, Layer 2 scaling, Privacy infrastructure"
 }

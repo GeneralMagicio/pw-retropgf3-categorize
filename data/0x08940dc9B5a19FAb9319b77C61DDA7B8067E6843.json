@@ -32,5 +32,7 @@
   "applicantName": "Sunny",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x08940dc9B5a19FAb9319b77C61DDA7B8067E6843.json",
   "RPGF3_Application_UID": "0xfa0b87d5b056e4e5b860b560543e0ec8f1628d189d9dabc41046ae7ef763d39d",
-  "applicantAddress": "0x08940dc9B5a19FAb9319b77C61DDA7B8067E6843"
+  "applicantAddress": "0x08940dc9B5a19FAb9319b77C61DDA7B8067E6843",
+  "pwIsFlagged": false,
+  "pwCategorySuggestions": "Smart Contract Platforms, Trading Tools, User Experience & Adoption"
 }

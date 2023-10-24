@@ -155,5 +155,7 @@
   "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x1e3a41F770219e03649b434b4c1E07850DfCFf66.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x1e3a41F770219e03649b434b4c1E07850DfCFf66.json",
   "RPGF3_Application_UID": "0xefe128594155a47fd209ddfb9340d0bfb9aa72f7214be78febb9deb80307038d",
-  "applicantAddress": "0x1e3a41F770219e03649b434b4c1E07850DfCFf66"
+  "applicantAddress": "0x1e3a41F770219e03649b434b4c1E07850DfCFf66",
+  "pwIsFlagged": false,
+  "pwCategorySuggestions": "Community Building, Web3 Community Platform, Social Media Promotion, Education & Awareness, Networking"
 }

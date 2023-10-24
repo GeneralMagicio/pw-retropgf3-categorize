@@ -39,8 +39,8 @@
   "RPGF3_Application_UID": "0xa41f21d22aeef9b272ad4b642f8bd3bd10193d082e1cc1534ab212b176be0994",
   "applicantAddress": "0x72C37139807e3b302a69f7cB01a8726339201A85",
   "pwIsFlagged": false,
-  "recategorizeToType": "PROJECT",
-  "recategorizeReason": "NO, it is not correctly categorized. The application talks about a project \"Optimism\" which indicates that it should be categorized as \"PROJECT\", not \"INDIVIDUAL\".",
+  "pwRecategorizeToType": "PROJECT",
+  "pwRecategorizeReason": "NO, it is not correctly categorized. The application talks about a project \"Optimism\" which indicates that it should be categorized as \"PROJECT\", not \"INDIVIDUAL\".",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Community Building, Governance & Tokens, Smart Contract Platforms, Developer Ecosystem, End-User Experience",
   "pwCategory": "Community Building"

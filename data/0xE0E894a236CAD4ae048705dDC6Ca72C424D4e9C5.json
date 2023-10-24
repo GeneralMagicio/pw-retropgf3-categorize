@@ -10,10 +10,7 @@
       "description": "Channel"
     }
   ],
-  "impactCategory": [
-    "COLLECTIVE_GOVERNANCE",
-    "OP_STACK"
-  ],
+  "impactCategory": ["COLLECTIVE_GOVERNANCE", "OP_STACK"],
   "impactDescription": "I've done posts on my telegram channel and tweeter, I also help newbies and advise to use Optimism specifically for convenient and safe storage of money and as a great option for exchange . I and my friends in the crypto world like this project a lot",
   "impactMetrics": [
     {
@@ -37,8 +34,8 @@
   "applicantAddress": "0xE0E894a236CAD4ae048705dDC6Ca72C424D4e9C5",
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for violating the program rules 10.1 and 10.2 as the applicant states that their contribution is sending transactions and voting in governance, which are user interactions that are explicitly stated as not in scope for RetroPGF 3.",
-  "recategorizeToType": "INDIVIDUAL",
-  "recategorizeReason": "NO. The application is from an individual, not a project, as indicated by the use of \"I\" in the description of contributions and impact.",
+  "pwRecategorizeToType": "INDIVIDUAL",
+  "pwRecategorizeReason": "NO. The application is from an individual, not a project, as indicated by the use of \"I\" in the description of contributions and impact.",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Community Building, Developer Ecosystem, Governance & Tokens, User Experience & Adoption, Blockchain Infrastructure",
   "pwCategory": "Community Building"

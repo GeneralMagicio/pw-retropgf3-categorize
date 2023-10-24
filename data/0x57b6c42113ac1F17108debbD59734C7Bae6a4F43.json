@@ -39,8 +39,8 @@
   "applicantAddress": "0x57b6c42113ac1F17108debbD59734C7Bae6a4F43",
   "pwIsFlagged": true,
   "pwFlaggedReason": "Flag the application. The contribution and impact descriptions do not clearly establish the applicant's track record or direct involvement in the project but appear to reiterate basic information about the Optimism project. The applicant doesn't provide specific detail on how they have contributed to the space.",
-  "recategorizeToType": "INDIVIDUAL",
-  "recategorizeReason": "NO, it is not correctly categorized. The application is categorized as a \"PROJECT,\" but the phrases \"I want whale in op sure ill did it one day\" and \"Fan of op\" make it clear that this is an INDIVIDUAL applicant.",
+  "pwRecategorizeToType": "INDIVIDUAL",
+  "pwRecategorizeReason": "NO, it is not correctly categorized. The application is categorized as a \"PROJECT,\" but the phrases \"I want whale in op sure ill did it one day\" and \"Fan of op\" make it clear that this is an INDIVIDUAL applicant.",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Layer 2 Scaling, Governance Tokens, Smart Contract Platforms, Blockchain Infrastructure, Developer Ecosystem",
   "pwCategory": "Governance & Tokens"

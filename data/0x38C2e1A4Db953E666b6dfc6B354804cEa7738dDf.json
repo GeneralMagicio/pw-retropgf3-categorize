@@ -113,5 +113,6 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x38C2e1A4Db953E666b6dfc6B354804cEa7738dDf.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x38C2e1A4Db953E666b6dfc6B354804cEa7738dDf.json",
   "RPGF3_Application_UID": "0xaac8bf562763b22059e11cc682e7f72aa25a233ef47d37c1699514ed28833f14",
-  "applicantAddress": "0x38C2e1A4Db953E666b6dfc6B354804cEa7738dDf"
+  "applicantAddress": "0x38C2e1A4Db953E666b6dfc6B354804cEa7738dDf",
+  "pwCategorySuggestions": "Content Creation, Community Building, User Experience & Adoption, NFT Aggregator, Media Production"
 }

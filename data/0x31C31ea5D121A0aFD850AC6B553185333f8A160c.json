@@ -97,5 +97,7 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x31C31ea5D121A0aFD850AC6B553185333f8A160c.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x31C31ea5D121A0aFD850AC6B553185333f8A160c.json",
   "RPGF3_Application_UID": "0xd75a5bad6fcce7c0b50b8e9a0470a7b29a7ebbcdc0adc455d0ca6ef40b7a7e92",
-  "applicantAddress": "0x31C31ea5D121A0aFD850AC6B553185333f8A160c"
+  "applicantAddress": "0x31C31ea5D121A0aFD850AC6B553185333f8A160c",
+  "pwIsFlagged": false,
+  "pwCategorySuggestions": "DEX Aggregator, Cross-Chain Swap Aggregator, Swap Product Suite, Decentralized Finance (DeFi), Blockchain Infrastructure"
 }

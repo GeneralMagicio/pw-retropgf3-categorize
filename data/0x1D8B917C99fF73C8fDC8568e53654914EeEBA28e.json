@@ -10,9 +10,7 @@
       "description": "Proxy address: 0x58BeF46d0b236bAa46cc364D1B5deBD6B138A60c"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Anotherworld will create an ancient world, introducing characters from Xia, Shang, Zhou and other dynasties, and giving biographies to the characters and even surrounding physical items. Bringing antique-loving users into the crypto world.\n\nThis idea comes from a very popular movie in China this year called \"Chang'an 30,000 Miles\". The box office of this movie reached 250 million US dollars. After watching the movie, I immediately bought the accompanying \"Chang'an 30,000 Miles\" art set. I think Chinese users have demand for ancient style NFT PFP, even though the NFT market is currently in a downturn.",
   "impactMetrics": [
     {
@@ -40,8 +38,8 @@
   "RPGF3_Application_UID": "0xa60d5995977ccb1b8da24c8c00fa98178624478ada1a220368eae12b0b89e38a",
   "applicantAddress": "0x1D8B917C99fF73C8fDC8568e53654914EeEBA28e",
   "pwIsFlagged": false,
-  "recategorizeToType": "PROJECT",
-  "recategorizeReason": "NO, the application should be categorized as \"PROJECT\" because it refers to \"anotherworld\" which is a Chinese-style PFP NFT project on Optimism.",
+  "pwRecategorizeToType": "PROJECT",
+  "pwRecategorizeReason": "NO, the application should be categorized as \"PROJECT\" because it refers to \"anotherworld\" which is a Chinese-style PFP NFT project on Optimism.",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "NFTs, Chinese Elements, Cryptocurrency Adoption, Cultural Art, Ancient World",
   "pwCategory": "Non-Fungible Tokens (NFTs)"

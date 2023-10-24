@@ -32,5 +32,6 @@
   "applicantName": "Dmitry Fridman",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x44fF3B3a4E4B7dD45C6d26A087cE6d6d5CE60610.json",
   "RPGF3_Application_UID": "0xdee3438a1795b1e0bb722c1295be157a696e39386a91c3644d0d6b6dc3f39461",
-  "applicantAddress": "0x44fF3B3a4E4B7dD45C6d26A087cE6d6d5CE60610"
+  "applicantAddress": "0x44fF3B3a4E4B7dD45C6d26A087cE6d6d5CE60610",
+  "pwCategorySuggestions": "NFTs, Decentralized Finance (DeFi), Blockchain Gaming, User Experience & Adoption, Web3 Community Platform"
 }

@@ -109,5 +109,7 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x28bB9385A588EF4747264D19B9A9F1603591680c.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x28bB9385A588EF4747264D19B9A9F1603591680c.json",
   "RPGF3_Application_UID": "0xe2e2f6f6ca6631af544462d867d1fd09f56182c4963ffd6be35dc3651df5ce86",
-  "applicantAddress": "0x28bB9385A588EF4747264D19B9A9F1603591680c"
+  "applicantAddress": "0x28bB9385A588EF4747264D19B9A9F1603591680c",
+  "pwIsFlagged": false,
+  "pwCategorySuggestions": "Developer Platform, Middleware Services, Optimism Integration, Rollup Deployment, Developer Incentives"
 }

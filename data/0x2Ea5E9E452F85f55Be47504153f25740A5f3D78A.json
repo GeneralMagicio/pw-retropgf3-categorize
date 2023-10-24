@@ -10,9 +10,7 @@
       "description": "twitter"
     }
   ],
-  "impactCategory": [
-    "COLLECTIVE_GOVERNANCE"
-  ],
+  "impactCategory": ["COLLECTIVE_GOVERNANCE"],
   "impactDescription": "Let more people know the blockchain, understand the operation of Optimism, and actively participate in community governance. Promote the blockchain so that more people can use it. If they have any difficulties in using it, we will help them solve the problem.",
   "impactMetrics": [
     {
@@ -35,8 +33,8 @@
   "RPGF3_Application_UID": "0x03a28a0edff1fa90f03f65a75b3864f5023cccfd9853325c8175af887ddf805a",
   "applicantAddress": "0x2Ea5E9E452F85f55Be47504153f25740A5f3D78A",
   "pwIsFlagged": false,
-  "recategorizeToType": "PROJECT",
-  "recategorizeReason": "NO, the application is incorrectly categorized as it refers to \"we will help them solve the problem\" suggesting a group or project effort rather than an individual's contribution.",
+  "pwRecategorizeToType": "PROJECT",
+  "pwRecategorizeReason": "NO, the application is incorrectly categorized as it refers to \"we will help them solve the problem\" suggesting a group or project effort rather than an individual's contribution.",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Community Building, User Experience & Adoption, Governance & Tokens, Developer Ecosystem",
   "pwCategory": "Education"

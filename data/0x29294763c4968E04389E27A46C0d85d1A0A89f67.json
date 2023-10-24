@@ -43,5 +43,8 @@
   "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x29294763c4968E04389E27A46C0d85d1A0A89f67.jpeg",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x29294763c4968E04389E27A46C0d85d1A0A89f67.json",
   "RPGF3_Application_UID": "0x4f0eea478dab2a7ceaaf01db93b24eb7da6619bf970b65c6df64e406a3ff9da3",
-  "applicantAddress": "0x29294763c4968E04389E27A46C0d85d1A0A89f67"
+  "applicantAddress": "0x29294763c4968E04389E27A46C0d85d1A0A89f67",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "Flagged: The applicant primarily focuses on personal profits, without any clear contribution or measurable impact in the Web3/blockchain space.",
+  "pwCategorySuggestions": "NFTs, Layer 2 Scaling, DeFi, Tokenization Platforms, Security"
 }

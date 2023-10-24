@@ -10,9 +10,7 @@
       "description": "Yoyo"
     }
   ],
-  "impactCategory": [
-    "OP_STACK"
-  ],
+  "impactCategory": ["OP_STACK"],
   "impactDescription": "optimism dan berjalan dengan baik bla bla bla saya sangat suka dengan project ini god project sir airdrop optimism Pekerjaan yang memberikan dampak kepada pengguna akhir di optimism collective, atau membantu mendatangkan pengguna akhir baru ke dalam Kolekhir",
   "impactMetrics": [
     {
@@ -37,8 +35,8 @@
   "applicantAddress": "0x49fA373cE8941caD254E57C03d54ef4107831EBE",
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for containing content in a language other than English, which is against the rule number 11.",
-  "recategorizeToType": "INDIVIDUAL",
-  "recategorizeReason": "NO, it is not correctly categorized. The application mentions \"kami\" which means \"we\" in Indonesian but also uses personal pronouns such as \"saya\" which means \"I\", indicating this could be an application from an individual rather than a project.",
+  "pwRecategorizeToType": "INDIVIDUAL",
+  "pwRecategorizeReason": "NO, it is not correctly categorized. The application mentions \"kami\" which means \"we\" in Indonesian but also uses personal pronouns such as \"saya\" which means \"I\", indicating this could be an application from an individual rather than a project.",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Community Building, Developer Ecosystem, User Experience & Adoption, Tokenization Platforms, Web3 Community Platform",
   "pwCategory": "Community Building"

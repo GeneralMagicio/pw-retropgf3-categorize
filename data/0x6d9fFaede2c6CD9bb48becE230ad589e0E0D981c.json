@@ -67,5 +67,6 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x6d9fFaede2c6CD9bb48becE230ad589e0E0D981c.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x6d9fFaede2c6CD9bb48becE230ad589e0E0D981c.json",
   "RPGF3_Application_UID": "0x003239811ce4c367c667c7dc5b2609ba416e50888d38e0b7b4016fb05af98673",
-  "applicantAddress": "0x6d9fFaede2c6CD9bb48becE230ad589e0E0D981c"
+  "applicantAddress": "0x6d9fFaede2c6CD9bb48becE230ad589e0E0D981c",
+  "pwCategorySuggestions": "Decentralized Social Network, Web3 Integration, User Engagement, Power Users, Farcaster"
 }

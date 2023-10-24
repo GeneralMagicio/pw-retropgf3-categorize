@@ -79,5 +79,7 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x0ef1E49E3C9A608b5c69e88623191A8b197729cC.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x0ef1E49E3C9A608b5c69e88623191A8b197729cC.json",
   "RPGF3_Application_UID": "0xd2de2774bd9ffe36fdcab675bd37e2193f18a087253b0859ddfd1966e103c52a",
-  "applicantAddress": "0x0ef1E49E3C9A608b5c69e88623191A8b197729cC"
+  "applicantAddress": "0x0ef1E49E3C9A608b5c69e88623191A8b197729cC",
+  "pwIsFlagged": false,
+  "pwCategorySuggestions": "Layer 2 Scaling, Web3 Community Platform, Token Tracking Platforms, Blockchain Infrastructure, User Experience & Adoption"
 }

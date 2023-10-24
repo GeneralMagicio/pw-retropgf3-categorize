@@ -10,10 +10,7 @@
       "description": " providing operations functions to interact on Uniswap v3 pools."
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM",
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "The introduction of this smart contract on the Optimism network has several significant impacts on the Optimism Collective. It brings increased efficiency and cost savings, reducing transaction costs for users. This makes DeFi activities more accessible and appealing. Developers now have a powerful tool to create automated trading strategies, integrate with DeFi platforms, provide liquidity, and explore arbitrage opportunities. This expands the range of applications within the ecosystem.\nThe contract's ability to provide liquidity to Uniswap v3 pools enhances overall trading experiences, reducing slippage. Customizable trading logic allows for innovation in DeFi strategies, tailoring solutions to specific market conditions.",
   "impactMetrics": [
     {
@@ -44,8 +41,8 @@
   "RPGF3_Application_UID": "0xa76d07e271c9fcb4f0b0944fd1fbb47bdb85f31d7b2f67846f16a2ab558635c2",
   "applicantAddress": "0xFaaBdFEcC4CEB7c069357558d503465177DBB8A1",
   "pwIsFlagged": false,
-  "recategorizeToType": "PROJECT",
-  "recategorizeReason": "NO. The application is from an individual, but the nature of the contributions, notably the development of a smart contract, a more complex product usually created by teams or projects, suggests that this might be better categorized as a PROJECT.",
+  "pwRecategorizeToType": "PROJECT",
+  "pwRecategorizeReason": "NO. The application is from an individual, but the nature of the contributions, notably the development of a smart contract, a more complex product usually created by teams or projects, suggests that this might be better categorized as a PROJECT.",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Smart Contract Platforms, Decentralized Finance (DeFi), Liquidity Provision, Automated Trading Strategies, Arbitrage Opportunities",
   "pwCategory": "Smart Contract Platforms"

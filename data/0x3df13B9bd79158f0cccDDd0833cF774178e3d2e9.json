@@ -448,5 +448,6 @@
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x3df13B9bd79158f0cccDDd0833cF774178e3d2e9.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x3df13B9bd79158f0cccDDd0833cF774178e3d2e9.json",
   "RPGF3_Application_UID": "0xf451d8a3046d53c14c1ccbeca4b8f082cc08b08434a510226efcc9d48a55c954",
-  "applicantAddress": "0x3df13B9bd79158f0cccDDd0833cF774178e3d2e9"
+  "applicantAddress": "0x3df13B9bd79158f0cccDDd0833cF774178e3d2e9",
+  "pwCategorySuggestions": "Tokenization Platforms, Content Creation, Community Building, Education, End-User Experience"
 }
