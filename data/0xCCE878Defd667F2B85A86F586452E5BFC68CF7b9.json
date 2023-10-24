@@ -1,0 +1,49 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://dittonetwork.io/",
+  "bio": "Web3 builder\nex-Mckinsey, ex-VC\n",
+  "contributionDescription": "How Ditto Network can help Optimism to introduce new automation experience:\n1) Use Ditto Intuitive platform to Automate any combination of transactions and interactions with decentralized applications on Optimism.  \n2) Choose any time based or event based trigger to define when actions need to be executed.  \n3) Ditto provides for scheduled transactions our own decentralized network of task keepers with the highest levels of security and reliability.\n\nWhy Optimism Ecosystem will benefit?\nRemoving barriers to entry and expand possible use cases and experience\n\n\n",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://dittonetwork.io/",
+      "description": "website"
+    }
+  ],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "Ditto Network's collaboration with Optimism can encompass the provision of a comprehensive automation infrastructure. Supporting developers with a suite of tools and resources to seamlessly integrate Ditto's automation capabilities into their projects, unlocking a new level of efficiency and functionality. ",
+  "impactMetrics": [
+    {
+      "description": "number of wallets interacted",
+      "number": 1000,
+      "url": "https://app.dittonetwork.io/"
+    },
+    {
+      "description": "transaction volume $m",
+      "number": 5,
+      "url": "https://app.dittonetwork.io/"
+    },
+    {
+      "description": "TVL $m",
+      "number": 1,
+      "url": "https://app.dittonetwork.io/"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0xcb23301FdCEa774A163bACBA740867bB8615180d",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Ditto Network",
+  "applicantName": "Vlad Shad",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xCCE878Defd667F2B85A86F586452E5BFC68CF7b9.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xCCE878Defd667F2B85A86F586452E5BFC68CF7b9.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xCCE878Defd667F2B85A86F586452E5BFC68CF7b9.json",
+  "RPGF3_Application_UID": "0x9a0b45bb9d849b162dbf38251fea2278f8cd8e0797ba61dba87a31b2dc8c6965",
+  "applicantAddress": "0xCCE878Defd667F2B85A86F586452E5BFC68CF7b9"
+}

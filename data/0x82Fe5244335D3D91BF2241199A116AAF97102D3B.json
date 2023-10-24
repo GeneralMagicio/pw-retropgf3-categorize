@@ -1,0 +1,97 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://humpysgold.eth.limo",
+  "bio": "Golden Boys is a collective of DeFi builders led by Humpy the famous whale. Our community driven project develops a rich DeFi ecosystem on Base.",
+  "contributionDescription": "Golden Boys ($GOLD) isn't just another DeFi project; it's a sanctuary for seasoned DeFi enthusiasts, developers, and marketers. Led by the renowned whale, Humpy, and featuring web3 experts from Consensys, Balancer, Badger, and Aura, we're not just here for the short game. We've weathered DeFi's ups and downs and are committed to building something enduring.\n\nOur mission transcends just building products; we aim to cultivate a vibrant, supportive community on Base. \n\nWhy are we so dedicated, even working below our usual rates? Because we've found a home—a place free from the \"wen moon\" mentality, where newcomers eager to learn can truly flourish. We're not just managing the waves of BS; we're setting a new standard for what a DeFi community can be.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://basescan.org/address/0xbeFD5C25A59ef2C1316c5A4944931171F30Cd3E4#code",
+      "description": "The Golden Boys $GOLD token contract."
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/HumpysGold/pounder",
+      "description": "Codebase for an optimized autocompounder vault inspired by Badger's GraviAura"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/HumpysGold/gold-otf",
+      "description": "OTF (Layer-0) Implementation of $GOLD"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/HumpysGold",
+      "description": "Project Github Repo"
+    }
+  ],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "1. Developer Ecosystem growth\nThe Golden Boys project has brought 6 Web3 developers (representing the full stack) into the Optimism ecosystem. Our development team have contributed to Balancer, Badger, and other leading DeFi protocols. The launch of Golden Boys on Base has crystallized our activity on the OP stack and created a committed team of developers who are new to the Optimism Collective. We are excited to help build the DeFi ecosystem on Base.\n\nEnd User Experience & Adoption\nGolden Boys has brought hundreds of new users to Base. Many of these members bridged to Base the first time to participate. Our project has developed the deepest WETH/USDC liquidity on Base, a necessary asset to future growth on Base. \n\nA major DeFi player, Humpy, has also come to Base as our founder.",
+  "impactMetrics": [
+    {
+      "description": "# of smart contracts on Base",
+      "number": 4,
+      "url": "https://github.com/HumpysGold"
+    },
+    {
+      "description": "# of contributing developers",
+      "number": 5,
+      "url": "https://github.com/HumpysGold"
+    },
+    {
+      "description": "USDC/WETH Liquidity",
+      "number": 1161730,
+      "url": "https://app.balancer.fi/#/base/pool/0x433f09ca08623e48bac7128b7105de678e37d988000100000000000000000047"
+    },
+    {
+      "description": "Community Members",
+      "number": 725,
+      "url": "https://t.me/goldenboysportal"
+    },
+    {
+      "description": "Major DAO Contributor focused on Base",
+      "number": 1,
+      "url": "https://debank.com/profile/0x36cc7b13029b5dee4034745fb4f24034f3f2ffc6"
+    },
+    {
+      "description": "# of twitter followers",
+      "number": 2200,
+      "url": "https://twitter.com/Gold_On_Chain"
+    },
+    {
+      "description": "% of Balancer TVL",
+      "number": 41,
+      "url": "https://app.balancer.fi/#/base"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 41660,
+      "description": "Team payroll is small - 2% supply of $GOLD vested over 1yr"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 0,
+      "description": "Contract https://basescan.org/address/0x45ac5b411bcc919d869826da904be9fbab527d22"
+    }
+  ],
+  "payoutAddress": "0x82Fe5244335D3D91BF2241199A116AAF97102D3B",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Golden Boys (GOLD)",
+  "applicantName": "GoldenBoys",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x82Fe5244335D3D91BF2241199A116AAF97102D3B.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x82Fe5244335D3D91BF2241199A116AAF97102D3B.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x82Fe5244335D3D91BF2241199A116AAF97102D3B.json",
+  "RPGF3_Application_UID": "0x99d9058b2dc841fb614fa9351f3a93df1718e5f38b14e396ba764d53450924ab",
+  "applicantAddress": "0x82Fe5244335D3D91BF2241199A116AAF97102D3B"
+}

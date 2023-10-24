@@ -1,0 +1,70 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://defiafrica.net",
+  "bio": "We are the DeFi pioneers in Africa, empowering Africans with DeFi knowledge and innovations for safe adoption and application of Web3 technology in Africa.",
+  "contributionDescription": "In the past 4 years, DeFi Africa has propelled Web3 growth across the ecosystem through several means including education, community, events and partnerships. \n\nWe recently organized the Web3 Developer Workshop 1 in Tamale, Ghana (https://www.eventbrite.com/e/web3-developer-workshop-1-tickets-729980048977),  where we engaged with over 30 developers, equipping them with skills to learn smart contracts and deployment on the Optimism test network.\n\nThis initiative tackled a critical challenge for developers entering Web3 - the need for hands-on experience. We empowered participants to bridge theory and practice, fostering a deeper understanding.\n\nDuring the workshop, participants learned, engaged, and collaborated with peers to explore the latest tools and best practices for Web3 development.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/DeFi-Africa-Network/group_one.git",
+      "description": "This is a public github repository of the contracts that were built by group one"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://docs.google.com/document/d/1aCiyrDzQAmgef1eVWhPmFR-IYfucX8c7ZnE_YFpEnu8/edit?usp=sharing",
+      "description": "These are the contract addresses deployed to the optimism goerli testnet."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://youtu.be/Ln_LRkegfm0?si=3_TXTIXi41ZEyvqb",
+      "description": "Watch the highlights from the Web3 BUIDL Workshop where we used optimism network"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://photos.app.goo.gl/LMknkzWY4CuAc1Bh6",
+      "description": "Find all the pictures of the 2-day workshop via this link"
+    }
+  ],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
+  "impactDescription": "Over the course of our Web3 Developer Workshop, we engaged with over 30 developers ranging from seasoned devs to individuals completely new to Web3 development.\n\nThrough the workshop series, participants acquired hands-on experience in deploying smart contracts on the Optimism test network. We observed a significant improvement in their proficiency with tools like Solidity and Remix IDE. By the end of the program, 50% of attendees successfully deployed their own smart contracts.\n\nAttendees also formed connections and created several joint projects. Many shared their intention to continue building on the Optimism network, demonstrating the lasting impact and growth within the Optimism ecosystem.",
+  "impactMetrics": [
+    {
+      "description": "Developers attended",
+      "number": 30,
+      "url": "https://chat.whatsapp.com/Jo8tN0Is2kiIC3BKZjevEC"
+    },
+    {
+      "description": "Some Smart contracts deployed",
+      "number": 15,
+      "url": "https://docs.google.com/document/d/1aCiyrDzQAmgef1eVWhPmFR-IYfucX8c7ZnE_YFpEnu8/edit?usp=sharing"
+    },
+    {
+      "description": "Community Growth",
+      "number": 30,
+      "url": "https://chat.whatsapp.com/Jo8tN0Is2kiIC3BKZjevEC"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 1400,
+      "description": "This event was supported by the donations we got from Gitcoin GR18."
+    }
+  ],
+  "payoutAddress": "0xd952010BAFcAdB7a2052EE697C883A0565A8c01E",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "DeFi Africa",
+  "applicantName": "DeFi Africa",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xd952010BAFcAdB7a2052EE697C883A0565A8c01E.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xd952010BAFcAdB7a2052EE697C883A0565A8c01E.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xd952010BAFcAdB7a2052EE697C883A0565A8c01E.json",
+  "RPGF3_Application_UID": "0x04227ff23823ec09a03a531c924e8bdf5a6d486f3e0e3006b2fbb1a8de58f0d1",
+  "applicantAddress": "0xd952010BAFcAdB7a2052EE697C883A0565A8c01E"
+}

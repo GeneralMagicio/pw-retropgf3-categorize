@@ -1,0 +1,87 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://bitcoinaddict.org/",
+  "bio": "We are Thailand's largest crypto media and community, we keep our community updated to the latest crypto news, raise awareness and educate our audience.",
+  "contributionDescription": "We help to localized news and movement from Optimism and Ethereum to help Thailand Community to be well-informed about ongoing updates and the ecosystem. We have also  create different of types and style of content to educate and further support the communities of Ethereum and Optimism in Thailand. \n\n\n\n",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://www.facebook.com/bitcoinaddictthailand/posts/pfbid0bZnqAGTpxEMFJGhSAjafGkrF9P8bSu1SmwEBFAi4h3GsuSvAoKyjQgag3EuDaa1pl",
+      "description": "Education post about need of the Layer and Introduction about Optimism "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.facebook.com/bitcoinaddictthailand/posts/pfbid02V1C8ckK69xSC5L6vk4xxGpApzmn8gEs3mJgE6pCcQZvqaVW9JzPmrUkjPsEoEH4xl",
+      "description": "A Deep dive and informative post about Optimism "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.facebook.com/bitcoinaddictthailand/posts/pfbid02rwP3UPactmH2mtqmF64BFev6ktBbP4oZPhwM7uWLefc4XLGt7iZKXKQqSDMLUqEAl",
+      "description": "Optimism and NFT "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/watch?v=mg8VUP9mip0",
+      "description": "A video discussion about exploring the future of Layer 2 "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/watch?v=4SEVqzvGh74",
+      "description": "A video discussion about Optimism 2nd Airdrop Criteria Explaination "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/watch?v=vfyprv59pkA",
+      "description": "A video discussion about BASE Launch "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/watch?v=kfXMO7bH5e8",
+      "description": "A video discussion about Ethereum Shanghai upgrade "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/watch?v=mMM-ZPPekBk",
+      "description": "A video discussion about OP stack "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/watch?v=qNHccZc9nIg&t=1s",
+      "description": "A video discussion about OP 3rd Airdrop "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.facebook.com/kimdefidaddy/videos/418204073556420",
+      "description": "The merge discussion and countdown"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.facebook.com/bitcoinaddictthailand/posts/pfbid0Nb1QfTGpuAmeoAr3q2PGR4ahi4WUtyay2y8UcmANBqskmhbWV7A3m9HLHPLpieVEl",
+      "description": "Education about the potential of the merge "
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "We have help over 334,000 followers and 83,000 community members in Thailand (including all social media and platform) to be well informed and educated about the Ethereum, Optimism and Layer 2  ecosystem, through our realtime news and indepth our education content.",
+  "impactMetrics": [
+    {
+      "description": "Number of news, and content covered ",
+      "number": 3712,
+      "url": "https://docs.google.com/spreadsheets/d/1pl79xAjYyrf-zUHq_iyvf03-7qYSL9U5kPIkDm3kqis/edit?usp=sharing"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0xCf2DA4D6e7C5B51D1affeCba0a43F583d928dE0c",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "BitcoinAddict Thailand ",
+  "applicantName": "BitcoinAddict Thailand ",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xCf2DA4D6e7C5B51D1affeCba0a43F583d928dE0c.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xCf2DA4D6e7C5B51D1affeCba0a43F583d928dE0c.json",
+  "RPGF3_Application_UID": "0xf9da7eda8bb30b55c307cb95a5b4a1bff450f55b26ab42e8edf091551590a7d9",
+  "applicantAddress": "0xCf2DA4D6e7C5B51D1affeCba0a43F583d928dE0c"
+}

@@ -1,0 +1,39 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://app.optimism.io/",
+  "bio": "A web3 enthusiast, still digging through the Blockchain for the bits and pieces. I'm an entrepreneur and a responsible of the world.",
+  "contributionDescription": "I first learned about the Blockchain in 2021, and by then, some of the projects had already been conceived. As I get to know what a smart contract is, Optimism airdrops had reached many wallets as incentives. \nBut now, I have made a couple test on the Ethereum Networks layer 1 and 2. This account is even recently created after the one I had was compromised by phishing attacks. Hence, I'm still new, and I hope there's retroactive reward I missed somewhere.\nReal utility\nThanks for this opportunity",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://app.optimism.io/",
+      "description": "Rollup utility enhancement"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "I first learned about the Blockchain in 2021, and by then, some of the projects had already been conceived. As I get to know what a smart contract is, Optimism airdrops had reached many wallets as incentives. \nBut now, I have made a couple test on the Ethereum Networks layer 1 and 2. This account is even recently created after the one I had was compromised by phishing attacks. Hence, I'm still new, and I hope there's retroactive reward I missed somewhere.\nThanks for this opportunity",
+  "impactMetrics": [
+    {
+      "description": "undefined",
+      "number": 1000,
+      "url": "https://app.optimism.io/"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0xa25de14251b4F458556D79EF4507463fa11010c1",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Mazgreener",
+  "applicantName": "Greener",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xa25de14251b4F458556D79EF4507463fa11010c1.json",
+  "RPGF3_Application_UID": "0xe40ea642808c4fce867db3e02275358325a9d6325e929ff751c4bbe23741dda9",
+  "applicantAddress": "0xa25de14251b4F458556D79EF4507463fa11010c1"
+}

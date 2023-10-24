@@ -1,0 +1,55 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://www.web3analytic.xyz/",
+  "bio": "Co-founder of Web3 Analytic, a DeFi marketing platform. ",
+  "contributionDescription": "Web3 Analytic has enabled several Optimism projects - Synthetix, Kwenta, Perp, Lyra and Aevo - to identify potential users based on their on-chain activity and reach out to them through connected social channels like Twitter, Lens, Farcaster, Debank, Discord and XMTP messaging. This helps them grow their user bases. ",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://www.web3analytic.xyz/",
+      "description": "Company Website"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.loom.com/share/a3262b577235410fbf9807269de6f1d1?sid=611903e8-ea43-4b55-a949-9e77b5bb0175",
+      "description": "Web3 Analytic Product Demo"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "Here are more details of how we've helped OP Collective Projects:\n\nKwenta and Synthetix - identify and connect with large on-chain perp traders. Created list of eligible users for Kwenta's on-chain referrals program based on trading history.\nAevo - identify and connect with large on-chain derivatives traders.\nPerp - understand customer segmentation and develop hot tub vaults strategy. Messaging users.\nLyra - identify and connect with large option traders for upcoming V2 launch.",
+  "impactMetrics": [
+    {
+      "description": "Customer 2 Deposits (USD) from W3A Leads",
+      "number": 414140,
+      "url": "https://docs.google.com/spreadsheets/d/1rlN40o--AjpYWHj63gzrvEu3_7-Jps2DJSksCXorTUE/edit?usp=sharing"
+    },
+    {
+      "description": "# Total Customer Leads",
+      "number": 3335,
+      "url": "https://docs.google.com/spreadsheets/d/1rlN40o--AjpYWHj63gzrvEu3_7-Jps2DJSksCXorTUE/edit?usp=sharing"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 11000,
+      "description": "Cumulative revenue from 5 OP protocols we work with "
+    }
+  ],
+  "payoutAddress": "0x9aE7D163c786865F71f8f6128C73E092b414D0e2",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Web3 Analytic",
+  "applicantName": "Will",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xCb4B8F4810188fCBe96C06ccf8A763eb49f56a29.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xCb4B8F4810188fCBe96C06ccf8A763eb49f56a29.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xCb4B8F4810188fCBe96C06ccf8A763eb49f56a29.json",
+  "RPGF3_Application_UID": "0x96e6b8cb3a00a59f799194d9587dd5fbad1aec7ba622cc60642b975fa7e61505",
+  "applicantAddress": "0xCb4B8F4810188fCBe96C06ccf8A763eb49f56a29"
+}

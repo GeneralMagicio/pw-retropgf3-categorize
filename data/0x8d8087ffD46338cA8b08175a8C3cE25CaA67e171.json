@@ -1,0 +1,76 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://ethsafari.xyz/",
+  "bio": "My name is Koko, I lead hackathon operations for SafariDAO, the largest web3 community in Africa. ",
+  "contributionDescription": "SafariDAO is an active and inclusive community in East Africa, bringing together developers, founders, enthusiasts, and newcomers interested in web3 and blockchain technologies.  Our mission is to foster learning and collaboration and provide opportunities to African builders. \nWe hosted the largest Ethereum-based hackathon conference in East Africa, a notable event in both 2022 and 2023. These conferences provide a platform for developers based in Africa to showcase their skills and develop solutions for the collective with a focus on problems based in Africa. Binance Smart Chain is the most widely used blockchain in Africa, and through these events, the community is introduced to alternatives that highlight the advantages of OP L2 as a fast, cost-effective option. ",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://taikai.network/ethsafari/hackathons/ethsafari/projects",
+      "description": "Hackathon projects deployed on Superchain (Coinbase challenge) "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://floats.city/event/0x5849335a1cb6a5e9/1277429946",
+      "description": "NFT's claimed ONLY on September 20 2023 (link broke half way through the event) "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://ethsafari.xyz/",
+      "description": "ETHSafari Website"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.safaridao.org/",
+      "description": "Links to all SafariDAO community channels "
+    }
+  ],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "24 projects deployed on base, 3 bounty winners, 2 projects went on to pitch with Jesse Pollak. The impact is both tangible and intangible, with profound effects on community morale:\nThe tangible contributions are exemplified by the teams that have participated in our hackathon. We've not only provided practical support to participating teams but also offered inspiration to our community. Our members, including core contributors, often face economic barriers to financial inclusion. Since our last ETHSafari in 2022, our community has substantially grown. Through our events, we've ignited optimism, reinforcing the belief that there are numerous opportunities in the blockchain and Ethereum ecosystem that include the African perspective. ",
+  "impactMetrics": [
+    {
+      "description": "Projects deployed on base",
+      "number": 24,
+      "url": "https://taikai.network/ethsafari/hackathons/ethsafari/projects?category=Coinbase%20Challenge&filter_by=finalists"
+    },
+    {
+      "description": "NFTs claimed (ONLY on September 20th) ",
+      "number": 155,
+      "url": "https://floats.city/admin/events/1277429946"
+    },
+    {
+      "description": "Talks Related to Optimism & L2s ",
+      "number": 1,
+      "url": "https://youtu.be/coyE88dVtJY"
+    },
+    {
+      "description": "EVM based events (meetups, workshops +) ",
+      "number": 18,
+      "url": "https://ethsafari.xyz/agenda/"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 76585.22,
+      "description": "https://app.aragon.org/#/daos/ethereum/safari.dao.eth/dashboard"
+    }
+  ],
+  "payoutAddress": "0xa4e7f6d5626f62ef0fe7d94dac71a54d32c4f9b2",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "ETHSafari 2023",
+  "applicantName": "kokocares",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x8d8087ffD46338cA8b08175a8C3cE25CaA67e171.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x8d8087ffD46338cA8b08175a8C3cE25CaA67e171.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x8d8087ffD46338cA8b08175a8C3cE25CaA67e171.json",
+  "RPGF3_Application_UID": "0x1335374f0d00c61bf195d9eaeb9c4c55ae4a1a0b883ee0d71b680a4783ad528f",
+  "applicantAddress": "0x8d8087ffD46338cA8b08175a8C3cE25CaA67e171"
+}

@@ -1,0 +1,73 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://retropgfhub.com/",
+  "bio": "RetroPGF Hub aims to be a cornerstone of the Optimism ecosystem by fostering learning resources and amplifying the voices of Optimism's community.",
+  "contributionDescription": "RetroPGF Hub is the central hub for Optimists and the broader community to engage, explore, discover, and stay informed about all things related to RetroPGF. \n\nWe are offering a platform for community members to provide supportive comments or suggestions on projects, helping creators determine their eligibility for criteria in RetroPGF3. It serves as a comprehensive learning and discovery space, encapsulating historical context, scope, criteria, nominated projects, result statistics, and reflections in each round of RetroPGF. Whether you're a builder, user, or just curious about RetroPGF, this hub is your gateway to knowledge, collaboration, and community awareness.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://retropgfhub.com",
+      "description": "RetroPGF Hub Website"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/FWB-Creators/RetroPGF-Hub",
+      "description": "Repository (Frontend)"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/FWB-Creators/RetroPGF-Hub-Backend",
+      "description": "Repository (Backend)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/RetroPGFHub",
+      "description": "Twitter (X)"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/ethereum-optimism/ecosystem-contributions/issues/11?notification_referrer_id=NT_kwDOAaj07bM2MjM5OTA5MTE5OjI3ODQ5OTY1#issuecomment-1719849727",
+      "description": "Ecosystem Project Idea: RetroPGF Dashboard"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/ethereum-optimism/ecosystem-contributions/issues/84",
+      "description": "Ecosystem Project Idea: Community RPGF Signup Form"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "RetroPGF Hub is your platform for discovering and exploring the world of RetroPGF. With its user-friendly interface, it brings both long-standing members and newcomers into the RetroPGF space. By amplifying community voices and governance participation, RetroPGF Hub connects users directly with the Citizens' House, creating a vibrant hub for all things RetroPGF.\n\nThis had a significant impact on the Optimism ecosystem. They provide tangible and intangible benefits to Optimists and badgeholders alike. Users can access deep project information, award results, and statistics, enabling them to make informed decisions and review projects within the current RetroPGF round. This accessibility empowers the community, fosters collaboration, and benefits all those engaged in RetroPGF.",
+  "impactMetrics": [
+    {
+      "description": "Website Views",
+      "number": 34899,
+      "url": "https://docs.google.com/spreadsheets/d/1n-_MvOQlvqOYNY6gULm8jbjODuPpuV2H8ZJQHUIin6w/edit?usp=sharing"
+    },
+    {
+      "description": "Website Users",
+      "number": 1214,
+      "url": "https://docs.google.com/spreadsheets/d/1n-_MvOQlvqOYNY6gULm8jbjODuPpuV2H8ZJQHUIin6w/edit?usp=sharing"
+    },
+    {
+      "description": "User Experiences (Average)",
+      "number": 4.8,
+      "url": "https://docs.google.com/spreadsheets/d/1n-_MvOQlvqOYNY6gULm8jbjODuPpuV2H8ZJQHUIin6w/edit?usp=sharing"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x6FdfD0Dee3e2aa16bA6c70B1398E640735D5C065",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "RetroPGF Hub",
+  "applicantName": "RetroPGF Hub",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x6FdfD0Dee3e2aa16bA6c70B1398E640735D5C065.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x6FdfD0Dee3e2aa16bA6c70B1398E640735D5C065.json",
+  "RPGF3_Application_UID": "0xc63c8e9977983d1688a88e68cee691115ba7bbd32d485df49233c10a041acddf",
+  "applicantAddress": "0x6FdfD0Dee3e2aa16bA6c70B1398E640735D5C065"
+}

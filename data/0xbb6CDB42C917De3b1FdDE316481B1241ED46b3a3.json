@@ -1,0 +1,48 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://wallfacer.io/",
+  "bio": "Wallfacer Labs is a crypto research and development company. We are the creators of Vaults.fyi. We are creators & maintainers of the OSS, UseDApp & Waffle. ",
+  "contributionDescription": "Vaults.fyi is the most reliable source for in-depth yield analysis on Optimism. \n\nWe track 23 yields on Optimism and Base, with custom links you can use to focus on only those L2s: op.vaults.fyi and base.vaults.fyi. \n\nAcross Ethereum and the broader L2 ecosystem, we track 100+ yields. ",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://op.vaults.fyi/",
+      "description": "Definitive source for finding yields on OP Mainnet "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://base.vaults.fyi/",
+      "description": "Definitive source for finding yields on Base"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "Vaults simplifies on-chain yield discovery in the Optimism ecosystem by independently sourcing and calculating yields from DeFi projects. \n\nWe prioritize user safety through only showing tenured vaults, empowering Optimism users to make informed capital allocation decisions. \n\nOur mission is to enhance DeFi yield accessibility.",
+  "impactMetrics": [
+    {
+      "description": "Vaults on OP",
+      "number": 14,
+      "url": "https://op.vaults.fyi/"
+    },
+    {
+      "description": "Vaults on Base",
+      "number": 9,
+      "url": "https://base.vaults.fyi/"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x4891a0Dbf8FcCa60cc22aa1a69df086090FBCf8F",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Vaults.fyi",
+  "applicantName": "Vaults.fyi",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xbb6CDB42C917De3b1FdDE316481B1241ED46b3a3.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xbb6CDB42C917De3b1FdDE316481B1241ED46b3a3.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xbb6CDB42C917De3b1FdDE316481B1241ED46b3a3.json",
+  "RPGF3_Application_UID": "0xf7e99050d67483864a93191708b7ec0b23b2f1a85d5bfd8535c464508fb3dfce",
+  "applicantAddress": "0xbb6CDB42C917De3b1FdDE316481B1241ED46b3a3"
+}

@@ -1,0 +1,80 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://zuzalu.city",
+  "bio": "A co-creator of Zuzalu and a Gitcoin Steward. I care deeply about new funding mechanisms and social tech infra in crypto to build a more connected future IRL.",
+  "contributionDescription": "Zuzalu has significantly aided the Ethereum ecosystem by 1) addressing critical crypto challenges and bridging with technologies like AI and Synthetic Biology; 2) organizing mini-hackathons for open-source projects; 3) offering an open-source guide for \"pop-up\" village setups—already adopted by four communities; 4) serving as a practical testing site for industry projects like 0xParc's ZuPass and PSE's ZuStamps; and 5) using RetroPGF with Hypercerts to devise sustainable financing models for Zuzalu's impact.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://zuzalu.city/about ",
+      "description": "Zuzalu main website"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://zuzalu.notion.site/Homepage-cb20817c7ca54ca6a151915babd03c38",
+      "description": "Zuzalu home page"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://app.skiff.com/docs/686afeda-6dd6-4e45-bd9c-025da5ab7af2#%2FAPhdwcKl0ybzpGeElvYgLL3%2BIXTf%2B8vm5OMl%2Bs%2F1P0%3D",
+      "description": "Follow on events"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "Zuzalu addresses intricate crypto and tech challenges, disseminating insights through 80+ virtual talks. Our mini-hackathons foster open-source tool development, and our playbook guides web3 communities in creating real-life hubs, of which four have already been created and there are another two that have been planned. Serving as an innovation lab, we test projects like ZuPass for wider adoption like for DevConnect. The Hypercerts RPGF experiment saw over 235 addresses funding 21.10 ETH, rewarding volunteer work. Meanwhile, Tripsha launched a novel open-source pop-up cities ticketing solution with crypto payments used by over 280 people. We have heard from many participants that Zuzalu was both life and career changing. In a way that catapulted people forward many years in their career. ",
+  "impactMetrics": [
+    {
+      "description": "Knowledge Dissemination",
+      "number": 80,
+      "url": "https://zuzalu.streameth.org/"
+    },
+    {
+      "description": "# of hackers",
+      "number": 582,
+      "url": "https://t.me/c/1871610495/1 "
+    },
+    {
+      "description": "Community Hub Blueprint ",
+      "number": 1,
+      "url": "https://zuzalu.notion.site/zuzalu/3e893df2a248496bb30720fc1518c3c6?v=b0bc5b586a574272928d9a1fe0ded088"
+    },
+    {
+      "description": "Open-source project dogfooded ",
+      "number": 1,
+      "url": "https://github.com/proofcarryingdata/zupass"
+    },
+    {
+      "description": "Open-source project dogfooded ",
+      "number": 1,
+      "url": "https://github.com/jubmoji "
+    },
+    {
+      "description": "# people contributed",
+      "number": 239,
+      "url": "https://hypercerts.org/app/zuzalu/"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 429000,
+      "description": "Event sales "
+    }
+  ],
+  "payoutAddress": "0xb4E7D4C13F79319f5f0a8dCE93ca4FF178fD90C6",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Zuzalu",
+  "applicantName": "Janine",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x510e221C48ee37DAfc0d3802b43679Cf5d78561f.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x510e221C48ee37DAfc0d3802b43679Cf5d78561f.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x510e221C48ee37DAfc0d3802b43679Cf5d78561f.json",
+  "RPGF3_Application_UID": "0x73b6ff6fb7a5bb5f271b1636a1baa24a327e144e45195a53b9645fcb659a48d3",
+  "applicantAddress": "0x510e221C48ee37DAfc0d3802b43679Cf5d78561f"
+}

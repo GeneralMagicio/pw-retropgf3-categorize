@@ -1,0 +1,36 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://ai.hyperoracle.io/",
+  "bio": "I'm Marlene and part of Hyper Oracle. As part of our exploration of zkML - onchain machine learning inference and tuning we have built opML for ML verification.",
+  "contributionDescription": " the optimistic approach to onchain AI and machine learning offers significant advantages over existing methods. By embracing this novel approach, we can harness the power of AI while ensuring the integrity and security of the underlying blockchain system. opML, in particular, has shown impressive results in terms of efficiency, scalability, and decentralization, making it an exciting development in the field of AI and blockchain technology. As the use cases for onchain AI expand, it is essential that we continue to explore innovative solutions like opML, which can help us unlock the full potential of these technologies while maintaining the highest standards of transparency, security, and ethical responsibility.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/hyperoracle/opml",
+      "description": "github"
+    }
+  ],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
+  "impactDescription": "no one has done this. zkML is inefficient. opML provides ML proofs with low cost and high efficiency compared to zkML. The hardware requirements for opML are low: opML can run a large language model, e.g. a 7B-LLaMA (the model size is around 26GB) on a common PC without GPU, while zkML takes around 80 minutes to generate a proof of a 1M-nanoGPT model.",
+  "impactMetrics": [
+    {
+      "description": "details",
+      "number": 0,
+      "url": "https://mirror.xyz/hyperoracleblog.eth/Z__Ui5I9gFOy7-da_jI1lgEqtnzSIKcwuBIrk-6YM0Y"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x0DC825282d60cEB87c87A58AB1B1d47384ae9Aa5",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "opML Labs",
+  "applicantName": "marlene",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x0DC825282d60cEB87c87A58AB1B1d47384ae9Aa5.json",
+  "RPGF3_Application_UID": "0xcd42fdb0c7f2477de91dc19535ab2c7068027a1fb97ab88a5c09c0db35d4e06f",
+  "applicantAddress": "0x0DC825282d60cEB87c87A58AB1B1d47384ae9Aa5"
+}

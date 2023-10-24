@@ -1,0 +1,77 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://optimismgrants.io",
+  "bio": "A changelog and status page for the grant programs of the Optimism Collective",
+  "contributionDescription": "- Changelog\nLaunched a changelog documenting the frequent changes and updates to the grant programs of the Optimism Collective\n\n- Status Overview\nBuilt a status section providing an overview of the different Collective Grants types, their current status (Open for applications, Closed for applications, ...), and upcoming deadlines\n\n- Optimism Grants Calendar\nReleased a grants calendar that goes beyond the scope of the general-purpose Governance Calendar maintained by the Optimism Foundation\n\n- Launched a FAQ section on the website answering questions related to the grant programs\n\n- Produced 8 weekly updates summarizing recent changes and upcoming deadlines, distributed via newsletter and Governance Forum thread\n",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://optimismgrants.io",
+      "description": "Website"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://optimismgrants.io/calendar",
+      "description": "Grants Calendar"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://gov.optimism.io/t/optimism-grants-changelog/6719/9",
+      "description": "Governance Forum thread"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM"
+  ],
+  "impactDescription": "- The original idea to build the website came after reading a feedback thread on the forum and getting the impression that many find it difficult to keep up to date with information about grants (\"adhering to the deadlines often required navigating a maze of forum posts\")\n\n- With more than 7900 unique website visitors and 1840 outbound link clicks in the last 3 months, the site has played a key role in helping many (prospective) grantees, developers and governance participants stay informed about recent updates and upcoming deadlines of the grant programs\n\n- Subscribers to the weekly newsletter include employees from OpenZeppelin, OP Labs, Wakeup Labs, …\n\n- Governance Forum thread has 593 views and a total of 31 likes\n",
+  "impactMetrics": [
+    {
+      "description": "# of unique website visitors",
+      "number": 7901,
+      "url": "https://plausible.io/optimismgrants.io"
+    },
+    {
+      "description": "# of outbound link clicks",
+      "number": 1816,
+      "url": "https://plausible.io/optimismgrants.io?goal=Outbound+Link%3A+Click"
+    },
+    {
+      "description": "# of grants calendar views",
+      "number": 118,
+      "url": "https://plausible.io/optimismgrants.io?page=%2Fcalendar"
+    },
+    {
+      "description": "# of views Governance Forum thread",
+      "number": 593,
+      "url": "https://gov.optimism.io/t/optimism-grants-changelog/6719"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 0,
+      "description": ""
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 0,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0x657d99Ca637fEA0c90Ac3f65719F83519f331828",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Optimism Grants Changelog",
+  "applicantName": "Daniel",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x657d99Ca637fEA0c90Ac3f65719F83519f331828.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x657d99Ca637fEA0c90Ac3f65719F83519f331828.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x657d99Ca637fEA0c90Ac3f65719F83519f331828.json",
+  "RPGF3_Application_UID": "0x6d984b8e3b187070129658d99f9011baeb2c85955f8aa9aa0c7f91da7ab62b85",
+  "applicantAddress": "0x657d99Ca637fEA0c90Ac3f65719F83519f331828"
+}

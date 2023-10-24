@@ -1,0 +1,88 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://www.inverter.network/",
+  "bio": "I'm Uzi, BD Lead at Inverter Network. ",
+  "contributionDescription": "We've created 13 reusable modules in our Inverter Open Library, along with 3 workflow templates, allowing projects to easily implement adaptable smart contracts without the hefty investments typically needed for development and audit.\n\nHere are the projects that are currently on testnet and using Inverter to deploy on Optimism:\n- Bloom Network configured an “autonomous bounty payment system” for impact work for its 15K+ non-web3 members. \n- Bonding Curve Research Group has deployed an “investable workstream workflow” to enable bonding curve powered investments for open-source RnD teams without DAO overheads.\n- Crossify is integrating “recurring payroll management workflow” to facilitate subcription management.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/InverterNetwork",
+      "description": "Github"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/InverterNetwork/inverter-contracts/wiki",
+      "description": "List of all the modules that can form custom workflows"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://mirror.xyz/inverterblog.eth/EMfSfzCCA5X65pKyDP569u8kR7FoaT9pErJxiP4Fg4I",
+      "description": "Bloom Use Case article"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/Bonding_Curves/status/1714711732374171981?s=20",
+      "description": "Bonding Curve Research Group launch announcement"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://hackmd.io/eAl293jpSn-uKDpSW0BU3g",
+      "description": "Testnet deployments"
+    }
+  ],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "Smart contracts' scalability suffers due to costly, slow development and composability issues, hindering real-world applications. With 152 of 195 countries being developing, reducing blockchain entry barriers is vital for global adoption. Inverter's modular infrastructure significantly cuts down smart contract setup time and running costs for new applications.\n\nWe onboarded projects that are building on Optimism by making it possible to deploy web3 products in an agile way. With Inverter workflows, implementing smart contracts is only configuration process, rather than engineering challenge: \n- No more need to individually finance audits and security protocols \n- No more need for dedicated smart contract team or timely development cycles to implement new features or modify the old ones.",
+  "impactMetrics": [
+    {
+      "description": "Onboarded community members",
+      "number": 15000,
+      "url": "https://www.bloomnetwork.earth/"
+    },
+    {
+      "description": "Onboarded developers",
+      "number": 4,
+      "url": "https://www.crossify.xyz/"
+    },
+    {
+      "description": "Onboarded researchers ",
+      "number": 8,
+      "url": "https://auspicious-cap-b5c.notion.site/Bonding-Curve-Research-Group-a0fe00e81d84435a8fddd547a7888063"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 50000,
+      "description": "Locked OP: 0x267B051E4757B6fe13CB9e3c8D7D8330A74E79e0 May 11- 1 year lock"
+    },
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 10000,
+      "description": "From Bloom Network"
+    },
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 10000,
+      "description": "From Bonding Curve Research Group"
+    }
+  ],
+  "payoutAddress": "0x0bc89f54635167647aB0aa74d298fD3E6Dc83f4F",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Inverter Network",
+  "applicantName": "Uzi",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5E3A2D9ef0878794b6d9bC2e777f0Fe018bc4A75.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x5E3A2D9ef0878794b6d9bC2e777f0Fe018bc4A75.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x5E3A2D9ef0878794b6d9bC2e777f0Fe018bc4A75.json",
+  "RPGF3_Application_UID": "0x6d102cab70b4d3bca1330ef5f2f582ad611d92c3b0d912c7629e1f7c918a1a85",
+  "applicantAddress": "0x5E3A2D9ef0878794b6d9bC2e777f0Fe018bc4A75"
+}

@@ -1,0 +1,45 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://coursfaciles.com",
+  "bio": "Engineer / Passion for crypto & Business & Education",
+  "contributionDescription": "I an building a web application that allow people to get some help in their scholarship. With my site, they could ask question to some experts in order to progress and get solutions. \nBy the way, this application needs lot of payment, wallets in order to be efficient. I want to permit my users to use ETH to pay and receive money (if the are helpers or helped) effeciently. Optimism could be a very effective way to reduce the cost of transactions, accelerate money transfers, get a fee for my firm, and keep security.\n\nWith my project, I would accelerate adoption of Optimism tech. ",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://coursfaciles.com",
+      "description": "website"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "I an building a web application that allow people to get some help in their scholarship. With my site, they could ask question to some experts in order to progress and get solutions. \nBy the way, this application needs lot of payment, wallets in order to be efficient. I want to permit my users to use ETH to pay and receive money (if the are helpers or helped) effeciently. Optimism could be a very effective way to reduce the cost of transactions, accelerate money transfers, get a fee for my firm, and keep security.\n\nWith my project, I would accelerate adoption of Optimism tech. ",
+  "impactMetrics": [
+    {
+      "description": "Number of users",
+      "number": 10,
+      "url": "https://coursfaciles.com"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 0,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0x8928d32Ed05Add1e1FE9C2f5f8626Bfb5654383d",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "PTB",
+  "applicantName": "PTB",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x8928d32Ed05Add1e1FE9C2f5f8626Bfb5654383d.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x8928d32Ed05Add1e1FE9C2f5f8626Bfb5654383d.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x8928d32Ed05Add1e1FE9C2f5f8626Bfb5654383d.json",
+  "RPGF3_Application_UID": "0x8f9e280cdd6c7fb2aaa43010df0fa49dd04345a346b9b028e1e32d13d83fa4fd",
+  "applicantAddress": "0x8928d32Ed05Add1e1FE9C2f5f8626Bfb5654383d"
+}

@@ -1,0 +1,78 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://www.retropgf.com/",
+  "bio": "Spreading the word on the power of RetroPGF and growing the community through marketing, education and irl events. \n",
+  "contributionDescription": "At this moment, no one is doing more to support public goods than Optimism RetroPGF. Despite its already immense impact, RetroPGF has yet to reach its full audience. Many potential contributors doing great things for the Optimism ecosystem remain unaware of the opportunities it offers. To bridge this gap we created a community initiative to promote RetroPGF to a wider audience.Our efforts included targeted research & case study generation, educational content creation, active participation in Ethereum events and building an online community. Offline, we sponsored booths at conferences and shared insights on stage. Online, we launched a dedicated Twitter/ X account and newsletter for real-time updates and built a portal showcasing funded projects, case studies and educational resources. ",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/retropgf",
+      "description": "RetroPGF Community Twitter/X account"
+    },
+    {
+      "type": "OTHER",
+      "url": " https://www.retropgf.com/",
+      "description": "RetroPGF Community Website"
+    },
+    {
+      "type": "OTHER",
+      "url": " https://paragraph.xyz/@retropgfcommunity",
+      "description": "RetroPGF Community Newsletter"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://docs.google.com/spreadsheets/d/17FMTcOQagIFik58axeMnfs8VQt7JhOhqws0oaqT3UUA/edit#gid=0",
+      "description": "RetroPGF Community NFT Collection "
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "We sponsored booths at ETHBarcelona and Funding the Commons at EthCC and doing so onboarded 97 new projects that were previously unaware of RetroPGF. Our continuous engagement on social media created a growing community of grassroot enthusiasts spreading the RetroPGF meme. Additionally, our website acts as a hub, providing an overview of all projects that received funding in rounds 1 and 2, as well as in depth case studies and educational resources to get projects excited about what RetroPGF can do and push them to apply to round 3! \n",
+  "impactMetrics": [
+    {
+      "description": "Twitter Impressions",
+      "number": 191112,
+      "url": "https://docs.google.com/spreadsheets/d/1CciwQaSWZI9xKdJX_UeEDcX_eu8_aLIK16NchFSTBY0/edit?usp=sharing"
+    },
+    {
+      "description": "Number of Twitter/X Followers",
+      "number": 830,
+      "url": "https://twitter.com/retropgf"
+    },
+    {
+      "description": "Number of newsletter subscribers",
+      "number": 199,
+      "url": "https://paragraph.xyz/@retropgfcommunity "
+    },
+    {
+      "description": "Number of minted RetroPGF Community NFTs",
+      "number": 2919,
+      "url": "https://docs.google.com/spreadsheets/d/17FMTcOQagIFik58axeMnfs8VQt7JhOhqws0oaqT3UUA/edit#gid=0"
+    },
+    {
+      "description": "Number of distributed swag",
+      "number": 1200,
+      "url": "https://docs.google.com/spreadsheets/d/17FMTcOQagIFik58axeMnfs8VQt7JhOhqws0oaqT3UUA/edit#gid=0"
+    },
+    {
+      "description": "Projects onboarded at our booths",
+      "number": 97,
+      "url": "https://docs.google.com/spreadsheets/d/17FMTcOQagIFik58axeMnfs8VQt7JhOhqws0oaqT3UUA/edit#gid=0"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0xE60B9D951da8488405Da3ee341431417898870c8",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "RetroPGF Community ",
+  "applicantName": "RetroPGF Community ",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x6eb78c56F639b3d161456e9f893c8e8aD9d754F0.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x6eb78c56F639b3d161456e9f893c8e8aD9d754F0.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x6eb78c56F639b3d161456e9f893c8e8aD9d754F0.json",
+  "RPGF3_Application_UID": "0x4174425509a7abc8a01e4b0c7176ee7d04f6e88e80968a0935aedce5337afb85",
+  "applicantAddress": "0x6eb78c56F639b3d161456e9f893c8e8aD9d754F0"
+}

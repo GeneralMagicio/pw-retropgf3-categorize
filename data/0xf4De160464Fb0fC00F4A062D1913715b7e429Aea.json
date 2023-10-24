@@ -1,0 +1,45 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://www.metamosaic.io/Optimism/protocols",
+  "bio": "MetaMosaic is building the APP Directory, a holistic view of a protocol with crypto reference data, which covers Optimism, and more.",
+  "contributionDescription": "\nWe have covered Optimism’s reference data and provided a holistic view of Optimism’s protocols in MetaMosaic.\nMetamosaic is a platform for blockchain reference data, where everyone(especially developers and researchers) can access protocol-centric metadata, classifications, and relation graphs with API and Explorer. It analyzes on-chain protocol life-cycle activities and off-chain protocol information to put the puzzle back together. And it provides detailed relationships between protocols, smart contracts, deployers, contract creator wallets, related addresses, etc. ",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://www.metamosaic.io/Optimism/protocols",
+      "description": "App Directory with reference data is a use case product of MetaMosaic."
+    }
+  ],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "Optimism developers can very easily and for free use the Reference data API port to build their products. As well as all community users can view and use Reference data to stay in control with trusted, validated blockchain reference data in one place.\nFor example, in terms of Security, you can access comprehensive detection through wide data coverage and relational mapping; and for Money Flow, you can find out exactly what a transaction has done and discover deeper insights.\n",
+  "impactMetrics": [
+    {
+      "description": "Developers using the API",
+      "number": 100,
+      "url": "https://docs.footprint.network/reference/get_protocol-getprotocolcontractlist"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 0,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0xf4De160464Fb0fC00F4A062D1913715b7e429Aea",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "MetaMosaic",
+  "applicantName": "MetaMosaic",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xf4De160464Fb0fC00F4A062D1913715b7e429Aea.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xf4De160464Fb0fC00F4A062D1913715b7e429Aea.json",
+  "RPGF3_Application_UID": "0xe7bb020c27fa0572679c9e0619ce7a0b44f98b43f006dfe2348cd7573ddb8f03",
+  "applicantAddress": "0xf4De160464Fb0fC00F4A062D1913715b7e429Aea"
+}

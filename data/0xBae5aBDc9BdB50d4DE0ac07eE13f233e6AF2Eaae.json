@@ -1,0 +1,41 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://notadegen.com/",
+  "bio": "An accomplished software engineer and architect",
+  "contributionDescription": "I run BASE archival nodes as a public good service. They are free of charge with no IP tracking and api limits. I pay for the servers from my pocket with no outside funding or grant. I also maintain them myself with no outside help. There have been no issues with the nodes infrastructure since I launched them in August.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://notadegen.com/",
+      "description": "Website"
+    }
+  ],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
+  "impactDescription": "My archival nodes have allowed developers & users to have unlimited access to RPC api with free of charge. My nodes have served more than 3 billion requests in the last two months. It has made the developers life easy because they can use these nodes without having to worry about api limits and expensive bills.",
+  "impactMetrics": [
+    {
+      "description": "Last 30 days requests ",
+      "number": 1340000000,
+      "url": "https://pasteboard.co/exXiWW5ra4QT.png"
+    },
+    {
+      "description": "Last 30 days Unique Users",
+      "number": 88800,
+      "url": "https://pasteboard.co/exXiWW5ra4QT.png"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0xBae5aBDc9BdB50d4DE0ac07eE13f233e6AF2Eaae",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "0xSalman",
+  "applicantName": "0xSalman",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xBae5aBDc9BdB50d4DE0ac07eE13f233e6AF2Eaae.json",
+  "RPGF3_Application_UID": "0x5effc6bf83d22623146bdd81e6bb55bc287b68aced8ad0d4be8cccbf5f408b19",
+  "applicantAddress": "0xBae5aBDc9BdB50d4DE0ac07eE13f233e6AF2Eaae"
+}

@@ -1,0 +1,39 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://twitter.com/tutuioio",
+  "bio": "Interesting in L2, Contribution to everyone",
+  "contributionDescription": "As we know, To start with OPrefers to a layer-2 scaling solution for Ethereum. It is designed to improve the scalability and reduce the cost of using the Ethereum blockchain. Optimism uses a technology known as Optimistic Rollup, which allows it to process transactions and smart contracts more efficiently. Therefore, there are many technologies such OP Stack that the company can use for their business' and many news for the govern . So, I have to take the information to them.    ",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/",
+      "description": "explorer"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": " It's possible that this entity or term has come into existence or gained recognition after that date, or it may refer to a group or community with a specific focus within the blockchain and cryptocurrency space. We can conclude that Optimism tend to be a future of new ways in blockchain.",
+  "impactMetrics": [
+    {
+      "description": "bored town",
+      "number": 1024,
+      "url": "https://zonic.app/asset/optimism/0x8E56343adAFA62DaC9C9A8ac8c742851B0fb8b03/1024"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x40F518b319cb0EEe96e0E34462b81C4C5a93FD3a",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "NK-Power",
+  "applicantName": "NK-Power",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x54cF78C31739B97F87381b19937d13F04DC9819f.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x54cF78C31739B97F87381b19937d13F04DC9819f.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x54cF78C31739B97F87381b19937d13F04DC9819f.json",
+  "RPGF3_Application_UID": "0xb071c4133f6836b73048db3adfa555711901055ab3c37612b4639c97907c30f4",
+  "applicantAddress": "0x54cF78C31739B97F87381b19937d13F04DC9819f"
+}

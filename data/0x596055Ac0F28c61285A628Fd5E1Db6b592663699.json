@@ -1,0 +1,40 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://twitter.com/giapstorm2204",
+  "bio": "Handsome",
+  "contributionDescription": "I have minted music on sound a lot. I am very satisfied with the product. In the future, I also hope that your side will have more superior products. Helps artists and fans reach each other more easily. There are products that are not satisfactory because the product has not been invested much",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://twitter.com/giapstorm2204",
+      "description": "there is satisfaction"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "I have minted music on sound a lot. I am very satisfied with the product. In the future, I also hope that your side will have more superior products. Helps artists and fans reach each other more easily. There are products that are not satisfactory because the product has not been invested much",
+  "impactMetrics": [
+    {
+      "description": "56",
+      "number": 421,
+      "url": "https://twitter.com/giapstorm2204"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x596055Ac0F28c61285A628Fd5E1Db6b592663699",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Giapstorm",
+  "applicantName": "Truong Huu Giap",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x596055Ac0F28c61285A628Fd5E1Db6b592663699.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x596055Ac0F28c61285A628Fd5E1Db6b592663699.json",
+  "RPGF3_Application_UID": "0x11fe0830944b66939ec01bc3ebca5ff6188614604638931e795d08c62ff81650",
+  "applicantAddress": "0x596055Ac0F28c61285A628Fd5E1Db6b592663699"
+}

@@ -1,0 +1,44 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://app.artemis.xyz",
+  "bio": "Artemis is the institutional data platform for digital assets",
+  "contributionDescription": "Artemis has built a comprehensive data platform providing a fundamental look at application level activity on the Optimism platform. We track daily active addresses, transactions, gas usage, application level stats (activity by category) and developer activity, and standardize the data so its comparable against other blockchain networks. ",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://app.artemis.xyz/activity-monitor/composition?chain=optimism&category=&application=&datePicker=monthly&showAsPercentShare=false&showBreakdown=false&showUnlabeled=false&selectedMetric=activeAddresses&preSelectBreakdown=chain&preSelectTab=1",
+      "description": "Application level activity (gas usage, txns, daily active addresses) on Optimism"
+    }
+  ],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "Our work has helped highlight the top categories and applications that have developed on Optimism (e.g. Perp Protocol, Worldcoin, Kwenta) while also providing a standardized way for developers and applications to understand activity on Optimism vs. other EVM compatible chains",
+  "impactMetrics": [
+    {
+      "description": "Page views (unique monthly visitors)",
+      "number": 10000,
+      "url": "https://plausible.io/app.artemis.xyz"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 0,
+      "description": "Have not received anything from OP"
+    }
+  ],
+  "payoutAddress": "0x301c2cfca20189988292eE03312f43Adf541CB20",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Artemis Analytics",
+  "applicantName": "Jimmy",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x301c2cfca20189988292eE03312f43Adf541CB20.json",
+  "RPGF3_Application_UID": "0x613f763a7000491408631468515429375f3240d42c542954693dff62b76df7b9",
+  "applicantAddress": "0x301c2cfca20189988292eE03312f43Adf541CB20"
+}

@@ -1,0 +1,95 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://twitter.com/wslyvh",
+  "bio": "Events @ethereum 🦄 Web3 | OSS | Decentralization | Privacy 🛠️ Indie Maker ",
+  "contributionDescription": "I'm a long time builder and contributor in the space with a focus on education, onboarding and community. My work primarily focuses on building free, open-source tools, resources and other projects that help and empowers developers and other builders. These projects include..\n\n1. useWeb3 - a curated overview of Web3 learning resources and materials \n- a 'good first' issues tracker to contribute to open-source, Web3 projects (incl. Optimism)\n- an academy to test your knowledge and issues ZK credentials (on Optimism)\n- a gas tracker, incl. Optimism\n- online 30 days, dev cohorts (held twice)\n\n2. Nexth - Next.js + Ethereum starter kit\n\n3. Other projects\n- Gitcoin Passport score NFT, issues your Sybil resistance score on Optimism \n- Optimist NFT, that attests your activity score using ATST",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://www.useweb3.xyz/",
+      "description": "useWeb3 website"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/wslyvh/useWeb3",
+      "description": "useWeb3 Github repository"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/wslyvh/nexth/",
+      "description": "Nexth - Starter kit"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/token/0x1846fb181a12644dec6af707b23b39d2d19c1879",
+      "description": "Gitcoin Passport score"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/token/0x8002c94bdad20f64ace040c74ebfe262c0a0ae25",
+      "description": "ZK Academy"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/token/0x708bdc19f78461a3dc6b630d695e465be29b80f5",
+      "description": "Dev Cohort"
+    }
+  ],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "useWeb3 has been running since Aug 2021 as a free, open-source public good. \nTwitter followers: +20.8K\nNewsletter subscribes: 11.4K\nWebsite stats: 35k views/month\nGithub stars: 366\nParticipants in my 30-days of Web3 builder cohorts: 58\n\nNexth has been active since Dec 2022, completely open-source and used by and for several projects, hackathons and side quests. \nGithub stars: 432\n\nGitcoin Passport NFT: +20k NFT mints\nZK Academy Credentials: 23 NFT mints \n",
+  "impactMetrics": [
+    {
+      "description": "Github stars",
+      "number": 364,
+      "url": "https://github.com/wslyvh/useWeb3"
+    },
+    {
+      "description": "Newsletter",
+      "number": 11400,
+      "url": "https://useweb3.substack.com/"
+    },
+    {
+      "description": "Github stars",
+      "number": 432,
+      "url": "https://github.com/wslyvh/nexth/"
+    },
+    {
+      "description": "Gitcoin Passport score",
+      "number": 20871,
+      "url": "https://optimistic.etherscan.io/token/0x1846fb181a12644dec6af707b23b39d2d19c1879"
+    },
+    {
+      "description": "ZK Credentials",
+      "number": 23,
+      "url": "https://optimistic.etherscan.io/token/0x8002c94bdad20f64ace040c74ebfe262c0a0ae25"
+    },
+    {
+      "description": "useWeb3 Twitter",
+      "number": 20800,
+      "url": "https://twitter.com/useWeb3"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 3321,
+      "description": "Gitcoin grants and some sponsorship fees"
+    }
+  ],
+  "payoutAddress": "0xa512c3cf9a63715ced87de5058c684cbff9f4321",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "wslyvh",
+  "applicantName": "wslyvh",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x8289432ACD5EB0214B1C2526A5EDB480Aa06A9ab.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x8289432ACD5EB0214B1C2526A5EDB480Aa06A9ab.json",
+  "RPGF3_Application_UID": "0x7d2de8099d2435961b98eb1456efab1b02d74bf818149397f099f69719c81eb4",
+  "applicantAddress": "0x8289432ACD5EB0214B1C2526A5EDB480Aa06A9ab"
+}

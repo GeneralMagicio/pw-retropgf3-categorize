@@ -1,0 +1,37 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://www.twitter.com/rohitchaddaasd",
+  "bio": "Frontend Engineer - Google, DevRel - Web3, Mentor Devfolio",
+  "contributionDescription": "ఈ గైడ్‌లో, మీ ఆధార్ కార్డ్‌ని ఆన్‌లైన్‌లో ఎలా అప్‌డేట్ చేయాలో, సమీపంలోని ఎన్‌రోల్‌మెంట్ కేంద్రంలో ఏం డాక్యుమెంట్లు అడుగుతారో మీకు వివరంగా ఇవ్వబడింది. . అదనంగా, మేము నవీకరణ/దిద్దుబాటును ప్రాసెస్ చేయడానికి అవసరమైన రుసుమును కూడా ఈ శీర్షికలో పేర్కొన్నాము. అలాగే మద్దతు పత్రాల యొక్క సుదీర్ఘ జాబితాను కూడా ఇందులో జాబితా చేసాము, వీటిని ఆధార్ కార్డ్‌లోని వివరాలను నవీకరించడానికి చెల్లుబాటు అయ్యే డాక్యుమెంట్ ప్రూఫ్‌గా ఉపయోగించవచ్చు. ఈ మార్పుల తర్వాత కూడా మీ 12 అంకెల ఆధార్ కార్డ్ నంబర్ అలాగే ఉంటుంది.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/",
+      "description": "Types"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "ఈ గైడ్‌లో, మీ ఆధార్ కార్డ్‌ని ఆన్‌లైన్‌లో ఎలా అప్‌డేట్ చేయాలో, సమీపంలోని ఎన్‌రోల్‌మెంట్ కేంద్రంలో ఏం డాక్యుమెంట్లు అడుగుతారో మీకు వివరంగా ఇవ్వబడింది. . అదనంగా, మేము నవీకరణ/దిద్దుబాటును ప్రాసెస్ చేయడానికి అవసరమైన రుసుమును కూడా ఈ శీర్షికలో పేర్కొన్నాము. అలాగే మద్దతు పత్రాల యొక్క సుదీర్ఘ జాబితాను కూడా ఇందులో జాబితా చేసాము, వీటిని ఆధార్ కార్డ్‌లోని వివరాలను నవీకరించడానికి చెల్లుబాటు అయ్యే డాక్యుమెంట్ ప్రూఫ్‌గా ఉపయోగించవచ్చు. ఈ మార్పుల తర్వాత కూడా మీ 12 అంకెల ఆధార్ కార్డ్ నంబర్ అలాగే ఉంటుంది.",
+  "impactMetrics": [
+    {
+      "description": "Types",
+      "number": 0,
+      "url": "https://optimistic.etherscan.io/"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0xD44086C00dFfD761A55D988Fb698B7E3A197575F",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Rohit chadda",
+  "applicantName": "Rohit",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xD44086C00dFfD761A55D988Fb698B7E3A197575F.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xD44086C00dFfD761A55D988Fb698B7E3A197575F.json",
+  "RPGF3_Application_UID": "0xde345ebb3e0248733304d39e16ce8cd4a55ad26a809682449a7bc14b68375765",
+  "applicantAddress": "0xD44086C00dFfD761A55D988Fb698B7E3A197575F"
+}

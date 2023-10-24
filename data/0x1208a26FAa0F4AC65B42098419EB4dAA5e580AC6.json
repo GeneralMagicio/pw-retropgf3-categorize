@@ -1,0 +1,81 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://wildcards.wtf",
+  "bio": "Adding Utility to NFTs. Link ENS Domains to NFT Collections on the Superchain and provide holders with free wildcard sub-domains.",
+  "contributionDescription": "We've developed a tool that has enabled NFT communities on Optimism and Base to acquire ENS sub-domains at zero cost. This significant accomplishment was made possible through the implementation of ENS wildcard resolution. Our application has already empowered ENS name holders to seamlessly connect their names/domains with the contract addresses of NFT collections, resulting in the automatic provision of free subdomains linked to individual token IDs.\n\nAs a real-world example, consider the OptiChads collection. Every Chad owner automatically received an ENS subdomain under optichads.eth, precisely corresponding to the token ID of their NFT. For instance, the subdomain 69.optichads.eth, directly resolves to the address of the individual who owns Chad #69. ",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://etherscan.io/address/0x53e42d7b919c72678996c3f3486f93e75946a47c#code",
+      "description": "ENS ➡️ OP Wildcard Resolver contract"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/Wildcards-Protocol/Optimism/tree/main/API/ccip-forwarder-gateway",
+      "description": "Optimism CCIP gateway server"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xf12ca7007d5258a5d98c5da6437674ca704a2561#code",
+      "description": "Optimism NFT resolver contract"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://wildcards.wtf",
+      "description": "Client Application"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/Wildcards-Protocol/Frontend",
+      "description": "Frontend Repo"
+    }
+  ],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "- 7 NFT communities have been onboarded on OP chain. \n (OptiChads, Apetimism, Tickled Picklez, Optimistic Bunnies, Optimism Quests, Deggkies Optimism, HyperChads)\n\n- 3 NFT collections have been onboarded on Base. \n (Tiny Based Frogs, Base Wars, Summer Kevin)\n\n- 64,696 resolvable ENS wildcard subdomains created.",
+  "impactMetrics": [
+    {
+      "description": "Resolvable Wildcard subdomains generated",
+      "number": 64696,
+      "url": "https://github.com/Wildcards-Protocol/Optimism/blob/main/NFT%20Communities/readme.md"
+    },
+    {
+      "description": "Optichads Wildcards",
+      "number": 10000,
+      "url": "https://twitter.com/OptiChads/status/1662818737437696002"
+    },
+    {
+      "description": "Optimistic Bunnies subnames",
+      "number": 4018,
+      "url": "https://twitter.com/OPBunnies/status/1665024644867588096"
+    },
+    {
+      "description": "Tickled Picklez ENS subdomains",
+      "number": 7000,
+      "url": "https://twitter.com/TickledPicklez/status/1666919975284625409"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 45000,
+      "description": "Locked till March 2024. Builder Grants: Cycle 10"
+    }
+  ],
+  "payoutAddress": "0x1D7b8D3c6c896d7eB4f9118Ea377C359073d4083",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Wildcards Protocol",
+  "applicantName": "Wildcards Protocol",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x1208a26FAa0F4AC65B42098419EB4dAA5e580AC6.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x1208a26FAa0F4AC65B42098419EB4dAA5e580AC6.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x1208a26FAa0F4AC65B42098419EB4dAA5e580AC6.json",
+  "RPGF3_Application_UID": "0x351cfe61628239f979f88da463f81b6feaeff65bfbeeed489041a44fef1b6293",
+  "applicantAddress": "0x1208a26FAa0F4AC65B42098419EB4dAA5e580AC6"
+}

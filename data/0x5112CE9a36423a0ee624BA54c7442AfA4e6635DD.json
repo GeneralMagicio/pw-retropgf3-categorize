@@ -1,0 +1,41 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://quraizt.com",
+  "bio": " experimental and agile approach to governance relentlessly iterating towards a system which stands the test of time.",
+  "contributionDescription": "We need more regenerative financing in the world that is utilizing blockchain technology to measure & display our accomplishments onchain. In the traditional world it is very difficult to show your impact if you have contributed towards something because there is no on chain ledger to create transparency.\n\nI have been studying :open_book: the Optimism network since early 2021 as a result of my blockchain development education.\n\nI’m thankful for the teachings that brought me to the Gitcoin & Optimism ecosystem. We are proud to be contributing towards this important initiative of sustainability.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://ethdaily.io/tag/optimism/",
+      "description": "A collection of over 100 OP news  blog posts "
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "RetroPGF is a core part of Optimism’s vision. If done right, it will form the backbone for a new type of economy. As with any complex system, though, this new process can’t be centrally planned or designed all at once. The only way to build it well is to build it together. This journey will require care, open-mindedness, patience, and, of course, optimism!",
+  "impactMetrics": [
+    {
+      "description": "Download ",
+      "number": 33250,
+      "url": "https://downloads"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x5112CE9a36423a0ee624BA54c7442AfA4e6635DD",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "quraizt",
+  "applicantName": "akbarquraizt93",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5112CE9a36423a0ee624BA54c7442AfA4e6635DD.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x5112CE9a36423a0ee624BA54c7442AfA4e6635DD.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x5112CE9a36423a0ee624BA54c7442AfA4e6635DD.json",
+  "RPGF3_Application_UID": "0x28bef149d91250612388f64e3c0a8e84627e68c3aed78336df679063d561b183",
+  "applicantAddress": "0x5112CE9a36423a0ee624BA54c7442AfA4e6635DD"
+}

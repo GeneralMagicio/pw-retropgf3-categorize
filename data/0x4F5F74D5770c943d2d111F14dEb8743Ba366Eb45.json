@@ -1,0 +1,67 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://apacdao.net/",
+  "bio": "APAC DAO is an ever growing web3 B2B community of 2,000+ members - 800+ projects - 15+ APAC countries & 4M+ blockchain enthusiasts through members’ communities.",
+  "contributionDescription": "Being one of the first APAC-focused communities to drive awareness and builders growth for Base and OP ecosystem by leveraging our existing 2,000+ builders network in APAC DAO and our sister community ABC Station of 13K developers through a well curated education workshop and office hours series.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://x.com/ABC_StationHQ/status/1693113732065628336?s=20",
+      "description": "Office Hours and demo showcase built on Base by SEA builders and developers"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/ABC_StationHQ/status/1693113732065628336?s=20",
+      "description": "Educational workshop for BASE with SEA developers community"
+    }
+  ],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
+  "impactDescription": "Generate awareness and strong interest in building on Base - one of the most important partnering ecosystems to Optimism. With a combined approach of education, office hours, AMA and community engagement, we were able to gather in total 200+ audience (150+ for workshop and 100+ for office hours)  to understand about how to build on BASE and demonstrate their use cases on Base.",
+  "impactMetrics": [
+    {
+      "description": "Number of audience",
+      "number": 150,
+      "url": "https://x.com/apacdao/status/1648935590296186881?s=20"
+    },
+    {
+      "description": "Number of builders",
+      "number": 100,
+      "url": "https://x.com/ABC_StationHQ/status/1693113732065628336?s=20"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 500,
+      "description": "Research and execution of workshop for 150+ developers"
+    },
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 500,
+      "description": "Operational cost to run Base office hours for 5 showcase teams and 100 builders"
+    },
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 500,
+      "description": "Manpower to engage the community and promote workshop and office hours for Base"
+    }
+  ],
+  "payoutAddress": "0x4F5F74D5770c943d2d111F14dEb8743Ba366Eb45",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "APAC DAO",
+  "applicantName": "APAC DAO",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x4F5F74D5770c943d2d111F14dEb8743Ba366Eb45.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x4F5F74D5770c943d2d111F14dEb8743Ba366Eb45.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x4F5F74D5770c943d2d111F14dEb8743Ba366Eb45.json",
+  "RPGF3_Application_UID": "0x2fc8e32b9a7418d88d21e45fddeef7d8f4c7460ba26a447cf7bfd298b58cab3c",
+  "applicantAddress": "0x4F5F74D5770c943d2d111F14dEb8743Ba366Eb45"
+}

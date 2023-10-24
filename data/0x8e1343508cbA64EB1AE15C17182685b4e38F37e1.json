@@ -1,0 +1,50 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://www.youtube.com/@blockchainaffairs",
+  "bio": "Content creator",
+  "contributionDescription": "I teach through my how-to-do videos on usage of Optimism dApps. This has really been helpful to newbies and educative to a lot of users. I wish to be able to do more for progress of Optimism chain and decentralized applications. I am passionate about teaching.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://www.youtube.com/watch?v=3htV5HW0isA&t=3s",
+      "description": "OP Bridgooor NFT - free mint - Qx airdrop (100,000 supply)"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://www.youtube.com/watch?v=C-vx8-GHB6U",
+      "description": "How to check your Collab Land Genesis Membership NFT for $COLLAB Airdrop Claim"
+    }
+  ],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "How-to-do videos to guide end-users on Optimism dApps. This helps newbies a lot.\nI wish to be able to do more for progress of Optimism chain and decentralized applications. I am passionate about teaching and learning. I want the world at large to embrace blockchain technology",
+  "impactMetrics": [
+    {
+      "description": "Views",
+      "number": 80000,
+      "url": "https://www.youtube.com/@blockchainaffairs"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 10000,
+      "description": "To get good software and learn animation FX for quality production"
+    }
+  ],
+  "payoutAddress": "0x8e1343508cbA64EB1AE15C17182685b4e38F37e1",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "olaitantm",
+  "applicantName": "olaitantm",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x8e1343508cbA64EB1AE15C17182685b4e38F37e1.json",
+  "RPGF3_Application_UID": "0x7163f4548acbf7e8b3edc104586bc67f95fb6228860bcd23bddedeca2498ba63",
+  "applicantAddress": "0x8e1343508cbA64EB1AE15C17182685b4e38F37e1"
+}

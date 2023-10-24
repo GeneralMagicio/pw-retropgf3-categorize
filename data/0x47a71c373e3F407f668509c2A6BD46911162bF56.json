@@ -1,0 +1,103 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://twitter.com/Optimism_TR",
+  "bio": "Optimism Türkiye is a volunteers group that creates Turkish contents for spreading Optimistic vision among Turkish native Optimistics.",
+  "contributionDescription": "Optimism Turkey is a volunteer community that encourages Turkish communities to use the Optimism network by promoting the Optimism ecosystem and creating content loyal to the \"Optimistic Vision\" philosophy.\n\nWe engage in various activities focused on the Optimism network and its projects, including producing videos about Optimism native protocols, promoting Optimism by participating in events, helping organize events like the Onchain Summit, creating content on topics specific to Optimism such as the OPStack and Superchain ecosystem, encouraging the use of the network, and translating all of Optimism's publications into Turkish.\n",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://docs.google.com/spreadsheets/d/1gqnXc9Vh3XgNIkjnU1ADnl0mi-BEXtXDD8nKYgnV9os/edit?usp=sharing",
+      "description": "Internal point system and a pie graph which shows shares of each individual "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/Optimism_TR ",
+      "description": "Optimism_TR 'X' account, floods, translation of OP Radio sessions etc."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/@OptimismTR ",
+      "description": "Youtube profile, videos about native protocols of Superchain"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://medium.com/@optimismTR ",
+      "description": "Medium; Articles, translations"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://optimismtr.notion.site/Onchain-Summit-Researching-For-The-Event-Venue-7f24cbd66a154e33addf1bc2f5664cdc?pvs=4",
+      "description": "Onchain summit venue research page, we prepared this for Optimism Event team"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "We have become the first and only Turkish resource for those who want to contribute to the Optimism and Superchain ecosystem in Turkey. We have helped people make developments in the ecosystem through these resources. \n\nWe created Spaces and facilitated access to the ecosystem by translating resources such as Op Radio, Optimism Weekly Recap, Governance Cycles, and The Optimistic Newsletter into Turkish. We also shared knowledge by addressing important topics such as Optimism Governance and Op Labs.\n\nWith content produced by 11 people, we believed in the Optimistic Vision and worked to share this vision. We became the only local Optimism native community in Turkey, contributed to the organization of events such as the Onchain Summit, and shot videos reaching thousands of people.\n",
+  "impactMetrics": [
+    {
+      "description": "Video Views",
+      "number": 3613,
+      "url": "https://www.youtube.com/@OptimismTR"
+    },
+    {
+      "description": "Onchain Summit Post Views",
+      "number": 3575,
+      "url": "https://twitter.com/Optimism_TR/status/1712113910206107830?s=20"
+    },
+    {
+      "description": "RetroPGF Design Views",
+      "number": 5378,
+      "url": "https://twitter.com/retropgf/status/1713872118457242084?s=20"
+    },
+    {
+      "description": "RetroPGF Introduction Post Views",
+      "number": 1097,
+      "url": "https://twitter.com/Optimism_TR/status/1704844320111501812"
+    },
+    {
+      "description": "Total Number of Articles/Translations",
+      "number": 32,
+      "url": "https://medium.com/@optimismTR "
+    },
+    {
+      "description": "Turkish Translated OP Radio Broadcasts",
+      "number": 12,
+      "url": "https://x.com/Optimism_TR/status/1711024872611103077?s=20"
+    },
+    {
+      "description": "Total Number of Videos Produced",
+      "number": 17,
+      "url": "https://www.youtube.com/@OptimismTR"
+    },
+    {
+      "description": "Total Views of Articles",
+      "number": 601,
+      "url": "https://medium.com/@optimismTR "
+    },
+    {
+      "description": "Space with Tervelix # participants",
+      "number": 123,
+      "url": "https://twitter.com/Optimism_TR/status/1691032442235187201?s=20"
+    },
+    {
+      "description": "Participants in Manta Network Space",
+      "number": 131,
+      "url": "https://twitter.com/MantaNetworkTR/status/1694740905742237995?s=20"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x6f20aAfa661B45fd567FDDE94A5b7a1e807Ce2eE",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Optimism Türkiye",
+  "applicantName": "Optimism Türkiye",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x47a71c373e3F407f668509c2A6BD46911162bF56.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x47a71c373e3F407f668509c2A6BD46911162bF56.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x47a71c373e3F407f668509c2A6BD46911162bF56.json",
+  "RPGF3_Application_UID": "0x64c7ca00fc9414ad889721dd400f16c690d62bf1b01cb4202cf56dcd183be5d9",
+  "applicantAddress": "0x47a71c373e3F407f668509c2A6BD46911162bF56"
+}

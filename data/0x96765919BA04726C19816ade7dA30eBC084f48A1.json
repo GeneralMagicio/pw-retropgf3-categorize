@@ -1,0 +1,55 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://community.optimism.io/docs/contribute/contribution-path/numbaNERDs/",
+  "bio": "The NumbaNERDs program is designed to ensure that there is always high quality analytics and transparency around grant spending for delegates.",
+  "contributionDescription": "The NumbaNERDs program created deep dives on various grant recipient projects, improved data accessibility (by contributing to open source data infrastructure including Dune Spellbook and OP Analytics) and created mappings for deployers, improving the Optimism analytics ecosystem as a whole.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://app.dework.xyz/optimism-community/main-space-35638",
+      "description": "List of completed and ongoing tasks by NumbaNERDs."
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
+  "impactDescription": "The NumbaNERDs program has had a significant impact on governance-related analytics, data infrastructure, and transparency within the Optimism ecosystem, fostering growth and informed decision-making.Through collective contribution coming from our NumbaNERDs community, Optimism data excels any other protocol in the blockchain ecosystem. ",
+  "impactMetrics": [
+    {
+      "description": "# bounties completed and deep dives",
+      "number": 19,
+      "url": "https://gov.optimism.io/t/numbanerd-program-season-4-highlights/6861"
+    },
+    {
+      "description": "Testimonial",
+      "number": 1,
+      "url": "https://twitter.com/hildobby_/status/1707019485230530990"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 75000,
+      "description": "S4 Governance Mission Proposal: S4 Governance Mission Proposal"
+    },
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 0,
+      "description": "Payouts go directly to NumbaNERDs"
+    }
+  ],
+  "payoutAddress": "0x4c14FCD9c23aC67af1912F67c47105464e43d0d9",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "NumbaNERDs",
+  "applicantName": "NumbaNERDs",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x96765919BA04726C19816ade7dA30eBC084f48A1.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x96765919BA04726C19816ade7dA30eBC084f48A1.json",
+  "RPGF3_Application_UID": "0x4cd6de3604ab5f5ac866ee555fd9a6b19b4590890870251417dbfcc7b6602281",
+  "applicantAddress": "0x96765919BA04726C19816ade7dA30eBC084f48A1"
+}

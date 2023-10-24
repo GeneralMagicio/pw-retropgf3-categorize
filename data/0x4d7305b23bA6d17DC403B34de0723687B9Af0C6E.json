@@ -1,0 +1,41 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://twitter.com/Graciouseats",
+  "bio": "Hello! I am immersed in OP Talent Partner Program! I built, and continue to build, sourcing lists for various Optimism Career page vacancies.",
+  "contributionDescription": "I am a member of the Optimism Talent Partner Program!  As an engaged Optimism community member, I assisted in widening the top of the hiring funnel in an effort to hire high-quality contributors faster!  I did this by compiling hundreds of relevant potential candidates across various platforms.  I found candidates through iterative discussions with the OP Talent Team, the job advertisements, and shared relevant notes.  This is a time consuming activity, however it is one I am honored to do!",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://docs.google.com/document/u/0/",
+      "description": "Due to the sourcing list's semi-sensitive nature, available upon request.  "
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "My sourcing efforts expanded the candidate pool significantly.  My sourcing lists provided the OP Labs Talent Team an alternate pipeline of potential hires.  As the Optimism Job Board grew, the team was met with an increased workload.  I compiled extensive sourcing lists consisting of hundreds of potential hires for various open positions.  \n\nDue to the semi-sensitive nature of my sourcing lists, they are available by request.  Thank you!",
+  "impactMetrics": [
+    {
+      "description": "Sourcing List (Upon Request)",
+      "number": 420,
+      "url": "https://docs.google.com/document/u/0/"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x9FeE1335f996261713355cfB21367C17D716Ae5F",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "GraciousEats ",
+  "applicantName": "graciouseats",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x4d7305b23bA6d17DC403B34de0723687B9Af0C6E.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x4d7305b23bA6d17DC403B34de0723687B9Af0C6E.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x4d7305b23bA6d17DC403B34de0723687B9Af0C6E.json",
+  "RPGF3_Application_UID": "0x03dc7ed7d4734567f97d2dd95b10ed7cbea7c595209fa7623398d92275f2d03b",
+  "applicantAddress": "0x4d7305b23bA6d17DC403B34de0723687B9Af0C6E"
+}

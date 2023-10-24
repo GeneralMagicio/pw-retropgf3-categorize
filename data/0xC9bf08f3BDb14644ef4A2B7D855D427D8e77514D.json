@@ -1,0 +1,39 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://twitter.com/nghoanghung",
+  "bio": "I am a doctor, I learned about crypto 2 years ago",
+  "contributionDescription": "I participate in dapps  and use the op network to trade regularly. I will continue to participate in using the network if I feel it is okay. if I receive RetroPGF, I will stick with the experience and give feedback price so you can perfect your network and make it more suitable for users.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://etherscan.io/address/0xC9bf08f3BDb14644ef4A2B7D855D427D8e77514D",
+      "description": "erc20"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "I participate in dapps  and use the op network to trade regularly. I will continue to participate in using the network if I feel it is okay. if I receive RetroPGF, I will stick with the experience and give feedback price so you can perfect your network and make it more suitable for users.",
+  "impactMetrics": [
+    {
+      "description": "tx",
+      "number": 94,
+      "url": "https://optimistic.etherscan.io/address/0xC9bf08f3BDb14644ef4A2B7D855D427D8e77514D"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0xC9bf08f3BDb14644ef4A2B7D855D427D8e77514D",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Huy Long",
+  "applicantName": "alalaala",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xC9bf08f3BDb14644ef4A2B7D855D427D8e77514D.json",
+  "RPGF3_Application_UID": "0xcf3bd2b6490fe2f9d05cec37d03cbb530387323c1acd08f9a0f3d9f1e26e830a",
+  "applicantAddress": "0xC9bf08f3BDb14644ef4A2B7D855D427D8e77514D"
+}

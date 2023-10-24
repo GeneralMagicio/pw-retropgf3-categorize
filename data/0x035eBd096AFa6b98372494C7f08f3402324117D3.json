@@ -1,0 +1,96 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://thecap.eth.limo",
+  "bio": "builder, thinker, investor, grumpy optimist",
+  "contributionDescription": "Namespace is a subname management platform that brings customized solutions for ENS name owners (DAOs, collections, communities, individuals, etc.) and offers features that customize the subname managing and selling experience. \n\nOur platform has started expanding to the Optimism network, aiming to leverage its low-cost environment to mint ENS subnames effectively and store minting preferences on the OP chain by incorporating Chainlink's CCIP, with an option for klaster.io CCIP, to ensure a seamless experience.\n",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://op.namespace.ninja/",
+      "description": "Namespace OP"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://staging_app.namespace.ninja/",
+      "description": "Namespace on Goerli"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://app.namespace.ninja/",
+      "description": "Namespace on Mainnet"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.loom.com/share/49918d607ed44ca6988df3bb34fee6f2?sid=5c07e53d-a901-404b-8b3b-44b14d42a76f",
+      "description": "Loom Demo - How to List and Issue Subnames with Namespace"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "Subname Customization:\nWe've provided the Ethereum ecosystem with a structured naming system, offering 54 unique listed names at an average listing price of 0.16 ETH.\n\nEconomic Impact:\nOur platform has facilitated the minting of 178 subnames, generating a total of 23.10 ETH. This not only adds economic value but also utility to the ethereum ecosystem.\n\nUser Engagement:\nThe average spend per wallet for minting is 0.075 ETH, and the average earning is 0.14 ETH, promoting both user engagement and economic activity within the community.\n",
+  "impactMetrics": [
+    {
+      "description": "Unique listed names",
+      "number": 54,
+      "url": "https://docs.google.com/document/d/1DKeoy1DTzY1lBCX8W6zxhFx8z76YWQjtKqK2EjZlJzg/edit"
+    },
+    {
+      "description": "Average listing price in ETH",
+      "number": 0.16,
+      "url": "https://docs.google.com/document/d/1DKeoy1DTzY1lBCX8W6zxhFx8z76YWQjtKqK2EjZlJzg/edit"
+    },
+    {
+      "description": "Total minted subnames",
+      "number": 178,
+      "url": "https://docs.google.com/document/d/1DKeoy1DTzY1lBCX8W6zxhFx8z76YWQjtKqK2EjZlJzg/edit"
+    },
+    {
+      "description": "Unique parent names with minted subnames",
+      "number": 33,
+      "url": "https://docs.google.com/document/d/1DKeoy1DTzY1lBCX8W6zxhFx8z76YWQjtKqK2EjZlJzg/edit"
+    },
+    {
+      "description": "Total minted amount in ETH",
+      "number": 23.1,
+      "url": "https://docs.google.com/document/d/1DKeoy1DTzY1lBCX8W6zxhFx8z76YWQjtKqK2EjZlJzg/edit"
+    },
+    {
+      "description": "Average ETH spent on minting per wallet",
+      "number": 0.075,
+      "url": "https://docs.google.com/document/d/1DKeoy1DTzY1lBCX8W6zxhFx8z76YWQjtKqK2EjZlJzg/edit"
+    },
+    {
+      "description": "Average ETH earned on minting per wallet",
+      "number": 0.14,
+      "url": "https://docs.google.com/document/d/1DKeoy1DTzY1lBCX8W6zxhFx8z76YWQjtKqK2EjZlJzg/edit"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 10000,
+      "description": "ENS Ecosystem Grant"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 20000,
+      "description": "Startup Yard Accelerator"
+    }
+  ],
+  "payoutAddress": "0x035eBd096AFa6b98372494C7f08f3402324117D3",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Cap",
+  "applicantName": "Cap",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x035eBd096AFa6b98372494C7f08f3402324117D3.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x035eBd096AFa6b98372494C7f08f3402324117D3.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x035eBd096AFa6b98372494C7f08f3402324117D3.json",
+  "RPGF3_Application_UID": "0xcd0ddc6738caa80e30ea3c3ccc5a9980e2b8cb6ea9401baf0e1e13a0019f1a3f",
+  "applicantAddress": "0x035eBd096AFa6b98372494C7f08f3402324117D3"
+}

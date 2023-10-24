@@ -1,0 +1,40 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://www.twitter/harmankiarapk",
+  "bio": "Front end developer - Microsoft, Web3 enthusiasts, coder",
+  "contributionDescription": "                                                                                                                                                                                                                                                                    ",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "HTTPS://OPTIMISM.IO",
+      "description": "NFT SALES"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "                                                                                                                                                                                                                                                                  ",
+  "impactMetrics": [
+    {
+      "description": "NFT SALES",
+      "number": 9999,
+      "url": "HTTPS://OPTIMISM.IO"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x40784A7b89d3C82862BAf1845c6A94716018cEf8",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Harman Kiara",
+  "applicantName": "Harman Kiara",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x40784A7b89d3C82862BAf1845c6A94716018cEf8.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x40784A7b89d3C82862BAf1845c6A94716018cEf8.json",
+  "RPGF3_Application_UID": "0x7098d041cd317883a187e30cf6d78f32a40832ca67a71170ea182fdccf92bac0",
+  "applicantAddress": "0x40784A7b89d3C82862BAf1845c6A94716018cEf8"
+}

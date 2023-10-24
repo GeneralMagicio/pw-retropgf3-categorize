@@ -1,0 +1,80 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://github.com/dethcrypto/TypeChain",
+  "bio": "We've created TypeChain; now we are busy with something new...",
+  "contributionDescription": "TypeChain and DethCode are widely recognized tools in the developer community.\n\nFor several years, TypeChain has facilitated the writing of type-safe Ethereum code. It not only supports any OP-based networks, but it was also utilized in the prebedrock optimism-contracts repository itself. Despite its widespread use, TypeChain has recently been deprecated in favor of newer alternatives. This makes it perfect candidate for RPGF.\n\nDethCode offers the ability to browse smart contracts within ephemeral instances of VS Code. It supports both OP and Base networks. The innovative concept behind DC impressed Etherscan so much that they integrated similar functionality directly into their product. Nevertheless, DethCode continues to operate as a public utility, contributing to the broader ecosystem.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/dethcrypto/TypeChain",
+      "description": "TypeChain's main repo."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://github.com/search?q=org%3Aethereum-optimism+typechain&type=code",
+      "description": "TypeChain usage in Optimism org"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://blog.neufund.org/introducing-typechain-typescript-bindings-for-ethereum-smart-contracts-839fc2becf22",
+      "description": "TypeChain announcement post"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/dethcrypto/dethcode",
+      "description": "DethCode's main repo. "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/dethcrypto/status/1471173109998882819",
+      "description": "DethCode announcement tweet. "
+    }
+  ],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
+  "impactDescription": "TypeChain allowed hundreds (if not thousands) app-layer developers to build better software. Furthermore, it helped create original Optimism contracts itself. Have a look at GitHub dependencies and download stats.\n\nDethCode has significantly simplified the reading and exploration of smart contracts for numerous researchers and developers. Companies like L2BEAT use it on a daily basis to understand what's really what on-chain.",
+  "impactMetrics": [
+    {
+      "description": "TC Weekly downloads (~60% growth YoY)",
+      "number": 339138,
+      "url": "https://www.npmjs.com/package/typechain"
+    },
+    {
+      "description": "TypeChain github stars",
+      "number": 2600,
+      "url": "https://github.com/dethcrypto/TypeChain"
+    },
+    {
+      "description": "TypeChain dependencies",
+      "number": 156000,
+      "url": "https://github.com/dethcrypto/TypeChain/network/dependents"
+    },
+    {
+      "description": "DethCode Github stars",
+      "number": 1300,
+      "url": "https://github.com/dethcrypto/dethcode"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 4493867,
+      "description": "RPGF grant"
+    }
+  ],
+  "payoutAddress": "0x4d2F0Efdb2AD1d709d8522E7b5aa9f5181563617",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "TypeChain / DethCode",
+  "applicantName": "TypeChain / Deth Code",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xb41c548387CF11dC6553CD134C76754D5820EBe1.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xb41c548387CF11dC6553CD134C76754D5820EBe1.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xb41c548387CF11dC6553CD134C76754D5820EBe1.json",
+  "RPGF3_Application_UID": "0xe47991998f9a1046c12670765dd02b82353d11341b8f4341665d34ed235c8d8c",
+  "applicantAddress": "0xb41c548387CF11dC6553CD134C76754D5820EBe1"
+}

@@ -1,0 +1,41 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://coppernetwork.io",
+  "bio": "Copper Protocol Foundation: Pioneering governance evolution with cutting-edge DAOPlus solutions.",
+  "contributionDescription": "Contribution(s) to Optimism:\n\nWhile we are a new protocol and have not yet deployed on Optimism, we are excited to bring our innovative technology to this Layer 2 solution. Our plans include seamless integration with Optimism to provide enhanced benefits to its growing user base.\n\nBenefits to Optimism:\n\nBy integrating our protocol with Optimism, we aim to contribute to its ecosystem by attracting new users and projects. This partnership will expand Optimism's offerings, making it a more attractive choice for users seeking efficient and cost-effective solutions.\n\nRetroPGF Allocation:\n\nTo kickstart our collaboration, we kindly request a RetroPGF allocation of 25,000 OP tokens. These tokens will facilitate our deployment on Optimism and contribute to the growth of the ecosystem. ",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/Copper-Protocol",
+      "description": "Our github repositiory"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "Our forthcoming contributions mark the beginning of a valuable partnership with the Optimism Collective. We're eager to expand the ecosystem, attract new participants, and enhance Optimism's efficiency and cost-effectiveness. Together, we'll make a positive impact.\n",
+  "impactMetrics": [
+    {
+      "description": "N/A",
+      "number": 0,
+      "url": "https://github.com/Copper-Protocol"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x3D9dA641741447784298a2D58DB0ee5801dCabbd",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Copper Protocol",
+  "applicantName": "Copper Network",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3D9dA641741447784298a2D58DB0ee5801dCabbd.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x3D9dA641741447784298a2D58DB0ee5801dCabbd.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x3D9dA641741447784298a2D58DB0ee5801dCabbd.json",
+  "RPGF3_Application_UID": "0xc44bfd0bcabb3729f178bac563375f486dcef9fce779d2848d979d06b3a9b5ad",
+  "applicantAddress": "0x3D9dA641741447784298a2D58DB0ee5801dCabbd"
+}

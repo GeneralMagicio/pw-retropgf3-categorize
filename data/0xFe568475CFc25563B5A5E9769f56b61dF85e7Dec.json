@@ -1,0 +1,78 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "http://ethereumsanpedrosula.org/",
+  "bio": "👋 I develop compensation metrics systems on the blockchain.\n\nInterests: Community, graphics, education, open licenses, video games, and psychology.",
+  "contributionDescription": "We organize fully on-chain Optimism raffles with online and offline participants. We also take time to onboard newcomers to the event.\n\nWe provide artists with comprehensive support throughout their journey, from onboarding and NFT creation to raffling their NFTs in our Randomness Ceremony and monetizing their work.\n\nIn addition, we airdrop ETH tokens to newcomer participants and artists so they can purchase tickets to get in our events and cover gas expenses.\n\nWe also develop the smart contracts, website, and randomness generation mechanisms that underpin our raffles.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/Turupawn/RandomnessCeremony",
+      "description": "Randomness Ceremony code repository"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x10445fff1600ad3e38276ee3ec7cf7625d852687",
+      "description": "Lotto and NFT Ceremony on OP Mainnet"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x440897cb529c6dec3c0a53d630e72f667624694d",
+      "description": "Randomness Ceremony on OP Mainnet"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://randomnes-ceremony-zkbabe.vercel.app/",
+      "description": "Previously raffled NFTs"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://discord.gg/VYqHcwUkX",
+      "description": "Discord Server (Link expires in 30 days)"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "Gathered on the Randomness Ceremony website, artists are guided and submit their NFTs to be featured and won by degens eager to acquire art and token prizes.\n\nOur website is becoming increasingly user-friendly, providing a positive experience for all visitors.\n\nWe are confident that our efforts are not merely onboarding users to Optimism, but also forging associations between the platform and enjoyable community experiences.\n\nAlso all our code is open source and uploaded to github.",
+  "impactMetrics": [
+    {
+      "description": "Event counter in the new contract",
+      "number": 6,
+      "url": "https://randomnes-ceremony-zkbabe.vercel.app/debug"
+    },
+    {
+      "description": "Transactions",
+      "number": 192,
+      "url": "https://optimistic.etherscan.io/address/0x10445fff1600ad3e38276ee3ec7cf7625d852687"
+    },
+    {
+      "description": "POAPs minted",
+      "number": 88,
+      "url": "https://docs.google.com/presentation/d/1Pn4njhFsnqRvFqlCIvIzQUyjinbULEeawAClElwluFs/edit?usp=sharing"
+    },
+    {
+      "description": "Fresh accounts onboarding",
+      "number": 13,
+      "url": "https://docs.google.com/presentation/d/1zS3YW2rYUrEEIul2cLRTTL1L8RF2w0-7PLB8GczXh7I/edit?usp=sharing"
+    },
+    {
+      "description": "latam featured artists",
+      "number": 6,
+      "url": "https://docs.google.com/presentation/d/1081g-mcyO6jzcZKaN-ELng6xTeIX8E8QGv91kkSa6PU/edit?usp=sharing"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0xFe568475CFc25563B5A5E9769f56b61dF85e7Dec",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Randomness Ceremony",
+  "applicantName": "sucito",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xFe568475CFc25563B5A5E9769f56b61dF85e7Dec.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xFe568475CFc25563B5A5E9769f56b61dF85e7Dec.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xFe568475CFc25563B5A5E9769f56b61dF85e7Dec.json",
+  "RPGF3_Application_UID": "0x74c9135b2ca59c277d93942e535f02777d2779f1fee5b88c9ff76ff20cdcd8b8",
+  "applicantAddress": "0xFe568475CFc25563B5A5E9769f56b61dF85e7Dec"
+}

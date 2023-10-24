@@ -1,0 +1,78 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://ethernaut.openzeppelin.com/",
+  "bio": "The Ethernaut is an open-source solidity-based wargame maintained by OpenZeppelin. Each level is a smart contract that needs to be 'hacked'.",
+  "contributionDescription": "The Ethernaut is a community-driven capture-the-flag wargame that challenges developers of all levels to break smart contracts while learning common solidity vulnerabilities maintained by OpenZeppelin. Each level is a gamified experience where a smart contract needs to be 'hacked'. It is 100% open source and all levels are contributions made by other players.\n\nIn the last 2-years we have added 5 new levels, done a complete redesign of the UI, added support for multiple networks incl. Goerli-Optimism, translated the game into 10 languages, added a leaderboard feature and refactored the GitHub repository to host discussions and technical support.\n\nWe believe that The Ethernaut is essential in the the training of developers across the Ethereum ecosystem including the Optimism network.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://ethernaut.openzeppelin.com/",
+      "description": "The Ethernaut Game"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/OpenZeppelin/ethernaut",
+      "description": "The Ethernaut Repository"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://ethernaut.openzeppelin.com/leaderboard",
+      "description": "Leaderboard"
+    }
+  ],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
+  "impactDescription": "The Ethernaut is a hub for developers to understand smart contract security. It is also a key resource for new blockchain security researchers entering the field.\n\nIn the game, players’ skills are measured and recognized through a public leaderboard where they can link their contact details and build a reputation. Each network has its own leaderboard.\n\nThe game is always expanding with a current total of 29 distinct levels, where in each one of them, the player is engaged in a gamified experience that involves researching and exploiting a vulnerability in the contract.",
+  "impactMetrics": [
+    {
+      "description": "GitHub Stars",
+      "number": 1722,
+      "url": "https://github.com/OpenZeppelin/ethernaut"
+    },
+    {
+      "description": "GitHub Contributors",
+      "number": 91,
+      "url": "https://github.com/OpenZeppelin/ethernaut"
+    },
+    {
+      "description": "GitHub Forks",
+      "number": 616,
+      "url": "https://github.com/OpenZeppelin/ethernaut"
+    },
+    {
+      "description": "Total Players YTD (all networks)",
+      "number": 15063,
+      "url": "https://ethernaut.openzeppelin.com/stats"
+    },
+    {
+      "description": "Total Instances Created YTD",
+      "number": 141642,
+      "url": "https://ethernaut.openzeppelin.com/stats"
+    },
+    {
+      "description": "Total Instances Solved YTD",
+      "number": 97807,
+      "url": "https://ethernaut.openzeppelin.com/stats"
+    },
+    {
+      "description": "Total Instances Failed YTD",
+      "number": 23520,
+      "url": "https://ethernaut.openzeppelin.com/stats"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x1c14b478ADA4E2fc5D1E67B918D4ec4756BE579F",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "The Ethernaut",
+  "applicantName": "Ethernaut",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7D5a44baad1992092504bb8DCA602615fCe09351.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x7D5a44baad1992092504bb8DCA602615fCe09351.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x7D5a44baad1992092504bb8DCA602615fCe09351.json",
+  "RPGF3_Application_UID": "0x1dfca7cffa9babbcc0b9646e2e620da444285f4dc7d6e7f3692446ffe4d6b66b",
+  "applicantAddress": "0x7D5a44baad1992092504bb8DCA602615fCe09351"
+}

@@ -1,0 +1,45 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://soulcial.network/",
+  "bio": "Soulcial is an AI-driven DeSocial protocol. \nBeyond SocialFi: Your Web3 Soul is your Capital, no need to create content.",
+  "contributionDescription": "Our protocol aims at web3 massive adoption, and based on the existing Ethereum ecosystem and AI open-source models, we have already implemented the following product features:\n- A user-friendly login experience based on the Particle protocol to reduce users entry barriers.\n- An open-source image generation model trained based on Stable Diffusion, reducing the barriers to creating user-generated social assets and enriching the on-chain assets and content ecosystem.\n- We also plan to integrate ERC-6551 and abstract accounts to expand the utilization of NFTs, thus building a personalized social metaverse for a wider users.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xB39c5896A94287B9c0Bce736e505234b685c0E02",
+      "description": "NFT trade "
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "We aim to attract over 50,000 users to use our dapp within 3 months, and 500,000 in a year. Every user can generate their exclusive social assets and connect to more soulmates in our project.\n\n- Lowered the barrier to entry for creating social assets through the integration of visual social score and AIGC, enriching the op ecosystem.\n- Innovative transaction and incentive mechanisms providing creators in op ecosystem with diverse monetization tools.\n- Combined with the ERC-6551 and Abstract Accounts, the composable social metaverse has expanded the use cases for NFTs in op ecosystem.",
+  "impactMetrics": [
+    {
+      "description": "# of users",
+      "number": 50000,
+      "url": "https://soulcial.network/"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 0,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0x5707A0f0214B436c90D746636e413b8682D5D0B8",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Soulcial",
+  "applicantName": "Soulcial",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9791B7a69E5Fa8F9fe7F07b4817b815A89abEF5C.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x9791B7a69E5Fa8F9fe7F07b4817b815A89abEF5C.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x9791B7a69E5Fa8F9fe7F07b4817b815A89abEF5C.json",
+  "RPGF3_Application_UID": "0x6ecdfca90e94ecc3205d3bb4525e74ef694394411e35c85a7bc3832744b1a980",
+  "applicantAddress": "0x9791B7a69E5Fa8F9fe7F07b4817b815A89abEF5C"
+}

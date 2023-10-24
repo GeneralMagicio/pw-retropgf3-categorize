@@ -1,0 +1,43 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://twitter.com/Abdulaleem38178",
+  "bio": "Eth maxi",
+  "contributionDescription": "As an end user of the Optimism Collective, I've contributed in a number of ways. Firstly, I've been active in various social media communities, promoting the Optimism Collective and helping to onboard new users. Secondly, I've participated in several bug bounty programs, identifying and reporting issues with the platform. Lastly, I've been an active participant in the Optimism Discord server, offering feedback and suggestions to the development team. Overall, I feel that my contributions have helped to make the Optimism Collective a better and more user-friendly platform.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://twitter.com/Abdulaleem38178",
+      "description": "I'm just an opeth maxi and lover"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "As an end user of the Optimism Collective, my contributions have been both extensive and impactful. I've been able to provide detailed feedback on the user experience, identifying areas for improvement and suggesting new features that would make the Collective even more effective. My contributions have also helped to spread awareness of the Collective's mission and goals, increasing the number of users and helping to create a more vibrant and engaged community. My commitment to the Collective has led to a measurable increase in user engagement and has helped to make the Collective a more welcoming and inclusive space.",
+  "impactMetrics": [
+    {
+      "description": "https://twitter.com/Abdulaleem38178",
+      "number": 381,
+      "url": "https://twitter.com/Abdulaleem38178"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 5000,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0x12D87D2DD69E53BA965e5759a00B89e6e22eb54d",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Ass6",
+  "applicantName": "Ass6",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x12D87D2DD69E53BA965e5759a00B89e6e22eb54d.json",
+  "RPGF3_Application_UID": "0x2e7ce6f1e7e8bf0cf544940c0e3127318f7033c5613a8d41a2326caf4e8c2a06",
+  "applicantAddress": "0x12D87D2DD69E53BA965e5759a00B89e6e22eb54d"
+}

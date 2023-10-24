@@ -1,0 +1,40 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://twitter.com/Opti_Memes?t=JZDnlTAqWPuqekTrPsfFMQ&s=09",
+  "bio": "@optimismFND ecosystem-related memes. Let's have fun and stay Optimistic",
+  "contributionDescription": "Optimeme was created to spread positivity, optimism, and foster a sense of community through the creative and engaging medium of memes. We firmly believe in the power of humor and relatability and it use case in onboarding more users to the optimism ecosystem.\n\n1. Meme Creation:  We curate a diverse range of memes that are both humorous and educative. Our team of creative minds work to craft content that resonates with a broad audience of optimism ecosystem. \n\n2. Meme Promotion: Our team employs strategic and ethical methods to share these memes across various social media platforms and communities.\n\n3. Superchain-Related Memes:  In addition to spreading optimism, we also have a special focus on optimism \"superchain\" related content.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/Opti_Memes?t=tqFdfWLVfhJVDWRXjCminQ&s=09",
+      "description": "Twitter page for optimeme "
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "Through our relentless dedication to creating and promoting optimism and superchain-related memes, we've had a significant impact on both individuals and the broader online community.\n\nOn the superchain front, our mission is to educate and inspire people about the immense potential of blockchain technology. We've seen a growing interest and awareness in the transformative power of superchains, as our meme content has helped demystify complex concepts and made them more accessible to a wider audience.\n\nOur impact can be measured in engagement metrics, as well. Our memes have reached vast audience   across various social media platforms, sparking discussions, sharing knowledge, and creating a sense of community among those interested in both optimism and blockchain technology.",
+  "impactMetrics": [
+    {
+      "description": "Tweet impression ",
+      "number": 10000,
+      "url": "https://twitter.com/Opti_Memes?t=tqFdfWLVfhJVDWRXjCminQ&s=09"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x19518907a104666906296977C72f9c54a06258Da",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Optimeme",
+  "applicantName": "Optimeme",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x19518907a104666906296977C72f9c54a06258Da.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x19518907a104666906296977C72f9c54a06258Da.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x19518907a104666906296977C72f9c54a06258Da.json",
+  "RPGF3_Application_UID": "0x91ce535b3961c56ecef99e297f8bc4aa0e259d1216d66cfeaf6f431bf4f30d82",
+  "applicantAddress": "0x19518907a104666906296977C72f9c54a06258Da"
+}

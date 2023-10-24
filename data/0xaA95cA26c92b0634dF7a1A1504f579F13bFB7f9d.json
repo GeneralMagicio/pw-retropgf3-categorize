@@ -1,0 +1,43 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://twitter.com/jwick9968",
+  "bio": "crv",
+  "contributionDescription": "After a long time of trading and using Dapps on Op, I am really satisfied with the processing speed and transaction fees. For that reason, I have introduced my friends to transfer assets to Optimism to operate. Surely in the future I will introduce Optimism more to my friends!",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xaA95cA26c92b0634dF7a1A1504f579F13bFB7f9d",
+      "description": "Address Transactions"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "After a long time of trading and using Dapps on Op, I am really satisfied with the processing speed and transaction fees. For that reason, I have introduced my friends to transfer assets to Optimism to operate. Surely in the future I will introduce Optimism more to my friends!",
+  "impactMetrics": [
+    {
+      "description": "AD transactions",
+      "number": 941,
+      "url": "https://optimistic.etherscan.io/address/0xaA95cA26c92b0634dF7a1A1504f579F13bFB7f9d"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 699,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0xaA95cA26c92b0634dF7a1A1504f579F13bFB7f9d",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "jwick",
+  "applicantName": "Jwick",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xaA95cA26c92b0634dF7a1A1504f579F13bFB7f9d.json",
+  "RPGF3_Application_UID": "0xa8a90af9c36e868691d5b65aa82cd507481debf69991185396948aad5979e156",
+  "applicantAddress": "0xaA95cA26c92b0634dF7a1A1504f579F13bFB7f9d"
+}

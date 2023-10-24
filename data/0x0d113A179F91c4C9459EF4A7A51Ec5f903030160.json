@@ -1,0 +1,47 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://facebook.com/chinadoto",
+  "bio": "Iam crypto ethusiast since 2016 from indonesia, iam the most legit person on earth XD",
+  "contributionDescription": "protocol designed to provide trust in an open and decentralized environment of untrusted machines. The optimism platform provides a network where application providers, workers, and users can gather and work together,i will do something that i can do to bring people to crypto",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x0d113A179F91c4C9459EF4A7A51Ec5f903030160",
+      "description": "My wallet"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "One of the most significant impacts of cryptocurrency on the stock market is increased volatility. Cryptocurrencies are highly volatile, and their value can fluctuate rapidly. This volatility can spill over into the stock market and cause fluctuations in stock price especially for optimism",
+  "impactMetrics": [
+    {
+      "description": "#LFG",
+      "number": 5,
+      "url": "https://facebook.com/chinadoto"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 1000,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0x0d113A179F91c4C9459EF4A7A51Ec5f903030160",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Kira yagami",
+  "applicantName": "Yagamilight",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x0d113A179F91c4C9459EF4A7A51Ec5f903030160.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x0d113A179F91c4C9459EF4A7A51Ec5f903030160.json",
+  "RPGF3_Application_UID": "0xa0ccfbe591bd2298e29f34514c1569849d9e2a4b040029b334985555e9954a56",
+  "applicantAddress": "0x0d113A179F91c4C9459EF4A7A51Ec5f903030160"
+}

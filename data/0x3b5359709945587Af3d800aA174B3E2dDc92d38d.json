@@ -1,0 +1,43 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://www.interface.social/",
+  "bio": "Mobile companion for your Ethereum journey.",
+  "contributionDescription": "Interface is a consumer app that enables discover of onchain activity and content. We have been contributing to Optimism primarily by 1) enhancing discoverability of content created on Mirror and Zora protocol; 2) driving activity to corresponding platforms and chains (Optimism, Base, Zora); 3) providing a distribution channel for artists creating on top of Optimism, Base, Zora; 4) creating own onchain content.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://www.notion.so/interfaced/Interface-RetroPGF-0a670f0915ec42d6b94d6393d080af77?pvs=4",
+      "description": "Overview of the app"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "Interface has been the go-to place for Mirror article explorations since the feature launch in June this year. Users get notified when there favourite creators drop new publications, while also have a feed of recommended articles to explore. Besides, we have been supporting Base on Mirror from day one.\n\nWhen it comes to other media types, the new cryptomedia feed has been getting good traction despite being a very new feature. Users get to explore and be first to mint the most interesting and relevant content, that they otherwise might not have discovered at all. At the same time, Interface serves as a distribution channel for creators that are now able to reach new audiences.",
+  "impactMetrics": [
+    {
+      "description": "Article mints on Mirror (Optimism)",
+      "number": 1940,
+      "url": "https://interface.mirror.xyz/"
+    },
+    {
+      "description": "Zora mints through Interface",
+      "number": 82,
+      "url": "https://www.notion.so/interfaced/Interface-RetroPGF-0a670f0915ec42d6b94d6393d080af77?pvs=4"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x3b5359709945587Af3d800aA174B3E2dDc92d38d",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Interface",
+  "applicantName": "Interface",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3b5359709945587Af3d800aA174B3E2dDc92d38d.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x3b5359709945587Af3d800aA174B3E2dDc92d38d.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x3b5359709945587Af3d800aA174B3E2dDc92d38d.json",
+  "RPGF3_Application_UID": "0xa571be4c06b5885440e5924d0c047ef911b6ebdcfa173e0c2c176570355a566a",
+  "applicantAddress": "0x3b5359709945587Af3d800aA174B3E2dDc92d38d"
+}

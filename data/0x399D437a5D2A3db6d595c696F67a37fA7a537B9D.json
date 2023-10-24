@@ -1,0 +1,44 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://www.facebook.com/Vadym.Vychavka",
+  "bio": "I love my job and learning something useful",
+  "contributionDescription": "I tried to get involved in tasks and promote teamwork. Although it may be challenging to assess the specific impact of my actions, I believe they contributed to the overall process of achieving success. My contribution to the project involved active participation and a desire to promote a positive team dynamic. Being part of the team and working together on common tasks was essential. Working with others, I aimed to use my skills and knowledge to improve the project. Although sometimes the results may not be immediately visible, I believe that each participant's contribution is essential for overall success.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://github.com/ethereum-optimism",
+      "description": "OP"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "My participation in the team was important to me. Although I wasn't always sure how my contributions affected the project, I always tried to make my contribution and contribute to our collective efforts. Although I don't always manage to assess the full extent of my contribution, I always strive to help and learn from others. I'm grateful for the opportunity to be part of this project and grow together with the team.",
+  "impactMetrics": [
+    {
+      "description": "OP",
+      "number": 1,
+      "url": "https://github.com/ethereum-optimism"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 2000,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0x399D437a5D2A3db6d595c696F67a37fA7a537B9D",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "seovexs",
+  "applicantName": "seovexs",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x399D437a5D2A3db6d595c696F67a37fA7a537B9D.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x399D437a5D2A3db6d595c696F67a37fA7a537B9D.json",
+  "RPGF3_Application_UID": "0x092cf008f1de441b3c95b65dedb01a4aec80c495b735a39faa9510ece44f1ed1",
+  "applicantAddress": "0x399D437a5D2A3db6d595c696F67a37fA7a537B9D"
+}

@@ -1,0 +1,96 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://daostar.org/",
+  "bio": "DAOstar is the standards body for DAOs with 80+ member organizations. Our standards cover DAO metadata, attestations, grants, regulatory compliance & more. ",
+  "contributionDescription": "We help protocols, service providers, and DAOs on Optimism participate in, track, and benefit from standards for DAO metadata, proposals, governance, grants, regulatory compliance, and more.\n\nOur direct contributions to Optimism include: \n1. authoring EIP-4824,\n2. deploying and maintaining the EIP-4824 contracts, subgraphs, and explorer for Optimism,\n3. simplifying daoURI creation by building supporting infrastructure,\n4. engaging 20+ DAOs and tools on Optimism, with the Optimism Collective, ShapeShift, Unlock Protocol, Snapshot X, and LXDAO committing to adopt EIP-4824, and\n5. authoring standards on grants management and attestations. \n\nOur collaborative efforts have streamlined governance on Optimism and positioned DAOstar’s standards as key drivers for the ecosystem's DAO strategy.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/metagov/daostar",
+      "description": "DAOstar Github registry"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x18cbb356cd64193b1a0ca49911fc72cb3d02a5e4",
+      "description": "This contract is used to manage the EIP-4824 registration of DAOs"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x65D17d117C190f7A4cc784b56a17E3f7Edde5762",
+      "description": "Stores the daoURI, DAO address, manager (optional) during deployment"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x5C0340AD34f7284f9272E784FF76638E8dDb5dE4",
+      "description": "Creates a new DAO registration by cloning the template contract"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://daostar.one/EIP-4824-Common-Interfaces-for-DAOs-c89409d239004f41bd06cb21852e1684",
+      "description": "EIP-4824"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://daostar.one/365666f911a74392be6397159f590a68",
+      "description": "DAOstar One roundtable members"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://github.com/metagov/daostar/blob/main/DAOIPs/daoip-3.md",
+      "description": "Attestations standard v0.2 "
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM"
+  ],
+  "impactDescription": "Adoption: 4 DAOs on Optimism have already adopted EIP-4824. The adoption by Snapshot ensures that future DAOs using the framework on Optimism will automatically comply with EIP-4824. \n\nEngagement: We collected feedback from the 20+ projects on Optimism, ensuring that the implementation of EIP-4824 aligns with community needs. \n\nAccess: Our technical infrastructure improvements (contract upgrades, integrations with Snapshot & Boardroom, the explorer for Optimism, etc.) have made the adoption of EIP-4824 on Optimism easier. \n\nInnovation: Our work on attestations, grants, delegations, and regulatory interoperability take inspiration from EIP-4824. Multiple Optimism projects including Gitcoin, Tally, OpenZepplin, EAS, Agora, and others are involved in the projects. ",
+  "impactMetrics": [
+    {
+      "description": "Number of contracts deployed on Optimism",
+      "number": 6,
+      "url": "https://docs.google.com/spreadsheets/d/1DFrhM7oieE_5v6EVz1CVGkbXVTLEjX4yyd31YJlLPWQ/edit#gid=1379808148"
+    },
+    {
+      "description": "Number of Optimism DAOs reached out to",
+      "number": 20,
+      "url": "https://docs.google.com/spreadsheets/d/1DFrhM7oieE_5v6EVz1CVGkbXVTLEjX4yyd31YJlLPWQ/edit#gid=0"
+    },
+    {
+      "description": "DAOs/Tools committed to EIP-4824",
+      "number": 5,
+      "url": "https://docs.google.com/spreadsheets/d/1DFrhM7oieE_5v6EVz1CVGkbXVTLEjX4yyd31YJlLPWQ/edit#gid=0"
+    },
+    {
+      "description": "DAOstar One members on Optimism",
+      "number": 25,
+      "url": "https://docs.google.com/spreadsheets/d/1DFrhM7oieE_5v6EVz1CVGkbXVTLEjX4yyd31YJlLPWQ/edit#gid=146452956"
+    },
+    {
+      "description": "Working Groups on top of EIP-4824",
+      "number": 5,
+      "url": "https://docs.google.com/document/u/2/d/e/2PACX-1vQKhbePLhdsyLSXitlWghB1YRnCyP4Kqs42dxQuDWP0W65ol5tLuUr3cofNq2BxfbkOPy-aowyGa3-k/pub"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 85000,
+      "description": "Mission Proposal (not paid out yet)"
+    }
+  ],
+  "payoutAddress": "0xfF2aBEF3af9655D96Da983916e066134adea6390",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "EIP-4824/ DAOstar",
+  "applicantName": "amanwithwings ",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7AcE0b7a0cFb2980aa25310af5c2602144d58db2.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x7AcE0b7a0cFb2980aa25310af5c2602144d58db2.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x7AcE0b7a0cFb2980aa25310af5c2602144d58db2.json",
+  "RPGF3_Application_UID": "0x5a29dfaf262743ef41828989536d1a614874c4f26c414f81cfadaddd5b38e33c",
+  "applicantAddress": "0x7AcE0b7a0cFb2980aa25310af5c2602144d58db2"
+}

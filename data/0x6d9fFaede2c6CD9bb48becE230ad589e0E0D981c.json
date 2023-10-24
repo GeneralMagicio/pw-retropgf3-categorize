@@ -1,0 +1,71 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://warpcast.com/hellno",
+  "bio": "hellno the optimist - dev and founder - herocast, buzzcast",
+  "contributionDescription": "herocast is a Farcaster decentralized social network client for highly engaged power users and people working in web3. Existing features that users enjoy are fast response time, keyboard-navigation, Command Palette, integration with Noun-ish platforms.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x00000000fc9e66f1c6d86d750b4af47ff0cc343d",
+      "description": "Contract by Farcaster team that manages registry of 3rd party Farcaster clients"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://app.herocast.xyz/login",
+      "description": "herocast app website"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://searchcaster.xyz/search?text=herocast",
+      "description": "Messages by Farcaster users mentioning herocast, shows actual usage"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "3rd party client diversity on Farcaster helps to expand the Optimism Collective, by bringing a more diverse set of users to Farcaster, which is only deployed on Optimism.\n\n76 Farcaster accounts have been connected to herocast. \nThere are currently 63 herocast users with 20 of those being weekly active.\n \nUsers must have a Farcaster account, so have executed at least one onchain transaction. Users signing up to herocast must add a signer, which happens via an onchain transaction",
+  "impactMetrics": [
+    {
+      "description": "# of Farcaster accounts on herocast",
+      "number": 76,
+      "url": "https://dune.com/hellno/farcaster-app-breakdown"
+    },
+    {
+      "description": "# of herocast users",
+      "number": 63,
+      "url": "https://dune.com/hellno/farcaster-app-breakdown"
+    },
+    {
+      "description": "# of weekly active users",
+      "number": 20,
+      "url": "https://dune.com/pixelhack/farcaster"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 850,
+      "description": "Purple DAO Retro Funding"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 1500,
+      "description": "Warpcast Retro Funding"
+    }
+  ],
+  "payoutAddress": "0x6d9fFaede2c6CD9bb48becE230ad589e0E0D981c",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "herocast",
+  "applicantName": "hellno",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x6d9fFaede2c6CD9bb48becE230ad589e0E0D981c.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x6d9fFaede2c6CD9bb48becE230ad589e0E0D981c.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x6d9fFaede2c6CD9bb48becE230ad589e0E0D981c.json",
+  "RPGF3_Application_UID": "0x003239811ce4c367c667c7dc5b2609ba416e50888d38e0b7b4016fb05af98673",
+  "applicantAddress": "0x6d9fFaede2c6CD9bb48becE230ad589e0E0D981c"
+}

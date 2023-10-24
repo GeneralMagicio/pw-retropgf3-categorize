@@ -1,0 +1,46 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://bfre.nz/u/pramo129",
+  "bio": "My goal is to actively contribute to leading projects in the crypto and web3 space, working alongside to make a significant impact and create a transparent.",
+  "contributionDescription": "Hope to give active participation to the governance and bring more new useful participants into community to make more powerful community and increase fund and as well as experience the new dapps and spread that to the web3 to enhance the usage of Dapps, increase usage of the optimism chain.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x97c4634ee3295B96F81B96Baaaf302fc69FDaC38",
+      "description": "transaction history of my optimism block explorer"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "Introduce about the optimism governance and invite them to get voting power and be a take part of a optimism era. by introducing dapps, hope to bring new participants to de-fi and web3 world. introduce optimism and make strong community around optimism.",
+  "impactMetrics": [
+    {
+      "description": "transacation",
+      "number": 135,
+      "url": "https://optimistic.etherscan.io/address/0x97c4634ee3295B96F81B96Baaaf302fc69FDaC38"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 0,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0x97c4634ee3295B96F81B96Baaaf302fc69FDaC38",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "pramod",
+  "applicantName": "pramod",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x97c4634ee3295B96F81B96Baaaf302fc69FDaC38.jpeg",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x97c4634ee3295B96F81B96Baaaf302fc69FDaC38.jpeg",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x97c4634ee3295B96F81B96Baaaf302fc69FDaC38.json",
+  "RPGF3_Application_UID": "0xab582ba60be68a8dd19846bc7a46be66ff72fa87e1822dbdb1e74062f35d627b",
+  "applicantAddress": "0x97c4634ee3295B96F81B96Baaaf302fc69FDaC38"
+}

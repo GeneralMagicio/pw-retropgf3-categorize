@@ -1,0 +1,56 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://twitter.com/op_divergent",
+  "bio": "I'm Divergent - digital artist, web designer, game designer, OP contributor, OP delegate.\n\n",
+  "contributionDescription": "I am the digital-artist and designer of the Optimism ecosystem. All my content is accompanied by Optimism style drawings. This has always attracted the attention of users to further explore my posts about the Optimism ecosystem. \nI am also the creator of DAO and I have over 96 people trusting me with their votes, a power of over 39k. \n",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/op_divergent",
+      "description": "OP thread on twitter almost all in here"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "In 2022, I started creating original digital content for Optimism, which received great support from the community. \nI was later given the role of Optimism ambassador, which I still do to this day. \nCurrently, my content has over 140k views and the number of unique drawings has passed 100, which is one of the highest numbers amongst artists in the ecosystem (if not the highest). Some of my drawings are used in ecosystem forms. \n- I have created 2 collections of NFTs that have been distributed to an active community on Twitter (over 1000 people) via airdrop. \n- Also, one of my NFTs (Lady Greatness: Fall of Sybils on Base) was posted on the official Base Wallet quest and has already been minted by over 25,000 people!",
+  "impactMetrics": [
+    {
+      "description": "Content views",
+      "number": 142710,
+      "url": "https://docs.google.com/spreadsheets/d/1cflwgJnaPuZ-jM7eYdvGkeQdy5JCBD10_bZwOLvJY7Q/edit?usp=sharing"
+    },
+    {
+      "description": "Lady Greatness mint",
+      "number": 25108,
+      "url": "https://app.manifold.xyz/c/lady-greatness"
+    },
+    {
+      "description": "DAO",
+      "number": 39400,
+      "url": "https://vote.optimism.io/delegate/спекуляциядао.eth"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 25000,
+      "description": "https://app.manifold.xyz/c/lady-greatness"
+    }
+  ],
+  "payoutAddress": "0x5cB33476CF637f284744b0AD00eadC6388a7eCC5",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Divergent",
+  "applicantName": "Divergent",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5cB33476CF637f284744b0AD00eadC6388a7eCC5.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x5cB33476CF637f284744b0AD00eadC6388a7eCC5.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x5cB33476CF637f284744b0AD00eadC6388a7eCC5.json",
+  "RPGF3_Application_UID": "0xb3cc6e59b9e60b3f57ac6ef65ec7db407c28d7f19b2587358e79228eb00a7fb0",
+  "applicantAddress": "0x5cB33476CF637f284744b0AD00eadC6388a7eCC5"
+}

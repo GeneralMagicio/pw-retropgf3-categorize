@@ -1,0 +1,63 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://smolstudios.com/",
+  "bio": "Cofounder/Design lead of Smol - web3 production studio!",
+  "contributionDescription": "Tokepad is the easiest way to create a token and launch your community.\n\nIn one transaction, a user can deploy an ERC20 token, create a Liquidity Pool on Uniswap's v2, burn the Liquidity Provider's token to prevent a sudden withdrawal of this liquidity, and optionally send the token to defined addresses. The smart contract responsible for this interaction is deployed to the Base/Optimism to achieve low costs and speed that contribute to superior ease of use and accessibility of the product.\n\nTokepad simplifies token creation through a beautiful user interface and democratizes the process for everyone. It leads to fewer mistakes and fewer fraudulent behaviors in the space, making the end-user much more protected. ",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://tokepad.xyz/",
+      "description": "The main website"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://tokepad.xyz/create",
+      "description": "Token creation flow"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://basescan.org/address/0x562bd66f6bfcb9cb95e8477f7fcdae650c2b9d98",
+      "description": "Token Deployer contract"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/watch?v=MmxUD_2FuB8",
+      "description": "YouTube Review"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/tokepadxyz",
+      "description": "Twitter Profile"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "Since the launch, we've seen more than 31k deployed tokens and more than 90k visitors to the page. Posted YouTube videos have thousands of views. \n\nOur work helped people create their tokens without relying on complicated processes and shady interfaces. By giving everyone the power to create tokens while teaching them best practices around liquidity, we made users more aware of the technology and, in turn, more resistant to fraudulent behaviors.",
+  "impactMetrics": [
+    {
+      "description": "# Deployed tokens",
+      "number": 31.561,
+      "url": "https://basescan.org/address/0x562bd66f6bfcb9cb95e8477f7fcdae650c2b9d98"
+    },
+    {
+      "description": "# Page views",
+      "number": 90.6,
+      "url": "https://plausible.io/tokepad.xyz"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0xfFc71834456B93F386B85845ce88bB5Dd494a3dB",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Tokepad",
+  "applicantName": "Patryk",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xfFc71834456B93F386B85845ce88bB5Dd494a3dB.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xfFc71834456B93F386B85845ce88bB5Dd494a3dB.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xfFc71834456B93F386B85845ce88bB5Dd494a3dB.json",
+  "RPGF3_Application_UID": "0x7ef33a1364294d4672ec7f45c54dd5c40d6630e556b59f9590ac2004c147ba02",
+  "applicantAddress": "0xfFc71834456B93F386B85845ce88bB5Dd494a3dB"
+}

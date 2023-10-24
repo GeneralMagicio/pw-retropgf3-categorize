@@ -1,0 +1,59 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://www.valio.xyz/",
+  "bio": "Valio is an asset management platform that connects leading traders and managers",
+  "contributionDescription": "Valio is the first omnichain asset management protocol integrated with Optimism ecosystem. We are putting a high attention to OP ecosystem, connecting leading traders to trading tools like: 0x and Kwenta (releasing soon), as well as other integrations in the pipeline to make the asset management on Optimism as frictionless as possible",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://www.valio.xyz/",
+      "description": "Omnichain integration for OP, Kwenta coming soon"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/valioxyz",
+      "description": "Github Repo"
+    }
+  ],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "Valio is the first omnichain asset management protocol integrated with Optimism ecosystem. We are putting a high attention to OP ecosystem, connecting leading traders to trading tools like: 0x and Kwenta (releasing soon), as well as other integrations in the pipeline to make the asset management on Optimism as frictionless as possible",
+  "impactMetrics": [
+    {
+      "description": "Twitter",
+      "number": 7000,
+      "url": "https://twitter.com/valio_xyz"
+    },
+    {
+      "description": "OP vaults created",
+      "number": 41,
+      "url": "https://app.valio.xyz/explore"
+    },
+    {
+      "description": "Discord",
+      "number": 1900,
+      "url": "https://discord.gg/y5yBaSPj"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 0,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0xd0Ba8A15952924E78A8285477C08e23643c5f37D",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "valio.xyz",
+  "applicantName": "Valio_jd",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xd0Ba8A15952924E78A8285477C08e23643c5f37D.json",
+  "RPGF3_Application_UID": "0x41bc6ed45ea571f776a95729e345d56e0c4bb28c7856a325f8971a4c3b02dd4f",
+  "applicantAddress": "0xd0Ba8A15952924E78A8285477C08e23643c5f37D"
+}

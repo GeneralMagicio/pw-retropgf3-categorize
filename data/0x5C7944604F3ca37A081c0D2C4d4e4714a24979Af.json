@@ -1,0 +1,56 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://www.ethereum-france.com/",
+  "bio": "Ethereum France is a french association that unites a vibrant ecosystem through the organization of events, content creation, and the facilitation of exchanges.",
+  "contributionDescription": "Since 2018, we have been organizing the Ethereum Community Conference (EthCC) every year, which has become the world's leading conference on Ethereum, focusing on technology and the community. At Ethereum France, we believe that sharing and transmitting knowledge is the most efficient way to develop a positive and fertile ecosystem.\n\nDuring EthCC[6], a track was dedicated to \"rollups,\" which highlighted Optimism's unique contributions to enhancing Ethereum's scalability.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://www.ethcc.io/",
+      "description": "Official website for EthCC"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "With more than 5,000 attendees and 300 events during the EthCCWeek, EthCC contributes to the discovery and adoption of the Optimism ecosystem.\n\nEthCC[6] highlighted several important communications for the Optimism ecosystem:\n* Retroactive Public Goods Funding, Jonas Seiferth - Optimism\n* Fault Proofs on Optimism with Cannon, Joshua Gutow - OP Labs\n* Bootstrapping a bi-cameral governance system, Justine Humenansky - The Optimism Collective",
+  "impactMetrics": [
+    {
+      "description": "Attendees EthCC",
+      "number": 5000,
+      "url": "https://www.ethcc.io/"
+    },
+    {
+      "description": "Speakers EthCC",
+      "number": 350,
+      "url": "https://www.ethcc.io/"
+    },
+    {
+      "description": "Side events EthCC",
+      "number": 300,
+      "url": "https://www.ethcc.io/"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 0,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0x04a8a22e5ef364c5237df13317c4f083f32c2cc4",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Ethereum France",
+  "applicantName": "Ethereum France",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5C7944604F3ca37A081c0D2C4d4e4714a24979Af.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x5C7944604F3ca37A081c0D2C4d4e4714a24979Af.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x5C7944604F3ca37A081c0D2C4d4e4714a24979Af.json",
+  "RPGF3_Application_UID": "0x083cc62e08ddd1cafe05d94c4694b684bc5cbb44513b02ac884d368dea7f9c24",
+  "applicantAddress": "0x5C7944604F3ca37A081c0D2C4d4e4714a24979Af"
+}

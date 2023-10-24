@@ -1,0 +1,53 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://twitter.com/0xDeFiTH",
+  "bio": "I'm doing the ETH and DeFi educational contents for Thais",
+  "contributionDescription": "I contributed to the ETH, OP DeFi ecosystem, and OP stack by helping onboard Thai people to OP and helping them get to know the technical stuff of Ethereum in an easy-to-understand manner. \n\nAlso contributing to the broader DeFi Ecosystem on Ethereum by translating, explaining, and simplifying the concepts into layperson's terms",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://x.com/0xDeFiTH/status/1703574597273326030?s=20",
+      "description": "Thread describing Velodrome's new AMM"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/0xDeFiTH/status/1684700203650330632?s=20",
+      "description": "Thread explaining EIP-4844"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "By onboarding Thai people to Optimism and the OP stack chain, I've enabled individuals. Who mainly were priced out of the ETH mainnet, even in a bear market due to the low income in my country—to have the same level of access to high-quality DeFi dapps on Optimism L2 just like people in developed countries.\n\nMoreover, by doing this, I also bring people into the Ethereum ecosystem, helping them achieve the financial freedom they desperately need.",
+  "impactMetrics": [
+    {
+      "description": "Follower growth",
+      "number": 611,
+      "url": "https://typefully.com/0xDeFiTH/stats"
+    },
+    {
+      "description": "Impressions for ETH related threads",
+      "number": 20000,
+      "url": "https://typefully.com/0xDeFiTH/stats"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 200,
+      "description": "Currently self-funded but plan to expand team."
+    }
+  ],
+  "payoutAddress": "0xA84fa9e80E2b01C48fBc4dfdc8b5aC57F12a7e2B",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "0xDeFiTH",
+  "applicantName": "0xDeFiTH",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xA84fa9e80E2b01C48fBc4dfdc8b5aC57F12a7e2B.json",
+  "RPGF3_Application_UID": "0x04fcef24af88ed2a4d9f1eda19581b46a1737ee12955810bbeb4870b7b5c4d50",
+  "applicantAddress": "0xA84fa9e80E2b01C48fBc4dfdc8b5aC57F12a7e2B"
+}

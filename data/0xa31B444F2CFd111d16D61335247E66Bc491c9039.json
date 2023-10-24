@@ -1,0 +1,40 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://42069.com",
+  "bio": "rekt",
+  "contributionDescription": "Teach people 1000s of new users----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://42069.com",
+      "description": "pimping"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "1000s of new users===========--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------",
+  "impactMetrics": [
+    {
+      "description": "new usere",
+      "number": 42069,
+      "url": "https://42069.com"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0xa31B444F2CFd111d16D61335247E66Bc491c9039",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "kingtom",
+  "applicantName": "KingTom",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xa31B444F2CFd111d16D61335247E66Bc491c9039.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xa31B444F2CFd111d16D61335247E66Bc491c9039.json",
+  "RPGF3_Application_UID": "0xdaf131f87f517fb7d743ef82124aaa0f857a51b715204d4538e2dd69e38090e2",
+  "applicantAddress": "0xa31B444F2CFd111d16D61335247E66Bc491c9039"
+}

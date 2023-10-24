@@ -1,0 +1,37 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://twitter.com/optimismcis",
+  "bio": "I'm passionate about Web3. I'm a content creator. I focus on creating content around blockchain technology and Web3.",
+  "contributionDescription": "I am spreading the word about the Optimism project and spreading knowledge in the CIS regions, as I spread Optimism news and created tweets and topics about the project which helped bring many people and followers to become part of the Optimism ecosystem.\nAlso, I translated many tweets from English to Russian (I am not part of the translation team and will not receive any rewards from it because I did not post the links on Discord)",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/optimismcis",
+      "description": "Twitter account for CIS citizens "
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "The followers and viewers of the OptimismCIS Twitter account have gained extensive experience and knowledge about the Optimism project and also about projects built on Optimism.\nIt has now become easier for CIS citizens to begin their journey in the Optimism Project",
+  "impactMetrics": [
+    {
+      "description": "Tweet statistics",
+      "number": 11500,
+      "url": "https://docs.google.com/spreadsheets/d/1Xd3KgDeeN18OmO17fATwOmSxmiLKkEfSupPfJIQc8Ig/edit?usp=sharing"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0xB5759de539114751CA6dB8D967Ad21913Df25eCF",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "OptimismCIS",
+  "applicantName": "Optimism CIS",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xB5759de539114751CA6dB8D967Ad21913Df25eCF.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xB5759de539114751CA6dB8D967Ad21913Df25eCF.json",
+  "RPGF3_Application_UID": "0xed15cd4ad689bdda412a7b835ab519c2ce975d1b3b4a59142fb620d6996188f0",
+  "applicantAddress": "0xB5759de539114751CA6dB8D967Ad21913Df25eCF"
+}

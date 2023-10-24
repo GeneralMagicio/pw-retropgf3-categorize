@@ -1,0 +1,55 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://guild.xyz",
+  "bio": "I am Hanna, leading customer success at Guild.xyz. My main areas are building customer relationships, user education, and business development.",
+  "contributionDescription": "Since integrating Optimism to Guild - supporting tokens, NFTs, contract queries and OP Attestations - our contributions have expanded by introducing wallet-based actions as requirements and gated NFT distribution on Optimism.\n\nWallet Activity requirements allows communities to create unique membership journeys for developers, high-volume traders and power users based on their onchain actions and interest, while protecting shared spaces from Sybils within the Optimism ecosystem.\n\nWe also have rolled out our native NFT distribution tool on Optimism recently. Guild’s native NFT reward and composable role structure enable builders to have greater control over the allocation and utilization of their assets within the community, while linking immediate value to them.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/agoraxyz",
+      "description": "Guild Repository"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://guild.xyz/guildverse",
+      "description": "Guild Ecosystem"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://help.guild.xyz/en/",
+      "description": "Documentation"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "By building a permissionless homepage and toolkit for onchain communities, we continuously prioritize user experience and seamless onboarding for both builders and members.\n\nWith expanding the support for Wallet Activity requirements and NFT rewards on Optimism, communities can run NFT-based campaigns and build future strategies for growth and engagement natively in the ecosystem. Allowing users to perform transactions, increasing network usage and ecosystem growth.\n\nGuild currently has over 400 communities leveraging Optimism integrations, with 430K+ members who hold roles with OP-based requirements. Notable communities include Stargate Finance (242K holders), Linea (122K holders) and Base (58K holders).",
+  "impactMetrics": [
+    {
+      "description": "Optimism Guilds",
+      "number": 410,
+      "url": "https://lookerstudio.google.com/u/0/reporting/9d9b5afc-04eb-42bd-8eb1-6b3c0e966a99/page/VtvfD"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 50000,
+      "description": "Tooling & Utilities"
+    }
+  ],
+  "payoutAddress": "0xa934b56be3ec0bddfa8bfd1cb141e66d1bbd0f69",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Guild.xyz",
+  "applicantName": "hanna",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xA65eEf5D0566Ef2ED242d8719111e3116333278d.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xA65eEf5D0566Ef2ED242d8719111e3116333278d.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xA65eEf5D0566Ef2ED242d8719111e3116333278d.json",
+  "RPGF3_Application_UID": "0xc8ccf4d7e704f62803f942679100759e72a575c8b635ed926debe850f422bbc5",
+  "applicantAddress": "0xA65eEf5D0566Ef2ED242d8719111e3116333278d"
+}

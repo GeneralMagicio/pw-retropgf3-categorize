@@ -1,0 +1,132 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://galxe.com/",
+  "bio": "Galxe is the leading platform for building web3 communities having accumulated over 13 million unique users and 3700 partners.",
+  "contributionDescription": "Galxe’s self-serve, no-code infrastructure allows developers to easily engage and reward their communities in a seamless way with NFTs. A product that makes it simple for developers on Optimism to engage with global audiences of all kinds from our community of 13 million unique users. A way to effortlessly manage and reward community members. An infrastructure that makes it easy to target users from the more than 3700 other ecosystems that Galxe has partnered with. By using Galxe, Optimism developers have accelerated protocol growth on-chain and off while in parallel curating reward-based loyalty programs on Optimism to identify its most loyal, valuable contributors. Galxe’s developer-friendly infrastructure has powered the growth of many within Optimism’s ecosystem.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/token/0xb83a46447900f0637baab08ffa8ed03447e10bf0",
+      "description": "Optimism OAT Contract"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/token/0xfA14e1157F35E1dAD95dC3F822A9d18c40e360E2",
+      "description": "Optimism Quest Contract"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://blog.galxe.com/an-optimistic-learn-to-earn-experience-optimism-quests-31bdc49a3886",
+      "description": "Optimism Quest Case Study"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://medium.com/galxe-news/galxe-x-optimism-optimism-quests-f060c139d660",
+      "description": "Optimism Quest Blog"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://blog.galxe.com/the-launch-of-optimism-oat-85b53202d664",
+      "description": "Optimism OAT Blog"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://blog.galxe.com/embark-on-the-onchain-summer-celebration-with-galxe-243e680dd6ef",
+      "description": "Base On-Chain Summer Blog"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://medium.com/galxe-news/welcome-to-the-onchain-world-galxe-launches-mission-web3-7fda691b00b6",
+      "description": "Galxe & Base Mission Web3 Blog"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://blog.galxe.com/protocol-growth-odos-94ab9e92799",
+      "description": "Odos OP Case Study"
+    }
+  ],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "Galxe’s infrastructure has played a role in developing and expanding the OP Stack ecosystem by integrating Base, Manta Pacific, and Mode Sepolia into the Galxe platform. Furthermore, Galxe’s contribution to the Optimism Quest shined a spotlight on the Optimism ecosystem and its protocols. The Optimism Quest onboarded new users to Optimism and powered protocol retention\n\nSince Galxe integrated Optimism in July 2022, Galxe has directly powered 6,238,175 unique transactions through the Optimism network. In addition, Galxe partners have launched a total of 1296 quests deployed on Optimism via Galxe\n\nBy engaging with Galxe campaigns, users enable themselves to build their identity/reputation within the Optimism ecosystem by collecting Optimism OATs and NFTs among other achievements. ",
+  "impactMetrics": [
+    {
+      "description": "Unique transactions from Galxe on OP",
+      "number": 6238175,
+      "url": "https://docs.google.com/spreadsheets/d/1KwxmJ-2H1lIzC49sWWvxTqGjKlLsT27QWvkC6KI9RK4/edit?usp=sharing"
+    },
+    {
+      "description": "Total number of Galxe campaigns on OP",
+      "number": 1296,
+      "url": "https://docs.google.com/spreadsheets/d/1KwxmJ-2H1lIzC49sWWvxTqGjKlLsT27QWvkC6KI9RK4/edit?usp=sharing"
+    },
+    {
+      "description": "Galxe's OP On-Chain Metrics",
+      "number": 0,
+      "url": "https://dune.com/galxe/galxe-and-op-activity"
+    },
+    {
+      "description": "OP Quest Dune Dashboard",
+      "number": 0,
+      "url": "https://dune.com/oplabspbc/optimism-quests-project-usage-growth"
+    },
+    {
+      "description": "Galxe's Mission Web3 mints on Base",
+      "number": 284381,
+      "url": "https://basescan.org/token/0xA17C574AB5c2Eb04556d9Fd7D2b3DA22452fABCb"
+    },
+    {
+      "description": "Base's On-Chain Summer campaign on Galxe",
+      "number": 31389,
+      "url": "https://basescan.org/token/0x412ae9a6aede7b8269c96996a2b5bb4837fd210a"
+    },
+    {
+      "description": "Odos and Galxe OP campaign",
+      "number": 0,
+      "url": "https://dune.com/unionepro/odos-dex-aggretator-stats"
+    },
+    {
+      "description": "Manta Fest Mints on Galxe",
+      "number": 29430,
+      "url": "https://pacific-explorer.manta.network/token/0xd5CB4A5009E9D9CDD58Ef093182729D78C5d5a6E/token-transfers"
+    },
+    {
+      "description": "Mode Tutorial Week Mints on Galxe",
+      "number": 9150,
+      "url": "https://sepolia.explorer.mode.network/token/0x28269908e15409678326d854BBEC601154265c80"
+    },
+    {
+      "description": "Mode Referral Week Mints on Galxe",
+      "number": 5643,
+      "url": "https://sepolia.explorer.mode.network/token/0xBeD04e7d55e04f730dc584F28651E0bf2cE6cE3c"
+    },
+    {
+      "description": "Mode DEX Week Mints on Galxe",
+      "number": 10448,
+      "url": "https://sepolia.explorer.mode.network/token/0x62F4f7A2B4C25321A258997b2C5876044b86F15d"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 200000,
+      "description": "Galxe received a growth experiments grant during season 3, cycle 11."
+    }
+  ],
+  "payoutAddress": "0x5aB0Fdc6F0CA9Ea178c95cECCf944A4ce1AedDdD",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Galxe",
+  "applicantName": "Galxe",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x638b91852B7459BE5158646bD0FAEcB7BAC4fca2.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x638b91852B7459BE5158646bD0FAEcB7BAC4fca2.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x638b91852B7459BE5158646bD0FAEcB7BAC4fca2.json",
+  "RPGF3_Application_UID": "0x166b7be374825b11dc2af89b61ef1d66b5b45487b97ea3dd569e62f2f7b7b41e",
+  "applicantAddress": "0x638b91852B7459BE5158646bD0FAEcB7BAC4fca2"
+}

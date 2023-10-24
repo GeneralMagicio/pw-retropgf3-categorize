@@ -1,0 +1,93 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://tkn.xyz",
+  "bio": "TKN is an onchain token tracker, with a companion headless UI (Example: Send Eth to dai.swp.eth to receive dai back in the same transaction)",
+  "contributionDescription": "TKN has shipped a decentralized, onchain token tracker protocol, that anyone can suggest changes to, which serves as decentralized public infrastructure for OP tokens. \n\nMaintaining an online token registry allows TKN to publish a \"headless\" interface at swp.eth. Example: users can send eth to usdc.swp.eth and $USDC will be automatically returned.\n\nWe launched the TKN DAO on Optimism, with a unique token claim structure that doesn't require gas or trust from the user: claim.tkn.xyz/\n\nProducts shipped:\n(See our full product list in glorious illustrated color: https://giveth.io/project/token-name-service)\n- Token subgraph\n- Developer API: docs.tkn.xyz/developers/querying-the-tns-dataset\n- TokenList: https://tokenlists.org/token-list?url=list.tkn.eth\n- Web app\n- iOS app\n- Whitepaper\n- SWP.eth",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://whitepaper.tkn.xyz",
+      "description": "Whitepaper"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://tkn.xyz",
+      "description": "Token tracker application and data editor"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://claim.tkn.xyz",
+      "description": "Governance bootstrap tool"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://apps.apple.com/ca/app/tkn-decentralized-token-data/id6447381005?platform=iphone",
+      "description": "TKN iOS App"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://giveth.io/project/token-name-service",
+      "description": "Giveth project listing"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/tickerdao",
+      "description": "TKN DAO Github Repository"
+    }
+  ],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "TKN has shipped a suite of products, we have begun to focus on growth\n\nPrimary impact metrics: \n- Total token datapoints\n(uncensorable datapoints persisted onchain)\n- Total tokens indexed\n(Total number of ticker symbols onchain)\n\nPraise for TKN:\nSky:\nThis is a real deal product. It’s new and not known about enough yet.\nIt’s the next really important PublIc Good\n\nPol.eth:\nThis is unironically how we onboard the next billion users\n\nLimes.eth:\nThis is cool, I just performed a \"headless swap\" via swp.eth by \n@TokenDao_\nI sent .01 ETH to dai.swp.eth and got 15 DAI back. \n\nForum Post on how it works: https://shorturl.at/qOPQT\n\nTransaction: https://etherscan.io/tx/0x30b48536ab65a2e17c7f598430c79929d6f0a560dca22591b43d23a1ab78dc58\n\nENS builders keep building🔥🤯🏗️",
+  "impactMetrics": [
+    {
+      "description": "Unique onchain datapoints",
+      "number": 3475,
+      "url": "https://tkn.xyz/edit"
+    },
+    {
+      "description": "TKNDAO Governance Claims on Optimism",
+      "number": 733,
+      "url": "https://optimistic.etherscan.io/address/0x3Eb398fEc5F7327C6b15099a9681d9568ded2e82"
+    },
+    {
+      "description": "SWP interfaces",
+      "number": 14,
+      "url": "https://whitepaper.tkn.xyz/#initial-pools"
+    },
+    {
+      "description": "Outlined growth metrics",
+      "number": 7,
+      "url": "https://whitepaper.tkn.xyz/#metrics"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 2240,
+      "description": "ENS Small Grants funding"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 20000,
+      "description": "Optimism Public goods grant (March 2022)"
+    }
+  ],
+  "payoutAddress": "0x5aE8F2adbAB2e37145e50B40E89dcB39dFB07Ee6",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Token Name Service",
+  "applicantName": "Token Name Service + SWP.eth",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5aE8F2adbAB2e37145e50B40E89dcB39dFB07Ee6.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x5aE8F2adbAB2e37145e50B40E89dcB39dFB07Ee6.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xCA21d1D2FA81641C3F75d8786d6529f9B7512Ef5.json",
+  "RPGF3_Application_UID": "0x4e9bde0f10a6ec054904c73f12ecad9cf0c4d67dc35a71f9fb68af449016c1a6",
+  "applicantAddress": "0xCA21d1D2FA81641C3F75d8786d6529f9B7512Ef5"
+}

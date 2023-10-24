@@ -1,0 +1,61 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://optimism.help",
+  "bio": "All resources related to Optimism governance on a single website",
+  "contributionDescription": "The Optimism Resource Center consolidates more than 100 resources related to Optimism governance on a single website. Previously, those resources were scattered across a range of locations such as the Community Hub, Governance Forum, Mirror, Charmverse, Notion, and GitHub. This fragmentation made it challenging to find relevant information.\n\nSome of the most popular features of the Optimism Resource Center are the popover previews that are displayed when you hover over a linked page (just like in Wikipedia), and the graph view that allows you to visually explore the connections between the governance resources.\n \nWe also opened 5 pull requests (3 merged) to the official Community Hub repo to fix outdated information we found while searching for resources to include in the site.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://optimism.help",
+      "description": "Optimism Resource Center Website"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/govguide/optimism-resource-center",
+      "description": "Github repo for Optimism Resource Center"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://github.com/ethereum-optimism/community-hub/pulls/govguide",
+      "description": "Open and merged PRs to official Community Hub repo on GitHub"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "By bringing together all resources related to Optimism governance, the center simplifies the process of finding information, making it easier and more time-efficient for governance participants and users alike.\n\nIn October alone (Oct 1st - 23rd), the site has reached 665 unique visitors and 3465 page views. \n\nWe are particularly proud to hear about many OP Labs contributors using the site: Maurelian mentioned on Farcaster that the Optimism Resource Center “is blowing up in the OP Labs slack”, Michael Silberling praised it as \"insanely cool\", and Harper shared that \"we are all stoked\".\n",
+  "impactMetrics": [
+    {
+      "description": "# of unique website visitors",
+      "number": 700,
+      "url": "https://plausible.io/optimism.help"
+    },
+    {
+      "description": "# of total pageviews",
+      "number": 4074,
+      "url": "https://plausible.io/optimism.help"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 0,
+      "description": "No grants were requested for this project and no revenue was generated"
+    }
+  ],
+  "payoutAddress": "0x7DbdF9F2998c428Dd50c984b9C94967D1A297A0e",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Optimism Resource Center",
+  "applicantName": "Optimism Resource Center",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7DbdF9F2998c428Dd50c984b9C94967D1A297A0e.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x7DbdF9F2998c428Dd50c984b9C94967D1A297A0e.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x7DbdF9F2998c428Dd50c984b9C94967D1A297A0e.json",
+  "RPGF3_Application_UID": "0x5572ace56a0491b438775967a0b8a236ec052a7589b42a802b5c36e29b509098",
+  "applicantAddress": "0x7DbdF9F2998c428Dd50c984b9C94967D1A297A0e"
+}

@@ -1,0 +1,45 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://www.facebook.com/RogelioAusteroBelgaJr",
+  "bio": "i am a free lancer whos hunting airdrop but not a multi account user",
+  "contributionDescription": "i am a NFT holder enthusiast  on some projects on Optimism but as of now they are not qualified for retro airdrops  community is a must on a project so hear out hte community\n i really love optimism fast and low transaction \nbridging and projects are in good hands ",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://www.facebook.com/RogelioAusteroBelgaJr",
+      "description": "let s rock"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "as a newbie i cant understand  this very well due to im not well aware on how it works but as a airdrop hunter i interact as long as i can achieve many txn and bought NFt for usecases\nprojects and governance is a must also due to community driven are well for us",
+  "impactMetrics": [
+    {
+      "description": "2fa  password",
+      "number": 2,
+      "url": "https://www.facebook.com/RogelioAusteroBelgaJr"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 10,
+      "description": "im not rich i only invest what i can afford to lose"
+    }
+  ],
+  "payoutAddress": "0x13192B1056ED57eaa06BB7E49d70964A668e8604",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "thirdeenette1989",
+  "applicantName": "thirdeenette1989",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x13192B1056ED57eaa06BB7E49d70964A668e8604.json",
+  "RPGF3_Application_UID": "0x9330b502f090d2dc537272984bc42d49cbc3f3d4f58b46244a140e3f3c92befb",
+  "applicantAddress": "0x13192B1056ED57eaa06BB7E49d70964A668e8604"
+}

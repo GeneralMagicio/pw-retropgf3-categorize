@@ -1,0 +1,49 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://kwenta.eth.limo/",
+  "bio": "Kwenta is a perpetual futures exchange on Optimism",
+  "contributionDescription": "Kwenta has grown to one of the largest perps DEXes by volume, and has helped onboard thousands of users, both large and small, to the Optimism ecosystem.\n\nAlthough we believe this contribution alone is valuable, we are particularly proud of Kwenta's work being published entirely open source, both backend and frontend. Our work has served as a blueprint for other builders in the space, including Rage Trade, a project which previously integrated only GMX on Arbitrum. Our open source Python SDK was cited as one of the tools they used to build their integration on Optimism. \n\nWe've also worked directly with integrators such as Tradao, STFX, and Copin to provide marketing, business development, and technical support to build the Optimism community.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/Kwenta",
+      "description": "The Kwenta Github has the source for our frontend, python SDK, and governance"
+    }
+  ],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "Through the onboarding of users, community developers, and ecosystem partners, Kwenta has contributed significantly to growth and activity on the Optimism chain, and participation in the wider ecosystem.\n\nOur commitment to building open source tools and our encouragement to other developers to share and build on collective work has helped give Optimism a reputation as one of the best places to innovate in the onchain derivatives space.\n\nWe facilitate thousands of trades per day in v2 alone, leading to millions of individual transactions on OP. ",
+  "impactMetrics": [
+    {
+      "description": "# of trades",
+      "number": 458000,
+      "url": "https://kwenta.io/stats/"
+    },
+    {
+      "description": "# of wallets",
+      "number": 14501,
+      "url": "https://kwenta.io/stats/"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 791241.5635,
+      "description": "Current USD value of all SNX we have received, mostly staked by our treasury."
+    }
+  ],
+  "payoutAddress": "0x82d2242257115351899894eF384f779b5ba8c695",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Kwenta",
+  "applicantName": "Kwenta",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xC065E02D562cc390F3569305990BFD13B17eEC6B.json",
+  "RPGF3_Application_UID": "0x4cd4c0671a5d7bda3cd010d83ca26956c608eb0fc4350291acedb62596d3c03c",
+  "applicantAddress": "0xC065E02D562cc390F3569305990BFD13B17eEC6B"
+}

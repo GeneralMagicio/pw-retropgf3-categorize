@@ -1,0 +1,38 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "http://ankr.com",
+  "bio": "Ankr provides Optimism with developer tooling and Free RPC Endpoints",
+  "contributionDescription": "Ankr has supported Optimism for the past 2 years for public goods using RPC endpoints. We have supported an average of 2.5-3bil requests per 30 days. Developers have access to 1million RPC requests, per user daily. Websocket access is also available on our premium tiers.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://www.ankr.com/rpc/optimism",
+      "description": "Ankr - Optimisms Free RPC endpoint"
+    }
+  ],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "Ankr has had an extremely positive impact in the OP developer community, powering numerous dApps and enabling developers access for up to 1million RPC requests per day for free, per user. Ankr also has Websocket access for premium user signup, with no limits.",
+  "impactMetrics": [
+    {
+      "description": "# of RPC request per 30 days",
+      "number": 2500000000,
+      "url": "https://www.ankr.com/rpc/optimism"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x43938802d3A54bB0d70316a8FF456c4888E1bf3c",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Ankr",
+  "applicantName": "Arsalan - Ankr",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x5eEeB9F8a2050533BBEd20F87d445Dcf309a5eA7.json",
+  "RPGF3_Application_UID": "0x4fa62d7e6f1c9e324e6faeb6589d100573bd57b709df68edbe00204200670e1a",
+  "applicantAddress": "0x5eEeB9F8a2050533BBEd20F87d445Dcf309a5eA7"
+}

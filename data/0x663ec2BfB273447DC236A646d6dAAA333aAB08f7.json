@@ -1,0 +1,67 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://nethermind.io",
+  "bio": "Nethermind is a Blockchain Research and Software Engineering company empowering enterprises and developers worldwide to build on decentralized systems.",
+  "contributionDescription": "We are bringing the Nethermind Client to Optimism, thereby supporting client diversity and providing node operators with an alternative client design. The Nethermind execution client is a highly configurable Ethereum node built on .NET, offering high compatibility, performance, high-speed synchronization, and healthy node monitoring. We are bringing all of these features to the Optimism Network and all OP Stack-based chains.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/NethermindEth/nethermind",
+      "description": "The Nethermind client now supports the Optimism network"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/NethermindEth/nethermind/pull/6146/",
+      "description": "The Nethermind client now supports the Optimism network"
+    }
+  ],
+  "impactCategory": [
+    "OP_STACK"
+  ],
+  "impactDescription": "Instead of creating a fork, we're incorporating support for OP Stack directly into the Nethermind Client. This means users can use the same client for all Ethereum and OP Stack chains, ensuring a consistent experience. Additionally, any new features implemented in the client will be immediately available for OP Stack chains.",
+  "impactMetrics": [
+    {
+      "description": "number of synced nodes on mainnet",
+      "number": 1322,
+      "url": "https://www.ethernodes.org/?synced=1"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 135000,
+      "description": ""
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 58000,
+      "description": ""
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 130000,
+      "description": ""
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 100000,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0xDD71EbF2B1ce923E3e231388a8a7cDba253485c1",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Nethermind",
+  "applicantName": "Nethermind",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x663ec2BfB273447DC236A646d6dAAA333aAB08f7.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x663ec2BfB273447DC236A646d6dAAA333aAB08f7.json",
+  "RPGF3_Application_UID": "0x46f5cb8434c4f1188ff9581ef4723a7450d6c8b76346d1ef8e8ff4bd9d4de8ce",
+  "applicantAddress": "0x663ec2BfB273447DC236A646d6dAAA333aAB08f7"
+}

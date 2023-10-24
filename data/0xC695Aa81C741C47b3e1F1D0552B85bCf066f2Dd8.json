@@ -1,0 +1,100 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://linktr.ee/banklessmagyar",
+  "bio": "We are DAO Magyar ( Hungarian ), which is part of the Bankless DAO's International Media Nodes project, IMN. We translate English web 3 content into Hungarian.",
+  "contributionDescription": "We have helped solve part of the language barrier to entry of Hungarian speakers, readers by providing translations of Optimism articles and other quality Web3/ crypto educational material, like that produced by from Bankless.com and Bankless DAO from English into Hungarian.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://linktr.ee/banklessmagyar",
+      "description": "This is a link to our Linktr.ee "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://banklessmagyar.substack.com/",
+      "description": "We produce a weekly newsletter and completed a recent Optimism Campaign "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://mirror.xyz/banklessmagyar.eth",
+      "description": "We published several Optimism articles on Mirror; published /minted on Optimism."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/BanklessMagyar/status/1708943025542439154?s=20",
+      "description": "We took part in Optimism Twitter campaign; in Hungarian."
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "-  We were able to help propagate the Optimistic Vision and mission to a community of Hungarian readers / speakers via newsletter and social media amplification\n- We have a small but regular readership, which probably reflects the population of Hungary; approximately 9.7 million people.\n- There is presently only a small tangible measurement of the impact that we had on Optimism however in an intangible sense knowing that no language or community will be left behind a barrier, such as language, no matter how small the reach, makes the wider web3 global community feel like a diverse, inclusive space.\n- I'm Optimistic that more Hungarian readers will access and perhaps mint these articles going forward.\n",
+  "impactMetrics": [
+    {
+      "description": "Views :  ",
+      "number": 163,
+      "url": "https://docs.google.com/spreadsheets/d/1vhWlgxaBARmPITTPedJ-9Naq2I5IsDiBUXvWXLdw5eE/edit#gid=122007923"
+    },
+    {
+      "description": "Minted:",
+      "number": 10,
+      "url": "https://mirror.xyz/banklessmagyar.eth"
+    },
+    {
+      "description": "Impressions",
+      "number": 54,
+      "url": "https://twitter.com/BanklessMagyar/status/1668000281936687107"
+    },
+    {
+      "description": "Impressions",
+      "number": 915,
+      "url": "https://twitter.com/BanklessMagyar/status/1678512985306742787"
+    },
+    {
+      "description": "Impressions",
+      "number": 54,
+      "url": "https://twitter.com/BanklessMagyar/status/1682145912154468353"
+    },
+    {
+      "description": "Views",
+      "number": 31,
+      "url": "https://banklessmagyar.substack.com/p/moloch-hamvaibol-emelkedik-fel-az"
+    },
+    {
+      "description": "Views",
+      "number": 19,
+      "url": "https://banklessmagyar.substack.com/p/az-optimizmus-kormanyzasa-kozossegre"
+    },
+    {
+      "description": "Views",
+      "number": 17,
+      "url": " https://banklessmagyar.substack.com/p/az-optimism-uj-gazdasagi-paradigmat"
+    },
+    {
+      "description": "Views",
+      "number": 18,
+      "url": "https://banklessmagyar.substack.com/p/mi-a-lancok-torvenye"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 80,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0xC695Aa81C741C47b3e1F1D0552B85bCf066f2Dd8",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Bankless DAO Magyar ( Hungarian )",
+  "applicantName": "Bankless Magyar",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xC695Aa81C741C47b3e1F1D0552B85bCf066f2Dd8.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xC695Aa81C741C47b3e1F1D0552B85bCf066f2Dd8.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xC695Aa81C741C47b3e1F1D0552B85bCf066f2Dd8.json",
+  "RPGF3_Application_UID": "0xaaa12789053b06e474d98743e9e31e4b92f0121fcefcba237b9509ee636541af",
+  "applicantAddress": "0xC695Aa81C741C47b3e1F1D0552B85bCf066f2Dd8"
+}

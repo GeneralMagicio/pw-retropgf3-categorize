@@ -1,0 +1,72 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://flipsidecrypto.xyz/arabianhorses-jZtVNa/base-mFR-QT",
+  "bio": "Hey there, I'm Oğuz, a data nerd from Turkey. You might know me by the nickname 'arabianhorses.' I'd like to inform you that I'm also an Optimism nerd.",
+  "contributionDescription": "Except, the dashboards, I am an Optimism Nerd, Ambassador and Translator too, also contributed some other projects too so I made a lot of different contributions to Optimism however when you are evaluating this application you shouldn't consider those, since there are applications by Optimism Foundation for these groups.  I think my best and biggest contribution to the Optimism, giving Optimistic vibes around Optimism. However there is no proper way to measure it. So here is my flipside profile's link try to evaluate this \nhttps://flipsidecrypto.xyz/arabianhorses-jZtVNa?d_sort=new\n",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://flipsidecrypto.xyz/arabianhorses-jZtVNa/base-base-mFR-QT",
+      "description": "A dashboard about BASE, you will find some basic and interesting metrics."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://dune.com/arabianhorses/optimismtr-1",
+      "description": "A tool for comparing any wallet's activity with others on OP Mainnet"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://flipsidecrypto.xyz/arabianhorses-jZtVNa/aave-on-optimism-aave-on-optimism-aBTZSv",
+      "description": "Aave on Optimism Dashboard."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://flipsidecrypto.xyz/arabianhorses-jZtVNa/dai-use-cases-on-optimism-dai-use-cases-on-optimism-kfMf9a",
+      "description": "DAI use cases on Optimism (Made for a bounty but I did not get anything for it)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://flipsidecrypto.xyz/arabianhorses-jZtVNa/flow-direction-optimism-base-LhwQmR ",
+      "description": "Base Announcement Effects on Op Mainnet"
+    }
+  ],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "I am building dashboards with on-chain data. \n\nI should say that, I have taken(learnt) more then I give to the Optimism, then mention about this situation in different medias, in real, on twitter... So people start to ask me how can I leverage RPGF, what can we build for Optimism, and I showed the way with solid examples. \n\nBefore the RPGF#2 I was not interesting with data analyzes and I was running Optimism_TR twitter account with 2 other friends, then we took a share from RPGF #2 and split the word, mention about it. This created an excitement around Turkish community some followers of the account reach out us for contributing now there are 11 people who creates contents about Optimism. And during the term only %10 of the contents created by old crew. \n",
+  "impactMetrics": [
+    {
+      "description": "Likes on Dune",
+      "number": 17,
+      "url": "https://dune.com/arabianhorses/optimismtr-1"
+    },
+    {
+      "description": "NFT mint",
+      "number": 1,
+      "url": "https://basescan.org/address/0x16be9a6dc98e644fc0fb2c507dea65e094db9c2c"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 75,
+      "description": "Specific to Dashboards which are taking place at this application."
+    }
+  ],
+  "payoutAddress": "0xf23F9C10D1559885dABEE67c59c4554E6152697b",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "arabianhorses",
+  "applicantName": "arabianhorses",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xf23F9C10D1559885dABEE67c59c4554E6152697b.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xf23F9C10D1559885dABEE67c59c4554E6152697b.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xf23F9C10D1559885dABEE67c59c4554E6152697b.json",
+  "RPGF3_Application_UID": "0x92b9a280afb2c683301bdbb5c065e0fdb0507656c4378caf1df8505327e21782",
+  "applicantAddress": "0xf23F9C10D1559885dABEE67c59c4554E6152697b"
+}

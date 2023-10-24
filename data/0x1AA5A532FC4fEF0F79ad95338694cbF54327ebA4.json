@@ -1,0 +1,58 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://mint.ethernautdao.io/#about",
+  "bio": "Bridging web2 senior devs to web3\nDiscord: http://discord.gg/RQ5WYDxUF3\nGitcoingrant: http://gitcoin.co/grants/5620/et…",
+  "contributionDescription": "Since RetroPGF2 we have done 17 new senior developer mentorships oriented to optimism.\nList: \n- 2 mentorships ended up in the EVM Runners game (https://evmr.sh/)\n- 1 mentorship is producing the NotYourKeys game (@NotYourKeysGame)\n- 2 on gas optimization\n- 4 on security auditing \n- 2 on Smart Contract deployment\n- 2 on Security Mindset\n- 5 on general topics.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://forum.ethernautdao.io/c/mentorships/6",
+      "description": "Mentoships descriptions, replies are hidden to keep everyone privacy."
+    }
+  ],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "OP_STACK"
+  ],
+  "impactDescription": "EthernautDAO provides high-level developers to the ecosystem by migrating senior web2 devs into Optimism. We do tailor mentorships and while we are chain agnostics the last year we have fully focused our efforts on Optimism. We don't charge Mentors or Mentees, this is a free service we consider a public good. We live on donations and use the funds to keep mentors engaged.",
+  "impactMetrics": [
+    {
+      "description": "Mentees trained since RPGF2:",
+      "number": 17,
+      "url": "https://forum.ethernautdao.io/c/mentorships/6"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_1",
+      "currency": "USD",
+      "amount": 14000,
+      "description": ""
+    },
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 63437.9,
+      "description": "RPGF2 rank 50th "
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 20000,
+      "description": "K.W. donation to start the DAO"
+    }
+  ],
+  "payoutAddress": "0x2431BFA47bB3d494Bd720FaC71960F27a54b6FE7",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "EthernautDAO",
+  "applicantName": "EthernautDAO",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x1AA5A532FC4fEF0F79ad95338694cbF54327ebA4.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x1AA5A532FC4fEF0F79ad95338694cbF54327ebA4.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x1AA5A532FC4fEF0F79ad95338694cbF54327ebA4.json",
+  "RPGF3_Application_UID": "0x39b4a7a07052cd200b017579a2717911881ffd3ed4bd94c085ba08435373c855",
+  "applicantAddress": "0x1AA5A532FC4fEF0F79ad95338694cbF54327ebA4"
+}

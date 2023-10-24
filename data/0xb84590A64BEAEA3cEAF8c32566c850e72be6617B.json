@@ -1,0 +1,37 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://priv.cash/",
+  "bio": "Decentralized protocol for private transactions coming soon to Kava and Optimism",
+  "contributionDescription": "Increase privacy on the optimism network, this project will be helping increase the privacy on Optimism with the help of technology that helps users break the on chain link with their main wallet address and the wallet address they would like the funds to be on. ",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/ShadeCash",
+      "description": "Previous project "
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "OP_STACK"
+  ],
+  "impactDescription": "Increase privacy on the optimism network, this project will be helping increase the privacy on Optimism with the help of technology that helps users break the on chain link with their main wallet address and the wallet address they would like the funds to be on. ",
+  "impactMetrics": [
+    {
+      "description": "N/A",
+      "number": 2000,
+      "url": "https://github.com/ShadeCash"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0xb84590A64BEAEA3cEAF8c32566c850e72be6617B",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "PrivCash",
+  "applicantName": "charmander",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xb84590A64BEAEA3cEAF8c32566c850e72be6617B.json",
+  "RPGF3_Application_UID": "0x367dbd417a601c354a57f1e241f112c8b8d7575468b7c3df06d20855c2e15181",
+  "applicantAddress": "0xb84590A64BEAEA3cEAF8c32566c850e72be6617B"
+}

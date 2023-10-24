@@ -1,0 +1,53 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://bernat.xyz",
+  "bio": "I work at Dune helping build the best analytics product in crypto. Outside of work, I build things for fun. Most recently built Slugs, an onchain URL shortener.",
+  "contributionDescription": "Slugs is the first URL shortener purpose-built for an onchain world.\n\nThe protocol is supported by a smart contract deployed on Optimism Mainnet, and a frontend which acts as an interface to the protocol and as a resolver to redirect requests to the right URL.\n\nThe Slugs protocol is a public good URL shortener with a series of unique properties which can only exist under an onchain paradigm: immutable aliases, censorship-resistant registrations, permanent ownership, tokenization of aliases allowing trade-ability, and referrer fees enshrined into the protocol.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://s.box",
+      "description": "Frontend"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x48fbf0b7e6bdaa9d7452feb34507b2bddb148e54",
+      "description": "Contract"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/bernatfp/slugs-protocol",
+      "description": "Source code"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "Slugs is a new crypto primitive for minting NFTs with offchain utility at no cost, with a commonly understood use case outside of crypto (Bit.ly but onchain).\n\nIn order to make crypto more accessible and onboard the next 1 billion users, I believe we need to create more protocols that solve relatable problems with better UX and at a lower cost. My contribution is an attempt at a tiny step in that direction.\n\nThe project is launching this week so I am not including any traction numbers. Instead, a link to a Dune dashboard is included. Check it out to see its most up to date impact data.",
+  "impactMetrics": [
+    {
+      "description": "Dune Dashboard (slug)",
+      "number": 0,
+      "url": "https://s.box/🐛📊"
+    },
+    {
+      "description": "Dashboard (underlying link)",
+      "number": 0,
+      "url": "https://dune.com/bernat/slugs-protocol"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x4Db5eD285AE33cFd0D6A6AB9ec775f7350f55e6d",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Slugs",
+  "applicantName": "bernat",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xcb57c082893450408D432B5d0BC38def93b26040.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xcb57c082893450408D432B5d0BC38def93b26040.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xcb57c082893450408D432B5d0BC38def93b26040.json",
+  "RPGF3_Application_UID": "0x81e7df84b024bce587d164ba7fb79059fac84b22c76d38e8bcde247e56e0bf42",
+  "applicantAddress": "0xcb57c082893450408D432B5d0BC38def93b26040"
+}

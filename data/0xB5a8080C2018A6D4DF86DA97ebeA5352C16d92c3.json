@@ -1,0 +1,44 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://www.navyxie.com/",
+  "bio": "a blockchain data analyst",
+  "contributionDescription": "Here are some potential contributions I can make:\n\nNetwork Metrics: Monitor and analyze key network metrics such as transaction throughput, block confirmation times, gas fees, and network congestion. Visualize these metrics to provide a clear understanding of the network's performance and scalability.\n\nUser Activity: Track and analyze user activity on the Optimism blockchain, including the number of active addresses, daily transaction volume, and popular dApps or smart contracts. Identify trends and patterns to gain insights into user behavior and adoption.\n",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://www.footprint.network/@Navy/Optimism-metrics",
+      "description": "data & dashboard"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "Here are some potential contributions I can make:\n\nNetwork Metrics: Monitor and analyze key network metrics such as transaction throughput, block confirmation times, gas fees, and network congestion. Visualize these metrics to provide a clear understanding of the network's performance and scalability.\n\nUser Activity: Track and analyze user activity on the Optimism blockchain, including the number of active addresses, daily transaction volume, and popular dApps or smart contracts. Identify trends and patterns to gain insights into user behavior and adoption.\n",
+  "impactMetrics": [
+    {
+      "description": "volume",
+      "number": 240000000,
+      "url": "https://www.footprint.network/@Navy/Optimism-metrics"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 6000,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0xB5a8080C2018A6D4DF86DA97ebeA5352C16d92c3",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Navy",
+  "applicantName": "Navy",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xB5a8080C2018A6D4DF86DA97ebeA5352C16d92c3.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xB5a8080C2018A6D4DF86DA97ebeA5352C16d92c3.json",
+  "RPGF3_Application_UID": "0x2c8225bfeca1b329736cf6945bfb0028f043c8171120b1323cd3553826b9337f",
+  "applicantAddress": "0xB5a8080C2018A6D4DF86DA97ebeA5352C16d92c3"
+}

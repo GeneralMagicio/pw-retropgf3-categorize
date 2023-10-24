@@ -1,0 +1,39 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://deltaport.io",
+  "bio": "Automation Platform for The Blockchain",
+  "contributionDescription": "Deltaport, a platform renowned for its trading and automation tools, has recently announced the integration of Optimism wallets and network to its ecosystem. This strategic move aligns with the company’s objective to broaden its horizons and deliver an efficient, seamless, and versatile trading experience to its vast user base.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/Deltaport-io/deltaport",
+      "description": "Deltaport platform main repository"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "Crypto traders and other users utilising Optimism network over other higher cost networks, bringing Optimism token value up by executing transactions, swaping tokens, automating games, locking value in smart contracts hosted and partenerd with Optimism Collective.",
+  "impactMetrics": [
+    {
+      "description": "Downloads",
+      "number": 1624,
+      "url": "https://github.com/Deltaport-io/deltaport/releases"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x29bca92D522D5a87B0f65E1208980262F235A423",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Deltaport",
+  "applicantName": "Jernej Pregelj",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x29bca92D522D5a87B0f65E1208980262F235A423.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x29bca92D522D5a87B0f65E1208980262F235A423.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x29bca92D522D5a87B0f65E1208980262F235A423.json",
+  "RPGF3_Application_UID": "0x93802f900f4a02570de2bedf8f16fce49715eda5dde0a2ae9199c93218313cb5",
+  "applicantAddress": "0x29bca92D522D5a87B0f65E1208980262F235A423"
+}

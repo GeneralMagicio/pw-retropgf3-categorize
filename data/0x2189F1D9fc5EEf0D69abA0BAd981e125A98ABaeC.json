@@ -1,0 +1,83 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://deepdao.io",
+  "bio": "DeepDAO is widely recognized as the leading DAO analytics engine. We index 19k+ DAOs and 8M+ governance wallets over multiple chains and governance systems.",
+  "contributionDescription": "We help the DAO ecosystem benefit from accurate data. We have manually enriched 1000s of DAOs, and display their treasury, governance, and voter data on our website and API.\n\nOur direct contributions to Optimism include: \n\n- Displaying Optimism DAO at the top of our listing, helping establish it as a leading DAO.\n- Creating a platform for indexing, and self listing DAOs on Optimism.\n- Creating governance profiles for all OP Collective voters & delegates\n- Making Optimism DAO data available on our website and API, with comprehensive treasury and governance information of the Optimism Collective ecosystem. \n- The most comprehensive list of DAO tools available on Optimism. \n\nOur efforts have made the Optimism DAO ecosystem healthier, transparent and widely appreciated.\n",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://deepdao.io",
+      "description": "Website"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://deepdao.io/organization/10edb97a-9dba-448a-88b1-ca263a7c75ad/organization_data/finance",
+      "description": "Optimism DAO dashboard on DeepDAO"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://deepdao.io/dao_tools ",
+      "description": "Tools page"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://api.deepdao.io/#/",
+      "description": "DAO data API endpoints"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://deepdao.io/people",
+      "description": "People's leaderboard "
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
+  "impactDescription": "1. Made crypto and mainstream media outlets, VCs, academic researchers, and everyone in the DAO ecosystem aware of Optimism DAO and its activity and contributions. \n\n2. Created profiles for 275+ DAOs on Optimism, and 88k+ voters and all delegates of the Optimism Collective, emphasizing our commitment to data transparency.\n\n3. By curating and listing 38 DAO tools available on Optimism, we display the most comprehensive resource for individuals and organizations looking to deploy a DAO on Optimism.\n\n5. Over the past 24 months, governance data on DeepDAO has been accessed by over 120,000 people, underscoring our pivotal role in creating stakeholder engagement in the DAO ecosystem. \n\n6. Our comprehensive dataset enables stakeholders access to deeper, analytical treasury and governance metrics.",
+  "impactMetrics": [
+    {
+      "description": "Number of Optimism DAOs on DeepDAO",
+      "number": 275,
+      "url": "https://docs.google.com/spreadsheets/d/1t2jXcmsELYyGwKIxdSAjgYYpBF7Smo4-AgguXHnrI30/edit#gid=983420987"
+    },
+    {
+      "description": "Optimism voters on DeepDAO",
+      "number": 88700,
+      "url": "https://docs.google.com/spreadsheets/d/1t2jXcmsELYyGwKIxdSAjgYYpBF7Smo4-AgguXHnrI30/edit#gid=1453304519"
+    },
+    {
+      "description": "Delegate profiles on DeepDAO",
+      "number": 200,
+      "url": "https://docs.google.com/spreadsheets/d/1t2jXcmsELYyGwKIxdSAjgYYpBF7Smo4-AgguXHnrI30/edit#gid=574700753"
+    },
+    {
+      "description": "Tools deployed on Optimism on DeepDAO",
+      "number": 38,
+      "url": "https://docs.google.com/spreadsheets/d/1t2jXcmsELYyGwKIxdSAjgYYpBF7Smo4-AgguXHnrI30/edit#gid=0"
+    },
+    {
+      "description": "User engagement 1",
+      "number": 105000,
+      "url": "https://drive.google.com/file/d/1kS7h5M_nfRUi14wrtw26OyO0jeIR2RB_/view?usp=sharing"
+    },
+    {
+      "description": "User engagement 2",
+      "number": 15000,
+      "url": "https://drive.google.com/file/d/16Zhj3CueRwyEG4XqQMHa5nnPCcEnNEaG/view?usp=sharing"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x5D631124f3051f296688ff4BB118fcf15C3eB217",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "DeepDAO",
+  "applicantName": "DeepDAO",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2189F1D9fc5EEf0D69abA0BAd981e125A98ABaeC.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x2189F1D9fc5EEf0D69abA0BAd981e125A98ABaeC.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x2189F1D9fc5EEf0D69abA0BAd981e125A98ABaeC.json",
+  "RPGF3_Application_UID": "0x577ede5b874e212884380a586d387d9a1ac81ebeb0a5dd780468f4c5b0a413f1",
+  "applicantAddress": "0x2189F1D9fc5EEf0D69abA0BAd981e125A98ABaeC"
+}

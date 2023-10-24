@@ -1,0 +1,55 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://blockchainbytesdaily.com/",
+  "bio": "I build Web3 products and make sure they are accessible to the masses. I also market those products and aim to decrease the gap between users and web3 tech.",
+  "contributionDescription": "Our contribution to Optimism is multi-faceted and centered around fostering a more informed, connected, and trustworthy blockchain ecosystem.\n\nOur commitment to education benefits end users by providing them with accurate and unbiased information. This knowledge empowers them to confidently engage with blockchain technologies, aligning with our aim to take the community away from Fear, Uncertainty, and Doubt (FUD) and bring them closer to reality.\n\nUpholding ethical journalism standards also contributes to trust and transparency within the industry, making blockchain technologies, including Optimism, more accessible and appealing to end users.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://blockchainbytesdaily.com/",
+      "description": "Badgeholders can learn more about our contributions on our official website."
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "The contributions of the Blockchain Bytes Daily (BBD) significantly impact the Optimism Collective, nurturing a well-informed, engaged, and interconnected community. BBD offers valuable insights and education to the broader blockchain community, guiding users towards adopting blockchain technologies, including the latest OP stack chains and platforms built upon them. \n\nUpholding ethical journalism amplifies trust and transparency, bolstering the credibility of projects such as Optimism. \n\nFurthermore, our developer-centric coverage supports the expansion of the Optimism ecosystem. Overall, BBD has cultivated a more educated, engaged, and trustworthy blockchain environment, aligning with the goals of the Optimism Collective.",
+  "impactMetrics": [
+    {
+      "description": "No. of Visitors on the platform",
+      "number": 1380,
+      "url": "https://drive.google.com/file/d/1m2iYJjFPB58ytUNhYvgueWQTQQ6sZwPi/view"
+    },
+    {
+      "description": "Global reach in terms of # of countries",
+      "number": 60,
+      "url": "https://drive.google.com/file/d/1Y-2EX_IloZ6pdH8JLQCCpjvO66Rx0nTU/view?usp=drive_link"
+    },
+    {
+      "description": "Growth of User activity over time(%)",
+      "number": 250,
+      "url": "https://drive.google.com/file/d/1Uwl7StldLcA6rnXz896rnhC80i1ByeBh/view?usp=sharing"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 10000,
+      "description": "We've bootstrapped this project with this amount so far"
+    }
+  ],
+  "payoutAddress": "0xc0f8c84C52Db0821bbb31D9E57851E4D79F93E18",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Blockchain Bytes Daily",
+  "applicantName": "Nyx",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xc0f8c84C52Db0821bbb31D9E57851E4D79F93E18.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xc0f8c84C52Db0821bbb31D9E57851E4D79F93E18.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xc0f8c84C52Db0821bbb31D9E57851E4D79F93E18.json",
+  "RPGF3_Application_UID": "0xd099874a36e75c5007ff0238674b9a54b49e84764d527f0bb6ca861db64201df",
+  "applicantAddress": "0xc0f8c84C52Db0821bbb31D9E57851E4D79F93E18"
+}

@@ -1,0 +1,94 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://lore.xyz/",
+  "bio": "COMMUNITY CREATED FUN.\n\nLore helps communities coordinate initiatives at internet scale. Form members and capital onchain to create together.",
+  "contributionDescription": "Lore’s V2 helps mainstream communities access crypto superpowers.\n\nThe V2 launched on Base on 10/11/23 with 3 launch communities. 57 unique users have onboarded. The V2 was also deployed to Optimism on 10/19/23.\n\nIn July 2023, we deployed the first-ever cross-chain wallet controlled by a community or smart wallet using Lit Protocol on the Chronicle OP L2 testnet.\n\nWe learned on mainnet (with over 1000 groups) that mainstream communities wanted to engage their members to crowdfund a transparent treasury and crowdsource decisions to reward contributors, play w/ nfts, etc. But they ran into 3 issues.\n\n#1 — Transaction costs were prohibitive \n#2 — Onboarding experience was intimidating mainstream.\n#3 — Opportunities were fragmented across many chains and often only available to EOA wallets.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://base.lore.xyz/app",
+      "description": "Reddit-like experience for communities to form onchain & vote on decisions"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://basescan.org/address/0x51d722ECe875b32369F16AA158b1eb8aFF160c54",
+      "description": "Base nft factory contract for our membership nfts for communities to issue."
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://basescan.org/address/0xd1EF53d7187f42eF74F57eFB4817cFDF068bBA55",
+      "description": "Base minter contract for community members to mint from factory contract."
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://basescan.org/address/0xd314512Fd9644eB1d57323631DA0185Be9001cbC",
+      "description": "Base community wallet contract (built on Safe Protocol)"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xD12614fE7ae8fD0dFe24D6DF3bD0D3275e7DA8Ed",
+      "description": "Optimism nft factory contract for our membership nfts for communities to issue: "
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xd1EF53d7187f42eF74F57eFB4817cFDF068bBA55",
+      "description": "Optimism minter contract for community members to mint from factory contract"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x51d722ECe875b32369F16AA158b1eb8aFF160c54",
+      "description": "Optimism community wallet contract (built on Safe Protocol)"
+    },
+    {
+      "type": "OTHER",
+      "url": " https://optimism.lore.xyz/app/community-creator-funding-on-op/feed?tab=membership-nfts",
+      "description": "a sample app on optimism with use case for a community-driven grants program"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/refractor-labs/project-squallet",
+      "description": "Lit Protocol cross-chain wallet controlled by a community or smart wallet."
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://chain.litprotocol.com/address/0x64c544B0CaE7277621A97De16EB8C13ABF42f30a/transactions#address-tabs",
+      "description": "Lit-Chronicle PKP group wallet transactions"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://etherscan.io/tx/0x42eb4dfd10de607719caee099c76722adcdcb99064ae6430d84de4daf48b738a",
+      "description": "Lit-Chronicle PKP group wallet  accessing Blur NFT buy (wouldn't work w/o this!)"
+    }
+  ],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "V2 is a new mainstream-friendly, Reddit-like experience for communities to access crypto superpowers at much cheaper costs on the Base/Optimism L2. \n\nNew use cases are available for mainstream & crypto communities like co-creating media, local impact programs, community programs — growing whats possible on OP and onboarding newcomers through communities.\n \nOur testnet implementation of a trustless cross-chain wallet (on Chronicle OP L2) controlled by a community or smart wallet ties the OP stack closer to supported major chains like Bitcoin and Ethereum.\n\nThis technology makes all dapps/protocols available to smart contract wallets which have had compatibility issues.\n\nOur opensource Github repo allows developers to access this technology to unlock many use cases.",
+  "impactMetrics": [
+    {
+      "description": "Unique wallets on Base L2 app",
+      "number": 57,
+      "url": "https://basescan.org/address/0xd1EF53d7187f42eF74F57eFB4817cFDF068bBA55"
+    },
+    {
+      "description": "Lines of code - group wallet OS codebase",
+      "number": 8210,
+      "url": "https://github.com/refractor-labs/project-squallet"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x266B650F92753FD7Be17B7487C8CC3Bd05EFab8A",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Lore",
+  "applicantName": "Lore",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x266B650F92753FD7Be17B7487C8CC3Bd05EFab8A.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x266B650F92753FD7Be17B7487C8CC3Bd05EFab8A.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x266B650F92753FD7Be17B7487C8CC3Bd05EFab8A.json",
+  "RPGF3_Application_UID": "0xca03ef0df923533c97e92b994c20e36d11d5d465321b79b6692c4df3ab2a40fd",
+  "applicantAddress": "0x266B650F92753FD7Be17B7487C8CC3Bd05EFab8A"
+}

@@ -1,0 +1,66 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://sprintcheckout.com/",
+  "bio": "Sprintcheckout is a crypto payment processor, think Stripe on blockchain rails.\nCrypto payments are complex for the common user, and we are solving that issue.",
+  "contributionDescription": "Crypto payments is the most underdeliver use case of blockchain. \nSprintcheckout is making assets usable as a currency, so users can actually buy real stuff with their crypto winnings.\nSprintcheckout is one of the pay crypto payment processors available on optimism.\nTo make crypto payments usable, one of the enablers is ERC4337 (Account Abstraction).\nSprintcheckout is working with AA Wallets like Candide to specify the way gasless, recurrent payments and rewards can be done on Optimism. \n",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/sprintcheckout/Ethereum_open_payments",
+      "description": "Ethereum Open Payments specification"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/sprintcheckout/sprintcheckout-dapp",
+      "description": "Sprintcheckout dapp open soruce code"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/sprintcheckout/sprintcheckout-smart-contract",
+      "description": "Sprintcheckout open source smart contract"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "Our Open source dapp is an example to other payment processors.\nTwo wordpress merchants are downloading our plugin per day.\nThere are more than 250 merchant accounts created.\nMerchant are starting to process payments. We expect around  $50,000 in volume per month in the coming month.\n",
+  "impactMetrics": [
+    {
+      "description": "Wordpress plugin downloads per day",
+      "number": 2,
+      "url": "https://wordpress.org/plugins/sprintcheckout/advanced/"
+    },
+    {
+      "description": "Optimism chain transactions per day",
+      "number": 10,
+      "url": "https://optimistic.etherscan.io/address/0x41f658ebC2ac098129bEccFa71e570a5882b5e08"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 0,
+      "description": "no grants or funding received yet from Optimism"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 20000,
+      "description": "Gitcoin grants"
+    }
+  ],
+  "payoutAddress": "0x986DD13cCaB3b637032eBEDD30Ef8a7feA4d6184",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Sprintcheckout",
+  "applicantName": "Sprintcheckout",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x986DD13cCaB3b637032eBEDD30Ef8a7feA4d6184.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x986DD13cCaB3b637032eBEDD30Ef8a7feA4d6184.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x986DD13cCaB3b637032eBEDD30Ef8a7feA4d6184.json",
+  "RPGF3_Application_UID": "0xe0251d7c7aded288a96f36b01dfebc8462775d09680de509ef8a7691e312c8c7",
+  "applicantAddress": "0x986DD13cCaB3b637032eBEDD30Ef8a7feA4d6184"
+}

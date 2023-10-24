@@ -1,0 +1,209 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": " https://DanSingjoy.com",
+  "bio": "Growing public goods with Optimism Fractal, Eden Fractal, Eden Creators, and Optimystics",
+  "contributionDescription": "Optimystics contribute to Optimism in many ways, including:\n\n- We created Optimism Fractal, a community dedicated to fostering collaboration and awarding public good creators on Optimism. We host weekly meetings where players coopete to grow Optimism, then we produce videos and show notes for educational purposes.\n\n- We created the OP Fractal Stack, a suite of open source tools that empower communities with fun consensus games for fractal collaboration. These tools facilitate Respect Games during Optimism Fractal meetings and provide a powerful reputation primitive.\n\n- We created Eden Fractal, a community pioneering fractal democracy and coordination games. We’ve hosted weekly meetings for 18 months and produced countless innovations, including epic shows and articles about Optimism!",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https:/Optimystics.io",
+      "description": "Overview of Optimystic products and services"
+    },
+    {
+      "type": "OTHER",
+      "url": "https:/OptimismFractal.com",
+      "description": "Overview and resources about Optimism Fractal"
+    },
+    {
+      "type": "OTHER",
+      "url": "https:/EdenFractal.com",
+      "description": "Overview and resources about Eden Fractal"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://optimismfractal.com/1",
+      "description": "Introduction to Optimism Fractal and Optimystics team members"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https:/github.com/optimystics",
+      "description": "Code repository for Optimism Fractal tools"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x53c9e3a44b08e7ecf3e8882996a500eb06c0c5cc#readProxyContract%23F12",
+      "description": "Smart contracts for Optimism Fractal"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://optimismfractal.web.app/",
+      "description": "Web app to submit Optimism Fractal consensus results "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://optimismfractal.com/details",
+      "description": "Overview of Optimism Fractal mechanics with links to Fractalgram app"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://optimystics.io/tools",
+      "description": "Overview, articles, and videos about Optimystic tools"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://EdenFractal.com/videos",
+      "description": "Videos and show notes of Eden Fractal meetings"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://OptimismFractal.com/videos",
+      "description": "Videos and show notes of Optimism Fractal meetings"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/@EdenCreators",
+      "description": "Our youtube channel with many exciting and educational shows"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://Optimystics.io/shows",
+      "description": "Overview, articles, and videos about Optimystic shows"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://optimystics.io/games",
+      "description": "Overview, articles, and videos about Optimystic games"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://OptimismFractal.com/roots",
+      "description": "Our story exploring Optimism, educating builders, and creating Optimism Fractal"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "Our contributions created profound benefits for the Optimism Collective!\n\n- Our products enable the next step in the evolution of human coordination and creative collaboration. We created apps and media that enable millions of leaders to grow thriving optimistic communities with extraordinary levels of engagement.\n\n- Our open source tools empower developers with composable building blocks for coordination mechanisms and sybil protection. We attract builders, create networking opportunities, and provide invaluable education for developing on Optimism.\n\n- The research and development we’ve done for over two years provides an essential foundation for the long term success of the Citizen’s House. Our innovative protocol, apps, and events make governance truly democratic, meritocratic, and fun!",
+  "impactMetrics": [
+    {
+      "description": "Optimistic Telegram Impressions",
+      "number": 10000,
+      "url": "https://optimystics.io/metrics"
+    },
+    {
+      "description": "Fractal Telegram Impressions",
+      "number": 100000,
+      "url": "https://optimystics.io/metrics"
+    },
+    {
+      "description": "Optimistic Youtube Impressions",
+      "number": 20000,
+      "url": "https://optimystics.io/metrics"
+    },
+    {
+      "description": "Optimistic Youtube Views",
+      "number": 555,
+      "url": "https://www.youtube.com/watch?v=ZFoAoZgwx3g&list=PLa5URJF9l5lnG4TEQj-57IX6dFtC3LAvt"
+    },
+    {
+      "description": "Optimistic Youtube Impressions",
+      "number": 19000,
+      "url": "https://optimystics.io/metrics"
+    },
+    {
+      "description": "Fractal Video Views ",
+      "number": 7002,
+      "url": "https://www.youtube.com/@EdenCreators"
+    },
+    {
+      "description": "Player Hours of Engaged Discussions",
+      "number": 3000,
+      "url": "https://optimystics.io/metrics"
+    },
+    {
+      "description": "Fractal Shows Produced",
+      "number": 200,
+      "url": "https://www.youtube.com/@EdenCreators"
+    },
+    {
+      "description": "Unique Participants in Fractal Meetings",
+      "number": 200,
+      "url": "https://www.youtube.com/@EdenCreators"
+    },
+    {
+      "description": "Fractal Smart Contract Interactions",
+      "number": 6000,
+      "url": "https://optimystics.io/metrics"
+    },
+    {
+      "description": "Fractal Builder Volunteer Hours ",
+      "number": 10000,
+      "url": "https://optimystics.io/metrics"
+    },
+    {
+      "description": "Optimistic Builder Volunteer Hours",
+      "number": 1000,
+      "url": "https://optimystics.io/metrics"
+    },
+    {
+      "description": "Fractal Articles",
+      "number": 200,
+      "url": "https://Optimystics.io/garden "
+    },
+    {
+      "description": "Optimistic Articles",
+      "number": 8,
+      "url": "https://Optimystics.io/blog "
+    },
+    {
+      "description": "Optimistic Shows",
+      "number": 8,
+      "url": "https://Optimystics.io/videos "
+    },
+    {
+      "description": "Short Clips about Optimism",
+      "number": 1,
+      "url": "https://Optimystics.io/videos"
+    },
+    {
+      "description": "Hours of Optimism shows produced",
+      "number": 20,
+      "url": "https://Optimystics.io/videos"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 10000,
+      "description": "Pomelo Grants"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 6000,
+      "description": "Eden on EOS"
+    },
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 5000,
+      "description": "Alien Worlds Fractal Start Up"
+    }
+  ],
+  "payoutAddress": "0xBcd96449a5f125174b2E77862ABfbAB7eEa03e5C",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Optimystics",
+  "applicantName": "Dan Singjoy",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xC11C6f47fe090a706bA82964B8A98F1682b244Ff.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xC11C6f47fe090a706bA82964B8A98F1682b244Ff.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xC11C6f47fe090a706bA82964B8A98F1682b244Ff.json",
+  "RPGF3_Application_UID": "0x8029257cc2a6c1f460ab14a3e2dff3dade52a7e173f35236d9af7bf1ab3fa961",
+  "applicantAddress": "0xC11C6f47fe090a706bA82964B8A98F1682b244Ff"
+}

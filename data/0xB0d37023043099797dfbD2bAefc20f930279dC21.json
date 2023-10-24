@@ -1,0 +1,44 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://twitter.com/CryptoDuck_TH",
+  "bio": "Explore crypto with CryptoDuck. Simplifying Web3, Layer 2, and airdrop guides for 11K+ Thai followers.",
+  "contributionDescription": "For over a year, I've been updating Thai web3 enthusiasts on Optimism, Base Network, and other Web3 tech. I'm committed to making complex topics easy to understand and continuously expanding our community's knowledge. My content is tailored for beginners, providing reliable source references for those just entering the world of web3.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/CryptoDuck_TH",
+      "description": "Twitter"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSSAPgbr_V_5EK-O9IA_k5MViIuYnMq_IfhbiVUY_zitH9E_4M-HUk-A7RKnKNUz9li_zuK3U7gOXxM/pubhtml",
+      "description": "News and crypto content focused on Optimism and Base Network"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "Make crypto enthusiasts get to know Optimism and Base more through news, campaigns, various quests of the network and various ecosystem projects.\n\nI was also voted 2nd best educator in the Optimism Ambassador program by @Subli_Defi https://twitter.com/Subli_Defi/status/1676507895897391105",
+  "impactMetrics": [
+    {
+      "description": "impressions",
+      "number": 1200000,
+      "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSSAPgbr_V_5EK-O9IA_k5MViIuYnMq_IfhbiVUY_zitH9E_4M-HUk-A7RKnKNUz9li_zuK3U7gOXxM/pubhtml"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0xB0d37023043099797dfbD2bAefc20f930279dC21",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "CryptoDuck",
+  "applicantName": "CryptoDuck",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xB0d37023043099797dfbD2bAefc20f930279dC21.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xB0d37023043099797dfbD2bAefc20f930279dC21.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xB0d37023043099797dfbD2bAefc20f930279dC21.json",
+  "RPGF3_Application_UID": "0xe6e5586ce9589f408344fe0ded216e5fc64bd4ab20d39057820d5923c9d936ae",
+  "applicantAddress": "0xB0d37023043099797dfbD2bAefc20f930279dC21"
+}

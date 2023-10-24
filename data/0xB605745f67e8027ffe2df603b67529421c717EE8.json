@@ -1,0 +1,101 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://www.ethbarcelona.com/",
+  "bio": "Impact Focused conference, hackathon and festival in Barcelona-Spain",
+  "contributionDescription": "2022, ETHBarcelona hosted Europe's largest Ethereum event, with a Solarpunk theme and an unwavering focus on impact, we welcomed over 2200 attendees and featured an impressive roster of 100+ speakers. More than $30,000 was donated from ticket sales, enabling us to fund impactful projects using QV. This event contributed largely to the Optimism ecosystem as it set the stage for its narrative.\n\n2023, we continued our commitment to community, impact and sustainability with a solarpunk and lunarpunk theme. Over 1200 participants joined us, along with 200 in our hackathon, leading to 46 innovative projects. All the participants received tickets issued as NFTs on Optimism, promoting user engagement + adoption.\n\nOur journey to promote Ethereum's growth and Optimism's adoption remains unwavering.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/EthereumBarcelona/ETHBCN23",
+      "description": "ETHBarcelona Ticketing on Optimism"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/token/0x1175f205ad133bf36227976b110e93ad5dcbee74",
+      "description": "All the participants received their Tickets as NFTs on Optimism"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://opensea.io/collection/eth-bcn-tickets-1",
+      "description": "Opensea collection of NFTs"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/EthereumBarcelona/EthBcn23-Hackathon",
+      "description": "Projects from the hackathon"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.ethbarcelona.com/",
+      "description": "ETHBarcelona Website"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://qf.ethbarcelona.com/",
+      "description": "Quadratic Funding Experiment back in 2022 with 30K in donations"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/channel/UCyIOX0h_FkIvBzNZW2AzhVw",
+      "description": "YouTube"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/eth_barcelona",
+      "description": "Twitter"
+    }
+  ],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "In 2022, ETHBarcelona pioneered an optimistic future with our Solarpunk-themed event, inspiring a positive narrative. We united the community, enabling attendees to actively participate and donate over $30,000 to various projects.\n\nIn 2023, our impact on the Optimism Collective surged. We distributed all event tickets as NFTs on Optimism, engaging over 1200 participants. Notably, 742 individuals actively interacted with Optimism, reflecting our commitment to user adoption. By airdropping NFT tickets and ETH on Optimism, we encouraged everyone to install Optimism RPCs, fostering widespread blockchain engagement. Our collaboration with the RetroPGF team, backed by General Magic and Giveth, elevated the event, with activations and insightful panel discussions.",
+  "impactMetrics": [
+    {
+      "description": "NFTickets",
+      "number": 1363,
+      "url": "https://optimistic.etherscan.io/token/0x1175f205ad133bf36227976b110e93ad5dcbee74"
+    },
+    {
+      "description": "Transfers",
+      "number": 2847,
+      "url": "https://optimistic.etherscan.io/token/0x1175f205ad133bf36227976b110e93ad5dcbee74"
+    },
+    {
+      "description": "NFTickets Burned and claimed unique QR",
+      "number": 742,
+      "url": "https://optimistic.etherscan.io/token/0x1175f205ad133bf36227976b110e93ad5dcbee74#balances"
+    },
+    {
+      "description": "Hackers",
+      "number": 200,
+      "url": "https://ethbarcelona.devfolio.co/overview"
+    },
+    {
+      "description": "Projects from Hackathon",
+      "number": 46,
+      "url": "https://ethbarcelona.devfolio.co/projects"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 7630,
+      "description": "Booth Sponsorship for RetroPGF paid by General Magic + Giveth"
+    }
+  ],
+  "payoutAddress": "0xB605745f67e8027ffe2df603b67529421c717EE8",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "ETHBarcelona",
+  "applicantName": "ETHBarcelona",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xB605745f67e8027ffe2df603b67529421c717EE8.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xB605745f67e8027ffe2df603b67529421c717EE8.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xB605745f67e8027ffe2df603b67529421c717EE8.json",
+  "RPGF3_Application_UID": "0x8f6fc027d996489f020e2b5591374f2c97833fe20cab3124e1c7377f5b7e583f",
+  "applicantAddress": "0xB605745f67e8027ffe2df603b67529421c717EE8"
+}

@@ -1,0 +1,58 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://twitter.com/SinjunART",
+  "bio": "Co-founder of The gm bus, educating the public via IRL events, Bankless merch artisan. Nature inspires. Crypto is the born of the Universe's creativity",
+  "contributionDescription": "DAOpunks\n\nRaised and distributed 22 ETH for public goods grants providing funds for people who want to move from a traditional job into full time web3 work\n\nJob board - Curating jobs to help people journey into Crypto, Web3, and DAOs\n\n🚐 gm bus\n\nEducating, informing, and evolving the crypto narrative by visiting various cities, communities, and events IRL around the world\n\nHosted meetups with students discussing the regenerative powers of DAO’s & the Ethereum ecosystem\n \n7 events. Interfaced with 100’s of IRL community members\n\nDistributed 100’s of books and posters about the crypto revolution\n\nEpisode of the Green Pill podcast recorded inside the gm bus\n\nDesigned merch for Bankless, Gitcoin, and unique 1/1 NFT merch to the entire DAOpunks community inspiring adoption of web3 technologies",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://paragraph.xyz/@gmbus/better-than-we-imagined-at-mcon2-and-beyond",
+      "description": "GM Bus"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.daopunks.io/",
+      "description": "DAOpunks "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://shop.metafactory.ai/collections/bankless",
+      "description": "Merch drop artisan for Bankless, Gitcoin, Metafactory"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.instagram.com/buybackourattention/",
+      "description": "Buy Back Our Attention - Community curated positive billboards"
+    }
+  ],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "Raised and distributed 22 ETH for public goods grants providing funds for people who want to move from a traditional job into full time web3 work\n\nFunds supported new web3 workers, developers, engineers\n\nGreen pilling the public via the gm bus\n\nWe inspired 100's of people to use Ethereum and learn more abut the regenerative power of decentralization\n",
+  "impactMetrics": [
+    {
+      "description": "Job Board",
+      "number": 500,
+      "url": "https://daopunks.pallet.com/jobs"
+    },
+    {
+      "description": "Public facing initiatives",
+      "number": 1000,
+      "url": "https://paragraph.xyz/@gmbus/better-than-we-imagined-at-mcon2-and-beyond"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x6F3924E9158c74D344BF578a251Bcc2ef41F8F50",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Sinjun",
+  "applicantName": "Sinjun",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x6F3924E9158c74D344BF578a251Bcc2ef41F8F50.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x6F3924E9158c74D344BF578a251Bcc2ef41F8F50.json",
+  "RPGF3_Application_UID": "0x99931678379c1315b79bf4da7d39af558a03ccb6fca2e1a260ab0add21497995",
+  "applicantAddress": "0x6F3924E9158c74D344BF578a251Bcc2ef41F8F50"
+}

@@ -1,0 +1,80 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://optimismarabia.com/",
+  "bio": "I have 7 years of experience in the field of content creation, translation, organizing events and community building.",
+  "contributionDescription": "Optimism Arabic community helps spread knowledge and educates Arab users about optimism. This aids in attracting new users and developers while also keeping existing ones informed and up-to-date.\nWe have made numerous contributions, including:\n-Creating original articles\n-Creating educational courses\n-Translating articles\n-Managing the Arab community through Telegram and Twitter and respond to all questions and inquiries\n-Organizing events and competitions\n-Designing infographics",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://optimismarabia.com/",
+      "description": "Optimism Arabia"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://academy.optimismarabia.com/",
+      "description": "Optimism Arabia Academy"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/OptimismArabia",
+      "description": "Twitter"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://t.me/OptimismArabia",
+      "description": "Telegram"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "After implementing successful marketing strategies, we achieved the top position in Google search results for Optimism news in the Arabic language. The majority of our articles/courses rank in the first/second result on the first page of the Google search engine. this made Optimism Arabic website the first news and educational source for Arab users to know about Optimism.\nThis accomplishment has significantly attracted numerous users and developers, enabling them to learn about and actively engage with Optimism.",
+  "impactMetrics": [
+    {
+      "description": "Number of views of articles and courses",
+      "number": 30000,
+      "url": "https://docs.google.com/document/d/1QMbm1Xk3IBf8e2YkBap8O4RCFq9-U4-QLOxx6tlBPdY/edit?usp=sharing"
+    },
+    {
+      "description": "Telegram",
+      "number": 600,
+      "url": "https://t.me/OptimismArabia"
+    },
+    {
+      "description": "Ranking No. 1 in Google",
+      "number": 1,
+      "url": "https://docs.google.com/document/d/17aMq5CzmFYqsMYWCy2-ZdKu72PT4d84LpmD90Aad1qg/edit?usp=sharing"
+    },
+    {
+      "description": "Twitter",
+      "number": 1000,
+      "url": "https://twitter.com/OptimismArabia"
+    },
+    {
+      "description": "First batch of academy graduates(max 100",
+      "number": 100,
+      "url": "https://opensea.io/collection/optimismarabia"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 5322.68,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0x6e4E55A49a8C8938BD8D8668E18DE95962740Fe1",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "OptimismArabia",
+  "applicantName": "OptimismArabia",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x6e4E55A49a8C8938BD8D8668E18DE95962740Fe1.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x6e4E55A49a8C8938BD8D8668E18DE95962740Fe1.json",
+  "RPGF3_Application_UID": "0xa762b00ea2eb27fd5e9d79626a4d69789f1609e7c1e89a68b2b46b95b13978e1",
+  "applicantAddress": "0x6e4E55A49a8C8938BD8D8668E18DE95962740Fe1"
+}

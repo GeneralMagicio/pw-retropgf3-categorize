@@ -1,0 +1,44 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://www.sound.xyz/user/0xb05f9c3545f6e185e3eabeceec65a96df54c4524/collection",
+  "bio": "I am a music nft collector",
+  "contributionDescription": "I am deeply immersed in the world of music NFTs on sound.xyz. This digital platform has become my sanctuary, a realm where art and technology converge harmoniously. With an insatiable appetite for groundbreaking compositions and an appreciation for the artists behind them, I've curated a collection that spans an array of genres and styles. Each NFT is a testament to the boundless creativity of musicians in the digital age. Với tư cách là người tham gia tích cực vào cộng đồng sound.xyz, tôi đã chứng kiến sự phát triển của không gian năng động này. Tham gia vào các cuộc thảo luận, tham dự các sự kiện ảo và cộng tác với các nhà sưu tập đồng nghiệp là một trải nghiệm phong phú. Cùng nhau, chúng tôi đóng góp vào một hệ sinh thái thịnh vượng hỗ trợ cả các nghệ sĩ đã thành danh và mới nổi.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://www.sound.xyz/user/0xb05f9c3545f6e185e3eabeceec65a96df54c4524/collection",
+      "description": "tôi đã sưu tập 254 bài hát từ 19 nghệ sĩ trên sound.xyz"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
+  "impactDescription": "My ambition is to be deeply involved in a multitude of Optimist projects in the coming years. Their innovative approach to digital art and NFTs resonates with me profoundly. I see immense potential in their vision, and I yearn to contribute meaningfully to their future endeavors.\n\nFurthermore, I'm eager to act as a bridge between talented artists on sound.xyz and their devoted fanbase. Through strategic initiatives and collaborative efforts, I aim to amplify their reach and bring them closer to the hearts of their admirers. This means not only supporting them in their creative pursuits but also enabling them to forge deeper connections with their audience",
+  "impactMetrics": [
+    {
+      "description": "Music NFT",
+      "number": 254,
+      "url": "https://www.sound.xyz/user/0xb05f9c3545f6e185e3eabeceec65a96df54c4524/collection"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 0,
+      "description": "I haven't received the OP yet"
+    }
+  ],
+  "payoutAddress": "0xB05f9c3545f6E185E3eAbeCeeC65A96df54c4524",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Kukumalu",
+  "applicantName": "Kukumalu",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xB05f9c3545f6E185E3eAbeCeeC65A96df54c4524.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xB05f9c3545f6E185E3eAbeCeeC65A96df54c4524.json",
+  "RPGF3_Application_UID": "0x7819c8f69d1e237aeed8b9b2018b3d6be57f50fb2a93fc467b962663a6513796",
+  "applicantAddress": "0xB05f9c3545f6E185E3eAbeCeeC65A96df54c4524"
+}

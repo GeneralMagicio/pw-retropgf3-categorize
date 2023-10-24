@@ -1,0 +1,86 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://twitter.com/ahhsun_",
+  "bio": "A self- taught artist and digital marketing specialist. \nMy pasion is creating and connecting. and strengthen commuties.",
+  "contributionDescription": "My contributions in Optimism have been in creating content, such as an article in Mirror about what RetroPGF is through a dynamic Solow Quest, creating NFTs and workshop, reward for the support of attending my workshops by zora with an nft airdrop in Optimism. ",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/allyhernandez/eatme",
+      "description": "Contract NFTs that were used for a dynamic in Zk."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/watch?v=YKDYDaycBCU&t=20s",
+      "description": "Workshop Tokeniza tu arte"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://zora.co/collect/oeth:0x0037386c65d18d325fa46dd958cdaec7f02279aa",
+      "description": "Aidrop in Zora for Workshop "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://mirror.xyz/0x5F4134F010545D1EF0f19F6d6d6Fcedf424eC2Ca/yq3RPmB7ZeKjMafLQT1D_BIFOBwP8bt4Z6qClxJUhU8",
+      "description": "Article: RetroPFG: Como aplicar?"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "My contributions have had a positive impact on the Optimism Collective by increasing awareness and engagement within the community. This has led to a greater understanding of the platform and its potential, fostering a more vibrant and informed ecosystem.\n\nMy contributions have mainly focused on increasing my views, which signifies that the content I generate about Optimism is of interest. This, in turn, broadens the reach of my tweets.",
+  "impactMetrics": [
+    {
+      "description": "Poaps Minted Workshop Tokeniza tu arte",
+      "number": 26,
+      "url": "https://app.poap.xyz/token/6803690"
+    },
+    {
+      "description": "View tweet Aidrop Zora OP for Workshop",
+      "number": 259,
+      "url": "https://x.com/ahhsun_/status/1716538306807091211?s=20"
+    },
+    {
+      "description": "View tweet RetroPGF:Como aplicar?",
+      "number": 582,
+      "url": "https://x.com/ahhsun_/status/1707172854385504670?s=20"
+    },
+    {
+      "description": "View tweet The Future of Art",
+      "number": 201,
+      "url": "https://x.com/ahhsun_/status/1704609883792843078?s=20"
+    },
+    {
+      "description": "View tweet Bienes Publicos",
+      "number": 435,
+      "url": "https://x.com/ahhsun_/status/1692064950108254386?s=20"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 130,
+      "description": "Delegate"
+    },
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 15,
+      "description": "Winner Solow Guest RetroPGF"
+    }
+  ],
+  "payoutAddress": "0x6A6891fb9589F021E6430e6AB0947E0917EDDD01",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Ahhsun",
+  "applicantName": "Ahhsun",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5F4134F010545D1EF0f19F6d6d6Fcedf424eC2Ca.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x5F4134F010545D1EF0f19F6d6d6Fcedf424eC2Ca.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x5F4134F010545D1EF0f19F6d6d6Fcedf424eC2Ca.json",
+  "RPGF3_Application_UID": "0xc4369373ab5f444aaff70456ac337e75b3ac9ae6d293e845be7daa46e7352a8e",
+  "applicantAddress": "0x5F4134F010545D1EF0f19F6d6d6Fcedf424eC2Ca"
+}

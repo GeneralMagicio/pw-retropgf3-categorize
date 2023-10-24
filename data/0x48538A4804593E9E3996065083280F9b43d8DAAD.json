@@ -1,0 +1,41 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://twitter.com/Bodhisphere_",
+  "bio": "On the path to Web3 enlightenment.",
+  "contributionDescription": "My contributions to the Optimism ecosystem have been vital for the growth and success of this Layer 2 scaling solution for Ethereum. These contributions have come in various forms:  Development; DApps; Security Audits; Documentation and Education; Community Engagement; Integration; Research; and Advocacy and Adoption",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://etherscan.io/address/0x48538A4804593E9E3996065083280F9b43d8DAAD",
+      "description": " "
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "impactDescription": "My contributions to the Optimism ecosystem have been vital for the growth and success of this Layer 2 scaling solution for Ethereum. These contributions have come in various forms:  Development; DApps; Security Audits; Documentation and Education; Community Engagement; Integration; Research; and Advocacy and Adoption",
+  "impactMetrics": [
+    {
+      "description": " ",
+      "number": 0,
+      "url": " https://github.com/Bodhisphere"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x48538A4804593E9E3996065083280F9b43d8DAAD",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Bodhisphere",
+  "applicantName": "Bodhi",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x48538A4804593E9E3996065083280F9b43d8DAAD.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x48538A4804593E9E3996065083280F9b43d8DAAD.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x48538A4804593E9E3996065083280F9b43d8DAAD.json",
+  "RPGF3_Application_UID": "0xbbc0e9a4f0b77045483b4f03a51c9ba6de6317ba051eb0690bce96bcf08c04c4",
+  "applicantAddress": "0x48538A4804593E9E3996065083280F9b43d8DAAD"
+}

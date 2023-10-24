@@ -1,0 +1,215 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://giveth.io",
+  "bio": "Giveth rewards value creation in the public goods sector. We have been advancing public goods on Ethereum since 2016, supporting OSS & traditional nonprofits.",
+  "contributionDescription": "2016\n-Open-sourced MiniMe token contract, the foundation of $OP\n\n2017\n-Launched our donation dapp & maintained it until 2022\n\n2018\n-Led ScalingNOW! to address Ethereum scaling issues\n-Etherscan is closed source, slowing down scaling, so we started OpenSourceBlockExplorersNOW! which led to the creation of Blockscout\n-Spun out Dappnode\n\n2021\n-Launched giveth.io to support public goods w/ zero-fee crypto donations\n\n2023\n-Added Optimism to Giveth & started rewarding donors w/ GIV on Optimism \n-Launched GIV staking incentives & project curation mechanism GIVpower on Optimism\n-Ran onboarding campaign, offering OP to verified projects who join Optimism\n-Promoted RetroPGF at conferences with General Magic\n-Ran QF round on Optimism w/ 25k DAI of matching\n-Migrated Giveth reputation DAO to Optimism",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/Giveth/minime",
+      "description": "MiniMe token, predecessor to snapshot voting"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://docs.google.com/document/d/1krHzVinuCOobj-dCwkhOsCyH32MmVKwPgKETL5Qj-uk/edit#heading=h.2bswnipwrpoi ",
+      "description": "ScalingNOW! First ETH Scaling Conference"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://docs.giveth.io/whatisgiveth/history/#june-1",
+      "description": "Dappnode spun out of Giveth in 2018"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://docs.google.com/document/d/1krHzVinuCOobj-dCwkhOsCyH32MmVKwPgKETL5Qj-uk/edit#heading=h.uo43ksgfcj8c",
+      "description": "OpenSourceBlockExplorersNOW! effort succeeded with Blockscout"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://docs.google.com/document/d/1krHzVinuCOobj-dCwkhOsCyH32MmVKwPgKETL5Qj-uk/edit#heading=h.ax7hld5f82mb ",
+      "description": "Outline of GIVeconomy contracts & repos deployed to Optimism"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/retropgf/status/1706332097554612630",
+      "description": "Video explaining Giveth & General Magic promoting RetroPGF"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://docs.google.com/document/d/1krHzVinuCOobj-dCwkhOsCyH32MmVKwPgKETL5Qj-uk/edit#heading=h.h9bb86rpowcv",
+      "description": "Quadratic Funding round, w/ 25,000 DAI of matching funds on Optimism"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://optimism.aragon.blossom.software/#/rgiv/0xa8efcae01fd682dd799f232648ca5081a98176b7/ ",
+      "description": "Giveth reputation DAO “rGIV” migrated to Optimism Network"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "Minime\n-Used by Lido, every AragonOS DAO & many others\n-Forks of Minime, ERC20Snapshot.sol & ERC20Votes.sol, are used by countless DAOs including Optimism. They enable $OP’s DAO governance!\n\nScalingNow!\n-Liam.eth, ex-CEO of OP Labs, & many others attended our free IRL gathering in 2018, undoubtedly leading to better coordination in this niche space. \n\nGiveth Donation Application\n-Used by Protocol Guild, Dappnode, Curia & 1000’s of other OSS & traditional nonprofits to market their projects & give them an alternative funding stream outside of RetroPGF\n-We onboarded hundreds of public goods projects to Optimism & now they are part of the Collective 😃\n\nGIVeconomy Migration\n-Our economy rewards those who give & locks users into Optimism via our GIVstream until Dec 2026.",
+  "impactMetrics": [
+    {
+      "description": "Donations on Optimism via Giveth.io",
+      "number": 2938,
+      "url": "https://stats.giveth.io/ "
+    },
+    {
+      "description": "USD value of donations on Optimism",
+      "number": 27369.23,
+      "url": "https://stats.giveth.io/ "
+    },
+    {
+      "description": "Giveth Reputation holders (rGIV DAO) ",
+      "number": 51,
+      "url": "https://optimistic.etherscan.io/token/0x16ef294ed9aeca7541183f19e4a5d01cebab88fb#balances "
+    },
+    {
+      "description": "Users receiving GIV on OP until Dec 2026",
+      "number": 800,
+      "url": "https://optimistic.etherscan.io/address/0xe3ac7b3e6b4065f4765d76fdc215606483bf3bd1#readProxyContract"
+    },
+    {
+      "description": "ETH Scaling Conferences Hosted in 2018",
+      "number": 1,
+      "url": "https://docs.google.com/document/d/1krHzVinuCOobj-dCwkhOsCyH32MmVKwPgKETL5Qj-uk/edit#heading=h.2bswnipwrpoi "
+    },
+    {
+      "description": "Projects in our QF round on Optimism",
+      "number": 125,
+      "url": "https://docs.google.com/document/d/1krHzVinuCOobj-dCwkhOsCyH32MmVKwPgKETL5Qj-uk/edit#heading=h.c68w2q5snzsb "
+    },
+    {
+      "description": "Total Giveth Projects on Optimism",
+      "number": 453,
+      "url": "https://stats.giveth.io/ "
+    },
+    {
+      "description": "Verified Giveth Projects on Optimism",
+      "number": 215,
+      "url": "https://stats.giveth.io/ "
+    },
+    {
+      "description": "Votes in our rGIV DAO on Optimism",
+      "number": 28,
+      "url": "https://optimism.aragon.blossom.software/#/rgiv/0x387a2e9169899adda159a170161dc8589c326016/ "
+    },
+    {
+      "description": "# of GIV bridged to Optimism",
+      "number": 28544826.5,
+      "url": "https://etherscan.io/token/0x900dB999074d9277c5DA2A43F252D74366230DA0?a=0x99c9fc46f92e8a1c0dec1b1747d010903e884be1 "
+    },
+    {
+      "description": "% of GIV circulating supply on OP",
+      "number": 16,
+      "url": "https://docs.google.com/document/d/1krHzVinuCOobj-dCwkhOsCyH32MmVKwPgKETL5Qj-uk/edit#heading=h.ft8c7gvvu6ld "
+    },
+    {
+      "description": "# of GIV staked in GIVpower on Optimism",
+      "number": 22969621.6,
+      "url": "https://optimistic.etherscan.io/token/0x528cdc92eab044e1e39fe43b9514bfdab4412b98?a=0x301c739cf6bfb6b47a74878bdeb13f92f13ae5e7 "
+    },
+    {
+      "description": "GIV sent to donors on OP via GIVbacks",
+      "number": 1181841.38,
+      "url": "https://docs.google.com/spreadsheets/d/1XoqpKeyiE0-ZT-XwMuFKCn9uc4OiHB6gAg6uuXFJtK4/edit?usp=sharing"
+    },
+    {
+      "description": "USD value of GIVbacks to donors on OP",
+      "number": 8638.34,
+      "url": "https://docs.google.com/spreadsheets/d/1XoqpKeyiE0-ZT-XwMuFKCn9uc4OiHB6gAg6uuXFJtK4/edit?usp=sharing"
+    },
+    {
+      "description": "Listeners in our Optimism Twitter Spaces",
+      "number": 529,
+      "url": "https://docs.google.com/document/d/1krHzVinuCOobj-dCwkhOsCyH32MmVKwPgKETL5Qj-uk/edit#heading=h.dbfbrcefqc3n"
+    },
+    {
+      "description": "Giveth X posts mentioning Optimism",
+      "number": 80,
+      "url": "https://docs.google.com/document/d/1krHzVinuCOobj-dCwkhOsCyH32MmVKwPgKETL5Qj-uk/edit#heading=h.dbfbrcefqc3n"
+    },
+    {
+      "description": "X posts mentioning Optimism & Giveth",
+      "number": 120,
+      "url": "https://docs.google.com/document/d/1krHzVinuCOobj-dCwkhOsCyH32MmVKwPgKETL5Qj-uk/edit#heading=h.dbfbrcefqc3n"
+    },
+    {
+      "description": "Impressions in Giveth's Optimism Tweets",
+      "number": 447836,
+      "url": "https://docs.google.com/document/d/1krHzVinuCOobj-dCwkhOsCyH32MmVKwPgKETL5Qj-uk/edit#heading=h.dbfbrcefqc3n"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 40000,
+      "description": "Growth Experiment Cycle 11 (Only 16k received so far)"
+    },
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 129814.43,
+      "description": "This was so powerful for us! Thank you!"
+    },
+    {
+      "type": "RETROPGF_1",
+      "currency": "USD",
+      "amount": 24450,
+      "description": "We really appreciated this!"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 120000,
+      "description": "Historic Gitcoin Rounds - Estimation"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 5167,
+      "description": "Gitcoin Alpha round - Individual Donations & Matching"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 15060.7,
+      "description": "Gitcoin Beta round - Individual Donations & Matching"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 4069.73,
+      "description": "Gitcoin GG18 round - Individual Donations & Matching"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 106075.65,
+      "description": "Donations on Giveth (About ½ is from Octant) "
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 18186,
+      "description": "#1 DAO in DAO Drops"
+    }
+  ],
+  "payoutAddress": "0x4d9339dd97db55e3b9bcbe65de39ff9c04d1c2cd",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Giveth",
+  "applicantName": "Giveth",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x634977e11C823a436e587C1a1Eca959588C64287.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x634977e11C823a436e587C1a1Eca959588C64287.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x634977e11C823a436e587C1a1Eca959588C64287.json",
+  "RPGF3_Application_UID": "0x5cd4c904d48c57e03e02cbedbdd9a95dce26b1382780c7f8cacb96d32c9ed5d0",
+  "applicantAddress": "0x634977e11C823a436e587C1a1Eca959588C64287"
+}

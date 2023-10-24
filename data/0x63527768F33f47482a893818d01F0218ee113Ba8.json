@@ -1,0 +1,53 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://keccak.team/keccak.html",
+  "bio": "The Keccak hash function, winner of the SHA3 competition and used in Ethereum",
+  "contributionDescription": "The Keccak project started in 2008 for the development of the Keccak hash function,\nwinner of SHA3 competition and used in Ethereum. The project is a multi discipline\neffort of cryptography, software and hardware development. All the developments are\nopen source, no patents and several incentives for 3rd party security analysis. The\nproject is still active for providing improved implementations.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://keccak.team/",
+      "description": "The main website of the Keccak Team, hosting all designs, analysis, and doc"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://keccak.team/keccak.html",
+      "description": "The page dedicated to Keccak hashing"
+    }
+  ],
+  "impactCategory": [
+    "OP_STACK"
+  ],
+  "impactDescription": "The Keccak hash function, and all its derivations, are cryptographic building blocks for\nthe good of the society. We believe that open cryptography is a key technology for the\ndigital society. The security of Keccak is key to the security of Ethereum and of many\nother digital projects. We worked a lot in analyzing its security and encouraged third-\nparty cryptanalysis, with very positive results.\nThe Keccak hash function is one of the most analyzed cryptographic functions, which gives a very high confidence on its security and resistance against all kind of attacks.",
+  "impactMetrics": [
+    {
+      "description": "Cryptanalysis by 3rd parties",
+      "number": 60,
+      "url": "https://keccak.team/third_party.html"
+    },
+    {
+      "description": "ePrint publications on Keccak",
+      "number": 139,
+      "url": "https://eprint.iacr.org/search?q=keccak"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 62838.75403,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0x399aA07a970ea3711d002566cafDBe021f9DD0E8",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Keccak hashing",
+  "applicantName": "M. Peeters",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x63527768F33f47482a893818d01F0218ee113Ba8.json",
+  "RPGF3_Application_UID": "0x29d788eeb015bad16104b58f4bc953efc8e217844ab51505bccec5d3ac84788d",
+  "applicantAddress": "0x63527768F33f47482a893818d01F0218ee113Ba8"
+}

@@ -1,0 +1,41 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://github.com/dasylang/dasy",
+  "bio": "A Lisp for the EVM",
+  "contributionDescription": "Dasy is a lisp for the EVM. It enables smart contract developers to write their contracts in a very convenient lisp syntax that they can mold to their liking with compile-time macros. It transpiles internally into Vyper, so Dasy contracts benefit from all the compiler optimizations in Vyper. ",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/dasylang/dasy",
+      "description": "Main Development Repository"
+    }
+  ],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
+  "impactDescription": "Dasy has performed well as an experimental language, already matching the features and gas performance of more mature languages. It has also been a playground for brainstorming syntax features that may or may not make it into Vyper eventually. Because of its lispy nature, these syntax features can be implemented easily as compile-time Dasy macros. If they're good, more robust support can make it into either Dasy or potentially even Vyper itself.",
+  "impactMetrics": [
+    {
+      "description": "Stars on Original Repo",
+      "number": 37,
+      "url": "https://github.com/z80dev/dasy"
+    },
+    {
+      "description": "Stars on Org Repo",
+      "number": 29,
+      "url": "https://github.com/dasylang/dasy"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x07a145DbBc7e425d0F1B3B9982F955E97abad7a2",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Dasy",
+  "applicantName": "z80",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x07a145DbBc7e425d0F1B3B9982F955E97abad7a2.json",
+  "RPGF3_Application_UID": "0x414f74b8f9da96b3f0c0abbb870ea2928dcdbc454319129df7151f43467aa5e7",
+  "applicantAddress": "0x07a145DbBc7e425d0F1B3B9982F955E97abad7a2"
+}

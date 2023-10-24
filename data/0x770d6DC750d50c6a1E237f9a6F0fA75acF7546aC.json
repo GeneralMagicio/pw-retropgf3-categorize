@@ -1,0 +1,80 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://twitter.com/simple8720",
+  "bio": "Since becoming a member of the Optimism Collective, I've been among the most active participants. Serving developers and users",
+  "contributionDescription": "I am a member of the TechNERD program (Contribution Path Project)\nThe TechNERDS program has broadened my path of contribution \n\nKey Contributions:\n1. Recommending and bringing developers into the Wanna-TechNerd channel.\n2. Championed the implementation of a process to address long-standing issues.\n3. Collect and publish classic Q&A (with answers from OPLabs) for reuse.\n4. Initiated in-depth discussions on specialized issues through the Research Discussion Threads.\n\nAddressing Duplicate Rewards:\nThe contribution's I'm highlighting in this application are above and beyond the TechNERD contribution path's scope of work.\nSoyboy, the primary steward of the TechNERD program, has attested to how I have gone beyond the baseline requirements of the program.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://docs.google.com/spreadsheets/d/1DqEE_plfIClkTGVRO6LuQQlVMGa67Ua-NXm54hHBLu0/edit#gid=1761825719",
+      "description": "Recommending New Developers"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://docs.google.com/spreadsheets/d/1DqEE_plfIClkTGVRO6LuQQlVMGa67Ua-NXm54hHBLu0/edit#gid=492543892",
+      "description": "Explore solutions"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://docs.google.com/spreadsheets/d/1DqEE_plfIClkTGVRO6LuQQlVMGa67Ua-NXm54hHBLu0/edit#gid=1761825719",
+      "description": "Classic Q&A"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://docs.google.com/spreadsheets/d/1DqEE_plfIClkTGVRO6LuQQlVMGa67Ua-NXm54hHBLu0/edit#gid=1761825719",
+      "description": "Research Discussion Threads"
+    }
+  ],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
+  "impactDescription": "These efforts enriched the project's legacy, fostered discussion culture, and either resolved practical issues or explored solutions.\n\nIn the Wanna-TechNerd channel, two active developers were recommended by me, boosting engagement and project support.\n\nA common process for resolving longstanding issues: I initiated this process for 'Adding node for OP stack chain' and 'debug geth', addressing challenges and improving issue resolution culture.\n\nI've collected and shared questions and authoritative answers in 'wanna-techNerds', enhancing knowledge management.\n\nBeneficiaries: Developers, TechNerds Project, OP Collective.",
+  "impactMetrics": [
+    {
+      "description": "Recommending New Developers",
+      "number": 2,
+      "url": "https://docs.google.com/spreadsheets/d/1DqEE_plfIClkTGVRO6LuQQlVMGa67Ua-NXm54hHBLu0/edit#gid=1761825719"
+    },
+    {
+      "description": "Compilation of Classic Issues",
+      "number": 11,
+      "url": "https://docs.google.com/spreadsheets/d/1DqEE_plfIClkTGVRO6LuQQlVMGa67Ua-NXm54hHBLu0/edit#gid=1761825719"
+    },
+    {
+      "description": "Research Discussion Threads ",
+      "number": 7,
+      "url": "https://docs.google.com/spreadsheets/d/1DqEE_plfIClkTGVRO6LuQQlVMGa67Ua-NXm54hHBLu0/edit#gid=1761825719"
+    },
+    {
+      "description": "Explore solutions",
+      "number": 5,
+      "url": "https://docs.google.com/spreadsheets/d/1DqEE_plfIClkTGVRO6LuQQlVMGa67Ua-NXm54hHBLu0/edit#gid=492543892"
+    },
+    {
+      "description": "An attestation from Soyboy",
+      "number": 1,
+      "url": "https://docs.google.com/spreadsheets/d/1DqEE_plfIClkTGVRO6LuQQlVMGa67Ua-NXm54hHBLu0/edit#gid=492543892"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 4200,
+      "description": "4.2K OP for each TechNERD Locked for 1 year - S4 Governance Mission Proposal"
+    }
+  ],
+  "payoutAddress": "0x70341004cfDf34De2788b8E196a7D7de44786996",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "simple8720",
+  "applicantName": "simple8720",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x770d6DC750d50c6a1E237f9a6F0fA75acF7546aC.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x770d6DC750d50c6a1E237f9a6F0fA75acF7546aC.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x770d6DC750d50c6a1E237f9a6F0fA75acF7546aC.json",
+  "RPGF3_Application_UID": "0xfed9d3effec10a210a6c15f27f3d6c23ee6b4a1c305a1cfeab84207ccd85ce33",
+  "applicantAddress": "0x770d6DC750d50c6a1E237f9a6F0fA75acF7546aC"
+}

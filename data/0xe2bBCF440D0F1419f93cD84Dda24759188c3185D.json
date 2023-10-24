@@ -1,0 +1,45 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://chainlist.org/",
+  "bio": "List of EVM networks and RPCs for them, with performance and privacy ratings. Maintained by DefiLlama",
+  "contributionDescription": "We maintain ChainList, a site used by >1.2M users monthly to add new chains, switch chains, review RPCs available on any chain, and switch RPCs as they need.\n\nThis involves us maintaining an updated list of RPCs, curating them, and also reviewing the privacy policies of all RPC providers to give them a rating and summarize the most relevant information to give it to our users directly so they can make informed decisions on which RPC to use without having to read the full privacy policy of each RPC, which are very long.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/DefiLlama/chainlist",
+      "description": "ChainList repo"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "Millions of users (concretely 1M-2M each month) get a much more convenient and safer experience onboarding to optimism when adding the chain through our site, as we curate the RPCs there to avoid any scam RPCs that they could run across on the wild otherwise.\n\nBy summarizing the privacy policies of all RPCs we make it viable for users to make choices based on that, as the alternative of having to read the multiple pages of legalese on the privacy policy of each individual RPC is just not viable for users to do. We aggregate this work so we just do it once and then everybody can benefit from it.",
+  "impactMetrics": [
+    {
+      "description": "Monthly ChainList Users",
+      "number": 1200000,
+      "url": "https://www.similarweb.com/website/chainlist.org/#overview"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 49900,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0xe2bBCF440D0F1419f93cD84Dda24759188c3185D",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "ChainList",
+  "applicantName": "ChainList",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xe2bBCF440D0F1419f93cD84Dda24759188c3185D.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xe2bBCF440D0F1419f93cD84Dda24759188c3185D.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xe2bBCF440D0F1419f93cD84Dda24759188c3185D.json",
+  "RPGF3_Application_UID": "0x1402768b4e6481137978e3ecd853cb0e7eefff51f2b8838c382b5d4907931224",
+  "applicantAddress": "0xe2bBCF440D0F1419f93cD84Dda24759188c3185D"
+}

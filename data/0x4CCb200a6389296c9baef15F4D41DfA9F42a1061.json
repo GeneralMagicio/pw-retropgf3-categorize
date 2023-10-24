@@ -1,0 +1,39 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://www.najme.com",
+  "bio": "Interested in crypto...",
+  "contributionDescription": "Hello\nMy familiarity with the crypto field is with the Optimiz project, and that is why it is my favorite project, and compared to other projects, it obviously has a professional team and a strong structure, which is very necessary for users to work in this field, and also It has high security, which is one of the most important issues for users. On this basis, I would like to participate in various projects and platforms of Optimiz, and in this regard, I will introduce this popular project to all my friends who are active in the field of crypto. Thanks to the professional and expert team of Optimiz.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://twitter.com/najme15174433",
+      "description": "1"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "Hello\nMy familiarity with the crypto field is with the Optimiz project, and that is why it is my favorite project, and compared to other projects, it obviously has a professional team and a strong structure, which is very necessary for users to work in this field, and also It has high security, which is one of the most important issues for users. On this basis, I would like to participate in various projects and platforms of Optimiz, and in this regard, I will introduce this popular project to all my friends who are active in the field of crypto. Thanks to the professional and expert team of Optimiz.",
+  "impactMetrics": [
+    {
+      "description": "twitter",
+      "number": 1,
+      "url": "https://twitter.com/najme15174433"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x4CCb200a6389296c9baef15F4D41DfA9F42a1061",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "najme",
+  "applicantName": "najme",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x4CCb200a6389296c9baef15F4D41DfA9F42a1061.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x4CCb200a6389296c9baef15F4D41DfA9F42a1061.json",
+  "RPGF3_Application_UID": "0x075f5a0f41dd503a452a79c191a2866b95cdd5487a7d36d0a109de4ccef0841e",
+  "applicantAddress": "0x4CCb200a6389296c9baef15F4D41DfA9F42a1061"
+}

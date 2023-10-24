@@ -1,0 +1,100 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://www.openzeppelin.com",
+  "bio": "OpenZeppelin is the world leader in securing blockchain applications and smart contracts.",
+  "contributionDescription": "The OpenZeppelin Contracts library helps developers reduce risk by using battle-tested implementations of solidity smart contracts. Developers can also use The Contracts Wizard for no-code development, and upgrade plugins for handling upgradeable contracts.\n\nThe library is always being worked on by our fully dedicated team of developers and community support. The 5.0 release added namespaced storage, efficiency improvements, a new AccessManager contract, and more. Before every update, we do extensive testing, including fuzzing and formal verification, as well as an audit by an internal independent team.\n\nDevelopers using the library can benefit from the Defender platform's free plan to securely code, deploy, and operate contracts. Defender supports Optimism and Base testnets and mainnet.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/OpenZeppelin/openzeppelin-contracts",
+      "description": "OpenZeppelin Contracts Repository"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://wizard.openzeppelin.com/",
+      "description": "Contracts Wizard"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://docs.openzeppelin.com/upgrades-plugins/1.x/",
+      "description": "Upgrades Plugins"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://blog.openzeppelin.com/introducing-openzeppelin-contracts-5.0",
+      "description": "5.0 Release Announcement"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://docs.openzeppelin.com/defender/v2/",
+      "description": "Defender Network Support"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://contracts.openzeppelin.com/security",
+      "description": "OpenZeppelin Contracts Security Center"
+    }
+  ],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
+  "impactDescription": "Since the early days of Solidity, OpenZeppelin Contracts have been used by almost every smart contract system from the largest projects transacting billions of dollars to individuals building smaller applications. Close to 60% of all transactions in OP mainnet happen via contracts using the library.\n\n- Developers are able to develop applications faster by using ready-made contract templates and components.\n- Applications that use our battle-tested library are more secure, reducing the risk of vulnerabilities for applications in the Optimism Superchain.\n- New developers can use the Contracts Wizard to develop their first smart contract and deploy it in a few simple steps to the Optimism network.\n\nThe Defender platform free plan provides additional security tools to the Optimism Collective.",
+  "impactMetrics": [
+    {
+      "description": "Share of Tx on OP mainnet (in %)",
+      "number": 58,
+      "url": "https://docs.google.com/spreadsheets/d/145BPEZ6R8_nCvdw9hdKfRcpYY8e7KTPZ/edit#gid=1509426791"
+    },
+    {
+      "description": "Auditor weeks to secure the 5.0 release",
+      "number": 38,
+      "url": "https://contracts.openzeppelin.com/security"
+    },
+    {
+      "description": "Package downloads",
+      "number": 26562173,
+      "url": "https://npm-stat.com/charts.html?package=%40openzeppelin%2Fcontracts&from=2018-01-01&to=2023-10-23"
+    },
+    {
+      "description": "Dependent repositories",
+      "number": 160893,
+      "url": "https://contracts.openzeppelin.com/security"
+    },
+    {
+      "description": "GitHub stars",
+      "number": 23081,
+      "url": "https://github.com/OpenZeppelin/openzeppelin-contracts"
+    },
+    {
+      "description": "GitHub forks",
+      "number": 11633,
+      "url": "https://github.com/OpenZeppelin/openzeppelin-contracts"
+    },
+    {
+      "description": "Number of Defender accounts on free tier",
+      "number": 620,
+      "url": "https://docs.google.com/spreadsheets/d/1EQnl8qmDj8hmygkylbBItyTLOmEN9nG2KluYIN8T2Yo/edit#gid=907459832"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 181764.94,
+      "description": "As part of the tooling & utilities category"
+    }
+  ],
+  "payoutAddress": "0xBC125D485EE2f414c84674085538118265D3f168",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "OpenZeppelin Contracts",
+  "applicantName": "OpenZeppelin Contracts",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9e1E9D592BAb52406289A1B4e8Bc1236d9eAD33e.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x9e1E9D592BAb52406289A1B4e8Bc1236d9eAD33e.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x9e1E9D592BAb52406289A1B4e8Bc1236d9eAD33e.json",
+  "RPGF3_Application_UID": "0xf751fd5e236ec136a340fa5d2080938512056728c9301ac7dc27d6ab78791e72",
+  "applicantAddress": "0x9e1E9D592BAb52406289A1B4e8Bc1236d9eAD33e"
+}

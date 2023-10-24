@@ -1,0 +1,39 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://kristoferlund.se",
+  "bio": "Developer. I build things: Praise, Attest Fest, OP Citizen Attestation Explorer. \nFrens: Commons Stack, General Magic, Giveth, Token Engineering Commons",
+  "contributionDescription": "I am part of the Praise team and also took the initiative to build Attest Fest for Optimism. In addition to the work I do within those projects (separate applications made) I try to contribute as best I can to advocate for Optimism in various forums . ",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/kristoferlund",
+      "description": "My personal twitter"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "OP_STACK"
+  ],
+  "impactDescription": "I am part of the Praise team and also took the initiative to build Attest Fest for Optimism. In addition to the work I do within those projects (separate applications made) I try to contribute as best I can to advocate for Optimism in various forums. ",
+  "impactMetrics": [
+    {
+      "description": "My personal twitter",
+      "number": 1,
+      "url": "https://twitter.com/kristoferlund"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0xa32aECda752cF4EF89956e83d60C04835d4FA867",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Kristofer Lund",
+  "applicantName": "kristofer",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xa32aECda752cF4EF89956e83d60C04835d4FA867.jpeg",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xa32aECda752cF4EF89956e83d60C04835d4FA867.jpeg",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xa32aECda752cF4EF89956e83d60C04835d4FA867.json",
+  "RPGF3_Application_UID": "0xbc37a256ffd7cde5e9e5651155d79ca64d718d3f84f4a36b74aa7eae08a2f788",
+  "applicantAddress": "0xa32aECda752cF4EF89956e83d60C04835d4FA867"
+}

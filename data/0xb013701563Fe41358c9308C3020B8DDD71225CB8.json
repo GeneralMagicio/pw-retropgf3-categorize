@@ -1,0 +1,51 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://crypto-commons.org/",
+  "bio": "The CCA is a non-profit organization promoting the general development of Crypto Commons infrastructures, through events, research and contents.",
+  "contributionDescription": "In the last two years we organized 6 events (only counting the big ones: one week, 50 people) around the intersection of blockchain and public goods: three CCG, 2 ReFi events, a CoFi gathering. You can read about them on our website. \n\nIndirectly, these events supported Optimism as we organized big experts-events on PGF and we engaged in different ways with all the major projects in the niche (gitcoin, giveth..)\n\nIn a direct way, in the last CCG (2 months ago) we had a session on Optimism onboarding that we recorded specifically for this application process, but the recording got lost. We have the recording of the whole PFG themed morning at the event though, here: https://www.youtube.com/watch?v=ghcZ9pguMpQ&t=3778s Optimism was present in many discussion in and outside of the panels.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/watch?v=ghcZ9pguMpQ&t=3778s",
+      "description": "Public Goods Funding day at CCG23 recording"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "-Having contributed significantly to discussions about blockchain and PGF: when we started in 2021, the topic was much less invested of attention, and the experts/projects in our network have influenced the development of the collective knowlegde on PGF/RPF.\n\n-In the last period and in the last event OC has been object of theoretical and practical debate in our community, during the event itself it was an hot topic (as this round of applications was coming) and we had an optimism onboarding session specifically.\n\nAs a non profit we consider that despite the lack of on-chain proofs of our impact on OC, our qualitative contribution to the whole space is significant enough to ask for a small grant (even 1000/2000 USD in OP value) in this RPF round and it would be a good support.",
+  "impactMetrics": [
+    {
+      "description": "Big events on bck and pgf delivered",
+      "number": 5,
+      "url": "https://crypto-commons.org/events-database"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 100000,
+      "description": "The amount indicated is the rough amount of revenues we had in 2022/2023 as CCA"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 0,
+      "description": "We didn't receive any funding from Optimism in any form so far"
+    }
+  ],
+  "payoutAddress": "0xb013701563Fe41358c9308C3020B8DDD71225CB8",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Crypto Commons Association",
+  "applicantName": "Crypto Commons Association",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xb013701563Fe41358c9308C3020B8DDD71225CB8.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xb013701563Fe41358c9308C3020B8DDD71225CB8.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xb013701563Fe41358c9308C3020B8DDD71225CB8.json",
+  "RPGF3_Application_UID": "0xe7d4cf0cda38c0f0b1ac0853ccaaa23d7c0569412604935edfa57cbb1ec7077b",
+  "applicantAddress": "0xb013701563Fe41358c9308C3020B8DDD71225CB8"
+}

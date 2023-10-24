@@ -1,0 +1,92 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://ufo.fm/",
+  "bio": "UFO is an onchain radio network and club for music, arts and ideas. A place for revolutionary ideas.",
+  "contributionDescription": "In one year, UFO has grown from 0 subscribers to 9K on Base, 31K on Lens, 14K on Mirror, 16K on X, 6K on Zora by experimenting with onchain media, mostly in the OP ecosystem. Many of our 41 podcasts with founders, builders and artists have focused on the OP ecosystem.\n\nWe are assembling an onchain radio network with partners incl. Zora, Base, Mirror, Lens Protocol, Bonfire, Interface, Lore, Coinvise, XMTP and Paragraph. The build will be open source.\n\nNOV 11, UFO Genesis Pass on Mirror with 7812 mints. Top 5 for collects on Mirror (OP)\n\nJUN 27, first podcast to mint our catalog to an 1155 on Zora network with 5370 total mints\n\nAUG 30, FM TOUR for onchain summer with Base and Bonfire with 8889 mints\n\nOCT 23, UFO was among the first to mint a Paragraph newsletter on Zora network",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://ufo.fm/",
+      "description": "UFO.FM"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://ufo.mirror.xyz/nft/0x3efC6B697720A713Fee526AbFbcD0bD81C90ECd9/0",
+      "description": "UFO Genesis Pass"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://ufo.mirror.xyz/",
+      "description": "Mirror posts on Optimism"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://explorer.zora.energy/token/0x4174f78b7769650C1B205a2E1AC69cd0e47bbE02",
+      "description": "UFO catalog on Zora"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://mint.fun/base/0x8D818f34a95B7C0F9E0b3e5fbF3b016085EBBa1A",
+      "description": "FM TOUR on Base"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://zora.co/collect/zora:0x6e100100ba8b0063ade8c85aade12eaeb853b2f8",
+      "description": "Paragraph newsletter on Zora"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "By being early and experimenting in onchain media and web3 social, we have the DMs to show we have inspired media and community strategies for Nouns Builder projects, publications, wallets, artist collectives, podcasts, zines, musicians, and creative platforms.\n\nWe have demonstrated the effectiveness for media publications to use multiple platforms such as Mirror, Zora, Bonfire and Lens, and across chains including Ethereum, Optimism, Zora and Base. \n\nWe help to amplify the signal for revolutionary ideas, and because we regularly talk about the evolution of onchain media for artists and creatives, many of our 41 podcast episodes have focused on the Optimism ecosystem, particularly via Mirror, Zora and Base.",
+  "impactMetrics": [
+    {
+      "description": "UFO Genesis Pass",
+      "number": 7812,
+      "url": "https://etherscan.io/address/0x3efc6b697720a713fee526abfbcd0bd81c90ecd9"
+    },
+    {
+      "description": "Zora mints",
+      "number": 5370,
+      "url": "https://explorer.zora.energy/token/0x4174f78b7769650C1B205a2E1AC69cd0e47bbE02"
+    },
+    {
+      "description": "FM TOUR mints",
+      "number": 8889,
+      "url": "https://mint.fun/base/0x8D818f34a95B7C0F9E0b3e5fbF3b016085EBBa1A"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 9000,
+      "description": "Zora grant"
+    },
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 7500,
+      "description": "FM TOUR mint (funds for event series)"
+    },
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 12255,
+      "description": "Collects on Mirror (OP)"
+    }
+  ],
+  "payoutAddress": "0x92f551665C69586Fd5f30e6EFdB78aC882B22d17",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "UFO",
+  "applicantName": "UFO",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x92f551665C69586Fd5f30e6EFdB78aC882B22d17.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x92f551665C69586Fd5f30e6EFdB78aC882B22d17.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x92f551665C69586Fd5f30e6EFdB78aC882B22d17.json",
+  "RPGF3_Application_UID": "0xfa3a360aa2685bb42c535c6f06692eb0bd7bd534266781c4191d35e7724ed85a",
+  "applicantAddress": "0x92f551665C69586Fd5f30e6EFdB78aC882B22d17"
+}

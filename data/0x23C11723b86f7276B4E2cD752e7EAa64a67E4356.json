@@ -1,0 +1,60 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": " https://memeparty.io",
+  "bio": "As an artist-programmer team, we launched 2 NFT collections on Ethereum. After a year of work, we're expanding practical use cases for NFTs.\n\n",
+  "contributionDescription": "MemeParty is a dedicated NFT meme creation tool, serving NFT holders. \nOur beta version has been operational for over six months, and our community users have crafted thousands of images using MemeParty, showcased on platforms like Twitter and other social media. \nWith a diverse library of several hundred components, we strive to empower NFT holders to showcase and proudly display their NFTs.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://memeparty.io/app",
+      "description": "Meme Creation Interface&Asset Library"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://memeparty.io/",
+      "description": "memeparty website"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://opensea.io/collection/dogeclub-dogc",
+      "description": "our issued NFT"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://opensea.io/collection/mutantdoge-dogc",
+      "description": "our issued NFT"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "Our vibrant community and dynamic tools will bring thousands of meme images to optimism. With the collective creativity and cleverness of our community members, we continuously contribute and share a wealth of captivating and shareable images. This collaborative environment helps to expand optimism's visibility and recognition. ",
+  "impactMetrics": [
+    {
+      "description": "meme images",
+      "number": 20000,
+      "url": "https://twitter.com/memepartyio"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 80000,
+      "description": "creator earnings"
+    }
+  ],
+  "payoutAddress": "0x23C11723b86f7276B4E2cD752e7EAa64a67E4356",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "memeparty",
+  "applicantName": "memeparty",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x23C11723b86f7276B4E2cD752e7EAa64a67E4356.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x23C11723b86f7276B4E2cD752e7EAa64a67E4356.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x23C11723b86f7276B4E2cD752e7EAa64a67E4356.json",
+  "RPGF3_Application_UID": "0xd05a316208359881c6524e63ab063f231845cd335e580d258cab388008217df7",
+  "applicantAddress": "0x23C11723b86f7276B4E2cD752e7EAa64a67E4356"
+}

@@ -1,0 +1,44 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://www.sound.xyz/user/0xb3ce00145169d9b16c55fbe0e651cbeae5f5709b/collection",
+  "bio": "NFT music collector",
+  "contributionDescription": "I am the end user who collects NFt music in Op chain. I use Op network instead of Ethereum because I find Op network faster and cheaper. I see myself contributing to transactions to see if OP's feature is effective? If NFTs were limited to major artists, everyone would fight for the first 1-2 minutes when it was released. Luckily OP's network runs very smoothly and is not congested. I find what I do meaningful because I was one of the first testers for the project.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://www.sound.xyz/user/0xb3ce00145169d9b16c55fbe0e651cbeae5f5709b/collection",
+      "description": "sound NFT collector"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "I'm collecting songs from quality artists. From there, I help them earn more income and also encourage them to compose more and release better quality music. Thanks to that, I see that many artists have to improve themselves in order for more people to know and listen to their music.\nAlso thanks to the many songs posted on the OP network, transaction fees are cheaper and faster than the ETH network. This makes our fans very excited. Thank you so much to the DEV team",
+  "impactMetrics": [
+    {
+      "description": "nft Music",
+      "number": 134,
+      "url": "https://www.sound.xyz/user/0xb3ce00145169d9b16c55fbe0e651cbeae5f5709b/collection"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 1000,
+      "description": "my own fund can contribute"
+    }
+  ],
+  "payoutAddress": "0xb3Ce00145169d9B16c55fbe0E651CBEAE5F5709b",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Rambococo",
+  "applicantName": "Rambococo",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xb3Ce00145169d9B16c55fbe0E651CBEAE5F5709b.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xb3Ce00145169d9B16c55fbe0E651CBEAE5F5709b.json",
+  "RPGF3_Application_UID": "0xb7e93f188e4733d1a56f7fffa3ff65dfd047d5489e74ec6dde629fb6f41b83ab",
+  "applicantAddress": "0xb3Ce00145169d9B16c55fbe0E651CBEAE5F5709b"
+}

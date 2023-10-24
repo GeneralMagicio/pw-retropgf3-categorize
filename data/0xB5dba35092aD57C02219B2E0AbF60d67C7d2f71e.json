@@ -1,0 +1,38 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://goverland.xyz/",
+  "bio": "Goverland is the Mobile App for all DAOs and an open-source DAO-to-Wallet communication infrastructure.",
+  "contributionDescription": "We've crafted a mobile app for DAO enthusiasts. Key highlights:\n- Ease-of-Use: Our intuitive design promotes active DAO participation.\n- Transparent Governance: We've made DAO decision-making clearer.\nOur app is backed by extensive research on user engagement, utilizing public data from Snapshot. With a focus on delegate accountability—vital for Optimism—we've integrated Snapshot voting and are gearing up to add Governor contracts, enhancing mobile engagement in Optimism's governance. While the app is versatile for many DAOs, Optimism DAO gets special attention. Built without external grants, we aim to democratize DAO governance. Check out our TestFlight link below.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://testflight.apple.com/join/RXPCZXIg",
+      "description": "TestFlight mobile app for governance."
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
+  "impactDescription": "Our solution should bring new users to Optimism and increase the participation rate among current OP token holders, highlighting influential delegates, facilitating delegating stale tokens and re-delegating. We already did a lot of work to make it happen and will have a public launch in November. Now, our application is in a TestFlight Alpha.",
+  "impactMetrics": [
+    {
+      "description": "Existence of Mobile App for Optimism DAO",
+      "number": 1,
+      "url": "https://testflight.apple.com/join/RXPCZXIg"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0xB5dba35092aD57C02219B2E0AbF60d67C7d2f71e",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Goverland",
+  "applicantName": "Goverland Team",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xB5dba35092aD57C02219B2E0AbF60d67C7d2f71e.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xB5dba35092aD57C02219B2E0AbF60d67C7d2f71e.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xB5dba35092aD57C02219B2E0AbF60d67C7d2f71e.json",
+  "RPGF3_Application_UID": "0xc1bb9d8e0a6e46f11f9d540b13bf040a77fa04a739c1889c32d23b12cac767c8",
+  "applicantAddress": "0xB5dba35092aD57C02219B2E0AbF60d67C7d2f71e"
+}

@@ -1,0 +1,92 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://ethmexico.org/",
+  "bio": "Passionate Mexico-based Web3 community. Our mission: educate, inspire, and build a vibrant Ethereum community through engaging events and education 🇲🇽",
+  "contributionDescription": "Our Optimism contributions are tailor-made for the Mexican audience, exclusively in Spanish. We've achieved:\n\n- Informative Twitter Spaces boosting Optimism's awareness\n- Twitter threads designed to onboard new users and promote the Optimistic Road to Ethereum Mexico 2023\n- A virtual workshop about Optimism\n- A significant highlight at Ethereum Mexico 2023, our star event in Mexico City featuring a talk by Mark Tyneway\n\nNotably, we exceeded the objectives of our proposed mission during Season 4 (Optimistic Road to Ethereum México The Event), amplifying Optimism's reach and influence.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://ethmexico.org/",
+      "description": "Optimism appeared as one of the main Sponsors of Ethereum Mexico 2023 + Talk"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://docs.google.com/presentation/d/1U0mEC892y8oeYPZbzhxf6Z1J_CQrXg2F0XiGB4hr6JI/edit?usp=sharing",
+      "description": "12 events in 9 cities, Optimism-centered"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://docs.google.com/presentation/d/1UfQydz-GKAnyiG-lPy7wq2gVZ3QTi0pnsiOsKUpU_vQ/edit?usp=sharing",
+      "description": "4 X Spaces in collaboration with Optimism en Español"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://docs.google.com/spreadsheets/d/176_1liqapAMXmUxKv1YbcpFiuoVPswFzh8Cgbik37Ao/edit?usp=sharing",
+      "description": "6 X Threads to onboard new users & promote Optimistic Road to Ethereum Mexico"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/ethereum_mexico/status/1703808764040696117",
+      "description": "Virtual workshop on Optimism tech & governance"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "We heightened awareness within the Mexican community by having Optimism as a prominent sponsor of Ethereum Mexico 2023. Mark Tyneway's insightful talk on the future of blockchain technology piqued interest and extended an invitation to engage with the Collective.\n\nIn Season 4, we actively participated in a mission, exceeding the expected impact. While we committed to 4 events, we went above and beyond, supporting local communities in organizing a total of 12 events across 9 diverse cities. Additionally, we exceeded expectations with more X threads and X Spaces than initially projected. Our efforts resonated, amplifying Optimism's presence and reach.",
+  "impactMetrics": [
+    {
+      "description": "EM23 Staff Attestations",
+      "number": 28,
+      "url": "https://optimism.easscan.org/schema/view/0x24f38c53a6ae65ee63e7b33c86672bff730d89f112d309004e84ff8c0291f835"
+    },
+    {
+      "description": "NFTickets for EM23",
+      "number": 332,
+      "url": "https://docs.google.com/spreadsheets/d/1WkugNZe2JbT8QVjMaZQejB4o-rN7xvf83Vk-W9uUxJk/edit?usp=sharing"
+    },
+    {
+      "description": "Attendees Optimistic Road",
+      "number": 682,
+      "url": "https://docs.google.com/spreadsheets/d/1FwED2l5LhZY2P-waap1g_29e6WuiLyxcrV15n8Tn5U8/edit?usp=sharing"
+    },
+    {
+      "description": "Views X Threads",
+      "number": 23844,
+      "url": "https://docs.google.com/spreadsheets/d/176_1liqapAMXmUxKv1YbcpFiuoVPswFzh8Cgbik37Ao/edit?usp=sharing"
+    },
+    {
+      "description": "X Spaces Audience",
+      "number": 643,
+      "url": "https://docs.google.com/spreadsheets/d/1YCq-5ci4CxO06rX7_p6X_XYlFDCKy-1os7YdrCPYYGE/edit?usp=sharing"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 5800,
+      "description": " Locked till August 2024. Proposed Mission S4, Optimistic Road to EM23"
+    },
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 17500,
+      "description": " Category: Community & Education"
+    }
+  ],
+  "payoutAddress": "0x7674D60760918Ae89cA71F2ce1Af2b2E740E2c8E",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Ethereum Mexico",
+  "applicantName": "Ethereum Mexico",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x596a9BCad70d07AFF4215b2a17ad36298139fB6C.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x596a9BCad70d07AFF4215b2a17ad36298139fB6C.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x596a9BCad70d07AFF4215b2a17ad36298139fB6C.json",
+  "RPGF3_Application_UID": "0x2113aa30f96029c1a9af0c1c15677fb80ecc169fb05b3d0c90e6eb77f5e758c1",
+  "applicantAddress": "0x596a9BCad70d07AFF4215b2a17ad36298139fB6C"
+}

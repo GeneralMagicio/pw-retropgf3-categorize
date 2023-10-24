@@ -1,0 +1,58 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://ethlima.org/",
+  "bio": "Ethereum Community in Lima, Perú.",
+  "contributionDescription": "Ethereum Lima is a community located in Lima, Peru. We are focused on face-to-face and virtual education. At Ethereum Lima we want to further boost the community in Peru. This will be achieved through workshops, courses, spaces, blog posts and other media content about the Ethereum Ecosystem.\n\nWe believe that everyone should have access to this technology and we are interested in having a larger community of web3 developers in Peru. We are part of the global Ethereum community, we are in contact with groups similar to ours around the world and we make joint collaborations.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/EthereumLima/status/1685019696737697793?s=20",
+      "description": "Twitter Space - OptimismxLATAM: Bringing Optimism to the Communities - ETH Lima"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/@ethereumlima780",
+      "description": "Youtube - ETH Lima"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/EthereumLima",
+      "description": "Twitter - ETH Lima"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "We've guided individuals from their initial stages in comprehending Ethereum and its potential benefits in their lives. Subsequently, we've facilitated their transition towards solutions such as Optimism as a Layer 2.\n\nOur wealth of experience encompasses the orchestration of workshops, discussions, and virtual events tailored for our community. \n\nTo this day, we've effectively coordinated more than 25 workshops, discussions, and online events. These gatherings consistently draw in a substantial audience, averaging 20 attendees per workshop.",
+  "impactMetrics": [
+    {
+      "description": "Events Participations",
+      "number": 26,
+      "url": "https://docs.google.com/spreadsheets/d/1sOiqYfbjv_fXc9RDvZWKCWMIlDUIDa0D/edit?usp=share_link&ouid=117121891625583592054&rtpof=true&sd=true"
+    },
+    {
+      "description": "Educational Content",
+      "number": 24,
+      "url": "https://docs.google.com/spreadsheets/d/1jRHby8bNzvJCDOtdrkA66bdLfo125ZF2/edit?usp=share_link&ouid=117121891625583592054&rtpof=true&sd=true"
+    },
+    {
+      "description": "POAP's",
+      "number": 419,
+      "url": "https://docs.google.com/spreadsheets/d/10KPv3X467eo_ebfS2N3OPGkJTSWNM05i/edit?usp=share_link&ouid=117121891625583592054&rtpof=true&sd=true"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x2f6c8F867df4E49e4Fb24741C414f315E266C21B",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Ethereum Lima",
+  "applicantName": "Ethereum Lima",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2f6c8F867df4E49e4Fb24741C414f315E266C21B.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x2f6c8F867df4E49e4Fb24741C414f315E266C21B.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x2f6c8F867df4E49e4Fb24741C414f315E266C21B.json",
+  "RPGF3_Application_UID": "0x8788f5efe99abf2a82ff0c27361baf9321c7601c06599551635aadfdd7980cf9",
+  "applicantAddress": "0x2f6c8F867df4E49e4Fb24741C414f315E266C21B"
+}

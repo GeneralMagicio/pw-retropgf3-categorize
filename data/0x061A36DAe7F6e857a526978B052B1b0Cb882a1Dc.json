@@ -1,0 +1,48 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://modularmedia.substack.com/",
+  "bio": "A public good for the modular community, providing news, updates, and education across the ecosystem.",
+  "contributionDescription": "Modular Media provides in depth, unbiased breakdowns of the biggest topics across the modular space every single week to our audience of nearly 600 email subscribers, and over 1500 Twitter followers. From project deep dives, and in depth breakdowns of topics such as sequencers and provers, to “how to guides” and “intern notes”. We help users & investors understand the underlying infrastructure that make up OP Stack rollups, while also providing a marketing branch for the teams building these rollups. We’re setting the steps in place to make sure the modular ecosystem thrives in the future.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://modularmedia.substack.com/",
+      "description": "weekly newsletter, providing in depth breakdowns of latest news & education "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/modularmedia_",
+      "description": "OP Stack related threads, X Spaces, & \"intern notes\" (discussion breakdowns)"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "Our in depth breakdowns of complex topics help the community understand the underlying infrastructure that goes into building an OP Stack rollup, including sequencer or prover explainers. Plus, our weekly newsletter highlights the biggest updates across the Optimism ecosystem, such as showing users how to onboard to a new OP Stack chain such as Ancient8. On top of this, we offer an environment for thought leaders & builders to share & publish their own thoughts to one of, if not the biggest modular community in web3. We have received support from some of the top minds in the space, including those from the Celestia & Avail teams, Jon Charbonneau, and many others.",
+  "impactMetrics": [
+    {
+      "description": "X Post Views ",
+      "number": 88500,
+      "url": "https://docs.google.com/spreadsheets/d/1H0S26dJKQSxdEqGtZf2mPdSqpdmeGzH6T5vffF2UwEY/edit?usp=sharing"
+    },
+    {
+      "description": "Newsletter Views ",
+      "number": 13220,
+      "url": "https://docs.google.com/spreadsheets/d/1H0S26dJKQSxdEqGtZf2mPdSqpdmeGzH6T5vffF2UwEY/edit?usp=sharing"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x061A36DAe7F6e857a526978B052B1b0Cb882a1Dc",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Modular Media ",
+  "applicantName": "Modular Media ",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x061A36DAe7F6e857a526978B052B1b0Cb882a1Dc.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x061A36DAe7F6e857a526978B052B1b0Cb882a1Dc.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x061A36DAe7F6e857a526978B052B1b0Cb882a1Dc.json",
+  "RPGF3_Application_UID": "0xf6ad557d7f9065d81c1e90f0d41b7808c028437740b206be489523c76035e5a9",
+  "applicantAddress": "0x061A36DAe7F6e857a526978B052B1b0Cb882a1Dc"
+}

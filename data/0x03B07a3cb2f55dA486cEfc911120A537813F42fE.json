@@ -1,0 +1,49 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://mirror.xyz/publicgoodafrica.eth",
+  "bio": "Helloo Optimism Collective. Public Good Africa is pioneering a new era of public good in Africa where impact is easily recognized and funded.\n",
+  "contributionDescription": "PGA has been actively involved in supporting the development and adoption of Optimism in Africa by helping projects set up and operate on the optimism network. PGA has also been engaging in Public Good education through which it has onboarded individuals into the Optimism collective through IRL Meet Ups. ",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://docs.google.com/spreadsheets/d/1OIiIhSnrUkrJpLmRiVNu-284kG3PiT8rZrCy4YQlE4k/edit#gid=0",
+      "description": "Google sheet containing data of impacts"
+    }
+  ],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "Public Good Africa has been actively involved in onboarding projects to the Optimism collective and has played a vital role in fostering the growth of the Optimism Layer 2 ecosystem in the African region.\n\nProject Onboarding\nWe have been gradually helping projects set up Multi sigs on Optimism and guiding them on how to operate the Multi sigs to facilitate their operations on the Op network. \n\nUser onboarding - IRL education and user guide\nFor the past couple of months, PGA has hosted meet ups in various countries aimed educating people about Public Good and how to use crypto L2 networks. These meet ups have been hosted in Nigeria, Tanzania and Ghana\n",
+  "impactMetrics": [
+    {
+      "description": "# project onboarded - Multi sigs",
+      "number": 6,
+      "url": "https://docs.google.com/spreadsheets/d/1OIiIhSnrUkrJpLmRiVNu-284kG3PiT8rZrCy4YQlE4k/edit?usp=sharing"
+    },
+    {
+      "description": "# of Meet Ups organized - Countries",
+      "number": 3,
+      "url": "https://docs.google.com/spreadsheets/d/1OIiIhSnrUkrJpLmRiVNu-284kG3PiT8rZrCy4YQlE4k/edit?usp=sharing"
+    },
+    {
+      "description": "# User onboarded - wallet addresses",
+      "number": 25,
+      "url": "https://docs.google.com/spreadsheets/d/1OIiIhSnrUkrJpLmRiVNu-284kG3PiT8rZrCy4YQlE4k/edit#gid=2109503628"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0xAc0F417B9155d9f3fF89AE4752844765B4FE6E88",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Public Good Africa",
+  "applicantName": "Public Good Africa",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x03B07a3cb2f55dA486cEfc911120A537813F42fE.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x03B07a3cb2f55dA486cEfc911120A537813F42fE.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x03B07a3cb2f55dA486cEfc911120A537813F42fE.json",
+  "RPGF3_Application_UID": "0xe893bf41623c616cb372a2987e2cc4b7e82f5ad25249d22fc6d13de4a85dfe76",
+  "applicantAddress": "0x03B07a3cb2f55dA486cEfc911120A537813F42fE"
+}

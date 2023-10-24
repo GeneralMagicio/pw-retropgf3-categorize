@@ -1,0 +1,87 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://twitter.com/daboyshine",
+  "bio": "A dedicated and passionate crypto person from Thailand. ",
+  "contributionDescription": "In my contributions to the Optimism Network, I have primarily used Twitter as a platform to introduce and educate a wide audience about the comprehensive Optimism ecosystem. The main problems I think I’ve solved were the lack of awareness and understanding of Optimism's value and the need to onboard users effectively.\n\nMy Twitter posts have covered a broad range of topics within the Optimism ecosystem, including the OP stack, partnerships, development, and various community aspects. I've tried to keep it simple and easy to understand so that everyone can get it without using tricky words. This way, both new and experienced users can learn about what Optimism can do.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://x.com/daboyshine/status/1656688196493910016?s=20",
+      "description": "The post about the Commemorial NFT (Optimism x Worldcoin)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/daboyshine/status/1664481653962739713?s=20",
+      "description": "The post about the Co-Granting (Optimism x Syndicate)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/daboyshine/status/1666977976758734848?s=20",
+      "description": "This post was to help spreading the BEDROCK upgrade words"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/daboyshine/status/1667786669729394688?s=20",
+      "description": "The post about the 'V Buterin' song on Sound.xyz"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/daboyshine/status/1672053898230792192?s=20",
+      "description": "Optimism x ZORA"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/daboyshine/status/1679392365390499840?s=20",
+      "description": "The update about transferring unclaimed tokens from Airdrop #1 to a new contract"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/daboyshine/status/1696573971096068326?s=20",
+      "description": "An example of my posts to share the news when there was an interesting AMA "
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "My contributions primarily consisted of posts on Twitter, where I aimed to create a substantial impact by raising awareness about the Optimism ecosystem. While promoting Optimism as a Layer-2 network is crucial, I also endeavored to convey that it's not merely a scaling solution, but a vibrant ecosystem with numerous opportunities for user participation",
+  "impactMetrics": [
+    {
+      "description": "Top 1 best educator (Subli's campaign))",
+      "number": 1,
+      "url": "https://x.com/Subli_Defi/status/1676507895897391105?s=20"
+    },
+    {
+      "description": "Top 2 contributors (July, Week 1)",
+      "number": 2,
+      "url": "https://x.com/OptimismDailyTK/status/1677280444125986817?s=20"
+    },
+    {
+      "description": "Top 4 contributors (July, Week 2)",
+      "number": 4,
+      "url": "https://x.com/OptimismDailyTK/status/1680930098151829504?s=20"
+    },
+    {
+      "description": "Top 3 contributors (July, Week 3)",
+      "number": 3,
+      "url": "https://x.com/OptimismDailyTK/status/1683850534430838784?s=20"
+    },
+    {
+      "description": "Top 3 contributors (September, Week 1)",
+      "number": 3,
+      "url": "https://x.com/OptimismDailyTK/status/1700939475944431969?s=20"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x4CDD7811CCEdB0fFd3808B586bcafD6AB0ACb313",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "daboyshine",
+  "applicantName": "daboyshine",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x4CDD7811CCEdB0fFd3808B586bcafD6AB0ACb313.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x4CDD7811CCEdB0fFd3808B586bcafD6AB0ACb313.json",
+  "RPGF3_Application_UID": "0xd8954972d3580199658bcc9ac03298b4f689ef06fc6f505c853851aa4ca25c41",
+  "applicantAddress": "0x4CDD7811CCEdB0fFd3808B586bcafD6AB0ACb313"
+}

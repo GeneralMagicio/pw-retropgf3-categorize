@@ -1,0 +1,114 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://twitter.com/ethvolcano_",
+  "bio": "Eth-Volcano is the Ethereum community of El Salvador. Our country was the first to adopt Bitcoin as legal tender, and now trail blaze digital asset regulation.",
+  "contributionDescription": "We are an education resource hub for Ethereum in El Salvador. Our achievements include an in-person conference, a university partnership to teach solidity, and an active Twitter. \n\nIn-person conference: \n\nEth-Volcano launch event was in May 2023, and approximately 80 people attended from around the country, Central America, and North America!  \n\nSpeaking topics included but weren't limited to Ethereum origins, L2s role in the ecosystem, and the most anticipated talk: Legal Hour, the new El Salvador Digital Asset Regulation.\n\nUniversity Partnership:\n\nWe partnered with La Universidad de Matias of El Salvador and Eth-Kipu to teach \"Ethereum Developer Pack\". A Salvadoran smart-contract developer leads the instruction. 28 people attended. \n\nTwitter:\nWe engage in education spaces and content. ",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/ethvolcano_/status/1708523458592686527",
+      "description": "Event: recap"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/ethereumgt/status/1654948781266223108?s=20",
+      "description": "Event: attendees traveling from Central America "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/ethvolcano_/status/1654538950076252161?s=20",
+      "description": "Event: Legal Hour pt1 by a Salvadoran lawyer "
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://x.com/ethvolcano_/status/1654546510770577409?s=20",
+      "description": "Event: Legal Hour pt 2 by a Salvadoran lawyer"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/fsanchinelli/status/1654987743427022851?s=20",
+      "description": "Event: Defi use cases for LatAm"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/ethvolcano_/status/1654986859028656129?s=20",
+      "description": "Event: Ethereum and L2 origins "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/ethvolcano_/status/1688924448836177920?s=20",
+      "description": "Commerce, Web3, and El Salvador Event"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/cypherbadger/status/1692585677521563701?s=20",
+      "description": "Commerce, Web3, and El Salvador Event"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/cypherbadger/status/1692595344373142007?s=20",
+      "description": "Commerce, Web3, and El Salvador Event"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/ethvolcano_/status/1694533641278460073?s=20",
+      "description": "Class- Ethereum Developer Pack "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/NNathMC/status/1698194348112789844?s=20",
+      "description": "Class- Ethereum Developer Pack"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/ethvolcano_/status/1704140789268549851?s=20",
+      "description": "Class- Ethereum Developer Pack"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/ethvolcano_/status/1706327828248121723?s=20",
+      "description": "Class- Ethereum Developer Pack"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/ethvolcano_/status/1710405086050947094?s=20",
+      "description": "One of many spaces"
+    }
+  ],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "Our primary focus has been to bring Ethereum education awareness in a country that is already familiar with the word \"Bitcoin.\" Our efforts sought to demystify and introduce the impact that smart contracts currently have and could later have in the future. \n\nWe have aimed to inspire Salvadorans that they, too, can be part of this future.  By working on being a trusted source of information, knowledge, and guidepost, we have laid the groundwork for El Salvador to learn to adopt smart contracts and continue their journey to learn Ethereum. \n\nAs a result of our efforts:\n28 new developers are undergoing Ethereum Developer Pack\n\nEth-Volcano (Spaces) Talks Total:\n2477 total attendees \n\nEth-Volcano X impressions Total:\n295,400 impressions with 406 followers ",
+  "impactMetrics": [
+    {
+      "description": "Eth Developer Pack Attendees Total",
+      "number": 28,
+      "url": "https://docs.google.com/spreadsheets/d/17ueCTnEGvVVyZlVk0S_5ReFOo_RtXd0U/edit#gid=1714515587"
+    },
+    {
+      "description": "Volcano Talks: Spaces Attendees Total",
+      "number": 2695,
+      "url": "https://docs.google.com/spreadsheets/d/1NXgZT0ZMAtYziUVihGytiKTjcXL49kskBIluIuzp-6k/edit#gid=0"
+    },
+    {
+      "description": "Eth-Volcano X Impressions Total",
+      "number": 295400,
+      "url": "https://docs.google.com/document/d/1eia_bbPRA92QlF1UKHo1q49Pue0a_Z5nGMQTf9rKfrc/edit#heading=h.ydbga3vqi9ro"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x5a039c597251fCbB574101Fc510a1759cc6871aF",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Eth-Volcano",
+  "applicantName": "Eth-Volcano",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5a039c597251fCbB574101Fc510a1759cc6871aF.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x5a039c597251fCbB574101Fc510a1759cc6871aF.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x5a039c597251fCbB574101Fc510a1759cc6871aF.json",
+  "RPGF3_Application_UID": "0xf3526ec21d5b1146008c629fe9837f2c5ab099b1590e28dfb7005c126234fb11",
+  "applicantAddress": "0x5a039c597251fCbB574101Fc510a1759cc6871aF"
+}

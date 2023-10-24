@@ -1,0 +1,37 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://twitter.com/anayakapoor437",
+  "bio": "Software Developer Google| Dev Rel Web3| Mentor Devfolio",
+  "contributionDescription": "Ensure blockspace remains homogeneous, neutral and open: A commitment to the Law of Chains is a commitment to the protection of a chain’s users, developers, and other stakeholders. Chains large and small, if part of the Superchain, can credibly demonstrate the homogenous, neutral and open properties of their blockspace, backed by Optimism Governance.\n\nBenefit from constant improvement: Shared upgrades mean that chains can always get the best tech, without having to worry about maintenance themselves.\n\nEnable better, more available infrastructure: Because all chains in the Superchain are credibly committed to a standard, they can work together to ensure the availability and affordability of key services like indexing and sequencing.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/",
+      "description": "Performance"
+    }
+  ],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
+  "impactDescription": "Ensure blockspace remains homogeneous, neutral and open: A commitment to the Law of Chains is a commitment to the protection of a chain’s users, developers, and other stakeholders. Chains large and small, if part of the Superchain, can credibly demonstrate the homogenous, neutral and open properties of their blockspace, backed by Optimism Governance.\n\nBenefit from constant improvement: Shared upgrades mean that chains can always get the best tech, without having to worry about maintenance themselves.\n\nEnable better, more available infrastructure: Because all chains in the Superchain are credibly committed to a standard, they can work together to ensure the availability and affordability of key services like indexing and sequencing.",
+  "impactMetrics": [
+    {
+      "description": "Performance",
+      "number": 3,
+      "url": "https://optimistic.etherscan.io/"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x53607dcF5E15657D81825C14b6a90f717418DCdA",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Anaya Kapoor",
+  "applicantName": "Anaya Kapoor",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x53607dcF5E15657D81825C14b6a90f717418DCdA.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x53607dcF5E15657D81825C14b6a90f717418DCdA.json",
+  "RPGF3_Application_UID": "0x4bf45cbd5b2514fa92b541f1f48040894528ac344e3bd902e660fc7a9fe27f35",
+  "applicantAddress": "0x53607dcF5E15657D81825C14b6a90f717418DCdA"
+}

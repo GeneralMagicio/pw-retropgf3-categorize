@@ -1,0 +1,36 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://silverdoor.ai",
+  "bio": "Hello, I am a DAO contributor from MetaFactory, MetaGame and RaidGuild which started an amazing group called SilverDoor. ",
+  "contributionDescription": "Senechal revolutionizes the way blockchain communities manage their governance structures. We built a whitelabel front end that streamlines the process of proposals, approvals, claims, and significantly enhances the efficiency and transparency for communities.\n\nSenechal’s use of The Hat’s protocol for role management clearly define responsibilities within the community and leads to better accountability and coordination among members.\n\nSenechal serves as a catalyst for more organized, and efficient DAO communities. Its impact extends beyond individual communities to influence industry-wide best practices for blockchain governance.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/silverdoor-ai/kazoku",
+      "description": "Kazoku is the name for family and it the code-name for our DAO management tool."
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
+  "impactDescription": "We have built a tool which offers the ability to manage shares in a DAO much like a traditional organization would through options. The impact is far reaching and allows any DAO community using DAOHaus v3 to manage their organization to operate with better visibility and less friction.",
+  "impactMetrics": [
+    {
+      "description": "Organizations Using Hat's",
+      "number": 276,
+      "url": "https://app.hatsprotocol.xyz/trees/420"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x02286BF353Fb52a261B49aB2e2de11aaEe3625cC",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Senechal",
+  "applicantName": "penguin",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x5117856736E109aD021f0D0A2C23A3Bb99D5b072.json",
+  "RPGF3_Application_UID": "0x6ef6091ca42e3abb27b68f238d9b72a68bda3a4f6cb8a2601ba3da2d4bd2e099",
+  "applicantAddress": "0x5117856736E109aD021f0D0A2C23A3Bb99D5b072"
+}

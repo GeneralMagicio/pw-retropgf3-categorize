@@ -1,0 +1,53 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://tockable.xyz",
+  "bio": "Takbel is a small team of 3 who are constantly looking for new ways to turn complex web3 possibilities into zero-code & user-friendly platforms for public use. ",
+  "contributionDescription": "Tockable is a zero-code platform that allows creators to create/test/publish their own **Dynamic** NFT minting dapps on OP, where minters can design and mint their desired tokens, instead of getting some random JPGs.\nIn Tockable, creators only upload their own image layers (instead of random PFPs). According to the layers, Tockable produces a suitable online-app that allows users to select and compose their desired design before minting.\nCurrently, the market of traditional NFTs (random-static jpgs) has no more demand. On the other hand, the creation of dynamic and creative NFTs is currently only limited to developers. Tockable intends to make this possibility more easily available to the public and creators\n",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://tockable.xyz",
+      "description": "Tockable platform website"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/tockable/contrarcts/blob/main/tockable-draft.sol",
+      "description": "Tockable dynamic NFT contract concept"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://tockable.xyz/c/tock",
+      "description": "Tockable dynamic NFT test-mint on optimism-goerli"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/tockable/front",
+      "description": "Tockable front repository"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "Talkable is a newly launched platform that is completing its testing stages and has not yet reached the mainnet stage. Hence, its impact on Optimism Collective has not yet been determined, and unfortunately, we cannot provide details in this regard at the moment.",
+  "impactMetrics": [
+    {
+      "description": "Active projects (testnet) at this moment",
+      "number": 1,
+      "url": "https://tockable.xyz/c/tock"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x38A4118936Dd9F7d5d2b7eD9B04333e129a95d97",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Tockable.xyz",
+  "applicantName": "tockablexyz",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x38A4118936Dd9F7d5d2b7eD9B04333e129a95d97.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x38A4118936Dd9F7d5d2b7eD9B04333e129a95d97.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x38A4118936Dd9F7d5d2b7eD9B04333e129a95d97.json",
+  "RPGF3_Application_UID": "0xc4d5e887d3b75b6c2226b00aac456da6344fd96ba92f5935533616470b070367",
+  "applicantAddress": "0x38A4118936Dd9F7d5d2b7eD9B04333e129a95d97"
+}

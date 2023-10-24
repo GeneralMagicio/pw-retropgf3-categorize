@@ -1,0 +1,80 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://giveth.io/project/giveth-house",
+  "bio": "Web3's collaborative hub driving regenerative change and supporting public goods.",
+  "contributionDescription": "Hub of Collaboration:\n\nThe Giveth House has become a nexus for Optimism-related projects, hosting contributors and innovators from the Optimism Collective.\nNotable projects: RetroPGF, L2Beat, EthBarcelona 2023.\n\nRetroPGF Engagement:\n\nThe space not only hosts RetroPGF signage to the circulating community but also serves as an active hub for RetroPGF collaborations.\nRoundtables produce heightened awareness and actionable insight on RetroPGF.\n\nFocused Community Dialogues:\n\nThe house regularly hosts deep-dive conversations explicitly focused on Optimism Collective's goals and challenges, effectively serving as an \"Optimism think-tank.\"\n\nEthBarcelona:\n\nServed as the primary venue for the RetroPGF crew during EthBarcelona 2023, emphasizing our alignment with Optimism's mission for public goods.\n",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://giveth.io/project/giveth-house",
+      "description": "We offer a free public space and rely only on donations to stay open."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://t.me/+Cks0rohdi4FhNDFk",
+      "description": "Telegram invite link to join the Giveth House community."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://spotify.link/0hvQyAQU6Db",
+      "description": "Twitter space about the project."
+    }
+  ],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
+  "impactDescription": "Community Catalyst:\n\nPeterpan's journey from Giveth House directly impacted the founding of MetaCartel, a notable entity in the Optimism ecosystem.\nThe founders of EthBarcelona, an Optimism-focused event, utilized Giveth House as their brainstorming and planning hub.\n\nInnovation Hub:\n\nThe Giveth House's environment enabled Jordi Baylina to contribute significantly to Hermez, further enriching Optimism's L2 capabilities.\n\nPublic Goods and Optimism:\n\nThe financial ease provided by the house has empowered numerous contributors to focus solely on public goods within the Optimism ecosystem.\nGiveth House hosts the RetroPGF team during ETHBarcelona.\n\nSolar Punk Ethos:\n\nThe house embodies Optimism Collective’s values, serving as a living space that fosters community-driven innovation for Optimism.",
+  "impactMetrics": [
+    {
+      "description": "# of Total Visitors",
+      "number": 500,
+      "url": "https://docs.google.com/spreadsheets/d/1740JKUlOst91qQQVJXSdGOjTQTElfRxrOyTxJ9c2_nE/edit?usp=sharing"
+    },
+    {
+      "description": "# of Optimism-Related Visitors",
+      "number": 200,
+      "url": "https://docs.google.com/spreadsheets/d/1740JKUlOst91qQQVJXSdGOjTQTElfRxrOyTxJ9c2_nE/edit?pli=1#gid=0"
+    },
+    {
+      "description": "# of Events Hosted",
+      "number": 7,
+      "url": "https://docs.google.com/spreadsheets/d/1740JKUlOst91qQQVJXSdGOjTQTElfRxrOyTxJ9c2_nE/edit?pli=1#gid=0"
+    },
+    {
+      "description": "# of Accommodated Guests Since 2019",
+      "number": 300,
+      "url": "https://docs.google.com/spreadsheets/d/1740JKUlOst91qQQVJXSdGOjTQTElfRxrOyTxJ9c2_nE/edit?pli=1#gid=0"
+    },
+    {
+      "description": "Cost to Maintain the Space Yearly",
+      "number": 35000,
+      "url": "https://docs.google.com/spreadsheets/d/1740JKUlOst91qQQVJXSdGOjTQTElfRxrOyTxJ9c2_nE/edit?pli=1#gid=0"
+    },
+    {
+      "description": "Accommodation Value Provided Since 2019",
+      "number": 200000,
+      "url": "https://docs.google.com/spreadsheets/d/1740JKUlOst91qQQVJXSdGOjTQTElfRxrOyTxJ9c2_nE/edit?usp=sharing"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 85337,
+      "description": "Donations on Giveth"
+    }
+  ],
+  "payoutAddress": "0xB6989F472Bef8931e6Ca882b1f875539b7D5DA19",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Giveth Web3 House",
+  "applicantName": "Giveth Web3 House",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xB6989F472Bef8931e6Ca882b1f875539b7D5DA19.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xB6989F472Bef8931e6Ca882b1f875539b7D5DA19.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xB6989F472Bef8931e6Ca882b1f875539b7D5DA19.json",
+  "RPGF3_Application_UID": "0x5c26992a23287833260d79c0d697129c168d5fbe366d3716484ffb6073e01db4",
+  "applicantAddress": "0xB6989F472Bef8931e6Ca882b1f875539b7D5DA19"
+}

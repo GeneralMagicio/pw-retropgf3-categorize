@@ -1,0 +1,39 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://twitter.com/PromkeysEm",
+  "bio": "I am a crypto enthusiast, trader and investor.",
+  "contributionDescription": "I personally organized a family and friends hangout solely for the creation of the Optimism ecosystem awareness. During this hangout, I educated everyone present about the goals of the blockchain and its utilities. I also showed them how secure the Optimism ecosystem is. I also introduced them to the right social media channels and website of Optimism. I also introduced them to Governance in Optimism and why it is useful for everyone to be part of Optimism governance.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://imgur.com/a/oLybKpp",
+      "description": "Picture of the hangout"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "Everyone that attended the hangout are now active governance participants in Optimism. They are also heavy users of Defi protocols in Optimism. They have also brought in more Optimism abiding persons. They have also become good holders of the OP token. They all believe in the security of Optimism.\n",
+  "impactMetrics": [
+    {
+      "description": "# of People",
+      "number": 20,
+      "url": "https://imgur.com/a/oLybKpp"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0xFab4F9015d606B5D0B39C89a3c45D865f2e6B85e",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Promsk",
+  "applicantName": "Promsk",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xFab4F9015d606B5D0B39C89a3c45D865f2e6B85e.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xFab4F9015d606B5D0B39C89a3c45D865f2e6B85e.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xFab4F9015d606B5D0B39C89a3c45D865f2e6B85e.json",
+  "RPGF3_Application_UID": "0x9ad2ba89a5b89861594a018daefc511c4e43c7d6ef210b47fb0b49be5a4d88c2",
+  "applicantAddress": "0xFab4F9015d606B5D0B39C89a3c45D865f2e6B85e"
+}

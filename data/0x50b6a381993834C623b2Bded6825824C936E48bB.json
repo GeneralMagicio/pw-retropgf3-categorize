@@ -1,0 +1,56 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://docs.google.com/document/d/1dhzGsDPLmBjJNoJZqHWcU98YxCn7aTvQpDB3CqL-Xb4/edit",
+  "bio": "Ambassadors are decentralized marketing arm of the Optimism Collective",
+  "contributionDescription": "1. retroPGF Content Bounty Program\nThe Ambassador program executed a mission proposal to create content for retroPGF round 2 recipients in order to drive awareness for retroPGF on Optimism. Ambassadors were able to 4x-12x all milestones while generating over 1.6m views across Twitter and Youtube. We consider these accomplishments as going above and beyond the mission proposal and are therefore including it in our retroPGF application\n2. Project Marketing Support: CryptoRefills & Clique\nThe Ambassador program partnered with two projects to provide marketing support for those projects\n\nMore Details:\nhttps://docs.google.com/document/d/1dhzGsDPLmBjJNoJZqHWcU98YxCn7aTvQpDB3CqL-Xb4/edit?usp=sharing\n\nAbout Ambassadors: https://community.optimism.io/docs/contribute/contribution-path/Ambassador-req",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://docs.google.com/document/d/1dhzGsDPLmBjJNoJZqHWcU98YxCn7aTvQpDB3CqL-Xb4/edit?usp=sharing",
+      "description": "High level overview"
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "The Ambassador program executed a mission proposal to create content for retroPGF round 2 recipients in order to drive awareness for retroPGF on Optimism. Ambassadors were able to 4x - 12x all milestones while generating over 1.6m views across Twitter and Youtube. We consider these accomplishments as going above and beyond the mission proposal and are therefore including it in our retroPGF application. \n\nIn addition to this we have provided marketing support for two projects (Clique and CryptoRefills). The CryptoRefills marketing support provided much needed marketing support to a project whom recently launched on Optimism.",
+  "impactMetrics": [
+    {
+      "description": "Total views of RetroPGF (so far) ",
+      "number": 1770000,
+      "url": "https://docs.google.com/document/d/1dhzGsDPLmBjJNoJZqHWcU98YxCn7aTvQpDB3CqL-Xb4/edit?usp=sharing"
+    },
+    {
+      "description": "RetroPGF content pieces",
+      "number": 5000,
+      "url": "https://docs.google.com/document/d/1dhzGsDPLmBjJNoJZqHWcU98YxCn7aTvQpDB3CqL-Xb4/edit?usp=sharing"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 52240,
+      "description": ""
+    },
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 114000,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0xC2D4383C2018c78b79334AcbAdB9BB0566b7FBAf",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Optimism Ambassadors",
+  "applicantName": "Test",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x50b6a381993834C623b2Bded6825824C936E48bB.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x50b6a381993834C623b2Bded6825824C936E48bB.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x50b6a381993834C623b2Bded6825824C936E48bB.json",
+  "RPGF3_Application_UID": "0x139a8104b57871d4e40cbdf973d3fd8f65ad4910f1433196b6a2ed7ff37227a7",
+  "applicantAddress": "0x50b6a381993834C623b2Bded6825824C936E48bB"
+}

@@ -1,0 +1,65 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://jike.city/0xfacadeb?displayHeader=false",
+  "bio": "Collectivism.\nFullstack developer and manager.\nProject manager of LXDAO #6 public good project Donate3.",
+  "contributionDescription": "Donate3 is a multi-chain, multi-currency donation tool that can be easily integrated into any web3 platform through simple configuration in the form of floating components, embedded components, or hyperlinks. It creates EAS donation certificates for donors while providing convenient data retrieval services to promote the rapid development of public goods, charity, creator economy, and internet celebrity economy. ",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x0049c7684a551e581d8de08fd2827dff9808d162",
+      "description": "OP Contract address"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/lxdao-official/donate3",
+      "description": "Donate3 code repository"
+    }
+  ],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "As a donation tool, Donate3 can save developers time and improve donor experience. In the past 1 years, users have created 6 transactions through Donate3, generating approximately 0.058 ETH in OP network and 11181 downloads in npm. In the future, Donate3 hopes to introduce more liquidity to the optimism network, enhance the integration of the OP network with charitable causes, and promote the development of public goods on the OP chain.",
+  "impactMetrics": [
+    {
+      "description": "npm Download",
+      "number": 11181,
+      "url": "https://npm-stat.com/charts.html?package=img3&from=2022-10-22&to=2023-10-22"
+    },
+    {
+      "description": "calls of \"donate\" method in OP",
+      "number": 6,
+      "url": "https://optimistic.etherscan.io/address/0x0049c7684a551e581d8de08fd2827dff9808d162"
+    },
+    {
+      "description": "total donation",
+      "number": 0.058,
+      "url": "https://optimistic.etherscan.io/address/0x0049c7684a551e581d8de08fd2827dff9808d162"
+    },
+    {
+      "description": "twitter follwers",
+      "number": 2431,
+      "url": "https://twitter.com/donate3official"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 4500,
+      "description": "NAVH hackathon"
+    }
+  ],
+  "payoutAddress": "0xb15115A15d5992A756D003AE74C0b832918fAb75",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Donate3",
+  "applicantName": "0xhardman",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xb15115A15d5992A756D003AE74C0b832918fAb75.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xb15115A15d5992A756D003AE74C0b832918fAb75.json",
+  "RPGF3_Application_UID": "0x7d3cb52c6e006ca04df32b6bef1982962c0669a7b9d826114cf9f40c0ce9be97",
+  "applicantAddress": "0xb15115A15d5992A756D003AE74C0b832918fAb75"
+}

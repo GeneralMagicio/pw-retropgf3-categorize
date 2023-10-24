@@ -1,0 +1,107 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://twitter.com/0xsmallbrain",
+  "bio": "Building & launching a new fully onchain, open source, game every 6 weeks. Alongside each game, we also launch open source tools.",
+  "contributionDescription": "We launch onchain games on OP chains.\n\nSmall Brain Games quickly iterates on onchain games. These games:\n1. Are focused on simplicity and accessibility\n2. Are open source\n3. Leverage onchain affordances other than ownership enabling speculation\n\nIn the past year, we:\n1. Launched Words3, an onchain crossword game, on OP Mainnet–the first mainnet deploy of MUD smart contracts\n2. Open sourced 2 fully onchain games: Ape's Gambit (battle royale chess) and Network States (an RTS)\n3. Launched an improved Words3 on Base–the first mainnet deploy of MUD v2 smart contracts\n4. Open sourced a starterkit for mobile onchain games, being used by two known projects\n5. Worked with other projects (Gaul, Dark Seas, Underverse) building onchain games to playtest within the Small Brain Games community",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/smallbraingames/onchain-pwa-starter",
+      "description": "An open starter kit for onchain mobile games. MUD + Privy + PWA in one click."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://basescan.org/address/0x69ccd9b6a62e16e21230c5cb1fadd3509db10d45",
+      "description": "Deployed smart contracts for an onchain crossword game (Words3) on Base. "
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/smallbraingames/words3-contracts",
+      "description": "Smart contracts for an onchain crossword game. Words3 had >100 players & >$20k."
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/smallbraingames/words3-contracts-v0",
+      "description": "Smart contracts for the initial version of Words3."
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/smallbraingames/apes-gambit",
+      "description": "Smart contracts & client for an onchain battle royale chess game. "
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/smallbraingames/network-states-lite",
+      "description": "Smart contracts & client for an onchain empire building game with auto lore gen."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/0xsmallbrain",
+      "description": "Words3 Launch Thread"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/0xsmallbrain/status/1660459523771973632",
+      "description": "Network States Launch Thread"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://klick.gg/news/small-brain-games",
+      "description": "Coverage of Onchain PWA Starter"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/0xsmallbrain/status/1706593330438819955",
+      "description": "Onchain PWA Start Launch Thread"
+    }
+  ],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "1. Bringing new users to OP Chains\nWords3 deployments on OP Mainnet and Base both brought hundreds of users to OP Chains. From user interviews, >80% of these users bridged to & made their first transaction on OP chains because of Words3.\n\n2. Giving users net new experiences on OP Chains\nWe give these new users a net-new experience–that of a fully onchain game! There are community clients, players wrote scripts, and player-made dashboards to track what is happening. \n\n3. Making the OP ecosystem the place for onchain games\nOP chains are becoming the place for new onchain experiences. We contribute to that not only by deploying games to OP chains, but by (1) open sourcing all our code, which leads to others building on OP chains, and (2) building a community of games that'll launch on them. ",
+  "impactMetrics": [
+    {
+      "description": "USD Value bridged to Base to play Words3",
+      "number": 20000,
+      "url": "https://basescan.org/address/0x69ccd9b6a62e16e21230c5cb1fadd3509db10d45#code"
+    },
+    {
+      "description": "USD val bridged to OP Mainnet for Words3",
+      "number": 10000,
+      "url": "https://optimistic.etherscan.io/address/0x1b16b25dbdc8ae5775290101332a5e7379eecf9f#code"
+    },
+    {
+      "description": "Unique Words3 players on Base ",
+      "number": 124,
+      "url": "https://dune.com/NazihKalo/words3-game-base"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 0,
+      "description": "We have not taken any revenue from games before 10/22 (application time)."
+    },
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 282670,
+      "description": "(Not claimed yet), for contributions to the onchain gaming ecosystem"
+    }
+  ],
+  "payoutAddress": "0x5bdFF0380F67A6347F0ea4Ff4a7da04009C2f71A",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Small Brain Games",
+  "applicantName": "Small Brain Games",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xa4eC807A15f389A2b9aC985eCcF4b08ddDDB6f9d.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xa4eC807A15f389A2b9aC985eCcF4b08ddDDB6f9d.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xa4eC807A15f389A2b9aC985eCcF4b08ddDDB6f9d.json",
+  "RPGF3_Application_UID": "0xbd1652fe3e5c7e160ca3e86da27567cd0f8f8cea3399a1003cf90364ed046d3b",
+  "applicantAddress": "0xa4eC807A15f389A2b9aC985eCcF4b08ddDDB6f9d"
+}

@@ -1,0 +1,81 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://boardroom.io/",
+  "bio": "Boardroom is a governance data platform helping developers integrate DAOs into their applications and helping stakeholders make smarter and informed decisions.",
+  "contributionDescription": "Optimism Governance Support:\n\nSince inception, Boardroom has integrated the entire governance stack, streamlining governance for voters and standardizing interactions for developers on our SDK and API.\n\n- Snapshot: Initial support for proposals launched with Snapshot and onchain delegation.\n- Onchain Integration: In collaboration with Agora, Boardroom ensured support for upgraded onchain governance contracts, becoming an alternative to vote.optimism.io by Feb 2023.\n- Dashboard: From launch, our Dashboard has supported governance on boardroom.io/optimism.\n\nGovernance Facilitation: \n\nSince August 2022, our \"Weekly Recaps\" offer a governance-focused summary for the Optimism community, covering key proposals, changes, suggestions, and discussions. This initiative paused from Aug to Oct 2023.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://boardroom.io/optimism",
+      "description": "Optimism Governance Dashboard"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://docs.boardroom.io/docs/governance-sdk/5rd6dnozexlei-optimism-governor",
+      "description": "Optimism Governor Integration"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://gov.optimism.io/t/governance-weekly-recap/3352",
+      "description": "Optimism Governance Weekly Update"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
+  "impactDescription": "Increased Participation:\nThe initial support for Snapshot proposals and early onchain delegations, and the subsequent onchain integration has expanded the avenues for community participation. By offering an alternative to vote.optimism.io, we've broadened the choices available to voters, driving higher engagement in governance processes.\n\nStandardized Governance Experience:\nBy integrating the entire Optimism governance stack, Boardroom has provided a consistent and user-friendly governance experience for developers accessing standardized data and governance interactions via our APIs and SDK.  \n\nInformed Community:\nOur \"Weekly Recaps\" initiative has ensured that the Optimism community remains updated on key governance activities.",
+  "impactMetrics": [
+    {
+      "description": "Unique Addresses Voting or Delegating",
+      "number": 6230,
+      "url": "https://us-east-1.quicksight.aws.amazon.com/sn/accounts/660407539313/dashboards/5bb83d15-70e4-4392-843a-31d9371b13fc?directory_alias=boardroom"
+    },
+    {
+      "description": "OP Governance Actions taken on Boardroom",
+      "number": 15100,
+      "url": "https://us-east-1.quicksight.aws.amazon.com/sn/accounts/660407539313/dashboards/5bb83d15-70e4-4392-843a-31d9371b13fc?directory_alias=boardroom"
+    },
+    {
+      "description": "Total Dashboard Events (≠ Page Views)",
+      "number": 11638,
+      "url": "https://drive.google.com/file/d/1E-eZLb_nQIz-cj-OMgENwmajOdJLepUz/view?usp=sharing"
+    },
+    {
+      "description": "Weekly Update - Forum Post Views",
+      "number": 9700,
+      "url": "https://gov.optimism.io/t/governance-weekly-recap/3352"
+    },
+    {
+      "description": "Weekly Update - Forum Post Likes",
+      "number": 341,
+      "url": "https://gov.optimism.io/t/governance-weekly-recap/3352"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 32400,
+      "description": "RetroPGF 2 Recipient under 'Tooling and Utilities'"
+    },
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 20000,
+      "description": "Delegate Incentive Campaign [GF: Phase 1]"
+    }
+  ],
+  "payoutAddress": "0xF6a4475a006b28b9996c92bEE27DEEDc38032cDe",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Boardroom",
+  "applicantName": "Boardroom",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x6De8448e7d5f58af394CC9540ABe703d0c955dFd.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x6De8448e7d5f58af394CC9540ABe703d0c955dFd.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x6De8448e7d5f58af394CC9540ABe703d0c955dFd.json",
+  "RPGF3_Application_UID": "0x5b595cd2a5a5b2c8ff06b029bc7d31dc5299f91266820fe21092ed62f70c5401",
+  "applicantAddress": "0x6De8448e7d5f58af394CC9540ABe703d0c955dFd"
+}

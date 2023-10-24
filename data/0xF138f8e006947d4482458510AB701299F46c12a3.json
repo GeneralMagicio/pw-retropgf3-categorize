@@ -1,0 +1,64 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://flexiblevoting.com",
+  "bio": "Flexible Voting is an extension to the widely adopted DAO Governor. It allows arbitrary delegate voting contracts to roll up the votes of many token holders.",
+  "contributionDescription": "Flexible Voting is an extension to the widely used OpenZeppelin Governor that enables novel DAO voting schemes to be created. Flexible Voting is developed and maintained by ScopeLift.\n\nFor a DAO that adopts it, the Flexible Voting extension allows delegates to split their voting weight across For/Against/Abstain options for a given proposal. This new building block allows arbitrary delegate contracts to be developed which can unlock all kinds of new use cases. Of particular relevance to Optimism is the ability to vote with tokens bridged to L2, a use case ScopeLift is currently building.\n\nIt also enables other use cases like Voting with tokens while earning yield in DeFi, shielded voting (i.e. secret/private voting), liquid delegation and more.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/ScopeLift/flexible-voting",
+      "description": "The core Flexible Voting repository."
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/ScopeLift/l2-flexible-voting",
+      "description": "The Layer 2 Flexible Voting repository, targeting Optimism as its first network."
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "Flexible Voting has already been adopted by three significant DAOs: Gitcoin, PoolTogether, and Frax Finance. All three of these DAOs are heavily active in the Optimism ecosystem. Notably, Gitcoin runs Grants Rounds on Optimism, and has just launched their own OP Stack network (PGN), and PoolTogether just launched version 5 of their protocol on Optimism first.\n\nScopeLift is actively building a solution to cross chain voting, i.e. enable token holders for these DAOs (and future adopters of Flexible Voting), to bridge their tokens off mainnet and vote with them. The first network we are targeting for this product is Optimism. Within the next few months, we expect to go live, allowing token holders for these DAOs to bridge and vote from Optimism. ",
+  "impactMetrics": [
+    {
+      "description": "DAOs Adopting Flexible Voting",
+      "number": 3,
+      "url": "https://flexiblevoting.com/docs/compatible-daos"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 19056.6,
+      "description": ""
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 50000,
+      "description": "Ethereum Foundation Grant"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 100000,
+      "description": "Wormhole Foundation Grant"
+    }
+  ],
+  "payoutAddress": "0xF138f8e006947d4482458510AB701299F46c12a3",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Flexible Voting",
+  "applicantName": "Flexible Voting",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xF138f8e006947d4482458510AB701299F46c12a3.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xF138f8e006947d4482458510AB701299F46c12a3.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xF138f8e006947d4482458510AB701299F46c12a3.json",
+  "RPGF3_Application_UID": "0x5877a25584b8265a19cf231a146118b2e7b46a4e7ae9ddadddfd664b903192b1",
+  "applicantAddress": "0xF138f8e006947d4482458510AB701299F46c12a3"
+}

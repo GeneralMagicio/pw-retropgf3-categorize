@@ -1,0 +1,36 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://vitadao.com",
+  "bio": "VitaDAO is a community owned collective funding early stage longevity research",
+  "contributionDescription": "\nBridging VitaDAO to Optimism carries significant benefits for the Optimism community. By integrating the $VITA token, Optimism showcases its adaptability to diverse projects, enhancing its position as a versatile layer 2 solution. VitaDAO's primary focus is on funding early-stage longevity research. By facilitating this bridge, the Optimism community gains the opportunity to govern a longevity DAO. This empowers the community to actively participate in decisions related to longevity research funding, fostering collective responsibility. In essence, this integration not only strengthens Optimism's ecosystem but also provides its community with a unique role in shaping the future of longevity research.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xC09E0BF072C1A32bDdCd839fcec205a4f809E37f",
+      "description": "Bridge VITA to optimism"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
+  "impactDescription": "\nBridging VitaDAO to Optimism carries significant benefits for the Optimism community. By integrating the $VITA token, Optimism showcases its adaptability to diverse projects, enhancing its position as a versatile layer 2 solution. VitaDAO's primary focus is on funding early-stage longevity research. By facilitating this bridge, the Optimism community gains the opportunity to govern a longevity DAO. This empowers the community to actively participate in decisions related to longevity research funding, fostering collective responsibility. In essence, this integration not only strengthens Optimism's ecosystem but also provides its community with a unique role in shaping the future of longevity research.",
+  "impactMetrics": [
+    {
+      "description": "twitter impression",
+      "number": 320000,
+      "url": "https://twitter.com/vita_dao/status/1706668354197696551"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0x9FB165d96E542D541F234B6c43F53786B4259915",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "VitaDAO",
+  "applicantName": "Alex Dobrin",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x3F04DcF85FC1d34Bd32a4fA92CA7180148989Bd6.json",
+  "RPGF3_Application_UID": "0x7abbdafaee87210e6340fa7d73be9d31fee4053e6543902e75bd3faf2d523cb1",
+  "applicantAddress": "0x3F04DcF85FC1d34Bd32a4fA92CA7180148989Bd6"
+}

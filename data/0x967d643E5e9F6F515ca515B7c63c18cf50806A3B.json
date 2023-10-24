@@ -1,0 +1,45 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://twitter.com/cugay80",
+  "bio": "My name is Ta Yen, I am 43 years old.  I,m lives in Thai Nguyen city, Vietnam. I am an investor in cryptocurrency since 2018. \n",
+  "contributionDescription": "Op is an absolute favorite of mine. The ecosystem has the most advantages among L2.I will stand by OP for a long time, until one day OP explodes into the largest ecosystem. Currently, compared to Layer-2 projects on Ethereum such as Arbitrum and Polygon, Optimism is gradually improving. In the future, it is likely that Dapps will switch to Optimism when Optimism begins to allow the deployment of smart contracts without licensing. That's when the Layer 2 Optimism ecosystem started to explode.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x967d643e5e9f6f515ca515b7c63c18cf50806a3b",
+      "description": "I have been actively supporting NFT music projects on OP."
+    }
+  ],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "I have been actively supporting NFT music projects on OP. OP is an ecosystem with too many advantages. \nScalability: Optimism can improve scalability by 10–100x, depending on the nature of the transaction.\nReduced transaction fees: Optimism can significantly reduce transaction costs. Rollup technology combines multiple transactions into a single transaction, helping to reduce transaction costs.\nSecurity: As Optimism's Layer 2 is built on Ethereum, transactions are settled on the Ethereum Mainnet, allowing users to benefit from the secure and decentralized environment of Ethereum.\nEnhanced user experience: New projects using the Optimism Layer 2 scaling solution benefit from low fees, faster transaction processing speeds, and better overall user experience.",
+  "impactMetrics": [
+    {
+      "description": "Mint NFT music",
+      "number": 17,
+      "url": "https://optimistic.etherscan.io/address/0x967d643e5e9f6f515ca515b7c63c18cf50806a3b"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 10000,
+      "description": "I used 10k USD to buy OP tokens"
+    }
+  ],
+  "payoutAddress": "0x967d643E5e9F6F515ca515B7c63c18cf50806A3B",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Ta Yen",
+  "applicantName": "Tạ Yến",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x967d643E5e9F6F515ca515B7c63c18cf50806A3B.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x967d643E5e9F6F515ca515B7c63c18cf50806A3B.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x967d643E5e9F6F515ca515B7c63c18cf50806A3B.json",
+  "RPGF3_Application_UID": "0xa1451078205375b7c12d83304ba80092534412643d1b5deaed6f0b1e6a2500d6",
+  "applicantAddress": "0x967d643E5e9F6F515ca515B7c63c18cf50806A3B"
+}

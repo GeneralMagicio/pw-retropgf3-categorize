@@ -1,0 +1,93 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://metagov.org",
+  "bio": "Metagov is a nonprofit research collective led by world-renowned scholars in online governance. We operate the leading center for DAO research.",
+  "contributionDescription": "Metagov is an 800-member research collective working at the frontier of online governance research and development. Our initiatives significantly align with Optimism's objectives: \n\n1. Development: Projects including Validator Commons, Web3 Grant Report, DAOstar, Metagov Gateway, DAOscience, PolicyKit, Agreement Engine, CommunityRule, and Collective Voice, have laid the groundwork for advanced governance experimentation.\n\n2. Discussions: Initiatives like the ongoing Metagovernance Seminar since 2020, DAO Harvard, Stanford DAO Workshop, What’s Governing Web3 at RMIT, Building blocks of Web 3.0 at Harvard Law School, and Open Problems in DAOs at various locations, Metagov House @ ETH Denver, residencies such as DAO Palace, have facilitated focused discussions around online governance.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://metagov.org",
+      "description": "Home page"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/metagov",
+      "description": "GitHub homepage"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
+  "impactDescription": "1. Fostered an 800-member community of researchers, developers, and thinkers, becoming a hub for governance talks beneficial to Optimism.\n\n2. Organized events like the Metagovernance Seminar, DAO Palace, workshops at Harvard, Stanford, NYU, and RMIT, and others that facilitated key partnerships, insights, and collaborations for Optimism.\n\n3. Deployed tools like Govbase, Metagov Gateway, and PolicyKit, advancing governance experimentation and integration of sophisticated online structures.\n\n4. By co-organizing workshops with industry giants like OpenAI and the Internet Archive, promoted DAO governance in Industry. \n\nThrough these impacts, Metagov has provided Optimism with tools, insights, and a robust community that collectively drives the evolution of online self-governance. ",
+  "impactMetrics": [
+    {
+      "description": "Number of scientific articles published",
+      "number": 12,
+      "url": "https://metagov.org"
+    },
+    {
+      "description": "Total number of researchers",
+      "number": 853,
+      "url": "https://docs.google.com/spreadsheets/d/1oe8dPTvAOKnCuQohiHWsUEgsvk-iyopBvmezo-ZPWak/edit#gid=1718951456"
+    },
+    {
+      "description": "Number of attendees at Metagov events",
+      "number": 350,
+      "url": "https://docs.google.com/spreadsheets/d/1oe8dPTvAOKnCuQohiHWsUEgsvk-iyopBvmezo-ZPWak/edit#gid=383071342"
+    },
+    {
+      "description": "Weekly active researchers",
+      "number": 171,
+      "url": "https://docs.google.com/spreadsheets/d/1oe8dPTvAOKnCuQohiHWsUEgsvk-iyopBvmezo-ZPWak/edit#gid=1718951456"
+    },
+    {
+      "description": "Average unique posters per day",
+      "number": 65,
+      "url": "https://docs.google.com/spreadsheets/d/1oe8dPTvAOKnCuQohiHWsUEgsvk-iyopBvmezo-ZPWak/edit#gid=1718951456"
+    },
+    {
+      "description": "Research directors",
+      "number": 13,
+      "url": "https://metagov.org"
+    },
+    {
+      "description": "Academic workshops and conferences",
+      "number": 5,
+      "url": "https://docs.google.com/spreadsheets/d/1oe8dPTvAOKnCuQohiHWsUEgsvk-iyopBvmezo-ZPWak/edit#gid=383071342"
+    },
+    {
+      "description": "Number of seminars hosted",
+      "number": 116,
+      "url": "https://metagov.org/seminar"
+    },
+    {
+      "description": "Industry conferences and workshops",
+      "number": 5,
+      "url": "https://docs.google.com/spreadsheets/d/1oe8dPTvAOKnCuQohiHWsUEgsvk-iyopBvmezo-ZPWak/edit#gid=1867814834"
+    },
+    {
+      "description": "Software infrastructure for governance",
+      "number": 7,
+      "url": "https://docs.google.com/spreadsheets/d/1oe8dPTvAOKnCuQohiHWsUEgsvk-iyopBvmezo-ZPWak/edit#gid=487749541"
+    },
+    {
+      "description": "Data sets and data science on governance",
+      "number": 4,
+      "url": "https://docs.google.com/spreadsheets/d/1oe8dPTvAOKnCuQohiHWsUEgsvk-iyopBvmezo-ZPWak/edit#gid=1495744556"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0xd39D6d3F7433A0caBD90c0Ea74d76dA29b718314",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Metagov",
+  "applicantName": "Metagov",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xa12f6928972B3B3C72259C7631BC1C37aA813C2e.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xa12f6928972B3B3C72259C7631BC1C37aA813C2e.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xa12f6928972B3B3C72259C7631BC1C37aA813C2e.json",
+  "RPGF3_Application_UID": "0x335ee234463e3a9bf9ea3325fd6942f30877714716b159ca7843f9b4d9ff4285",
+  "applicantAddress": "0xa12f6928972B3B3C72259C7631BC1C37aA813C2e"
+}

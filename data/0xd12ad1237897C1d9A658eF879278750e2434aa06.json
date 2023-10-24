@@ -1,0 +1,153 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://eu.ci/",
+  "bio": "European Crypto Initiative is a non-profit crypto advocacy organisation based in Brussels, which helps shape the EU-wide legislative context for open blockchain",
+  "contributionDescription": "EUCI safeguards the public interest by harnessing permissionless blockchains, notably Ethereum and Optimism. Our goal: foster secure innovation by advocating sensible regulations. We urge lawmakers to see the broad societal impact of these technologies. We've fought against harmful regulations, like banning crypto wallets, equating NFTs to securities, or labelling protocols as bank accounts. We explained why these are detrimental and bridged regulatory intentions with the Ethereum community. We've collaborated with global organizations to curb impractical crypto laws because regulation can make or break an industry, and we won't let it hinder this ecosystem.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://eu.ci/public-policy/",
+      "description": "EUCI Public Policies and Responses"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://data-act.info/",
+      "description": "Data Act Campaign led by the EUCI"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/13757-Virtual-worlds-metaverses-a-vision-for-openness-safety-and-respect/F3411873_en",
+      "description": "EUCI Response to the EU Commission's Call for Evidence on Virtual Worlds"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://drive.google.com/file/d/11U2oyME5YtUCwAZatZA-agzuORO1sCgF/view?usp=sharing",
+      "description": "Public Comment on IOSCO’s Consultation Report on Policy Recommendations for DeFi"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://drive.google.com/file/d/1nVA0Yr2qLOcsAipzGgCjxSyW3h8kU-2k/view?usp=sharing",
+      "description": "EUCI's Response to the ACPR DeFi Discussion Paper, May 2023"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://drive.google.com/file/d/1CeQwQLVGLQlLimb03MwyfCVY_0u4FO-y/view?usp=sharing",
+      "description": "EUCI's Response to the AMF DeFi Discussion Paper, September 2023"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://drive.google.com/file/d/1OCiL8kqgNvUxr5GOysQQ8vA-Lyg0R56q/view?usp=sharing",
+      "description": "EUCI Position Paper on MiCA & Stablecoins, February 2021"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://drive.google.com/file/d/1H9ksS4TUYOyGITh5QhLY5173iL7KhX_B/view?usp=sharing",
+      "description": "EUCI's Position on MiCA & DeFi, February 2021"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.reg3.eu/",
+      "description": "Reg3 Events hosted by the EUCI "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://drive.google.com/file/d/1OVM_xXfrRFgmFKjKP3M7eajvg9mFHCUg/view?usp=sharing",
+      "description": "Reg3 Lisbon, Portugal - 2022 Report"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/EuCInitiative",
+      "description": "EUCI Twitter "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.linkedin.com/company/european-crypto-initiative?originalSubdomain=be",
+      "description": "EUCI Linkedin"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
+  "impactDescription": " We've defended the decentralized tech stack. Imagine building Optimism Collective without wallets or registering as a \"crypto-asset service provider\" to onboard users. We ensured these weren't our reality. We educated regulators that DeFi isn't like TradFi and that decentralization is possible. We trained MEPs in Metamask use and enlightened EU Commission reps about DAOs' utilities.",
+  "impactMetrics": [
+    {
+      "description": "EUCI Events, Workshops & Podcasts",
+      "number": 61,
+      "url": "https://euci.notion.site/EUCI-Events-Workshops-Podcasts-Panels-7c80cb1fae4b437293db793fff48a46f?pvs=4"
+    },
+    {
+      "description": "EUCI Position Papers",
+      "number": 22,
+      "url": "https://euci.notion.site/EUCI-Position-Papers-4cca41f9453b492c9e87c79b68143f6d?pvs=4"
+    },
+    {
+      "description": "EUCI Media Presence",
+      "number": 31,
+      "url": "https://euci.notion.site/Media-Presence-407e69c2fb984e2fbe0a049950119f44?pvs=4"
+    },
+    {
+      "description": "Collab with National Organisations",
+      "number": 21,
+      "url": "https://euci.notion.site/Calls-with-National-Organisations-e277cd9fa3c548e7b06439438193bc67?pvs=4"
+    },
+    {
+      "description": "EUCI Meetings with Policymakers",
+      "number": 28,
+      "url": "https://euci.notion.site/Meetings-w-Policymakers-217b6cdcc466447c857f0d237e9bdf9c?pvs=4"
+    },
+    {
+      "description": "Regulatory Oversight & Monitoring",
+      "number": 27,
+      "url": "https://euci.notion.site/Regulatory-Oversight-010176b303634607adbe9c3993297295?pvs=4"
+    },
+    {
+      "description": "EUCI Supporters",
+      "number": 7,
+      "url": "https://euci.notion.site/EUCI-Supporters-87474264d01d44cfba712a4363faa260?pvs=4"
+    },
+    {
+      "description": "Social Media Stats",
+      "number": 2864,
+      "url": "https://euci.notion.site/Social-Media-Stats-1d277b701f8e44c48517a58867378395?pvs=4"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 120000,
+      "description": "Ethereum Grant, August 2022"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 120000,
+      "description": "Gitcoin Grant, 2022"
+    },
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 360000,
+      "description": "This revenue was generated throughout the span of 3 years (from 2020)."
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 375000,
+      "description": "Estimated voluntary hours from senior level experts and contributors (from 2020)"
+    }
+  ],
+  "payoutAddress": "0xd12ad1237897C1d9A658eF879278750e2434aa06",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "European Crypto Initiative",
+  "applicantName": "EUCI",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xd12ad1237897C1d9A658eF879278750e2434aa06.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xd12ad1237897C1d9A658eF879278750e2434aa06.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xd12ad1237897C1d9A658eF879278750e2434aa06.json",
+  "RPGF3_Application_UID": "0x20ad2beff4abc349f688ae23c2beeeddcd5d52698a93bd43d615b3d6a75ab2dc",
+  "applicantAddress": "0xd12ad1237897C1d9A658eF879278750e2434aa06"
+}

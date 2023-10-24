@@ -1,0 +1,43 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://twitter.com/windy060697",
+  "bio": "Camels with love",
+  "contributionDescription": "Smart Contract Development: Community developers have actively worked on creating and deploying smart contracts on the Optimism network. These contracts span various use cases, from decentralized finance (DeFi) to non-fungible tokens (NFTs), expanding the ecosystem.\n\nBug Reporting and Security Audits: The community plays a vital role in identifying and reporting bugs, ensuring the network's security and stability. Security audits have been conducted to strengthen the smart contracts and infrastructure.\n\nEducational Initiatives: Community members have initiated educational programs, webinars, and documentation to help users and developers understand how to interact with the Optimism network effectively.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x7C1461296CbBa0d92BACa619253eF5B797e12CFf",
+      "description": "Mint NFT Music"
+    }
+  ],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
+  "impactDescription": "User Experience Enhancement: Designers and user experience experts have contributed to optimizing the user interface and experience of applications running on Optimism, making it more user-friendly.\n\nGovernance Participation: The community actively participates in governance decisions, voting on proposals to shape the future of the network. This ensures a democratic and decentralized decision-making process.\n\nDeveloper Grants and Support: Optimism provides grants and support for developers and projects aiming to build on the network, fostering innovation and adoption.\n",
+  "impactMetrics": [
+    {
+      "description": "1",
+      "number": 240,
+      "url": "https://optimistic.etherscan.io/address/0x7C1461296CbBa0d92BACa619253eF5B797e12CFf"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 1,
+      "description": "donate"
+    }
+  ],
+  "payoutAddress": "0x7C1461296CbBa0d92BACa619253eF5B797e12CFf",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "W97",
+  "applicantName": "Minh Phụng",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x7C1461296CbBa0d92BACa619253eF5B797e12CFf.json",
+  "RPGF3_Application_UID": "0xa399cc0ec059b218096aa522933003b5bb5517461dcdd3186d73d5ad2646810d",
+  "applicantAddress": "0x7C1461296CbBa0d92BACa619253eF5B797e12CFf"
+}

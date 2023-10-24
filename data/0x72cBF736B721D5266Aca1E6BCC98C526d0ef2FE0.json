@@ -1,0 +1,93 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://www.notion.so/Optimistas-Brillando-en-Blockchain-feb47704d270402c859b583a1619dad5?pvs=4",
+  "bio": "Optimistic Women Shinning Blockchain, the first women-led community with a focus on onboarding women into the Optimism Ecosystem, starting with Latin America",
+  "contributionDescription": "We serve as a platform for builders and participants to contribute to the Optimism Ecosystem. Our dedication lies in onboarding women (non-exclusively) into the Optimism Collective through:\n1. Educational resources, including workshops, newsletter posts, X-spaces, and social media content.\n2. Ongoing consultancy services for the community through a dedicated Telegram group, aimed at addressing questions related to Missions, RetroPGF applications, attestations, becoming delegates, and similar inquiries.\n3. Additionally, we have served as a platform for hosting in-person events related to Optimism, leveraging our economic and organizational resources. \n4. We've also provided financial support for speakers to attend Optimism-related events.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/channel/UCcxxDzcETvjOVQ5GsImps8g",
+      "description": "Educational workshops related to Optimism"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://t.me/optimistasbrillando",
+      "description": "Telegram Support Group for Optimism"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.notion.so/Optimistas-Brillando-en-Blockchain-feb47704d270402c859b583a1619dad5",
+      "description": "Site Optimism Shinning in Blockchain "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://h3rnewsletter.substack.com/",
+      "description": "Newsletter-Optimism"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/herdaolatam/status/1701789324721717676?s=20",
+      "description": "Optimism Conference at BITDAY"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/herdaolatam/status/1716182022815891838?s=46",
+      "description": "Side Event Ethereum México - Create Digital Identiy in Optimism"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "Delegated 45.23% of delegate Brichis's tokens. Our community supports 2 active delegates, 2 badge holders, and 3 former Scholars, now Council Members. We've empowered Latin American women with 5 1:1 sessions on becoming delegates.\n\nOver 80 scholars sponsored, with 4 projects deployed in 2 Hackathons on OP, 2 winning Optimism prizes. We've aided 2 community members in contributing as Optimism documentation translators. \n\nIn Season 4, we excelled in a Mission, exceeding Cohort interest, providing extra 1:1 consultations, and offering RetroPGF3 application guidance.\n\nWe have provided guidance and support for first-time users in the Optimism Ecosystem, helping them navigate transactions and make attestations",
+  "impactMetrics": [
+    {
+      "description": "Attestations-Workshops Attendees",
+      "number": 77,
+      "url": "https://optimism.easscan.org/schema/view/0x61c772c6891c2e2cf390d2a783c7817d7ed87f26d1d04a9f165418dd5f1c955b"
+    },
+    {
+      "description": "Attestations-Scholars Supported ",
+      "number": 47,
+      "url": "https://optimism.easscan.org/schema/view/0x8837fc21f84091c77433e172955da6f25fab7ce80f1489d8b36e215eec7f8e25"
+    },
+    {
+      "description": "Builders in OP Supported ",
+      "number": 14,
+      "url": "https://github.com/HERLATAM"
+    },
+    {
+      "description": "Received Attestations",
+      "number": 2,
+      "url": "https://optimism.easscan.org/schema/view/0x314e8e2378ab8cd85d3dfb2641254b6472fbffc4162c1224d31837daf69e3733"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 18913,
+      "description": "Mission Season 4 - Locked until 2024"
+    },
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 24800,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0x2948A68525287fB8252032a300D50d3fd63d9C22",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "HER LATAM _ Optimistas Brillando en Blockchain",
+  "applicantName": "HERLATAM (now NOVA_LATAM)",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x72cBF736B721D5266Aca1E6BCC98C526d0ef2FE0.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x72cBF736B721D5266Aca1E6BCC98C526d0ef2FE0.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x72cBF736B721D5266Aca1E6BCC98C526d0ef2FE0.json",
+  "RPGF3_Application_UID": "0x21bd1ffc17577bff57ffab3413191f08a4b1b64bd5c930b5959408ee477d5cf7",
+  "applicantAddress": "0x72cBF736B721D5266Aca1E6BCC98C526d0ef2FE0"
+}

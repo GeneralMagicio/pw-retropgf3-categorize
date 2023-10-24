@@ -1,0 +1,46 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://twitter.com/xfyydfz",
+  "bio": "Active Optimism promoter in China via DApps, $OP holding, voting, and X.",
+  "contributionDescription": "1.DApp Utilization: Actively engaging with Optimism's DApps has enriched my grasp of its ecosystem and enabled me to offer constructive feedback.2.$OP Tokens Investment: Purchasing and holding $OP tokens signifies my financial backing and belief in the project's enduring promise.3.Voting and Governance: Regular involvement in voting and governance helps contribute to decision-making, steering the project towards its objectives.4.Community Engagement: Vigorous promotion of Optimism on Twitter and other platforms, sharing updates, and engaging with the community broadens awareness and attracts new users.5.Feedback Provision: Steady interaction with the community and developers, offering valuable feedback to refine the platform's features and user experience.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/xfyydfz",
+      "description": "Forward"
+    }
+  ],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "impactDescription": "My contributions significantly impact the Optimism Collective. Engaging with DApps has enriched ecosystem understanding and provided constructive feedback. My $OP tokens investment showcases long-term project commitment. Regular participation in voting and governance aids decision-making, steering Optimism towards its goals. Actively promoting on Twitter and other platforms, sharing updates, and engaging with the community helps widen awareness and attract new users. Regular feedback to developers refines platform features, enhancing user experience. My technical and social integration within the community contributes to the project’s success, and I am keen to further deepen my involvement, promoting Optimism's mission through this application.",
+  "impactMetrics": [
+    {
+      "description": "Forward",
+      "number": 100,
+      "url": "https://twitter.com/xfyydfz"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 0,
+      "description": "no income"
+    }
+  ],
+  "payoutAddress": "0xC90c3a70654fD4a149a985f6cb47AB9bb8698ff0",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Optimism Advocacy and Engagement Initiative",
+  "applicantName": "feng",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xC90c3a70654fD4a149a985f6cb47AB9bb8698ff0.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xC90c3a70654fD4a149a985f6cb47AB9bb8698ff0.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xC90c3a70654fD4a149a985f6cb47AB9bb8698ff0.json",
+  "RPGF3_Application_UID": "0xb842b2182523240288d2bc58272616d7f637009f26ddfd5f350baf7ac56272cb",
+  "applicantAddress": "0xC90c3a70654fD4a149a985f6cb47AB9bb8698ff0"
+}
