@@ -10,9 +10,7 @@
       "description": "ahoy"
     }
   ],
-  "impactCategory": [
-    "OP_STACK"
-  ],
+  "impactCategory": ["OP_STACK"],
   "impactDescription": "This means public goods funding is a critical growth strategy. For Optimism, well-funded public goods means better developer tooling, widespread user education, safer infrastructure, and industry-leading research. It means Optimism can last and thrive.\nOnce we show that this model can drive a successful economy for the Optimism Collective, we can scale the principle of impact = profit to the world!",
   "impactMetrics": [
     {

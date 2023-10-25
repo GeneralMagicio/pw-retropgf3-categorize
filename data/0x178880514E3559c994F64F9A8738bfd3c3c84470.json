@@ -10,9 +10,7 @@
       "description": "my wallet"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "My contributions have had a positive impact on the Optimism Collective. By minting NFTs, providing liquidity, and supporting projects, I've helped foster a dynamic and thriving ecosystem. These contributions have not only increased activity but also encouraged other community members to participate actively. Additionally, my efforts in promoting Optimism within my community have expanded its reach and visibility, making more people aware of the platform's advantages. Overall, my goal is to continue contributing to the growth and success of the Optimism Collective, both technically and in terms of community engagement.\n",
   "impactMetrics": [
     {

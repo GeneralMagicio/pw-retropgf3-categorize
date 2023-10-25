@@ -15,9 +15,7 @@
       "description": "Web3xplorer Pitch deck"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "We started Web3xplorer in October 2022 and launched in June 2023. Since then, user engagement has surged, with more than 1,350 visitors spending collectively 68 hours on our site just last month.\n\nOur influence extends beyond just our platform. We've been featured in newsletters like TheRunDownAI, Bytebrief, and community projects like the Optimistic Reservoir. Platforms including AlternativeTo, SideProjectors, SaasHub, and especially ProductHunt, where we hit '#6 product of the day' with 265+ upvotes, amplified our visibility. This has enabled us to effectively engage with audiences beyond the core web3 community.\n\nThe positive feedback we continue to receive from our users speaks volumes about the value we offer, all while keeping the service completely free.",
   "impactMetrics": [
     {
@@ -90,6 +88,5 @@
   "applicantAddress": "0xB03E094e643a50E145E804b35787C28292E6Afe4",
   "pwCategorySuggestions": "Content Creation, User Experience & Adoption, Web3 Community Platform",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Web3xplorer is a project that falls under the category of User Interface & Experience. The core purpose of the project is to provide a user-friendly web application that simplifies the process of exploring the web3 ecosystem for both experienced users and newcomers. \n\nThe project addresses the challenges faced by web3 newcomers by offering a directory of over 900 decentralized applications on various platforms such as Ethereum, Optimism, and Base. The directory includes detailed information about each app, highlighting their most prominent features, FAQs, and social handles. This comprehensive information allows users to easily find the right tools and resources they need.\n\nWeb3xplorer also offers advanced features such as a built-in search engine, advanced filters, and sorting options, making it extremely fast and convenient for users to navigate through the directory. The project ensures a positive user experience by investing significant time and effort into its development, resulting in high user engagement and positive feedback from the community.\n\nAdditionally, Web3xplorer has a blog that educates users about Optimism with in-depth articles, further solidifying its commitment to user education and adoption.\n\nOverall, Web3xplorer's emphasis on user-friendly interface design, comprehensive directory, and educational resources make it a project that primarily focuses on User Interface & Experience in the web3 domain."
+  "pwApplicantTypeChecked": true
 }

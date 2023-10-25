@@ -25,9 +25,7 @@
       "description": "Where we get in touch with builders and help spread their ideas."
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM"],
   "impactDescription": "As of October 17th, we have published 17 issues of the EIP Fun Weekly (English and Chinese version), providing the Ethereum community with updates, important information, and fun memes related to EIPs.\n\nThrough community-building efforts (primarily on Twitter and Telegram groups), we have connected with some EIP authors (especially new authors) to help gather feedback from the community for their ideas and created an open space for builders to connect with one another and share thoughts.\n\nWe also worked on EIP tech workshops like ERC-6551 Workshop https://docs.google.com/presentation/d/1Mfo3hlTYlhu6aa-VbaOjfrn-8RJ0LQfVVzLGiYb2wz4/edit#slide=id.g2423be42a0f_0_214. ",
   "impactMetrics": [
     {
@@ -75,6 +73,5 @@
   "applicantAddress": "0xEe972E35311F65e6fD8F6ea7228Bf388B53e1D4a",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Developer Ecosystem, Community Building, Blockchain Education",
-  "pwCategory": "Category: Community Building & Governance"
+  "pwCategorySuggestions": "Developer Ecosystem, Community Building, Blockchain Education"
 }

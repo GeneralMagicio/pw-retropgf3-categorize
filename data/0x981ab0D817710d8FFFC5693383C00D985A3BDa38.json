@@ -25,10 +25,7 @@
       "description": "OpenMarket template"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM",
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Developer Ecosystem\n\nKredeum Factory 'onchain' NFTs Resolver  offers a gasless access to all NFTs metadata on Optimism Network  : onchain alternative to NFT API (or subgraphs) available offline \n\nA dedicated NFT library: OpenNFT library , derived from more generic OpenZeppelin library, offers advanced features:\n- SoulBound\n- Multichain\n- AutoMarket\n- ERC6551 support (soon)\n\nEnd User Experience & Adoption\nHelp WordPress community to use Optimism\n",
   "impactMetrics": [
     {
@@ -58,6 +55,5 @@
   "applicantAddress": "0x981ab0D817710d8FFFC5693383C00D985A3BDa38",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Tokenization Platforms, Web3 Community Platform, End-User Experience",
-  "pwCategory": "Web3 & Decentralization"
+  "pwCategorySuggestions": "Tokenization Platforms, Web3 Community Platform, End-User Experience"
 }

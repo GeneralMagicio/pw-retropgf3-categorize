@@ -15,9 +15,7 @@
       "description": "MEMEFUN website"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "For OP Collective, MEMEFUN not only serves existing OP communities(include NFT and token) for quick interaction and creation but also attracts other communities to expand their brand on OP. \nAdditionally, All project owners can attract MEMEFUN users to create great amount of memes through rewards task, it will active the entire creator ecosystem, allow everyone to become a creator, and enabe each creator to earn rewards through their creations. ",
   "impactMetrics": [
     {
@@ -59,6 +57,5 @@
   "applicantAddress": "0xA88d3F1D117C59245FEC63E5b4979726947e8D5a",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "NFT Aggregator, Content Creation, Community Building",
-  "pwCategory": "NFTs & Marketplaces"
+  "pwCategorySuggestions": "NFT Aggregator, Content Creation, Community Building"
 }

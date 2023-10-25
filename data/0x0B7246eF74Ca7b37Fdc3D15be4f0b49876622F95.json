@@ -76,6 +76,5 @@
   "applicantAddress": "0x0B7246eF74Ca7b37Fdc3D15be4f0b49876622F95",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, Governance & Tokens, Reputation Systems",
-  "pwCategory": "The most appropriate category for this project is \"Community Building & Governance\". The project focuses on building a community and facilitating governance participation through reputation systems and rewards. It provides onchain attestations and metrics to determine eligibility and quantify praises within the community. The newly launched citizen attestation explorer also allows community members to examine and explore relevant attestations. Overall, the project aims to unlock the full potential of the community by fostering engagement, trust, and active participation in governance."
+  "pwCategorySuggestions": "Community Building, Governance & Tokens, Reputation Systems"
 }

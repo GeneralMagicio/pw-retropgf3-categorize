@@ -20,9 +20,7 @@
       "description": "Class Community"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM"],
   "impactDescription": "IMPACT\n\nOur training has some immediate impact for the Optimism ecosystem.\n\nFor example, the 20 people who complete their training will be able to start contributing to the Optimism ecosystem right away by building new applications and protocols, or by auditing existing code.\n\nHere are some specific ways that our students contribute to the Optimism ecosystem:\n\n1. Build new applications and protocols on Optimism\n\n2. Audit existing smart contracts on Optimism for security vulnerabilities.\nWe also teach Cyber Security at B<>rder/ess so this would help web3 devs learn faster on securing vulnerabilities.\n\n3. Educate others about Solidity and Optimism through blog posts, tutorials, and workshops.\n\nKeep up with our progress report here: https://twitter.com/BorderlessDev",
   "impactMetrics": [
     {
@@ -52,6 +50,5 @@
   "applicantAddress": "0x9DCbA70B2dfe5807e2A847E065EBb666791F8b8A",
   "pwCategorySuggestions": "Smart Contract Platforms, Developer Ecosystem, Education",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Developer Education & Mentoring"
+  "pwApplicantTypeChecked": true
 }

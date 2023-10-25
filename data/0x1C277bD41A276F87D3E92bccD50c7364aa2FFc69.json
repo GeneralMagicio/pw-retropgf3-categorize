@@ -25,10 +25,7 @@
       "description": "The core Ape Framework repository"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM",
-    "OP_STACK"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM", "OP_STACK"],
   "impactDescription": "We've supported a large portion of our developer community that uses or interactions with Optimism frequently, one of our most widely-used ecosystem plugins (outside of Ethereum). Major projects are using it for production capabilties, including Yearn and Curve.",
   "impactMetrics": [
     {
@@ -58,6 +55,5 @@
   "applicantAddress": "0x1C277bD41A276F87D3E92bccD50c7364aa2FFc69",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Smart Contract Platforms, Developer Ecosystem, Layer 2 Scaling",
-  "pwCategory": "Layer 2 & Rollups"
+  "pwCategorySuggestions": "Smart Contract Platforms, Developer Ecosystem, Layer 2 Scaling"
 }

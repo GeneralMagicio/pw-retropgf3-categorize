@@ -10,9 +10,7 @@
       "description": "web3beach wallet, connects to local leader wallets doing distributions"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "We've onboarded communities in Venezuela, Colomboa, Honduras, Nicaragua, Japan, Kenya. This helps the unbanked access crypto by being rewarded for their social and environmental impact. They also learn how to mint, vote, swap, bridge, onchain. We also help these communites become autonomous and tap into their own impact. ",
   "impactMetrics": [
     {
@@ -76,6 +74,5 @@
   "applicantAddress": "0xEFEdaf9c07E6eB56BB8F82f30018e4461B1c5F4c",
   "pwCategorySuggestions": "Community Building, Tokenization Platforms, Impact Onboarding",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Community & Social Engagement"
+  "pwApplicantTypeChecked": true
 }

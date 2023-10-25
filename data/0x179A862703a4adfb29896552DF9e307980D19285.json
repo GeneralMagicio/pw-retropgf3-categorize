@@ -35,10 +35,7 @@
       "description": "Dashboard of important Farcaster analytics"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM",
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "My projects have made it easier for dozens of developers to build applications (Searchcaster), dozens of artists to distribute their work (Fardrop), and tens of thousands of consumers to observe the network/take control of their decentralized social profiles (Searchcaster, Farcaster Network, fcstr.xyz, etc.). These tools are built to enhance the Farcaster ecosystem which is rooted in OP Mainnet.",
   "impactMetrics": [
     {

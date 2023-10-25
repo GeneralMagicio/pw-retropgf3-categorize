@@ -95,9 +95,7 @@
       "description": "1,000+ Twitter post about Crypto ecosystem."
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "We have contributed to the development of the crypto community in Thailand, with a focus on providing a wealth of knowledge on various topics. These include explanations about different projects, the technologies, various upgrades, security aspects, etc.\n\nWe provide knowledge in many aspects, including articles, videos, books, podcasts, etc. We also organize various offline events to provide knowledge in Thailand and help building web3 ecosystem in Thailand.",
   "impactMetrics": [
     {
@@ -137,6 +135,5 @@
   "applicantAddress": "0x20958ed81d32f79FCA6eda9A5364AE7908a60D5D",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building",
-  "pwCategory": "Community Building"
+  "pwCategorySuggestions": "Community Building"
 }

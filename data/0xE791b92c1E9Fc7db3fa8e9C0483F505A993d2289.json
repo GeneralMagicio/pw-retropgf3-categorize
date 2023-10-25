@@ -10,9 +10,7 @@
       "description": "A collection of over 100 OP News blog posts"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Our daily briefing boosts Optimism Collective's brand awareness, reaching over 2,000 crypto enthusiasts. We\nprovide essential OP News coverage, keeping end-users, developers, journalists, and crypto security firms informed about network upgrades, new OP Stack chains, and airdrops. Our briefs have even inspired news articles, like this one published by The Block on Optimism Airdrop 3 after the journalist read our newsletter.",
   "impactMetrics": [
     {

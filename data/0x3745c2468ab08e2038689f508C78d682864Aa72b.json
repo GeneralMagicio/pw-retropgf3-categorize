@@ -15,10 +15,7 @@
       "description": "Analytics page for our account"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION",
-    "OP_STACK"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION", "OP_STACK"],
   "impactDescription": "-Raised awareness for OP Stack\n-Assisted in onboarding new users and keeping them informed\n-Presented on-chain tools\n-Monitored security-related news and alerted the community\n-Promoted the bedrock upgrade\n-Advocated for the emergence of BASE\n-Promoted Optimism-related podcasts\n\nApart from the stated contributions above, we have connected with the communities of university students in Bogazici University, ITU and Marmara University in Turkey and raised awareness about blockchain and Optimism network. We don't have a tangible proof of this contribution but some of the students participated in the blockchain clubs in their schools, some of them invested in the chain and some of them started working with us in the blockchain community management field!",
   "impactMetrics": [
     {
@@ -65,6 +62,5 @@
   "applicantAddress": "0x3745c2468ab08e2038689f508C78d682864Aa72b",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Content Creation, Community Building, User Experience & Adoption",
-  "pwCategory": "Community Building & Governance"
+  "pwCategorySuggestions": "Content Creation, Community Building, User Experience & Adoption"
 }

@@ -10,10 +10,7 @@
       "description": "The Kwenta Github has the source for our frontend, python SDK, and governance"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM",
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Through the onboarding of users, community developers, and ecosystem partners, Kwenta has contributed significantly to growth and activity on the Optimism chain, and participation in the wider ecosystem.\n\nOur commitment to building open source tools and our encouragement to other developers to share and build on collective work has helped give Optimism a reputation as one of the best places to innovate in the onchain derivatives space.\n\nWe facilitate thousands of trades per day in v2 alone, leading to millions of individual transactions on OP. ",
   "impactMetrics": [
     {
@@ -48,6 +45,5 @@
   "applicantAddress": "0xC065E02D562cc390F3569305990BFD13B17eEC6B",
   "pwCategorySuggestions": "Decentralized Exchanges (DEXs), Layer 2 Scaling, Community Building",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Decentralized Exchanges"
+  "pwApplicantTypeChecked": true
 }

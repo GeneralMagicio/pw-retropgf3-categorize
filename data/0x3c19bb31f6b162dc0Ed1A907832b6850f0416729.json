@@ -25,9 +25,7 @@
       "description": "12 Contracts addresses"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "FairSharing has leveraged the Web3 native protocol EAS (Ethereum Attestatioin Service). By deeply collaborating with DAOstar, FairSharing is pushing forward the EAS standard formulation as public goods among DAOs and projects, which drives wider awareness and adoption of EAS (Attestation on OP).\n\nAs a public goods tool itself, FairSharing not only makes it easier for individuals to record, measure and show their contribution in a more transparent way, but also facilitates DAOs & projects to track & monitor contribution from each contributor and allocate resources & rewards equitably.\n\nFairSharing is able and willing to be further integrated into Optimism Collective to track & monitor the contribution progress and builder participation of grants-winning projects.",
   "impactMetrics": [
     {
@@ -52,6 +50,5 @@
   "applicantAddress": "0x3c19bb31f6b162dc0Ed1A907832b6850f0416729",
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Web3 Community Platform, Tokenization Platforms",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Decentralized Finance (DeFi)"
+  "pwApplicantTypeChecked": true
 }

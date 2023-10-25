@@ -25,9 +25,7 @@
       "description": "Tockable front repository"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Talkable is a newly launched platform that is completing its testing stages and has not yet reached the mainnet stage. Hence, its impact on Optimism Collective has not yet been determined, and unfortunately, we cannot provide details in this regard at the moment.",
   "impactMetrics": [
     {
@@ -52,6 +50,5 @@
   "applicantAddress": "0x38A4118936Dd9F7d5d2b7eD9B04333e129a95d97",
   "pwCategorySuggestions": "NFT Aggregator, Digital Identity",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "NFTs & Marketplaces"
+  "pwApplicantTypeChecked": true
 }

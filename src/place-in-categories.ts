@@ -12,7 +12,7 @@ import { YesOrNo } from ".";
 import fs from "fs/promises";
 import pc from "picocolors";
 
-const model = new ChatOpenAI({ modelName: "gpt-3.5-turbo" });
+const model = new ChatOpenAI({ modelName: "gpt-4" });
 
 const categoryTemplate = PromptTemplate.fromTemplate(
   `Given a detailed description of a project in the Web3/blockchain domain, thoroughly 

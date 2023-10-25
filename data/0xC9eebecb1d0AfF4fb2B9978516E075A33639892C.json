@@ -10,9 +10,7 @@
       "description": "app"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "- moving capital from major multichain projects to OpenX which is a small Optimism dedicated project, both for the vaults as for the (ve)NFT market. \n- creating a decentral liquid wrapper for veVelo which allows especially major MarketCap or Ecosystem project to effectively build a base APR rate on velodrome.",
   "impactMetrics": [
     {

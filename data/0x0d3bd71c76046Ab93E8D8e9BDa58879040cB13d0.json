@@ -15,10 +15,7 @@
       "description": "APIs available for free for wallet developers building on 4337 ecosystem"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM",
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "1.The tools is most helpful for developers to confirm the status of a UserOp and share it with their teammates or users, as no other tool currently supports search/lookup by a UserOp.\n2. The Explorer is actively used by the developers of the top teams empowering 4337.\n3. The explorer has seen a Cumulative Monthly Growth of 27% for the last 5 months in terms of page views, with the september hitting ~18k views. \n4. We have had 26 teams request for our APIs and are the most performant and rich historical UserOp lookup service out there",
   "impactMetrics": [
     {
@@ -61,6 +58,5 @@
   "applicantAddress": "0x0d3bd71c76046Ab93E8D8e9BDa58879040cB13d0",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Tokenization Platforms, Blockchain Infrastructure, Developer Ecosystem",
-  "pwCategory": "Developer Tools & Utilities"
+  "pwCategorySuggestions": "Tokenization Platforms, Blockchain Infrastructure, Developer Ecosystem"
 }

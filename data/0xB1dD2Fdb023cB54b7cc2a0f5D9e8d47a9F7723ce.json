@@ -78,6 +78,5 @@
   "pwCategorySuggestions": "Decentralized Exchanges (DEXs), Trading Tools, Tokenization Platforms",
   "pwIsFlagged": true,
   "pwFlaggedReason": "This project is not deployed on Optimism yet.",
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Decentralized Exchanges"
+  "pwApplicantTypeChecked": true
 }

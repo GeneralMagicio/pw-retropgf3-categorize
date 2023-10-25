@@ -165,9 +165,7 @@
       "description": "Optimism Quests guide we published on our Twitter channel"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "DOUBLETOP is one of the biggest crypto community in Eastern Europe and every year we set each year narratives. From the beginning of the 2nd half of 2021 Optimism as well as other L2s on ETH took huge half of our narrative. We have made positive, both direct and indirect impact on overall level of understanding and knowledge of Optimism and other ETH L2s.  \n\nIn regards to impact, we are part of Optimism community and impacted adoption in various ways. The easiest way to measure the impact is probably views for us, however one should also look through likes/comments/activity/quality of the content/quality of the community etc. For that one would need to go directly to the piece of content and look it through. Sometimes even translate.",
   "impactMetrics": [
     {
@@ -329,6 +327,5 @@
   "applicantAddress": "0x81D94B973862CBEe5Bd19Ab0DA3F015F3F0D53e9",
   "pwCategorySuggestions": "Community Building, Social Media Marketing, Developer Ecosystem",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Community Building & Governance"
+  "pwApplicantTypeChecked": true
 }

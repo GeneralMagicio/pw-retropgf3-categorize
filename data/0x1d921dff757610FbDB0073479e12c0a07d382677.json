@@ -20,9 +20,7 @@
       "description": " L2PublicResolverVerifier"
     }
   ],
-  "impactCategory": [
-    "OP_STACK"
-  ],
+  "impactCategory": ["OP_STACK"],
   "impactDescription": "1. Development of the Optimism Resolver for ENS: All users using ENS will now be able to store, read and write their text records in Optimism.\n2. Prepare OP Resolver contracts for an audit: it will allow us to guarantee security to anyone who implements it. It’s key for the OP Collective users who wish to store, read or write data on L2s from Mainnet using our Resolver.\n3. Support the integration and implementation of the Resolver for other Optimism based networks like Base and Mantle: with the bedrock update, we provided support and built alongside the ENS team the adaption of the Optimism Resolver to other networks like Base and Mantle, closing the gap in between ecosystems.  \n5. We provide all the documentation needed for anyone on the OP collective to make use of our smart contracts.\n",
   "impactMetrics": [
     {
@@ -94,6 +92,5 @@
   "applicantAddress": "0x1d921dff757610FbDB0073479e12c0a07d382677",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Smart Contract Platforms, Tokenization Platforms, Blockchain Infrastructure",
-  "pwCategory": "Blockchain Infrastructure"
+  "pwCategorySuggestions": "Smart Contract Platforms, Tokenization Platforms, Blockchain Infrastructure"
 }

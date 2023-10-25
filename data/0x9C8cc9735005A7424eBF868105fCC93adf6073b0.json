@@ -35,9 +35,7 @@
       "description": "(Blog) Optimism Announces Sale of 116 Million OP Tokens: What to Expect"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "We believe that by giving clear information about the project, our readers will be able to see it from a wider, more objective perspective. We believe that when information is presented completely and impartially rather than with bias, readers are more likely to choose to stick with the project.",
   "impactMetrics": [
     {
@@ -67,6 +65,5 @@
   "applicantAddress": "0x9C8cc9735005A7424eBF868105fCC93adf6073b0",
   "pwCategorySuggestions": "Content creation, Community building, User experience & Adoption",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Category: Content & Media"
+  "pwApplicantTypeChecked": true
 }

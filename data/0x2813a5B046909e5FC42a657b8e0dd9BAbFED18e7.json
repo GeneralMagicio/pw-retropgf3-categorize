@@ -45,10 +45,7 @@
       "description": "Upnode Validators and Blogs"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM",
-    "OP_STACK"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM", "OP_STACK"],
   "impactDescription": "We have developed a User Interface and offer open-source scripts for easy deployment of the OP Stack including a script to launch op-erigon easily using docker compose, a docker compose script to launch any customized OP Stack chains, and an ansible script for roll-op to simplify the OP Stack deployment process published to Ansible Galaxy.\n\nWe have fixed a devnet deployment bug in the core Optimism repository.\nWe have collaborated with roll-op and fixed a critical bug in their repository.",
   "impactMetrics": [
     {
@@ -95,6 +92,5 @@
   "applicantAddress": "0x2813a5B046909e5FC42a657b8e0dd9BAbFED18e7",
   "pwIsFlagged": false,
   "pwCategorySuggestions": "Blockchain Infrastructure, Developer Ecosystem, Web3 Community Platform",
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Blockchain Infrastructure"
+  "pwApplicantTypeChecked": true
 }

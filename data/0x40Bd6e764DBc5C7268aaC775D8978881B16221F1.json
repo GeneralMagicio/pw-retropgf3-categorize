@@ -20,10 +20,7 @@
       "description": "Sonne Finance documentation"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM",
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "A year since its inception, Sonne Finance has soared to become the 6th largest protocol on Optimism, boasting a TVL of $29M (source) and leading as the top lending protocol with $42M in Total Borrows. We've seen 6,400 unique wallets stake SONNE, and our footprint extends to Base with an impressive $8M TVL. Together with Velodrome, we've not only championed native solutions on Optimism but also paved the way by demonstrating how to launch on Velodrome, Optimism's liquidity center, even open-sourcing our process for all.",
   "impactMetrics": [
     {
@@ -63,6 +60,5 @@
   "applicantAddress": "0x40Bd6e764DBc5C7268aaC775D8978881B16221F1",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Finance (DeFi), Smart Contract Platforms, User Experience & Adoption",
-  "pwCategory": "Decentralized Finance (DeFi)"
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Smart Contract Platforms, User Experience & Adoption"
 }

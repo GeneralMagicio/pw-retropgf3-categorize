@@ -40,9 +40,7 @@
       "description": "Recordings of the TE Track day @EthCC & TE Barcamp July 2023 we’ve organized"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Since October 2022, TE Academy’s comprehensive study programs have brought over 3000 active users to the Optimism Collective (A, B). \nAfter months of studying, students have minted 1000+ NFT proofs reflecting personal achievements. Students keep these account-bound NFTs forever (C).\nWe’ve launched a new course in Sept 2023 specifically on Optimism NFTs & “NFT-based Reputation in Web3” (D).\nTE Academy brings diversity to the Optimism Collective by facilitating 46 peer-2-peer study groups across 14 languages (E).\nOur #TEWeeklyReads newsletter shares the most relevant token engineering developments with 5K+ subscribers with an 40% open rate, and features Optimism in every edition (F).\nOptimism ambassador Fuji AR’s TE Academy feature was also awarded first place by the Optimism community (G).",
   "impactMetrics": [
     {
@@ -134,6 +132,5 @@
   "applicantAddress": "0x3b067Af83F540cB827825a6Ee5480441a4237E77",
   "pwCategorySuggestions": "Token Engineering Education, Community Building, Web3 Community Platform",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Token Engineering Education"
+  "pwApplicantTypeChecked": true
 }

@@ -20,10 +20,7 @@
       "description": "Website with products and services for Optimism "
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM",
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Since the inception of Optimism as an L2 solution, our primary contribution has been the development of several DeFi protocols and services. Admittedly, due to the challenges posed by the bear market and a constrained marketing budget, we have not achieved significant traction or TVL as we would have desired. Nonetheless, we remain steadfast in our commitment to the continued development and enhancement of the Optimism DeFi ecosystem and actively participating in governance. Securing the RetroPGF grant will empower us to expand our audience reach and further refine our product offerings on the Optimism platform. You can find the line of products on our website plasma.finance.",
   "impactMetrics": [
     {
@@ -53,6 +50,5 @@
   "applicantAddress": "0xA559f6d6B5A5661E46dEc454751683294BB26B9E",
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Portfolio Management, DEX & Bridge Aggregator",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Decentralized Finance (DeFi)"
+  "pwApplicantTypeChecked": true
 }

@@ -15,9 +15,7 @@
       "description": "Web3 Analytic Product Demo"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Here are more details of how we've helped OP Collective Projects:\n\nKwenta and Synthetix - identify and connect with large on-chain perp traders. Created list of eligible users for Kwenta's on-chain referrals program based on trading history.\nAevo - identify and connect with large on-chain derivatives traders.\nPerp - understand customer segmentation and develop hot tub vaults strategy. Messaging users.\nLyra - identify and connect with large option traders for upcoming V2 launch.",
   "impactMetrics": [
     {
@@ -54,6 +52,5 @@
   "applicantAddress": "0xCb4B8F4810188fCBe96C06ccf8A763eb49f56a29",
   "pwCategorySuggestions": "Decentralized Finance (DeFi), User Experience & Adoption, Tokenization Platforms",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Marketing & Onchain Marketing"
+  "pwApplicantTypeChecked": true
 }

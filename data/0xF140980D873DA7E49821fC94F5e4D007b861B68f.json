@@ -20,9 +20,7 @@
       "description": "0x56c8Ec442A4F58b2d0689330028289019b268728"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Expanding the community's blockchain literacy through hands-on application has enlightened and empowered individuals. By emphasizing safety protocols, constant innovation, and tangible benefits, we created a secure and resilient community.  Optimism and its super chain affiliated partners have been instrumental in fostering  enthusiasm for the transformative potential of the blockchain, and improving  quality of life, self confidence, monetary limitations, and sense of friendship and belonging that is unparalleled in our modern day social structures. \n\n",
   "impactMetrics": [
     {
@@ -52,6 +50,5 @@
   "applicantAddress": "0xF140980D873DA7E49821fC94F5e4D007b861B68f",
   "pwCategorySuggestions": "Community Building, Blockchain Education, User Experience & Adoption",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Community Building & Governance"
+  "pwApplicantTypeChecked": true
 }

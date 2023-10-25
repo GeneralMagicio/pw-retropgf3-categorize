@@ -86,6 +86,5 @@
   "applicantAddress": "0x9ad673197E99449891C08B79d26bd541FB6856C9",
   "pwCategorySuggestions": "Cross-Chain Platforms, Blockchain Infrastructure",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Cross-Chain & Interoperability"
+  "pwApplicantTypeChecked": true
 }

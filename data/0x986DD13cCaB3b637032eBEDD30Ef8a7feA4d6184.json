@@ -20,9 +20,7 @@
       "description": "Sprintcheckout open source smart contract"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Our Open source dapp is an example to other payment processors.\nTwo wordpress merchants are downloading our plugin per day.\nThere are more than 250 merchant accounts created.\nMerchant are starting to process payments. We expect around  $50,000 in volume per month in the coming month.\n",
   "impactMetrics": [
     {
@@ -65,6 +63,5 @@
   "applicantAddress": "0x986DD13cCaB3b637032eBEDD30Ef8a7feA4d6184",
   "pwCategorySuggestions": "Tokenization Platforms, Decentralized Finance (DeFi), Payment Processors",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Payment Processors"
+  "pwApplicantTypeChecked": true
 }

@@ -20,9 +20,7 @@
       "description": "Telegram"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "We have more then 200k views on our website monthly, telegram channel with 21k subscribers, twitter with 12,5k followers. This channel keeps users interested in the Optimism ecosystem instantly informed about promising new projects backed by renowned investors.\n",
   "impactMetrics": [
     {
@@ -64,6 +62,5 @@
   "applicantAddress": "0xF80a109643E78Bf60A34110530d2a5fe0b414996",
   "pwCategorySuggestions": "Tokenization Platforms, Blockchain Infrastructure, Media Production",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Tokenization Platforms"
+  "pwApplicantTypeChecked": true
 }

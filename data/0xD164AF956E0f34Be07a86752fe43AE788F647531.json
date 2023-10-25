@@ -15,9 +15,7 @@
       "description": "Onboarded many projects for Giveth's Optimism QF round"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "We have helped people from initial phases to understand what's Ethereum and how it could benefit their lives, then onboard them to solutions like Optimism as a Layer 2. We have extensive experience conducting workshops, talks, and online events for our community. To date, we have successfully organized over +40 workshops, +60 talks, and +60 online events. These gatherings have consistently attracted a substantial audience, with an average of 15 attendees per workshop, 50 attendees per talk, and 20 attendees per online event.",
   "impactMetrics": [
     {
@@ -47,6 +45,5 @@
   "applicantAddress": "0xD164AF956E0f34Be07a86752fe43AE788F647531",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, Education, Layer 2 Scaling",
-  "pwCategory": "Community Building & Governance"
+  "pwCategorySuggestions": "Community Building, Education, Layer 2 Scaling"
 }

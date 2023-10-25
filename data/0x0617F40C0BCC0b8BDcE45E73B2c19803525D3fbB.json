@@ -10,9 +10,7 @@
       "description": "The site exists, is almost done and will be up and running soon."
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Sorry, but I thought there was a similar question earlier, so I'll paste my previous reply.\n\n\"- Donations on the Gitcoin site. I support projects built on the Optimism stack and do so in every round.\n\n- Active user who helps newcomers in Discord. Also, as I find bugs and errors, I leave reports in the appropriate thread on the server.\n\n- In any unclear situation, I tell everyone around me about your blockchain (laughs).\"",
   "impactMetrics": [
     {

@@ -25,9 +25,7 @@
       "description": "Opensea"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Initially a free mint, our genesis collection of 10,000 NFTs is the most traded art collection on Optimism with 12,314 trades, 2,895 unique holders, and volume totaling more than 135E across all marketplaces. \n\nWe generally promote a health and wellness culture on Optimism that helps make users stronger. Most of the content we produce is widely dissemenated on Crypto Twitter with 2,000 dailly impressions on average. \n\nA lot of our reporting has driven positive changes to NFT users on Optimism such as the Quix bridge issue being resolved 24 hours after our reports, and better grant accountability being implemented after we reported NFTE misusing funds. \n",
   "impactMetrics": [
     {
@@ -90,6 +88,5 @@
   "applicantAddress": "0x10850762bAc0dc6660630c1EfFe188A7cbFDdc88",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "NFTs, Content Creation, Community Building",
-  "pwCategory": "NFTs & Marketplaces"
+  "pwCategorySuggestions": "NFTs, Content Creation, Community Building"
 }

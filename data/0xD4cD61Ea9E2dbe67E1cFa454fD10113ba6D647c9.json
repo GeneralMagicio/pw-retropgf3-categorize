@@ -10,9 +10,7 @@
       "description": "Landtorn Website"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Our first game, Lorak, is an experimental on-chain idle game built using the ERC-6551 standard. It tests the limits of Token Bound accounts, or in simpler terms, it assesses the feasibility of managing hundreds of NFTs inside a Character NFT with a built-in ruleset. This deepens the gameplay while providing a full on-chain experience.\n\nThe idea here is that the core NFT you mint becomes an account. This means it's like a smart contract embedded into your NFT that holds and performs actions with other assets. From the perspective of blockchain gaming, this concept becomes incredibly interesting from multiple standpoints. \n\nOur impact has been felt through over 350,000 transactions since the start of the project, seeking ways to add value and improve the entire ecosystem.",
   "impactMetrics": [
     {
@@ -47,6 +45,5 @@
   "applicantAddress": "0xD4cD61Ea9E2dbe67E1cFa454fD10113ba6D647c9",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Blockchain Gaming, NFT Aggregator, Smart Contract Platforms",
-  "pwCategory": "Blockchain Gaming"
+  "pwCategorySuggestions": "Blockchain Gaming, NFT Aggregator, Smart Contract Platforms"
 }

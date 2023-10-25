@@ -10,9 +10,7 @@
       "description": "Connect Ducky City with OP network"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "We are in the process of development, and currently, we have implemented support for connecting and logging in to our metaverse system using the OP network.\n\nHere's a brief introduction to our business model:\n\nPremium: The packages in the metaverse include various types such as Verification, VIP 1, VIP 2, etc. Users need to pay to upgrade to premium. \nSkins:\nThere will be special and limited skins and users will have to pay to own them.\nCelebrity space: Celebrities can create private spaces to meet with fans, and users must have a \"KEY\" to enter the space. \nOnline office: Users need to pay to use the online office.\n\nWe will use the OP network to carry out all transactions in our business model.",
   "impactMetrics": [
     {
@@ -44,6 +42,5 @@
   "applicantAddress": "0x9bF7A4c1D9C115749934232e4746f5C115e7c047",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Blockchain Gaming, Tokenization Platforms, Digital Identity",
-  "pwCategory": "Blockchain Gaming"
+  "pwCategorySuggestions": "Blockchain Gaming, Tokenization Platforms, Digital Identity"
 }

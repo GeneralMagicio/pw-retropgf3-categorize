@@ -20,9 +20,7 @@
       "description": "Randcast Documentations"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM"],
   "impactDescription": "Randcast offers devs on Optimism a ready-made suite for embedding in DApps or Web3 games that need credible, unbiased, and verifiable randomness. Additionally, devs can tailor this suite via the SDK.\n\nRandcast's SDK highlights:\n\nshuffle: Creates a randomized array of numbers. Useful for card shuffles or lottery numbers.\ndraw: Picks a random subset from an array, ideal for lotteries, card draws, or airdrop selections.\nroll: Executes a random roll in a set size. Suitable for dice rolls, game results, or game character traits.\npickByWeights: Selects an index by weights, great for probability-based outcomes like NFT rarity or lotteries.\nbatch: Produces a set of random numbers from a seed, perfect for lottery sets or verification codes.",
   "impactMetrics": [
     {
@@ -47,6 +45,5 @@
   "applicantAddress": "0xDD1Ce2d72b2FdCCB2D10D3D04D5ca2Ba81E39aD3",
   "pwCategorySuggestions": "Smart Contract Platforms, Decentralized Finance (DeFi), Blockchain Gaming",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Smart Contracts & Tools"
+  "pwApplicantTypeChecked": true
 }

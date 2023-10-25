@@ -15,9 +15,7 @@
       "description": "Google Play link of Verso Wallet"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "More than 50k EVM users have now access to Optimism.\nVia Verso use can have : \n1/ On-Ramp directly to Optimism with credit card (Apple pay, Google Pay) or wire purchase.\n2/ Access to Market data for Optimism tokens.\n3/ Swap tokens in Optimism using Paraswap aggregator. ",
   "impactMetrics": [
     {
@@ -42,6 +40,5 @@
   "applicantAddress": "0xE9335f48cFA1f0a55E376dd306BAE6dD2f6Cdb96",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Tokenization Platforms, Decentralized Finance (DeFi), Wallet Management",
-  "pwCategory": "Optimism & Layer Solutions"
+  "pwCategorySuggestions": "Tokenization Platforms, Decentralized Finance (DeFi), Wallet Management"
 }

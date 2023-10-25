@@ -25,9 +25,7 @@
       "description": "Walk-through of the members features of Bloom, like LinkedIn for regens"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Bloom Network has been developing the social and governance architecture to run a global federated DAO impact economy since 2008. Our 15 years of R&D has landed in the bounties contracts, the core of our financial system. It opens the door for millions of non-technical users to onboard and successfully intercooperate on real world challenges.",
   "impactMetrics": [
     {
@@ -90,6 +88,5 @@
   "applicantAddress": "0x5219ffb88175588510e9752A1ecaA3cd217ca783",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Tokenization Platforms, Community Building, Decentralized Finance (DeFi)",
-  "pwCategory": "Decentralized Finance (DeFi)"
+  "pwCategorySuggestions": "Tokenization Platforms, Community Building, Decentralized Finance (DeFi)"
 }

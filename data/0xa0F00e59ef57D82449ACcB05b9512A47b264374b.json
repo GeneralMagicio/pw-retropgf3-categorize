@@ -30,10 +30,7 @@
       "description": "MetricsDAO Optimism webinar."
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM",
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "- Over 200 OP and Superchain analytics dashboards created by our community.\n- Base dashboards garnered 18,000 social media impressions.\n- Over 11,000 YouTube views on Blockchain Data 101 (our most popular series). 1,800+ registered participants in our free education courses. By training web3 analysts, MetricsDAO has grown the pool of data builders who can create tools for OP projects and educate users.\n- 100 views and counting on the OP webinar to educate the MetricsDAO community on the Optimism Collective. \n- Overall, an engaged community of 5,000 members, among them over 1,000 active blockchain analysts, who have already created 8,000+ total dashboards at MetricsDAO, and can continue to actively participate in the OP ecosystem and publish insights.",
   "impactMetrics": [
     {
@@ -133,6 +130,5 @@
   "applicantAddress": "0xa0F00e59ef57D82449ACcB05b9512A47b264374b",
   "pwCategorySuggestions": "Data Analytics, Education, Community Building",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Data Management"
+  "pwApplicantTypeChecked": true
 }

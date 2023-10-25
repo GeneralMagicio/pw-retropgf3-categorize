@@ -15,9 +15,7 @@
       "description": "Previous DepositVault that doesn't support smart contract wallet signatures."
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Through the approach of Woosh, we are not only introducing a user-friendly payments dApp but also actively fostering the expansion of the Optimism Collective. By simplifying crypto complexities through the utilization of ERC-4337 and sponsoring user transactions via ZeroDev's paymaster, we are effectively onboarding non-crypto users onto the Optimism network. The funds from this grant will not only facilitate the seamless operation of our dApp but also contribute to the continued growth and adoption of the Optimism ecosystem, thereby amplifying its impact and reach within the global community.",
   "impactMetrics": [
     {
@@ -49,6 +47,5 @@
   "applicantAddress": "0x3B2d493a88D97D26BE518c8048778d155831462B",
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Wallet Management, User Experience & Adoption",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Decentralized Finance (DeFi)"
+  "pwApplicantTypeChecked": true
 }

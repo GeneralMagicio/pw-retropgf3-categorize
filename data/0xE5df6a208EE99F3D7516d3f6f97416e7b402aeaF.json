@@ -130,6 +130,5 @@
   "applicantAddress": "0xE5df6a208EE99F3D7516d3f6f97416e7b402aeaF",
   "pwCategorySuggestions": "Community Building, Education, NFT Aggregator",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Community Building & Governance"
+  "pwApplicantTypeChecked": true
 }

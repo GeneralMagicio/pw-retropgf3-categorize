@@ -25,10 +25,7 @@
       "description": "Links to all SafariDAO community channels "
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM",
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "24 projects deployed on base, 3 bounty winners, 2 projects went on to pitch with Jesse Pollak. The impact is both tangible and intangible, with profound effects on community morale:\nThe tangible contributions are exemplified by the teams that have participated in our hackathon. We've not only provided practical support to participating teams but also offered inspiration to our community. Our members, including core contributors, often face economic barriers to financial inclusion. Since our last ETHSafari in 2022, our community has substantially grown. Through our events, we've ignited optimism, reinforcing the belief that there are numerous opportunities in the blockchain and Ethereum ecosystem that include the African perspective. ",
   "impactMetrics": [
     {
@@ -75,6 +72,5 @@
   "applicantAddress": "0x8d8087ffD46338cA8b08175a8C3cE25CaA67e171",
   "pwCategorySuggestions": "Community Building, Web3 Community Platform, Hackathons",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Community Building & Governance"
+  "pwApplicantTypeChecked": true
 }

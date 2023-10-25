@@ -75,9 +75,7 @@
       "description": "Zora launching l2 using OP stack "
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "We have shared and continue to share a lot of information with the community, thereby popularizing the L2 blockchain, and also bringing new users to the network\n\nMoreover, these users are and remain one of the most active on the network, voting in proposals, staking OP and completing quests to maintain activity on the network during a bear market\n\nYou can simply look at the amount of information by searching for the word Optimism",
   "impactMetrics": [
     {
@@ -158,6 +156,5 @@
   "applicantAddress": "0x9627CC3D60dF611CB826405fC6Cd739a6573476a",
   "pwCategorySuggestions": "Developer Ecosystem, Media Production, Community Building",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Community & Social Engagement"
+  "pwApplicantTypeChecked": true
 }

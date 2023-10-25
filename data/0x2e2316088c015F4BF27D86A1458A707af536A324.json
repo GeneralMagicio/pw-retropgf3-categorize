@@ -25,9 +25,7 @@
       "description": "AikiCloud Github"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Our application AikiSend had contributed to unifying the Defi ecosystem on optimism, by leveraging token permission routed through uniswap permit2 library, this allows for a more transparent and seamless on-chain transaction for batched multisend and transfers of different tokens in one transaction, saving gas and time for end-user.\nAikiCloud cloud server rental platform can now allow Optimism users to have access to powerful web2 cloud infrastructure, all from their web3 wallet without having to go through the hassle of setting up a web2 payment gateway or KYC etc. This helps drive user adoption for Optimism Collective and we continue to increase the services we currently support. ",
   "impactMetrics": [
     {
@@ -76,6 +74,5 @@
   "applicantAddress": "0x2e2316088c015F4BF27D86A1458A707af536A324",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Tokenization Platforms, Decentralized Finance (DeFi), Web3 Community Platform",
-  "pwCategory": "Decentralized Applications"
+  "pwCategorySuggestions": "Tokenization Platforms, Decentralized Finance (DeFi), Web3 Community Platform"
 }

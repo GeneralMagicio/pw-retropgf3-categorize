@@ -74,6 +74,5 @@
   "applicantAddress": "0x353cd262B60F821f602DC72e8E938cBC26A2B116",
   "pwIsFlagged": false,
   "pwCategorySuggestions": "Tokenization Platforms, Web3 Community Platform, Blockchain Infrastructure",
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Proposer & Builder Separation"
+  "pwApplicantTypeChecked": true
 }

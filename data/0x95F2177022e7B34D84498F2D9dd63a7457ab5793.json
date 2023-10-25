@@ -10,9 +10,7 @@
       "description": "Gas Tap contract"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Thousands of unique users have claimed gas from the Optimism Gas Tap to use the Optimism Network. It makes it so easy for everyone to obtain the gas token they need to use the Optimism network.\n\nWe ran an incentive program on Token Tap of 100 OP for 1000 people who claimed ETH on Gas Tap as a Proof of Concept on how Token Tap can be used to reward users onchain activities in the Optimism network.\n\nAs we deployed our Token Tap and Prize Tap contracts on Optimism Network, Now everyone can use Unitap and distribute any kind of tokens (UBI, governance, NFTs, etc.) on Optimism, as well as creating raffles on Optimism.",
   "impactMetrics": [
     {
@@ -47,6 +45,5 @@
   "applicantAddress": "0x95F2177022e7B34D84498F2D9dd63a7457ab5793",
   "pwCategorySuggestions": "Tokenization Platforms",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Tokenization Platforms"
+  "pwApplicantTypeChecked": true
 }

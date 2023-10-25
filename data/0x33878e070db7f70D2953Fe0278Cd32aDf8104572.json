@@ -15,10 +15,7 @@
       "description": "Explanation of Offering"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM",
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Grant Support: We've been key in securing multiple Optimism Grant proposals, reinforcing our commitment through pro bono support for select applications. \nPartner Success and Ecosystem Amplification: Our strategies have led to significant OP gains for our partners, extending and enhancing the reach of the Optimism ecosystem. \nCommunity Engagement: Our 37 weekly open meetings since February have served as crucial platforms for fostering dialogue and collaborative problem-solving. \nDiverse Collaboration: These meetings have included participation from BrightID, Commons Stack, DAOstar, Giveth, GravityDAO, Metagame, Pairwise, Praise, Regen Score, Token Engineering Academy, Trusted Seed, Unitap, and more, contributing to our collective impact.",
   "impactMetrics": [
     {
@@ -65,6 +62,5 @@
   "applicantAddress": "0x33878e070db7f70D2953Fe0278Cd32aDf8104572",
   "pwIsFlagged": false,
   "pwCategorySuggestions": "Grant Management",
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Governance Onboarding & Services"
+  "pwApplicantTypeChecked": true
 }
