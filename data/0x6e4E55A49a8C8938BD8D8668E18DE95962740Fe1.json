@@ -1,5 +1,5 @@
 {
-  "applicantType": "PROJECT",
+  "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://optimismarabia.com/",
   "bio": "I have 7 years of experience in the field of content creation, translation, organizing events and community building.",
   "contributionDescription": "Optimism Arabic community helps spread knowledge and educates Arab users about optimism. This aids in attracting new users and developers while also keeping existing ones informed and up-to-date.\nWe have made numerous contributions, including:\n-Creating original articles\n-Creating educational courses\n-Translating articles\n-Managing the Arab community through Telegram and Twitter and respond to all questions and inquiries\n-Organizing events and competitions\n-Designing infographics",
@@ -81,6 +81,5 @@
   "pwIsFlagged": false,
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, it is not correctly categorized. Despite being listed as \"PROJECT,\" the bio refers to \"I\" indicating this application is from an individual.",
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Category: Community Building & Governance"
+  "pwApplicantTypeChecked": true
 }

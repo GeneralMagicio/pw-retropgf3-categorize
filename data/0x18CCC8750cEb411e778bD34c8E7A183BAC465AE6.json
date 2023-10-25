@@ -1,5 +1,5 @@
 {
-  "applicantType": "PROJECT",
+  "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://dscvr.one/u/Mangueyen",
   "bio": "I love NFT and the new gold token for diamonds",
   "contributionDescription": "building from social media to make it easier for other people to know about the op network\nI want to share any information on IP networks with relatives or people who don't know much about the crypto world.  with the social media platform that I have",
@@ -39,6 +39,5 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, it should be categorized as \"INDIVIDUAL\" because the application uses first person pronouns \"I\" or \"me\", indicating an individual not a project.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Tokenization Platforms, Social Media, Non-Fungible Tokens (NFTs)",
-  "pwCategory": "Category: Tokenization Platforms"
+  "pwCategorySuggestions": "Tokenization Platforms, Social Media, Non-Fungible Tokens (NFTs)"
 }

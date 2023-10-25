@@ -1,5 +1,5 @@
 {
-  "applicantType": "INDIVIDUAL",
+  "applicantType": "PROJECT",
   "websiteUrl": "https://wallet.dappos.com/",
   "bio": "We provide basic services for web3 developers",
   "contributionDescription": "We provide basic services for web3 developers, such as: rpc, chainlist info, address available amount notice and so on. Especially the infrastructure construction of op chain, providing op chain RPC, account service, balance query, reminder service, and so on. Also includes cryptocurrency prices, trading, and liquidity services",

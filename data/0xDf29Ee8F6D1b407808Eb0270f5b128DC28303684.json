@@ -1,5 +1,5 @@
 {
-  "applicantType": "PROJECT",
+  "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://docs.defi-france.org/",
   "bio": "I'm Arthurws, PM at Nuant and contributor at DeFi France. DeFi France is one of the largest French-speaking communities on DeFi",
   "contributionDescription": "DeFi France is one of the biggest crypto community in France. We made monthly meetups in various cities (Paris, Toulouse, Lyon, Bordeaux) foster local connections. DeFi webinars educate newcomers. \nOur 3,000-member Discord, with 600 active weekly, boosts communication and support. Live Twitch and YouTube videos broaden knowledge and reach a wider audience, aiding crypto adoption.",
@@ -64,6 +64,5 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, it is not correctly categorized as the applicant mentions \"I'm Arthurws, PM at Nuant and contributor at DeFi France.\" indicating this is an individual applicant.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, Content Creation, Decentralized Finance (DeFi)",
-  "pwCategory": "Community & Social Engagement"
+  "pwCategorySuggestions": "Community Building, Content Creation, Decentralized Finance (DeFi)"
 }

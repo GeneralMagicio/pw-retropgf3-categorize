@@ -1,5 +1,5 @@
 {
-  "applicantType": "PROJECT",
+  "applicantType": "INDIVIDUAL",
   "websiteUrl": "htttps://www.spam.com",
   "bio": "I'm spam, I violate the application rules :) ",
   "contributionDescription": "I'm spam  I'm spam I'm spam I'm spam I'm spam I'm spam I'm spam I'm spam I'm spam I'm spam I'm spam I'm spam I'm spam I'm spam I'm spam I'm spam I'm spam I'm spam I'm spam I'm spam I'm spam I'm spam I'm spam I'm spam I'm spam I'm spam I'm spam I'm spam I'm spam I'm spam ",
@@ -10,7 +10,9 @@
       "description": "Spaaaam"
     }
   ],
-  "impactCategory": ["OP_STACK"],
+  "impactCategory": [
+    "OP_STACK"
+  ],
   "impactDescription": "I'm spam I'm spam I'm spam I'm spam I'm spam I'm spam I'm spam I'm spam I'm spam I'm spam I'm spam I'm spam I'm spam I'm spam I'm spam I'm spam I'm spam I'm spam I'm spam I'm spam I'm spam I'm spam I'm spam I'm spam I'm spam I'm spam I'm spam I'm spam I'm spam ",
   "impactMetrics": [
     {

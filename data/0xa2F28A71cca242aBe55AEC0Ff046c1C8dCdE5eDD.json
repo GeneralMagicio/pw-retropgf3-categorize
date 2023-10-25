@@ -1,5 +1,5 @@
 {
-  "applicantType": "PROJECT",
+  "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://twitter.com/KMatiDev1",
   "bio": "Based in both Bangkok and Chiangmai, I'm deeply interested in integrating AI into Blockchain analytics. I enjoy build in public and advocate tech.",
   "contributionDescription": "We streamline the process of launching analytics dashboards based on on-chain data, decoupling users from Dune Analytics. \n\nWe offer an alternative way to host your own data pipeline, without the need for specialized data engineer knowledge. \n\nThis means that new chains and roll-ups can have an analytics platform from day zero. There's no longer any need to wait for Dune to sync your network. \n\nThis approach could expedite the creation of new dashboards and enhance transparency for new roll-ups.",
@@ -38,6 +38,5 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, this application should be categorized as \"INDIVIDUAL\" as the bio section includes first person pronouns like \"I\" and \"me\".",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Blockchain Infrastructure, Web3 Community Platform, Developer Ecosystem",
-  "pwCategory": "Blockchain & Technology"
+  "pwCategorySuggestions": "Blockchain Infrastructure, Web3 Community Platform, Developer Ecosystem"
 }

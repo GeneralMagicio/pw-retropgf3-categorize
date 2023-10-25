@@ -1,5 +1,5 @@
 {
-  "applicantType": "PROJECT",
+  "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://cometh.io/",
   "bio": "CEO @Cometh, president @Ethereum_France, host @EthCC, associate professor in conomics @LeCnam",
   "contributionDescription": "DAC for OP Stack (similar to Arbitrum's Anytrust)\nDA client able to:\n1 Post a batch. This method returns what we call a batch reference. A batch reference contains enough information to retrieve the original payload. It's also serializable to an L1 transaction.\n- In the basic rollup mode this is a no-op. The reference is the payload itself.\n- In the DAC mode it will upload the payload to the DAC and return all the information required 2- to verify signatures and fetch the payload later.\n2 Retrieve a batch. From a serialized batch reference, it returns the associated payload.\n- In the basic rollup mode it means returning the reference itself, because the reference is the payload.\n- In the DAC mode, it means deserialize the batch reference and query the DAC to get the payload back.",
@@ -46,6 +46,5 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO. The applicant is described as the CEO of Cometh, which should make the applicantType \"INDIVIDUAL\", not \"PROJECT\".",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Layer 2 Scaling, Decentralized Autonomous Organizations (DAOs), Blockchain Infrastructure",
-  "pwCategory": "Decentralized Governance & Platform"
+  "pwCategorySuggestions": "Layer 2 Scaling, Decentralized Autonomous Organizations (DAOs), Blockchain Infrastructure"
 }

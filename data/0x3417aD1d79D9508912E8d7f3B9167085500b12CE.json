@@ -1,5 +1,5 @@
 {
-  "applicantType": "PROJECT",
+  "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://www.turboeth.xyz/",
   "bio": "Gm Frens! I'm Justin a core contributor to TurboETH. ",
   "contributionDescription": "TurboETH is a web3 build system that helps developers scaffold a full-stack web3 application in minutes. Instead of manually integrating the protocols and tools that you need into your application, TurboETH lets devs easily pick the tools they want to use via our CLI, and automatically adds the integration alongside helper functions to the project. \n\nWe’ve also launched an open-source web3 component library called BUIDL. The library is an extension of shadcnUI, and gives devs pre-built components for their most common crypto interactions.",
@@ -114,6 +114,5 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, the application is incorrectly categorized. Although the applicant, Justin, is part of a project (TurboETH), the bio suggests that it is an individual application, not a project one.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Smart Contract Platforms, Developer Ecosystem, End-User Experience",
-  "pwCategory": "Developer Tools & Utilities"
+  "pwCategorySuggestions": "Smart Contract Platforms, Developer Ecosystem, End-User Experience"
 }

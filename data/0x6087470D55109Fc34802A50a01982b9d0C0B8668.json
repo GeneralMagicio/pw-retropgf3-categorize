@@ -1,5 +1,5 @@
 {
-  "applicantType": "PROJECT",
+  "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://www.asharib.xyz/",
   "bio": "I'm a passionate and dedicated Developer, Designer, and Manager with over 3+ years of experience in Product Development, UI/UX Designs, and Project Management.",
   "contributionDescription": "We have created special chatbots for the Optimism blockchain, finely tuned to its details. We aim to simplify complex blockchain technology for everyone in the Optimism community, from beginners to experts. These chatbots guide users, answer questions, and make using Optimism easier for everyone, all at no cost. They also assist developers, making blockchain development smoother and fostering growth in the Optimism community.",
@@ -60,6 +60,5 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, the application is from an individual acting as a representative of a project because the bio describes personal skills and experience.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Developer Ecosystem, User Experience & Adoption, Community Building",
-  "pwCategory": "Community Building & Governance"
+  "pwCategorySuggestions": "Developer Ecosystem, User Experience & Adoption, Community Building"
 }

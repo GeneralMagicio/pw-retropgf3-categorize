@@ -1,5 +1,5 @@
 {
-  "applicantType": "INDIVIDUAL",
+  "applicantType": "PROJECT",
   "websiteUrl": "https://gregskril.com/",
   "bio": "I like building apps on web3 protocols like ENS and Farcaster. DevRel @ ENS Labs.",
   "contributionDescription": "Over the past year and a half, I've built over 5 standalone projects for the Farcaster ecosystem, a social protocol on OP Mainnet. These range from developer APIs to user-friendly frontends for smart contracts. The largest is Searchcaster, a free and open-source search engine that has served 75M API requests in the last 12 months and is used by some of the most popular apps that integrate Farcaster.",

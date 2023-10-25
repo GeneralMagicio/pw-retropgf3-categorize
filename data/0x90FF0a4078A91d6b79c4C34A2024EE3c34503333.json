@@ -1,5 +1,5 @@
 {
-  "applicantType": "PROJECT",
+  "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://medium.com/@Blockchain_Space",
   "bio": "Content creator, I'm a fan of Web 3 and decentralization.",
   "contributionDescription": "Several articles aimed at Russian speakers.\nI have published several articles that talk about blockchain, the Optimims project, its features, and how it helps solve Ethereum’s problems, such as high transaction costs and slow transactions.\nThe articles are full of information",
@@ -10,7 +10,9 @@
       "description": "Articles about Optimism and blockchain "
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "Since the English language is a barrier for many people to understand blockchain or understand the Optimism project, I created a series of articles in Russian to make it easier for Russian speakers to learn about blockchain and the Optimism project.\nMy articles contribute to attracting new users.",
   "impactMetrics": [
     {

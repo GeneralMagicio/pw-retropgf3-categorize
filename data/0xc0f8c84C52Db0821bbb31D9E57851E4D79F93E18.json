@@ -1,5 +1,5 @@
 {
-  "applicantType": "PROJECT",
+  "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://blockchainbytesdaily.com/",
   "bio": "I build Web3 products and make sure they are accessible to the masses. I also market those products and aim to decrease the gap between users and web3 tech.",
   "contributionDescription": "Our contribution to Optimism is multi-faceted and centered around fostering a more informed, connected, and trustworthy blockchain ecosystem.\n\nOur commitment to education benefits end users by providing them with accurate and unbiased information. This knowledge empowers them to confidently engage with blockchain technologies, aligning with our aim to take the community away from Fear, Uncertainty, and Doubt (FUD) and bring them closer to reality.\n\nUpholding ethical journalism standards also contributes to trust and transparency within the industry, making blockchain technologies, including Optimism, more accessible and appealing to end users.",
@@ -10,7 +10,9 @@
       "description": "Badgeholders can learn more about our contributions on our official website."
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "The contributions of the Blockchain Bytes Daily (BBD) significantly impact the Optimism Collective, nurturing a well-informed, engaged, and interconnected community. BBD offers valuable insights and education to the broader blockchain community, guiding users towards adopting blockchain technologies, including the latest OP stack chains and platforms built upon them. \n\nUpholding ethical journalism amplifies trust and transparency, bolstering the credibility of projects such as Optimism. \n\nFurthermore, our developer-centric coverage supports the expansion of the Optimism ecosystem. Overall, BBD has cultivated a more educated, engaged, and trustworthy blockchain environment, aligning with the goals of the Optimism Collective.",
   "impactMetrics": [
     {

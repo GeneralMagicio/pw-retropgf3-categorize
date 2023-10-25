@@ -1,5 +1,5 @@
 {
-  "applicantType": "PROJECT",
+  "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://silverdoor.ai",
   "bio": "Hello, I am a DAO contributor from MetaFactory, MetaGame and RaidGuild which started an amazing group called SilverDoor. ",
   "contributionDescription": "Senechal revolutionizes the way blockchain communities manage their governance structures. We built a whitelabel front end that streamlines the process of proposals, approvals, claims, and significantly enhances the efficiency and transparency for communities.\n\nSenechal’s use of The Hat’s protocol for role management clearly define responsibilities within the community and leads to better accountability and coordination among members.\n\nSenechal serves as a catalyst for more organized, and efficient DAO communities. Its impact extends beyond individual communities to influence industry-wide best practices for blockchain governance.",
@@ -37,6 +37,5 @@
   "pwIsFlagged": false,
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, the application is incorrectly categorized as a project. The bio indicates it is an individual who contributes to multiple projects.",
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Category: Governance Tools & Practices"
+  "pwApplicantTypeChecked": true
 }

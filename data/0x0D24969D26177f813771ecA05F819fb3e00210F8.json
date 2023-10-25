@@ -1,5 +1,5 @@
 {
-  "applicantType": "PROJECT",
+  "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://x.com/seneel12?t=bWiLMunbzsCUqGBOptkCnw&s=09",
   "bio": "Hard work pay",
   "contributionDescription": "Become an Optimism Ambassador\nHello everyone! I am andyferrer an independent trader, educator and researcher. I help traders develop their trading psychology and trading strategies. Creator in the Blockchain Ecosystem. I have 4 years of experience creating blockchain-related content and I have been in the blockchain space since 2018.\n\nI have experience in Insured Finance as Social Media Manager and it helped me to improve myself in marketing area and having networks. ",
@@ -49,6 +49,5 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, the applicant talks about \"I\" and \"me\" indicating that it is an individual, not a project.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Content Creation, Community Building, Blockchain Education",
-  "pwCategory": "Community Building & Governance"
+  "pwCategorySuggestions": "Content Creation, Community Building, Blockchain Education"
 }

@@ -1,5 +1,5 @@
 {
-  "applicantType": "PROJECT",
+  "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://twitter.com/billy45331597/media",
   "bio": "My name is Billy, I'm the real Optimism fanboy",
   "contributionDescription": "I vote or delegate for every proposal, I provide TVL on Defi, I lend & borrow a token, I buy & sell a token & NFT, give it a try the new OP stack chain such as BASE & ZORA, I tweet and share the Optimism news, I love optimism so much, I've never used other chain as much as Optimism. ",
@@ -66,6 +66,5 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, it is categorized as a project but the application is from an individual named Billy.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Finance (DeFi), Tokenization Platforms, Community Building",
-  "pwCategory": "Community Building & Governance"
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Tokenization Platforms, Community Building"
 }

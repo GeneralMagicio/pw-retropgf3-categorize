@@ -1,5 +1,5 @@
 {
-  "applicantType": "PROJECT",
+  "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://ournetwork.substack.com/",
   "bio": "OurNetwork is the leading crypto analytics newsletter & community, featuring data-driven insights and analysis on the top projects in crypto every week.",
   "contributionDescription": "OurNetwork is a free crypto analytics newsletter and community of more than 300 analysts and 29,000 readers from around the world. Published by Spencer Noon (that’s me 👋) and produced by our analyst community, the newsletter provides weekly data-driven insights and analysis on the top projects in crypto, including Optimism and the OP ecosystem. \n\nClick here to view Full Application, including key our contributions to Optimism: https://docs.google.com/document/d/1GXnwViZ8C7gEWjIE-WKjQvNKiYcpuYfZ7qZxG8BgwRs/edit?usp=sharing\n\nThanks in advance for reviewing and apologies for going beyond the character limit—there was a lot to say!",
@@ -63,6 +63,5 @@
   "pwIsFlagged": false,
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, this application is not correctly categorized. Despite being listed as a \"PROJECT,\" the application frequently refers to \"me\" (i.e., \"Published by Spencer Noon (that’s me 👋)\"), suggesting that this is an individual application.",
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Media Production"
+  "pwApplicantTypeChecked": true
 }

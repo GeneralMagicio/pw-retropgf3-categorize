@@ -1,5 +1,5 @@
 {
-  "applicantType": "PROJECT",
+  "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://twitter.com/AyeshaN33159540",
   "bio": "12 years + experience of teaching at senior secondary, undergraduate and post\ngraduate level.\nSelf-motivated team player, having excellent written and verbal.",
   "contributionDescription": "As a community member, I'm excited to share my contributions to the Optimism project. I've been actively engaged in several areas, and I'm eager to receive Retroactive Public Goods Funding for these efforts:\nEducational Outreach: I've been actively involved in educating the community about Optimism's technology and its potential impact on the blockchain ecosystem.\nCommunity Building: I've been part of the effort to grow the Optimism community.\nFeedback and Improvement: I've actively provided feedback and suggestions to the Optimism team.\n\nI'm grateful for the opportunity to participate in the Optimism project and am excited about the potential impact it can have on the blockchain space.",
@@ -47,6 +47,5 @@
   "pwIsFlagged": false,
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, it is not correctly categorized. The application should be categorized as an \"INDIVIDUAL\" because the applicant talks about their individual contributions using \"I\" and \"my\".",
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Community Building"
+  "pwApplicantTypeChecked": true
 }

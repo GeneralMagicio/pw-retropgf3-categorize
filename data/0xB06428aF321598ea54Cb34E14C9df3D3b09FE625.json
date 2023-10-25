@@ -1,5 +1,5 @@
 {
-  "applicantType": "PROJECT",
+  "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://drp-service.com.ua/",
   "bio": "hi.my name is Ruslan",
   "contributionDescription": "The closer the peak of the pandemic associated with the spread of coronavirus infection is, the more clearly another peak is felt - the peak of inventing and spreading speculation and rumors regarding the operation of ventilation and air conditioning systems and the harm from them.\n\nIn the current situation, it is necessary to dot all the i’s and honestly answer the most popular questions about the operation of ventilation and air conditioning systems during epidemics and pandemics. Moreover, it is not that difficult. The main thing is to be guided by basic knowledge from the field of hard currency and ordinary human logic.",
@@ -10,7 +10,9 @@
       "description": "700"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "The closer the peak of the pandemic associated with the spread of coronavirus infection is, the more clearly another peak is felt - the peak of inventing and spreading speculation and rumors regarding the operation of ventilation and air conditioning systems and the harm from them.\n\nIn the current situation, it is necessary to dot all the i’s and honestly answer the most popular questions about the operation of ventilation and air conditioning systems during epidemics and pandemics. Moreover, it is not that difficult. The main thing is to be guided by basic knowledge from the field of hard currency and ordinary human logic.",
   "impactMetrics": [
     {

@@ -1,5 +1,5 @@
 {
-  "applicantType": "PROJECT",
+  "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://github.com/tudorpintea999",
   "bio": "A guy honestly passionate about automating things.",
   "contributionDescription": "The installation process was time-consuming, often taking up to 6 hours to complete. \nWith the introduction of Validato, we've slashed the installation time down to a mere 5 minutes. This represents a time reduction of over 99%, enabling rapid deployment and integration.\n\n\nThe installation process was complex, requiring technical expertise. This barrier prevented many potential users, especially those without a technical background.\nNow, even non-technical individuals can run and install the node. This widens the user base.\n\n\nWith the installation process simplified, the ecosystem is poised for faster growth. In essence, Validato has not only brought about efficiency but has also set the stage for accelerated growth in the ecosystem.",
@@ -10,7 +10,10 @@
       "description": "The scripts to run and install the validator node on mainnet & testnet."
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "\nValidato is designed to streamline processes that were previously manual and time-consuming. While exact time savings are yet to be quantified, the tool aims to significantly reduce the time users spend on installing the node.\n\n\nOrganizations and individuals can potentially reallocate resources more effectively. Instead of dedicating time and manpower to manual tasks, they can focus on strategic initiatives and growth opportunities.\n\n\n\n While the immediate impact is the tool itself, the long-term impact is fostering a culture of innovation and adaptability.\nAutomation reduces the chances of human error.\nWhile the exact numbers and achievements will provide a clearer picture in the future, the anticipated benefits of the Validato position it as a game-changer for the ecosystem.",
   "impactMetrics": [
     {

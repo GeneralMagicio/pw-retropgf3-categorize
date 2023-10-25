@@ -1,5 +1,5 @@
 {
-  "applicantType": "INDIVIDUAL",
+  "applicantType": "PROJECT",
   "websiteUrl": "https://twitter.com/sollin8",
   "bio": "stand with crypto",
   "contributionDescription": "we are delegating OP token, we are minting the NFT of OP chain and doing transaction, we are observing and doing transactions on the Dapps, we are donating through https://passport.gitcoin.co, we are bridging, swapping, staking, purchasing, adding liquidity pool ",
@@ -10,7 +10,9 @@
       "description": "delegating "
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "we are delegating OP token, we are minting the NFT of OP chain and doing transaction, we are observing and doing transactions on the Dapps, we are donating through https://passport.gitcoin.co, we are bridging, swapping, staking, sending token, adding liquidity pool ",
   "impactMetrics": [
     {

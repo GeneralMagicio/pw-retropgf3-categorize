@@ -1,5 +1,5 @@
 {
-  "applicantType": "PROJECT",
+  "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://twitter.com/tdf500",
   "bio": "na",
   "contributionDescription": "swap ,brigde,.........................................................                                                                                                                                                                                                            ",
@@ -10,7 +10,10 @@
       "description": "q"
     }
   ],
-  "impactCategory": ["COLLECTIVE_GOVERNANCE", "DEVELOPER_ECOSYSTEM"],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM"
+  ],
   "impactDescription": "no,...............................................................,..,.,.,.,.,.,.,.,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,..,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,",
   "impactMetrics": [
     {

@@ -1,5 +1,5 @@
 {
-  "applicantType": "INDIVIDUAL",
+  "applicantType": "PROJECT",
   "websiteUrl": "https://www.cryptokingdomwork.com/",
   "bio": "We believe in the power of cryptocurrency bringing opportunities to all of us.",
   "contributionDescription": "I have been around the Crypto space as a whole now for about 4 years. In that time I've learned a lot, been scammed (like all of us pretty much), invested, gone down the rabbit hole, and have joined some amazing communities along the way that are like family. \n\nI believe in the power of cryptocurrency and the opportunities of freedom it provides and Optimism is one of those ways. While I may not be a developer, I am trying to use influence and high quality content, including relationship building, to bring a greater awareness of crypto around the world. And I believe it's a good work we can do across the board to better us as a society. \n\nI'll be continuing to do that with our without help but I sure would love help and support along the way so I'm trying to make a statement for that here.",
@@ -10,7 +10,9 @@
       "description": "Github"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "I believe in the power of cryptocurrency and the opportunities of freedom it provides and Optimism is one of those ways. While I may not be a developer, I am trying to use influence and high quality content, including relationship building, to bring a greater awareness of crypto around the world. And I believe it's a good work we can do across the board to better us as a society. And I hope that continues to build within the collective.",
   "impactMetrics": [
     {

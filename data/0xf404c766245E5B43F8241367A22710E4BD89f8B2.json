@@ -1,5 +1,5 @@
 {
-  "applicantType": "PROJECT",
+  "applicantType": "INDIVIDUAL",
   "websiteUrl": "Https://youtube.com/@kopibacan",
   "bio": "Im handsome",
   "contributionDescription": "Optimism give me much better experience especially for the blockchain ecosystem and the project of testnet and make me happy to learn something new . If im eligible to this chance i will keep support this project until moon. From the tokenomics im interested to join",
@@ -10,7 +10,9 @@
       "description": "Amazing"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "Optimism give me much better experience especially for the blockchain ecosystem and the project of testnet and make me happy to learn something new . If im eligible to this chance i will keep support this project until moon. And after i read on the tokenomics im interest to join this",
   "impactMetrics": [
     {

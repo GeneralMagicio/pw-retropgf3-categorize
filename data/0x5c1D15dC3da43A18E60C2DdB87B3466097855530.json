@@ -1,5 +1,5 @@
 {
-  "applicantType": "PROJECT",
+  "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://oecon.substack.com/",
   "bio": "I lead Blockchain@USC's gov team, and we are a top delegate at the Optimism Collective. I'm a numba-nerd, ex- data scientist at Souq.finance. ",
   "contributionDescription": "I invested substantial time creating an Optimism Governance Dashboard on Dune that enables real-time tracking of proposals, participation statistics, voting trends, and delegate activity to promote transparency in Optimism's on-chain governance. My dashboard visualizes key metrics like total proposals, votes cast, voter involvement over time, top delegate voting power and participation ratios, inactive delegate counts, and underrated but active delegates. It allows querying single-delegate's voting histories and power changes. I also created tables summarizing all proposals and delegate profiles for easy reference.",
@@ -80,6 +80,5 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, the application is not correctly categorized. Despite having a project-like name, the application talks about \"I\" showing that the applicant is an individual, not a project.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Governance & Tokens, Blockchain Infrastructure, Developer Ecosystem",
-  "pwCategory": "Governance Tools & Practices"
+  "pwCategorySuggestions": "Governance & Tokens, Blockchain Infrastructure, Developer Ecosystem"
 }

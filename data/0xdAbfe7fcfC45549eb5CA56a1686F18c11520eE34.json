@@ -1,5 +1,5 @@
 {
-  "applicantType": "PROJECT",
+  "applicantType": "INDIVIDUAL",
   "websiteUrl": "http://dmeter4dmrv.org/",
   "bio": "I am a environmental technologist that is optimistic we can use web3 technology to create public good! ",
   "contributionDescription": "To empower open source coders, Base offers initial contracts, and Code Connect helps onboard relevant methodologies for regenerative finance into Optimism. By incorporating decentralized monitoring, reporting, and verification (dMRV) of regenerative actions, such as tree planting for clean air, into Optimism, we support our goal of funding public good and enhance understanding of the technology's benefits. Connected methods are analyzed and stored in a data claim resolution NFT, designed for Filecoin's tech stack. Throughout development, we adhere to international standards like the Ecological Benefits Framework. Recently, we conducted a real-life dMRV trial for a land regeneration organization using a specialized tech stack from Athena Protocol, later with Althea connectivity devices.",
@@ -20,7 +20,10 @@
       "description": "This is the contract deployed on Base for Code Connect"
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "Through dMeter we have channeled over 50k dollars’ worth of funding to open source coders creating a decentralized monitoring, reporting and verification (dMRV) system. This system has already been used by projects on the ground doing regenerative work and has plans to expand globally. By creating these mechanisms, we can further empower the Optimism tech stack for monitoring the profound impact public good funding has and the cascading benefits that result from it. The initlal codebases we have created, such as Code Connect and data claim resolution NFT, further empower Optimism’s tech stack for the use of regenerative finance projects.  ",
   "impactMetrics": [
     {

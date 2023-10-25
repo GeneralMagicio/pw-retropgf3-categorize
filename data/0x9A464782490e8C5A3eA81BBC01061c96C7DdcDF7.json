@@ -1,5 +1,5 @@
 {
-  "applicantType": "PROJECT",
+  "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://twitter.com/nickheale",
   "bio": "Crypto lover and cross chain surfer!",
   "contributionDescription": "I have ben an active contributor to the chain, I did the Optimism quests and contributed by being actively involved in various Discord groups for apps on the blockchain.  I believe my activity on the chain, often interacting with smart contracts without much rigorous testing previously will have helped the eco system generally.",
@@ -40,6 +40,5 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO. The application is made by an individual not a project as the applicant uses terms such as \"I\" and \"my\" in the descriptions provided.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Developer Ecosystem, Cross-Chain Platforms, Community Building",
-  "pwCategory": "Community Building & Governance"
+  "pwCategorySuggestions": "Developer Ecosystem, Cross-Chain Platforms, Community Building"
 }

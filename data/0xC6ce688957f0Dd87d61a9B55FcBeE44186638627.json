@@ -1,5 +1,5 @@
 {
-  "applicantType": "INDIVIDUAL",
+  "applicantType": "PROJECT",
   "websiteUrl": "https://twitter.com/dutchyzbae",
   "bio": "hello world!",
   "contributionDescription": "The future belongs to those who believe in the beauty of their dreams. Optimism is a mental attitude characterized by hope and confidence in success and a positive future. Optimists tend to view hardships as learning experiences or temporary setbacks. Even the most miserable day holds the promise for them that “tomorrow will probably be better.” Optimists expect good things to happen, whereas pessimists instead predict unfavorable outcomes. Optimistic attitudes are linked to several benefits, including better coping skills, lower stress levels, better physical health, and higher persistence when pursuing goals\n",
@@ -10,7 +10,9 @@
       "description": "Community is key"
     }
   ],
-  "impactCategory": ["OP_STACK"],
+  "impactCategory": [
+    "OP_STACK"
+  ],
   "impactDescription": "I'm so glad to have been given the opportunity to participate this event. The Optimism Collective is a group of companies, communities, and citizens working together to reward public goods and build a sustainable future for Ethereum. The collective aims to dispel the myth that public goods cannot be profitable by deploying a new model for rewarding those who create or sustain public goods - retroactive public goods funding (RetroPGF) - to support projects and communities building for the common good. RetroPGF is advantageous because it is relatively easy to agree on what is useful and see who built it. It is a lot harder to identify in advance what will be useful and which team will do the best job of building it.",
   "impactMetrics": [
     {

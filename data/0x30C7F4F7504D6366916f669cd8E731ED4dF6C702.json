@@ -1,5 +1,5 @@
 {
-  "applicantType": "PROJECT",
+  "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://app.1w3.io/Links/bosco",
   "bio": "Love Freedom and Public Goods 💚 I am bosco.eth. I do like amplifying, learning, sharing and helping. I'm now full time at the infinite garden.",
   "contributionDescription": "Onboarding, Governance, fostering Cross-DAO Communication, funding Public Goods and testing mechanisms, augmenting signal to noise ratio online and onchain around public goods.\nOnboarding: Helped people mainly from underprivileged regions of Argentina to onboard to Ethereum ecosystem, Proof of Humanity and migrate from custodial services to non-custodial layer 1 (Ethereum) and layer 2 (Optimism and OpStack). Presented incentives alignment, use of blockchain and impact on Public Goods to the community at “Congreso Nacional 1° Edición – Gestión del Agua en Ciudades Sostenibles  “Experiencia de Uso Eficiente del Agua en Distintos Lavados Cotidianos” Villa Dolores, Córdoba, Argentina, Oral Presenter (2022).\nNominated Proof of Humanity to RPGF1. \n",
@@ -89,6 +89,5 @@
   "pwCategorySuggestions": "Community Building, User Experience & Adoption, Governance & Tokens",
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, it is not correctly categorized. Despite being labeled as a project, the application predominantly uses first-person language \"I\" indicating an individual applicant.",
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Community Building & Governance"
+  "pwApplicantTypeChecked": true
 }

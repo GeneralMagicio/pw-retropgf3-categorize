@@ -1,5 +1,5 @@
 {
-  "applicantType": "PROJECT",
+  "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://ph.linkedin.com/in/harvey-aliatan-8419a4293",
   "bio": "Graphic designer, Community mod and ambassador to 3 unknown projects",
   "contributionDescription": "I made a meaningful contribution to optimism by initiating a comprehensive discussion on Medium, delving into its significance within the crypto space and its future implications. Exploring its purpose and potential, I aimed to foster a deeper understanding among readers, thereby promoting a positive outlook on the evolving landscape of cryptocurrencies.",
@@ -45,6 +45,5 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, the application is about an individual contribution to a project, not the project itself. The applicant talks about \"I\" and has LinkedIn profile - signs of being an individual.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Blockchain Education, Community Building",
-  "pwCategory": "Blockchain Education"
+  "pwCategorySuggestions": "Blockchain Education, Community Building"
 }

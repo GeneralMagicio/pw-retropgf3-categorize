@@ -1,5 +1,5 @@
 {
-  "applicantType": "PROJECT",
+  "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://github.com/blockchain-etl",
   "bio": "I'm the creator of the open source project Blockchain ETL and a co-founder of the blockchain analytics platform Nansen.ai",
   "contributionDescription": "- EthereumETL has been described as the most useful open-source project for facilitating data science on Ethereum data. Almost 2700 stars on our GitHub project show how many people use the tools we developed. \n- The same tools are available for analyzing Optimism data, with Optimism-specific fields added in this pull request: https://github.com/blockchain-etl/ethereum-etl/pull/446\n- Ethereum ETL powers the database behind the Optimism Gas Tracker, as confirmed here: https://twitter.com/MSilb7/status/1686823154713296897\n- Additionally, a public BigQuery Ethereum dataset, published in collaboration with Google and utilizing EthereumETL, has proven valuable to numerous companies and individuals by enabling research, data science, and the development of data-driven applications\n",
@@ -66,6 +66,5 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, the application is not correctly categorized. Despite being named as a project, the submission has individualistic language such as \"I'm the creator of the open source project Blockchain ETL and a co-founder of the blockchain analytics platform Nansen.ai\".",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Blockchain Infrastructure, Developer Ecosystem, Data Analytics",
-  "pwCategory": "Data Analytics"
+  "pwCategorySuggestions": "Blockchain Infrastructure, Developer Ecosystem, Data Analytics"
 }

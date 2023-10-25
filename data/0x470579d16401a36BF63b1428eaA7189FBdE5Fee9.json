@@ -1,5 +1,5 @@
 {
-  "applicantType": "INDIVIDUAL",
+  "applicantType": "PROJECT",
   "websiteUrl": "https://optimismchat.org",
   "bio": "Ask me anything about Optimism",
   "contributionDescription": "We developed Optimism AI Chatbot that will provide up-to-date information, potentially saving each Optimism member or community at least one hour daily. \n\nEvery day, platforms like Discourse and Discord are inundated with new inquiries. Many newcomers hesitate to ask questions, fearing they might appear uninformed. Simultaneously, even long-standing members often struggle to locate specific information. To address these challenges, we developed a chatbot to enhance the user experience for both new and seasoned Optimism members.\n\nNote: This is v1, and we aim to improve the intelligence by at least 100x over next few months.",

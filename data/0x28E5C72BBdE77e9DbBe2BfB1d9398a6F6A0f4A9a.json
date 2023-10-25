@@ -1,5 +1,5 @@
 {
-  "applicantType": "INDIVIDUAL",
+  "applicantType": "PROJECT",
   "websiteUrl": "https://app.optimism.io/",
   "bio": "crypto lover",
   "contributionDescription": "Optimism can protect against depression — even for people who are at risk for it. An optimistic outlook makes people more resistant to stress. Optimism may even help people live longer. The best thing about optimism is you can learn it, even if your outlook tends to be more pessimistic",
@@ -10,7 +10,9 @@
       "description": "web3"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "Optimism can protect against depression — even for people who are at risk for it. An optimistic outlook makes people more resistant to stress. Optimism may even help people live longer. The best thing about optimism is you can learn it, even if your outlook tends to be more pessimistic",
   "impactMetrics": [
     {

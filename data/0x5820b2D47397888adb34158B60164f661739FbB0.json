@@ -1,5 +1,5 @@
 {
-  "applicantType": "PROJECT",
+  "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://optracker.org/",
   "bio": "I'm a software engineer with a focus in Data Engineering and Analytics. I want to make OpTracker.org the premier hub for OP data analytics.",
   "contributionDescription": "OpTracker is dedicated to providing comprehensive on-chain analytics for Optimism tokens. The site started as a personal project, and I've decided to make it public. It currently tracks all large OP token transactions in real-time, provides a daily history of large OP wallets and historical price history. The website also offers an open API for accessing all the data.",
@@ -55,6 +55,5 @@
   "pwIsFlagged": false,
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, the application is incorrectly categorized as \"PROJECT\". It should be \"INDIVIDUAL\" as the \"bio\" section indicates that it is an individual software engineer who is working on the project.",
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Blockspace & Data Analytics"
+  "pwApplicantTypeChecked": true
 }

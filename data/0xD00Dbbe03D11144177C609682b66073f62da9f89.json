@@ -1,5 +1,5 @@
 {
-  "applicantType": "PROJECT",
+  "applicantType": "INDIVIDUAL",
   "websiteUrl": "Https.://www.twitter.com/Rizkyalpasha2",
   "bio": "Be yourself ",
   "contributionDescription": "make any contribution that always builds a solid community, whatever it is, always be ready to be together..give each other positive input and encouragement so that we can move forward together.\nWhatever is given, I am still very grateful, because the optimism chain will always be in my heart forever. Joining as one of the supporters is already an honor for me.",
@@ -10,7 +10,10 @@
       "description": "My identity"
     }
   ],
-  "impactCategory": ["COLLECTIVE_GOVERNANCE", "OP_STACK"],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "OP_STACK"
+  ],
   "impactDescription": "spreading positive values for all who participate, unite to foster.\npositive feedback, making the community more accessible to all people, I will maximize my performance in this regard.It is an honor for me personally to be involved in this contribution.",
   "impactMetrics": [
     {

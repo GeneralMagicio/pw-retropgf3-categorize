@@ -1,5 +1,5 @@
 {
-  "applicantType": "PROJECT",
+  "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://twitter.com/0xzshuvo",
   "bio": "Hi I'm here 👋👋",
   "contributionDescription": "Hi I'm here it's my first project for future free airdrop on iphone XR the same size as the moon and back to work tomorrow and I will be there in about a half hour and a half hour and a half hour and a half hour and a half hour and a half hour and a half hour and a half hour and a half figure out how to get more collection of course I have to go to ",
@@ -10,7 +10,9 @@
       "description": "You can help me with the "
     }
   ],
-  "impactCategory": ["OP_STACK"],
+  "impactCategory": [
+    "OP_STACK"
+  ],
   "impactDescription": "Hi I'm here for you can you can help me with your project for the moon and back to work tomorrow and I will be there in about a half hour and a half hour and a half hour and a half hour and a half hour and a half hour and a half hour and a half hour and a ",
   "impactMetrics": [
     {

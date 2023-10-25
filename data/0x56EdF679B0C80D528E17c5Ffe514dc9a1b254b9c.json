@@ -1,5 +1,5 @@
 {
-  "applicantType": "PROJECT",
+  "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://grapebaba.github.io/",
   "bio": "I am an OSS developer focus on blockchain area. I am working on a project Hildr which expect to implement the whole OP tech stack with Java/Kotlin. ",
   "contributionDescription": "For OP rollup client diversity, I created Hildr project which implemented OP rollup client with Java. It already supported Bedrock mainnet, testnet and Base mainnet, testnet. It is the third rollup client implementation besides the official Go version and a16z Rust version.",
@@ -56,6 +56,5 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, this application should be categorized as INDIVIDUAL because the bio refers to \"I\" and \"me\", indicating that the applicant is an individual.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Layer 2 Scaling, Developer Ecosystem, Blockchain Infrastructure",
-  "pwCategory": "Layer 2 & Rollups"
+  "pwCategorySuggestions": "Layer 2 Scaling, Developer Ecosystem, Blockchain Infrastructure"
 }

@@ -1,5 +1,5 @@
 {
-  "applicantType": "PROJECT",
+  "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://www.wizkidayo.com",
   "bio": "Young Boy giving my all to cryptocurrency, and I’ll surely be useful to Optimism Collection.",
   "contributionDescription": "Got involved in Optimism 1 airdrop, Got involved in GRAIN token which was launched under Optimism. Minted BASE nfts under Optimism. Turned on Optimism notifications on Twitter. Hail Optimism as the best L2 on ethereum. Low gas fees and faster transactions. ",
@@ -47,6 +47,5 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, the application should be categorized as \"INDIVIDUAL\" as the applicant talks about personal actions like \"Got involved in\", \"Turned on notifications\", suggesting this application is made by an individual and not a project.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Layer 2 Scaling, NFT Aggregator, Web3 Community Platform",
-  "pwCategory": "Optimism & Layer 2 Solutions"
+  "pwCategorySuggestions": "Layer 2 Scaling, NFT Aggregator, Web3 Community Platform"
 }

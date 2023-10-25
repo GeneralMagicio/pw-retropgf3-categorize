@@ -1,5 +1,5 @@
 {
-  "applicantType": "PROJECT",
+  "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://twitter.com/optimismcis",
   "bio": "I'm passionate about Web3. I'm a content creator. I focus on creating content around blockchain technology and Web3.",
   "contributionDescription": "I am spreading the word about the Optimism project and spreading knowledge in the CIS regions, as I spread Optimism news and created tweets and topics about the project which helped bring many people and followers to become part of the Optimism ecosystem.\nAlso, I translated many tweets from English to Russian (I am not part of the translation team and will not receive any rewards from it because I did not post the links on Discord)",
@@ -38,6 +38,5 @@
   "pwIsFlagged": false,
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, the application is categorized as a \"PROJECT\" but it should be \"INDIVIDUAL\" as the application talks about \"I\" and \"me\", indicating it's an individual's work.",
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Category: Web3 Education & Adoption"
+  "pwApplicantTypeChecked": true
 }

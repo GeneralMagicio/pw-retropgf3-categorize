@@ -1,5 +1,5 @@
 {
-  "applicantType": "PROJECT",
+  "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://www.ravneelpratap.com",
   "bio": "I am a business man from Palo Alto, California, I have self autonomy of my life with the power a.i and want to speed up innovation.   ",
   "contributionDescription": "Over the course of my involvement with Optimism, my primary contribution has been centered on raising awareness and educating a diverse audience about its foundational values and the myriad benefits it offers. Recognizing the transformative potential of Optimism.",
@@ -45,6 +45,5 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, it is not correctly categorized because it talks about \"I\" and \"my,\" indicating it's an individual, not a project.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Blockchain Education, Tokenization Platforms",
-  "pwCategory": "Blockchain Education"
+  "pwCategorySuggestions": "Blockchain Education, Tokenization Platforms"
 }

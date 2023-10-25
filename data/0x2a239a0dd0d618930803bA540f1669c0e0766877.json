@@ -1,5 +1,5 @@
 {
-  "applicantType": "INDIVIDUAL",
+  "applicantType": "PROJECT",
   "websiteUrl": "https://linktr.ee/thebigmave",
   "bio": "Project Manager | Blockchain Expert | Web3 Master | Digital Marketer | Certified Metaverse Expert",
   "contributionDescription": "The Creath Art Marketplace is built on the Ethereum Blockchain and designed to be a digital gallery for artists, curators, collectors, and art lovers. We connect creatives such as traditional artists, digital artists, photographers and sculptors with collectors.\nThe marketplace attracts a global target audience that will participate in the primary sales of our curated collections.",
@@ -10,7 +10,10 @@
       "description": "NFT Marketplace"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION", "OP_STACK"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
   "impactDescription": "The utility token that facilitates transactions on the Creath Art Marketplace, enables platform governance and empowers its users. CGT holders play a beneficial role in the development of Creath by participating investment opportunities from staking and in decision-making processes.",
   "impactMetrics": [
     {

@@ -1,5 +1,5 @@
 {
-  "applicantType": "INDIVIDUAL",
+  "applicantType": "PROJECT",
   "websiteUrl": "https://omahairdrop.blogspot.com/",
   "bio": "cr7 fans",
   "contributionDescription": "Association of young people who want to establish a startup, I have an idea to develop a startup by creating a waste collection point, sorting and drying the waste, and then selling it to cement companies for fuel. This is because of the high amount of plastic waste in my area. I also have an idea to provide incentives in the form of optimism to introduce optimism to beginners. I want to demonstrate positive progress to the optimism community",
@@ -10,7 +10,9 @@
       "description": "OC"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "Introducing optimism to the general public. This is because of the high amount of plastic waste in my area. I also have an idea to provide incentives in the form of optimism to introduce optimism to beginners. I want to demonstrate positive progress to the optimism community.",
   "impactMetrics": [
     {

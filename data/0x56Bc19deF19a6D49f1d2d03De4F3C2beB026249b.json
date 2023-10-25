@@ -1,5 +1,5 @@
 {
-  "applicantType": "INDIVIDUAL",
+  "applicantType": "PROJECT",
   "websiteUrl": "https://www.220volt.com",
   "bio": "l F g",
   "contributionDescription": "bridge swap discord transaction bridge nft bridge token optimisme dan lain lain ajigggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggsaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaggggggggggg",
@@ -10,7 +10,9 @@
       "description": "lfg"
     }
   ],
-  "impactCategory": ["OP_STACK"],
+  "impactCategory": [
+    "OP_STACK"
+  ],
   "impactDescription": "brigdeasdadasssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssf",
   "impactMetrics": [
     {

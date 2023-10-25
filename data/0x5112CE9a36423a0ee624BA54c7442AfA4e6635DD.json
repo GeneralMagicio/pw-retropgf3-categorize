@@ -1,5 +1,5 @@
 {
-  "applicantType": "PROJECT",
+  "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://quraizt.com",
   "bio": " experimental and agile approach to governance relentlessly iterating towards a system which stands the test of time.",
   "contributionDescription": "We need more regenerative financing in the world that is utilizing blockchain technology to measure & display our accomplishments onchain. In the traditional world it is very difficult to show your impact if you have contributed towards something because there is no on chain ledger to create transparency.\n\nI have been studying :open_book: the Optimism network since early 2021 as a result of my blockchain development education.\n\nI’m thankful for the teachings that brought me to the Gitcoin & Optimism ecosystem. We are proud to be contributing towards this important initiative of sustainability.",
@@ -42,6 +42,5 @@
   "pwIsFlagged": false,
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO. The application is incorrectly categorized as it mentions \"I\" and \"me\", therefore it should be categorized as an INDIVIDUAL.",
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Decentralized Finance (DeFi)"
+  "pwApplicantTypeChecked": true
 }

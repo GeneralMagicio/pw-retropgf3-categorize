@@ -1,5 +1,5 @@
 {
-  "applicantType": "INDIVIDUAL",
+  "applicantType": "PROJECT",
   "websiteUrl": "http://www.degenset.io",
   "bio": "I am excited about the potential of \"Optimism Degenset\" and am dedicated to bringing this project to life.",
   "contributionDescription": "We are reaching out to you with a request for a grant to realize our ambitious initiative — the creation of the \"Optimism Degenset\" platform. Our goal is to unite users within the \"Optimism\" network, providing them with opportunities to enhance their financial knowledge, participate in collaborative projects within the network, and improve their financial well-being by granting access to exclusive bonuses and privileges.",
@@ -10,7 +10,9 @@
       "description": "under construction"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "The Purpose of the \"Optimism Degenset\" Project:\n\nTo bring together \"Optimism\" network members interested in improving their financial knowledge and investment skills.\n\nTo develop and launch the \"Optimism Degenset\" web platform, offering the following features:\n\nWallet Ratings: Users will be able to evaluate and compare their investment portfolios, receiving feedback from the community.\n\nCollaborations: Mechanisms will be created to facilitate participation in joint investment projects and research.\n\nExclusive Bonuses: Users with high ratings will gain access to exclusive offers and bonuses from partners within the \"Optimism\" network.\n\nNFT Ratings: Wallet ratings will be represented as unique NFTs, making them even more appealing to participants.",
   "impactMetrics": [
     {

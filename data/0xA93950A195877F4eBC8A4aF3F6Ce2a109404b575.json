@@ -1,5 +1,5 @@
 {
-  "applicantType": "PROJECT",
+  "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://streameth.org",
   "bio": "I'm Pablo, a web3 builder and founder of streamETH, also known as the streaming guy. I like to build video related software that uses blockchain tech.",
   "contributionDescription": "StreamETH is a OSS, Web3 powered virtual event platform that enables censorship-resistant live streaming and hosts an immutable video content archive onchain.\n\nThroughout the past year, we've amplified and brought onchain 20+ major industry events such as Devcon 6, Devconnect, Zuzalu, and more. By streaming these events, we’ve exposed Ethereum's developments to global audiences, highlighting topics like L2s, Technical Decentralisation, ZK, and DAO Governance, while simultaneously eliminating traditional attendance barriers.\n\nBy bringing workshops and presentations onchain, we've ensured their immutability, free from political censorship, bans, or other restrictions.\n\nIn addition, we crafted four interviews about RetroPGF2’s impact to boost engagement and registrations for RetroPGF3.\n\n",
@@ -107,6 +107,5 @@
   "pwIsFlagged": false,
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, the application is categorized as a project but the bio indicates that it is an individual.",
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Content & Media"
+  "pwApplicantTypeChecked": true
 }

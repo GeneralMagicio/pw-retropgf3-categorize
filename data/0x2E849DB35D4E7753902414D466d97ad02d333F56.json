@@ -1,5 +1,5 @@
 {
-  "applicantType": "PROJECT",
+  "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://www.youtube.com/@theblockchainreport",
   "bio": "I am a blockchain researcher helping to demystify digital assets and blockchain technology for new and experienced users.",
   "contributionDescription": "As stated in my profile, I am a blockchain researcher helping to demystify digital assets and blockchain technology for new and experienced users. My biggest focus has been performing quest campaigns around the ecosystem, as this is a perfect way for new users to get a better understanding of different projects and how to utilize digital assets, DeFi, and NFTs to their advantage. I have uploaded around 20 videos covering the Optimism Network and Ecosystem that includes an extensive multi-part series on the Optimism Quests from September thru November 2022.",
@@ -141,6 +141,5 @@
   "pwCategorySuggestions": "Content Creation, Community Building, User Experience & Adoption",
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, the application is not correctly categorized. Although the applicant uses a project-like name, the bio and contribution clearly points to an individual as it talks about \"I\" and \"my\".",
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Category: Content & Media"
+  "pwApplicantTypeChecked": true
 }

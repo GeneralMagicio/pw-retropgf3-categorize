@@ -1,5 +1,5 @@
 {
-  "applicantType": "PROJECT",
+  "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://twitter.com/0xdmo",
   "bio": "A crypto influencer and a UX Designer",
   "contributionDescription": "I'm actively contributing by developing a solution to address trust concerns in crypto swapping on the Ethereum (EMV) Blockchain, encompassing platforms like Optimism. Our tool ensures secure and reliable swaps, eliminating the need for trust in counterparties and promoting a trustless environment for all users.",
@@ -46,6 +46,5 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, the application is titled as a \"PROJECT\" but the descriptions given refer to individual efforts, indicated by uses of \"I\" and \"my\".",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Exchanges (DEXs), Trustless Swaps, Blockchain Infrastructure",
-  "pwCategory": "Decentralized Exchanges"
+  "pwCategorySuggestions": "Decentralized Exchanges (DEXs), Trustless Swaps, Blockchain Infrastructure"
 }

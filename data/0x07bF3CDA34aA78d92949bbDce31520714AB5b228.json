@@ -1,5 +1,5 @@
 {
-  "applicantType": "PROJECT",
+  "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://pcaversaccio.com",
   "bio": "👋 Hi I'm Pascal, a passionate security engineer, builder & entrepreneur working at the intersection of cryptography, distributed systems, and smart contracts.",
   "contributionDescription": "While there are plenty of Solidity libraries out there, nobody has been working on high-quality, secure, and easy-to-integrate library-like Vyper code. 🐍 snekmate fundamentally changed this! In one sentence: 🐍 snekmate are state-of-the-art, highly opinionated, hyper-optimised, and secure Vyper smart contract building blocks. Or in other words: What OpenZeppelin is for Solidity, 🐍 snekmate is for Vyper. 🐍 snekmate has helped numerous Vyper builders to kick start on the OP stack. Not only does client diversity matter but also language diversity!",
@@ -87,6 +87,5 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, it should be categorized as an INDIVIDUAL because the bio starts with \"Hi I'm Pascal,\" which indicates an individual, not a project.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Smart Contract Platforms, Developer Ecosystem, Blockchain Education",
-  "pwCategory": "Developer Resources"
+  "pwCategorySuggestions": "Smart Contract Platforms, Developer Ecosystem, Blockchain Education"
 }

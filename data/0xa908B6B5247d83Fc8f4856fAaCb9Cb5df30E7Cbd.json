@@ -1,5 +1,5 @@
 {
-  "applicantType": "PROJECT",
+  "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://icebreak-r.com",
   "bio": "Hey there! I'm Lethal, a web3 developer focused on cross-chain ecosystem development and expansion where our motto is always \"Learn, earn and grow together\".",
   "contributionDescription": "We have designed and deployed a novel utility for NFTs called \"Proof-Of-Bridging\" which brings increased user adoption cross-chain. These IceBreak-R Quest Badges work by incentivizing our free-mint series on four unique layer-2s. This is an evolution of the learn-to-earn model by which users can gain participation rewards simply for bridging, minting and holding NFTs in our ecosystem. \n\nThe primary goal is to encourage exploration of emerging blockchains and networks by new users by simplifying the onboarding process and/or bridging in. By creating free-mints which also reward the users over time we have aligned the incentives for all participants to drive adoption and curiosity.",
@@ -25,7 +25,9 @@
       "description": "IceBreak-R Quest Badge V4"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "Since launching our new Proof-Of-Bridging NFT series only 8 days ago we have already onboarded 19 unique wallet addresses (excluding myself) to the four various layer-2s, all built around the OP Superstack. New user have begun to explore and dig past the surface layers once they have bridged those funds, asking for new dapps and sites to connect to.\n\nThe main platform we are utilizing currently is Zora.co, whereby the users can continue to connect with other art projects, mint or have fun with NFT collections. Artists, cross-chain DeFi users and NFT collectors are all benefitting from our concepts and smart contracts by learning how to expand into new territory. Communities from Fantom, PulseChain, Hive and more are already coming together within our ecosystem to branch out to OP Stack.",
   "impactMetrics": [
     {

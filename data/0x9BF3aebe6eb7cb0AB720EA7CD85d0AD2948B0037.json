@@ -1,5 +1,5 @@
 {
-  "applicantType": "INDIVIDUAL",
+  "applicantType": "PROJECT",
   "websiteUrl": "https://twitter.com/theynine",
   "bio": "Beleive your self",
   "contributionDescription": "Retroactive Public Goods Funding (RetroPGF) is one of the leading economic experiments to help decentralize and grow crypto ecosystems. While still in its very early days, the Optimism Collective is excited to lead the charge on RetroPGF experimentation, and we aim to inspire more builders to contribute to the Optimism ecosystem with the hope – and expectation – of getting funded retroactively for their contributions.",
@@ -10,7 +10,9 @@
       "description": "Make optimus be 1 L2 on crypto"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "The diversity of projects funded during this round improved compared to Round 1. The majority of the funded projects in RetroPGF 2 were not specific to Optimism but were part of the broader Ethereum ecosystem. Funded projects spanned a wide range of areas, from infrastructure to education, and operated in different languages and regions.",
   "impactMetrics": [
     {

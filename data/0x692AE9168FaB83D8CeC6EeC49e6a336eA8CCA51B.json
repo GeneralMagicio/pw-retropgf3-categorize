@@ -1,5 +1,5 @@
 {
-  "applicantType": "PROJECT",
+  "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://www.youtube.com/@BlockchainWoman",
   "bio": "Welcome! I'm Victoria, a girl who is passionate about blockchain technology, the Web3 and The Optimism project!",
   "contributionDescription": "Many women do not have sufficient experience about blockchain technology, so I decided, through my YouTube channel, to provide educational content in order to create a generation of women who have the ability to participate in blockchain projects and have the experience to use the Optimism project and also participate in governance.",
@@ -39,6 +39,5 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, the application is incorrectly categorized as it is made by an individual named Victoria, as mentioned in the bio.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Blockchain Education",
-  "pwCategory": "Blockchain Education"
+  "pwCategorySuggestions": "Blockchain Education"
 }

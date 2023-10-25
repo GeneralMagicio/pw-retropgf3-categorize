@@ -1,5 +1,5 @@
 {
-  "applicantType": "PROJECT",
+  "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://twitter.com/0xKofi",
   "bio": "Onchain Data Nerd\nContributing @ DefiLlama and Alchemy",
   "contributionDescription": "𝗧𝗟𝗗𝗥\nA Dune dataset that makes it easy to query revenues and costs for all OP stack rollups and other L2s\n\n𝗗𝗲𝘀𝗰𝗿𝗶𝗽𝘁𝗶𝗼𝗻\nI created a Dune Spell table that has data on rollup \n- on-chain revenues (transaction fees)\n- costs (posting data to L1) \n- and raw materials (L1 calldata) of rollups\n\nIt automatically updates to support new OP stack rollups.\n\nHere is a demo showing how to query Base revenue using the new Spell\nhttps://youtu.be/T2_j_JlGeDQ\n\nThe dataset is a great tool that analysts can use to generate rollup business metrics for OP stack teams and their communities.",
@@ -39,6 +39,5 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, the application is categorized as a project but it clearly mentions activities carried out by an individual i.e., \"I created a Dune Spell table\".",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "On-chain Data Analytics",
-  "pwCategory": "Blockspace & Data Analytics"
+  "pwCategorySuggestions": "On-chain Data Analytics"
 }

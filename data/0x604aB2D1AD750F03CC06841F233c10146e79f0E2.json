@@ -1,5 +1,5 @@
 {
-  "applicantType": "PROJECT",
+  "applicantType": "INDIVIDUAL",
   "websiteUrl": "Https:teknologikomputer9.blogspot.com",
   "bio": "Hunter",
   "contributionDescription": "Contributing by providing detailed explanations about the Optimism Network to users. This involves answering their questions about how the network operates, its benefits in enhancing Ethereum's scalability, and providing real-world use case examples. Additionally, I offer insights into the distinctions between Optimism and the original Ethereum, as well as how transactions and smart contracts function within this network. Throughout user interactions, I consistently strive to furnish accurate information and assist them in gaining a thorough understanding of this blockchain technology.",
@@ -46,6 +46,5 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, the application is incorrectly categorized because it is an individual (\"I offer insights\") applying, not a project.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Smart Contract Platforms, Layer 2 Scaling, Blockchain Education",
-  "pwCategory": "Blockchain Education"
+  "pwCategorySuggestions": "Smart Contract Platforms, Layer 2 Scaling, Blockchain Education"
 }

@@ -1,5 +1,5 @@
 {
-  "applicantType": "PROJECT",
+  "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://github.com/kevaundray",
   "bio": "I am a software engineer with a focus on cryptography and compilers.",
   "contributionDescription": "We provide implementations of cryptographic primitives that help Ethereum and the broader blockchain ecosystem.\n\nPast contributions consisted of proto-danksharding, trusted setup ceremony and verkle trie.\n\nhttps://github.com/crate-crypto/go-ipa\nhttps://github.com/crate-crypto/go-kzg-4844\nhttps://github.com/crate-crypto/ceremony-specs\nhttps://github.com/ethereum/kzg-ceremony-sequencer",
@@ -49,6 +49,5 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, the applicant refers to himself as \"I\" in the bio, indicating that it is an individual not a project.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Cryptographic Implementations",
-  "pwCategory": "Cryptographic Implementations"
+  "pwCategorySuggestions": "Cryptographic Implementations"
 }

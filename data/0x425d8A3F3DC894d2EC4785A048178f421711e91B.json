@@ -1,5 +1,5 @@
 {
-  "applicantType": "PROJECT",
+  "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://www.linkedin.com/in/simon-alagbe/",
   "bio": "Financial Market Analyst",
   "contributionDescription": "Within my personal network, I've been actively promoting optimism, sharing insights, and encouraging a positive outlook. This involves discussing the importance of optimism and its potential impact on our lives and society at large. I strive to foster an environment where optimism thrives, encouraging those around me to embrace it as well.\n\nFurthermore, I make it a point to stay abreast of the ongoing developments associated with optimism. Whether it's through research, news, or community updates, I ensure that I'm well-versed in the latest trends and information. This knowledge empowers me to make informed choices and provide valuable insights to my family and friends.",
@@ -38,6 +38,5 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, it is not correctly categorized. The application contains the use of \"I\" and \"me\", indicating it is from an individual, not a project.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, Content Creation, Media Production",
-  "pwCategory": "Category: Community Building & Governance"
+  "pwCategorySuggestions": "Community Building, Content Creation, Media Production"
 }

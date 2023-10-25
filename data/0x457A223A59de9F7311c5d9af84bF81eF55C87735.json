@@ -1,5 +1,5 @@
 {
-  "applicantType": "PROJECT",
+  "applicantType": "INDIVIDUAL",
   "websiteUrl": "HTTPS://www.swask.com",
   "bio": "Jkvhş",
   "contributionDescription": "Describe your contribution(s) to Optimism\nPlease share the contributions you wish to receive RetroPGF for.Describe your contribution(s) to Optimism\nPlease share the contributions you wish to receive RetroPGF for.Describe your contribution(s) to Optimism\nPlease share the contributions you wish to receive RetroPGF for.",
@@ -10,7 +10,9 @@
       "description": "dfsdfsdfsdf"
     }
   ],
-  "impactCategory": ["OP_STACK"],
+  "impactCategory": [
+    "OP_STACK"
+  ],
   "impactDescription": "Describe your contribution(s) to Optimism\nPlease share the contributions you wish to receive RetroPGF for.Describe your contribution(s) to Optimism\nPlease share the contributions you wish to receive RetroPGF for.Describe your contribution(s) to Optimism\nPlease share the contributions you wish to receive RetroPGF for.Describe your contribution(s) to Optimism\nPlease share the contributions you wish to receive RetroPGF for.",
   "impactMetrics": [
     {

@@ -1,5 +1,5 @@
 {
-  "applicantType": "PROJECT",
+  "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://forocoches.com",
   "bio": "A little Elf",
   "contributionDescription": "I have only contributed through delegation of votes. I am very interested in DAOs and the entire OP ecosystem, which is why I am always attentive to all new news regarding OP and its development. I think that everything it is building has enormous potential. Including its SDK to be able to build.",
@@ -48,6 +48,5 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, this application is not correctly categorized. Despite the \"PROJECT\" category, the application uses \"I\" and \"me\", indicating it is from an individual named \"Soyduende\".",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Governance & Tokens, Developer Ecosystem, Decentralized Finance (DeFi)",
-  "pwCategory": "Decentralized Governance & Platform"
+  "pwCategorySuggestions": "Governance & Tokens, Developer Ecosystem, Decentralized Finance (DeFi)"
 }

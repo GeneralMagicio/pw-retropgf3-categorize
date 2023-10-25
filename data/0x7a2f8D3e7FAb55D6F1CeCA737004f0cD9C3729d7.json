@@ -1,5 +1,5 @@
 {
-  "applicantType": "PROJECT",
+  "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://app.optimism.io/retropgf-discovery/0x4C0a466DF0628FE8699051b3Ac6506653191cc21",
   "bio": "My name is Jan Krba and I am crypto investor.",
   "contributionDescription": "My favorite RetroPGF is Protocol Guild.\nMain goals of this project are:\n1) A collective of Ethereum contributors\n2) working to boost the incentives around stewarding the core protocol\n3) by maintaining an onchain registry of its membership\n4) which allows ecosystem sponsors to directly fund the membership, their work, the public good.",
@@ -47,6 +47,5 @@
   "pwIsFlagged": false,
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, the application is not correctly categorized. The applicant refers to themselves as \"I\", denoting that the applicant is an individual, not a project.",
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Governance Onboarding & Services"
+  "pwApplicantTypeChecked": true
 }

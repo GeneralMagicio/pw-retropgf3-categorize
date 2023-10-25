@@ -1,5 +1,5 @@
 {
-  "applicantType": "PROJECT",
+  "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://ace.fusionist.io/account/endurance",
   "bio": "hi world3",
   "contributionDescription": "A katana is a traditional Japanese sword known for its distinctive appearance and historical significance. It is a type of long, curved, single-edged sword that has become iconic and is often associated with samurai warriors. Here are some key characteristics and details about the katana:",
@@ -10,7 +10,9 @@
       "description": "test"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "A katana is a traditional Japanese sword known for its distinctive appearance and historical significance. It is a type of long, curved, single-edged sword that has become iconic and is often associated with samurai warriors. Here are some key characteristics and details about the katana:",
   "impactMetrics": [
     {

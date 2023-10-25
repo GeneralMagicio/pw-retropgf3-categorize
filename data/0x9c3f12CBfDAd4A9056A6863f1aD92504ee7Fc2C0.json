@@ -1,5 +1,5 @@
 {
-  "applicantType": "INDIVIDUAL",
+  "applicantType": "PROJECT",
   "websiteUrl": "  https://twitter.com/Rocky291903?t=U709R9z2zZmcrQolLrWdrw&s=09",
   "bio": "ɪᶠ ʸᵒᵘ ᶠᵉᵉˡ ᵗʰᵉ ⁿᵉᵉᵈ ᵗᵒ ᵈᵒ ˢᵒᵐᵉᵗʰⁱⁿᵍ,ᵗʰᵉⁿ ᵈᵒ ⁱᵗ ʷⁱᵗʰ ᵃˡˡ ʸᵒᵘʳ ʰᵉᵃʳᵗ & ˢᵒᵘˡ,ʸᵒᵘ ʷⁱˡˡ ᵇᵉ ˢᵘᶜᶜᵉˢˢᶠᵘˡ.",
   "contributionDescription": "We provided over 100 OP News updates to our audience of 2,000 podcast listeners and 230 newsletter subscribers. In the fast-changing Optimism Collective, we play a crucial role in keeping users well-informed. OP News is a series of Optimism-related updates featured within our Ethereum News flash briefing in a dedicated segment called Optimism Highlights.",
@@ -10,7 +10,9 @@
       "description": "Very good project "
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "\n\nWe provided over 100 OP News updates to our audience of 2,000 podcast listeners and 230 newsletter subscribers. In the fast-changing Optimism Collective, we play a crucial role in keeping users well-informed. OP News is a series of Optimism-related updates featured within our Ethereum News flash briefing in a dedicated segment called Optimism Highlights.",
   "impactMetrics": [
     {

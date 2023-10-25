@@ -1,5 +1,5 @@
 {
-  "applicantType": "PROJECT",
+  "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://conduit.xyz",
   "bio": "Founder of Conduit",
   "contributionDescription": "Working with the Optimism Collective on the Superchain vision and building the market from 0 -> 1.\n\nContributions include but not limited to:\n- Educating developers and the broader ecosystem about rollup technology\n- Educating superchain customers about the product offering, tradeoffs, and how to build a successful chain\n- Gathering customer feedback and identifying high leverage areas for product improvement for the superchain product\n- Helping to build developer ecosystem around the OP Stack with Conduit's integrations (blockscout, superbridge, tenderly, dune, etc.)\n- Working with the core devs to improve the underlying infrastructure\n- Generally, bringing more chains onto the Superchain",
@@ -80,6 +80,5 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO. The application talks about \"I\" and \"me\", which are sure signs of an individual. Therefore, it should be categorized as \"INDIVIDUAL\", not \"PROJECT\".",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Smart Contract Platforms, Layer 2 Scaling, Developer Ecosystem",
-  "pwCategory": "Optimism & Layer 2 Solutions"
+  "pwCategorySuggestions": "Smart Contract Platforms, Layer 2 Scaling, Developer Ecosystem"
 }

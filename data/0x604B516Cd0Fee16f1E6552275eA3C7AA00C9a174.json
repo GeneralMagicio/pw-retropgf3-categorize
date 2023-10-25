@@ -1,5 +1,5 @@
 {
-  "applicantType": "PROJECT",
+  "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://app.optimism.io/profile/rpgf-application/basic-info?utm_source=tokenpocket",
   "bio": "Men",
   "contributionDescription": "Technology changes your perception. The The future is a decentralized world and an independently operating economic system, in which companies or individuals will operate their own space.  I don’t need to explain it in an academic way. Here are a few simple examples so you can understand:\n The cinema has become a place for collective adventure. Everyone’s movie theme is the same, but the ending is different for everyone involved, because you are you and he is him. The virtual characters everyone encounters may be the same, but the participants, Everyone's decision may be different.  In the future, human beings will be under increasing mental pressure. Hospitals have also been designed with metaverses to treat various mental illnesses. Robots will do the surgery for them. ",
@@ -41,6 +41,5 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, the application is not correctly categorized as it refers to \"I\" and \"me\" indicating it is from an individual, not a project.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Identity, Blockchain Infrastructure, Community Building",
-  "pwCategory": "Decentralized Identity"
+  "pwCategorySuggestions": "Decentralized Identity, Blockchain Infrastructure, Community Building"
 }

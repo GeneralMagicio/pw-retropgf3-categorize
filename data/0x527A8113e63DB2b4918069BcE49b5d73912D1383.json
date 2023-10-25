@@ -1,5 +1,5 @@
 {
-  "applicantType": "PROJECT",
+  "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://x.com/dondot448",
   "bio": "Sangat dan sangat semangat ",
   "contributionDescription": "Saya sangat percaya bahwa retroPGF sangat bermanfaat bagi anggota komunitas optimisme karena ini adalah salah satu cara terbaik untuk memperkenalkan setiap anggota belajar mendirikan sebuah proyek yang tujuannya untuk kemajuan diri kita sendiri, mari kita dukung selalu proyek ini sampai benar benar sukses",
@@ -10,7 +10,9 @@
       "description": "Twitter"
     }
   ],
-  "impactCategory": ["COLLECTIVE_GOVERNANCE"],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
   "impactDescription": "Semua tindakan yang kita lakukan pasti akan selalu memberikan dampak . Tapi yang perlu kita tau sebagai anggota komunitas optimisme bahwa dampak dari semua yang kita lakukan akan menjadi nilai plus untuk masa depan mendatang. Jangan takut mencoba dan terus mencoba ",
   "impactMetrics": [
     {

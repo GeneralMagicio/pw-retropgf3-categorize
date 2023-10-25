@@ -1,5 +1,5 @@
 {
-  "applicantType": "PROJECT",
+  "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://bress.xyz/",
   "bio": "I'm the founder of Mirror Curator DAO and cofounder of bress.",
   "contributionDescription": "We build bress to make Mirror articles searching and discovery more convenient. Mirror is the most important content platform on Optimism but it lacks the key feature of articles searching. To help readers find Mirror articles easier we build bress. At bress users can browse featured Mirror articles by us, search any Mirror article with keywords, follow Mirror writers, read new published articles.",
@@ -45,6 +45,5 @@
   "pwIsFlagged": false,
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO. The application refers to the applicant's activity with the first person pronoun (\"I\"), indicating that the applicant is an individual, not a project.",
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Category: Content & Media"
+  "pwApplicantTypeChecked": true
 }

@@ -1,5 +1,5 @@
 {
-  "applicantType": "PROJECT",
+  "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://www.jamesmccomish.com/",
   "bio": "Co-Founder - Forum DAOs. Previously EE @ Imperial College & Engineer @ Roboyo. Jumped into web3 in 2021",
   "contributionDescription": "Forum Passkey Wallet:\n\n- In April this year we were the first team to launch a passkey wallet to a mainnet (Polygon for cheapest gas, since p256 signatures were expensive).\n\n- We are active members of the Account Abstraction & ERC-4337 communities, and regularly assist other teams with information regarding passkeys, webauthn, and ERC-4337 accounts.\n\n- Our contracts are open source, this includes our individual & group ERC-4337 passkey wallets, and all of our test utils for generating passkey signatures in Foundry. These tests are regularly shared in the 4337 mafia telegram group, and are used by a number of teams in the AA/Modular Account space.",
@@ -49,6 +49,5 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, the application should be categorized as an INDIVIDUAL because the bio states \"I jumped into web3 in 2021\".",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Blockchain Infrastructure, Decentralized Identity, Developer Ecosystem",
-  "pwCategory": "Category: Developer Tools & Utilities"
+  "pwCategorySuggestions": "Blockchain Infrastructure, Decentralized Identity, Developer Ecosystem"
 }

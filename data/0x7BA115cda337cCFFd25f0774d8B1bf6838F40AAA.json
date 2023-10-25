@@ -1,5 +1,5 @@
 {
-  "applicantType": "INDIVIDUAL",
+  "applicantType": "PROJECT",
   "websiteUrl": "https://twitter.com/Cakraawiguna",
   "bio": "kntl",
   "contributionDescription": "Our hope is to become a project that is resistant to fudder and supports the project, so that it will be successful in the future.\nyou are a very kind person, in giving gifts to everyone. so we are happy to be here. Don't forget our hope is that you are always enthusiastic, you will be successful if you continue to be enthusiastic.",
@@ -10,7 +10,9 @@
       "description": "ah kumsi we"
     }
   ],
-  "impactCategory": ["OP_STACK"],
+  "impactCategory": [
+    "OP_STACK"
+  ],
   "impactDescription": "the name of the project, we appreciate this project to be a useful project for everyone and we hope that in the future the project will bring a very big change for the community.\nwe are here and be at the forefront, and be the first to try to be here",
   "impactMetrics": [
     {

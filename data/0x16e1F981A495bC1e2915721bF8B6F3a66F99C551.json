@@ -1,5 +1,5 @@
 {
-  "applicantType": "PROJECT",
+  "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://www.reddit.com/user/niceirfan08",
   "bio": "Good ",
   "contributionDescription": "I really excited for this  airdrop community is fast growing. This has definitely huge potential as well.  really excited for this  airdrop community is fast growing. This has definitely huge potential as  really excited for this  airdrop community is fast growing. This has definitely huge potential as well",
@@ -10,7 +10,10 @@
       "description": "Good "
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION", "OP_STACK"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
   "impactDescription": "I really excited for this  airdrop community is fast growing. This has definitely huge potential as well.  really excited for this  airdrop community is fast growing. This has definitely huge potential as well.  really excited for this  airdrop community is fast growing. This has definitely huge potential as well",
   "impactMetrics": [
     {

@@ -1,5 +1,5 @@
 {
-  "applicantType": "PROJECT",
+  "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://github.com/PlanckerLabs/remix-cc",
   "bio": "I am responsible for operations at RemixCC, and I also undertake development and translation tasks.",
   "contributionDescription": "The Remix Chinese community can localize Remix IDE into Chinese, providing a user-friendly interface and experience for Chinese users. This enables easier usage of Remix IDE for OP network development and debugging.\nThe community can provide Chinese documentation, tutorial videos, and articles on Remix IDE, helping Chinese users understand OP network development tools, smart contract writing, and deployment methods. This lowers the entry barrier and promotes wider adoption and participation.\nCustomized IDE services can be offered to Chinese teams, helping them tailor and optimize Remix IDE for specific application scenarios and business needs on the OP network.",
@@ -46,6 +46,5 @@
   "pwIsFlagged": false,
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, the application is not correctly categorized, it should be categorized as \"INDIVIDUAL\", since the applicant speaks about \"I\" and \"me\" in the bio.",
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Community Building & Governance"
+  "pwApplicantTypeChecked": true
 }

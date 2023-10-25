@@ -1,5 +1,5 @@
 {
-  "applicantType": "PROJECT",
+  "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://twitter.com/zxy666eth",
   "bio": "cool",
   "contributionDescription": "so cool~I have done work which has increased the number of active users in the Optimism ecosystem.If so, you could be eligible for some of the  30,000,000 OP being allocated in RetroPGF 3!Sign up now  (deadline to do so is October 23rd).Any contributions which support end-user adoption could qualify, including onboarding new users to Optimism, Optimism-focused content creation, Layer 2 education, and more.\n",
@@ -10,7 +10,9 @@
       "description": "cool"
     }
   ],
-  "impactCategory": ["COLLECTIVE_GOVERNANCE"],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
   "impactDescription": "make fun ! so cool~I have done work which has increased the number of active users in the Optimism ecosystem.If so, you could be eligible for some of the  30,000,000 OP being allocated in RetroPGF 3!Sign up now  (deadline to do so is October 23rd).Any contributions which support end-user adoption could qualify, including onboarding new users to Optimism, Optimism-focused content creation, Layer 2 education, and more.",
   "impactMetrics": [
     {

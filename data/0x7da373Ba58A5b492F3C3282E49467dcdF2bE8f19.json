@@ -1,5 +1,5 @@
 {
-  "applicantType": "PROJECT",
+  "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://www.imaginairynfts.com/",
   "bio": "Unleash creativity with AI-generated art. Mint unique NFTs from your AI-dreamed designs. Your Prompt, Your Art, Your NFT!",
   "contributionDescription": "I'm the sole creator and developer behind ImaginAIryNFTs, an innovative NFT platform that merges the power of artificial intelligence with the immutability and uniqueness of NFTs. ImaginAIryNFTs provides users with AI-generated art, which can be minted as NFTs on the Optimism platform, providing a seamless, efficient, and gas-optimized experience.\n\n",
@@ -40,6 +40,5 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO. The application is submitted by an individual, not a project, as indicated by phrases such as \"I'm the sole creator and developer behind ImaginAIryNFTs\".",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "NFTs, AI, Art",
-  "pwCategory": "NFTs & Marketplaces"
+  "pwCategorySuggestions": "NFTs, AI, Art"
 }

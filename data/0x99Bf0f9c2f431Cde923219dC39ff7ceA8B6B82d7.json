@@ -1,5 +1,5 @@
 {
-  "applicantType": "PROJECT",
+  "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://www.facebook.com/profile.php?id=100079001142785",
   "bio": "I'm Niño John and i'm a trader",
   "contributionDescription": "When a user transacts on OP Mainnet, the profits generated from network sequencing are used to fund public goods through RetroPGF. Better public goods means more development, which creates more revenue that can be directed to public goods.\n\nThis round will focus on funding contributions that have supported the development and adoption of Optimism.\n",
@@ -46,6 +46,5 @@
   "pwIsFlagged": false,
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, it is not correctly categorized because the bio suggests that the application is from an individual, not a project.",
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Governance Onboarding & Services"
+  "pwApplicantTypeChecked": true
 }

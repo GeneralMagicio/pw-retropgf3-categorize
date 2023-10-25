@@ -1,5 +1,5 @@
 {
-  "applicantType": "PROJECT",
+  "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://t.me/coin_pocket",
   "bio": "Crypto community",
   "contributionDescription": "I use this blockchain a lot, I think it's the future, it's a really cool project . I did a lot of transactions, voted in governance and went on quests .  I try to support the project in every possible way and help in its development. I have also mentioned the project many times in my Telegram channel, which has over 11 thousand subscribers",
@@ -10,7 +10,10 @@
       "description": "Channel"
     }
   ],
-  "impactCategory": ["COLLECTIVE_GOVERNANCE", "OP_STACK"],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "OP_STACK"
+  ],
   "impactDescription": "I've done posts on my telegram channel and tweeter, I also help newbies and advise to use Optimism specifically for convenient and safe storage of money and as a great option for exchange . I and my friends in the crypto world like this project a lot",
   "impactMetrics": [
     {

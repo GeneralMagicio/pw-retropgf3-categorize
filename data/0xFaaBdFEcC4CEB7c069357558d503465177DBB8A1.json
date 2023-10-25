@@ -1,5 +1,5 @@
 {
-  "applicantType": "INDIVIDUAL",
+  "applicantType": "PROJECT",
   "websiteUrl": "https://twitter.com/Zackxzackx",
   "bio": "Zack 34 year old a blockchain enthusiast and an \"optimism\" believer ; Building Fast and reliable crypto transfers across networks.\n\"BETA\"",
   "contributionDescription": "hi \nin breef i built this smart contract on base blockchain to contribute to optimisme ecosystem by providing :\n1) Automated Trading Strategies:\nDevelopers can build automated trading strategies using this contract. For example, they can program it to perform specific trades under certain conditions or market events.\nIntegrations with DeFi Platforms:\nThis contract could be integrated into a larger decentralized finance (DeFi) platform. It could serve as a component for users to execute trades within the platform.  \n2) Liquidity Provision:\nThe contract could be used to provide liquidity to Uniswap v3 pools. Liquidity providers can utilize the functions to efficiently manage their positions.\n3) Arbitrage Opportunities 4) Customized Trading Logic 5) gas efficiency.",
@@ -10,7 +10,10 @@
       "description": " providing operations functions to interact on Uniswap v3 pools."
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "The introduction of this smart contract on the Optimism network has several significant impacts on the Optimism Collective. It brings increased efficiency and cost savings, reducing transaction costs for users. This makes DeFi activities more accessible and appealing. Developers now have a powerful tool to create automated trading strategies, integrate with DeFi platforms, provide liquidity, and explore arbitrage opportunities. This expands the range of applications within the ecosystem.\nThe contract's ability to provide liquidity to Uniswap v3 pools enhances overall trading experiences, reducing slippage. Customizable trading logic allows for innovation in DeFi strategies, tailoring solutions to specific market conditions.",
   "impactMetrics": [
     {

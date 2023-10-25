@@ -1,5 +1,5 @@
 {
-  "applicantType": "PROJECT",
+  "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://meetm.xyz",
   "bio": "I am developer working in ethereum and web3 space for over 2 years now. My focus recently has been on improving DX for smart contracts development.",
   "contributionDescription": "solidity-analyzer is deeply integrated into foundry which is increasingly becoming more popular and adoption among devs because of its ability to allow writing tests in solidity itself and because it is really fast in running tests and compiling too. But the tooling around it is not yet very mature. \n\nAn LSP server that works with foundry projects will provide devs with important features like:\n1. Diagnostics: compiler errors, warnings, informationals, etc.\n2. Formatting: with `forge fmt`\n3. Outline: the birds eye view of the file including contract names, functions, state variables,e tc.\n4. Code navigation: jump to definitions, implemetations, references, etc.\n5. Inlay hints, autocompletes\n6. And many more LSP features\n\nOut of the mentioned features, first 3 are already implemented.",
@@ -44,6 +44,5 @@
   "pwIsFlagged": false,
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, the application is incorrectly categorized as a PROJECT when it should be INDIVIDUAL because the applicant references his work as \"I am developer working in ethereum and web3 space for over 2 years now.\".",
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Smart Contract Development Tools"
+  "pwApplicantTypeChecked": true
 }

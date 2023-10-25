@@ -1,5 +1,5 @@
 {
-  "applicantType": "PROJECT",
+  "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://twitter.com/La0ngFongz",
   "bio": "Hellow Its me myname is Laongfong",
   "contributionDescription": "So many because i have ever to participant to Dapp on chain Optimism since last year or 2022 I interesting to Defi or Lending plat form on Optimism Chain i hope if you give Chance we will do many thing together \n\nps. I hope i to be your chose me haha",
@@ -10,7 +10,10 @@
       "description": "many transection"
     }
   ],
-  "impactCategory": ["COLLECTIVE_GOVERNANCE", "OP_STACK"],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "OP_STACK"
+  ],
   "impactDescription": "So many because i have ever to participant to Dapp on chain Optimism since last year or 2022 I interesting to Defi or Lending plat form on Optimism Chain i hope if you give Chance we will do many thing together \n\nps. I hope i to be your chose me haha",
   "impactMetrics": [
     {

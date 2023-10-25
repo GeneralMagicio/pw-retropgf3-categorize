@@ -1,5 +1,5 @@
 {
-  "applicantType": "PROJECT",
+  "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://icalanggi",
   "bio": "God Project",
   "contributionDescription": "God Project sir semoga berjalan dengan baik\nkami berharap bisa mendapatkan airdrop optimism dan berjalan dengan baik bla bla bla saya sangat suka dengan project ini god project sir airdrop optimism ajjdjnejshdbsiwjshdbwjsjdbsjdjxhsjwjdhdjsjekwiwiwisjdjdjsjwjj",
@@ -10,7 +10,9 @@
       "description": "Yoyo"
     }
   ],
-  "impactCategory": ["OP_STACK"],
+  "impactCategory": [
+    "OP_STACK"
+  ],
   "impactDescription": "optimism dan berjalan dengan baik bla bla bla saya sangat suka dengan project ini god project sir airdrop optimism Pekerjaan yang memberikan dampak kepada pengguna akhir di optimism collective, atau membantu mendatangkan pengguna akhir baru ke dalam Kolekhir",
   "impactMetrics": [
     {

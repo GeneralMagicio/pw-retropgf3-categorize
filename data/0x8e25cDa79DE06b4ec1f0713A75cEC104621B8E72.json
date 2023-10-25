@@ -1,5 +1,5 @@
 {
-  "applicantType": "PROJECT",
+  "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://twitter.com/IantigerC",
   "bio": "token Governance",
   "contributionDescription": "More decentralized governance: Optimism is governed by a decentralized community of stakeholders. This means that the future of Optimism is in the hands of its users and not a single entity. This can help to ensure that your token remains decentralized and fair.",
@@ -46,6 +46,5 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, the application is not correctly categorized because the \"impactDescription\" field indicates that the applicant is an individual, as it uses first-person pronouns like \"I\".",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Governance & Tokens, Developer Ecosystem, Blockchain Infrastructure",
-  "pwCategory": "Governance Onboarding & Services"
+  "pwCategorySuggestions": "Governance & Tokens, Developer Ecosystem, Blockchain Infrastructure"
 }

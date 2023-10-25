@@ -1,5 +1,5 @@
 {
-  "applicantType": "INDIVIDUAL",
+  "applicantType": "PROJECT",
   "websiteUrl": "https://t.me/NakamaAirdropID",
   "bio": "i can't breathe, but im living",
   "contributionDescription": "i wanna growing up optimism community, especially on indonesian community. will share information and update from optimism foundation to my member on telegram channels. my telegram channels called 'Nakama Airdrop'. What is Nakama Airdrop? Nakama Airdrop is find the best airdrop, jobs, and etc.",
@@ -10,7 +10,9 @@
       "description": "Optimism Airdrop"
     }
   ],
-  "impactCategory": ["COLLECTIVE_GOVERNANCE"],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
   "impactDescription": "there is many people from indonesian learn more about optimism, focus with OP Stack. With OP Stack makes other layer 2 can bridge cross-chain easier than before. OP Stack is the future of cross-chain. this is incredible! I hope so, Optimism Foundation can bring more inovation on blockchain.",
   "impactMetrics": [
     {

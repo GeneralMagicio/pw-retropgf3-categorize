@@ -1,5 +1,5 @@
 {
-  "applicantType": "PROJECT",
+  "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://optimistic.etherscan.io/address/0x31c9B93991553204b9090B63cef2A8142705d865",
   "bio": "Web3 Devotee",
   "contributionDescription": "As a newbie who recently joined the cryptocurrency world around February this year, I set out to check out various chains which had genuine work and were real innovations and one of the top chains I found out about was Optimism. Therefore, I started using the chain to carry out various transactions and recently deployed a smart contract on it. This is my most recent contribution to the chain. I also referred other newbies like me to deploy simple smart contracts on the Op Mainnet.",
@@ -39,6 +39,5 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, this application is not correctly categorized. Even though there are mentions of a smart contract, the application seems to be from an individual, as evident from the usage of first person pronouns like 'I' and 'me'.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Smart Contract Platforms, Developer Ecosystem, Blockchain Infrastructure",
-  "pwCategory": "Smart Contracts & Deployment"
+  "pwCategorySuggestions": "Smart Contract Platforms, Developer Ecosystem, Blockchain Infrastructure"
 }

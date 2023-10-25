@@ -1,5 +1,5 @@
 {
-  "applicantType": "INDIVIDUAL",
+  "applicantType": "PROJECT",
   "websiteUrl": "https://www.holdstation.news/",
   "bio": "Web3 Builder, OTC services in \n@holdstationw\n! All IN ETH! In ETH We Trust! 6 year ex OTC trading Viet Nam. insight from otc trading and build project.",
   "contributionDescription": "I am the founder of the holdstation community and our company is extremely fond of the optimist network. In 2022, I allowed all members of the company to register and participate in optimist campaigns. In addition, we support posting on the website, X, Facebook to call for and create benefits for us",
@@ -10,7 +10,9 @@
       "description": "website"
     }
   ],
-  "impactCategory": ["COLLECTIVE_GOVERNANCE"],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
   "impactDescription": "I am the founder of the holdstation community and our company is extremely fond of the optimist network. In 2022, I allowed all members of the company to register and participate in optimist campaigns. In addition, we support posting on the website, X, Facebook to call for and create benefits for us",
   "impactMetrics": [
     {

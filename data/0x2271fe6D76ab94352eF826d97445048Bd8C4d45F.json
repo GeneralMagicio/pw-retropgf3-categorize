@@ -1,5 +1,5 @@
 {
-  "applicantType": "PROJECT",
+  "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://www.hifromcrew.com/",
   "bio": "I'm a curious and optimistic founder focused on making web3 useable for business",
   "contributionDescription": "I'm building a platform to help businesses use Farcaster. In service of this I've interviewed over 50 companies on farcaster to learn what would help them use it more. During that time I worked on a UI prototype that I iterated on after each call to take in their feedback.\n\nI also hosted a podcast interviewing builders on Farcaster. Finally I hosted a meetup for Farcaster builders in SF and over 30 people attended.  ",
@@ -59,6 +59,5 @@
   "pwCategorySuggestions": "Community Building, User Experience & Adoption, Content Creation",
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, the application should be categorized as \"INDIVIDUAL\" because the bio and contribution descriptions talk about \"I\" and \"me\".",
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Community Building"
+  "pwApplicantTypeChecked": true
 }

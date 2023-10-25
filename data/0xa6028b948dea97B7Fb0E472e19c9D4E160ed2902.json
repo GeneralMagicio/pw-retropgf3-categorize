@@ -1,5 +1,5 @@
 {
-  "applicantType": "PROJECT",
+  "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://www.optiland.xyz",
   "bio": "I am the creator of Optiland Quests - a series of weekly learn and earn quest featuring different dapp within the Optimism ecosystem.  ",
   "contributionDescription": "Learning about different protocols that exist in the Optimism ecosystem is the first step toward discovery and onboarding users to those protocols. The team made the following contributions to help the adoption of the Optimism ecosystem:\n\n16 weekly Learn to Earn Quests: \nEncouraged program participants to learn a different protocol every week in the broader OP ecosystem.  Successful participants received $OP for their participation.\n\nCoinbase Wallet App Quest:\nProduced a commemorative work of art that was featured as part of the Coinbase Wallet App Quests.  Participants earned some $OP for bridging some $ETH to Optimism and minting the artwork.",
@@ -80,6 +80,5 @@
   "pwIsFlagged": false,
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO. The application is from an individual (the creator of Optiland Quests) but it is categorized as a \"PROJECT\".",
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Category: User Interface & Experience"
+  "pwApplicantTypeChecked": true
 }

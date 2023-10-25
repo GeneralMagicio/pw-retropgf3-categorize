@@ -1,5 +1,5 @@
 {
-  "applicantType": "PROJECT",
+  "applicantType": "INDIVIDUAL",
   "websiteUrl": "http://ethereumsanpedrosula.org/",
   "bio": "👋 I develop compensation metrics systems on the blockchain.\n\nInterests: Community, graphics, education, open licenses, video games, and psychology.",
   "contributionDescription": "We organize fully on-chain Optimism raffles with online and offline participants. We also take time to onboard newcomers to the event.\n\nWe provide artists with comprehensive support throughout their journey, from onboarding and NFT creation to raffling their NFTs in our Randomness Ceremony and monetizing their work.\n\nIn addition, we airdrop ETH tokens to newcomer participants and artists so they can purchase tickets to get in our events and cover gas expenses.\n\nWe also develop the smart contracts, website, and randomness generation mechanisms that underpin our raffles.",
@@ -79,6 +79,5 @@
   "pwIsFlagged": false,
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, it is not correctly categorized. Despite being marked as a 'PROJECT', the application talks about \"I\" indicating it should be categorized as an 'INDIVIDUAL'.",
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Category: NFTs & Marketplaces"
+  "pwApplicantTypeChecked": true
 }

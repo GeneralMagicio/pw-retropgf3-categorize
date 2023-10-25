@@ -1,5 +1,5 @@
 {
-  "applicantType": "PROJECT",
+  "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://laktek.com",
   "bio": "Creator of seedle.finance",
   "contributionDescription": "I built and maintain seedle.finance. It's a tool for tracking performance and managing Uniswap V3 positions. With Seedle, LPs can easily see the fee APYs, net gains (including impermanent losses), and full transaction history of the positions (incl. gas fees). Also, they can use Seedle to swap & add liquidity to positions easily.",
@@ -57,6 +57,5 @@
   "pwIsFlagged": false,
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, the application should be categorized as \"INDIVIDUAL\", as the applicant refers to their contributions using \"I\".",
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Category: Decentralized Finance (DeFi)"
+  "pwApplicantTypeChecked": true
 }

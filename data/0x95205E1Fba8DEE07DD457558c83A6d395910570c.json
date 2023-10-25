@@ -1,5 +1,5 @@
 {
-  "applicantType": "PROJECT",
+  "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://free-4001050.webador.com/",
   "bio": " Enthusiast since 2016, worked with notable projects such as Vite and Ravencoin. Investments/community management/ building a NFT marketplace and platform",
   "contributionDescription": "I have crafted an NFT line up, marketplace and staking platform on Base. The project is a work in progress. The plan is to become a multi-chain project starting first on Base then Optimism and eventually other op stack chains. To fully realize the vison of this project I will use the RetroPGF ",
@@ -40,7 +40,9 @@
       "description": "Before the NFT contact Base Zora"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "I am a small project with less experience than other projects. Im currently still learning and attempting to bring as much value to this space as possible. With that said I believe my contribution is assembling a NFT / staking / marketplace and community built around it. I believe my greatest impact is coming as this project finds greater traction, adoption, a implementation and further deployment. ",
   "impactMetrics": [
     {

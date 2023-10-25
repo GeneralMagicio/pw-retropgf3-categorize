@@ -1,5 +1,5 @@
 {
-  "applicantType": "PROJECT",
+  "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://www.sound.xyz/user/vtcking.eth",
   "bio": "I am a Blockchain user, NFT Holder, token, coin..",
   "contributionDescription": "I want to receive a worthy reward for the effort and dedication I have put into supporting the project and I would be very grateful if I receive those rewards, which shows the fairness and recognition of the project. project with my contributions. Reward is a reward and also a measure and motivation for a blockchain community to develop, which makes us come closer together and work together better.",
@@ -46,6 +46,5 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, the application is not correctly categorized as a \"PROJECT\" as the applicant uses \"I\" indicating it is an individual.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "NFTs, Decentralized Finance (DeFi), Community Building",
-  "pwCategory": "Community Building & Governance"
+  "pwCategorySuggestions": "NFTs, Decentralized Finance (DeFi), Community Building"
 }

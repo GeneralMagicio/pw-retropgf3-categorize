@@ -1,5 +1,5 @@
 {
-  "applicantType": "PROJECT",
+  "applicantType": "INDIVIDUAL",
   "websiteUrl": "http://www.surecfilm.com.tr/",
   "bio": "I'm researching blockchain. I'm interested in cryptography.",
   "contributionDescription": "RPGF is truly a disruptive mechanism that has allowed us to double down on our mission to bring transparency to the entire L2 ecosystem. We hope it becomes a model for other systems to fund public goods.\nRetroPGF has made it possible to work on public goods and get rewarded for providing real value to the community.",
@@ -48,6 +48,5 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, the application uses \"I\" in the bio indicating it is an application from an individual, not a project.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, Governance & Tokens, Cryptocurrency Services",
-  "pwCategory": "Category: Community Building & Governance"
+  "pwCategorySuggestions": "Community Building, Governance & Tokens, Cryptocurrency Services"
 }
