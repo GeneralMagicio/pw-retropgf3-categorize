@@ -30,7 +30,10 @@
       "description": "Testnet deployments"
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "Smart contracts' scalability suffers due to costly, slow development and composability issues, hindering real-world applications. With 152 of 195 countries being developing, reducing blockchain entry barriers is vital for global adoption. Inverter's modular infrastructure significantly cuts down smart contract setup time and running costs for new applications.\n\nWe onboarded projects that are building on Optimism by making it possible to deploy web3 products in an agile way. With Inverter workflows, implementing smart contracts is only configuration process, rather than engineering challenge: \n- No more need to individually finance audits and security protocols \n- No more need for dedicated smart contract team or timely development cycles to implement new features or modify the old ones.",
   "impactMetrics": [
     {
@@ -84,5 +87,6 @@
   "applicantAddress": "0x5E3A2D9ef0878794b6d9bC2e777f0Fe018bc4A75",
   "pwCategorySuggestions": "Smart Contract Platforms, Web3 Community Platform, Tokenization Platforms",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Smart Contracts & Deployment"
 }

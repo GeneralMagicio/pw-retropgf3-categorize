@@ -104,5 +104,6 @@
   "applicantAddress": "0x88844185FA124f6F620578AfC57037eBEDaAb840",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Blockchain Education, Community Building, User Experience & Adoption"
+  "pwCategorySuggestions": "Blockchain Education, Community Building, User Experience & Adoption",
+  "pwCategory": "Education & Learning Hubs"
 }

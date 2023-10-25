@@ -20,7 +20,10 @@
       "description": "Optimism Website"
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "We have contributed to Optimism in a wide range of ways, such as:\n\n- Increased awareness and adoption of Optimism to hundreds of thousands of Infinity Wallet users;\n\n- Made onboarding to Optimism easier than ever before, direct from multiple fiat currencies or across chains, in a complete all-in-one platform;\n\n- Supported the Optimism DApp/developer ecosystem with driving awareness and adoption;\n\n- Enabled a much more user friendly experience on Optimism for interacting with Optimism and Optimism projects;\n\n- Enabled new utility and easy access to Optimism via a range of unique Infinity Wallet features/services;\n\n- Supported Optimism in the first Web3 browser, removing the need to use browser extensions and providing a more natural and enhanced experience when accessing Web3 on Optimism;",
   "impactMetrics": [
     {
@@ -55,5 +58,6 @@
   "applicantAddress": "0xb7D6937F3aa9E09817C045b7d5b5Fb5064370671",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Wallet Management, Web3 Community Platform, Decentralized Finance (DeFi)"
+  "pwCategorySuggestions": "Wallet Management, Web3 Community Platform, Decentralized Finance (DeFi)",
+  "pwCategory": "Wallet & Account Security"
 }

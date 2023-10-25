@@ -15,7 +15,10 @@
       "description": "Bedrock Contracts Architecture Diagram"
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM", "OP_STACK"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "OP_STACK"
+  ],
   "impactDescription": "We could not track the impact of this contribution. However, if it is included as part of the official documentation and shown on the right channels, it will help others understand how the contracts interact with each other way faster and easier.           ",
   "impactMetrics": [
     {
@@ -75,5 +78,6 @@
   "applicantAddress": "0x29C5d8b04178a358dC1AfA0F5Fb2C8f5c64d55a6",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Smart Contract Platforms, Blockchain Infrastructure, Developer Ecosystem"
+  "pwCategorySuggestions": "Smart Contract Platforms, Blockchain Infrastructure, Developer Ecosystem",
+  "pwCategory": "Developer Education & Mentoring"
 }

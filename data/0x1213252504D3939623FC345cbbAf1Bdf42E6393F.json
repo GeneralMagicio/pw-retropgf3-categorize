@@ -35,7 +35,9 @@
       "description": "1) Refactoring Optimism Codebase for Security & Standardization"
     }
   ],
-  "impactCategory": ["OP_STACK"],
+  "impactCategory": [
+    "OP_STACK"
+  ],
   "impactDescription": "Referring to Optimism monorepo ‘s issue ( https://github.com/ethereum-optimism/optimism/issues/4980):\n\nThe smart contracts for Optimism’s  Bedrock  includes a set of test suites  written with Echidna for property testing. These contracts also have a set of test suites with Forge  for invariant tests.\n\nIn order to improving security and standardize tooling of OP stack, OP Labs is looking for contributors to help converting the Echidna tests into to Forge invariant tests.\n\nI has completed this task by opening and getting them merged the following 6 PRs:",
   "impactMetrics": [
     {
@@ -58,5 +60,6 @@
   "applicantAddress": "0x1213252504D3939623FC345cbbAf1Bdf42E6393F",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Blockchain Infrastructure"
+  "pwCategorySuggestions": "Blockchain Infrastructure",
+  "pwCategory": "Blockchain Infrastructure"
 }

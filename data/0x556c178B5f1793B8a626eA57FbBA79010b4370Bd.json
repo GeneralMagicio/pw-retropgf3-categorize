@@ -85,7 +85,10 @@
       "description": "Kromatika interface UI"
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "Kromatika has deployed Limit Orders (FELO)  and a Swap Aggregator on OP.\n\nBy using UniV3 liquidity and Keeper smart contracts, we automate limit trades, eliminating price slippage, BOT attacks and swap fees. To date : \n- $3.6M in limit orders,\n- Average $924/order\n- Between 1 & 9% LP fees on top of their trades.\n\nIt boasts an impressive market fit with 60-70% of new users becoming returning users!\nThe MetaDex Aggregator is an \"aggregator of aggregators\" searching for the deepest liquidity pools with lowest slippage to provide the best instant swap rates to users.\nGasless Swap will also be released soon (using Biconomy relayers) as part of the Gov Fund received.\n\nWithout any VCs/ICO rounds, Kromatika is organically growing, expanding its suite of products and among top 10 DEXs by TVL. ",
   "impactMetrics": [
     {
@@ -152,5 +155,6 @@
   "applicantAddress": "0x556c178B5f1793B8a626eA57FbBA79010b4370Bd",
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Tokenization Platforms, Decentralized Exchanges (DEXs)",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Decentralized Exchanges"
 }

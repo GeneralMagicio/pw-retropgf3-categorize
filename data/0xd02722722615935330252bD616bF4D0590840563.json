@@ -10,7 +10,10 @@
       "description": "Gitbook of KITKrypto DAO"
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "By contributing as described above, we become an evangelist for the OP Stack and related knowledge, and cultivate more forward-thinking and solid hands-on experience for the OP Collective and the OP ecosystem with well-educated and technically inclined developers from KIT alumnis.",
   "impactMetrics": [
     {
@@ -63,5 +66,6 @@
   "applicantAddress": "0xd02722722615935330252bD616bF4D0590840563",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Blockchain Education, Community Building, Developer Ecosystem"
+  "pwCategorySuggestions": "Blockchain Education, Community Building, Developer Ecosystem",
+  "pwCategory": "Community Building & Governance"
 }

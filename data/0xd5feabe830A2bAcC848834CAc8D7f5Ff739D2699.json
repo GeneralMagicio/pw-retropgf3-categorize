@@ -46,5 +46,6 @@
   "pwRecategorizeToType": "PROJECT",
   "pwRecategorizeReason": "NO. The application is from a project, not an individual as it is categorised. The use of \"We provide basic services\" suggests a group or project rather than an individual.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Blockchain Infrastructure, Developer Ecosystem, Cryptocurrency Services"
+  "pwCategorySuggestions": "Blockchain Infrastructure, Developer Ecosystem, Cryptocurrency Services",
+  "pwCategory": "Developer Tools & Utilities"
 }

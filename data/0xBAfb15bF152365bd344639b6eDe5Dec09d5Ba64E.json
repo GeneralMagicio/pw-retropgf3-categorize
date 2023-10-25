@@ -91,5 +91,6 @@
   "applicantAddress": "0xBAfb15bF152365bd344639b6eDe5Dec09d5Ba64E",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Finance (DeFi), Non-Fungible Tokens (NFTs), Layer 2 Scaling"
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Non-Fungible Tokens (NFTs), Layer 2 Scaling",
+  "pwCategory": "NFTs & Marketplaces"
 }

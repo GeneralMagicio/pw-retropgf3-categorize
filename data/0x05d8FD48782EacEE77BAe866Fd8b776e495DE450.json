@@ -20,7 +20,9 @@
       "description": "Camel Cult community in supporting project on Optimism"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "I would say that it is not largely impacted the world but I believe my small steps together with my Camel Cult community will change the world into a better place and bring more new users and fans to the ecosystem especially in music industry. By promoting ideas and new ways that can utilitize crypto, I can help to bring benefits to the future. ",
   "impactMetrics": [
     {
@@ -51,5 +53,6 @@
   "applicantAddress": "0x05d8FD48782EacEE77BAe866Fd8b776e495DE450",
   "pwIsFlagged": false,
   "pwCategorySuggestions": "NFTs, Music Industry, Community Building",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Music NFTs"
 }

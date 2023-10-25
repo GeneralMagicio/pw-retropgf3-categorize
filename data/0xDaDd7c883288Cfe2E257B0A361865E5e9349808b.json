@@ -25,7 +25,10 @@
       "description": "Badgeholder Contributions"
     }
   ],
-  "impactCategory": ["COLLECTIVE_GOVERNANCE", "OP_STACK"],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "OP_STACK"
+  ],
   "impactDescription": "- Project Manager Phil has been a badgeholder since RPGF Round 2 and contributed towards the governance, distribution and discussions relating to public goods funding\n- Lodestar strengthened Layer 1 client diversity in order to better secure layers dependent on Ethereum L1 such as Optimism\n- One of a few consensus clients implementing blob functionality to benefit L2 in the form of cheaper, scalable transactions/computation for stacks like Optimism\n- Actively involved in the design, testing and implementation of core Ethereum protocol\n- Actively maintaining the Ethereum Javascript ecosystem for protocol including js-libp2p, blst-ts, SSZ, discv5, c-kzg node bindings, etc.",
   "impactMetrics": [
     {
@@ -74,5 +77,6 @@
   "applicantAddress": "0xDaDd7c883288Cfe2E257B0A361865E5e9349808b",
   "pwCategorySuggestions": "Smart Contract Platforms, Blockchain Infrastructure, Developer Ecosystem",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Developer Tools & Utilities"
 }

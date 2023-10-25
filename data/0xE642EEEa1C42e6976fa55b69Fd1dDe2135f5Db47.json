@@ -10,7 +10,9 @@
       "description": "DESCRIPTION"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "Today we stand almost 40 strong with a world class collection of EIP authors, product magicians, and protocol wizards. We're eternally grateful to people like Mark and the SNX community for sticking with us from our days as a small, scrappy team to a full-blown powerhouse. ❤️\n\nWe’d also be remiss if we didn’t thank the legendary geohot for his guidance. His lessons would reflect in our practices and bar for excellence for years to come.",
   "impactMetrics": [
     {
@@ -36,5 +38,6 @@
   "pwIsFlagged": false,
   "pwRecategorizeToType": "PROJECT",
   "pwRecategorizeReason": "NO, this application refers to a group effort and the description provided indicates this applicant is representing a team or a project, not an individual.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Developer Resources"
 }

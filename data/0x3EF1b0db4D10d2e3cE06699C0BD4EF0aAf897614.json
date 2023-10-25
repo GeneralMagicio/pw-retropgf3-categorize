@@ -10,7 +10,9 @@
       "description": "will add one of those for each milestone we accomplished"
     }
   ],
-  "impactCategory": ["COLLECTIVE_GOVERNANCE"],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
   "impactDescription": "Pairwise has been a transformative addition to the Optimism Collective. By streamlining the decision-making process, we've made it easier for members to evaluate numerous projects without feeling overwhelmed. While its full potential is yet to be realized as more members engage, Pairwise promises a more democratic, efficient, and inclusive future for Optimism's decision-making, ensuring every voice is heard and valued.",
   "impactMetrics": [
     {
@@ -48,5 +50,6 @@
   "applicantAddress": "0x3EF1b0db4D10d2e3cE06699C0BD4EF0aAf897614",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Governance & Tokens, User Experience & Adoption, Community Building"
+  "pwCategorySuggestions": "Governance & Tokens, User Experience & Adoption, Community Building",
+  "pwCategory": "Governance Tools & Practices"
 }

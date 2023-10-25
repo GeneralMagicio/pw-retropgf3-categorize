@@ -25,7 +25,9 @@
       "description": "Tally's Optimism Delegate Portal"
     }
   ],
-  "impactCategory": ["COLLECTIVE_GOVERNANCE"],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
   "impactDescription": "Tally's contributions have made Optimism Collective governance accessible and future-proof. \n\nAccessible:\n- Tally's Optimism delegate portal makes it easy to discover and track the performance of Token House delegates. \n- Delegation Week re-engaged OP token holders with Optimism Collective governance and elevated the voices of Token House delegates. \n\nFuture-proof:\n- Tally's Superchain Governance Deep Dive Mission produced the most complete and up-to-date analysis of the state of crosschain governance. We deeply investigated and produced documentation around all of the viable paths for expanding Token House governance across the Superchain and ultimately recommended a zk-SNARK based approach that scales to thousands of chains and millions of users.",
   "impactMetrics": [
     {
@@ -62,5 +64,6 @@
   "applicantAddress": "0xb5B069370Ef24BC67F114e185D185063CE3479f8",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Governance, Layer 2 Scaling, Governance Tools"
+  "pwCategorySuggestions": "Decentralized Governance, Layer 2 Scaling, Governance Tools",
+  "pwCategory": "Governance Tools & Practices"
 }

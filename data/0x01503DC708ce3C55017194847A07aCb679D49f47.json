@@ -80,5 +80,6 @@
   "applicantAddress": "0x01503DC708ce3C55017194847A07aCb679D49f47",
   "pwIsFlagged": false,
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Smart Contract Platforms, User Experience & Adoption",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "DAO Management & Governance"
 }

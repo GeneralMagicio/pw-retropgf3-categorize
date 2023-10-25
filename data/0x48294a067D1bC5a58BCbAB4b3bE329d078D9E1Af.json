@@ -20,7 +20,10 @@
       "description": "Website"
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "Pin Save contributions collectively contribute to a stronger and more user-centric community within the Optimism Collective. By empowering users, enhancing privacy and security, and providing a resilient infrastructure, Pin Save has become a valuable platform for decentralized image and content sharing. The impact of your contributions has transformed Pin Save into a trusted and engaging platform, benefiting both users and the Optimism Collective as a whole.\nPrimarily, the integration of Decentralized Identity (ERC-725) within Pin Save has provided users with enhanced anonymity and data protection. This crucial feature fosters trust and privacy within the platform, giving users peace of mind when it comes to sharing and interacting with their personal information.",
   "impactMetrics": [
     {
@@ -63,5 +66,6 @@
   "applicantAddress": "0x48294a067D1bC5a58BCbAB4b3bE329d078D9E1Af",
   "pwCategorySuggestions": "Decentralized Identity, Content Creation, Community Building",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Content & Media"
 }

@@ -15,7 +15,9 @@
       "description": "Steps to add Red Optimism to Metamask Wallet on your phone"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "I have made some test twitters with educational content which have been very well accepted. I consider that a large percentage of the interested population has the perception that the crypto world is something very complex, by creating very simple educational content and excellent audiovisual quality free, it will attract many more users to the Optimism network",
   "impactMetrics": [
     {
@@ -45,5 +47,6 @@
   "applicantAddress": "0x01395548a531878b04349b057D7e5930425eE783",
   "pwIsFlagged": false,
   "pwCategorySuggestions": "Blockchain Education, User Experience & Adoption, Decentralized Finance (DeFi)",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Blockchain Education"
 }

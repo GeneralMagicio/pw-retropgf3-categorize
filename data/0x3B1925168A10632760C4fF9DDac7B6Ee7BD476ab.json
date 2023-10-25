@@ -10,7 +10,9 @@
       "description": "delegating "
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "we are delegating OP token, we are minting the NFT of OP chain and doing transaction, we are observing and doing transactions on the Dapps, we are donating through https://passport.gitcoin.co, we are bridging, swapping, staking, sending token, adding liquidity pool ",
   "impactMetrics": [
     {
@@ -43,5 +45,6 @@
   "pwRecategorizeToType": "PROJECT",
   "pwRecategorizeReason": "NO, the application is categorized as an individual, but the language in the contribution and impact description consistently uses \"we\", suggesting that it's a project or a group and not an individual.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Finance (DeFi), Non-Fungible Tokens (NFTs), Tokenization Platforms"
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Non-Fungible Tokens (NFTs), Tokenization Platforms",
+  "pwCategory": "NFTs & Marketplaces"
 }

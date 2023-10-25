@@ -10,7 +10,10 @@
       "description": "Official repository of the Vyper programming language"
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM", "OP_STACK"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "OP_STACK"
+  ],
   "impactDescription": "- Vyper's commitment to security through its language design choices and stringent audit process increases the security of the OP Stack.\n- Vyper contributes to language diversity on OP, reducing the risk of a systemic failure from overreliance on a single language.\n- Vyper compiler's advanced optimizations enhance the efficiency of the OP stack\n- Major projects such as Curve, Lido, Perpetual Protocol, Velodrome and Yearn all used Vyper as part of their Optimism deployments.\n- Vyper has been used for on-chain analytics API on Optimism. Integration with Jupyter and Python tooling helps onboard new devs. \n- By reducing the size of compiled binaries, Vyper lets developers make more complex contracts without running into the size limitations of the EVM.",
   "impactMetrics": [
     {
@@ -62,5 +65,6 @@
   "applicantAddress": "0x0b98718264cA14d0A17C145FfE1e4F3c38a39372",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Smart Contract Platforms, Blockchain Infrastructure, Developer Ecosystem"
+  "pwCategorySuggestions": "Smart Contract Platforms, Blockchain Infrastructure, Developer Ecosystem",
+  "pwCategory": "Smart Contracts & Deployment"
 }

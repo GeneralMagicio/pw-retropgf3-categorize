@@ -15,7 +15,9 @@
       "description": "Telegram channel"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "I've done videos on quests run by the optimism team and helped more people get in touch and try to interact with the optimism network. I also often touch on different technical aspects of the network and notify about new events in my other videos, as well as daily podcasts in my Telegram channel.\nBelow I will attach links to videos with metrics, first there will be a video only on Optimism quests, and then videos in which Optimism was mentioned, as well as morning podcasts, where the topic was also Optimism.",
   "impactMetrics": [
     {
@@ -121,5 +123,6 @@
   "pwIsFlagged": false,
   "pwRecategorizeToType": "PROJECT",
   "pwRecategorizeReason": "NO, the application is not correctly categorized as it appears to be from a project (KeepCalm DAO) rather than an individual.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Content & Media"
 }

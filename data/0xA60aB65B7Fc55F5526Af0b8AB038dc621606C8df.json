@@ -35,7 +35,9 @@
       "description": "Bware Labs Base Goerli Testnet Faucet"
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
   "impactDescription": "Bware Labs is a web3 infrastructure company providing a full range of ecosystem services like decentralized RPC/WSS APIs, Validators,Snapshot services, Faucets,Indexing and Bridge operator services. Our core objective is to improve the developer experience within a blockchain ecosystem.\nWe support Optimism and Base networks in Blast API platform so Optimism and Base blockchain developers that are building their dApp on can bypass all the hurdles involved in running their own infrastructure thus reducing both their outage risks and infrastructure costs.\n\nWe also supported development and usage of the OP Stack by providing Optimism Goerli and Base Goerli Faucets so that Optimism and Base blockchain developers have free test tokens for deploying and testing on Optimism Goerli and Base Goerli.",
   "impactMetrics": [
     {
@@ -81,5 +83,6 @@
   "applicantAddress": "0xA60aB65B7Fc55F5526Af0b8AB038dc621606C8df",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Tokenization Platforms, Web3 Community Platform, Blockchain Infrastructure"
+  "pwCategorySuggestions": "Tokenization Platforms, Web3 Community Platform, Blockchain Infrastructure",
+  "pwCategory": "Blockchain & Technology"
 }

@@ -25,7 +25,9 @@
       "description": "Cycle 13 Final Grants Roundup"
     }
   ],
-  "impactCategory": ["COLLECTIVE_GOVERNANCE"],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
   "impactDescription": "The council was able to create a more streamlined and consistent process for proposers, set a pace for grant distributions, and define clear expectations for grant applicants.  The council has also been able to create more accountability for grant usage through milestone based tracking and distribution.  Overall, the grants council has reduced the workload of Token House delegates, enabling them to focus their energies on high-impact votes.\n",
   "impactMetrics": [
     {
@@ -69,5 +71,6 @@
   "applicantAddress": "0x75536CF4f01c2bFa528F5c74DdC1232Db3aF3Ee5",
   "pwCategorySuggestions": "Community Building, Governance & Tokens, Developer Ecosystem",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "DAO Management & Governance"
 }

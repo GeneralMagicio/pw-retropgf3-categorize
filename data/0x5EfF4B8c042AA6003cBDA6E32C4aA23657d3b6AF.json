@@ -15,7 +15,9 @@
       "description": "S4 Governance Mission Proposal"
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
   "impactDescription": "The TechNERDS expand developer support and bridge technical knowledge gaps. They directly solve developer pain by answering questions, debugging issues via support tickets and dev channels, improve documentation, and making improvements to the code repositories. They're enabling developers to build and thrive on the OP Stack.",
   "impactMetrics": [
     {
@@ -72,5 +74,6 @@
   "applicantAddress": "0x5EfF4B8c042AA6003cBDA6E32C4aA23657d3b6AF",
   "pwCategorySuggestions": "Developer Ecosystem, Community Building, Support Services",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Developer Support"
 }

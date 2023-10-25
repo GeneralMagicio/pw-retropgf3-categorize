@@ -10,7 +10,9 @@
       "description": "Our Substack is where we make our research freely available to the public"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "Llama Risk actively evaluates DeFi asset risks, especially stablecoins and liquid staking derivatives, within the Optimism ecosystem. We've assessed the system architectures for these assets, allowing users a simple way to understand protocols/tokens design.\n\nOur proactive insights have led to timely warnings for teams about design flaws and potential risks, ensuring the ecosystem remains robust and safe for DeFi users. Through collaborations with Curve DAO and Prisma Finance, we've demonstrated our commitment by assessing the risks of assets like stETH and rETH on Optimism.\n\nBy consistently sharing in-depth data and risk assessments, Llama Risk strengthens the Optimism community, guiding users and teams toward informed decisions.\n",
   "impactMetrics": [
     {
@@ -56,5 +58,6 @@
   "applicantAddress": "0x34d6Dbd097f6b739C59D7467779549Aea60e1F84",
   "pwIsFlagged": false,
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Stablecoins, Smart Contract Platforms",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Asset Management"
 }

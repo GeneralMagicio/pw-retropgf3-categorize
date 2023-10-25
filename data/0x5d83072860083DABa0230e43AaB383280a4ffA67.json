@@ -60,7 +60,9 @@
       "description": "Ethereum blockchain beginners master class"
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
   "impactDescription": "The BBAG (Blockchain and Blockchain-Related Application Group) builder-focused activities have played a pivotal role in fostering education and awareness within the blockchain and Ethereum ecosystem. Through these activities, approximately 300 tertiary students and community members have been introduced to the intricacies of Ethereum, Optimism, and various other technologies within the Ethereum ecosystem. ",
   "impactMetrics": [
     {
@@ -85,5 +87,6 @@
   "applicantAddress": "0x5d83072860083DABa0230e43AaB383280a4ffA67",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Blockchain Education, Community Building, Developer Ecosystem"
+  "pwCategorySuggestions": "Blockchain Education, Community Building, Developer Ecosystem",
+  "pwCategory": "Education & Learning Hubs"
 }

@@ -20,7 +20,9 @@
       "description": "Witness innovative list creation & reshaping of community decisions."
     }
   ],
-  "impactCategory": ["COLLECTIVE_GOVERNANCE"],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
   "impactDescription": "Pairwise has been a transformative force in the Optimism Collective's decision-making. It streamlines choices, making decisions more intuitive for citizens. With expertise-driven voting, members engage with projects suited to their knowledge, ensuring better decisions. The dynamic unlocking feature keeps the process engaging, allowing greater influence over time. Strategic allocation ensures votes align with individual visions for the ecosystem. Beyond simplification, Pairwise amplifies voices, championing true digital democracy. Committed to enhancing decision-making for public good DAOs, Pairwise heralds a more democratic and inclusive future in the Optimism ecosystem, valuing every voice.",
   "impactMetrics": [
     {
@@ -88,5 +90,6 @@
   "applicantAddress": "0xd1B8dB70Ded72dB850713b2ce7e1A4FfAfAD95d1",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, Governance & Tokens, User Experience & Adoption"
+  "pwCategorySuggestions": "Community Building, Governance & Tokens, User Experience & Adoption",
+  "pwCategory": "DAO Management & Governance"
 }

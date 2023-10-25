@@ -20,7 +20,9 @@
       "description": "About us and Optimism"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "With 3 years under our belt, we've organized over 25 major events, hosted 50+ renowned speakers, and attracted more than 2500 visitors. What's more, 70% of these visitors are repeat attendees, attesting to the quality and relevance of our events.\n\nBut it's not just about numbers. Projects have been created and launched and people have found jobs through networking at our events. \n\nCryptosquare has been entirely self-funded and independent for the past 3 years. Our events have always been free for participants, without external grants or funding. ",
   "impactMetrics": [
     {
@@ -77,5 +79,6 @@
   "applicantAddress": "0xFA69D3739D3A06Ea9317e18E21963b19367D2f15",
   "pwCategorySuggestions": "Community Building, Web3 Community Platform, Event Organization",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Community Building & Governance"
 }

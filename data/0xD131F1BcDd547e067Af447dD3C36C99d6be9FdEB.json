@@ -15,7 +15,9 @@
       "description": "Music NFT-gated Contract on Optimism"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "1,689 addresses claiming an NFT marketplace token was not an insignificant number of users, and the project launched with great promise for promoting Layer2 adoption, specifically to Optimism, for non-fungible technology and all the interesting and novel potential use cases for NFTs. Additionally, the NFTEarth team worked to creatively showcase a proof-of-concept model that music NFTs could be made to potentially transform the entire music industry by using non-fungible technology to remove intermediaries and improved the relationship between Artist/Consumer. 4,771 token-gated music NFTs, called Better With L2 (a tribute to the song made by musician 3LAU), were minted on Optimism. ",
   "impactMetrics": [
     {
@@ -64,5 +66,6 @@
   "applicantAddress": "0xD131F1BcDd547e067Af447dD3C36C99d6be9FdEB",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Non-Fungible Tokens (NFTs), Layer 2 Scaling, Blockchain Infrastructure"
+  "pwCategorySuggestions": "Non-Fungible Tokens (NFTs), Layer 2 Scaling, Blockchain Infrastructure",
+  "pwCategory": "NFTs & Marketplaces"
 }

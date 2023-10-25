@@ -10,7 +10,9 @@
       "description": "I'm just an opeth maxi and lover"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "As an end user of the Optimism Collective, my contributions have been both extensive and impactful. I've been able to provide detailed feedback on the user experience, identifying areas for improvement and suggesting new features that would make the Collective even more effective. My contributions have also helped to spread awareness of the Collective's mission and goals, increasing the number of users and helping to create a more vibrant and engaged community. My commitment to the Collective has led to a measurable increase in user engagement and has helped to make the Collective a more welcoming and inclusive space.",
   "impactMetrics": [
     {
@@ -40,5 +42,6 @@
   "applicantAddress": "0x12D87D2DD69E53BA965e5759a00B89e6e22eb54d",
   "pwIsFlagged": false,
   "pwCategorySuggestions": "Community Building, User Experience & Adoption, Developer Ecosystem",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "User Experience & Adoption"
 }

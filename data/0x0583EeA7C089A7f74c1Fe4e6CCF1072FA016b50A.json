@@ -85,7 +85,9 @@
       "description": "OP Charts fork tweet"
     }
   ],
-  "impactCategory": ["OP_STACK"],
+  "impactCategory": [
+    "OP_STACK"
+  ],
   "impactDescription": "TiP's impacts focus on technical OPtimization and building tech stacks for OP Stack—some impacts are quantitive, but some should be qualitatively measured.\n—\n\nOP-Erigon: It secures OP Stack with client diversity and allows devs to enjoy Erigon's disk saving; it uses 70% less than OP Mainnet Geth archive nodes, 2.4→0.7TB.\n\nSpan Batch: It allows low-active OP Chains by cutting minimum L1 fees by ~97% (165→5 ETH a year), expecting to cut OP Mainnet's L1 fees by ~9%.\n\nEngine P2P Sync: It allows Geth's snap sync—reduces sync time by ~82% on OP Mainnet compared to the derivation.\n\nPublic RPC & Block Explorer: It allows devs to test OP-Erigon on OP Mainnet / Goerli—processing 138k req/day.\n\nOP Charts: It provides easy OP Stack deployments on k8s. Some devs forked it to build an OP Chain launcher.",
   "impactMetrics": [
     {
@@ -132,5 +134,6 @@
   "applicantAddress": "0x0583EeA7C089A7f74c1Fe4e6CCF1072FA016b50A",
   "pwIsFlagged": false,
   "pwCategorySuggestions": "Blockchain Infrastructure, Developer Ecosystem, Web3 Community Platform",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Blockchain & Technology"
 }

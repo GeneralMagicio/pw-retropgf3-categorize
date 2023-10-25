@@ -75,5 +75,6 @@
   "applicantAddress": "0x9672c0e1639F159334Ca1288D4a24DEb02117291",
   "pwCategorySuggestions": "Blockchain Education",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Education & Learning Hubs"
 }

@@ -15,7 +15,9 @@
       "description": "The page dedicated to Keccak hashing"
     }
   ],
-  "impactCategory": ["OP_STACK"],
+  "impactCategory": [
+    "OP_STACK"
+  ],
   "impactDescription": "The Keccak hash function, and all its derivations, are cryptographic building blocks for\nthe good of the society. We believe that open cryptography is a key technology for the\ndigital society. The security of Keccak is key to the security of Ethereum and of many\nother digital projects. We worked a lot in analyzing its security and encouraged third-\nparty cryptanalysis, with very positive results.\nThe Keccak hash function is one of the most analyzed cryptographic functions, which gives a very high confidence on its security and resistance against all kind of attacks.",
   "impactMetrics": [
     {
@@ -50,5 +52,6 @@
   "applicantAddress": "0x63527768F33f47482a893818d01F0218ee113Ba8",
   "pwCategorySuggestions": "Smart Contract Platforms, Blockchain Infrastructure",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Blockchain & Technology"
 }

@@ -25,7 +25,9 @@
       "description": "Ex. rPGF content incentivized, validated, and rewarded with our infrastructure. "
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "ThriveCoin’s trust-less, open, human validation infrastructure impacted the Optimism community and the broader web3 environment. \n\nFor Optimism, we helped grow Ambassador contributions and pipeline, create artifacts documenting the impact of rPGF grants, and market that impact via Medium, Mirror, Twitter, and more. We far exceeded all milestones: \n\n- 1.703 discrete marketing content (429% above critical milestone) \n- 638 discrete research artifacts (1,276% above critical milestone)\n- 309 contributors (412% above critical milestone)\n- 1.6m+ total views of approved content\n- 5,000+ pieces of total generated content\n\nFor web3, our infrastructure opens the door for a world of contributors who can trust that their contributions will now be equitably rewarded in decentralized environments. ",
   "impactMetrics": [
     {
@@ -77,5 +79,6 @@
   "applicantAddress": "0x055D602C940b3cd7A158df0FD600C75744C9690e",
   "pwIsFlagged": false,
   "pwCategorySuggestions": "Web3 Community Platform, User Experience & Adoption",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Community Building & Governance"
 }

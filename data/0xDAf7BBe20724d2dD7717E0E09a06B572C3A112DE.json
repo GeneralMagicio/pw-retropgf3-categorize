@@ -10,7 +10,9 @@
       "description": "telegram bot"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "Liquildless has emerged as a pioneering solution on Optimism and Base by addressing a critical performance gap. Notably, Aave, a prominent lending protocol, lacked any notification service on these platforms.\n\n In stark contrast, Liquildless has stepped in to provide a vital service that empowers users with real-time notifications. While our project is in its early stages, we've already set the groundwork to fill this essential void, ensuring Aave users and the broader DeFi community can access crucial notifications to safeguard their assets effectively.",
   "impactMetrics": [
     {
@@ -42,5 +44,6 @@
   "pwIsFlagged": false,
   "pwRecategorizeToType": "PROJECT",
   "pwRecategorizeReason": "NO, the application is incorrectly categorized because despite being listed as an \"INDIVIDUAL\", the application talks about a project \"Liquildless\" providing a solution, which aligns more with a \"PROJECT\" designation.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "DeFi & DeFi Content"
 }

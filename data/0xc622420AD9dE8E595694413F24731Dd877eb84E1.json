@@ -25,7 +25,9 @@
       "description": "Twitter account link for Mode Domains."
     }
   ],
-  "impactCategory": ["OP_STACK"],
+  "impactCategory": [
+    "OP_STACK"
+  ],
   "impactDescription": "One big impact is that many people have started using Mode Domains, and we have more than 28,000 people who claimed their own '.mode' addresses, which brought in a lot of new users, creating a more diverse and engaged community that's vital for the Optimism ecosystem.\n\nWe have a great community with 962 Twitter followers. This helps more people know about what we're doing and work together within the Optimism ecosystem. So, in short, what we do for the OP Stack with Mode Domains is make things better for users, get more people to use it, and work closely with the community to help the Optimism ecosystem become more efficient, secure, and successful.",
   "impactMetrics": [
     {
@@ -66,5 +68,6 @@
   "applicantAddress": "0xc622420AD9dE8E595694413F24731Dd877eb84E1",
   "pwCategorySuggestions": "Decentralized Domain Name System, Layer 2 Scaling, Community Building",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Decentralized Web & Infrastructure"
 }

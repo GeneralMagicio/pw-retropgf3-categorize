@@ -10,7 +10,9 @@
       "description": "Introducing Writing NFTs on Optimism"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "Over 1 million Writing NFTs have been minted on Mirror using Optimistic Ethereum. That's more than any other network we support as Optimism is the default network in our settings. We have helped more people bridge to Optimism through our UX and encouraging users to collect entries. ",
   "impactMetrics": [
     {
@@ -35,5 +37,6 @@
   "applicantAddress": "0xe60aC07Be8bD7f7f33d446e1399c329928Ba8114",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "NFTs, Web3 Community Platform"
+  "pwCategorySuggestions": "NFTs, Web3 Community Platform",
+  "pwCategory": "NFTs & Marketplaces"
 }

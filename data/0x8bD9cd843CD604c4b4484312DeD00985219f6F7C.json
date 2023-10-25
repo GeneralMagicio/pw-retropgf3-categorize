@@ -10,7 +10,9 @@
       "description": "This is our VRNouns nft contract on optimsm-base network"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "We're launching a DAO to support creators producing impactful video content on beneficial electronics and significant projects in biolog, chemistry and DIY.\n\nHow It Works:\nVRNouns holders can apply for funding through our platform to bring their ideas to life. Other VRNouns holders voted and dedicated to providing the financial support needed for innovative and educational videos.\n\n",
   "impactMetrics": [
     {
@@ -42,5 +44,6 @@
   "pwRecategorizeToType": "PROJECT",
   "pwRecategorizeReason": "NO, it should be categorized as \"PROJECT\" because it refers to a collective entity (VRNouns) and it talks about \"we\", indicating a group rather than an individual.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Blockchain Gaming, Content Creation, Community Building"
+  "pwCategorySuggestions": "Blockchain Gaming, Content Creation, Community Building",
+  "pwCategory": "DAO Management & Governance"
 }

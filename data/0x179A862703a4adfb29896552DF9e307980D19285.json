@@ -35,7 +35,10 @@
       "description": "Dashboard of important Farcaster analytics"
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "My projects have made it easier for dozens of developers to build applications (Searchcaster), dozens of artists to distribute their work (Fardrop), and tens of thousands of consumers to observe the network/take control of their decentralized social profiles (Searchcaster, Farcaster Network, fcstr.xyz, etc.). These tools are built to enhance the Farcaster ecosystem which is rooted in OP Mainnet.",
   "impactMetrics": [
     {
@@ -80,5 +83,6 @@
   "pwCategorySuggestions": "Blockchain Infrastructure, Developer Ecosystem, User Experience & Adoption",
   "pwRecategorizeToType": "PROJECT",
   "pwRecategorizeReason": "NO. The application should be categorized as \"PROJECT\" as it refers to multiple projects that the individual has developed, not just the work of the individual.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Developer Tools & Utilities"
 }

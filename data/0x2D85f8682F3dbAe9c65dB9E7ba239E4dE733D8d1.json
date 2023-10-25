@@ -20,7 +20,10 @@
       "description": "Post in Instagram"
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "AYNITEC, with the support of Optimismo, organized events and workshops for children and young people in Peru.\nAs a collective, we promote the use of certificate unlockprotocol and mirror protocols to showcase our work through blogs.\nThis initiative had a significant impact on the participants, who learned the fundamentals of technology, web3 and Optimism. Likewise, using the Zora platform allowed us to share the work of our aynicinos in the creation of NFTs.  In the future, we plan to continue using web3 technology to educate children and youth in Peru\nThe influence of optimism on children and young people has been notable, providing them with invaluable access to educational resources and opportunities.",
   "impactMetrics": [
     {
@@ -70,5 +73,6 @@
   "applicantAddress": "0x2D85f8682F3dbAe9c65dB9E7ba239E4dE733D8d1",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Web3 Community Platform, Blockchain Education, Non-Fungible Tokens (NFTs)"
+  "pwCategorySuggestions": "Web3 Community Platform, Blockchain Education, Non-Fungible Tokens (NFTs)",
+  "pwCategory": "Education & Learning Hubs"
 }

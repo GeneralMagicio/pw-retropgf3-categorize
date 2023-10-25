@@ -15,7 +15,10 @@
       "description": "Docs"
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "We have begun onboarding new users to the base chain and are actively nurturing relationships with various projects, all the while educating the user base about the systems available for on-chain use. Our efforts have met with considerable success in aiding new on-chain users in comprehending the DEFI ecosystem and providing liquidity to network users.",
   "impactMetrics": [
     {
@@ -39,5 +42,6 @@
   "applicantAddress": "0x74293A57d7f6B9F6C5580CE50aaE3f10A0a09C56",
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Governance Tokens, Blockchain Education",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "DeFi & DeFi Content"
 }

@@ -91,5 +91,6 @@
   "applicantAddress": "0x596a9BCad70d07AFF4215b2a17ad36298139fB6C",
   "pwCategorySuggestions": "Community Building, Web3 Community Platform, Blockchain Education",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Community Building & Governance"
 }

@@ -80,5 +80,6 @@
   "applicantAddress": "0x96AA7E4BA857087cf3b529012eDfe5a96F0412D6",
   "pwCategorySuggestions": "Content Creation, Developer Ecosystem, Web3 Community Platform",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Content & Education"
 }

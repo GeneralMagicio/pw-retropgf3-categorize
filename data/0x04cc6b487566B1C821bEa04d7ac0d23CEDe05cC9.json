@@ -105,7 +105,9 @@
       "description": "Zengo @ CIT 2023"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "- 35 citizens participated in Ciudades DAO public test\n- 6 POAPs from Zengo private test 1\n- 12 Modeators POAPs from Zengo private test 2\n- 4 Citizen POAPS from Zengo private test 2\n- We published one article in the \"Transparent Mexico\" magazine about the decentralized budget in Queretaro.\n- Special Mention for Ciudades DAO in The Innovation in Transparency Contest 2022\n- Optimism mentioned during the Zengo presentation at the Innovation in Transparency Contest 2023",
   "impactMetrics": [
     {
@@ -173,5 +175,6 @@
   "applicantAddress": "0x04cc6b487566B1C821bEa04d7ac0d23CEDe05cC9",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Governance, Urban Governance, Public Finance"
+  "pwCategorySuggestions": "Decentralized Governance, Urban Governance, Public Finance",
+  "pwCategory": "Urban & Public Governance"
 }

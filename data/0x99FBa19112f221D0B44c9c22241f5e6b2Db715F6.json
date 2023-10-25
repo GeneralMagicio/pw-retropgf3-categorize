@@ -25,7 +25,9 @@
       "description": "Workshop at EthGlobal (Online)"
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
   "impactDescription": "Waffle has enabled teams, including OP Labs to more quickly and reliably write smart contact tests, making applications safer for users. \n\nWaffle was used by over 70k projects including Optimism, Uniswap, Aave, 0x, Balancer, zkSync, Cosmos, ENS, Gnosis, SushiSwap, Loopring, Aragon, PoolTogether, and Gitcoin. \n\nHere is the full list of projects using Waffle at this point in time: https://www.npmjs.com/package/ethereum-waffle?activeTab=dependents",
   "impactMetrics": [
     {
@@ -72,5 +74,6 @@
   "applicantAddress": "0x99FBa19112f221D0B44c9c22241f5e6b2Db715F6",
   "pwCategorySuggestions": "Smart Contract Testing Tools",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Developer Tools & Utilities"
 }

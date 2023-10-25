@@ -55,7 +55,9 @@
       "description": "Tutorial for migrating liquidity from Mainnet to Optimism"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "- Number of tx and users: \"Revert was surprisingly efficient in increasing both the number of transactions and the number of users. The program’s retention rate of users and consistent gas fees were even more impressive. In the 30 days following the program’s conclusion, the protocol averaged 4 more user addresses daily than during the program\" --Ryan, Messari\n- TVL on Auto-Compounder: \"TVL rose significantly once OP incentives began, peaking above $4 million in December, and sustained similar levels throughout the incentivized period. The highest TVL recorded was just over $6 million on Dec. 14, 2022.\"\n- Capital Auto-compounded on Optimism and Base: 3.6M\n- V3Utils volume: 550k USD volume Optimism & Base\n- OP Grant: 240k OP grant received, 100% was distributed, 235k already claimed\n",
   "impactMetrics": [
     {
@@ -107,5 +109,6 @@
   "applicantAddress": "0x8cadb20A4811f363Dadb863A190708bEd26245F8",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Finance (DeFi), Smart Contract Platforms, User Experience & Adoption"
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Smart Contract Platforms, User Experience & Adoption",
+  "pwCategory": "DeFi & DeFi Content"
 }

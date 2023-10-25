@@ -111,5 +111,6 @@
   "applicantAddress": "0x6c79837a6f08e1DF4a2971795f67A1849c122a05",
   "pwCategorySuggestions": "Smart Contract Platforms",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Security & Bug Bounty"
 }

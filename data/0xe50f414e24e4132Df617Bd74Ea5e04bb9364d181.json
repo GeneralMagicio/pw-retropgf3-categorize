@@ -25,7 +25,10 @@
       "description": "Safety buttons for every blockchains, preventing scams"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION", "OP_STACK"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
   "impactDescription": "Problem Addressed:\nThe lack of centralized, curated information on OP Stack built blockchains was hindering the growth and understanding of the OPtimism community. OPChainList emerged as a solution to bridge this crucial information gap.\n\nBeneficiaries:\n\nNew users seeking information about OP Stack built blockchains\nEmerging OP Stack built blockchains in need of exposure and support\nExisting OPtimism community members seeking a reliable resource to navigate the complex world of OP chains\n\nImpact:\n\nTangible: 120 new users from 22 countries within a short time frame\nIntangible: Strengthened community trust and knowledge sharing among OPtimists\n\nMetrics:\n\n20 OP blockchains listed\n120 new users from 22 countries within the last 15 days\n3 interviews conducted, fostering community engagement",
   "impactMetrics": [
     {
@@ -78,5 +81,6 @@
   "applicantAddress": "0xe50f414e24e4132Df617Bd74Ea5e04bb9364d181",
   "pwCategorySuggestions": "Media Production, Community Building, Blockchain Education",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Blockchain & Technology"
 }

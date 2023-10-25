@@ -30,7 +30,9 @@
       "description": "Our Github!"
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
   "impactDescription": "Our events and community has been the place where some of the best developers from around the world come to learn, tinker, build, and ultimately deploy on Optimism Mainnet, custom OP Stacks, and other OP Stack chains.\n\nFor many in the community, an ETHGlobal hackathon is their first introduction to the Optimism Collective. We aim to continue to be one of the most effective channels for attracting talented developers to the Optimism ecosystem.\n\nThrough our events, we have not only encouraged developers to adopt Optimism technology, but we have also collaborated with OP Labs and other community members to enhance developer documentation, develop engagement strategies, and identify bugs in onboarding processes, ultimately smoothing out the journey for anyone looking to build on Optimism.",
   "impactMetrics": [
     {
@@ -78,5 +80,6 @@
   "applicantAddress": "0xe993486B257Cd1481aef74b3B909A2627Fc8d305",
   "pwCategorySuggestions": "Developer Ecosystem, Web3 Community Platform, Blockchain Infrastructure",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Developer Onboarding & Recruiting"
 }

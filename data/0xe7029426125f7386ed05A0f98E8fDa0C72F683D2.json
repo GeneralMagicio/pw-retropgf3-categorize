@@ -47,5 +47,6 @@
   "pwIsFlagged": false,
   "pwRecategorizeToType": "PROJECT",
   "pwRecategorizeReason": "NO. The application is categorized as an \"INDIVIDUAL,\" but the contribution description and impact description suggest that the applicant represents a team or a PROJECT, as the contributions are not described in the first person tone.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Community Building & Governance"
 }

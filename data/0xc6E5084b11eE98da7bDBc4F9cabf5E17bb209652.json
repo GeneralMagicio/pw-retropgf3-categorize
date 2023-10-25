@@ -140,5 +140,6 @@
   "applicantAddress": "0xc6E5084b11eE98da7bDBc4F9cabf5E17bb209652",
   "pwCategorySuggestions": "Smart Contract Platforms, Layer 2 Scaling, Developer Ecosystem",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Optimism & Layer Solutions"
 }

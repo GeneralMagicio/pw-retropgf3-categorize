@@ -90,7 +90,9 @@
       "description": "How does Across really work?\t"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "T2LATAM has been dedicated to enriching the Optimism ecosystem by disseminating valuable and educational content through all our communication channels. Our main focus has been to promote education and the adoption of blockchain technology in a 100% organic way within the Latin American and Spanish-speaking community. We have focused on various key aspects of the entire ecosystem, such as 100% On Chain games, RetroPGF and the Evolution of Airdrops, the concept of Public Goods and Associated Projects, as well as the New Generation of NFTs on Optimism. Additionally, we have conducted AMAs and discussions with developers, seeking to provide relevant and up-to-date information.\n\nFurthermore, we want to thank to Carlos Melgar for his guidance and support throughout the entire process.",
   "impactMetrics": [
     {
@@ -115,5 +117,6 @@
   "applicantAddress": "0x2C2fC22575f5eFF9e4311708eABedA2791957c85",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, Blockchain Education, Content Creation"
+  "pwCategorySuggestions": "Community Building, Blockchain Education, Content Creation",
+  "pwCategory": "Education & Learning Hubs"
 }

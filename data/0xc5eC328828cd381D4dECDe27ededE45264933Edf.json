@@ -115,7 +115,9 @@
       "description": "libp2p Connectivity Infosite"
     }
   ],
-  "impactCategory": ["OP_STACK"],
+  "impactCategory": [
+    "OP_STACK"
+  ],
   "impactDescription": "The libp2p project has developed an maintained a common networking layer used by many of the core implementations of blockchains and tools that are used throughout the Optimism ecosystem. The protocols built into the libp2p project such as the Kademlia DHT and Gossipsub are core functions in the Ethereum and OP mainnet blockchains.\n\nThe libp2p maintainers have identified and mitigated 8 critical security bugs since 2019 and coordinated the private deployment of the fixes with members of the Optimism ecosystem. The maintainers continually optimized and fixed bugs with a steady cadence of libp2p releases in multiple implementations. The project has also maintained interop and performance testing to further identify and fix bugs across implementations, including go-libp2p used in OP mainnet.",
   "impactMetrics": [
     {
@@ -150,5 +152,6 @@
   "applicantAddress": "0xc5eC328828cd381D4dECDe27ededE45264933Edf",
   "pwCategorySuggestions": "Blockchain Infrastructure",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Blockchain & Technology"
 }

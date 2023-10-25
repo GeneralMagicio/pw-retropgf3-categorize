@@ -10,7 +10,9 @@
       "description": "github"
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
   "impactDescription": "no one has done this. zkML is inefficient. opML provides ML proofs with low cost and high efficiency compared to zkML. The hardware requirements for opML are low: opML can run a large language model, e.g. a 7B-LLaMA (the model size is around 26GB) on a common PC without GPU, while zkML takes around 80 minutes to generate a proof of a 1M-nanoGPT model.",
   "impactMetrics": [
     {
@@ -33,5 +35,6 @@
   "applicantAddress": "0x0DC825282d60cEB87c87A58AB1B1d47384ae9Aa5",
   "pwIsFlagged": false,
   "pwCategorySuggestions": "Onchain Machine Learning, Blockchain Technology, AI Security",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Machine Learning & Analytics"
 }

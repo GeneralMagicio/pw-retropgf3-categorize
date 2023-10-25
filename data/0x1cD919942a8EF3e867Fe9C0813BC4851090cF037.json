@@ -64,5 +64,6 @@
   "applicantAddress": "0x1cD919942a8EF3e867Fe9C0813BC4851090cF037",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Web3 Community Platform, Governance & Tokens, Content Creation"
+  "pwCategorySuggestions": "Web3 Community Platform, Governance & Tokens, Content Creation",
+  "pwCategory": "Community Building & Governance"
 }

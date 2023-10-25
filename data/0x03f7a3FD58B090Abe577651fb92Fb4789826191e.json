@@ -20,7 +20,10 @@
       "description": "The Hats App"
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "Hats Protocol has been deployed to OP Mainnet, with 29 Hats trees deployed to OP Mainnet as of October 13, 2023, providing Optimism-based communities with core infrastructure for flexibly creating and managing their roles and permissions while embedding automation throughout their organization to unlock the power of decentralized work.\n\nHats protoDAO runs on the OP Mainnet, engaging over 100 contributors across the Hats ecosystem and bringing users into the Optimism ecosystem. Hats protoDAO is a DAOaus Moloch v3 contract deployed to Optimism.\n\nWe have recently developed the Hats Modules Stack and deployed it to OP Mainnet, giving Optimism builders the power to create programmable roles that users can bring with them across the internet.",
   "impactMetrics": [
     {
@@ -67,5 +70,6 @@
   "applicantAddress": "0x03f7a3FD58B090Abe577651fb92Fb4789826191e",
   "pwIsFlagged": false,
   "pwCategorySuggestions": "Tokenization Platforms, Smart Contract Platforms, Governance Tokens",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Decentralized Governance & Platform"
 }

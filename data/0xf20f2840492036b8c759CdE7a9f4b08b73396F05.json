@@ -15,7 +15,9 @@
       "description": "(pw: hotdogvoodoo) - Link to the staging site for the NEW HERE SHORTS"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "Since Spring 2023, the NEW HERE SHORTS and the feature film, unreleased publicly, gained attention through private showings, educating respective audiences of traditional art collectors and film investors about web3.\n\nAt NFT.NYC June 2022, we hosted a panel with artists Tyler Hobbs, artnome, and Sarah Zucker. At NFT.NYC April 2023, we screened 2 NEW HERE SHORTS to massive acclaim.\n\nIn September 2023, Sundance presented samples from our film at its 200-person investor forum, where we also led panels about web3/AI's future in the industry.\n\nOur NFT \"NEWBIES\",  have onboarded hundreds to cryptoart, and facilitated ongoing artist collaborations (8 to date).",
   "impactMetrics": [
     {
@@ -80,5 +82,6 @@
   "applicantAddress": "0xf20f2840492036b8c759CdE7a9f4b08b73396F05",
   "pwCategorySuggestions": "NFTs, Media Production, Community Building",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Content & Media"
 }

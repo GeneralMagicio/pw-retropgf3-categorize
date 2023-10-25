@@ -10,7 +10,9 @@
       "description": "Deploy in holograph"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "I, as an end user, am always active and transact on the Optimism network, by minting NFTs, deploying and bridging to the Optimism network from other networks.\nand also votedao\nMaybe my contribution is not as much, but I always contribute to the optimism network as an end user and community member in the optimism network",
   "impactMetrics": [
     {
@@ -41,5 +43,6 @@
   "applicantAddress": "0x067cc134C7439F9be72443c8a52C87021cd744fB",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "End-User Experience, Decentralized Finance (DeFi), Blockchain Infrastructure"
+  "pwCategorySuggestions": "End-User Experience, Decentralized Finance (DeFi), Blockchain Infrastructure",
+  "pwCategory": "End-User Experience & Adoption"
 }

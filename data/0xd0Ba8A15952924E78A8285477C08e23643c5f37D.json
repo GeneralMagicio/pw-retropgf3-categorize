@@ -15,7 +15,10 @@
       "description": "Github Repo"
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "Valio is the first omnichain asset management protocol integrated with Optimism ecosystem. We are putting a high attention to OP ecosystem, connecting leading traders to trading tools like: 0x and Kwenta (releasing soon), as well as other integrations in the pipeline to make the asset management on Optimism as frictionless as possible",
   "impactMetrics": [
     {
@@ -55,5 +58,6 @@
   "applicantAddress": "0xd0Ba8A15952924E78A8285477C08e23643c5f37D",
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Smart Contract Platforms, Layer 2 Scaling",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Asset Management"
 }

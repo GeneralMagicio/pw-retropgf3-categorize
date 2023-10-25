@@ -10,7 +10,9 @@
       "description": "camel's profile"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "We have helped attract thousands of collectors on sound xyz , a platform that uses OP as their main blockchain layer.\nWe have been leading for weeks with mints and curator volumes.\nWe have helped dozens of artists sell music on sound xyz with minted music on OP L2.",
   "impactMetrics": [
     {
@@ -37,5 +39,6 @@
   "pwCategorySuggestions": "Non-Fungible Tokens (NFTs), Smart Contract Platforms, Music Streaming",
   "pwRecategorizeToType": "PROJECT",
   "pwRecategorizeReason": "NO. Although this application uses first-person references, indicating an individual, the applicant details a project (https://www.sound.xyz/camel) and outline collective achievements and goals which indicate a project application rather than an individual.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "NFTs & Marketplaces"
 }

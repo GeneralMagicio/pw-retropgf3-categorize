@@ -88,5 +88,6 @@
   "applicantAddress": "0x3D1846ea60001A3Bc21438d76f3958422fe89adB",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, Media Production, Cryptocurrency Services"
+  "pwCategorySuggestions": "Community Building, Media Production, Cryptocurrency Services",
+  "pwCategory": "Content & Media"
 }

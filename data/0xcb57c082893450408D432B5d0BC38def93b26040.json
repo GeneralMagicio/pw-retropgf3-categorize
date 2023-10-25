@@ -20,7 +20,9 @@
       "description": "Source code"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "Slugs is a new crypto primitive for minting NFTs with offchain utility at no cost, with a commonly understood use case outside of crypto (Bit.ly but onchain).\n\nIn order to make crypto more accessible and onboard the next 1 billion users, I believe we need to create more protocols that solve relatable problems with better UX and at a lower cost. My contribution is an attempt at a tiny step in that direction.\n\nThe project is launching this week so I am not including any traction numbers. Instead, a link to a Dune dashboard is included. Check it out to see its most up to date impact data.",
   "impactMetrics": [
     {
@@ -50,5 +52,6 @@
   "applicantAddress": "0xcb57c082893450408D432B5d0BC38def93b26040",
   "pwCategorySuggestions": "Decentralized Identity, Tokenization Platforms, Web3 Community Platform",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Decentralized Web & Infrastructure"
 }

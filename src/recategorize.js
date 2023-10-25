@@ -7,9 +7,11 @@ import { fileURLToPath } from "url";
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 
+export const dataDirName = path.join(__dirname, "../data");
+
 // Get list of all files in the current directory
 fs.readdirSync(".").forEach((file) => {
-  const filePath = path.join(__dirname, file);
+  const filePath = path.join(dataDirName, file);
 
   // Check if it's a file (and not a directory)
   if (fs.statSync(filePath).isFile()) {

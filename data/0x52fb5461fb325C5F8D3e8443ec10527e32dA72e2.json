@@ -35,7 +35,9 @@
       "description": "2h Blockchain fundamentals workshop"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "Results achieved in the last 12 months:\n\n- Created a 12-week ReFi course and 2h blockchain fundamentals workshop for public school students between 13-18 years old\n- Raised awareness around web3 through workshops for 500+ Brazilian public schools students with a focus on ReFi \n- Raised awareness around web3 use cases among entrepreneurs on talks at Suape’s Industrial Portuary Complex and the Bahia Expo event, organized by SEBRAE.\n- Minted over 30K NFT certificates from courses created in the 101.xyz platform\n- Certified 80 students in the blockchain fundamentals workshop in \n- Sent our education token ($NOS) to 50 students (no financial value) \n- Started conversations with the Education Department from the Bahia state to institutionalize our blockchain curriculum at public schools",
   "impactMetrics": [
     {
@@ -82,5 +84,6 @@
   "applicantAddress": "0x52fb5461fb325C5F8D3e8443ec10527e32dA72e2",
   "pwCategorySuggestions": "Blockchain Education, Decentralized Finance (DeFi), Community Building",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Education & Learning Hubs"
 }

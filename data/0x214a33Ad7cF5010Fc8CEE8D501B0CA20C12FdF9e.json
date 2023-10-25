@@ -10,7 +10,9 @@
       "description": "Find attached"
     }
   ],
-  "impactCategory": ["COLLECTIVE_GOVERNANCE"],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
   "impactDescription": "The Optimism Collective was born to dispel the myth that public goods cannot be profitable. The OP Stack is an MIT-licensed public good. Anyone can use or fork it however they see fit.\n\nAnd yet, the benefits of a shared standard turn the incentive to fork into an incentive to coordinate, driving disparate chains to cohere into a collective network – the Superchain. By encoding a fee split into that shared standard, the original Optimistic Vision starts to emerge: sustainable funding for the open-source code that upholds an optimistic economy.",
   "impactMetrics": [
     {
@@ -36,5 +38,6 @@
   "pwCategorySuggestions": "Governance & Tokens, Blockchain Infrastructure",
   "pwRecategorizeToType": "PROJECT",
   "pwRecategorizeReason": "NO, the application is not correctly categorized, as the \"contributionDescription\" and \"impactDescription\" refer to the \"Optimism Collective\" and the \"OP Stack\", which implies it's a project and not an individual.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Open Source & Software"
 }
