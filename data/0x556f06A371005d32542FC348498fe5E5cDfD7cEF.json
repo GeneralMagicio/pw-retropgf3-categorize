@@ -44,5 +44,6 @@
   "applicantAddress": "0x556f06A371005d32542FC348498fe5E5cDfD7cEF",
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for violating the rule against \"Promises of future impact - promises of future deliverables or impact are not allowed.\" The applicant states \"I look forward to playing a bigger role moving into the future,\" which is a promise of future involvement and potential impact.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategorySuggestions": "Layer 2 Scaling, Decentralized Finance (DeFi), Blockchain Gaming"
 }
