@@ -10,9 +10,7 @@
       "description": "That is the Eskrow website"
     }
   ],
-  "impactCategory": [
-    "COLLECTIVE_GOVERNANCE"
-  ],
+  "impactCategory": ["COLLECTIVE_GOVERNANCE"],
   "impactDescription": "Eskrow offers a secure solution for crypto token swaps, catering to a diverse user base, including those on the Optimism blockchain. We address trust issues in asset exchanges, enabling secure and trust-free transactions. Users no longer need to rely on trust in their counterparts. Eskrow ensures both parties fulfill their commitments, eliminating the risk of one party failing to deliver. Our universal compatibility guarantees a seamless and secure exchange experience today.",
   "impactMetrics": [
     {
@@ -46,6 +44,5 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, the application is titled as a \"PROJECT\" but the descriptions given refer to individual efforts, indicated by uses of \"I\" and \"my\".",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Exchanges (DEXs), Trustless Swaps, Blockchain Infrastructure",
-  "pwCategory": "Decentralized Exchanges (DEXs)"
+  "pwCategorySuggestions": "Decentralized Exchanges (DEXs), Trustless Swaps, Blockchain Infrastructure"
 }

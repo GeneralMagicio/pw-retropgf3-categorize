@@ -25,10 +25,7 @@
       "description": "ITU Blockchain Governance Contributions Links"
     }
   ],
-  "impactCategory": [
-    "COLLECTIVE_GOVERNANCE",
-    "DEVELOPER_ECOSYSTEM"
-  ],
+  "impactCategory": ["COLLECTIVE_GOVERNANCE", "DEVELOPER_ECOSYSTEM"],
   "impactDescription": "The ITU Blockchain delegation team plays a crucial role in evaluating Optimism proposals. Following thorough assessments, team members engage in discussions, reaching a consensus through votes and creating content including Twitter floods and forum reports covering the rationales shared with the wider Optimism community. These actions not only significantly impact Optimism's governance but also keep the Turkish community well-informed about ongoing governance matters. ITU Blockchain, being Turkey's biggest blockchain community with a substantial Twitter following, was impactful towards the use of this platform to enhance Optimism governance. Their involvement in Optimism governance has garnered substantial interest, leading many to support both the community and the delegation team.",
   "impactMetrics": [
     {
@@ -92,6 +89,5 @@
   "applicantAddress": "0xBEC643BD5b7F5e9190617CA4187ef0455950C51C",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Governance & Tokens",
-  "pwCategory": "Decentralized Governance"
+  "pwCategorySuggestions": "Governance & Tokens"
 }

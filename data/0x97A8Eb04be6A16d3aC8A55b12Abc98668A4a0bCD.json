@@ -60,6 +60,5 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, the application should be categorized as \"INDIVIDUAL\" as the application makes use of personal pronouns such as \"I\" and \"my\" indicating it is an individual.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, User Experience & Adoption, Content Creation",
-  "pwCategory": "Community & Social"
+  "pwCategorySuggestions": "Community Building, User Experience & Adoption, Content Creation"
 }

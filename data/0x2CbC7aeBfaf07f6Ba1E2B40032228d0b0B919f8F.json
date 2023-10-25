@@ -10,9 +10,7 @@
       "description": "This is the book link"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM"],
   "impactDescription": "We published this just over two weeks ago, but here is some feedback:\n\n\"In one day, I’ve caught up on so many areas which were tripping me up for a while, thanks to this resource. The people who put this together are legends\"\n\n\"https://www.rareskills.io/post/rank-1-constraint-system is the best article I've seen about R1CS by far!\"\n\nhttps://x.com/justinfrevert/status/1708490128304345134\nhttps://discord.com/channels/1060005744008769546/1062631528573706290/1161603275292946453",
   "impactMetrics": [
     {
@@ -49,6 +47,5 @@
   "applicantAddress": "0x2CbC7aeBfaf07f6Ba1E2B40032228d0b0B919f8F",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Tokenization Platforms, Blockchain Education",
-  "pwCategory": "Education & Learning"
+  "pwCategorySuggestions": "Tokenization Platforms, Blockchain Education"
 }

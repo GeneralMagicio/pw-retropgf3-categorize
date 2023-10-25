@@ -10,9 +10,7 @@
       "description": "newsletter"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Pidgin Parlour helped lots of pidgin speakers in Africa to understand Optimism easily using Pidgin language. We used podcasts, blogs, and newsletters to explain complex things around Optimism. We showed how Optimism could solve real problems for Africans with simple examples. We translated important optimism content to Pidgin so more people could understand.\n\nWe also educated and inspired Pidgin speakers to use Optimism and its tech. We talked about how to use OP tokens, join communities, and more. Our goal was to include everyone and make sure Pidgin speakers felt confident using Optimism and participating in the collective. \n",
   "impactMetrics": [
     {
@@ -37,6 +35,5 @@
   "applicantAddress": "0xAE64b79C5bC01e234DD3FFB7EAAa36E92b4dD23B",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Web3 Education and Adoption, Content Creation, Community Building",
-  "pwCategory": "Web3 Education"
+  "pwCategorySuggestions": "Web3 Education and Adoption, Content Creation, Community Building"
 }

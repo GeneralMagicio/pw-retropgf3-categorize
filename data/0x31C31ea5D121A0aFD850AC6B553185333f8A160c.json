@@ -55,10 +55,7 @@
       "description": "OpenOcean limit order SDK"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM",
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "OpenOcean collectively executed $64m+ volume on OP with 110k+ transactions\nOpenOcean has served 61k+ unique wallets on OP \nIntegrated 18 liquidity sources including Aave V3, BeethovenX, Clipper, Clipper RFQ, Curve, Hashflow, KyberSwap, Mummy, OPX, Overnight, SushiSwap, Synapse, Uniswap, Velodrome, Velodrome V2, Woofi, ZipSwap across the ecosystem, the most of any aggregator.\nPartnered with leading DeFi protocols in the ecosystem offering products from our swap and builders suite, such as MetaMask (most competitive price among all swap solution providers) , DeFiLlama Swap, Sonne Finance, OPX Finance, Mean Finance, Axelar, UniDEX, Interport, Li.Fi, XY Finance, Symbiosis.",
   "impactMetrics": [
     {
@@ -100,6 +97,5 @@
   "applicantAddress": "0x31C31ea5D121A0aFD850AC6B553185333f8A160c",
   "pwIsFlagged": false,
   "pwCategorySuggestions": "DEX Aggregator, Cross-Chain Swap Aggregator, Swap Product Suite",
-  "pwCategory": "Decentralized Exchanges (DEXs)",
   "pwApplicantTypeChecked": true
 }

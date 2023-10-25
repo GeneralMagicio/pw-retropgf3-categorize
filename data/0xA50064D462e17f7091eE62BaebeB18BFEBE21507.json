@@ -45,10 +45,7 @@
       "description": "Twitter/X profile"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM",
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "-Crypto Altruism’s podcasts have garnered 10,000+ listens since launch. The podcast has championed public goods projects building on optimism – including Gitcoin, Giveth, Hypercerts, and Endaoment, and broken down complex topics like Quadratic Funding & ZK proofs for prospective builders.\n-The Crypto Altruism website, which houses our blog and podcast, has received over 150,000 visits, with the educational infographics and resources on Quadratic Funding being amongst the most popular for visitors.\n-Recently partnered with Endaoment, who enables on-chain giving on Optimism, on the release of a special 10-part podcast series highlighting nonprofits leveraging blockchain. Each episode has included a short clip from Endaoment introducing their platform, helping to educate potential users. ",
   "impactMetrics": [
     {
@@ -96,7 +93,6 @@
   "RPGF3_Application_UID": "0x9ed5d5fc438d8bb81db84be0d60f87ac870b4f96088de0e1e5e653c98f485a4a",
   "applicantAddress": "0xA50064D462e17f7091eE62BaebeB18BFEBE21507",
   "pwCategorySuggestions": "Content Creation, Community Building, Education",
-  "pwCategory": "Education & Learning",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true
 }

@@ -39,6 +39,5 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, the application is incorrectly categorized as it is made by an individual named Victoria, as mentioned in the bio.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Blockchain Education",
-  "pwCategory": "Education & Learning"
+  "pwCategorySuggestions": "Blockchain Education"
 }

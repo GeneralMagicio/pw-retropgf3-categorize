@@ -10,9 +10,7 @@
       "description": "Detopia economic houses contract"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Phase 1 of the houses of the city was 1000 cool digital houses and was dropped to optimism NFT community free. we gave whitelist of this collection to top 4 optimism NFT collections in all-time volume. the map of the city which its houses is tradeable is a unique experience for NFT enthusiasts on optimism.",
   "impactMetrics": [
     {
@@ -36,7 +34,6 @@
   "RPGF3_Application_UID": "0xd3c5fa10fa4e4574d675323e2fa635b75a81426212ebaf1ff647068b56fc010f",
   "applicantAddress": "0x87731e3ac4A5AfeAE1D8C7f08c434998393B0cAC",
   "pwCategorySuggestions": "NFTs, Web3 Community Platform, Decentralized Identity",
-  "pwCategory": "NFT Integration",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true
 }

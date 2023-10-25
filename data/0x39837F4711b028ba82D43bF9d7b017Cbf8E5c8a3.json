@@ -10,9 +10,7 @@
       "description": "N/A"
     }
   ],
-  "impactCategory": [
-    "COLLECTIVE_GOVERNANCE"
-  ],
+  "impactCategory": ["COLLECTIVE_GOVERNANCE"],
   "impactDescription": "My contributions to the Optimism Collective have had a profound and lasting impact, serving as a catalyst for positive change and fostering a deeper understanding of the initiative's core principles. By focusing on education and advocacy, I was able to illuminate the transformative potential of Optimism to a broad audience, ensuring that more individuals could access, understand, and benefit from its offerings.",
   "impactMetrics": [
     {
@@ -45,6 +43,5 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, it is not correctly categorized because it talks about \"I\" and \"my,\" indicating it's an individual, not a project.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Blockchain Education, Tokenization Platforms",
-  "pwCategory": "Education & Learning"
+  "pwCategorySuggestions": "Blockchain Education, Tokenization Platforms"
 }

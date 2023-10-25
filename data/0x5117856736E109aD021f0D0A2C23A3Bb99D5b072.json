@@ -10,9 +10,7 @@
       "description": "Kazoku is the name for family and it the code-name for our DAO management tool."
     }
   ],
-  "impactCategory": [
-    "COLLECTIVE_GOVERNANCE"
-  ],
+  "impactCategory": ["COLLECTIVE_GOVERNANCE"],
   "impactDescription": "We have built a tool which offers the ability to manage shares in a DAO much like a traditional organization would through options. The impact is far reaching and allows any DAO community using DAOHaus v3 to manage their organization to operate with better visibility and less friction.",
   "impactMetrics": [
     {
@@ -34,7 +32,6 @@
   "RPGF3_Application_UID": "0x6ef6091ca42e3abb27b68f238d9b72a68bda3a4f6cb8a2601ba3da2d4bd2e099",
   "applicantAddress": "0x5117856736E109aD021f0D0A2C23A3Bb99D5b072",
   "pwCategorySuggestions": "Governance & Tokens, Decentralized Finance (DeFi), Web3 Community Platform",
-  "pwCategory": "Decentralized Governance",
   "pwIsFlagged": false,
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, the application is incorrectly categorized as a project. The bio indicates it is an individual who contributes to multiple projects.",

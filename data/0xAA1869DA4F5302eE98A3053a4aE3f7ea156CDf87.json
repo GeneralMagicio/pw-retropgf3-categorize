@@ -10,9 +10,7 @@
       "description": "You can help me with the "
     }
   ],
-  "impactCategory": [
-    "OP_STACK"
-  ],
+  "impactCategory": ["OP_STACK"],
   "impactDescription": "Hi I'm here for you can you can help me with your project for the moon and back to work tomorrow and I will be there in about a half hour and a half hour and a half hour and a half hour and a half hour and a half hour and a half hour and a half hour and a ",
   "impactMetrics": [
     {
@@ -46,6 +44,5 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, this seems to be an INDIVIDUAL applicant as the bio and descriptions use singular pronouns such as \"I\" and \"me\".",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, User Experience & Adoption, Cryptocurrency Services",
-  "pwCategory": "The provided project description is not clear and contains irrelevant information for categorization. Therefore, it is impossible to accurately assign it to any of the provided categories."
+  "pwCategorySuggestions": "Community Building, User Experience & Adoption, Cryptocurrency Services"
 }

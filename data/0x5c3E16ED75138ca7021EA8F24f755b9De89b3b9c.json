@@ -10,9 +10,7 @@
       "description": "great"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "greatgreat project i follow this project 2 years this is great succefull all time . thanks for shearing this wonderful opportunity . huge successful . this project interface is amazing . and i try optimism bridge very fast work . Positive thinking refers to a belief or mental attitude which makes us think that good things will happen eventually and our efforts will pay off sooner or later. It is the opposite of negative thinking which makes our mind full of stress and fear. Thus, an essay on positive thinking will show us how it reinforces thoughts like optimism and hope and works wonders.",
   "impactMetrics": [
     {
@@ -46,6 +44,5 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, it is not correctly categorized. This is likely an INDIVIDUAL application because it is frequently speaking in the first person such as \"i follow this project\" and \"i try optimism bridge\".",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Finance (DeFi)",
-  "pwCategory": "Finance & DeFi"
+  "pwCategorySuggestions": "Decentralized Finance (DeFi)"
 }

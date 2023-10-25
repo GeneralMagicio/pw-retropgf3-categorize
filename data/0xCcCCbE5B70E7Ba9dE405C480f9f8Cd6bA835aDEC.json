@@ -20,9 +20,7 @@
       "description": "Top yields and TVL for single-token vaults on Optimism"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Aside from BSC (our native chain), OP and Base Chain are our top TVL chains right now\n\n- On OP: 26 vaults. Launched Nov’22. TVL at $4.5M+ (ATH of $11M+ in Mar)\n- key ecosystem vaults like OP and OP-ETH\n\n- On Base: 22 vaults. Launched Sep’23. TVL at $1.2M+\n- Supported Base LPs and vaults, eg USDbC, cbETH\n\nOur ACLM maintained a tight range on V3 positions, hosting a big % of active liquidity on the pools managed. This facilitated better + bigger swap volumes on key tokens.\n\nMetrics - Currently hosting:\n90%+ of active liquidity on UniV3 for USDT/DAI, USDC/USDT\n20%+ on wstETH/ETH\n50%+ on USDC/USDbC\n\n- We actively posted developments about OP in our socials, bringing user awareness to OP/Base\n- Other initiatives: sharing our content to OP Discord, + sharing insights in OP community Spaces\n",
   "impactMetrics": [
     {
@@ -78,7 +76,6 @@
   "RPGF3_Application_UID": "0x32033fcd4dc814d1c0e903446719154dc1466ba27b1422a1e6c664ade1c8adbf",
   "applicantAddress": "0xCcCCbE5B70E7Ba9dE405C480f9f8Cd6bA835aDEC",
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Automated Liquidity Management, Vault Optimization",
-  "pwCategory": "Finance & DeFi",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true
 }

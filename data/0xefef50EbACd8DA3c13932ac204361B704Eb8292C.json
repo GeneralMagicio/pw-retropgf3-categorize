@@ -15,9 +15,7 @@
       "description": "Web UI for abi-to-sol"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM"],
   "impactDescription": "abi-to-sol enhances interoperability within the Optimism ecosystem by automating Solidity interface generation from ABI files. This significantly lowers the barrier to interfacing with existing Optimism contracts. Without abi-to-sol, programmers would have to manually write these interfaces, a tedious and error-prone task. By eliminating this manual effort, the tool fosters a more interconnected blockchain ecosystem, encouraging the creation of complex, interlocking smart contracts on Optimism. Users across the smart contract development ecosystem regularly applaud abi-to-sol for its utility in streamlining this process.",
   "impactMetrics": [
     {
@@ -47,7 +45,6 @@
   "RPGF3_Application_UID": "0xb35269ecc1f0a00cdbd12ba986f61174ae69bc6274aaabbb8ec13eff0ea1b461",
   "applicantAddress": "0xefef50EbACd8DA3c13932ac204361B704Eb8292C",
   "pwCategorySuggestions": "Smart Contract Development, Interoperability",
-  "pwCategory": "Smart Contract Development Tools",
   "pwIsFlagged": false,
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, it is not correctly categorized. The application talks about personal projects, uses \"I\" and \"me\", indicating that it is an individual applicant, not a project.",

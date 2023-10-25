@@ -10,9 +10,7 @@
       "description": "website"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Helped with education. We have had an ep about Optimism in 2021, and generally have been working in the Ethereum ecosystem for a long while. More generally, the ZKPodcast covers the latest in zero knowledge research and applications, the open web as well as future technologies and paradigms that promise to change the way we interact — and transact — with one another online. ",
   "impactMetrics": [
     {
@@ -35,6 +33,5 @@
   "applicantAddress": "0x0b0E6486648FBBb8E9ab33e3ae9D0B44B6faa701",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Content Creation, Blockchain Education, Community Building",
-  "pwCategory": "Education & Learning"
+  "pwCategorySuggestions": "Content Creation, Blockchain Education, Community Building"
 }

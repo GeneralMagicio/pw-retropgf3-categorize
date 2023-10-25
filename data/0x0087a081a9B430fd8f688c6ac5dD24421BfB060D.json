@@ -45,9 +45,7 @@
       "description": "#GovernanceDay: Joxes - Deciphering Governance in Ethereum Rollups"
     }
   ],
-  "impactCategory": [
-    "COLLECTIVE_GOVERNANCE"
-  ],
+  "impactCategory": ["COLLECTIVE_GOVERNANCE"],
   "impactDescription": "We believe that community delegation positively influenced Optimism's forum, both in terms of quantity and quality.\n\nIn Latin America, we were pioneers in promoting governance topics in our region, even inspiring the creation of the first Brazilian Optimism community (https://x.com/OptimismPT/status/1703054570656760315).\n\nAs SEED Latam, we've made significant strides in the Optimism ecosystem, creating a delegation, forming a new community, changing our name, and expanding our team.\n\nThe most notable impact has been our collective governance experience, conducted in real-time, without becoming a DAO. We are committed to actively developing mechanisms to combat apathy and facilitate the democratization of information and decision-making within the Optimistic Collective.",
   "impactMetrics": [
     {
@@ -115,6 +113,5 @@
   "applicantAddress": "0x0087a081a9B430fd8f688c6ac5dD24421BfB060D",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Governance & Tokens, Community Building, Developer Ecosystem",
-  "pwCategory": "Community & Social"
+  "pwCategorySuggestions": "Governance & Tokens, Community Building, Developer Ecosystem"
 }

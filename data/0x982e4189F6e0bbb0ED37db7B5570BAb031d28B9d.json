@@ -10,9 +10,7 @@
       "description": "yo"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "im user optimism like holding nft and share list recomended project sure have whitelist im user optimism like holding nft and share list recomended project sure have whitelist im user optimism like holding nft and share list recomended project sure have whitelist im user optimism like holding nft and share list recomended project sure have whitelist ",
   "impactMetrics": [
     {
@@ -40,6 +38,5 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, the application uses \"I\" and \"me\" indicating this application is by an individual.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "NFT Aggregator, Community Building, User Experience & Adoption",
-  "pwCategory": "NFT Integration"
+  "pwCategorySuggestions": "NFT Aggregator, Community Building, User Experience & Adoption"
 }

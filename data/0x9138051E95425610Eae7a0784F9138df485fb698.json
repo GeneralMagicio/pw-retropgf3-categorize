@@ -20,9 +20,7 @@
       "description": "Translator Data & Address"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Translated content allows the Optimism collective to diversify its members and be more accessible to the global markets and communities. This diversity strengthens the Collective's ability to decentralise, as well as expand available user groups. Localisation also makes Optimism more inclusive and welcoming to the world <3",
   "impactMetrics": [
     {
@@ -68,7 +66,6 @@
   "RPGF3_Application_UID": "0xe97f58b3c9ba77ea09f9df85da3d606d913c435aff077a1782390b86477c0bc1",
   "applicantAddress": "0x9138051E95425610Eae7a0784F9138df485fb698",
   "pwCategorySuggestions": "Content Creation, Community Building, User Experience & Adoption",
-  "pwCategory": "Community & Social",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true
 }

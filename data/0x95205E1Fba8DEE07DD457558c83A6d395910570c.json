@@ -40,9 +40,7 @@
       "description": "Before the NFT contact Base Zora"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "I am a small project with less experience than other projects. Im currently still learning and attempting to bring as much value to this space as possible. With that said I believe my contribution is assembling a NFT / staking / marketplace and community built around it. I believe my greatest impact is coming as this project finds greater traction, adoption, a implementation and further deployment. ",
   "impactMetrics": [
     {
@@ -82,6 +80,5 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, it is not correctly categorized. This application includes too many personal pronouns (\"I\", \"me\") which suggest it is from an individual, not a project.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Non-Fungible Tokens (NFTs), Staking Platforms, Community Building",
-  "pwCategory": "NFT Marketplace"
+  "pwCategorySuggestions": "Non-Fungible Tokens (NFTs), Staking Platforms, Community Building"
 }

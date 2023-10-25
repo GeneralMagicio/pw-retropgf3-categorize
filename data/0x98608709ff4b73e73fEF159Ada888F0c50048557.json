@@ -10,9 +10,7 @@
       "description": "This was the ZuConnect trip page"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Brought users, awareness, and an interesting use case of asynchronous crypto payments to Optimism in the community event space, targeting a high quality group of crypto early adopters and other applicants to Vitalik Buterin's startup city. It created an educational point for those who hadn't already experienced Optimism or using an L2 before.",
   "impactMetrics": [
     {
@@ -47,7 +45,6 @@
   "RPGF3_Application_UID": "0x5a8b2dc9ed6835d5cd846bf77cf2a8ae83f80fab8e66e873c664f0c9e41a0dea",
   "applicantAddress": "0x98608709ff4b73e73fEF159Ada888F0c50048557",
   "pwCategorySuggestions": "Decentralized Identity, Community Building, Layer 2 Scaling",
-  "pwCategory": "Decentralized Community Building",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true
 }

@@ -10,10 +10,7 @@
       "description": "A curated list of awesome resources related to the Optimism ecosystem "
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM",
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Awesome Optimism comprises over 150 awesome resources covering diverse categories within the Optimism Ecosystem. It serves as a hub for developers and enthusiasts looking for relevant information and tools. The repository is also featured on multiple Optimism community resources, including Web3explorer. \n\nAwesome Optimism offers visibility and recognition for projects or community resources contributing to the Optimism ecosystem. Community contributions are also actively encouraged to foster a vibrant and collaborative environment around Optimism. ",
   "impactMetrics": [
     {
@@ -37,7 +34,6 @@
   "RPGF3_Application_UID": "0xe7dbc759d8e95884cef5cb0f710690abd5686297af6d90c7e48e0b624fce86d3",
   "applicantAddress": "0x82aCDE34C057B009041B030f34F03a11f50735bf",
   "pwCategorySuggestions": "Blockchain Education, Developer Ecosystem, Community Building",
-  "pwCategory": "Developer Education",
   "pwIsFlagged": false,
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, it is not correctly categorized because the application uses singular pronouns like \"I\" and \"me\", so it should be categorized as an \"INDIVIDUAL\".",

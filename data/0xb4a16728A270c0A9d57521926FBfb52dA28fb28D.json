@@ -35,9 +35,7 @@
       "description": "Vaults"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "NFT Market: By allowing listings in stables, sellers can fix a stable floor price; allowing listings in the underlying token, e.g., listings of veVELO for VELO, creates a zero-slippage offer. >750k USD in value has been transacted using these contracts. >10k USD in fees have been cumulatively saved by users who choose our NFT Market over others. Since launch, its volume is several times that of all other NFT Markets on Optimism combined.\n\n800+ users (and four protocols) have utilized opxVELO for liquid exposure to veVELO.  ",
   "impactMetrics": [
     {
@@ -76,6 +74,5 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO. The application is categorized as a project, but mentions an individual (\"I would like to nominate Alex, our only developer, for RPGF. He brought two years of web3 experience to Optimism without incentive.\"). The application should be recategorized as an INDIVIDUAL.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Finance (DeFi), Non-Fungible Tokens (NFTs), Blockchain Infrastructure",
-  "pwCategory": "NFT Marketplace"
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Non-Fungible Tokens (NFTs), Blockchain Infrastructure"
 }

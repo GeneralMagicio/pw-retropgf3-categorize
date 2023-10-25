@@ -10,9 +10,7 @@
       "description": "Overview of the app"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Interface has been the go-to place for Mirror article explorations since the feature launch in June this year. Users get notified when there favourite creators drop new publications, while also have a feed of recommended articles to explore. Besides, we have been supporting Base on Mirror from day one.\n\nWhen it comes to other media types, the new cryptomedia feed has been getting good traction despite being a very new feature. Users get to explore and be first to mint the most interesting and relevant content, that they otherwise might not have discovered at all. At the same time, Interface serves as a distribution channel for creators that are now able to reach new audiences.",
   "impactMetrics": [
     {
@@ -41,7 +39,6 @@
   "RPGF3_Application_UID": "0xa571be4c06b5885440e5924d0c047ef911b6ebdcfa173e0c2c176570355a566a",
   "applicantAddress": "0x3b5359709945587Af3d800aA174B3E2dDc92d38d",
   "pwCategorySuggestions": "Content Creation, Media Production, User Experience & Adoption",
-  "pwCategory": "User Interface & Experience",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true
 }

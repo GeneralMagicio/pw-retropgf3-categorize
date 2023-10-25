@@ -20,10 +20,7 @@
       "description": "RainbowKit embedded in Optimism's boiler plate"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION",
-    "OP_STACK"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION", "OP_STACK"],
   "impactDescription": "- RainbowKit's (RK) fast, easy and highly customizable set up has made it easier for developers to build and deploy dapps on multiple networks. \n-RK has become the leading \"Connect Wallet\" SDK, powering 27% of top 100 dapps across chains, including Optimism, Base, and Zora's native web properties and Optimism's official starter kit.\n- RK is committed to supporting OP Stack chains out of the box, adding Zora Chain and Base at launch with all network branding.\n- RK network management improvements make switching, connecting and signing transactions with OP chains easy and reliable for users. Users are 39% more likely to complete transaction on OP chain in dapps that use RK vs other connectors. Users are 139% more likely to switch networks after completing a transaction in RK dapps. ",
   "impactMetrics": [
     {
@@ -77,7 +74,6 @@
   "RPGF3_Application_UID": "0x723da383185924834ea462c791d4e21dac5dedc94ba164bd37adc571ba5008ed",
   "applicantAddress": "0x7a3d05c70581bD345fe117c06e45f9669205384f",
   "pwCategorySuggestions": "User Experience & Adoption, Blockchain Infrastructure",
-  "pwCategory": "Developer Tools",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true
 }

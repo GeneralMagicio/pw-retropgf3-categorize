@@ -35,10 +35,7 @@
       "description": "EAS Scan: All passport.gitcoin.co attestations"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM",
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Our team at Gitcoin Passport has bolstered Optimism's security and trust. We deployed Onchain Stamps for Sybil-resistant identity, leading to ~ 13,000 Passports pushed onchain to OP. We've also been instrumental in OP incentive programs like ShapeShift’s, disqualifying over 5,700 Sybil-linked addresses and saving 45,000+ OP tokens. Our efforts extend to campaigns with Tide and Bankless Academy, creating a safer, more robust Optimism. The impact benefits developers, users, and companies involved in token incentives.",
   "impactMetrics": [
     {
@@ -79,7 +76,6 @@
   "RPGF3_Application_UID": "0x9c44ab1650391a658a0e1febe3bfd3f64b0e12e2bf407b1eeda6b45117519858",
   "applicantAddress": "0x83108A0653a14EAeB8301E7b10a37CfAc39C82f6",
   "pwCategorySuggestions": "Decentralized Identity, Blockchain Infrastructure, Community Building",
-  "pwCategory": "Identity & Security",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true
 }

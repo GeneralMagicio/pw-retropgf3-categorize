@@ -10,9 +10,7 @@
       "description": "instagram page where documentation will be aligned "
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Haven't received any funding, we'll do some deep diving and research into our next couple podcast episode's topic. Once we've gathered all the information, we'll work together to structure and draft the script, ensuring it's engaging and insightful for our listeners. Then, we'll collectively gear up the technical elements required for recording and editing. With everything set up, we'll go ahead and record the episode. After post-production, we'll put all our efforts into marketing and promoting, boosting our listener-ship. These are the steps we, as a team, will follow.",
   "impactMetrics": [
     {
@@ -48,7 +46,6 @@
   "RPGF3_Application_UID": "0x07617b877f2b5d46526615b2a8cf20f49c7ed98af9fd59496a4aad0dbfe54caa",
   "applicantAddress": "0xc7DfbB5262852a50080c601CeDa9B3D2459a0969",
   "pwCategorySuggestions": "Content Creation, Community Building, Media Production",
-  "pwCategory": "Content & Media",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true
 }

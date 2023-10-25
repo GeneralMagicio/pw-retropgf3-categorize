@@ -55,10 +55,7 @@
       "description": "Recent Demo Day"
     }
   ],
-  "impactCategory": [
-    "COLLECTIVE_GOVERNANCE",
-    "DEVELOPER_ECOSYSTEM"
-  ],
+  "impactCategory": ["COLLECTIVE_GOVERNANCE", "DEVELOPER_ECOSYSTEM"],
   "impactDescription": "PublicHAUS enhanced DAOhaus Protocol's scalability and accessibility on Optimism, lowering technical hurdles via DAOhaus SDK. Events and Community Calls spurred engagement, while educational content on various platforms enriched DAO/web3 understanding. Governance simplification empowered individuals, benefiting Optimists and projects seeking decentralized governance. Cross-community collaborations fostered by PublicHAUS's ethos enriched both ecosystems with diverse insights, creating a robust, community-centric protocol essential for decentralized governance.",
   "impactMetrics": [
     {
@@ -107,6 +104,5 @@
   "applicantAddress": "0x67243d6c3c3bDc2F59D2f74ba1949a02973a529d",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Governance, Developer Ecosystem, Collaborative Ecosystem",
-  "pwCategory": "Decentralized Governance"
+  "pwCategorySuggestions": "Decentralized Governance, Developer Ecosystem, Collaborative Ecosystem"
 }

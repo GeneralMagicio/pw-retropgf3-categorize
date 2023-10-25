@@ -20,10 +20,7 @@
       "description": "This is the contract deployed on Base for Code Connect"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM",
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Through dMeter we have channeled over 50k dollars’ worth of funding to open source coders creating a decentralized monitoring, reporting and verification (dMRV) system. This system has already been used by projects on the ground doing regenerative work and has plans to expand globally. By creating these mechanisms, we can further empower the Optimism tech stack for monitoring the profound impact public good funding has and the cascading benefits that result from it. The initlal codebases we have created, such as Code Connect and data claim resolution NFT, further empower Optimism’s tech stack for the use of regenerative finance projects.  ",
   "impactMetrics": [
     {
@@ -79,7 +76,6 @@
   "RPGF3_Application_UID": "0x15c5bbe5af925ea24ed6d23a492b6b5e4945abf3091cd7eded6dd22be8fb31e4",
   "applicantAddress": "0xdAbfe7fcfC45549eb5CA56a1686F18c11520eE34",
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Tokenization Platforms, Environmental Conservation",
-  "pwCategory": "Environmental Conservation",
   "pwIsFlagged": false,
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, the application is not correctly categorized because although the applicant is contributing to a project, the bio is written in first person singular indicating it is an individual rather than a project.",

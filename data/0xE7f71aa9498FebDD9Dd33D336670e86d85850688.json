@@ -10,9 +10,7 @@
       "description": "Simple Smart Contract"
     }
   ],
-  "impactCategory": [
-    "OP_STACK"
-  ],
+  "impactCategory": ["OP_STACK"],
   "impactDescription": "Ensuring that the chain allows simple deployment for any average developer including those with little or no experience. In view of this, the simple contract I deployed ensured and proved this and that made me recommend it to other newbies like me who are interested on finding crypto innovations.",
   "impactMetrics": [
     {
@@ -39,6 +37,5 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, this application is not correctly categorized. Even though there are mentions of a smart contract, the application seems to be from an individual, as evident from the usage of first person pronouns like 'I' and 'me'.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Smart Contract Platforms, Developer Ecosystem, Blockchain Infrastructure",
-  "pwCategory": "Smart Contract Deployment"
+  "pwCategorySuggestions": "Smart Contract Platforms, Developer Ecosystem, Blockchain Infrastructure"
 }

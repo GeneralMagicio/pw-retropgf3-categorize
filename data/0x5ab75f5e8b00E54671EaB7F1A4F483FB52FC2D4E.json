@@ -48,6 +48,5 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, this application is not correctly categorized. Despite the \"PROJECT\" category, the application uses \"I\" and \"me\", indicating it is from an individual named \"Soyduende\".",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Governance & Tokens, Developer Ecosystem, Decentralized Finance (DeFi)",
-  "pwCategory": "Decentralized Governance"
+  "pwCategorySuggestions": "Governance & Tokens, Developer Ecosystem, Decentralized Finance (DeFi)"
 }

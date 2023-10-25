@@ -55,9 +55,7 @@
       "description": "Guide about Base"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Optimism and Base developers leverage DappRadar’s 420k monthly unique users to their dapps. DappRadar core audience consists of blockchain experts. Integration has opened up Optimism and Base to the DappRadar community, who use the site as an informational hub for dapp discovery. The in-depth dapp data available on DappRadar, services the needs of existing Optimism users, while also attracting traders and investors from other communities, be it for collecting, playing, or investing.\nIn addition to dapp data, DappRadar provides educational content to its community, the success of which can be seen in the impact metrics below.\n\nNB: pageview and click metrics only include chain-specific searches and do not include numbers for users comparing Optimism/Base to other chains or multichain dapps.\n",
   "impactMetrics": [
     {
@@ -103,7 +101,6 @@
   "RPGF3_Application_UID": "0x1ca89428d9e392a3b1baa84bfb6d6a06b284b20cdfceca1b3c739bf088860a9e",
   "applicantAddress": "0xE416dE13e7859Ba860de0DE3563dA1e4e97dbd97",
   "pwCategorySuggestions": "Content Creation, User Experience & Adoption, Blockchain Education",
-  "pwCategory": "Blockchain Education",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true
 }

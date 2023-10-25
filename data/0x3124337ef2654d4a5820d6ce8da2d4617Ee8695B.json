@@ -10,9 +10,7 @@
       "description": "Free"
     }
   ],
-  "impactCategory": [
-    "OP_STACK"
-  ],
+  "impactCategory": ["OP_STACK"],
   "impactDescription": "This part of your application helps badgeholders understand how your work has benefitted the Optimism Collective. We strongly encourage you spend time going into detail here free Describe your contribution(s) to Optimism\nPlease share the contributions you wish to receive RetroPGF for.",
   "impactMetrics": [
     {
@@ -38,6 +36,5 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, the application is not correctly categorized because it gives no clear indication whether it's from an individual or a project due to irrelevant and incomplete answers provided.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Blockchain Infrastructure, Developer Ecosystem, Community Building",
-  "pwCategory": "Community & Social"
+  "pwCategorySuggestions": "Blockchain Infrastructure, Developer Ecosystem, Community Building"
 }

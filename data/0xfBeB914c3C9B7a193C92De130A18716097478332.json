@@ -35,9 +35,7 @@
       "description": "WEB3 - music onchain."
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "It's impressive to see such positive results from FNA's recent events. The data clearly supports the notion that direct user interaction is a highly effective means of introducing OP technology. In the last two events, hosted and co-hosted by FNA, over 1,000 individuals were educated about OP, and more than 400 users engaged with NFTs on the OP. This demonstrates the significant impact and potential of direct user engagement in promoting and familiarizing individuals with OP technology.",
   "impactMetrics": [
     {
@@ -62,6 +60,5 @@
   "applicantAddress": "0xfBeB914c3C9B7a193C92De130A18716097478332",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Non-Fungible Tokens (NFTs), Digital Identity, Community Building",
-  "pwCategory": "NFT Integration"
+  "pwCategorySuggestions": "Non-Fungible Tokens (NFTs), Digital Identity, Community Building"
 }

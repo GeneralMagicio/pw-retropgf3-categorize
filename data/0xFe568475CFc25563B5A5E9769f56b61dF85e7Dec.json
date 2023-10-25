@@ -30,9 +30,7 @@
       "description": "Discord Server (Link expires in 30 days)"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Gathered on the Randomness Ceremony website, artists are guided and submit their NFTs to be featured and won by degens eager to acquire art and token prizes.\n\nOur website is becoming increasingly user-friendly, providing a positive experience for all visitors.\n\nWe are confident that our efforts are not merely onboarding users to Optimism, but also forging associations between the platform and enjoyable community experiences.\n\nAlso all our code is open source and uploaded to github.",
   "impactMetrics": [
     {
@@ -76,7 +74,6 @@
   "RPGF3_Application_UID": "0x74c9135b2ca59c277d93942e535f02777d2779f1fee5b88c9ff76ff20cdcd8b8",
   "applicantAddress": "0xFe568475CFc25563B5A5E9769f56b61dF85e7Dec",
   "pwCategorySuggestions": "Non-Fungible Tokens (NFTs), Community Building, Smart Contract Platforms",
-  "pwCategory": "Community & Social",
   "pwIsFlagged": false,
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, it is not correctly categorized. Despite being marked as a 'PROJECT', the application talks about \"I\" indicating it should be categorized as an 'INDIVIDUAL'.",

@@ -15,9 +15,7 @@
       "description": "And my YouTube channel!"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "I love optimism since day one, i tell my community to stake and hold OP as much as they can, i know that on bullran OP will rise and shine and it's our destiny.\nGive me a chance to contribute in the future of layer2 blockchains, hope u can hear how god whispers!",
   "impactMetrics": [
     {
@@ -44,6 +42,5 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, the application is from an individual as the text mentions \"I\" and \"me\".",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Layer 2 Scaling, Community Building, Governance & Tokens",
-  "pwCategory": "Community & Social"
+  "pwCategorySuggestions": "Layer 2 Scaling, Community Building, Governance & Tokens"
 }

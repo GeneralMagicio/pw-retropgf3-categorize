@@ -35,10 +35,7 @@
       "description": "Llama documentation"
     }
   ],
-  "impactCategory": [
-    "COLLECTIVE_GOVERNANCE",
-    "DEVELOPER_ECOSYSTEM"
-  ],
+  "impactCategory": ["COLLECTIVE_GOVERNANCE", "DEVELOPER_ECOSYSTEM"],
   "impactDescription": "1. Deployed a novel governance and access control framework on Optimism that solves critical problems relating to granular roles and custom execution strategies that have not been solved by existing systems. Llama helps save engineering resources of protocol teams.\n\n2. Four Llama instances deployed on Optimism, including two by major protocols\n\n3. $100,000 secured by Llama accounts on Optimism",
   "impactMetrics": [
     {
@@ -67,7 +64,6 @@
   "RPGF3_Application_UID": "0x16c1701d3f3053b966380d0ba120122b5aa85e58662eba445ab9894d16217ffa",
   "applicantAddress": "0xe3a195c57e13C55794Bcd7111bb5976062E7Dd55",
   "pwCategorySuggestions": "Governance & Tokens, Smart Contract Platforms, Blockchain Infrastructure",
-  "pwCategory": "Decentralized Governance",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true
 }

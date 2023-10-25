@@ -40,6 +40,5 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "Flag the application. Reason: The content of the application is not directly related to the individual’s/project’s contributions, but rather seems to be copied and pasted instructions or information about the grant program.",
   "pwCategorySuggestions": "Community Building, Marketing, Governance & Tokens",
-  "pwCategory": "Decentralized Governance",
   "pwApplicantTypeChecked": true
 }

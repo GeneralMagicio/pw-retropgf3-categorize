@@ -20,10 +20,7 @@
       "description": "DevRel Uni website"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM",
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "DevRel Uni empowers students to both learn and create valuable DevRel assets across various protocols, all while championing the growth of the web3 ecosystem. Our program is a valuable public good (https://bit.ly/46FKUWE) for the entire ecosystem. Although it doesn't exclusively target a specific protocol, the knowledge gained also seamlessly translates to Optimism",
   "impactMetrics": [
     {
@@ -67,7 +64,6 @@
   "RPGF3_Application_UID": "0xf5b0141c481f483b77750169a01a20df2661b9da668a019b640fd37d50be7b4f",
   "applicantAddress": "0xE231408d7B3AEdf18fc6127Fa09538cD489c8C33",
   "pwCategorySuggestions": "Developer Education, Web3 Education, Community Building",
-  "pwCategory": "Developer Education",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true
 }

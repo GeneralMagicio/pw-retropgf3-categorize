@@ -10,9 +10,7 @@
       "description": "Github Repository for Optimistic Indexer"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM"],
   "impactDescription": "Our open-source indexer facilitates enhanced blockchain application interactions with smart contracts. It provides efficient blockchain data access via APIs, aiding the Collective in innovation. The indexer has handled a sizable user base and events, demonstrating scalability for over 50K+ onchain users. As an open-source solution, it offers a cost-effective alternative to decentralized or in-house indexers. It simplifies transaction data and event access, enabling permissionless development. Developers and new projects, previously reliant on other indexers, benefit significantly. The indexer was employed in Polynomial's Earn Vaults v2, serving over 50K users and indexing 250K+ events, showcasing its utility. For more detailed performance insights, refer to the impact metrics section.",
   "impactMetrics": [
     {
@@ -42,6 +40,5 @@
   "applicantAddress": "0x23651C9b3Ba495f5D30867583035faCA4840870F",
   "pwIsFlagged": false,
   "pwCategorySuggestions": "Smart Contract Platforms, Tokenization Platforms, Blockchain Infrastructure",
-  "pwCategory": "Developer Tools",
   "pwApplicantTypeChecked": true
 }

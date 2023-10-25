@@ -25,9 +25,7 @@
       "description": "ChainPatrol Demo Video"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Early detection and fast response to online threats across leading Crypto Wallets protects the OP Collective and the wider crypto community from losing millions in digital asset value.\n\nChainPatrols Platform automates off-chain monitoring, saving the Trust & Safety, and Community moderators time with reporting, and takedown activities.\n\nChainPatrol is an added defence layer and takedown system mitigating the financial cost and impact of weekly wallet drainer and phishing attacks.\n\nChainPatrol data protects millions of users through leading crypto wallets. Visitors to the malicious site on both desktop and mobile devices will be shown a warning, within minutes of the threats detection.\n\nChainPatrol Public Security Portal and Discord Bot make it easy for community members to report threats",
   "impactMetrics": [
     {
@@ -79,7 +77,6 @@
   "RPGF3_Application_UID": "0xf9160cc40a4a58bbbf08c93df3fd2050b48a9fe7b7b2ce24325b6a30c265afc9",
   "applicantAddress": "0x3D9d22E1821Be3b1Ce2A8ACB6FE47fFEF04243c3",
   "pwCategorySuggestions": "Web3 Community Platform",
-  "pwCategory": "Identity & Security",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true
 }

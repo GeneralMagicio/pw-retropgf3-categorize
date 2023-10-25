@@ -115,9 +115,7 @@
       "description": "long form educational post about rollups (optimism incl)"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "The Rollup contributes to Optimism by providing educational content, fostering community discussions, and promoting the project to a wider audience. These contributions can help increase the adoption of the project, attract new contributors, and provide valuable feedback to the project team. This platform adds an educational public good for the entire industry to benefit from and learn more about crypto. Our content has helped users navigate DeFi better, protocols receive awareness about their project, and further aimed to bring the entire Optimism community to light.\n",
   "impactMetrics": [
     {
@@ -154,6 +152,5 @@
   "applicantAddress": "0xda9F0E0B550dD09A3751Ccb0f6c07Eea3E5264F3",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Finance (DeFi), Layer 2 Scaling, Education",
-  "pwCategory": "Education & Learning"
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Layer 2 Scaling, Education"
 }

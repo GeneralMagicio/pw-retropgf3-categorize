@@ -47,7 +47,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged because it violates the rule about spam as the application contains that is not in English.",
   "pwCategorySuggestions": "Community Building, Content Creation",
-  "pwCategory": "Community & Social",
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, the application is from an individual, not a project, as indicated by the use of \"我\" meaning \"I\" in the bio and contribution description.",
   "pwApplicantTypeChecked": true

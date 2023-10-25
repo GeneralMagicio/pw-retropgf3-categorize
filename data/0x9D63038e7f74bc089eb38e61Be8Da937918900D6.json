@@ -40,9 +40,7 @@
       "description": "A list of NFTs we have deployed on multiple chains and drew users to Optimism."
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "So far, we have amassed 46,000 followers on X, with 18,700 members on Discord, and our 20+ collections across various blockchains, predominantly on Optimism, have engaged with 28,800 wallets.\n\nWe maintain strong relationships with other protocols such as Galxe, Guild.xyz, Clique, QuestN, and Opti.domains. Furthermore, we provide support for up to 200 artists who have participated in our art contest. Several of them have already launched their first NFT collections on Optimism and OP stacks through our launchpad, receiving outstanding backing from our community.\n\nTo date, we have successfully incubated 8 collections, with a total supply of up to 35k, and all of them were fully minted within less than 2 hours during public mint events.",
   "impactMetrics": [
     {
@@ -99,7 +97,6 @@
   "RPGF3_Application_UID": "0x6aac506a58dbc4c0a7606f34257747b9f7c6c8f64b853af55d34c21614df69ac",
   "applicantAddress": "0x9D63038e7f74bc089eb38e61Be8Da937918900D6",
   "pwCategorySuggestions": "NFTs, Community Building, Web3 Community Platform",
-  "pwCategory": "NFT Integration",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true
 }

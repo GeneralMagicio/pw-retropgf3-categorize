@@ -25,9 +25,7 @@
       "description": "keystore solution walk through, Optimism as an example"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "We don't have much data yet since we are going through a close beta testing period. We have deployed multi-testnet contracts, several hundred testnet transactions, and smart contract wallets on Optimism Goerli testnet work. Our team is continuously monitoring performance and gathering feedback. Upcoming updates will further refine the process.",
   "impactMetrics": [
     {
@@ -58,7 +56,6 @@
   "RPGF3_Application_UID": "0x53cb6fdfffcd21aa5dfa3148f22fcbcfded49bafde4545047c2e43279fb0fbb6",
   "applicantAddress": "0xf3F527B70aF6012F328D3edE7fCd3F5F3Ca6CBA2",
   "pwCategorySuggestions": "Wallet Management, Web3 Community Platform, Decentralized Finance (DeFi)",
-  "pwCategory": "Decentralized Infrastructure",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true
 }

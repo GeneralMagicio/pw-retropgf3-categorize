@@ -30,9 +30,7 @@
       "description": "RetroPGF interviews"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Over the past year, we supported over 20 different communities from four different continents in decentralising their content distribution and created permanent archives on-chain for 11 of them.\n\nWe distributed on-chain over 1.5k workshops, talks and panels and archived over 500 of them. From keynotes to workshops we archived the best minds in the space discussing topics that range from entry-level difficulty to blockchain specialist.\n\nOur livestreams and archives have been watched over 25k times and will forever be available to the Ethereum community, permissionless.\n\nThe RetroPGF interviews counted 148.4k views, 91 comments, 41 bookmarks on Twitter. \n\nThe opensourced StreamETH platform has been fully self funded by reinvesting the revenue generated through the AV services we offer.",
   "impactMetrics": [
     {
@@ -104,7 +102,6 @@
   "RPGF3_Application_UID": "0x0b2ba3709c19f531dab7bb989f2d7086b4080561f6f49269dd1a3d469c7ef6b1",
   "applicantAddress": "0xA93950A195877F4eBC8A4aF3F6Ce2a109404b575",
   "pwCategorySuggestions": "Blockchain Infrastructure, Content Creation, Community Building",
-  "pwCategory": "Content & Media",
   "pwIsFlagged": false,
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, the application is categorized as a project but the bio indicates that it is an individual.",

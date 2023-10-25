@@ -252,7 +252,6 @@
   "RPGF3_Application_UID": "0x928a305a9e35baee41f4f5000993cf5bf3c62342ae2f34e4e11146a0a0d4148a",
   "applicantAddress": "0x5aE4a3335b1264B5910a9C64ADf8F209c45CE602",
   "pwCategorySuggestions": "Developer Tools, Identity Management, Interoperability",
-  "pwCategory": "Developer Tools",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true
 }

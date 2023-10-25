@@ -25,10 +25,7 @@
       "description": "Deresy UI"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM",
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "We are building on Optimism because we believe our evaluation tools could be used as a part of future rounds of the RetroPGF program. Based on talking with some badge holders the review process evolves each round. While our protocol has yet to be fully deployed to mainnet, we are targeting a launch before the end of the year. We have employed six developers who are now building on Optimism. We are working closely with Hypercerts Protocol to become the evaluation layer for Hypercerts, a Claim of Impact. We are talking to Gitcoin and other grantmakers who can use our tools to verify grantee impact. We are designing funding mechanisms for the impact certificates to drive additional users to OP. Receiving RetroPGF will support our team as we continue to add value to Optimism.",
   "impactMetrics": [
     {
@@ -57,7 +54,6 @@
   "RPGF3_Application_UID": "0x9359577504bc54685070e27e7da2343605e1ec520ee78ee1f81096e0408089a7",
   "applicantAddress": "0xe3F4F3aD70C1190EC480554bbc3Ed30285aE0610",
   "pwCategorySuggestions": "Non-Fungible Tokens (NFTs), Smart Contract Platforms, Blockchain Infrastructure",
-  "pwCategory": "Social Impact",
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for violating the first rule of the grant program: promises of future impact - promises of future deliverables or impact are not allowed. In the application, there is mention of targeting a launch before the end of the year and plans to add value to Optimism, which are all future promises.",
   "pwApplicantTypeChecked": true

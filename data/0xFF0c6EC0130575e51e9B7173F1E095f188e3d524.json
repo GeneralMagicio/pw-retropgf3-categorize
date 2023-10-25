@@ -20,9 +20,7 @@
       "description": "Marketing assets in support of distribution. "
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Our Onchain Media Enthusiast mint experience launched on Thursday Sept 28. It was deployed on Base and is free to collect forever. Minting allowed collectors to co-sign the Onchain Media Enthusiast manifesto. We surfaced collectors/co-signers to the native mint page. \n\nThe collectible garnered over 300 mints in the first 24 hours, and there have been 689+ since launch. To date, the Onchain Media Enthusiast mint has activated 571+ holders on the OP stack.  We purposefully built a delightful and seamless mint experience using Decent's The Box, and deployed to Base L2 in order to make the mint accessible to as many collectors as possible. \n\nIn addition to the native mint site build, we also created dynamic marketing assets to support distribution. ",
   "impactMetrics": [
     {
@@ -78,7 +76,6 @@
   "RPGF3_Application_UID": "0x168c3f157522e723c835ba79d4014f8b2a13637b668d43b4b922bc27231ad1ba",
   "applicantAddress": "0xFF0c6EC0130575e51e9B7173F1E095f188e3d524",
   "pwCategorySuggestions": "NFT Aggregator, Onchain Media, Community Building",
-  "pwCategory": "Content & Media",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true
 }

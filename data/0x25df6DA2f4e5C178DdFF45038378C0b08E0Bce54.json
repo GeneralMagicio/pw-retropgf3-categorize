@@ -45,9 +45,7 @@
       "description": "We hosted ETH Hangzhou hackathon in Hangzhou, China, October 2023. "
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM"],
   "impactDescription": "1. Optimism shares the same developer stack with Ethereum. We have created one of the most impactful open-source tutorials in Solidity, Ethers.js, and more in Chinese and English. All the optimism developers will benefit from them.\n2. We will launch on-chain certificates on optimism, bringing massive developers to the optimism collective.\n3. We hosted 2 IRL Ethereum hackathons in China, bringing the optimism vibe to Chinese web3 developers.",
   "impactMetrics": [
     {
@@ -95,6 +93,5 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged because it promises future impact that violates the first rule - \"We will launch WTF on-chain certificates on optimism by the end of 2023.\".",
   "pwCategorySuggestions": "Blockchain Education, Developer Ecosystem, Community Building",
-  "pwCategory": "Education & Learning",
   "pwApplicantTypeChecked": true
 }

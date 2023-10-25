@@ -114,6 +114,5 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO. The application is from an individual acting as the core team member of Ethereum Attestation Service, hence it should be categorized as \"INDIVIDUAL\".",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Identity, Governance & Tokens, Tokenization Platforms",
-  "pwCategory": "Identity & Security"
+  "pwCategorySuggestions": "Decentralized Identity, Governance & Tokens, Tokenization Platforms"
 }

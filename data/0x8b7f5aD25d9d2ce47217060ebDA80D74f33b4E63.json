@@ -45,9 +45,7 @@
       "description": "Multiformats"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM"],
   "impactDescription": "IPFS is a system for moving data across decentralized networks, with >11M weekly users and 250K public p2p nodes. Highlights:\n\n1. Off-chain storage. IPFS provides verifiable, off-chain storage, often used to reduce on-chain needs in Ethereum & Optimism. Examples: TrueBlocks (local IPFS-based index for EVM chains, built with grants from OP & EF), Snapshot (IPFS-based off-chain voting).\n\n2. Go-to distribution network for fully decentralized third-party app frontends (for gaming, DeFi, & more). We run gateway services that serve 900M requests/wk, and added native IPFS support to browsers like Chromium & Brave.\n\n3. NFT metadata gold standard. Over 115M NFTs are stored on IPFS, including leading platforms OpenSea (which supports Optimism NFTs), Rarible, and Zora.\n",
   "impactMetrics": [
     {
@@ -83,7 +81,6 @@
   "RPGF3_Application_UID": "0xf60aa7b567c5deb1a6c8f3b4867d77c99e97619ad3701028db4415f367ae4eab",
   "applicantAddress": "0x8b7f5aD25d9d2ce47217060ebDA80D74f33b4E63",
   "pwCategorySuggestions": "Decentralized Web Infrastructure, NFT Storage, Web3 Gateway Services",
-  "pwCategory": "Decentralized Infrastructure",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true
 }

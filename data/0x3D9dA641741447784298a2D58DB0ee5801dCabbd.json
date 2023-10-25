@@ -39,7 +39,6 @@
   "RPGF3_Application_UID": "0xc44bfd0bcabb3729f178bac563375f486dcef9fce779d2848d979d06b3a9b5ad",
   "applicantAddress": "0x3D9dA641741447784298a2D58DB0ee5801dCabbd",
   "pwCategorySuggestions": "Layer 2 Scaling, Governance & Tokens, Blockchain Infrastructure",
-  "pwCategory": "Decentralized Governance",
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for promising future impact, as the project has not yet deployed on Optimism and is outlining plans and benefits for future integration with Optimism.",
   "pwApplicantTypeChecked": true

@@ -10,9 +10,7 @@
       "description": "Public Goods Funding day at CCG23 recording"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "-Having contributed significantly to discussions about blockchain and PGF: when we started in 2021, the topic was much less invested of attention, and the experts/projects in our network have influenced the development of the collective knowlegde on PGF/RPF.\n\n-In the last period and in the last event OC has been object of theoretical and practical debate in our community, during the event itself it was an hot topic (as this round of applications was coming) and we had an optimism onboarding session specifically.\n\nAs a non profit we consider that despite the lack of on-chain proofs of our impact on OC, our qualitative contribution to the whole space is significant enough to ask for a small grant (even 1000/2000 USD in OP value) in this RPF round and it would be a good support.",
   "impactMetrics": [
     {
@@ -49,7 +47,6 @@
   "RPGF3_Application_UID": "0xe7d4cf0cda38c0f0b1ac0853ccaaa23d7c0569412604935edfa57cbb1ec7077b",
   "applicantAddress": "0xb013701563Fe41358c9308C3020B8DDD71225CB8",
   "pwCategorySuggestions": "Community Building, Blockchain Education",
-  "pwCategory": "Community & Social",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true
 }

@@ -62,7 +62,6 @@
   "RPGF3_Application_UID": "0x95bba9455fa1028d59c069660656b3fe0b46d7b2e1883b091c5b04b810bc7525",
   "applicantAddress": "0xc2E2B715d9e302947Ec7e312fd2384b5a1296099",
   "pwCategorySuggestions": "Developer Ecosystem, Funding Platform, Community Building",
-  "pwCategory": "Decentralized Community Building",
   "pwIsFlagged": false,
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO. The application is categorized as a \"PROJECT\" but it's from an \"INDIVIDUAL\" named Kyle who is associated with the Gitcoin project.",

@@ -20,10 +20,7 @@
       "description": "Bankless Tamil instagram account"
     }
   ],
-  "impactCategory": [
-    "COLLECTIVE_GOVERNANCE",
-    "OP_STACK"
-  ],
+  "impactCategory": ["COLLECTIVE_GOVERNANCE", "OP_STACK"],
   "impactDescription": "From coordination side:\nThe Optimism collective was able to market its vision and values to a global community which generated 29,640 views in 11 languages, through 191 pieces of translated content including Newsletter, twitter threads and youtube videos. (detailed stats: https://www.notion.so/adfe3690f22f45099250abe727dd6fee?v=bff82ebe46a2441d8d419a455a943a9d)\n\nWe also helped translate the Bankless Academy lesson on Optimism into 5 languages.\n\nFrom content creation side (reported in impact metrics below)\nChinese node - 3,830 views form 17 pieces of translated content.\nTamil node - 1,399 views from 22 pieces of translated content.\n\nOverall our effort was able to help raise awareness of the OP stack, help adoption of the chain and assist in the improvement of collective governance.",
   "impactMetrics": [
     {
@@ -257,7 +254,6 @@
   "RPGF3_Application_UID": "0x58e1ffb5f013ddd4e2115550c407e0e4bebc2a797273f6582f49d6ba755aaa48",
   "applicantAddress": "0xACEdF0B670DB56Da6731E52841CEa7666D02Ec41",
   "pwCategorySuggestions": "Community Building, Content Creation, Web3 Community Platform",
-  "pwCategory": "Community & Social",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true
 }

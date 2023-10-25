@@ -15,10 +15,7 @@
       "description": "Wagmi: Reactivity for Ethereum apps"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM",
-    "OP_STACK"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM", "OP_STACK"],
   "impactDescription": "Wagmi + Viem enabled Dapps, Wallets, and Libraries to integrate with OP Stack chains: \n\n- friend.tech (Dapp): Marketplace for friends on Base, powered by Wagmi + Viem\n- Zora (Dapp):  Discover/mint NFTs on OP Stack chains, powered by Wagmi + Viem\n- mint.fun (Dapp): Discover/mint NFTs on OP Stack chains, powered by Wagmi + Viem\n- Sushi (Dapp): Swap on OP Stack chains, powered by Wagmi + Viem\n- Official Optimism/Coinbase Base bridges (Dapp): Bridging, powered by Wagmi + Viem\n- RetroPGF (Dapp): Application submission + voting, powered by Wagmi + Viem\n- Rainbow Extension (Wallet): Ethereum Wallet, OP Stack compatible, powered by Wagmi\n- Web3Modal, ConnectKit, RainbowKit (Library): \"Connect Wallet\" UI modal, powered by Wagmi + Viem\n- op-viem (Library): Viem extensions for the OP Stack\n- ++ more!",
   "impactMetrics": [
     {
@@ -143,6 +140,5 @@
   "applicantAddress": "0xd2135CfB216b74109775236E36d4b433F1DF507B",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Smart Contract Platforms, Tokenization Platforms, Blockchain Infrastructure",
-  "pwCategory": "Developer Tools"
+  "pwCategorySuggestions": "Smart Contract Platforms, Tokenization Platforms, Blockchain Infrastructure"
 }

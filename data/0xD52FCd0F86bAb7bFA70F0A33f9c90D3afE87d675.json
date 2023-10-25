@@ -10,9 +10,7 @@
       "description": "Superchain Operations, Security Council Rehearsals"
     }
   ],
-  "impactCategory": [
-    "OP_STACK"
-  ],
+  "impactCategory": ["OP_STACK"],
   "impactDescription": "The exhaustive testing, feedback, and bug discovery provided by the Security Council beta testers delivered immense value for reducing risk and increasing preparedness as a foundational governance component was launched.\n\nBy thoroughly stressing testing the procedures and systems during the rehearsals, problematic gaps were identified that could have led to issues down the line. The group's participation enabled ambiguities and vulnerabilities to be addressed proactively before the Council went live.",
   "impactMetrics": [
     {
@@ -47,6 +45,5 @@
   "applicantAddress": "0xD52FCd0F86bAb7bFA70F0A33f9c90D3afE87d675",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Governance & Tokens, Developer Ecosystem, Smart Contract Platforms",
-  "pwCategory": "Decentralized Governance"
+  "pwCategorySuggestions": "Governance & Tokens, Developer Ecosystem, Smart Contract Platforms"
 }

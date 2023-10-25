@@ -87,7 +87,6 @@
   "RPGF3_Application_UID": "0xfdb45ad951e4e219798dfcc58f2cacfe4be7466de58af866ff0d3d10f2d311f9",
   "applicantAddress": "0x7916Dba3A610B020d77c0CCFd4Bd717ee400A5f2",
   "pwCategorySuggestions": "Decentralized Governance, Blockchain Infrastructure, Community Building",
-  "pwCategory": "Decentralized Governance",
   "pwIsFlagged": false,
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, the application is not correctly categorized because although it was submitted by the founder, it discusses the work and contributions of a project named \"Karma,\" it should be categorized as a \"PROJECT\".",

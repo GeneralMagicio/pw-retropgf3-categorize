@@ -10,9 +10,7 @@
       "description": "Twitter account for CIS citizens "
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "The followers and viewers of the OptimismCIS Twitter account have gained extensive experience and knowledge about the Optimism project and also about projects built on Optimism.\nIt has now become easier for CIS citizens to begin their journey in the Optimism Project",
   "impactMetrics": [
     {
@@ -35,7 +33,6 @@
   "RPGF3_Application_UID": "0xed15cd4ad689bdda412a7b835ab519c2ce975d1b3b4a59142fb620d6996188f0",
   "applicantAddress": "0xB5759de539114751CA6dB8D967Ad21913Df25eCF",
   "pwCategorySuggestions": "Content Creation, Community Building, User Experience & Adoption",
-  "pwCategory": "Content & Media",
   "pwIsFlagged": false,
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, the application is categorized as a \"PROJECT\" but it should be \"INDIVIDUAL\" as the application talks about \"I\" and \"me\", indicating it's an individual's work.",

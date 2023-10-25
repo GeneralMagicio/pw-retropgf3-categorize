@@ -10,10 +10,7 @@
       "description": "information related to Remix CC."
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM",
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "The contributions of the Remix Chinese community can help lower the entry barrier for Chinese users to participate in OP network development, enabling OP developers to engage more effectively in the construction of the OP network, and promoting the flourishing development of the OP network.",
   "impactMetrics": [
     {
@@ -43,7 +40,6 @@
   "RPGF3_Application_UID": "0x2f2cd001b7d7594cb3410bac53730a210ef12bf04bef2ee5d90d0cf88d515fed",
   "applicantAddress": "0x883E49dd95fBe06be4e77768C2517F13801A8C6A",
   "pwCategorySuggestions": "Community Building, User Experience & Adoption, Developer Ecosystem",
-  "pwCategory": "Developer Education",
   "pwIsFlagged": false,
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, the application is not correctly categorized, it should be categorized as \"INDIVIDUAL\", since the applicant speaks about \"I\" and \"me\" in the bio.",

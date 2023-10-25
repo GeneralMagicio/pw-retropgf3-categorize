@@ -30,9 +30,7 @@
       "description": "Our portfolio"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "We are pushing for real world adoption when possible. We encourage L2 payments on the ground without being guided by the core team. \nWe have scaled from a hackers congress to ETHPrague, to EthereumZuri.ch, and continue to educate and grow the ecosystem in Europe. ",
   "impactMetrics": [
     {
@@ -87,6 +85,5 @@
   "applicantAddress": "0xCD465b3998917c42D5296d9234488A7D3148AB82",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Developer Ecosystem, Community Building, Blockchain Education",
-  "pwCategory": "Community & Social"
+  "pwCategorySuggestions": "Developer Ecosystem, Community Building, Blockchain Education"
 }

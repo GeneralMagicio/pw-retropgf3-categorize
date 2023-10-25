@@ -30,10 +30,7 @@
       "description": "Project page from EthGlobal"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM",
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "We premiered this project during the EthGlobal NYC hackathon and were overwhelmed with support from those that we demo'ed and spoke to. Many of the people we talked to told us that they were surprised to learn that such a “web2” like UX was already possible to achieve! Apps that bridge the knowledge gap between web2 and web3 are necessary for mass adoption — we just wanted to create a really fun LLM app while using crypto as the infrastructure, and we succeeded in doing so.\n\nWe also wanted to share just how great our developing experience was with other builders so we did a quick demo at the first Base Builders community session. We hope that other developers were inspired by our work!",
   "impactMetrics": [
     {
@@ -67,7 +64,6 @@
   "RPGF3_Application_UID": "0x5bd225596fa0ad55da292ea718fcf4b5e5d1e20f354b19f90f87b5765d77a784",
   "applicantAddress": "0xAA371e26742290063d92F0Bd7197aC2D8d3aC4f1",
   "pwCategorySuggestions": "End-User Experience, Wallet Management, Tokenization Platforms",
-  "pwCategory": "End-User Experience & Adoption",
   "pwIsFlagged": false,
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO. The application is submitted by an individual named Eric, despite having a project focus on BunnyAI.",

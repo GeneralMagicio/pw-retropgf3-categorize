@@ -10,9 +10,7 @@
       "description": "dfsdfsdfsdf"
     }
   ],
-  "impactCategory": [
-    "OP_STACK"
-  ],
+  "impactCategory": ["OP_STACK"],
   "impactDescription": "Describe your contribution(s) to Optimism\nPlease share the contributions you wish to receive RetroPGF for.Describe your contribution(s) to Optimism\nPlease share the contributions you wish to receive RetroPGF for.Describe your contribution(s) to Optimism\nPlease share the contributions you wish to receive RetroPGF for.Describe your contribution(s) to Optimism\nPlease share the contributions you wish to receive RetroPGF for.",
   "impactMetrics": [
     {
@@ -40,6 +38,5 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO. This application is flagged as spam and contains repeated placeholder text rather than any specific details indicating it's a project.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Developer Ecosystem, Web3 Community Platform",
-  "pwCategory": "Developer Tools"
+  "pwCategorySuggestions": "Developer Ecosystem, Web3 Community Platform"
 }

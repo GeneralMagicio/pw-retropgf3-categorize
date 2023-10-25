@@ -48,6 +48,5 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, the application uses \"I\" in the bio indicating it is an application from an individual, not a project.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, Governance & Tokens, Cryptocurrency Services",
-  "pwCategory": "Community & Social"
+  "pwCategorySuggestions": "Community Building, Governance & Tokens, Cryptocurrency Services"
 }

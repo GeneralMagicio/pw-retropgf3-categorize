@@ -25,10 +25,7 @@
       "description": "Project Github Repo"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM",
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "1. Developer Ecosystem growth\nThe Golden Boys project has brought 6 Web3 developers (representing the full stack) into the Optimism ecosystem. Our development team have contributed to Balancer, Badger, and other leading DeFi protocols. The launch of Golden Boys on Base has crystallized our activity on the OP stack and created a committed team of developers who are new to the Optimism Collective. We are excited to help build the DeFi ecosystem on Base.\n\nEnd User Experience & Adoption\nGolden Boys has brought hundreds of new users to Base. Many of these members bridged to Base the first time to participate. Our project has developed the deepest WETH/USDC liquidity on Base, a necessary asset to future growth on Base. \n\nA major DeFi player, Humpy, has also come to Base as our founder.",
   "impactMetrics": [
     {
@@ -95,7 +92,6 @@
   "RPGF3_Application_UID": "0x99d9058b2dc841fb614fa9351f3a93df1718e5f38b14e396ba764d53450924ab",
   "applicantAddress": "0x82Fe5244335D3D91BF2241199A116AAF97102D3B",
   "pwCategorySuggestions": "Developer Ecosystem Growth, End-User Experience & Adoption",
-  "pwCategory": "Finance & DeFi",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true
 }

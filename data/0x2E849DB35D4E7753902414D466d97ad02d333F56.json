@@ -10,9 +10,7 @@
       "description": "Close to half of my tx have come from covering OP campaigns"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "As mentioned in the first description, I have covered the Optimism network and ecosystem quite extensively. I will include links to each of my videos, as well as the viewer count for each one. I have had quite a lot of engagement on youtube and twitter from new and experienced users asking for help navigating campaign tasks and projects on Optimism.",
   "impactMetrics": [
     {
@@ -139,7 +137,6 @@
   "applicantAddress": "0x2E849DB35D4E7753902414D466d97ad02d333F56",
   "pwIsFlagged": false,
   "pwCategorySuggestions": "Content Creation, Community Building, User Experience & Adoption",
-  "pwCategory": "Education & Learning",
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, the application is not correctly categorized. Although the applicant uses a project-like name, the bio and contribution clearly points to an individual as it talks about \"I\" and \"my\".",
   "pwApplicantTypeChecked": true

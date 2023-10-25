@@ -10,10 +10,7 @@
       "description": "Users can get free public endpoints for all OP-stacked chains on our site."
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM",
-    "OP_STACK"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM", "OP_STACK"],
   "impactDescription": "We began supporting Optimism in August 2022, BASE in July 2023, and Optimism Sepolia in September 2023; public endpoints are now available on nodies.app for all 3. We integrated these chains free of charge, and have served over 4 billion RPC requests to date. In all, we have served over 85 billion requests, across 19 networks, and we are constantly growing. Looking ahead, we believe the Superchain will have a wide-reaching impact on the Etheruem at large, and we are committed to investing into the future of Optimism, and we look forward to supporting all OPstack-based L2’s (Zora and Public Goods Network) as soon as they become publicly available.",
   "impactMetrics": [
     {
@@ -45,6 +42,5 @@
   "applicantAddress": "0x24372Ba79203e2c68bB7615032A172E3DAed6991",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Blockchain Infrastructure, Web3 Community Platform, Developer Ecosystem",
-  "pwCategory": "Web3 Infrastructure"
+  "pwCategorySuggestions": "Blockchain Infrastructure, Web3 Community Platform, Developer Ecosystem"
 }

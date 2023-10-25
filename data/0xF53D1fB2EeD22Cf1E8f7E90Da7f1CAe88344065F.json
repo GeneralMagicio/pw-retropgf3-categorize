@@ -20,9 +20,7 @@
       "description": "Sonne, VMEX, Yearn audits"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM"],
   "impactDescription": "yAcademy educated over 100 top security engineers in crypto. The vast majority are very talented solo developers or researchers who come to us to learn. It’s not easy to become a yAcademy Fellow. In Block 5, we had 125 applicants and only 22 were able to meet the entry prerequisites. \nResident Contributions:\n1. Resident Usmannk scored #8 on your Sherlock Optimism contest finding a unique medium.\n2. Audited Sonne Finance, #5 highest TVL on Optimism.\n3. Audited VMEX, a new lending project on Optimism.\n4. Audited Yearn V3 \nWe've also contributed community research like our deep dive on proxy security, list of commonly forked hacks, or general research on web3 security issues. We also participate in audit and security contests such as Paradigm CTF where we placed 14th out of 414 teams in 2022.",
   "impactMetrics": [
     {
@@ -86,7 +84,6 @@
   "RPGF3_Application_UID": "0x697c316dc17ec7545ca91226e3e82d7fa3891c642ac5207d52dd46999a7b45b2",
   "applicantAddress": "0xF53D1fB2EeD22Cf1E8f7E90Da7f1CAe88344065F",
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Smart Contract Platforms, Blockchain Education",
-  "pwCategory": "Education & Learning",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true
 }

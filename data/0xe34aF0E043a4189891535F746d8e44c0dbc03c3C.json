@@ -20,9 +20,7 @@
       "description": "Optimism Prices pricing contract latest release (Base)"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM"],
   "impactDescription": "Optimism Prices has encouraged the growth of the Optimism developer community by building a component of the stack that is not only public, trustless, and reliable, but also superior to shortcut centralized solutions. Optimism ecosystem devs no longer need to shell out cash for centralized pricing APIs with spotty uptime, instead they can merely execute a single RPC call using Optimism Prices. Optimism Prices' sole focus and dedication to the Optimism ecosystem allows us to maintain well-engineered integrations for the popular destinations for tokens on Optimism and Base, which lets us guarantee 100% coverage for pricing any asset. As a result, Optimism Prices is the sole price feed relied on by Velodrome and Aerodrome, the #2 and #1 projects by TVL on OP Mainnet and Base respectively.",
   "impactMetrics": [
     {
@@ -62,7 +60,6 @@
   "RPGF3_Application_UID": "0x54b5917ba3ae0b4afb71efd0369f4b65b43bf2453710edcb3340581972f99dea",
   "applicantAddress": "0xe34aF0E043a4189891535F746d8e44c0dbc03c3C",
   "pwCategorySuggestions": "Smart Contract Platforms, Blockchain Infrastructure, Decentralized Finance (DeFi)",
-  "pwCategory": "Smart Contract Development Tools",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true
 }

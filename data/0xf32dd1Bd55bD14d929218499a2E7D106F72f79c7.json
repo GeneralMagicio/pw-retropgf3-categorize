@@ -25,9 +25,7 @@
       "description": "List of Slice contracts deployed on Base"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Slice is bringing commerce onchain. \n\nWithin just two months of launching on Base, we've achieved significant user engagement metrics that underline our impact. We are now leveraging the lower fees of L2 to onboard traditional merchants to Base and the wider Optimism ecosystem.\n\nWe've intentionally set our protocol fee to zero to accelerate adoption at this stage, making Base and the Optimism ecosystem an attractive platform for onchain commerce. As such we don't expect to generate revenue from the protocol for the foreseeable future.",
   "impactMetrics": [
     {
@@ -76,7 +74,6 @@
   "RPGF3_Application_UID": "0xa562f6cd8d38b520f42777e121c23d710d9953bbb11e78d53cb9fe34feab1193",
   "applicantAddress": "0xf32dd1Bd55bD14d929218499a2E7D106F72f79c7",
   "pwCategorySuggestions": "Decentralized Commerce, Web3 Community Platform, Tokenization Platforms",
-  "pwCategory": "Decentralized Commerce",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true
 }

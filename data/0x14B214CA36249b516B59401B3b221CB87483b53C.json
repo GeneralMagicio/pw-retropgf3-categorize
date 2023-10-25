@@ -15,9 +15,7 @@
       "description": "Sample OP ETH UX"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "In addition to the convenient link-based system for sending and receiving cryptocurrency, addrs also offers the ability to receive crypto using a Visa/MC/Bank and have it deposited directly into their wallet without the need for a custodial account. This allows for Optimism to be used to onramp payments\n\nYou can also easily embed addrs directly into your site using our optimized embed.addrs.to embeds. Just plug and play and itll handle the rest. This allows for anyone to accept Crypto payments with a simple UX.",
   "impactMetrics": [
     {
@@ -52,6 +50,5 @@
   "applicantAddress": "0x14B214CA36249b516B59401B3b221CB87483b53C",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Identity, Web3 Community Platform, Wallet Management",
-  "pwCategory": "End-User Experience & Adoption"
+  "pwCategorySuggestions": "Decentralized Identity, Web3 Community Platform, Wallet Management"
 }

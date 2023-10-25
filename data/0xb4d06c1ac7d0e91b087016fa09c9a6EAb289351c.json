@@ -20,9 +20,7 @@
       "description": "Home page for all Wallet Guard products"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "We just added support for Optimism transaction simulation for our 30,000+ users of the Wallet Guard browser extension and already simulated 12,000+ transactions. This enables human-readable insights and scam protection for all transactions our users do on Optimism. To date we've protected $40m+ in assets from being stolen from phishing scams for Optimism and EVM users alike.\n\nOur security engine has also protected our users from 50+ fake Optimism websites in the last month and a half alone. See the attached Notion document for more information. These are confirmed websites that have malicious intent such as draining a users' wallet.",
   "impactMetrics": [
     {
@@ -58,7 +56,6 @@
   "RPGF3_Application_UID": "0x8c31dee5481fdf0cade4e023ca397551f62c016db3690f0a5ae47855a2bc8060",
   "applicantAddress": "0xb4d06c1ac7d0e91b087016fa09c9a6EAb289351c",
   "pwCategorySuggestions": "Wallet Management",
-  "pwCategory": "End-User Experience & Adoption",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true
 }

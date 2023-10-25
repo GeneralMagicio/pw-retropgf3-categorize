@@ -220,9 +220,7 @@
       "description": "Toshi metrics (on Base)"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "IntoTheBlock (ITB) has built analytics for 30+ projects building on top of Optimism mainnet and Base. These indicators include key metrics regarding network activity, performance and overall activity. By offering these metrics and promoting them we have helped create both retail and institutional demand for Optimism, receiving positive feedback and users looking to contribute to the Optimism collective.\nIntoTheBlock has extensively shared Optimism research through marketing avenues. IntoTheBlock’s research team conducted two webinars focused on the Optimism and Base ecosystems with hundreds of attendees. Several indicators regarding Optimism were shared in the ITB newsletter with 30k+ subscribers. Multiple tweets about Optimism were shared with ITB’s audience of 50k+ followers.",
   "impactMetrics": [
     {
@@ -281,7 +279,6 @@
   "RPGF3_Application_UID": "0x7eb64cd4bd3b28fd36029377d136948aa74a5ca126df2e165574c736182267ff",
   "applicantAddress": "0x3f9125a7FDF7F379b9fD6d03931E8057fA7a5a06",
   "pwCategorySuggestions": "Blockchain Infrastructure",
-  "pwCategory": "Data Analytics",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true
 }

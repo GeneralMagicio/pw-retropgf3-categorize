@@ -60,10 +60,7 @@
       "description": "Diversifier contracts (convert portions of income into specific output tokens)"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM",
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "0xSplits makes it easy to reward collaboration onchain and customize payouts. We’ve been used by collectives (e.g. Protocol Guild, Songcamp), DAOs (e.g. Airswap, Bankless, Bouns), applications (e.g. Sound, Superrare, Proof, Transient Labs, Heds, Decent, Bonfire, Arpeggi), artists/musicians (Jonathan Mann, Daniel Allan, Reo Cragun), and devs (e.g. Quantum, Props) to power collaborative & customized payouts. Our open source & free-to-use ecosystem has distributed ~$40M to 10K+ unique accounts on several EVM chains including OP.",
   "impactMetrics": [
     {
@@ -110,7 +107,6 @@
   "RPGF3_Application_UID": "0x5e3ebd6375e04ee34b04cac7105a15d158302b69c3513140eeaf02296249e9f0",
   "applicantAddress": "0x9ebC8E61f87A301fF25a606d7C06150f856F24E2",
   "pwCategorySuggestions": "Smart Contract Platforms, Tokenization Platforms",
-  "pwCategory": "Smart Contract Development Tools",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true
 }

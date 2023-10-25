@@ -46,6 +46,5 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, the application is not correctly categorized as a \"PROJECT\" as the applicant uses \"I\" indicating it is an individual.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "NFTs, Decentralized Finance (DeFi), Community Building",
-  "pwCategory": "Community & Social"
+  "pwCategorySuggestions": "NFTs, Decentralized Finance (DeFi), Community Building"
 }

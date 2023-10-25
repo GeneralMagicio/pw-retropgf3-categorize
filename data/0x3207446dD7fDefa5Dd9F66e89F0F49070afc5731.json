@@ -50,6 +50,5 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, this application is incorrectly categorized because the applicant frequently refers to themselves as \"I\" or \"me\", indicating that this application is from an individual, not a project.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, User Experience & Adoption, Developer Ecosystem",
-  "pwCategory": "Community & Social"
+  "pwCategorySuggestions": "Community Building, User Experience & Adoption, Developer Ecosystem"
 }

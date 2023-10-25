@@ -10,10 +10,7 @@
       "description": "Deltaport platform main repository"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION",
-    "OP_STACK"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION", "OP_STACK"],
   "impactDescription": "Crypto traders and other users utilising Optimism network over other higher cost networks, bringing Optimism token value up by executing transactions, swaping tokens, automating games, locking value in smart contracts hosted and partenerd with Optimism Collective.",
   "impactMetrics": [
     {
@@ -38,6 +35,5 @@
   "applicantAddress": "0x29bca92D522D5a87B0f65E1208980262F235A423",
   "pwIsFlagged": false,
   "pwCategorySuggestions": "Smart Contract Platforms, Tokenization Platforms, Decentralized Finance (DeFi)",
-  "pwCategory": "Trading Tools",
   "pwApplicantTypeChecked": true
 }

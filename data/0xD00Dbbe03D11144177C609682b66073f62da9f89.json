@@ -10,10 +10,7 @@
       "description": "My identity"
     }
   ],
-  "impactCategory": [
-    "COLLECTIVE_GOVERNANCE",
-    "OP_STACK"
-  ],
+  "impactCategory": ["COLLECTIVE_GOVERNANCE", "OP_STACK"],
   "impactDescription": "spreading positive values for all who participate, unite to foster.\npositive feedback, making the community more accessible to all people, I will maximize my performance in this regard.It is an honor for me personally to be involved in this contribution.",
   "impactMetrics": [
     {
@@ -47,6 +44,5 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, the application is categorized as a \"PROJECT\" but the use of first person pronouns such as \"I\" and \"me\" suggests that it should be categorized as an \"INDIVIDUAL\".",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, User Experience & Adoption, Governance & Tokens",
-  "pwCategory": "Community & Social"
+  "pwCategorySuggestions": "Community Building, User Experience & Adoption, Governance & Tokens"
 }

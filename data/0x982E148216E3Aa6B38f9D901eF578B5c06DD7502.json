@@ -50,9 +50,7 @@
       "description": "A technical deep dive into how the Beam Wallet works"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Launched just over two months ago, more than 70,000 users have saved access to their Beam wallets by signing in with X. More than 33,000 users now hold ECO on Optimism, almost entirely through Beam. Beam users are able to access the benefits of using the OP Stack to transfer value globally with low fees, but without needing to worry about much of the complexity that comes with typical crypto wallets.  \n",
   "impactMetrics": [
     {
@@ -86,7 +84,6 @@
   "RPGF3_Application_UID": "0x336e461d9f5ba45ab76f6decf4acbf6cb88c4572a51f34b49df5729292bcf283",
   "applicantAddress": "0x982E148216E3Aa6B38f9D901eF578B5c06DD7502",
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Smart Contract Platforms, User Experience & Adoption",
-  "pwCategory": "End-User Experience & Adoption",
   "pwIsFlagged": false,
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, the application is not correctly categorized. Despite the applicantType being labeled as a \"PROJECT\", the \"bio\" field uses first person language implying this is an individual.",

@@ -25,10 +25,7 @@
       "description": "Second of two articles diving deeper into Optimism and OP Rollups"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM",
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "The first conversation on Spaces introducing Optimism and the OP rollups has over 300 downloads with the recap on our newsletter seeing a read rate of 75%. The second conversation on Spaces where we expanded on the OP stack saw a 414% increase with over 1,600 downloads with the newsletter seeing a similar read rate as the first.\n\nWhile we set out to produce high-quality content introducing the Optimism ecosystem, we were not surprised to see the content also be well received by the developer community as evidenced by the audience that was drawn to both events. Having L2BEAT share their insights at the first event, and three accomplished developers and projects at the second event certainly helped influence the programming's success and impact.",
   "impactMetrics": [
     {
@@ -64,7 +61,6 @@
   "RPGF3_Application_UID": "0x810ac2d5228cb2266cca279e655eb442709bb7b9136c3a3c71c24eda48b4eb04",
   "applicantAddress": "0x624e05D9A8dEFF331d2685EF3d789B25f9BeC80F",
   "pwCategorySuggestions": "Media Production",
-  "pwCategory": "Content & Media",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true
 }

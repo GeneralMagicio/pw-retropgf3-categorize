@@ -46,7 +46,6 @@
   "RPGF3_Application_UID": "0x461ff414c09032392d6191da84e70489c070fe85c185dde3ea48f3ca7ab569cc",
   "applicantAddress": "0x7719Be6618F4de9D9CacC5bEd06190BD7137b387",
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Bridge Protocol, Optimus, Wallet Management",
-  "pwCategory": "Finance & DeFi",
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for violation of rule 1 - promises of future impact are not provided and for rule 2 - false statements about contributions as the contribution description is vague and repetitive without providing tangible evidence of past impact.",
   "pwRecategorizeToType": "INDIVIDUAL",

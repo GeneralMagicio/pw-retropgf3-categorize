@@ -35,9 +35,7 @@
       "description": "Paragraph newsletter on Zora"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "By being early and experimenting in onchain media and web3 social, we have the DMs to show we have inspired media and community strategies for Nouns Builder projects, publications, wallets, artist collectives, podcasts, zines, musicians, and creative platforms.\n\nWe have demonstrated the effectiveness for media publications to use multiple platforms such as Mirror, Zora, Bonfire and Lens, and across chains including Ethereum, Optimism, Zora and Base. \n\nWe help to amplify the signal for revolutionary ideas, and because we regularly talk about the evolution of onchain media for artists and creatives, many of our 41 podcast episodes have focused on the Optimism ecosystem, particularly via Mirror, Zora and Base.",
   "impactMetrics": [
     {
@@ -90,7 +88,6 @@
   "RPGF3_Application_UID": "0xfa3a360aa2685bb42c535c6f06692eb0bd7bd534266781c4191d35e7724ed85a",
   "applicantAddress": "0x92f551665C69586Fd5f30e6EFdB78aC882B22d17",
   "pwCategorySuggestions": "Content Creation, Web3 Community Platform, Media Production",
-  "pwCategory": "Content & Media",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true
 }

@@ -41,6 +41,5 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, the application is incorrectly categorized. The \"bio\" field indicates this is an individual, stating \"I'm a testor and airdrop hunter\", thus the \"applicantType\" field should be \"INDIVIDUAL\" and not \"PROJECT\".",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "User Experience & Adoption, Wallet Management, Blockchain Infrastructure",
-  "pwCategory": "User Interface & Experience"
+  "pwCategorySuggestions": "User Experience & Adoption, Wallet Management, Blockchain Infrastructure"
 }

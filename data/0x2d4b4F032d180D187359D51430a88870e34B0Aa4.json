@@ -115,9 +115,7 @@
       "description": "Onboarding workshop   "
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "The GreenPill book has over 50,000 downloads and has been translated into 12 languages, the podcast has over 230,000 downloads, the YouTube channel has 883 subscribers and 26408 views and our community has over 730 members. \n \nWe’ve built out applications, created wallets, ran QF rounds, created content and hosted trainings that brought new users to the Optimism ecosystem. \n\nWe’ve created over 22 chapters globally that run onboarding workshops, run web3 regen events, drive local impact, help onboard NGOs into web3 and work to teach people how to use crypto to regenerate the world. To date, we’ve hosted over IRL 73 events. \n\nAll of these data points are focused on providing people with the tools needed to regenerate the world using crypto and building in ecosystems like Optimism. ",
   "impactMetrics": [
     {
@@ -220,6 +218,5 @@
   "applicantAddress": "0x2d4b4F032d180D187359D51430a88870e34B0Aa4",
   "pwIsFlagged": false,
   "pwCategorySuggestions": "Content Creation, Community Building, Education",
-  "pwCategory": "Education & Learning",
   "pwApplicantTypeChecked": true
 }

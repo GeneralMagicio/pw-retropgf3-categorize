@@ -10,9 +10,7 @@
       "description": "No"
     }
   ],
-  "impactCategory": [
-    "OP_STACK"
-  ],
+  "impactCategory": ["OP_STACK"],
   "impactDescription": "OB is an applied behavioral science built on contributions from a number of behavioral disciplines, mainly psychology and social psychology, sociology, and anthropology. Psychology’s contributions have been principally at the individual or micro level of analysis, while the other disciplines have contributed to our understanding of macro concepts such as group processes and organization. Exhibit 1-3 is an overview of the major contributions to the study of organizational behavior.\n\nExhibit",
   "impactMetrics": [
     {
@@ -46,6 +44,5 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, the application seems to be from an individual using the name \"Kaushik8627\" as the application discusses the individual's contributions in first person context although it's indicated as a PROJECT in the applicant type field.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Blockchain Infrastructure",
-  "pwCategory": "Decentralized Infrastructure"
+  "pwCategorySuggestions": "Blockchain Infrastructure"
 }

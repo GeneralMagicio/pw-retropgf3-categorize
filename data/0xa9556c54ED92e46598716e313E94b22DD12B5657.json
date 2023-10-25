@@ -40,9 +40,7 @@
       "description": "Adventures"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Clipper has saved traders tons of money on slippage, gas, and fees with its fair prices, and generated significant above market yields for LPs during the time it’s been on Optimism (33.3% APY in just the past month). \n\nClipper initially launched on Ethereum in 2021 and later went live on Optimism in early 2022. During the time between first launch and coming to Optimism, Clipper built a loyal userbase which it brought to Optimism through its community Adventures. Over 60k users participated in Clipper’s past two Adventures, which included activities that required trading and LPing on Optimism. \n\nAs of Oct 1, there are over 125k traders and over 82k LPs on Clipper’s Optimism deployment. Clipper has also brought over $104.6M in total *human* volume and >490k *human* transactions to Optimism.",
   "impactMetrics": [
     {
@@ -81,7 +79,6 @@
   "RPGF3_Application_UID": "0xb1eb9238bbb8108c50f7061ffdf6dd7c465b42ff2038155b430d62fb283e59e2",
   "applicantAddress": "0xa9556c54ED92e46598716e313E94b22DD12B5657",
   "pwCategorySuggestions": "Decentralized Exchanges (DEXs), DeFi, Layer 2 Scaling",
-  "pwCategory": "Decentralized Exchanges (DEXs)",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true
 }

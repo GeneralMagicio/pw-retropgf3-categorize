@@ -35,10 +35,7 @@
       "description": "TraceMy - DePIN experiment"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM",
-    "OP_STACK"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM", "OP_STACK"],
   "impactDescription": "This initiative is still very much in alpha. Until now, the focus has been creating an ecosystem of partners to support the chain and researching tooling. This led to the start of two ongoing initiatives:\n- RoboId: DID-based identifiers for digital entities. \n- Access Control: OCAPs (Object Capabilities) for advanced permissions with seamless integration with SIWE (Sign in With Ethereum).\n\nStamp is becoming the go-to solution for DePIN (Decentralized Physical Infrastructure Network) projects. Other blockchains are working on the DePIN vertical, such as Peaq on Polkadot, Helium on Solana, and IoTeX as its own L1. \n\nAccepted into Amsterdam Startup Booster to track bikes (https://senseable.mit.edu/bike-trafficking/) through a DePIN project we are working on called TraceMy. ",
   "impactMetrics": [
     {
@@ -62,7 +59,6 @@
   "RPGF3_Application_UID": "0xf6770d6fe0ddd76f37ab681a05b1923457c45a060922a3f93d7193a1f958770a",
   "applicantAddress": "0x9FC3B33884e1D056a8CA979833d686abD267f9f8",
   "pwCategorySuggestions": "Tokenization Platforms, Blockchain Infrastructure, Decentralized Finance (DeFi)",
-  "pwCategory": "Blockchain Infrastructure",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true
 }

@@ -48,6 +48,5 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged because it promises future deliverables or impact, which is against the rules of the grants program.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, User Experience & Adoption",
-  "pwCategory": "Community Building"
+  "pwCategorySuggestions": "Community Building, User Experience & Adoption"
 }

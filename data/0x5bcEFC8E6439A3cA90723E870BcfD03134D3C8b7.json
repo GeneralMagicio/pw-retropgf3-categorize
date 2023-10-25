@@ -10,10 +10,7 @@
       "description": "q"
     }
   ],
-  "impactCategory": [
-    "COLLECTIVE_GOVERNANCE",
-    "DEVELOPER_ECOSYSTEM"
-  ],
+  "impactCategory": ["COLLECTIVE_GOVERNANCE", "DEVELOPER_ECOSYSTEM"],
   "impactDescription": "no,...............................................................,..,.,.,.,.,.,.,.,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,..,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,",
   "impactMetrics": [
     {
@@ -37,7 +34,6 @@
   "RPGF3_Application_UID": "0x002ef42362d3594509edab7d8fc2a3e717f312a1462773900a3fc245ecafbc9b",
   "applicantAddress": "0x5bcEFC8E6439A3cA90723E870BcfD03134D3C8b7",
   "pwCategorySuggestions": "Token Swap, Token Bridge, Cross-Chain Integration",
-  "pwCategory": "Cross-Chain & Interoperability",
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for spam due to the irrelevant and nonsensical content in the \"contributionDescription\" and \"impactDescription\" fields.",
   "pwRecategorizeToType": "INDIVIDUAL",

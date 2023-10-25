@@ -10,9 +10,7 @@
       "description": "Not much info out yet but discord is where all the info will be shared.."
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "To be honest i'm still looking for a chain to launch this business. This won't be a mint to flip type of Jpeg project so i don't see many people being bothered by gas fees however we are all conscious about them and try to save them wherever we can.. If you guys give us grant it would solidify us to use this chain.. I like Optimism and like that its still an L2 of ETH.. \n\nIf this is successful and we can mint out our project and collect the minimal amount we strive to sell 3-4 homes per year doing this method.. Id like to mint a new home every few months but first my goals are to sell 1 and get it up and running so we have a model to follow and then we can go from there. ",
   "impactMetrics": [
     {
@@ -37,6 +35,5 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for violating the rules by promising future deliverables and impact. They clearly break rule 1 by stating \"investors should recoup their investment by year 5\" and discussing their future plans to launch a business and sell homes.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Blockchain Infrastructure, Real Estate, NFT-backed investing",
-  "pwCategory": "NFT-backed investing"
+  "pwCategorySuggestions": "Blockchain Infrastructure, Real Estate, NFT-backed investing"
 }

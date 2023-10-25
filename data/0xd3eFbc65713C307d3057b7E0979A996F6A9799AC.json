@@ -30,10 +30,7 @@
       "description": "Discord Server"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION",
-    "OP_STACK"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION", "OP_STACK"],
   "impactDescription": "Zonic has enriched the Optimism ecosystem through both B2C and B2B2C approaches. While our B2C initiatives are detailed elsewhere, we also support businesses leveraging the full OP stack.\n\nFor B2B2C, we guide entities looking to integrate an NFT marketplace within their blockchain using the OP stack.\n\nAnticipating the growth of Layer-2 networks, we understood that building a thriving ecosystem around them is challenging. Hence, Zonic introduced a \"Superchain-compatible\" NFT Marketplace, streamlining integration for businesses.\n\nRecently, we've quickly integrated blockchains like Base Goerli, Base Mainnet, and Zora. Notably, Base Goerli was incorporated just an hour after its launch, highlighting our proactive approach and the value we add to the OP stack ecosystem.",
   "impactMetrics": [
     {
@@ -104,7 +101,6 @@
   "RPGF3_Application_UID": "0xc006760fd9e200525b623bdef2ad95baf217dff39971d05533d69af04f81e739",
   "applicantAddress": "0xd3eFbc65713C307d3057b7E0979A996F6A9799AC",
   "pwCategorySuggestions": "NFT Marketplace, Layer 2 Scaling, Blockchain Infrastructure",
-  "pwCategory": "NFT Marketplace",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true
 }

@@ -10,9 +10,7 @@
       "description": "The website for browsing Mirror articles"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "At bress our website has served more than 22,139 unique users and has 81,472 total page views , with around 100 daily active users. We help onboard and maintain users for Mirror. Our service reaches users in different countries which means we have a gloable users base.",
   "impactMetrics": [
     {
@@ -42,7 +40,6 @@
   "RPGF3_Application_UID": "0x5b2334a091551c558e2b1d27983273f581927a32335c82effcd4173f3861dd98",
   "applicantAddress": "0x629898596DC5f16c31aF69382AB7985654332e78",
   "pwCategorySuggestions": "Content Creation, User Experience & Adoption, Web3 Community Platform",
-  "pwCategory": "Content & Media",
   "pwIsFlagged": false,
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO. The application refers to the applicant's activity with the first person pronoun (\"I\"), indicating that the applicant is an individual, not a project.",

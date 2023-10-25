@@ -25,9 +25,7 @@
       "description": "Revert finance analysis"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "The actionable insights generated from the quarterly report informs existing stakeholders on the economic, financial, and social health of Optimism, whether it’s a surge in transaction volume across a certain market or the implications of a major upgrade or governance decision. In addition, by reaching most of the top crypto native builders and institutional investors in the space it increases the likelihood of more projects building on Optimism while bringing more capital to the ecosystem. \n\nThe incentive analysis provided strategic insights into the successes and shortcomings of the historical incentives in order to inform future OP distributions \n\nThe subgraphs provide valuable community infrastructure to access important on-chain data ",
   "impactMetrics": [
     {
@@ -56,7 +54,6 @@
   "RPGF3_Application_UID": "0xd95dd72e655f1c98636d52fd36e2ec8f9dad3abbd978eb305de574e2532c46f8",
   "applicantAddress": "0x47A6a1B6492B6dF811606B8294A02b4268e86dAD",
   "pwCategorySuggestions": "Tokenization Platforms, Blockchain Infrastructure, Governance & Tokens",
-  "pwCategory": "Data Analytics",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true
 }

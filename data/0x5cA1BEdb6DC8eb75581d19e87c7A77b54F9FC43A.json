@@ -80,9 +80,7 @@
       "description": "Sponsored meetup WebtrES, ManijaDevs, TribuTechLatam"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM"],
   "impactDescription": "We’re not limited to Ethereum; L2s like OP are an integral part of the Ethereum ecosystem as well. All our content intends to appeal the collective, because it is aimed at devs and security researchers that may belong to the collective, who are interested in securing Optimism-based apps.\n\nIn the past we've examined OP’s bridge security measures, showing differences with Arbitrum in strategies to prevent gas grieving attacks. And reported a relevant security issue in a public security contest.\n\nThanks to the 2-day conference “GEERS: Blockchain edition” we hosted in Argentina, over 250 people from various cities learned about OP for the first time. The topic was featured at least twice in the talks. Particularly in a talk by Joxes on \"The Importance of Participatory Roles in Governance\".",
   "impactMetrics": [
     {
@@ -222,6 +220,5 @@
   "applicantAddress": "0x5cA1BEdb6DC8eb75581d19e87c7A77b54F9FC43A",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Blockchain Education, Security Research, Community Building",
-  "pwCategory": "Education & Learning"
+  "pwCategorySuggestions": "Blockchain Education, Security Research, Community Building"
 }

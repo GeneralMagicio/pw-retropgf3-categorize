@@ -35,10 +35,7 @@
       "description": "Incentive Analysis Stargate (Paid Job) - Use only as a reference for our work."
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM",
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Our team has provided countless data driven insights/custom queries to companies, DAO's, and individuals in the crypto space. These insights have helped the Optimism & Base communities by providing helpful data in an easy to understand manner. This driving adoption to new protocols built within the collective.\n\nOur team is one of the leading providers of data and tooling on Friend.Tech where our dashboards are visited daily by users looking to understand FT in a more holistic manner, as well as avoid scam accounts.\n\nSlice Analytics has never received funding, and our core team is entirely bootstrapped. Receiving retroactive funding for our work on Optimism and Base would be monumental in allowing us to continue to produce valuable free tools for the public.",
   "impactMetrics": [
     {
@@ -62,7 +59,6 @@
   "RPGF3_Application_UID": "0x3966cf2ba759552d83e72b370d0c90f1f63f2a93f0d393c575696be9786fc476",
   "applicantAddress": "0x8ab83D869f2Bc250b781D26F6584fd5c562FdD9D",
   "pwCategorySuggestions": "Tokenization Platforms, Blockchain Infrastructure, User Experience & Adoption",
-  "pwCategory": "Data Analytics",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true
 }

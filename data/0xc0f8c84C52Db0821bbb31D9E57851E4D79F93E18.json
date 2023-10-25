@@ -10,9 +10,7 @@
       "description": "Badgeholders can learn more about our contributions on our official website."
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "The contributions of the Blockchain Bytes Daily (BBD) significantly impact the Optimism Collective, nurturing a well-informed, engaged, and interconnected community. BBD offers valuable insights and education to the broader blockchain community, guiding users towards adopting blockchain technologies, including the latest OP stack chains and platforms built upon them. \n\nUpholding ethical journalism amplifies trust and transparency, bolstering the credibility of projects such as Optimism. \n\nFurthermore, our developer-centric coverage supports the expansion of the Optimism ecosystem. Overall, BBD has cultivated a more educated, engaged, and trustworthy blockchain environment, aligning with the goals of the Optimism Collective.",
   "impactMetrics": [
     {
@@ -53,7 +51,6 @@
   "RPGF3_Application_UID": "0xd099874a36e75c5007ff0238674b9a54b49e84764d527f0bb6ca861db64201df",
   "applicantAddress": "0xc0f8c84C52Db0821bbb31D9E57851E4D79F93E18",
   "pwCategorySuggestions": "Blockchain Education, Community Building, Media Production",
-  "pwCategory": "Education & Learning",
   "pwIsFlagged": false,
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, the application is categorized as a \"PROJECT\" but it appears to be an individual applicant since the bio uses first person language like \"I\".",

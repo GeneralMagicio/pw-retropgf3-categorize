@@ -50,9 +50,7 @@
       "description": "Using Web3 to Deliver Flood Relief to Pakistan (An Optimism NFT project)"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "With 82 editions, Web3ForGood expands Web3 and social impact knowledge beyond the usual tech-savvy circles, introducing Optimism to a broader audience. As a reliable resource, it educates and supports professionals in tech and social impact. The newsletter not only demystifies Optimism but keeps readers updated on Web3's potential for positive change.",
   "impactMetrics": [
     {
@@ -86,7 +84,6 @@
   "RPGF3_Application_UID": "0xdee6cb0f6b1f53a8734710c729098de1412c0c8c8dd7b05c9b93851c4e76e59f",
   "applicantAddress": "0xB79F0156573A54e852fB9Ac7b5Bc6250B33405a0",
   "pwCategorySuggestions": "Web3 Community Platform, Media Production, Blockchain Education",
-  "pwCategory": "Community & Social",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true
 }

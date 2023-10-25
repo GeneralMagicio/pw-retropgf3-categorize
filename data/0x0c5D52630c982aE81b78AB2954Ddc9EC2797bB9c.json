@@ -25,10 +25,7 @@
       "description": "Resultiing actions taken on Base from Chainlink Automation started on Polygon."
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM",
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "- The Rainbow Road has enabled users to migrate Arc tokens to and from Base and Optimism.\n\n- Worked with team at Chainlink to open lanes between Base and Optimism for the Rainbow Road as well as other chains supported by Chainlink's CCIP and Archly.\n\n- Enabled the ability to bring products and services from remote chains to Optimism and Base, such as Chainlink's Automation.",
   "impactMetrics": [
     {
@@ -58,6 +55,5 @@
   "applicantAddress": "0x0c5D52630c982aE81b78AB2954Ddc9EC2797bB9c",
   "pwIsFlagged": false,
   "pwCategorySuggestions": "Cross-Chain Platforms, Decentralized Exchanges (DEXs), Blockchain Infrastructure",
-  "pwCategory": "Cross-Chain & Interoperability",
   "pwApplicantTypeChecked": true
 }

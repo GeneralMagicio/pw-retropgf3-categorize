@@ -15,9 +15,7 @@
       "description": "Glaucon Telegram Bot"
     }
   ],
-  "impactCategory": [
-    "COLLECTIVE_GOVERNANCE"
-  ],
+  "impactCategory": ["COLLECTIVE_GOVERNANCE"],
   "impactDescription": "Glaucon made navigating the Optimism governance resources much more easier using specific knowledge bases and evolving with user feedback. Glaucon has a flow where each question it's unable to answers gets recorded in a table, which are later evaluated to determine whether or not they are relevant to this project's scope. \n\nWith this approach, hundreds of questions were collected step by step, and so far 10+ knowledge bases are connected to cover everything users are curious about. Rather than trying to start with a perfect product, this process created an application that fits much better to the users' needs.\n\nCurrently, as our knowledge bases, we have vectorized data from: OP blogs, optimism docs, (partially) governance forum, (partially) Agora and more",
   "impactMetrics": [
     {
@@ -64,7 +62,6 @@
   "RPGF3_Application_UID": "0x6659104bceabe31f50407a7388b91cec589be2012160990467a54d2733d8c0f2",
   "applicantAddress": "0xb9e3BA10B66294C25aD6a8924f42f4D9AACa4F50",
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Smart Contract Platforms, Web3 Community Platform",
-  "pwCategory": "Decentralized Governance",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true
 }

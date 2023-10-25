@@ -42,6 +42,5 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, the application is not correctly categorized as it refers to “I” indicating it's an individual making the application, not a project.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Smart Contract Platforms",
-  "pwCategory": "Smart Contract Development Tools"
+  "pwCategorySuggestions": "Smart Contract Platforms"
 }

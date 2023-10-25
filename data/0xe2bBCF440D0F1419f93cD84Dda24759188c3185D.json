@@ -10,9 +10,7 @@
       "description": "ChainList repo"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Millions of users (concretely 1M-2M each month) get a much more convenient and safer experience onboarding to optimism when adding the chain through our site, as we curate the RPCs there to avoid any scam RPCs that they could run across on the wild otherwise.\n\nBy summarizing the privacy policies of all RPCs we make it viable for users to make choices based on that, as the alternative of having to read the multiple pages of legalese on the privacy policy of each individual RPC is just not viable for users to do. We aggregate this work so we just do it once and then everybody can benefit from it.",
   "impactMetrics": [
     {
@@ -43,7 +41,6 @@
   "RPGF3_Application_UID": "0x1402768b4e6481137978e3ecd853cb0e7eefff51f2b8838c382b5d4907931224",
   "applicantAddress": "0xe2bBCF440D0F1419f93cD84Dda24759188c3185D",
   "pwCategorySuggestions": "Blockchain Infrastructure, User Experience & Adoption, Privacy Coins",
-  "pwCategory": "Web3 Infrastructure",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true
 }

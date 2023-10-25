@@ -10,9 +10,7 @@
       "description": "I am experiencing and learning"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "I'm also participating and learning, looking forward to experiencing and learning more. I made an op order on Binance to my personal wallet through the OP network, but the return to my wallet was USD, I find it a bit strange. op used on the ETH network when withdrawing from the exchange to the wallet, the OP network is the ETH network, why withdrawing the OP network from the binance exchange to the wallet turns into USD, thank you very much.",
   "impactMetrics": [
     {
@@ -39,6 +37,5 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, it is not correctly categorized as a project. The application speaks in first person indicating it's an individual.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Smart Contract Platforms, Digital Identity",
-  "pwCategory": "Education & Learning"
+  "pwCategorySuggestions": "Smart Contract Platforms, Digital Identity"
 }
