@@ -30,7 +30,10 @@
       "description": "Project page from EthGlobal"
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "We premiered this project during the EthGlobal NYC hackathon and were overwhelmed with support from those that we demo'ed and spoke to. Many of the people we talked to told us that they were surprised to learn that such a “web2” like UX was already possible to achieve! Apps that bridge the knowledge gap between web2 and web3 are necessary for mass adoption — we just wanted to create a really fun LLM app while using crypto as the infrastructure, and we succeeded in doing so.\n\nWe also wanted to share just how great our developing experience was with other builders so we did a quick demo at the first Base Builders community session. We hope that other developers were inspired by our work!",
   "impactMetrics": [
     {
@@ -67,5 +70,6 @@
   "pwIsFlagged": false,
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO. The application is submitted by an individual named Eric, despite having a project focus on BunnyAI.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Category: DeFi & DeFi Content"
 }

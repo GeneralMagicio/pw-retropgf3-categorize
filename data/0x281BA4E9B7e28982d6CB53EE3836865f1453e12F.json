@@ -35,7 +35,9 @@
       "description": "Cryptoversidad Team"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "While we are very proud of our contributions and work, we know it is not perfect, we can do better and there’s a lot to learn. But in short, we’ve created valuable resources for people to learn, understand and use Optimism and with our Builders program, we supported 10 people in starting their web3 journey. We will present some numbers to illustrate our progress, but we want to leave it up to you to decide how impactful this work has been. ",
   "impactMetrics": [
     {
@@ -93,5 +95,6 @@
   "applicantAddress": "0x281BA4E9B7e28982d6CB53EE3836865f1453e12F",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Content Creation, Community Building, Web3 Community Platform"
+  "pwCategorySuggestions": "Content Creation, Community Building, Web3 Community Platform",
+  "pwCategory": "Community Building & Governance"
 }

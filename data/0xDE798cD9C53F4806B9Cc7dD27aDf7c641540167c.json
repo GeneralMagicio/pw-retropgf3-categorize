@@ -103,5 +103,6 @@
   "applicantAddress": "0xDE798cD9C53F4806B9Cc7dD27aDf7c641540167c",
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Smart Contract Platforms, Gaming",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Decentralized Applications"
 }

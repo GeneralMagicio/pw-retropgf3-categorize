@@ -55,7 +55,9 @@
       "description": "Binji of OP team on the merits of Cielo"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "Cielo sends over 2 million alerts every week to users of the OP Stack (Optimism, Base, opBNB and Mantle). We reach 46,000+ direct users, 500 Telegram groups, and 270 Discord communities.\n\nDuring a 48 hour span of the Base launch, Cielo sent out over 2.5 million alerts to its users.\n\nPower user testimonial from Houston: “I use a number of wallet trackers and to me, Cielo is clearly best in class. It is, to my knowledge, still the only wallet tracker that supports Synthetix perpetual futures on Optimism chain (hosted on frontends like Kwenta), breaking down transactions that take place in brief, easy to understand snippets. Amongst the wallet trackers I use, Cielo was the first to support transactions on Optimism chain.” \n\nWe shared external testimonials in the Contribution links section.",
   "impactMetrics": [
     {
@@ -82,5 +84,6 @@
   "pwCategorySuggestions": "Web3 Analytics, Layer 2 Scaling, Community Building",
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, the application is not correctly categorized. Despite being listed as a \"PROJECT\", the applicant refers to themselves as \"I\" and \"me\", indicating that this is an INDIVIDUAL application.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Web3 Analytics"
 }

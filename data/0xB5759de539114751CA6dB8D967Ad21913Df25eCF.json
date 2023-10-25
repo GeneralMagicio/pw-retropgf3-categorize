@@ -10,7 +10,9 @@
       "description": "Twitter account for CIS citizens "
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "The followers and viewers of the OptimismCIS Twitter account have gained extensive experience and knowledge about the Optimism project and also about projects built on Optimism.\nIt has now become easier for CIS citizens to begin their journey in the Optimism Project",
   "impactMetrics": [
     {
@@ -36,5 +38,6 @@
   "pwIsFlagged": false,
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, the application is categorized as a \"PROJECT\" but it should be \"INDIVIDUAL\" as the application talks about \"I\" and \"me\", indicating it's an individual's work.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Category: Web3 Education & Adoption"
 }

@@ -109,5 +109,6 @@
   "applicantAddress": "0x84D36eA4044161232803c216BF1D103469713943",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Finance (DeFi), Liquidity Provision, Community Building"
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Liquidity Provision, Community Building",
+  "pwCategory": "Decentralized Finance (DeFi)"
 }

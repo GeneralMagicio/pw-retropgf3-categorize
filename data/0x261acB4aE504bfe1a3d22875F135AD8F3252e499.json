@@ -10,7 +10,9 @@
       "description": "Link to Bankless Malayalam Social Media Platforms"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "Inclusivity , empowerment , cultural relevance, linguistic diversity , community building, education, networking opportunities are some of the impact that Bankless Malayalam tried to put forward. Within the limits of resources we have, we were able to achieve a trustful impact on audience who could be an asset to the global growth and adoption of blockchain technology.\nUnder optimism campaign we were able to help propagate the Optimistic Vision and mission to a community of Malayalam speakers via youtube videos, newsletters, articles, instagram reels and tweets. \nwe could reach around 3700+ people in last three months.\n\nreference link : https://docs.google.com/document/d/1NoWKSzJEai83tYX32EglWQJIHuLmv-sgF-IoRfrndvI/edit?usp=sharing\n\n\n",
   "impactMetrics": [
     {
@@ -222,5 +224,6 @@
   "applicantAddress": "0x261acB4aE504bfe1a3d22875F135AD8F3252e499",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Media Production, Community Building, Blockchain Education"
+  "pwCategorySuggestions": "Media Production, Community Building, Blockchain Education",
+  "pwCategory": "Media Production"
 }

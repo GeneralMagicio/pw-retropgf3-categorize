@@ -15,7 +15,10 @@
       "description": "Pessimistic Velodrome LP Oracle"
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "Yearn was as high as 6th in Optimism TVL and currently 10th. TVL peaked at $31.48 million and is currently $16.23 million.\n\nWe’ve distributed $OP for 23 weeks, and still have 552,865 $OP remaining. We’ve been able to reach ~$1 million in TVL for every $1,000 per week in $OP incentives.\n\nYearn has been in the top 5 veVELO lockers for 13 weeks. On Base, we’re currently 9th in the veAERO leaderboard. We’ve created 23 LP vaults for Aerodrome on Base.\n\nWe partnered with Ethos Reserve to build on top of our single deposit Yearn Vaults.\n\nWe partnered with Coinbase on a campaign to show CB Wallet users how to use Yearn’s yvWETH vault on Optimism and earn rewards.\n\nQiDao, Alchemix, VMEX, Ethos Reserve, Overnight Finance, and Resonate have built Yearn Vaults into their products.",
   "impactMetrics": [
     {
@@ -77,5 +80,6 @@
   "applicantAddress": "0xF6411852b105042bb8bbc6Dd50C0e8F30Af63337",
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Smart Contract Platforms, Partnership & Integration",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Decentralized Finance (DeFi)"
 }

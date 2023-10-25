@@ -55,7 +55,10 @@
       "description": "Onchain PWA Start Launch Thread"
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "1. Bringing new users to OP Chains\nWords3 deployments on OP Mainnet and Base both brought hundreds of users to OP Chains. From user interviews, >80% of these users bridged to & made their first transaction on OP chains because of Words3.\n\n2. Giving users net new experiences on OP Chains\nWe give these new users a net-new experience–that of a fully onchain game! There are community clients, players wrote scripts, and player-made dashboards to track what is happening. \n\n3. Making the OP ecosystem the place for onchain games\nOP chains are becoming the place for new onchain experiences. We contribute to that not only by deploying games to OP chains, but by (1) open sourcing all our code, which leads to others building on OP chains, and (2) building a community of games that'll launch on them. ",
   "impactMetrics": [
     {
@@ -103,5 +106,6 @@
   "applicantAddress": "0xa4eC807A15f389A2b9aC985eCcF4b08ddDDB6f9d",
   "pwCategorySuggestions": "Blockchain Gaming, Open Source Projects, Community Building",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Blockchain Gaming"
 }

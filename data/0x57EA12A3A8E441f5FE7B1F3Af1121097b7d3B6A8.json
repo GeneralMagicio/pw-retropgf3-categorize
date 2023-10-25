@@ -20,7 +20,10 @@
       "description": "The monorepo for the full open source Umbra stack."
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "Umbra provides Optimism uses with a critical piece of privacy infrastructure. It enables privacy conscious entities to use Optimism as a payments network. I has processed over $50 Million in value across more than 53,000 transactions. Close to 13,000 addresses have signed up to receive private payments. It also supports the OP token, allowing the OP governance token to be sent privately on the Optimism network.",
   "impactMetrics": [
     {
@@ -80,5 +83,6 @@
   "applicantAddress": "0x57EA12A3A8E441f5FE7B1F3Af1121097b7d3B6A8",
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Privacy Coins, Tokenization Platforms",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Decentralized Finance (DeFi)"
 }

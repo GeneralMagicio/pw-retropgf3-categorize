@@ -25,7 +25,9 @@
       "description": "Our Tiktok channel"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "Our educational videos have simplified Web3's complex facets for a broader audience.\n\nIncreased Awareness:\nThe initial video on Optimism’s scaling enhanced understanding, making Optimism's contributions more accessible.\n\nEnhanced Engagement:\nSharing on popular platforms fostered discussions around Web3 & Optimism’s initiatives, enabling more people to engage.\n\nBroadened Reach:\nWith 15,000+ views, we've extended Optimism Collective's reach to new audiences.\n\nBeneficiaries:\nProjects like Curve, Lido, Rocketpool, Frax, and Coinbase have potentially benefited from increased visibility.\n\nIntangible Impact:\nOur series has nurtured a culture of curiosity, open discussion, and continuous learning within the crypto community.",
   "impactMetrics": [
     {
@@ -57,5 +59,6 @@
   "applicantAddress": "0xa5A0CE7D84025f986568356475451E31714B4C95",
   "pwCategorySuggestions": "Content Creation, Community Building, User Experience & Adoption",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Content & Media"
 }

@@ -45,7 +45,10 @@
       "description": "Our main website with a summary of all our content and socials."
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION", "OP_STACK"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
   "impactDescription": "The success of Ethereum (and by extension, Optimism) depends heavily on our ability to teach people how to use L2's daily, without friction and frustration. This requires us to meet users where they are, solve their specific problems, and educate them in an entertaining, jargon-less way. But unlike a regular online content house, as an onchain collective we have been able to leverage the OP stack in our core infrastructure so that we're not only talking the talk, but walking the walk! Not only have we produced high quality videos, panels & podcasts about Optimism, Zora & BASE, but we have also taken steps to involve our community in actually using these networks to mint our content and our community NFT collections. People learn best by doing, and we are putting that to the test every day.",
   "impactMetrics": [
     {
@@ -77,5 +80,6 @@
   "applicantAddress": "0x5D802e2Fe48392c104Ce0401C7ECa8a4456f1F16",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Media Production, Decentralized Finance (DeFi), Layer 2 Scaling"
+  "pwCategorySuggestions": "Media Production, Decentralized Finance (DeFi), Layer 2 Scaling",
+  "pwCategory": "Decentralized Applications"
 }

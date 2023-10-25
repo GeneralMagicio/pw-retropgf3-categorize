@@ -10,7 +10,10 @@
       "description": "smart contract  verified code"
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "ImaginAIryNFTs has revolutionized the way creators and collectors interact with NFTs. By leveraging the capabilities of Optimism, we've been able to offer our users a cost-effective, fast, and reliable method to mint and transfer their unique AI-generated NFTs.\n\n",
   "impactMetrics": [
     {
@@ -37,5 +40,6 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO. The application is submitted by an individual, not a project, as indicated by phrases such as \"I'm the sole creator and developer behind ImaginAIryNFTs\".",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "NFTs, AI, Art"
+  "pwCategorySuggestions": "NFTs, AI, Art",
+  "pwCategory": "NFTs & Marketplaces"
 }

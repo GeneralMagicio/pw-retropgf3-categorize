@@ -92,5 +92,6 @@
   "applicantAddress": "0xC3d7F926e57Ff06e465823b100b95408e805DfA2",
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Governance Tokens, Community Building",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Governance Onboarding & Services"
 }

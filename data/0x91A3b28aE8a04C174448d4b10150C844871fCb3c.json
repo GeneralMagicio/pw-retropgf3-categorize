@@ -20,7 +20,9 @@
       "description": "Base node howto on Ethereum on ARM node"
     }
   ],
-  "impactCategory": ["OP_STACK"],
+  "impactCategory": [
+    "OP_STACK"
+  ],
   "impactDescription": "Our impact is best illustrated through community engagement and the growth in the number of independently operated nodes contributing to network's decentralization:\n\nCommunity Engagement: Our announcements on social platforms, especially Twitter, have garnered substantial attention, with numerous retweets, likes, and comments, indicating a strong community interest.\n\nDecentralization Contribution: Although challenging to quantify precisely, the requests for help in our Discord channel (for both Optimism and recently Base) indicates a direct contribution to the network's decentralization. Every new node introduced to the network enhances Ethereum's resilience.",
   "impactMetrics": [
     {
@@ -67,5 +69,6 @@
   "applicantAddress": "0x91A3b28aE8a04C174448d4b10150C844871fCb3c",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Blockchain Infrastructure, Developer Ecosystem, Layer 2 Scaling"
+  "pwCategorySuggestions": "Blockchain Infrastructure, Developer Ecosystem, Layer 2 Scaling",
+  "pwCategory": "Layer 2 & Rollups"
 }

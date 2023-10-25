@@ -15,7 +15,9 @@
       "description": "Original study launching the program. "
     }
   ],
-  "impactCategory": ["COLLECTIVE_GOVERNANCE"],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
   "impactDescription": "By studying protocols across a wide range of domains, Summer of Protocols can hopefully give participants in the Optimism Collective and the Ethereum community more generally better mental models to understand protocols. \n\nBlockchain ecosystems are often analogized to countries, tech platforms, companies, etc. and most reasoning happens by analogies rather than first principles thinking. SoP aims to give the OP Collective the tools to get better at the latter. \n\nSoP is also a way for the Ethereum community to engage with experts outside of blockchain that want to also better understand protocols for their domain of interest, and build bridges with communities we may otherwise not be able to. ",
   "impactMetrics": [
     {
@@ -52,5 +54,6 @@
   "applicantAddress": "0x10F5d45854e038071485AC9e402308cF80D2d2fE",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Blockchain Education, Community Building, Governance & Tokens"
+  "pwCategorySuggestions": "Blockchain Education, Community Building, Governance & Tokens",
+  "pwCategory": "Blockchain Education"
 }

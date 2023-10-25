@@ -30,7 +30,9 @@
       "description": "Github "
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "Copin is confident in its contributions to the Optimism ecosystem, offering the following values: We provide an additional layer to the Optimism ecosystem, with a specific focus on Synthetix. This addition brings value to the users and trader community of Synthetix by offering a comprehensive on-chain perpetual trader analysis tool for behavior, transaction history, performance statistics, and insightful data regarding traders on Kwenta and Polynomial. \n\nIn doing so, Copin helps new users access the Synthetix future market by utilizing data from Kwenta and Polynomial, making its mark on Synthetix with a pioneering Copy Trading on-boarding product that brings millions of users from Web2, non-DeFi.",
   "impactMetrics": [
     {
@@ -72,5 +74,6 @@
   "applicantAddress": "0x1A561e43f264952D7b4F25Fb4967122c87618Beb",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Exchanges (DEXs), Web3 Community Platform"
+  "pwCategorySuggestions": "Decentralized Exchanges (DEXs), Web3 Community Platform",
+  "pwCategory": "Decentralized Exchanges"
 }

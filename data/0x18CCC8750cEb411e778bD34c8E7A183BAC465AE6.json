@@ -39,5 +39,6 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, it should be categorized as \"INDIVIDUAL\" because the application uses first person pronouns \"I\" or \"me\", indicating an individual not a project.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Tokenization Platforms, Social Media, Non-Fungible Tokens (NFTs)"
+  "pwCategorySuggestions": "Tokenization Platforms, Social Media, Non-Fungible Tokens (NFTs)",
+  "pwCategory": "Category: Tokenization Platforms"
 }

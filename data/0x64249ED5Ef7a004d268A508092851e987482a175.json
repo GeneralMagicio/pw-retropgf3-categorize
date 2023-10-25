@@ -15,7 +15,10 @@
       "description": "No Code Launchpad"
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "We are building an ecosystem that enables the next generation of creators to easily join the web3 revolution through full ownership of their smart contracts, protection against ill-intentioned bad actors in the space, and the democratization of utility and tools that otherwise would not be available to them. ",
   "impactMetrics": [
     {
@@ -47,5 +50,6 @@
   "applicantAddress": "0x64249ED5Ef7a004d268A508092851e987482a175",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Tokenization Platforms, Decentralized Finance (DeFi), User Experience & Adoption"
+  "pwCategorySuggestions": "Tokenization Platforms, Decentralized Finance (DeFi), User Experience & Adoption",
+  "pwCategory": "Decentralized Applications"
 }

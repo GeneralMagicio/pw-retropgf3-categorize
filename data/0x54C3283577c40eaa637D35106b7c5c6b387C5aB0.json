@@ -15,7 +15,9 @@
       "description": "onchain artist path with music NFTs and mirror posts"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "Bridging the gap between artists, collectives and music fans in Optimism. Multiple platforms music NFTs are aggreagated giving visibility to multiple artists, with most being minted in OP. A majority of the music NFT-centric communities integrated have their tokens on Optimism. Some notable examples include: ZiggyZiggy with 3987 members, latin collective MúsicaW3, DANC3 that creates a lot of curational content,  UK based WildAwake, Invest in Music which has a curational program on Optimism, among others. On the artist side, most music NFTs recommended are minted in the Sound.xyz platform in Optimism. Spotify login onboards web2 users. Development has been a solo endeavor, with myself building backend, frontend, and design, analytics to capture metrics is in development.",
   "impactMetrics": [
     {
@@ -42,5 +44,6 @@
   "pwIsFlagged": false,
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, it is not correctly categorized because the application states \"Development has been a solo endeavor, with myself building backend, frontend, and design\" indicating it is an individual effort and should be categorized as \"INDIVIDUAL\".",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Decentralized Music Curation"
 }

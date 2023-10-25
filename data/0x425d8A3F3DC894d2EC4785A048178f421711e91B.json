@@ -10,7 +10,9 @@
       "description": "optimism"
     }
   ],
-  "impactCategory": ["COLLECTIVE_GOVERNANCE"],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
   "impactDescription": "I've been actively disseminating knowledge about optimism within my close-knit circle of family and friends. Additionally, I consistently engage with the latest developments and updates related to optimism. It's essential for me to stay informed and involved so that I can contribute to making well-informed decisions that benefit the overall progress of the project.",
   "impactMetrics": [
     {
@@ -36,5 +38,6 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, it is not correctly categorized. The application contains the use of \"I\" and \"me\", indicating it is from an individual, not a project.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, Content Creation, Media Production"
+  "pwCategorySuggestions": "Community Building, Content Creation, Media Production",
+  "pwCategory": "Category: Community Building & Governance"
 }

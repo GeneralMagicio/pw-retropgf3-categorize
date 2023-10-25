@@ -50,7 +50,9 @@
       "description": "OP Stack translated article"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "Our contributions have helped increase awareness about Optimism in Japan and resulted in more adoption within our community.\nMetrics:\nTwitter: 83k views on twitter, 452 likes\nYouTube: 3.5K views on YouTube\nMirror: 709 collects on Mirror\n\nOne example of such adoption is the results from our participation in the Gitcoin GG18 (deployed on Optimism) round where we ended as a top grantee in community and education despite being the only Japanese language community. This shows how active our community has become in the Optimism ecosystem",
   "impactMetrics": [
     {
@@ -138,5 +140,6 @@
   "applicantAddress": "0xB1b37B24045db80492eEf16dc28fB84fED210a64",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, Content Creation, Web3 Community Platform"
+  "pwCategorySuggestions": "Community Building, Content Creation, Web3 Community Platform",
+  "pwCategory": "Category: Community Building & Governance"
 }

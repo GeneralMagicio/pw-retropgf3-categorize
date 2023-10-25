@@ -76,6 +76,8 @@
   "RPGF3_Application_UID": "0x39d1825ce239c5125f84e5269af4c692a71a93f651dd40e813f0aabaf016b5fd",
   "applicantAddress": "0xB1dD2Fdb023cB54b7cc2a0f5D9e8d47a9F7723ce",
   "pwCategorySuggestions": "Decentralized Exchanges (DEXs), Trading Tools, Tokenization Platforms",
-  "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "This project is not deployed on Optimism yet.",
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Decentralized Exchanges"
 }

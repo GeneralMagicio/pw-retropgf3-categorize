@@ -10,7 +10,9 @@
       "description": "The LSP server, vscode extension impl and example neovim integration config"
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
   "impactDescription": "Optimism VM is also an EVM implementation and thus any developments in solidity ecosystem has its impact on anything that uses EVM too. Many of the projects already deployed on optimism were developed with solidity and foundry. Thus, any contributions to the DX of solidity and foundry impacts optimism too.\n\nA note on impact metrics:\nThis is a new project and in development. I have been using it for diagnostics on my own personal and work projects. Anyone wanting to use it needs to clone and build the server locally with `cargo install --git` and hence I am listing github clones and cloners as metrics as a proxy to amount of people that might have tried it. I am not actively promoting it, just building it.",
   "impactMetrics": [
     {
@@ -42,5 +44,6 @@
   "pwIsFlagged": false,
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, the application is incorrectly categorized as a PROJECT when it should be INDIVIDUAL because the applicant references his work as \"I am developer working in ethereum and web3 space for over 2 years now.\".",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Smart Contract Development Tools"
 }

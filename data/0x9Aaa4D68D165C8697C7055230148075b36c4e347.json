@@ -35,7 +35,9 @@
       "description": "Workshop at EthPrague"
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
   "impactDescription": "Over the last few years, UseDapp was downloaded almost 1 million times and helped a lot of developers to increase time-to-market for their applications. \n\nIt was used by projects like Optimism, Status, Nouns, Tally, Boba Network, Pool Together, NuCypher, Index Coop, & over 4.5k more total projects. \n\nUseDapp was popular with hackers at hackathons, as well. It has >1.5k stars on GitHub. For years it was a leading web3 react library. UseDApp is integrated with different tools and boilerplates like create-react-app (https://github.com/PaulRBerg/create-eth-app) with 2.6k stars on GitHub. \n\nUseDApp as an open source library has additional extensions and adapters including one written by OP Labs PBC member Fucory https://twitter.com/FUCORY/status/1682046286902755332\n",
   "impactMetrics": [
     {
@@ -70,5 +72,6 @@
   "applicantAddress": "0x9Aaa4D68D165C8697C7055230148075b36c4e347",
   "pwCategorySuggestions": "Developer Tools, Blockchain Infrastructure",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Developer Tools"
 }

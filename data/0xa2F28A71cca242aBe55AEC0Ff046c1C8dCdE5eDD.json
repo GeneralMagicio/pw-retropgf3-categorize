@@ -10,7 +10,9 @@
       "description": " "
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
   "impactDescription": "We empower people to analyze on-chain data using their own infrastructure and ease the process of setting up a data pipeline, even without any data engineering knowledge. To further lower the entry barriers, we've integrated a text-to-SQL feature, reducing the need for SQL fluency to query over on-chain data.\n\nThis could potentially boost blockchain engagement and adoption by both individuals and enterprises.",
   "impactMetrics": [
     {
@@ -36,5 +38,6 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, this application should be categorized as \"INDIVIDUAL\" as the bio section includes first person pronouns like \"I\" and \"me\".",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Blockchain Infrastructure, Web3 Community Platform, Developer Ecosystem"
+  "pwCategorySuggestions": "Blockchain Infrastructure, Web3 Community Platform, Developer Ecosystem",
+  "pwCategory": "Blockchain & Technology"
 }

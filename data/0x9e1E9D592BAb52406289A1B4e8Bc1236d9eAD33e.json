@@ -35,7 +35,9 @@
       "description": "OpenZeppelin Contracts Security Center"
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
   "impactDescription": "Since the early days of Solidity, OpenZeppelin Contracts have been used by almost every smart contract system from the largest projects transacting billions of dollars to individuals building smaller applications. Close to 60% of all transactions in OP mainnet happen via contracts using the library.\n\n- Developers are able to develop applications faster by using ready-made contract templates and components.\n- Applications that use our battle-tested library are more secure, reducing the risk of vulnerabilities for applications in the Optimism Superchain.\n- New developers can use the Contracts Wizard to develop their first smart contract and deploy it in a few simple steps to the Optimism network.\n\nThe Defender platform free plan provides additional security tools to the Optimism Collective.",
   "impactMetrics": [
     {
@@ -97,5 +99,6 @@
   "applicantAddress": "0x9e1E9D592BAb52406289A1B4e8Bc1236d9eAD33e",
   "pwCategorySuggestions": "Smart Contract Platforms, Developer Ecosystem, Blockchain Infrastructure",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Smart Contracts & Tools"
 }

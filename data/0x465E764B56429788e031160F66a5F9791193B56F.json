@@ -35,7 +35,10 @@
       "description": "L2 NFT Support announcement post 7/26/22"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION", "OP_STACK"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
   "impactDescription": "- Rainbow's multi-network UI and native L2 token and NFT support improved UX for OP users, which, only recently, became the industry standard.\n- Rainbow has evangelized Optimism to users and creators, helping drive a 295% increase in Rainbow Wallet interactions with OP Stack chains since July\n- Today, 34% of Rainbow's connections, 40% of RainbowRouter’s USD volume and 70% of bridges are to OP stack chains. \n- 28% of distinct Rainbow users transact on OP stack chains (+62% since January), surpassing the proportion of users on mainnet - 18.6%. \n- “Rainbow World,” Rainbow’s contribution to “Onchain summer,” was minted 10k+ times, remains the 2nd highest traded NFT on Base, continues to drive onchain actions via the character creator and brought new cool users to OP Collective's NFT scene",
   "impactMetrics": [
     {
@@ -80,5 +83,6 @@
   "applicantAddress": "0x465E764B56429788e031160F66a5F9791193B56F",
   "pwCategorySuggestions": "Layer 2 Scaling, Decentralized Finance (DeFi), NFT Aggregator",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Layer 2 & Rollups"
 }

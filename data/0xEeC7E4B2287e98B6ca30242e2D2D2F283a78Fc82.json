@@ -20,7 +20,10 @@
       "description": "Direct transfer to Farcaster profiles"
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "- Our contracts and ERC-4337 passkey tests have been quoted dozens of times in the 4337 Mafia, Web Sessions, and Modular Accounts Telegram chats. \n\n- Our connect with Farcaster feature generated 500+ signups. These profiles have the option to deploy an ERC-4337 passkey account.",
   "impactMetrics": [
     {
@@ -46,5 +49,6 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, the application should be categorized as an INDIVIDUAL because the bio states \"I jumped into web3 in 2021\".",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Blockchain Infrastructure, Decentralized Identity, Developer Ecosystem"
+  "pwCategorySuggestions": "Blockchain Infrastructure, Decentralized Identity, Developer Ecosystem",
+  "pwCategory": "Category: Developer Tools & Utilities"
 }

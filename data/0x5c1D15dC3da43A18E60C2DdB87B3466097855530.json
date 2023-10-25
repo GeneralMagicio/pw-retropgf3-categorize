@@ -10,7 +10,9 @@
       "description": "A live Dune dashboard tracking onchain governance at the Optimism Collective"
     }
   ],
-  "impactCategory": ["COLLECTIVE_GOVERNANCE"],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
   "impactDescription": "My Optimism Governance Dashboard has provided tangible benefits to governance participants by enabling more informed and effective participation. By centralizing critical data like voting trends, delegate activity, and proposals, it helps voters make educated delegate selections. This drives accountability and quality governance output. The dashboard also benefits new governance participants by making the process transparent and accessible. My dashboard empowers the Optimism community to analyze governance systematically. Specific groups benefiting include voters, delegates, and projects building in the ecosystem who require effective governance for operational success.",
   "impactMetrics": [
     {
@@ -78,5 +80,6 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, the application is not correctly categorized. Despite having a project-like name, the application talks about \"I\" showing that the applicant is an individual, not a project.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Governance & Tokens, Blockchain Infrastructure, Developer Ecosystem"
+  "pwCategorySuggestions": "Governance & Tokens, Blockchain Infrastructure, Developer Ecosystem",
+  "pwCategory": "Governance Tools & Practices"
 }

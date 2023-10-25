@@ -45,7 +45,9 @@
       "description": "The Rug articles collected on Optimism have been advertised on the Bankless pod."
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "We have evidence that The Rug has made a positive impact on Optimists. As early adopters on mirror.xyz, we procured a custom subdomain (therug.mirror.xyz) and were off to the races. We’ve been minting exclusively on Optimism since February 7th, 2022, with 92 satirical news articles, over 625 limited edition collects, generating 1.27 ETH selling at .002 ETH for each NFT. \n\nThe Rug directly enhances end-user adoption of Optimism by driving the collection of NFTs on-chain. Indirectly, The Rug is building an Optimisitc community through humor and satire, making poignant observations about crypto, and enhancing the experience of DeFi users more broadly. ",
   "impactMetrics": [
     {
@@ -114,5 +116,6 @@
   "applicantAddress": "0x38C2e1A4Db953E666b6dfc6B354804cEa7738dDf",
   "pwCategorySuggestions": "Content Creation, Community Building, User Experience & Adoption",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Content & Media"
 }

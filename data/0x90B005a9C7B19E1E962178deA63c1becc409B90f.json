@@ -15,7 +15,9 @@
       "description": "Personal github repository with contributions to compilers and cryptography"
     }
   ],
-  "impactCategory": ["OP_STACK"],
+  "impactCategory": [
+    "OP_STACK"
+  ],
   "impactDescription": "https://github.com/crate-crypto/go-kzg-4844 (4844) and https://github.com/crate-crypto/go-ipa (verkle tries) are both projects which will impact the OP stack.\n\nThe OP stack also has shown interest in using zero knowledge proofs -- the cryptographic implementations being implemented in crate-crypto are focussed around this domain.",
   "impactMetrics": [
     {
@@ -47,5 +49,6 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, the applicant refers to himself as \"I\" in the bio, indicating that it is an individual not a project.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Cryptographic Implementations"
+  "pwCategorySuggestions": "Cryptographic Implementations",
+  "pwCategory": "Cryptographic Implementations"
 }

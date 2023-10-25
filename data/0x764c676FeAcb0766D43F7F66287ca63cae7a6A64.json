@@ -15,7 +15,9 @@
       "description": "The Seedle.finance app"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "* Seedle added support for Optimism as soon as Uniswap V3 launched on Optimism.\n* It was also one of the first UIs that showed positions across networks, which promoted Optimism for LPs who haven't discovered it before.\n* Seedle also includes gas costs when calculating position gains, this helps LPs to choose between mainnet and L2s when deploying their liquidity.",
   "impactMetrics": [
     {
@@ -55,5 +57,6 @@
   "pwIsFlagged": false,
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, the application should be categorized as \"INDIVIDUAL\", as the applicant refers to their contributions using \"I\".",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Category: Decentralized Finance (DeFi)"
 }

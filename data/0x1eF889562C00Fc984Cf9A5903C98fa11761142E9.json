@@ -10,7 +10,9 @@
       "description": "XOXO celebrates the women in the web3 space."
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "The Ideology Behind XOXO\nThe digital realm is vast, filled with countless creators and developers. Among them, women have been at the forefront, pushing boundaries, and redefining the landscape of web3. However, their contributions often go unnoticed or overshadowed. XOXO aims to change that narrative.",
   "impactMetrics": [
     {
@@ -34,5 +36,6 @@
   "applicantAddress": "0x1eF889562C00Fc984Cf9A5903C98fa11761142E9",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Non-Fungible Tokens (NFTs), Community Building, Digital Identity"
+  "pwCategorySuggestions": "Non-Fungible Tokens (NFTs), Community Building, Digital Identity",
+  "pwCategory": "Category: Non-Fungible Tokens (NFTs)"
 }

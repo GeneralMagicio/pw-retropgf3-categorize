@@ -10,7 +10,9 @@
       "description": "Kazoku is the name for family and it the code-name for our DAO management tool."
     }
   ],
-  "impactCategory": ["COLLECTIVE_GOVERNANCE"],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
   "impactDescription": "We have built a tool which offers the ability to manage shares in a DAO much like a traditional organization would through options. The impact is far reaching and allows any DAO community using DAOHaus v3 to manage their organization to operate with better visibility and less friction.",
   "impactMetrics": [
     {
@@ -35,5 +37,6 @@
   "pwIsFlagged": false,
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, the application is incorrectly categorized as a project. The bio indicates it is an individual who contributes to multiple projects.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Category: Governance Tools & Practices"
 }

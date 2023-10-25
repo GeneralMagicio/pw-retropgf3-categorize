@@ -10,7 +10,9 @@
       "description": "Bridge VITA to optimism"
     }
   ],
-  "impactCategory": ["COLLECTIVE_GOVERNANCE"],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
   "impactDescription": "\nBridging VitaDAO to Optimism carries significant benefits for the Optimism community. By integrating the $VITA token, Optimism showcases its adaptability to diverse projects, enhancing its position as a versatile layer 2 solution. VitaDAO's primary focus is on funding early-stage longevity research. By facilitating this bridge, the Optimism community gains the opportunity to govern a longevity DAO. This empowers the community to actively participate in decisions related to longevity research funding, fostering collective responsibility. In essence, this integration not only strengthens Optimism's ecosystem but also provides its community with a unique role in shaping the future of longevity research.",
   "impactMetrics": [
     {
@@ -33,5 +35,6 @@
   "applicantAddress": "0x3F04DcF85FC1d34Bd32a4fA92CA7180148989Bd6",
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Smart Contract Platforms, Governance & Tokens",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Decentralized Finance (DeFi)"
 }

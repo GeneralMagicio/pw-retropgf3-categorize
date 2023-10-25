@@ -49,5 +49,6 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, the applicant talks about \"I\" and \"me\" indicating that it is an individual, not a project.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Content Creation, Community Building, Blockchain Education"
+  "pwCategorySuggestions": "Content Creation, Community Building, Blockchain Education",
+  "pwCategory": "Community Building & Governance"
 }

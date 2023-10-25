@@ -25,7 +25,10 @@
       "description": "Optimism AI's second product, featuring a full version chatbot."
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "Our chatbots were a game-changer for Optimism. In just a week, over 300 people, including newcomers, pros, developers, researchers, and enthusiasts, turned to us. We made finding answers easy, kindling a bright spark of enthusiasm within the Optimism Collective.",
   "impactMetrics": [
     {
@@ -57,5 +60,6 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, the application is from an individual acting as a representative of a project because the bio describes personal skills and experience.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Developer Ecosystem, User Experience & Adoption, Community Building"
+  "pwCategorySuggestions": "Developer Ecosystem, User Experience & Adoption, Community Building",
+  "pwCategory": "Community Building & Governance"
 }

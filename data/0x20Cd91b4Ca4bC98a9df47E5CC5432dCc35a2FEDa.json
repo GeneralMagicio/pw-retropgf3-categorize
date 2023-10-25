@@ -15,7 +15,9 @@
       "description": "Open Source repository implementing an example application of Client Side Proofs"
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
   "impactDescription": "The kind of games that are viable for writing entirely on chain is constrained by technical limitations and transaction costs. By increasing the complexity of game logic that can be run per transaction, we are opening up the design space available to fully onchain games.\n\nFully onchain games are a growing branch of decentralised applications and a potentially massive use case for the Optimism echo system. Furthermore, as Autonomous Worlds they are a test bed for the technical and governance structures required for a future of ownerless, composable applications.\n\nPlaymint's work on Client Side Proofs was released as a public good and shared with other teams in the space. Since the time of its release the idea of running proofs on clients has been considered a practical possibility.",
   "impactMetrics": [
     {
@@ -40,5 +42,6 @@
   "applicantAddress": "0x20Cd91b4Ca4bC98a9df47E5CC5432dCc35a2FEDa",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Blockchain Gaming"
+  "pwCategorySuggestions": "Blockchain Gaming",
+  "pwCategory": "Blockchain Gaming"
 }

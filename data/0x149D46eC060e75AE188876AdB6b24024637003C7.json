@@ -15,7 +15,10 @@
       "description": "RADAR Launch Homepage "
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "Relevance to OP Ecosystem:\n- Our platform is deployed on OP and aligns with the OP Ecosystem's goals of encouraging Public Goods development and collaboration. We’re also bringing non-web3 users into the Optimism blockchain by allowing them to believe and collect projects easily with credit card.\n\nProblems Solved:\n- Created a place for builders to share updates on their projects and get rewarded away from the noise of social media, and without the pressure of large crowdfunding, grants or VCs.\n\nOn-Chain Features:\n- We've implemented an on-chain 'believe' functionality, as well as the ability to collect NFTs. All NFTs are on the optimism blockchain and have attribute tags, the tags build reputation onchain for being early.",
   "impactMetrics": [
     {
@@ -78,5 +81,6 @@
   "applicantAddress": "0x149D46eC060e75AE188876AdB6b24024637003C7",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Community Building, Non-Fungible Tokens (NFTs), Blockchain Infrastructure"
+  "pwCategorySuggestions": "Decentralized Community Building, Non-Fungible Tokens (NFTs), Blockchain Infrastructure",
+  "pwCategory": "Decentralized Community Building"
 }

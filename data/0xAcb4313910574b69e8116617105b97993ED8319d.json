@@ -15,7 +15,9 @@
       "description": "Repository of the MyFirstLayer2 contracts project"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "Education:\nOur Layer 2 project includes a chapter on Optimistic Rollup, enhancing comprehension of Optimism technologies among developers and blockchain enthusiasts, thereby fostering a technically informed community within the Optimism Collective.\n\nCommunity Growth:\nOur accessible educational content fosters an informed and engaged community, enriching the Optimism Collective ecosystem.\n\nTechnology Adoption:\nThrough education, we inspire more developers and organizations to adopt Optimism solutions, expanding its reach and application.\n\nCertification:\nPost-course, participants receive NFT “graduation certificates” minted on the Optimism Goerli Testnet, showcasing Optimism's practical application and adding value to their learning experience.",
   "impactMetrics": [
     {
@@ -62,5 +64,6 @@
   "applicantAddress": "0xAcb4313910574b69e8116617105b97993ED8319d",
   "pwCategorySuggestions": "Education, Community Building, Technology Adoption",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Education"
 }

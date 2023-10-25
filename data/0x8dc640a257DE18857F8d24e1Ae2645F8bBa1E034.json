@@ -175,5 +175,6 @@
   "applicantAddress": "0x8dc640a257DE18857F8d24e1Ae2645F8bBa1E034",
   "pwCategorySuggestions": "Decentralized Healthcare, Web3 Tools, Education",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Decentralized Healthcare"
 }

@@ -10,7 +10,9 @@
       "description": "TestFlight mobile app for governance."
     }
   ],
-  "impactCategory": ["COLLECTIVE_GOVERNANCE"],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
   "impactDescription": "Our solution should bring new users to Optimism and increase the participation rate among current OP token holders, highlighting influential delegates, facilitating delegating stale tokens and re-delegating. We already did a lot of work to make it happen and will have a public launch in November. Now, our application is in a TestFlight Alpha.",
   "impactMetrics": [
     {
@@ -35,5 +37,6 @@
   "applicantAddress": "0xB5dba35092aD57C02219B2E0AbF60d67C7d2f71e",
   "pwCategorySuggestions": "Decentralized Governance, Mobile Applications, Blockchain Infrastructure",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Decentralized Governance"
 }

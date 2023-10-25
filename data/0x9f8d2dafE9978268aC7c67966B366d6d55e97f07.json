@@ -91,5 +91,6 @@
   "applicantAddress": "0x9f8d2dafE9978268aC7c67966B366d6d55e97f07",
   "pwCategorySuggestions": "Governance & Tokens, Tokenization Platforms, Blockchain Infrastructure",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Governance & Tokens"
 }

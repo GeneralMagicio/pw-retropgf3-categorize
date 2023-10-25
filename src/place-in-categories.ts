@@ -19,6 +19,8 @@ const categoryTemplate = PromptTemplate.fromTemplate(
   analyze the nuances and essence of the project. Your task is to assign the most appropriate 
   category from the provided list, ensuring that the core purpose and nature of the project are accurately captured.
   
+  IMPORTANT: Do not place the project in a "broad category" if a more specific category is available.
+  
   Choose only ONE category from the following list:
   {categoryList}
   
@@ -49,7 +51,8 @@ export async function placeInCategories(analyzeAll: YesOrNo) {
     const application = JSON.parse(doc.pageContent);
 
     const shouldProcess =
-      analyzeAll === "yes" || !("pwCategory" in application);
+      (analyzeAll === "yes" || !("pwCategory" in application)) &&
+      !application.pwIsFlagged === true;
 
     if (!shouldProcess) {
       continue;
@@ -70,6 +73,8 @@ export async function placeInCategories(analyzeAll: YesOrNo) {
       doc.metadata.source,
       JSON.stringify(application, null, 2)
     );
+
+    await new Promise((resolve) => setTimeout(resolve, 1000));
   }
 
   console.log("Arranged projects");
@@ -99,7 +104,10 @@ export async function placeInCategories(analyzeAll: YesOrNo) {
 
     let categoryResult = await categoryChain.invoke({
       categoryList,
-      project: `${application.displayName}, ${application.bio},  ${application.contributionDescription}, ${application.impactDescription}, ${application.pwCategorySuggestions}`,
+      project: `Project name: ${application.displayName}
+      Suggested categories: ${application.pwCategorySuggestions}
+      Applicant bio: ${application.bio}
+      Project description: ${application.contributionDescription}, ${application.impactDescription}`,
     });
 
     application.pwCategory = categoryResult.content;
@@ -109,6 +117,8 @@ export async function placeInCategories(analyzeAll: YesOrNo) {
       doc.metadata.source,
       JSON.stringify(application, null, 2)
     );
+
+    await new Promise((resolve) => setTimeout(resolve, 1000));
   }
 
   console.log("Arranged individuals");

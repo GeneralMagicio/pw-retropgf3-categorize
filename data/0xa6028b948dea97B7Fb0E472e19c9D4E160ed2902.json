@@ -30,7 +30,9 @@
       "description": "Learn and Earn quest grant application"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "Learn to Earn Quests:  Participants learned about different protocols in the broader Optimism ecosystem.  Learning about different dApps is the first step toward using the dApp and wider adoption of the Optimism ecosystem.\n\nImpact Metrics:\n\nOn chain:\n2628 submissions\n2090 payouts\n17500 $OP sent through QuestN\n\nOffchain: \n72K direct views, over 100K impressions since June \n\nProjects featured in the quest benefited from additional exposure.  List of projects benefited in the link.\n\nCoinbase Wallet App Quests:\n\nOn chain:\n24,000 people have minted Lady Greatness: Fall of Sybils on Optimism\n\nOffchain:\nOver 150k impressions on X through all the tweets about the quests\n\nHelped onboard 25,000 Coinbase Wallet users onto Optimism, creating a positive impact on the entire Optimism system.",
   "impactMetrics": [
     {
@@ -78,5 +80,6 @@
   "pwIsFlagged": false,
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO. The application is from an individual (the creator of Optiland Quests) but it is categorized as a \"PROJECT\".",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Category: User Interface & Experience"
 }

@@ -20,7 +20,9 @@
       "description": "Discord Channel - SupNERD nominations & commitments to support. "
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "SupNERDs create an informed and friendly community accessible to a global audience. They onboard new users into the Optimism ecosystem, helping them discover and use dapps, and debugging common issues. They ensure the community's safety through scam reporting and spam removal. Impact metrics are since the last retroPGF round. ",
   "impactMetrics": [
     {
@@ -73,5 +75,6 @@
   "applicantAddress": "0xF7159DEAc43C0efe1Dd50b10eFfA6299e694918D",
   "pwCategorySuggestions": "Community Building, User Experience & Adoption, Community Moderation",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Community Moderation"
 }

@@ -10,7 +10,9 @@
       "description": "Website"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "Our efforts extend beyond the Optimism network, as we also assist in onboarding individuals to other blockchains on the OP stack, including Base and Zora, using our tools and products.\n\nAlthough it's been over a year since our NFT project was minted, we remain active in educating people through a variety of activities, including exclusive content, bi-weekly AMAs, and multiple in-person events.\n\nBeing a team of entrepreneurs with expertise in NFTs, we provide guidance to those seeking advice on executing NFT projects on the OP Stack. To date, we've advised over 30 NFT projects bringing them to be a part of Optimism Collective.",
   "impactMetrics": [
     {
@@ -65,5 +67,6 @@
   "applicantAddress": "0x16ac527d938c36Caec5A6b0665ef7b456C22f7D2",
   "pwIsFlagged": false,
   "pwCategorySuggestions": "NFTs, Layer 2 Scaling, Community Building",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Category: NFTs & Marketplaces"
 }

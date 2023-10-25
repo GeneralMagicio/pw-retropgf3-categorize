@@ -76,5 +76,6 @@
   "pwIsFlagged": false,
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO. The application should be categorized as \"INDIVIDUAL\" as the bio and contribution description indicate that the project is primarily undertaken by an individual \"I have been building it\", rather than a collective team effort.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Blockspace & Data Analytics"
 }
