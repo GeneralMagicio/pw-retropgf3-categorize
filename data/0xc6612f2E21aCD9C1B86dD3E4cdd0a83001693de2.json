@@ -48,5 +48,6 @@
   "applicantAddress": "0xc6612f2E21aCD9C1B86dD3E4cdd0a83001693de2",
   "pwCategorySuggestions": "Content Creation, Community Building, Media Production",
   "pwCategory": "Content & Media",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

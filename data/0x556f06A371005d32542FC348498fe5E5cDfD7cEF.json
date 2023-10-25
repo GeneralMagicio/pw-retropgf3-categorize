@@ -1,0 +1,48 @@
+{
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "HTTPS://twitter.com/ozmofo",
+  "bio": "Indie Dev, wearable designer, game creator and all round Digital Journeyman. ",
+  "contributionDescription": "Have been a vocal supporter of OP and  have been holding metaverse get togethers in Decentraland for public discussions. I have promoted the use of layer 2 solutions to communities focusing on cost efficient templates for scalable projects that incorporate many facets of Defi and dapp applications. I look forward to playing a bigger role moving into the future. ",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "Http:/Decentraland.com",
+      "description": "MetaVerse platform"
+    }
+  ],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
+  "impactDescription": "Advocating OP layer2 to broader communities and educating developers and creators on the benefits of incorporating layer2 chain solutions to help facilitate functional process creation. Sharing foresight with like minded creators to maximise potential for broader applications through gaming, minting and transactional discussions regarding future development. ",
+  "impactMetrics": [
+    {
+      "description": "Hosting information discussions",
+      "number": 101,
+      "url": "Http:/Decentraland.com"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 0,
+      "description": ""
+    }
+  ],
+  "payoutAddress": "0x556f06A371005d32542FC348498fe5E5cDfD7cEF",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Ozmofo",
+  "applicantName": "Ozmofo",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x556f06A371005d32542FC348498fe5E5cDfD7cEF.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x556f06A371005d32542FC348498fe5E5cDfD7cEF.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x556f06A371005d32542FC348498fe5E5cDfD7cEF.json",
+  "RPGF3_Application_UID": "0x1395c02f8d390f92e57713f60ad39e3a84e319d23066ce3bf059181947265130",
+  "applicantAddress": "0x556f06A371005d32542FC348498fe5E5cDfD7cEF",
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "The application should be flagged for violating the rule against \"Promises of future impact - promises of future deliverables or impact are not allowed.\" The applicant states \"I look forward to playing a bigger role moving into the future,\" which is a promise of future involvement and potential impact.",
+  "pwApplicantTypeChecked": true
+}

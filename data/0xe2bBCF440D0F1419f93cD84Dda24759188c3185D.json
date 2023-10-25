@@ -44,5 +44,6 @@
   "applicantAddress": "0xe2bBCF440D0F1419f93cD84Dda24759188c3185D",
   "pwCategorySuggestions": "Blockchain Infrastructure, User Experience & Adoption, Privacy Coins",
   "pwCategory": "Web3 Infrastructure",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

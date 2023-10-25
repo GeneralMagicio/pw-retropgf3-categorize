@@ -43,5 +43,8 @@
   "applicantAddress": "0xeE1D6Ea2D011C664e4baA4ea63444D87745439B6",
   "pwCategorySuggestions": "Developer Ecosystem, Governance & Tokens, Content Creation",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "This application should be flagged for plagiarism. The contribution description is copied from Optimism's own public goods funding philosophy, not an original description of the applicant's contribution."
+  "pwFlaggedReason": "This application should be flagged for plagiarism. The contribution description is copied from Optimism's own public goods funding philosophy, not an original description of the applicant's contribution.",
+  "pwRecategorizeToType": "PROJECT",
+  "pwRecategorizeReason": "NO, the application is not correctly categorized because the contribution description reads more like a project rather than an individual contribution.",
+  "pwApplicantTypeChecked": true
 }

@@ -43,5 +43,6 @@
   "applicantAddress": "0xe5982982f4e24E7AC9DBFffA22aE536690c9e010",
   "pwCategorySuggestions": "Layer 2 Scaling, NFTs, Blockchain Infrastructure",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "Flagged for promise of future impact - the application discusses speculative future outcomes such as lowering gas fees, which is against the rule of promising future deliverables or impact."
+  "pwFlaggedReason": "Flagged for promise of future impact - the application discusses speculative future outcomes such as lowering gas fees, which is against the rule of promising future deliverables or impact.",
+  "pwApplicantTypeChecked": true
 }

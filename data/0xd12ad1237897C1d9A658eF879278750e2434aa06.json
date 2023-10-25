@@ -152,5 +152,6 @@
   "applicantAddress": "0xd12ad1237897C1d9A658eF879278750e2434aa06",
   "pwCategorySuggestions": "Blockchain Infrastructure, Governance & Tokens, Developer Ecosystem",
   "pwCategory": "Decentralized Governance",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

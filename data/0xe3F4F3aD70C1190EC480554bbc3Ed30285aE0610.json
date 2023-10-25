@@ -59,5 +59,6 @@
   "pwCategorySuggestions": "Non-Fungible Tokens (NFTs), Smart Contract Platforms, Blockchain Infrastructure",
   "pwCategory": "Social Impact",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "The application should be flagged for violating the first rule of the grant program: promises of future impact - promises of future deliverables or impact are not allowed. In the application, there is mention of targeting a launch before the end of the year and plans to add value to Optimism, which are all future promises."
+  "pwFlaggedReason": "The application should be flagged for violating the first rule of the grant program: promises of future impact - promises of future deliverables or impact are not allowed. In the application, there is mention of targeting a launch before the end of the year and plans to add value to Optimism, which are all future promises.",
+  "pwApplicantTypeChecked": true
 }

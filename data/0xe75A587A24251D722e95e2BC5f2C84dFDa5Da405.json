@@ -42,5 +42,6 @@
   "RPGF3_Application_UID": "0xe08ceed217b79c9ee977c37d5e6b76b0afbbd88b7fe999ec6624197a5f8c4a82",
   "applicantAddress": "0xe75A587A24251D722e95e2BC5f2C84dFDa5Da405",
   "pwCategorySuggestions": "Governance & Tokens, Developer Ecosystem, Smart Contract Platforms",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

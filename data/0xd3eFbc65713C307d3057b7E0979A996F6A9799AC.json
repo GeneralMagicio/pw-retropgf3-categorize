@@ -105,5 +105,6 @@
   "applicantAddress": "0xd3eFbc65713C307d3057b7E0979A996F6A9799AC",
   "pwCategorySuggestions": "NFT Marketplace, Layer 2 Scaling, Blockchain Infrastructure",
   "pwCategory": "NFT Marketplace",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

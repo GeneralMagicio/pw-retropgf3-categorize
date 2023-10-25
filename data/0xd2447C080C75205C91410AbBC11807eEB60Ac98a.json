@@ -64,5 +64,6 @@
   "applicantAddress": "0xd2447C080C75205C91410AbBC11807eEB60Ac98a",
   "pwCategorySuggestions": "Content Creation, Community Building, User Experience & Adoption",
   "pwCategory": "Content & Media",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

@@ -36,5 +36,6 @@
   "applicantAddress": "0xfa922ce609FeD47950E3f48662C9651d42ada194",
   "pwCategorySuggestions": "Web3 Community Platform, End-User Experience, Tokenization Platforms",
   "pwCategory": "Community & Social",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

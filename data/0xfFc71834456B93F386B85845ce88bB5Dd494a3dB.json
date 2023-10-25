@@ -62,5 +62,6 @@
   "applicantAddress": "0xfFc71834456B93F386B85845ce88bB5Dd494a3dB",
   "pwCategorySuggestions": "Tokenization Platforms, User Experience & Adoption, Blockchain Education",
   "pwCategory": "User Interface & Experience",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

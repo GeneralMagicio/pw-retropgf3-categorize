@@ -1,0 +1,90 @@
+{
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://www.bbagh.org/",
+  "bio": "Web3 Builder Community in Ghana.",
+  "contributionDescription": "Since we launched a few months ago we have had several builder focused events from a round table meet with the EF 1 billion team and our community to short training sessions in various universities in Ghana, optimism featured in a recent training session we had at KNUST.\n\nIn the past, founding members of our team has engaged in various web3 focused events in Ghana to help build the community. Notable ones include taking active roles in the organization of the recent EthAccra and Aya hackathons.\n\nOur next strategy now is to convert existing web2 developers to web3 developers. This is the quickest way to start building out a strong community of web3 developers. We are already in touch with existing community of developers who are eager to transition to web3. \n",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://www.linkedin.com/posts/blockchain-builders-association-ghana_bbag-bbagh-blockchain-activity-7108401173035905024-89l_?utm_source=share&utm_medium=member_desktop",
+      "description": "Roundtable with EF Team and BBAG Community"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://www.linkedin.com/posts/blockchain-builders-association-ghana_blockchaininnovation-communitymeetup-kumasivibes-activity-7110172898836787201-g4OQ?utm_source=share&utm_medium=member_desktop",
+      "description": "Training session with optimism as KNUST"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://www.linkedin.com/posts/blockchain-builders-association-ghana_blockchain-africa-web3-activity-7112013391782666240-lItj?utm_source=share&utm_medium=member_desktop",
+      "description": "Training session at Garden city university"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": " https://www.linkedin.com/feed/update/urn:li:activity:7085543125829451776?utm_source=share&utm_medium=member_desktop",
+      "description": "Accra Technical University Campus Tour with EthAccra"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7083332957121187840?utm_source=share&utm_medium=member_desktop",
+      "description": "UCC Technical University Campus Tour with EthAccra"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://www.linkedin.com/posts/emmanuel-kusi-0499541a3_crypto-ethereum-blockchain-activity-7085543125829451776--Nw9?utm_source=share&utm_medium=member_desktop",
+      "description": "UCC Technical University Campus Tour with EthAccra"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://www.linkedin.com/posts/emmanuel-kusi-0499541a3_blockchaintechnology-ethereum-activity-7098615034175459328-sqMv?utm_source=share&utm_medium=member_desktop",
+      "description": "Kumasi Hive Tour session with  EthAccra"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://www.linkedin.com/posts/emmanuel-kusi-0499541a3_crypto-ethereum-blockchain-activity-7085543125829451776--Nw9?utm_source=share&utm_medium=member_desktop",
+      "description": "Kumasi Hive Tour session with  EthAccra"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://www.linkedin.com/posts/baah-kusi_ghana-blockchain-opportunity-activity-7082320433571635200-KH6m?utm_source=share&utm_medium=member_desktop",
+      "description": "BBAG co-founders as Campus tour instructors & organizers"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://www.linkedin.com/posts/emmanuel-kusi-0499541a3_ethereum-ghana-blockchain-activity-7082312671059976192-cHbh?utm_source=share&utm_medium=member_desktop",
+      "description": "BBAG co-founders as Campus tour instructors & organizers"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7074565621761417217?utm_source=share&utm_medium=member_desktop",
+      "description": "Ethereum blockchain beginners master class"
+    }
+  ],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
+  "impactDescription": "The BBAG (Blockchain and Blockchain-Related Application Group) builder-focused activities have played a pivotal role in fostering education and awareness within the blockchain and Ethereum ecosystem. Through these activities, approximately 300 tertiary students and community members have been introduced to the intricacies of Ethereum, Optimism, and various other technologies within the Ethereum ecosystem. ",
+  "impactMetrics": [
+    {
+      "description": "Training Session Attendance",
+      "number": 300,
+      "url": "https://docs.google.com/spreadsheets/d/1rWNikildrytfztD6r7wsAwn33ZfaBRAUgTojNpMOgIU/edit?usp=sharing"
+    }
+  ],
+  "fundingSources": [],
+  "payoutAddress": "0xC7FB3049441082c14CBd46277631DBB479E2fCDE",
+  "understoodKYCRequirements": true,
+  "understoodFundClaimPeriod": true,
+  "certifiedNotDesignatedOrSanctionedOrBlocked": true,
+  "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
+  "certifiedNotBarredFromParticipating": true,
+  "displayName": "Blockchain Builders Association of Ghana",
+  "applicantName": "Blockchain Builders Association of Ghana",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5d83072860083DABa0230e43AaB383280a4ffA67.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x5d83072860083DABa0230e43AaB383280a4ffA67.png",
+  "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x5d83072860083DABa0230e43AaB383280a4ffA67.json",
+  "RPGF3_Application_UID": "0x1ec60ce93d8493558067be8c6d81fe9172b4f0f9e4acdf877ebea05bce9ca55c",
+  "applicantAddress": "0x5d83072860083DABa0230e43AaB383280a4ffA67",
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
+}

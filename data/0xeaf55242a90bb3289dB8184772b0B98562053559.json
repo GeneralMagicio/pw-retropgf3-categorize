@@ -42,5 +42,6 @@
   "applicantAddress": "0xeaf55242a90bb3289dB8184772b0B98562053559",
   "pwCategorySuggestions": "Tokenization Platforms, Blockchain Infrastructure, Developer Ecosystem",
   "pwCategory": "Developer Tools",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

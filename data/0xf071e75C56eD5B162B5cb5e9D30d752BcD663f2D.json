@@ -77,5 +77,6 @@
   "applicantAddress": "0xf071e75C56eD5B162B5cb5e9D30d752BcD663f2D",
   "pwCategorySuggestions": "Decentralized Identity, Content Creation, Job Aggregator",
   "pwCategory": "Decentralized Infrastructure",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

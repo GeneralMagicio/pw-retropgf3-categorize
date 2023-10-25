@@ -39,5 +39,8 @@
   "RPGF3_Application_UID": "0xe5f0ccf4597eb114a1ff610f75921f278805a3639b54c692609cf1c37a165f6a",
   "applicantAddress": "0xe9A80AD27F60Ab52AE563718896E513263DE6993",
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Nonprofit Funding, Open Source Projects",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwRecategorizeToType": "PROJECT",
+  "pwRecategorizeReason": "NO, the application should be categorized as \"PROJECT\" as it does not refer to any individual work or use \"I\" or \"me\" but is describing the work of a project, retroPGF.",
+  "pwApplicantTypeChecked": true
 }

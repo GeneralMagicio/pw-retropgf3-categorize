@@ -73,5 +73,6 @@
   "applicantAddress": "0xe179B39f819d55301762b5745c85F767d988aEbe",
   "pwCategorySuggestions": "Developer Ecosystem",
   "pwCategory": "Education & Learning",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

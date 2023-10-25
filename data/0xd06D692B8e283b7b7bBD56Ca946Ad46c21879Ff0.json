@@ -81,5 +81,6 @@
   "applicantAddress": "0xd06D692B8e283b7b7bBD56Ca946Ad46c21879Ff0",
   "pwCategorySuggestions": "Decentralized Identity, Reputation Systems, Web3 Community Platform",
   "pwCategory": "Decentralized Community Building",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

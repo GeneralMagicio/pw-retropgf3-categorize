@@ -139,5 +139,6 @@
   "applicantAddress": "0xf7AF3dBf13634E3458174F6857c5468abBFbB222",
   "pwCategorySuggestions": "Media Production, Community Building, Blockchain Education",
   "pwCategory": "Education & Learning",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

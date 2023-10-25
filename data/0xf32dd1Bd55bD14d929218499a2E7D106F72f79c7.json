@@ -77,5 +77,6 @@
   "applicantAddress": "0xf32dd1Bd55bD14d929218499a2E7D106F72f79c7",
   "pwCategorySuggestions": "Decentralized Commerce, Web3 Community Platform, Tokenization Platforms",
   "pwCategory": "Decentralized Commerce",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

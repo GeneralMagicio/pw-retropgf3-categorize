@@ -50,5 +50,6 @@
   "applicantAddress": "0xeE334345eeAfF1C984f0685F66EF9548E7B75674",
   "pwCategorySuggestions": "Blockchain Gaming, NFTs, User Experience & Adoption",
   "pwCategory": "Gaming & Entertainment",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }

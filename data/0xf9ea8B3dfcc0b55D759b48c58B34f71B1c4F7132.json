@@ -39,5 +39,6 @@
   "applicantAddress": "0xf9ea8B3dfcc0b55D759b48c58B34f71B1c4F7132",
   "pwCategorySuggestions": "Content Creation, Community Building, User Experience & Adoption",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "This application should be flagged because the contribution and impact descriptions are irrelevant - it is a fairy tale story about Little Red Riding Hood which has no obvious relation to the Web3/blockchain space, and thus appears to be spam."
+  "pwFlaggedReason": "This application should be flagged because the contribution and impact descriptions are irrelevant - it is a fairy tale story about Little Red Riding Hood which has no obvious relation to the Web3/blockchain space, and thus appears to be spam.",
+  "pwApplicantTypeChecked": true
 }

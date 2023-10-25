@@ -154,5 +154,6 @@
   "applicantAddress": "0xf44649128144BD3052D020F6A93485A4B33952Fe",
   "pwCategorySuggestions": "Community Building, Content Creation, Web3 Community Platform",
   "pwCategory": "Education & Learning",
-  "pwIsFlagged": false
+  "pwIsFlagged": false,
+  "pwApplicantTypeChecked": true
 }
