@@ -12,7 +12,7 @@ import { YesOrNo } from ".";
 import fs from "fs/promises";
 import pc from "picocolors";
 
-const model = new ChatOpenAI({ modelName: "gpt-4" });
+const model = new ChatOpenAI({ modelName: "gpt-3.5-turbo" });
 
 const categoryTemplate = PromptTemplate.fromTemplate(
   `Given a detailed description of a project in the Web3/blockchain domain, thoroughly 
@@ -57,7 +57,10 @@ export async function placeInCategories(analyzeAll: YesOrNo) {
 
     let categoryResult = await categoryChain.invoke({
       categoryList,
-      project: `${application.displayName}, ${application.bio},  ${application.contributionDescription}, ${application.impactDescription}, ${application.pwCategorySuggestions}`,
+      project: `Project name: ${application.displayName}
+      Suggested categories: ${application.pwCategorySuggestions}
+      Applicant bio: ${application.bio}
+      Project description: ${application.contributionDescription}, ${application.impactDescription}`,
     });
 
     application.pwCategory = categoryResult.content;
