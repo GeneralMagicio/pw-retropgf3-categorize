@@ -63,5 +63,6 @@
   "pwIsFlagged": false,
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, this application is not correctly categorized. Despite being listed as a \"PROJECT,\" the application frequently refers to \"me\" (i.e., \"Published by Spencer Noon (that’s me 👋)\"), suggesting that this is an individual application.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Community Building"
 }
