@@ -10,9 +10,7 @@
       "description": "Transaction on OP"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "I make effective trades across the entire web3 ecosystem! I load up frequently to make trades across all platforms. Been here since 2017 so I must be doing something right with my trades. My trades have mostly been on chain for I have more profits vs losses. Last time I checked i have a 40% roi",
   "impactMetrics": [
     {
@@ -38,5 +36,5 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Trading Tools, User Experience & Adoption",
-  "pwCategory": "Trading Tools"
+  "pwCategory": "Finance & DeFi"
 }
