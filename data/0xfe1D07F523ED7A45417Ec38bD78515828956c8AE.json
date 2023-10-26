@@ -47,6 +47,5 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for using a language other than English, as mentioned in the description and impactDescription fields.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Web3 Community Platform",
-  "pwCategory": "The provided project description is not clear and does not provide enough information to accurately categorize the project. Please provide a detailed description of the project for a proper category assignment."
+  "pwCategorySuggestions": "Web3 Community Platform"
 }

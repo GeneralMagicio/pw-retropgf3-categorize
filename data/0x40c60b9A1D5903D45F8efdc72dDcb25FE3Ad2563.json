@@ -10,9 +10,7 @@
       "description": "Advt"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "                                                                                                                                                                                                                                                                     ",
   "impactMetrics": [
     {
@@ -38,6 +36,5 @@
   "pwCategorySuggestions": "User Experience & Adoption, Content Creation",
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for violating the rules because it does not provide clear details about the actual contribution and the impact made, plus it appears to be using the application to advertise (mentioned as 'Advt' in the description and impact metrics), which is against the rules.",
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "The project description for sikkha is incomplete, so I am unable to categorize it."
+  "pwApplicantTypeChecked": true
 }

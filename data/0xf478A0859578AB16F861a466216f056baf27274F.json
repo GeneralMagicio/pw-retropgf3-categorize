@@ -49,6 +49,5 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, the application is categorized as a project but the use of first-person pronouns such as \"I\" in the \"contributionDescription\" suggests that this might be an individual.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Media Production",
-  "pwCategory": "The project description is unclear and does not provide any concrete details about the project, its objectives, or its requirements. This makes category assignment impossible. Please provide a clearer and more detailed description of the project."
+  "pwCategorySuggestions": "Media Production"
 }

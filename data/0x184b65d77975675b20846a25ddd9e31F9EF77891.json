@@ -10,9 +10,7 @@
       "description": "asdfasdfasd"
     }
   ],
-  "impactCategory": [
-    "OP_STACK"
-  ],
+  "impactCategory": ["OP_STACK"],
   "impactDescription": "test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test ",
   "impactMetrics": [
     {
@@ -47,6 +45,5 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, this application should not be categorized as a PROJECT because it does not provide clear details about a project; instead, it consists of non-informative, repeated phrases.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Content Creation, Community Building, User Experience & Adoption",
-  "pwCategory": "The provided description does not contain enough specific information to accurately assign a category from the provided list."
+  "pwCategorySuggestions": "Content Creation, Community Building, User Experience & Adoption"
 }

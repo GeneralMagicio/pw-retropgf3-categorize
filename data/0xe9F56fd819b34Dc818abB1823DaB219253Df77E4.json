@@ -10,9 +10,7 @@
       "description": "Description"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM"],
   "impactDescription": "                                                                                                                                                                                                                                                                   ",
   "impactMetrics": [
     {
@@ -45,6 +43,5 @@
   "pwCategorySuggestions": "Content Creation, Community Building, Marketing and Brand Management",
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged because it provides no clear details on the applicant's past contributions or impacts in the Web3/blockchain space.",
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "The provided information about the project \"kinara bhel\" is insufficient to make a concrete determination about its proper category. Please provide more details about the nature and purpose of the project."
+  "pwApplicantTypeChecked": true
 }

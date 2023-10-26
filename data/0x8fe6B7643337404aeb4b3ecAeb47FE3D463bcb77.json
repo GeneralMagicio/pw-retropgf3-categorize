@@ -10,9 +10,7 @@
       "description": "test"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Rain is a meteorological phenomenon in which liquid water droplets fall from the sky. It is a vital component of Earth's water cycle and occurs when moisture in the atmosphere condenses into small droplets that become heavy enough to overcome air resistance and fall to the ground. Rainfall plays a crucial role in maintaining the planet's ecosystem, as it provides water for plants, replenishes freshwater sources, and affects weather patterns.",
   "impactMetrics": [
     {
@@ -39,6 +37,5 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, the application uses words \"I\" and \"me\" which indicates it may be an individual application.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Blockchain Infrastructure",
-  "pwCategory": "The description provided does not relate to the Web3/blockchain domain or any other category provided."
+  "pwCategorySuggestions": "Blockchain Infrastructure"
 }

@@ -39,6 +39,5 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for spam as the contribution and impact descriptions are repeated multiple times without clearly describing any valid contributions to the space.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Content Creation, Community Building, User Experience & Adoption",
-  "pwCategory": "The provided project description is not clear and doesn't allow for accurate categorization. Please submit a more detailed and clear project description."
+  "pwCategorySuggestions": "Content Creation, Community Building, User Experience & Adoption"
 }

@@ -10,9 +10,7 @@
       "description": "Description"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM"],
   "impactDescription": "                                                                                                                                                                                                                                                                              ",
   "impactMetrics": [
     {
@@ -37,6 +35,5 @@
   "pwCategorySuggestions": "Decentralized Finance (DeFi), NFTs, Web3 Community Platform",
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for not containing a valid contribution. The sections for contribution description and impact description are left blank.",
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "The project description provided is not adequate or clear to assign a category from the given list. More detailed information about the project is necessary."
+  "pwApplicantTypeChecked": true
 }

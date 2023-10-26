@@ -50,6 +50,5 @@
   "pwFlaggedReason": "The application should be flagged for violation of rule 1 - promises of future impact are not provided and for rule 2 - false statements about contributions as the contribution description is vague and repetitive without providing tangible evidence of past impact.",
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "No, the application is not correctly categorized. The application predominantly uses first-person pronouns \"I\" and \"me\" which indicates that the application is from an individual, not a project.",
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "The project description is not clear, and it doesn't provide enough information to categorize the project accurately."
+  "pwApplicantTypeChecked": true
 }

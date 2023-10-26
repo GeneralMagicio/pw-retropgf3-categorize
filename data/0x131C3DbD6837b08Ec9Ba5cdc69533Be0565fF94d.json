@@ -10,10 +10,7 @@
       "description": "i hope you"
     }
   ],
-  "impactCategory": [
-    "COLLECTIVE_GOVERNANCE",
-    "OP_STACK"
-  ],
+  "impactCategory": ["COLLECTIVE_GOVERNANCE", "OP_STACK"],
   "impactDescription": "My Contributions this powerfull, becouse i hope this project can save me, i need your help, please sir help me with your project. make me happy ending in my live with your project Sir. I can help you and suport you to bulider thid project, becasue i am seriously hope you can save me, Thanks youu..",
   "impactMetrics": [
     {
@@ -38,6 +35,5 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for promises of future impact - the applicant commits to help and support the project in the future and expresses hope that the project will help them.",
   "pwCategorySuggestions": "NFT Aggregator",
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "The project description provided is not clear or specific enough to assign an accurate category. There is an indication of the project being related to NFT's but the applicant does not provide detailed information about the role or purpose of the project. Please request more detailed information about the project for a more accurate category assignment."
+  "pwApplicantTypeChecked": true
 }

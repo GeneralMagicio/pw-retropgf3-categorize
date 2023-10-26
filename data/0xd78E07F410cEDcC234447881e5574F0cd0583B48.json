@@ -47,6 +47,5 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for containing spam - the contribution and impact descriptions are nonsensical and largely comprised of seemingly random character strings and repetitive URLs.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Blockchain Infrastructure",
-  "pwCategory": "The provided project description does not provide sufficient or valid information. Therefore, no category can be assigned. Please provide a detailed and appropriate project description."
+  "pwCategorySuggestions": "Blockchain Infrastructure"
 }

@@ -10,9 +10,7 @@
       "description": "111"
     }
   ],
-  "impactCategory": [
-    "COLLECTIVE_GOVERNANCE"
-  ],
+  "impactCategory": ["COLLECTIVE_GOVERNANCE"],
   "impactDescription": "11111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
   "impactMetrics": [
     {
@@ -37,6 +35,5 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for containing spam, as the contribution description and impact description are irrelevant and do not provide useful information about the applicant's contribution or impact.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Tokenization Platforms, Content Creation, Digital Identity",
-  "pwCategory": "The project description provided is not specific or detailed enough to assign a category. It seems like a placeholder or test text rather than a legitimate project description. It does not offer any discernible details about the nature or objectives of the supposed project. Therefore, it is not possible to assign a category based on the information provided."
+  "pwCategorySuggestions": "Tokenization Platforms, Content Creation, Digital Identity"
 }

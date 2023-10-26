@@ -48,6 +48,5 @@
   "pwCategorySuggestions": "Community Building, User Experience & Adoption, Governance & Tokens.",
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for violating the rule on Spam, as the content provided in the application is nonsensical and in a language other than English.",
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "The project description provided is not coherent and does not provide clear or meaningful information about the nature or purpose of the proposed blockchain project. As such, it is impossible to accurately assign a category from the provided list based on the information provided."
+  "pwApplicantTypeChecked": true
 }

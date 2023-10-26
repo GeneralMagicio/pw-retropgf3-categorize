@@ -40,6 +40,5 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for spam as it repeatedly posts the same message, \"I love this project and I desperately need it to build my future project\" without providing any clear, meaningful, or unique contributions or impacts.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, Developer Ecosystem, User Experience & Adoption",
-  "pwCategory": "The provided project description is not sufficient to assign an accurate category. Please provide more details about the project."
+  "pwCategorySuggestions": "Community Building, Developer Ecosystem, User Experience & Adoption"
 }

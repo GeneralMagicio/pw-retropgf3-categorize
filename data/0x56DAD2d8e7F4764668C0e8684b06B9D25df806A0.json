@@ -10,9 +10,7 @@
       "description": "1"
     }
   ],
-  "impactCategory": [
-    "COLLECTIVE_GOVERNANCE"
-  ],
+  "impactCategory": ["COLLECTIVE_GOVERNANCE"],
   "impactDescription": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
   "impactMetrics": [
     {
@@ -36,6 +34,5 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for spam as it contains irrelevant answers and numerous unnecessary repetitions of numbers in the \"bio\", \"contributionDescription\", and \"impactDescription\" sections which indicate a lack of meaningful input.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Tokenization Platforms, Blockchain Infrastructure",
-  "pwCategory": "Project description provided is insufficient for correct categorization."
+  "pwCategorySuggestions": "Tokenization Platforms, Blockchain Infrastructure"
 }
