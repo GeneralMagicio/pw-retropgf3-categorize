@@ -1,5 +1,5 @@
 {
-  "applicantType": "PROJECT",
+  "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://t.co/jCvmw5xAA8",
   "bio": "Dunia ini Fana!",
   "contributionDescription": "The core idea behind retroPGF is to level the playing field between profit-maximizing startups and nonprofit/OSS projects. Profit-seeking entities have an advantage in their potential for an exit, drawing early investment funding and providing incentives for employees. The goal of retroPGF is to create a system that provides the same benefits for nonprofit and OSS projects.\n\nOne of the most difficult parts of retroPGF is creating a “results oracle” — the process that decides which projects receive an exit. We want to experiment with many iterations to refine this mechanism, and today, we are embarking on the first.",
@@ -42,6 +42,5 @@
   "pwIsFlagged": false,
   "pwRecategorizeToType": "PROJECT",
   "pwRecategorizeReason": "NO, the application should be categorized as \"PROJECT\" as it does not refer to any individual work or use \"I\" or \"me\" but is describing the work of a project, retroPGF.",
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Grants & Retroactive Funding"
+  "pwApplicantTypeChecked": true
 }

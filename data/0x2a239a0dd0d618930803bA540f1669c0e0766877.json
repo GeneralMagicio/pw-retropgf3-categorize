@@ -1,5 +1,5 @@
 {
-  "applicantType": "PROJECT",
+  "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://linktr.ee/thebigmave",
   "bio": "Project Manager | Blockchain Expert | Web3 Master | Digital Marketer | Certified Metaverse Expert",
   "contributionDescription": "The Creath Art Marketplace is built on the Ethereum Blockchain and designed to be a digital gallery for artists, curators, collectors, and art lovers. We connect creatives such as traditional artists, digital artists, photographers and sculptors with collectors.\nThe marketplace attracts a global target audience that will participate in the primary sales of our curated collections.",
@@ -47,6 +47,5 @@
   "pwRecategorizeToType": "PROJECT",
   "pwRecategorizeReason": "NO, it should be categorized as \"PROJECT\" because the application is about the Creath Art Marketplace, which is more than an individual's contribution.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "NFT Marketplace, Digital Art, Governance Tokens",
-  "pwCategory": "Marketplaces & Auctions"
+  "pwCategorySuggestions": "NFT Marketplace, Digital Art, Governance Tokens"
 }
