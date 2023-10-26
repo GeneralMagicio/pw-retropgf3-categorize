@@ -15,7 +15,9 @@
       "description": "Onchain Reads website"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "Winner of one of the 100 Builders grants.\n\nOnchain Reads is built on Ethereum Attestation Service (EAS) https://attest.sh/ and deployed on Base. Visit https://onchainreads.phyles.app/ to mark a book as read onchain.\n\nAfter you sign the attestation you can check it on the app and EAS Scan https://base.easscan.org/schema/view/0x033ac28e96914866bb41e63e9439560a83521eb856ecdb711ef520ae43994d18\n\nBy storing data onchain, we ensure a credibly neutral platform, and enabling developers to create new applications permissionlessly.\n\nIn this prototype, you can view users who have read a book and visit profiles to see the books they've read https://onchainreads.phyles.app/u/0xCf7ecA52dE76E72e562ADddb513CeF4c609f1fd2",
   "impactMetrics": [
     {
@@ -53,5 +55,5 @@
   "pwCategorySuggestions": "Decentralized Social Network, NFT Aggregator, Content Creation",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Messaging & Social Networks"
+  "pwCategory": "Reputations & Rewards"
 }
