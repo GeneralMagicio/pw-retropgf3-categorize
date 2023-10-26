@@ -48,7 +48,7 @@
   "RPGF3_Application_UID": "0x07617b877f2b5d46526615b2a8cf20f49c7ed98af9fd59496a4aad0dbfe54caa",
   "applicantAddress": "0xc7DfbB5262852a50080c601CeDa9B3D2459a0969",
   "pwCategorySuggestions": "Content Creation, Community Building, Media Production",
-  "pwIsFlagged": false,
+  "pwIsFlagged": true,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Web3 Education & Adoption"
+  "pwFlaggedReason": "asking for funds to do further work"
 }
