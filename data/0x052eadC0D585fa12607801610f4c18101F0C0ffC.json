@@ -50,6 +50,5 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, the application is not correctly categorized. Despite being categorized as a \"PROJECT\", the application speaks from the \"I\" perspective, indicating it should be categorized as an \"INDIVIDUAL\".",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Media Production, Community Building, Content Creation",
-  "pwCategory": "Media Production"
+  "pwCategorySuggestions": "Media Production, Community Building, Content Creation"
 }

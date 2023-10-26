@@ -15,9 +15,7 @@
       "description": "Link to check out the game and play it for free"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "We are brining new users into the Base ecosystem by building fun, addictive, and engaging experience's with a clean user interface. After connecting their wallet users have the opportunity to be airdroped NFTs without ever leaving the game. This is all done free of cost to the user in order to get them familiar with NFTs and the blockchain. The year long development of this project has been entirely funded by the founders.",
   "impactMetrics": [
     {
@@ -50,6 +48,5 @@
   "applicantAddress": "0xeE334345eeAfF1C984f0685F66EF9548E7B75674",
   "pwCategorySuggestions": "Blockchain Gaming, NFTs, User Experience & Adoption",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Gaming & Entertainment"
+  "pwApplicantTypeChecked": true
 }

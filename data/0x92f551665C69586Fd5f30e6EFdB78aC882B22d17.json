@@ -91,6 +91,5 @@
   "applicantAddress": "0x92f551665C69586Fd5f30e6EFdB78aC882B22d17",
   "pwCategorySuggestions": "Content Creation, Web3 Community Platform, Media Production",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Content & Media"
+  "pwApplicantTypeChecked": true
 }

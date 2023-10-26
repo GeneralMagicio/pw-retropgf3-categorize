@@ -25,10 +25,7 @@
       "description": "We teached people how to run Farcaster Hubs running on Optimism"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM",
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "We helped over 100,000 unique people learn about Farcaster, and contributed to over 2,000 onchain Optimism transactions in 11 days once Farcaster went permissionless.\n\nWe also helped people build on Farcaster through our free open-source Farcaster APIs, and through our tutorials on how to run a Farcaster hub for half the cost of the official guides.",
   "impactMetrics": [
     {
@@ -70,6 +67,5 @@
   "applicantAddress": "0x997b0CcEd542b6d2A7e0Bae5649aFd9d0861CB4e",
   "pwCategorySuggestions": "Decentralized Social Network, Optimism Integration, Developer Support",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Web3 Education & Adoption"
+  "pwApplicantTypeChecked": true
 }

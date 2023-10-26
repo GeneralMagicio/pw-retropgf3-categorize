@@ -10,10 +10,7 @@
       "description": "website"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM",
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Ditto Network's collaboration with Optimism can encompass the provision of a comprehensive automation infrastructure. Supporting developers with a suite of tools and resources to seamlessly integrate Ditto's automation capabilities into their projects, unlocking a new level of efficiency and functionality. ",
   "impactMetrics": [
     {
@@ -48,6 +45,5 @@
   "applicantAddress": "0xCCE878Defd667F2B85A86F586452E5BFC68CF7b9",
   "pwCategorySuggestions": "Smart Contract Platforms, Developer Ecosystem, Automation Tools",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Developer Tools - Other"
+  "pwApplicantTypeChecked": true
 }

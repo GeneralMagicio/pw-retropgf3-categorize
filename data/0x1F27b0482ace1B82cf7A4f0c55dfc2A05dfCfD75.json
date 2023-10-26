@@ -90,9 +90,7 @@
       "description": "How to Delegate Your Tokens ?"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "My community has embraced this vision of Optimism. Make everyone aware of the potential of Optimism. Make them brave in deciding to enter to Optimism ecosystem. Content about Optimism gained traction and impressed my followers. It gave them confidence in me to deliver optimism content.",
   "impactMetrics": [
     {
@@ -117,6 +115,5 @@
   "applicantAddress": "0x1F27b0482ace1B82cf7A4f0c55dfc2A05dfCfD75",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Blockchain Education, Community Building, Content Creation",
-  "pwCategory": "Blockchain Education"
+  "pwCategorySuggestions": "Blockchain Education, Community Building, Content Creation"
 }

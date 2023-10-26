@@ -61,7 +61,6 @@ export async function placeInCategories(analyzeAll: YesOrNo) {
     let categoryResult = await categoryChain.invoke({
       categoryList,
       project: `Project name: ${application.displayName}
-      Suggested categories: ${application.pwCategorySuggestions}
       Applicant bio: ${application.bio}
       Project description: ${application.contributionDescription}, ${application.impactDescription}`,
     });

@@ -96,6 +96,5 @@
   "applicantAddress": "0xB22981bA3FE1De2325935c91a3B717168fB86714",
   "pwCategorySuggestions": "Web3 Infrastructure, Node Deployment, Decentralized Networks",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Blockchain Infrastructure"
+  "pwApplicantTypeChecked": true
 }

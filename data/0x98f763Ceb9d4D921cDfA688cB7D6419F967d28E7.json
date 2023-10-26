@@ -40,10 +40,7 @@
       "description": "Cluster dashboard server with ipfs stats and connected nodes list"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM",
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Strengthening the DeFi Ecosystem\n\nDecentralised Resilience: The Synthetix IPFS Node mitigates the vulnerabilities of centralised systems, offering more consistent uptime and reducing risks.\n\nEmpowered Community: Users, by running their nodes, directly influence the decentralization of the ecosystem, improving frontend performances.\n\nCensorship Resistance: The distributed nature of IPFS ensures that the frontends are less prone to external interference or censorship.\n",
   "impactMetrics": [
     {
@@ -98,6 +95,5 @@
   "applicantAddress": "0x98f763Ceb9d4D921cDfA688cB7D6419F967d28E7",
   "pwCategorySuggestions": "Decentralized Infrastructure, Developer Ecosystem, Web3 Community Platform",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Cross-Chain & Interoperability"
+  "pwApplicantTypeChecked": true
 }

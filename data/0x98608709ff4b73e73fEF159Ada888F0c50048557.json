@@ -48,6 +48,5 @@
   "applicantAddress": "0x98608709ff4b73e73fEF159Ada888F0c50048557",
   "pwCategorySuggestions": "Decentralized Identity, Community Building, Layer 2 Scaling",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Exchanges, Trading & Liquidity"
+  "pwApplicantTypeChecked": true
 }

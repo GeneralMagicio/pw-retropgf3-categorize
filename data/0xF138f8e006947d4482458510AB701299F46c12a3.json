@@ -63,6 +63,5 @@
   "applicantAddress": "0xF138f8e006947d4482458510AB701299F46c12a3",
   "pwCategorySuggestions": "Decentralized Governance, Voting Platforms, Layer 2 Scaling",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "DAO Tooling & Governance Tools"
+  "pwApplicantTypeChecked": true
 }

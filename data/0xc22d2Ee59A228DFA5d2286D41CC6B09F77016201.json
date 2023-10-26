@@ -10,9 +10,7 @@
       "description": "Base onchain contract (Basescan)"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Moso has enriched the Optimism Collective by simplifying crypto earning. Our users effortlessly earn crypto through everyday purchases, turning ordinary shopping into crypto micro-investments. Partnering with major retailers ensures variety and accessibility, encouraging broader participation. \n\nFurthermore, Moso’s feature of recording shopping activities fosters trust and reliability in the onchain environment, enhancing the community’s overall security. In essence, Moso has made crypto earning accessible and trustworthy, amplifying the vibrancy and integrity of the Optimism Collective.",
   "impactMetrics": [
     {
@@ -62,6 +60,5 @@
   "applicantAddress": "0xc22d2Ee59A228DFA5d2286D41CC6B09F77016201",
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Tokenization Platforms, User Experience & Adoption",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "User Interface & Experience"
+  "pwApplicantTypeChecked": true
 }

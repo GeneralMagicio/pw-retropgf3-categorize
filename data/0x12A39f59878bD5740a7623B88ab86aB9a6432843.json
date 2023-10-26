@@ -10,9 +10,7 @@
       "description": "Transaction hash"
     }
   ],
-  "impactCategory": [
-    "OP_STACK"
-  ],
+  "impactCategory": ["OP_STACK"],
   "impactDescription": "this is my contribution in Optimism https://optimistic.etherscan.io/txs?a=0x12a39f59878bd5740a7623b88ab86ab9a6432843 https://opensea.io/assets/optimism/0xa3dffe601e086d0854c94487fd481312c374151e/454110/ https://opensea.io/assets/optimism/0x11e76ab2e2c48e4a561ac96935399c8595619fa4/788/",
   "impactMetrics": [
     {
@@ -37,6 +35,5 @@
   "applicantAddress": "0x12A39f59878bD5740a7623B88ab86aB9a6432843",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Bridge to Optimism, Web3 Community Platform",
-  "pwCategory": "Bridge to Optimism"
+  "pwCategorySuggestions": "Bridge to Optimism, Web3 Community Platform"
 }

@@ -35,10 +35,7 @@
       "description": "LlamaSwap repos"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM",
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "- Helped optimism gov decide on what grants to give and track ecosystem and impact of grants.\n- 1M monthly users use us to discover protocols on Optimism (and other chains), track yields on Optimism, evaluate protocols, track chain metrics...\n- LlamaSwap has routed >726M of volume on Optimism and Base\n- LlamaZip has done >70k transactions, reducing costs for optimism's users\n- Over 1M monthly users on chainlist\n- Projects on optimism/base that use our APIs (mainly price api): pancakeswap, granary, mean finance, qidao, gamma, baseswap, ankr, revert finance... This infra that we maintain allows them to deliver their products/protocols to optimism users\n- LlamaPay on Optimism has been used by Premia, PoolTogether, Velodrome... for their operations\n- Over 10k daily users on our extension",
   "impactMetrics": [
     {
@@ -97,6 +94,5 @@
   "applicantAddress": "0x5A9D07ED3d7318eD5cB932776D2CEeb177a68bCd",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Finance (DeFi), Blockchain Infrastructure, Web3 Community Platform",
-  "pwCategory": "DeFi & DeFi Content"
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Blockchain Infrastructure, Web3 Community Platform"
 }

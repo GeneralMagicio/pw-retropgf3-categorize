@@ -30,9 +30,7 @@
       "description": "Our older Github organization."
     }
   ],
-  "impactCategory": [
-    "OP_STACK"
-  ],
+  "impactCategory": ["OP_STACK"],
   "impactDescription": "A number of our EIPs have been adopted by Ethereum Mainnet. We have meaningfully contributed to go-ethereum, Solidity, the ACD process, and Ethereum testing.\n\nCurrently our focus is EOF (EVM Object Format) and EVMMAX, revamping how the EVM works. Contributed to the selfdestruct-removal and EIP-4844 precompile.\n\nFun fact: Optimism's Solidity modifications were an inspiration for the RJUMP opcode of EOF.",
   "impactMetrics": [
     {
@@ -56,6 +54,5 @@
   "applicantAddress": "0xF96Aa4A25fDe246d9dD498B145F52Fab0eAd29f3",
   "pwCategorySuggestions": "Smart Contract Platforms",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Developer Tools - Smart Contracts"
+  "pwApplicantTypeChecked": true
 }

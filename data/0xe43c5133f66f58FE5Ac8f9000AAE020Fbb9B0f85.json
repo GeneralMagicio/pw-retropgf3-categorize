@@ -20,10 +20,7 @@
       "description": "Eternal Garden: ORIGINS - Sound.xyz Playlist"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM",
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Developer Ecosystem:\nOur contributions to the \"Eternal Garden: ORIGINS\" project played a pivotal role in enriching the Developer Ecosystem of the Optimism Collective. By collaborating with Coop Records, we developed an innovative custom smart contract that interacted with all seven songs simultaneously.\n\nEnd User Experience & Adoption:\nThe seamless integration with The Box allowed collectors to purchase on any chain without bridging. This reduced friction and complexity, making the NFT purchasing process more intuitive for end users. Moreover, the incentives for purchasing the full album was key in driving adoption. By selling over 7700 Optimism NFTs to more than 1100 collectors, we brought significant attention to Optimism and onboarded a new wave of users to the Collective. ",
   "impactMetrics": [
     {
@@ -60,6 +57,5 @@
   "applicantAddress": "0xe43c5133f66f58FE5Ac8f9000AAE020Fbb9B0f85",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Developer Ecosystem, End-User Experience & Adoption",
-  "pwCategory": "Music & Creative NFTs"
+  "pwCategorySuggestions": "Developer Ecosystem, End-User Experience & Adoption"
 }

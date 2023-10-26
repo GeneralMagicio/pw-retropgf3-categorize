@@ -45,6 +45,5 @@
   "applicantAddress": "0x08f40D5f8f85d7605e72C6e37DbeBadaB6149962",
   "pwIsFlagged": false,
   "pwCategorySuggestions": "Community Building, Promotion of Innovation and Positive Impact, Blockchain Education",
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Community Building"
+  "pwApplicantTypeChecked": true
 }

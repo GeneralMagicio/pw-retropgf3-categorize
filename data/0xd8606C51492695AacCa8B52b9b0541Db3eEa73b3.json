@@ -10,9 +10,7 @@
       "description": "Community members will be able to find any Nasassary information about our nft."
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM"],
   "impactDescription": "We will try our best to grow optimism community. with our nft project. We have 3000 unique NFTs on our collection. And we also have good number of active community members on Twitter. So we are hoping we will be able to help optimism in gaining good number of active community members.",
   "impactMetrics": [
     {
@@ -44,6 +42,5 @@
   "applicantAddress": "0xd8606C51492695AacCa8B52b9b0541Db3eEa73b3",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Non-Fungible Tokens (NFTs), Layer 2 Scaling, Community Building",
-  "pwCategory": "NFTs & Marketplaces"
+  "pwCategorySuggestions": "Non-Fungible Tokens (NFTs), Layer 2 Scaling, Community Building"
 }

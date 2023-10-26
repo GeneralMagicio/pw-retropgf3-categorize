@@ -35,6 +35,5 @@
   "applicantAddress": "0x3F04DcF85FC1d34Bd32a4fA92CA7180148989Bd6",
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Smart Contract Platforms, Governance & Tokens",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "DAO Tooling & Governance Tools"
+  "pwApplicantTypeChecked": true
 }

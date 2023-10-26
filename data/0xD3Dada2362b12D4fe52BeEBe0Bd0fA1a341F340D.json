@@ -59,6 +59,5 @@
   "applicantAddress": "0xD3Dada2362b12D4fe52BeEBe0Bd0fA1a341F340D",
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Non-Fungible Tokens (NFTs), Web3 Community Platform",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "DAO Tooling & Governance Tools"
+  "pwApplicantTypeChecked": true
 }

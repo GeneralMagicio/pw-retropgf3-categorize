@@ -10,9 +10,7 @@
       "description": "s"
     }
   ],
-  "impactCategory": [
-    "OP_STACK"
-  ],
+  "impactCategory": ["OP_STACK"],
   "impactDescription": "OP Mainnet is a fast, stable, and scalable L2 blockchain built by Ethereum developers, for Ethereum developers. Built as a minimal extension to existing Ethereum software, OP Mainnet's EVM-equivalent architecture scales your Ethereum apps without surprises. If it works on Ethereum, it works on OP Mainnet at a fraction of the cost.\n",
   "impactMetrics": [
     {
@@ -47,6 +45,5 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, the application is not correctly categorized. It appears to be an individual rather than a project, as the applicant has a personal name (\"Herculaz\"), which contrasts with the \"PROJECT\" category listed in the \"applicantType\" field.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Layer 2 Scaling, Smart Contract Platforms, Blockchain Infrastructure",
-  "pwCategory": "Layer 2 Scaling"
+  "pwCategorySuggestions": "Layer 2 Scaling, Smart Contract Platforms, Blockchain Infrastructure"
 }

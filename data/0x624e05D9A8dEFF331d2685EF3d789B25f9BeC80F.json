@@ -65,6 +65,5 @@
   "applicantAddress": "0x624e05D9A8dEFF331d2685EF3d789B25f9BeC80F",
   "pwCategorySuggestions": "Media Production",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Content & Media"
+  "pwApplicantTypeChecked": true
 }

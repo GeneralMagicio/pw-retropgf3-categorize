@@ -48,6 +48,5 @@
   "pwRecategorizeToType": "PROJECT",
   "pwRecategorizeReason": "NO, the application is not correctly categorized because it seems like a project (Optimism University) rather than an individual applicant.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Blockchain Education, Community Building, User Experience & Adoption",
-  "pwCategory": "Education & Learning Hubs"
+  "pwCategorySuggestions": "Blockchain Education, Community Building, User Experience & Adoption"
 }

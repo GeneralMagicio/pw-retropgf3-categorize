@@ -10,10 +10,7 @@
       "description": "App Directory with reference data is a use case product of MetaMosaic."
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM",
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Optimism developers can very easily and for free use the Reference data API port to build their products. As well as all community users can view and use Reference data to stay in control with trusted, validated blockchain reference data in one place.\nFor example, in terms of Security, you can access comprehensive detection through wide data coverage and relational mapping; and for Money Flow, you can find out exactly what a transaction has done and discover deeper insights.\n",
   "impactMetrics": [
     {
@@ -44,6 +41,5 @@
   "applicantAddress": "0xf4De160464Fb0fC00F4A062D1913715b7e429Aea",
   "pwCategorySuggestions": "Tokenization Platforms, Blockchain Infrastructure, Developer Ecosystem",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Data Analytics & Insights"
+  "pwApplicantTypeChecked": true
 }

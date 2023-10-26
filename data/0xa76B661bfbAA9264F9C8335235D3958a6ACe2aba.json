@@ -30,9 +30,7 @@
       "description": "Synthetix Case Study Video"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM"],
   "impactDescription": "Since deploying on Optimism, the Pyth oracle has become the go-to infrastructure for anyone building DeFi that requires low-latency data — apart from PERP Protocol, all derivatives platform live on Optimism have become #PoweredByPyth ; this amount to close to 99% market share on that segment.\n\nApplications that are #PoweredByPyth on Optimism have initiated close to 500,000 txs on OP mainnet (to update the Pyth price feeds) so that their protocol could properly function. We estimate that about 385 ETH have been spent (either by apps or users’ of said apps) to update the Pyth prices on-chain. As the number of #PoweredByPyth applications increase, and market share of existing applications increases, it is expected to see many more txs initiated to update the Pyth Price Feeds on Optimism.",
   "impactMetrics": [
     {
@@ -74,6 +72,5 @@
   "applicantAddress": "0xa76B661bfbAA9264F9C8335235D3958a6ACe2aba",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Smart Contract Platforms, Decentralized Finance (DeFi), Blockchain Infrastructure",
-  "pwCategory": "DeFi & DeFi Content"
+  "pwCategorySuggestions": "Smart Contract Platforms, Decentralized Finance (DeFi), Blockchain Infrastructure"
 }

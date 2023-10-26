@@ -38,6 +38,5 @@
   "pwIsFlagged": false,
   "pwRecategorizeToType": "PROJECT",
   "pwRecategorizeReason": "NO, this application refers to a group effort and the description provided indicates this applicant is representing a team or a project, not an individual.",
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Developer Resources"
+  "pwApplicantTypeChecked": true
 }

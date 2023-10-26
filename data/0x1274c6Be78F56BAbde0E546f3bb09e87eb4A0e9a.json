@@ -10,10 +10,7 @@
       "description": "X(Twitter)"
     }
   ],
-  "impactCategory": [
-    "COLLECTIVE_GOVERNANCE",
-    "OP_STACK"
-  ],
+  "impactCategory": ["COLLECTIVE_GOVERNANCE", "OP_STACK"],
   "impactDescription": "I often publicize optimism with friends around me, asking them to participate in the construction of this great project. Besides, I firmly hold $op and actively participate in the governance and construction. I will try my best to publicize optimism in the future and make my own modest contribution.",
   "impactMetrics": [
     {
@@ -38,6 +35,5 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged because it contains a bio and possibly other content in a language other than English, which goes against rule 11.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Governance & Tokens, Community Building, User Experience & Adoption",
-  "pwCategory": "Community Building"
+  "pwCategorySuggestions": "Governance & Tokens, Community Building, User Experience & Adoption"
 }

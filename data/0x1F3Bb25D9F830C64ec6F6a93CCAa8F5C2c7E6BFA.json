@@ -45,6 +45,5 @@
   "applicantAddress": "0x1F3Bb25D9F830C64ec6F6a93CCAa8F5C2c7E6BFA",
   "pwIsFlagged": false,
   "pwCategorySuggestions": "Blockchain Infrastructure, Smart Contract Platforms",
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "User Experience & Adoption"
+  "pwApplicantTypeChecked": true
 }

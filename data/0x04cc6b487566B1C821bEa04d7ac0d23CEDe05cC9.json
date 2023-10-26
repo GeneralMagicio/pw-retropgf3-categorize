@@ -175,6 +175,5 @@
   "applicantAddress": "0x04cc6b487566B1C821bEa04d7ac0d23CEDe05cC9",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Governance, Urban Governance, Public Finance",
-  "pwCategory": "DAO Tooling & Governance Tools"
+  "pwCategorySuggestions": "Decentralized Governance, Urban Governance, Public Finance"
 }

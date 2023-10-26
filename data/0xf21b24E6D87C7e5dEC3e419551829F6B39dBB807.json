@@ -50,9 +50,7 @@
       "description": "Summary of our contributions"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "User Base Growth: Through our #aPRENDOcripto program, we've educated and graduated individuals who are now well-equipped to be active users in the Optimism ecosystem. They not only utilize the platform for their transactions and activities but also become advocates for Optimism within their communities, thereby contributing to the network's organic growth.\n\nEcosystem Diversity: Our outreach in vulnerable communities brings new perspectives into the Optimism ecosystem. By incorporating these diverse viewpoints, Optimism becomes a more adaptable and inclusive platform.\n\nActive Engagement: Our #criptoIMPULSO learn2earn program serves as a catalyst for active interaction with Op. By offering financial incentives through the platform, we provide a real-world use-case for Optimism's solutions. ",
   "impactMetrics": [
     {
@@ -127,6 +125,5 @@
   "applicantAddress": "0xf21b24E6D87C7e5dEC3e419551829F6B39dBB807",
   "pwCategorySuggestions": "Blockchain Education, Community Building, User Experience & Adoption",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Education & Learning Hubs"
+  "pwApplicantTypeChecked": true
 }

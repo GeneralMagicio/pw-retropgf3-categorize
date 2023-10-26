@@ -119,6 +119,5 @@
   "applicantAddress": "0x36143ebA6D522FBe2c7884B011feA558c203856C",
   "pwIsFlagged": false,
   "pwCategorySuggestions": "Developer Ecosystem, Smart Contract Platforms, Decentralized Finance (DeFi)",
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Developer Resources"
+  "pwApplicantTypeChecked": true
 }

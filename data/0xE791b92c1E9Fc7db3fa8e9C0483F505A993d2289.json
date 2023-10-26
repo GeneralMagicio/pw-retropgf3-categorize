@@ -73,6 +73,5 @@
   "pwIsFlagged": false,
   "pwRecategorizeToType": "PROJECT",
   "pwRecategorizeReason": "NO. This should be categorized as a \"PROJECT\", as it mentions \"we\" and provides details of a collective effort, not an individual effort.",
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Content & Media"
+  "pwApplicantTypeChecked": true
 }

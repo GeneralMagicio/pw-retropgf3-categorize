@@ -55,6 +55,5 @@
   "applicantAddress": "0x56D579a23C2D37D1E42923858Ce33856dF0Ae5dB",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Content Creation, Community Building, Tokenization Platforms",
-  "pwCategory": "DAO Tooling & Governance Tools"
+  "pwCategorySuggestions": "Content Creation, Community Building, Tokenization Platforms"
 }

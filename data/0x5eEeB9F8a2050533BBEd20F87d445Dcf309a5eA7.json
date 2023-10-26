@@ -37,6 +37,5 @@
   "applicantAddress": "0x5eEeB9F8a2050533BBEd20F87d445Dcf309a5eA7",
   "pwCategorySuggestions": "Smart Contract Platforms, Blockchain Infrastructure, Developer Ecosystem",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Developer Tools - Nodes"
+  "pwApplicantTypeChecked": true
 }

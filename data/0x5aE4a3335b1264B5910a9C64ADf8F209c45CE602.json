@@ -253,6 +253,5 @@
   "applicantAddress": "0x5aE4a3335b1264B5910a9C64ADf8F209c45CE602",
   "pwCategorySuggestions": "Developer Tools, Identity Management, Interoperability",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Developer Tools - Other"
+  "pwApplicantTypeChecked": true
 }

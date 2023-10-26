@@ -41,6 +41,5 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for violating rule 1: 'Promises of future impact - promises of future deliverables or impact are not allowed.' The applicant promises to perform tasks and join social accounts in the future.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, Content Creation, Social Media Engagement",
-  "pwCategory": "Community Building"
+  "pwCategorySuggestions": "Community Building, Content Creation, Social Media Engagement"
 }

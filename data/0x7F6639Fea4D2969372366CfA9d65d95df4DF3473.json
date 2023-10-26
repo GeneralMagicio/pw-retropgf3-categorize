@@ -10,10 +10,7 @@
       "description": "A set of smart contracts that automate liquidity providing on Uniswap v3"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM",
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "1. Increase in Optimism TVL: We provide Uniswap v3 investment tools, allowing users to provide liquidity on Optimism Uniswap in a simpler way.\n2. Increase in Optimism contract count: We offer each user a unique smart contract for Uniswap v3 rebalance and for storing Uniswap v3 position NFT.\n3. Helping increase Optimism users: We've simplified the investment complexity and also offer a small amount of Gas Fee for first-time Optimism users, allowing them to use Optimism more quickly and easily.",
   "impactMetrics": [
     {
@@ -41,6 +38,5 @@
   "applicantAddress": "0x7F6639Fea4D2969372366CfA9d65d95df4DF3473",
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Smart Contract Platforms, User Experience & Adoption",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "DeFi & DeFi Content"
+  "pwApplicantTypeChecked": true
 }

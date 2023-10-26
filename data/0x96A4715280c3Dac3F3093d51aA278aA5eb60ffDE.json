@@ -10,9 +10,7 @@
       "description": "This includes the Vue Dapp project and related templates."
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM"],
   "impactDescription": "As of now, 137 projects have adopted Vue Dapp, with the Punk Domains community contributing numerous use cases. Their frontend template uses Vue Dapp, and this template is used by various projects collaborating with them, including PoolTogether and Optimistic Domains, etc.\n\n- Punk Domains https://punk.domains\n- PoolTogether https://names.pooly.me\n- Optimistic Domains https://optimistic.domains\n\nIn addition, a well-known project Gelato, their relay app is also developed using Vue Dapp. One of their developers is also one of the maintainers of Vue Dapp.\n\n- Gelato https://relay.gelato.network\n\nThese widespread adoption has created significant impact in the web3 world for Vue Dapp.",
   "impactMetrics": [
     {
@@ -54,6 +52,5 @@
   "applicantAddress": "0x96A4715280c3Dac3F3093d51aA278aA5eb60ffDE",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Developer Ecosystem, Web3 Community Platform, User Experience & Adoption",
-  "pwCategory": "Developer Tools - Other"
+  "pwCategorySuggestions": "Developer Ecosystem, Web3 Community Platform, User Experience & Adoption"
 }

@@ -150,6 +150,5 @@
   "applicantAddress": "0x1B686eE8E31c5959D9F5BBd8122a58682788eeaD",
   "pwIsFlagged": false,
   "pwCategorySuggestions": "Developer Ecosystem, End-User Experience & Adoption, Governance & Tokens",
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Developer Resources"
+  "pwApplicantTypeChecked": true
 }

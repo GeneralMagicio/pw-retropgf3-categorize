@@ -43,6 +43,5 @@
   "applicantAddress": "0xDAb4775a4408D88B4C0bf6afc657985e2F1313f3",
   "pwCategorySuggestions": "Decentralized Identity, Blockchain Infrastructure, Web3 Community Platform",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Identity & Privacy"
+  "pwApplicantTypeChecked": true
 }

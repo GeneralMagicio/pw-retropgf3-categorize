@@ -25,9 +25,7 @@
       "description": "App"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Holograph's developer modules eliminate the need to build complex systems for every new project, enabling teams to focus on delivering the most value for their customers without having to manage and maintain elaborate multichain infrastructure.\n\nCreators & Collectors use Holograph interfaces for creating, deploying, minting, and bridging natively composable NFTs on Optimism.\n\nBrand & Enterprises use asset issuance modules on Optimism that eliminate lock-in and enable them to focus on delivering value to customers without the requirement of maintaining elaborate cross-chain infrastructure. \n\nDevelopers utilize a command line interface for direct to contract function calls, instant multichain deployment infrastructure, and real time cross-chain asset indexing.",
   "impactMetrics": [
     {
@@ -72,6 +70,5 @@
   "applicantAddress": "0xD4f14555E5a6B1f5AFd132E4C51a717C7016Be3C",
   "pwCategorySuggestions": "Layer 2 Scaling, Tokenization Platforms, Blockchain Infrastructure",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "NFTs & Marketplaces"
+  "pwApplicantTypeChecked": true
 }

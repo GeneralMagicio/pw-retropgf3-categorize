@@ -10,10 +10,7 @@
       "description": "Google sheet containing data of impacts"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM",
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Public Good Africa has been actively involved in onboarding projects to the Optimism collective and has played a vital role in fostering the growth of the Optimism Layer 2 ecosystem in the African region.\n\nProject Onboarding\nWe have been gradually helping projects set up Multi sigs on Optimism and guiding them on how to operate the Multi sigs to facilitate their operations on the Op network. \n\nUser onboarding - IRL education and user guide\nFor the past couple of months, PGA has hosted meet ups in various countries aimed educating people about Public Good and how to use crypto L2 networks. These meet ups have been hosted in Nigeria, Tanzania and Ghana\n",
   "impactMetrics": [
     {
@@ -48,6 +45,5 @@
   "applicantAddress": "0x03B07a3cb2f55dA486cEfc911120A537813F42fE",
   "pwIsFlagged": false,
   "pwCategorySuggestions": "Decentralized Identity, Blockchain Education, Layer 2 Scaling",
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Blockchain Education"
+  "pwApplicantTypeChecked": true
 }

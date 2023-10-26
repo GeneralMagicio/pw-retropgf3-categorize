@@ -46,6 +46,5 @@
   "pwRecategorizeToType": "PROJECT",
   "pwRecategorizeReason": "NO, the application should be categorized as \"PROJECT\" as it does not refer to any individual efforts or statements like \"I\" or \"me\". It is more focused on a wider project effort.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Web3 Infrastructure, Wallet Management",
-  "pwCategory": "Wallet & Account Security"
+  "pwCategorySuggestions": "Web3 Infrastructure, Wallet Management"
 }

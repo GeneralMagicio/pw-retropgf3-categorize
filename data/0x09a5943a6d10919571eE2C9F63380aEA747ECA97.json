@@ -15,9 +15,7 @@
       "description": "Dune's spellbook repo, used to create tables to use on Dune"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM"],
   "impactDescription": "The dashboards I have created have been used to get a better picture of onchain activity, thus helping with research for everyone involved. The tables I have created on Dune have also been very helpful to many analysts who can now focus more on analytics rather than needing to tackle a lot of data engineering.",
   "impactMetrics": [
     {
@@ -49,6 +47,5 @@
   "applicantAddress": "0x09a5943a6d10919571eE2C9F63380aEA747ECA97",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Data Analytics, Blockchain Infrastructure",
-  "pwCategory": "Data Analysis"
+  "pwCategorySuggestions": "Data Analytics, Blockchain Infrastructure"
 }

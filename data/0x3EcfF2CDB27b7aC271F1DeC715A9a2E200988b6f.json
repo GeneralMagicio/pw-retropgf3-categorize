@@ -25,10 +25,7 @@
       "description": "UTU Protocol Documentation for working with our API/SDK"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM",
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "UTU lets OP D-apps natively integrate UTU's API/SDK as an on-chain feedback & reputation mechanism, staking UTT (our reputation token) & collecting $UTU rewards, both on OP. UTU helps their users connect, send, swap, stake, and borrow with confidence. UTU brings its own ecosystem of partners (65+), devs (30+) and projects (7+) building on/with UTU, to OP.\n\nOP Users can review and endorse any web domain or blockchain address on OP and see on-chain endorsements and feedback about the same from their social networks. OP users have access to feedback & UTT Endorsements left by UTU users on other chains. Users can and earn UTT and UTU Coin on OP for their contributions to good outcomes for others, based on their endorsements. UTU brings users (1k mainnet, 10k testnet) and community ~20k.",
   "impactMetrics": [
     {
@@ -60,6 +57,5 @@
   "applicantAddress": "0x3EcfF2CDB27b7aC271F1DeC715A9a2E200988b6f",
   "pwCategorySuggestions": "Blockchain Infrastructure, Decentralized Finance (DeFi), End-User Experience",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Reputations & Rewards"
+  "pwApplicantTypeChecked": true
 }

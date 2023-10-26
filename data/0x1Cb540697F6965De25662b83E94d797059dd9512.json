@@ -42,6 +42,5 @@
   "pwCategorySuggestions": "Developer Ecosystem, Tokenization Platforms, Community Building",
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, the application should be categorized as \"INDIVIDUAL\" based on the use of \"I\" in the contribution description.",
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Beta Testing"
+  "pwApplicantTypeChecked": true
 }

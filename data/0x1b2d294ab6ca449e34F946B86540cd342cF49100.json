@@ -39,6 +39,5 @@
   "applicantAddress": "0x1b2d294ab6ca449e34F946B86540cd342cF49100",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Collective Governance, Developer Ecosystem, Smart Contract Platforms",
-  "pwCategory": "DAO Tooling & Governance Tools"
+  "pwCategorySuggestions": "Collective Governance, Developer Ecosystem, Smart Contract Platforms"
 }

@@ -48,6 +48,5 @@
   "applicantAddress": "0x73F4e6132Cd9E4a3945d9CA6E98e5985BBe16d2D",
   "pwCategorySuggestions": "Blockchain Infrastructure, Community Building, Governance & Tokens",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "DAO Tooling & Governance Tools"
+  "pwApplicantTypeChecked": true
 }

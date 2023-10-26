@@ -58,6 +58,5 @@
   "applicantAddress": "0xd0Ba8A15952924E78A8285477C08e23643c5f37D",
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Smart Contract Platforms, Layer 2 Scaling",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Asset Management"
+  "pwApplicantTypeChecked": true
 }

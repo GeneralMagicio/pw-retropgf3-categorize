@@ -160,9 +160,7 @@
       "description": "X spaces covering Daniel Allan's album minted on Optimism"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "We amplified the most important artists and albums on Optimism via our newsletter, Mirror & X posts.\n\nWe drove mints, volume, and users.\n\nWe educated the community about the Optimism Collective and helped position it as a forefront player in music.\n\nWe encouraged artists to mint their music and receive retroactive funding for their contributions to Optimism.  \n\nThrough our Mirror, we drove hundreds of mints to Optimism. We have 12K subscribers and 2.3K Invest in Music pass holders. \n\nOptimism Onchain Curator Program\n\nWe drove 370 mints, 0.67 ETH volume, and onboarded five artists, creating great content every step of the way.\n\nPartnerships\n\nWe work closely with projects such as Mirror, First Mate, Spinamp, and Collect Pods, who prioritized their Optimism integration at our request.",
   "impactMetrics": [
     {
@@ -229,6 +227,5 @@
   "applicantAddress": "0x86958A1219AB83c92779285eFeB0D9Dc186E24C0",
   "pwCategorySuggestions": "Tokenization Platforms, Media Production, Community Building",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Music & Creative NFTs"
+  "pwApplicantTypeChecked": true
 }

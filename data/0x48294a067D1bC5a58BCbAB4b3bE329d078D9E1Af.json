@@ -66,6 +66,5 @@
   "applicantAddress": "0x48294a067D1bC5a58BCbAB4b3bE329d078D9E1Af",
   "pwCategorySuggestions": "Decentralized Identity, Content Creation, Community Building",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Content & Media"
+  "pwApplicantTypeChecked": true
 }

@@ -39,6 +39,5 @@
   "applicantAddress": "0x06549fB17539e19Ac05A4A3B26F3F23b9fBe75a3",
   "pwIsFlagged": false,
   "pwCategorySuggestions": "Layer 2 Scaling, Smart Contract Platforms, Blockchain Infrastructure",
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Layer 2 Scaling"
+  "pwApplicantTypeChecked": true
 }

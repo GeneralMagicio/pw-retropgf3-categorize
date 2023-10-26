@@ -10,9 +10,7 @@
       "description": "."
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "                                                                                                                                                                                                                                                                            ",
   "impactMetrics": [
     {
@@ -45,6 +43,5 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged due to the lack of detailed descriptions in the 'contributionDescription' and 'impactDescription' sections, indicating that the applicant might not have made a valid contribution..",
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Non-Fungible Tokens (NFTs), Blockchain Education",
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "The project description is not provided in the details. Please provide a description of the project to be able to categorize it properly."
+  "pwApplicantTypeChecked": true
 }

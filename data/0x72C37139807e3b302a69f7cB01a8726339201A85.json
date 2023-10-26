@@ -42,6 +42,5 @@
   "pwRecategorizeToType": "PROJECT",
   "pwRecategorizeReason": "NO, it is not correctly categorized. The application talks about a project \"Optimism\" which indicates that it should be categorized as \"PROJECT\", not \"INDIVIDUAL\".",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, Governance & Tokens",
-  "pwCategory": "DAO Tooling & Governance Tools"
+  "pwCategorySuggestions": "Community Building, Governance & Tokens"
 }

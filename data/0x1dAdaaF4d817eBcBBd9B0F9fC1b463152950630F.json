@@ -10,10 +10,7 @@
       "description": "A prototype of what we want to build"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION",
-    "OP_STACK"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION", "OP_STACK"],
   "impactDescription": "Reduce fraud: By providing accurate and up-to-date information about liquidity, our project can make it more difficult for fraudsters to manipulate the market. This will create a more secure and reliable environment for users and developers.\nAttract new users and developers: By making it easier for users to track liquidity, our project can make the network more accessible to a wider audience. This will attract new users and developers to the ecosystem, which can help it grow.\n\nImprove overall user experience: By providing a user-friendly interface and accurate information about liquidity, our project can make it easier for users to get the most out of the Optimism network. This will improve the overall user experience and make the network more attractive to users.",
   "impactMetrics": [
     {
@@ -54,6 +51,5 @@
   "applicantAddress": "0x1dAdaaF4d817eBcBBd9B0F9fC1b463152950630F",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Token Checker: Decentralized Finance (DeFi), User Experience & Adoption, Blockchain Infrastructure",
-  "pwCategory": "Data Analytics & Insights"
+  "pwCategorySuggestions": "Token Checker: Decentralized Finance (DeFi), User Experience & Adoption, Blockchain Infrastructure"
 }

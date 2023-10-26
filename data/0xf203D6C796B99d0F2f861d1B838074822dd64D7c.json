@@ -25,9 +25,7 @@
       "description": "Ayathon 1.0 Report"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM"],
   "impactDescription": "We have played a pivotal role in beginning to bridge the knowledge gap around Ethereum and L2s, including Optimism and Base, on the African continent. By cultivating a community of passionate builders, we have equipped a new wave of innovators with the tools and understanding they need to harness the power of blockchain technology. These projects confront diverse challenges, from preserving African heritage to introducing digital identity solutions. By also facilitating educational outreaches and deepening collaborations, we've expanded our influence. Regular feedback loops and mentorship programs further solidify our impact. We're wholeheartedly convinced that enabling African builders to solve local dilemmas will exponentially boost blockchain acceptance continent-wide.",
   "impactMetrics": [
     {
@@ -69,6 +67,5 @@
   "applicantAddress": "0xf203D6C796B99d0F2f861d1B838074822dd64D7c",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Blockchain Education, Community Building, User Experience & Adoption",
-  "pwCategory": "Education & Learning Hubs"
+  "pwCategorySuggestions": "Blockchain Education, Community Building, User Experience & Adoption"
 }

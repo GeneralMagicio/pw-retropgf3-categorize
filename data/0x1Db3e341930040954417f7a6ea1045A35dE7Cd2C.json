@@ -10,9 +10,7 @@
       "description": "I am airdrop hunter"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "I am airdrop hunter and I would like to participant this project to get some reward from OPTIMISM and I hope I can do it well and I Will be effort more hard so for developer this project give me chance to participant in this project, I like to be rektoactiver from this project and I Will do whatever that Will be shared, include some task, and I still be optimistic to do all task, thank you",
   "impactMetrics": [
     {
@@ -38,6 +36,5 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for promising future deliverables or impact which is against the Grant Program rules.",
   "pwCategorySuggestions": "Content Creation, Community Building",
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Community Building"
+  "pwApplicantTypeChecked": true
 }

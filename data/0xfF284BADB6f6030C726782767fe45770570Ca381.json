@@ -20,9 +20,7 @@
       "description": "Deployment"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Grateful's primary impact on the Optimism Collective is providing the entire community of projects, creators, and individuals within the Optimism ecosystem with a seamless method for recurring payments. This initiative fosters financial stability, enabling sustainable growth and fostering a thriving ecosystem. Additionally, Grateful promotes a culture of gratitude, enhancing collaboration and mutual support among community members. By facilitating predictable revenue streams, Grateful empowers contributors, ensuring their continuous dedication to the collective's growth and innovation.",
   "impactMetrics": [
     {
@@ -52,6 +50,5 @@
   "applicantAddress": "0xfF284BADB6f6030C726782767fe45770570Ca381",
   "pwCategorySuggestions": "Decentralized Finance (DeFi), User Experience & Adoption, Community Building",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "DeFi & DeFi Content"
+  "pwApplicantTypeChecked": true
 }

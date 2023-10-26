@@ -42,6 +42,5 @@
   "pwIsFlagged": false,
   "pwRecategorizeToType": "PROJECT",
   "pwRecategorizeReason": "NO, the application should be categorized as \"PROJECT\" as it does not refer to any individual work or use \"I\" or \"me\" but is describing the work of a project, retroPGF.",
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Fundraising & Capital"
+  "pwApplicantTypeChecked": true
 }

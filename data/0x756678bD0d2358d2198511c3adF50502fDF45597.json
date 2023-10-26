@@ -10,9 +10,7 @@
       "description": "blst Github Repository"
     }
   ],
-  "impactCategory": [
-    "OP_STACK"
-  ],
+  "impactCategory": ["OP_STACK"],
   "impactDescription": "'blst' is the cryptography library used to enable EIP-4844, which will allow rollups like Optimisim to achieve improved scalability and throughput. Further, blst can be used to power BLS signature account abstraction which will enable more secure and scalable ways of executing and aggregating transactions.",
   "impactMetrics": [
     {
@@ -55,6 +53,5 @@
   "applicantAddress": "0x756678bD0d2358d2198511c3adF50502fDF45597",
   "pwCategorySuggestions": "Blockchain Infrastructure, Smart Contract Platforms, Developer Ecosystem",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Developer Tools - Other"
+  "pwApplicantTypeChecked": true
 }

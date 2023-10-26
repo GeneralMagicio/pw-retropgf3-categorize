@@ -15,9 +15,7 @@
       "description": "Another example of DeBank Stream Statement"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "I'm always posting positive content on Twitter as well as my DeBank stream when it comes to OP.  I am a big supporter of Velodrome on OP as well as Aerodrome now on Base.  I've also been active in discord asking/answering questions.  Thank you for all you do for OP.",
   "impactMetrics": [
     {
@@ -47,6 +45,5 @@
   "applicantAddress": "0x133D20c739F76236eEbacE7Bf5BfA751BfF15a9f",
   "pwIsFlagged": false,
   "pwCategorySuggestions": "Blockchain Education, Community Building, Decentralized Finance (DeFi)",
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Blockchain Education"
+  "pwApplicantTypeChecked": true
 }

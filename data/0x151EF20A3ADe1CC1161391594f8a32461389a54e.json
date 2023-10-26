@@ -15,10 +15,7 @@
       "description": "Solidity website"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM",
-    "OP_STACK"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM", "OP_STACK"],
   "impactDescription": "There are hundreds of thousands of contracts deployed on Optimism which enables people to make use their favorite dApps with much lower gas costs than on mainnet. Almost all of these contract are written in Solidity. You can counter check this by noting that (at the time of writing) only 205 verified contracts on Optimism are written in Vyper (https://optimistic.etherscan.io/contractsVerified?filter=vyper).\n\nSolidity makes coding smart contracts easy and enables a low entry barrier for people to write applications on Optimism and Ethereum (and other EVM compatible chains). Solidity is completely open-source.",
   "impactMetrics": [
     {
@@ -72,6 +69,5 @@
   "applicantAddress": "0x151EF20A3ADe1CC1161391594f8a32461389a54e",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Smart Contract Platforms",
-  "pwCategory": "Developer Tools - Smart Contracts"
+  "pwCategorySuggestions": "Smart Contract Platforms"
 }

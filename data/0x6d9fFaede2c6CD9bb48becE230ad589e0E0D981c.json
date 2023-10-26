@@ -20,9 +20,7 @@
       "description": "Messages by Farcaster users mentioning herocast, shows actual usage"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "3rd party client diversity on Farcaster helps to expand the Optimism Collective, by bringing a more diverse set of users to Farcaster, which is only deployed on Optimism.\n\n76 Farcaster accounts have been connected to herocast. \nThere are currently 63 herocast users with 20 of those being weekly active.\n \nUsers must have a Farcaster account, so have executed at least one onchain transaction. Users signing up to herocast must add a signer, which happens via an onchain transaction",
   "impactMetrics": [
     {
@@ -70,6 +68,5 @@
   "applicantAddress": "0x6d9fFaede2c6CD9bb48becE230ad589e0E0D981c",
   "pwCategorySuggestions": "Decentralized Social Networking, Web3 Integration, User Engagement",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Decentralized Applications"
+  "pwApplicantTypeChecked": true
 }

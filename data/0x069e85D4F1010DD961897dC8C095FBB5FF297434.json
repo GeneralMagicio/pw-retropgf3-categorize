@@ -74,6 +74,5 @@
   "applicantAddress": "0x069e85D4F1010DD961897dC8C095FBB5FF297434",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Exchanges (DEXs), Tokenization Platforms, Decentralized Finance (DeFi)",
-  "pwCategory": "Exchanges, Trading & Liquidity"
+  "pwCategorySuggestions": "Decentralized Exchanges (DEXs), Tokenization Platforms, Decentralized Finance (DeFi)"
 }

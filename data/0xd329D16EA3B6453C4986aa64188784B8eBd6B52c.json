@@ -47,6 +47,5 @@
   "pwRecategorizeToType": "PROJECT",
   "pwRecategorizeReason": "NO, the application is not correctly categorized. The applicant talks about \"our company\" and \"we\", indicating that it is a project rather than an individual.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Content Creation, Media Production, Community Building",
-  "pwCategory": "Content & Media"
+  "pwCategorySuggestions": "Content Creation, Media Production, Community Building"
 }

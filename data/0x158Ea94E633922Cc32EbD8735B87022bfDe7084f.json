@@ -10,10 +10,7 @@
       "description": "Web3 English Co-learning notion site for events and resources"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM",
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "\"Web3 English Co-learning\" has played a crucial role in fostering a diverse community within the Optimism Collective. By addressing the language barrier, we've enabled a multitude of Chinese builders to actively engage with the Optimism ecosystem. This initiative has not only expanded the user and developer base but has also introduced innovative insights and solutions, driving the collective's growth. We've engaged leading web3 builders from LSD, AA, and related fields, further amplifying our impact. Our focus on resources ensures that non-native speakers can navigate the complexities of web3 and Optimism, leading to more informed discussions and collaborations.",
   "impactMetrics": [
     {
@@ -48,6 +45,5 @@
   "applicantAddress": "0x158Ea94E633922Cc32EbD8735B87022bfDe7084f",
   "pwIsFlagged": false,
   "pwCategorySuggestions": "Community Building, User Experience & Adoption, Web3 Community Platform",
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Education & Learning Hubs"
+  "pwApplicantTypeChecked": true
 }

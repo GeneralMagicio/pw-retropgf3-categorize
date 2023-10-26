@@ -87,6 +87,5 @@
   "applicantAddress": "0x3eEFAa9d6e2ab7972C1001D41C82BB4881389257",
   "pwCategorySuggestions": "Decentralized Identity, Community Building, Tokenization Platforms",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "DAO Tooling & Governance Tools"
+  "pwApplicantTypeChecked": true
 }

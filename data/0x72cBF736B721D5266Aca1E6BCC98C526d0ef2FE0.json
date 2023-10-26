@@ -92,6 +92,5 @@
   "applicantAddress": "0x72cBF736B721D5266Aca1E6BCC98C526d0ef2FE0",
   "pwCategorySuggestions": "End-User Experience, Community Building, Education",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Community Building"
+  "pwApplicantTypeChecked": true
 }

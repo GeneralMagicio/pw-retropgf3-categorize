@@ -48,6 +48,5 @@
   "pwIsFlagged": false,
   "pwRecategorizeToType": "PROJECT",
   "pwRecategorizeReason": "NO, this application is incorrectly categorized. It should be \"PROJECT\" as the applicant is referring to work done by \"we\" and a service provided to listeners and subscribers which implies a project or collective effort.",
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Content & Media"
+  "pwApplicantTypeChecked": true
 }

@@ -70,6 +70,5 @@
   "applicantAddress": "0x03f7a3FD58B090Abe577651fb92Fb4789826191e",
   "pwIsFlagged": false,
   "pwCategorySuggestions": "Tokenization Platforms, Smart Contract Platforms, Governance Tokens",
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "DAO Tooling & Governance Tools"
+  "pwApplicantTypeChecked": true
 }

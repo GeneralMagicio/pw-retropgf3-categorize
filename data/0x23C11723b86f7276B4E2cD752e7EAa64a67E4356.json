@@ -25,9 +25,7 @@
       "description": "our issued NFT"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Our vibrant community and dynamic tools will bring thousands of meme images to optimism. With the collective creativity and cleverness of our community members, we continuously contribute and share a wealth of captivating and shareable images. This collaborative environment helps to expand optimism's visibility and recognition. ",
   "impactMetrics": [
     {
@@ -59,6 +57,5 @@
   "applicantAddress": "0x23C11723b86f7276B4E2cD752e7EAa64a67E4356",
   "pwIsFlagged": false,
   "pwCategorySuggestions": "NFT Aggregator",
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "NFTs & Marketplaces"
+  "pwApplicantTypeChecked": true
 }

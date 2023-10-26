@@ -10,10 +10,7 @@
       "description": "media"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM",
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Contributing to economic experiments that will help centralize and grow crypto ecosystems and get better.Contributing to economic experiments that will help centralize and grow crypto ecosystems and introducing.Contributing to economic experiments that will help centralize and grow crypto ecosystems and introducing.Contributing to economic experiments that will help centralize and grow crypto ecosystems and introducing.Contributing to economic experiments that will help centralize and grow crypto ecosystems and introducing.",
   "impactMetrics": [
     {
@@ -37,6 +34,5 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for spam, as the descriptions are repetitious and don't provide clear or distinct information about the applicant's contributions.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, Developer Ecosystem, Blockchain Infrastructure",
-  "pwCategory": "Developer Ecosystem"
+  "pwCategorySuggestions": "Community Building, Developer Ecosystem, Blockchain Infrastructure"
 }

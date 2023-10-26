@@ -15,10 +15,7 @@
       "description": "Actual investment ranking of stablecoin pools on Base"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION",
-    "OP_STACK"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION", "OP_STACK"],
   "impactDescription": "We make it easy for investors to invest in DeFi on Optimism and Base by providing real investment results and the same defined APY.\n\nWe are trusted by many Optimism and Base DeFi such as Perpetual Protocol, WOO Network, Overnight , ACyptoS, Sonne, Toros, Gamma and others. We work with them to develop tracking systems and follow each other on X.We contribute to their visibility by publishing the actual performance.\n\nDeFi utilize our content to engage users.\nFor example Perpetual protocol posted our ranking on X. Overnight includes a link to our page on their DApps to let people know how the pool has performed in the past.\n\nhttps://twitter.com/perpprotocol/status/1671609769751134209\n\nhttps://app.overnight.fi/pools\n\nWe have provided APY rankings to the Daily Degen newsletter for over a year.",
   "impactMetrics": [
     {
@@ -70,6 +67,5 @@
   "applicantAddress": "0x62d51Fa08B15411D9429133aE5F224abf3867729",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Stablecoin Aggregator, DeFi Analytics, Blockchain Media",
-  "pwCategory": "DeFi & DeFi Content"
+  "pwCategorySuggestions": "Stablecoin Aggregator, DeFi Analytics, Blockchain Media"
 }

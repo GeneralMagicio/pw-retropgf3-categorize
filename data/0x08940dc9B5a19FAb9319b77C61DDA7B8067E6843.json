@@ -35,6 +35,5 @@
   "applicantAddress": "0x08940dc9B5a19FAb9319b77C61DDA7B8067E6843",
   "pwIsFlagged": false,
   "pwCategorySuggestions": "Smart Contract Platforms, Trading Tools",
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Asset Management"
+  "pwApplicantTypeChecked": true
 }

@@ -10,9 +10,7 @@
       "description": "Google doc : Register list of individual involvement as an Optimism Advisor "
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Easing the onboarding process before, during and after the deployment on OP Mainnet has been key towards successfull launch & growth.\n\nBy provoding support such as Grant application process and timeline, i have not only helped projects to successfully apoly for a grant that bootstrapped their adoption, but also lowered the pressure on the OP BD team as they are having too many leads to follow up.\n\nBy guiding them on how to increase their visbility towards the OP Community, some have presented their dAPP into the demo-day channel on the OP discord.\n\nFinally, having a point of contact close to the OP Team has also been decisive for projects so that they can focus on project development and have a smooth deployment on OP Mainnet.\n\nWith all the EVM-Layer 2 chains, that was a clear value prop. ",
   "impactMetrics": [
     {
@@ -53,6 +51,5 @@
   "applicantAddress": "0x018C8a81cb02cA1a327BaefD400f75f57ea57ba2",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Developer Ecosystem, Layer 2 Scaling, Community Building",
-  "pwCategory": "Developer Ecosystem"
+  "pwCategorySuggestions": "Developer Ecosystem, Layer 2 Scaling, Community Building"
 }

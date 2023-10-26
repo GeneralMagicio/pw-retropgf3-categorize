@@ -53,6 +53,5 @@
   "pwRecategorizeToType": "PROJECT",
   "pwRecategorizeReason": "NO, the application is incorrectly categorized as it seems to be for a project rather than an individual given the description of a governance token and ecosystem related to Optimism, a Layer-2 network.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Governance Tokens, Layer 2 Scaling, Decentralized Finance (DeFi)",
-  "pwCategory": "Cross-Chain & Interoperability"
+  "pwCategorySuggestions": "Governance Tokens, Layer 2 Scaling, Decentralized Finance (DeFi)"
 }

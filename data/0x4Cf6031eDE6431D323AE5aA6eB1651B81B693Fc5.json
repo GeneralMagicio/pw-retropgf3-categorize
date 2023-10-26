@@ -25,9 +25,7 @@
       "description": "Library of 30+ Optimism public endpoints"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM"],
   "impactDescription": "Our tools bolster the Optimism ecosystem by enhancing transparency and decision-making, facilitating daily data updates. Promoting decentralization is central to our contribution, allowing diverse providers, including smaller ones, to be visible and considered equally, fostering an inclusive ecosystem. Our independent efforts have expanded provider listings beyond official Optimism documentation, offering broader insights and choices, aiding companies in making informed decisions for building on Optimism.\n45 Providers listed on CompareNodes while only 15 in official Optimism docs",
   "impactMetrics": [
     {
@@ -67,6 +65,5 @@
   "applicantAddress": "0x4Cf6031eDE6431D323AE5aA6eB1651B81B693Fc5",
   "pwCategorySuggestions": "Web3 Infrastructure Monitoring, Optimism Node Comparison, Blockchain Ecosystem Expansion",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Data Analytics & Insights"
+  "pwApplicantTypeChecked": true
 }

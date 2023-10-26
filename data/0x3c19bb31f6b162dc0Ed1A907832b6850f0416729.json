@@ -52,6 +52,5 @@
   "applicantAddress": "0x3c19bb31f6b162dc0Ed1A907832b6850f0416729",
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Web3 Community Platform, Tokenization Platforms",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "DAO Tooling & Governance Tools"
+  "pwApplicantTypeChecked": true
 }

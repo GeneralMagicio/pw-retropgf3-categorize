@@ -59,6 +59,5 @@
   "applicantAddress": "0xb4d06c1ac7d0e91b087016fa09c9a6EAb289351c",
   "pwCategorySuggestions": "Wallet Management",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Wallet & Account Security"
+  "pwApplicantTypeChecked": true
 }

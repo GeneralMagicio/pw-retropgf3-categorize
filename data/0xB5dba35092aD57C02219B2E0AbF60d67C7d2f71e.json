@@ -37,6 +37,5 @@
   "applicantAddress": "0xB5dba35092aD57C02219B2E0AbF60d67C7d2f71e",
   "pwCategorySuggestions": "Decentralized Governance, Mobile Applications, Blockchain Infrastructure",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "DAO Tooling & Governance Tools"
+  "pwApplicantTypeChecked": true
 }

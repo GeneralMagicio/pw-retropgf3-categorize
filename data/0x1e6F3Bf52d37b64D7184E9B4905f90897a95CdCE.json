@@ -20,9 +20,7 @@
       "description": "Youtube Short about Layer 2s!"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "When posting our content, we were able to reach users across a couple of different channels. We posted this content on Instagram, Medium, Twitter, Discord, and Telegram. Across these channels, we had over 20k users have the chance to view this content! The below metrics show the audience per channel but do not include the promotion we had across Twitter, Discord, and Telegram.",
   "impactMetrics": [
     {
@@ -66,6 +64,5 @@
   "pwRecategorizeToType": "PROJECT",
   "pwRecategorizeReason": "NO, it should be categorized as PROJECT because despite an individual being mentioned, the work described and accomplishments listed are all focused on the output of Amaretto Labs, which is a operational agency.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Layer 2 Scaling, Content Creation, Blockchain Education",
-  "pwCategory": "Education & Learning Hubs"
+  "pwCategorySuggestions": "Layer 2 Scaling, Content Creation, Blockchain Education"
 }

@@ -63,6 +63,5 @@
   "applicantAddress": "0x6Ed7D526b020780f694f3c10Dfb25E1b134D3215",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Identity, Tokenization Platforms, Blockchain Infrastructure",
-  "pwCategory": "Wallet & Account Security"
+  "pwCategorySuggestions": "Decentralized Identity, Tokenization Platforms, Blockchain Infrastructure"
 }

@@ -82,6 +82,5 @@
   "applicantAddress": "0xa9556c54ED92e46598716e313E94b22DD12B5657",
   "pwCategorySuggestions": "Decentralized Exchanges (DEXs), DeFi, Layer 2 Scaling",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Exchanges, Trading & Liquidity"
+  "pwApplicantTypeChecked": true
 }

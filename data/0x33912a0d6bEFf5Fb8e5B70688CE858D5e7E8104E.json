@@ -10,9 +10,7 @@
       "description": "File with more in depth exposition of our actions."
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Through our monthly output of content and workshops, we are steadily onboarding artists to the Zora blockchain. We have already succesfully help migrate 60 top of the line latin american Tezos artists to the Zora blockchain. +23000 mints, +26000 total sales.\nThe Zora team has demonstrated to be deeply satisfied with our efforts, coordination and responsability. A contract has been signed to keep deploying Latin American collective drops in Zora. We are also negotiating a more artistic content related support with Zora.\nWe also won an Energy DAO (Zora blockchain) grant to make our web3 website, actually in early development.\n\nWe have demonstrated to be a well organized, hard working artistic collective, with a true organic relationship with the latin american artistic NFT ecosystem.",
   "impactMetrics": [
     {
@@ -56,6 +54,5 @@
   "applicantAddress": "0x33912a0d6bEFf5Fb8e5B70688CE858D5e7E8104E",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "NFT Platform, Community Building, Web3 Community Platform",
-  "pwCategory": "NFTs & Marketplaces"
+  "pwCategorySuggestions": "NFT Platform, Community Building, Web3 Community Platform"
 }

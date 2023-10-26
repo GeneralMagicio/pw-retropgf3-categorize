@@ -20,9 +20,7 @@
       "description": "UXUY Aggregates Mainstream DEX Protocols on Optimism."
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "UXUY provides users with cross-chaining assets to Optimism Mainnet with juat one click. Users can easily and quickly move their OP assets between different mainnets without worrying about tedious procedures and long waiting time, and enjoy the efficiency and convenience of the Optimism ecosystem to the fullest.\n\nUXUY has its GasPool built into the user's transaction wallet, so users don't need to worry about gas fees. Whether you're transferring, trading, or participating in the DeFi program, UXUY lends fees to users through the GasPool, prioritizing fast and secure transactions.\n\nUXUY aggregates the major mainstream DEX protocols on Optimism, allowing OP users to access all their trading needs in one place. \n",
   "impactMetrics": [
     {
@@ -67,6 +65,5 @@
   "applicantAddress": "0x0e14e65C5790Ecd88e2BD36f9Eee780B95E22354",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Exchanges (DEXs), Layer 2 Scaling, Wallet Management",
-  "pwCategory": "Cross-Chain & Interoperability"
+  "pwCategorySuggestions": "Decentralized Exchanges (DEXs), Layer 2 Scaling, Wallet Management"
 }

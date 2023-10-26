@@ -77,6 +77,5 @@
   "applicantAddress": "0xFEC0Ad833FB7D20A83E373279f37c88159bAd99E",
   "pwCategorySuggestions": "Developer Ecosystem",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Developer Resources"
+  "pwApplicantTypeChecked": true
 }

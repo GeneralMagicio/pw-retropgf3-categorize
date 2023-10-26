@@ -20,9 +20,7 @@
       "description": "List of FOCG games on Composable Hub"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "1. Twitter account followers is about 400.\n2. Avg. daily user views of the website in Oct. is about 255, Avg. DAU is about 20.\n3. help with Lattice playtest tweet views is about 4700.\n4. help introduce primodium tweet views is about 2400\n5. Our website includes all FOCGs on Optimism, rn is 5.\n",
   "impactMetrics": [
     {
@@ -72,6 +70,5 @@
   "applicantAddress": "0x3b5418282282F75adC2992B63e518a0C763935E6",
   "pwCategorySuggestions": "Tokenization Platforms, Blockchain Gaming, Decentralized Identity",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Gaming & Entertainment"
+  "pwApplicantTypeChecked": true
 }

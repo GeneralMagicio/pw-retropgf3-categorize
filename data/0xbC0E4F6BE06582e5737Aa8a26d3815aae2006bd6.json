@@ -20,10 +20,7 @@
       "description": "Tracks the relay market."
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION",
-    "OP_STACK"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION", "OP_STACK"],
   "impactDescription": "Optimism can post it's data to L1 without worry. Users, builders, and projects on L1, but also L2 can feel they're participating in a credibly-neutral, strongly decentralized ecosystem. This has immediate effects for where people build or use projects today, but also has far reaching consequences for where people entrust their capital for the next 100-years.",
   "impactMetrics": [
     {
@@ -71,6 +68,5 @@
   "applicantAddress": "0xbC0E4F6BE06582e5737Aa8a26d3815aae2006bd6",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Infrastructure, Blockchain Scalability, Blockchain Governance",
-  "pwCategory": "Cross-Chain & Interoperability"
+  "pwCategorySuggestions": "Decentralized Infrastructure, Blockchain Scalability, Blockchain Governance"
 }

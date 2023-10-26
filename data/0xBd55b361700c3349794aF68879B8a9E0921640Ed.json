@@ -40,9 +40,7 @@
       "description": " EkoDoku - Ethical Silk Production & Sustainable Textile"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "We propagated the Optimistic Vision to Turkish speakers via:\n\nNewsletters:\n\nFrom the Ashes of Moloch, Ether’s Phoenix Rises\nOptimism’s Governance Is Tuned Into Community\nHands-On Learning for Optimistic Hearts\nWhat Is the Law of Chains?\nOP Grants Stack: The Wellspring of Regenerative Cryptoeconomics\nOptimism Provides a Shared Resource For DAOs\nThe Optimism Collective’s RetroPGF Learning Journey\nSupporting tweets for newsletters + Info on collective.\n\nOnboarding:\n\nDAO & Bankless Overview\nWeb3 Intro & Tools\nOptimistic Onboarding\nContribution Post-Onboarding\nFunding Mechanisms (direct, retro, qf, crowd)\nCommunity Vibes.\n\n\n",
   "impactMetrics": [
     {
@@ -101,6 +99,5 @@
   "applicantAddress": "0xBd55b361700c3349794aF68879B8a9E0921640Ed",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Content Creation, Community Building, User Experience & Adoption",
-  "pwCategory": "Education & Learning Hubs"
+  "pwCategorySuggestions": "Content Creation, Community Building, User Experience & Adoption"
 }

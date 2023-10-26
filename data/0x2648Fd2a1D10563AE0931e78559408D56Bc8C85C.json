@@ -20,10 +20,7 @@
       "description": "Project Twitter"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM",
-    "OP_STACK"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM", "OP_STACK"],
   "impactDescription": "Optimism has been pushing for client diversity through the OP-Stack. But it is hard to justify diversity to end users when they see no clear benefit from it.\n\nOtterscan, through OP-Otterscan/OP-Erigon brings a strong motivation for a different client to be used, along with a killer dapp that can be used with it. So, supporting Otterscan means creating more incentives to justify the entire OP-Stack architecture.\n\nDeveloper ecosystem: explorers are a fundamental piece of software for developers to understand what's happening onchain. The market leader is a closed source product; we are opensource and able to be run on developers' machines. We also promote open datasets, like Sourcify for contract verification.\n\nSupporting Otterscan means less reliance on vendor lock-in and closed databases.",
   "impactMetrics": [
     {
@@ -69,6 +66,5 @@
   "applicantAddress": "0x2648Fd2a1D10563AE0931e78559408D56Bc8C85C",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Blockchain Infrastructure, Developer Ecosystem, Open Source",
-  "pwCategory": "Blockchain Infrastructure"
+  "pwCategorySuggestions": "Blockchain Infrastructure, Developer Ecosystem, Open Source"
 }

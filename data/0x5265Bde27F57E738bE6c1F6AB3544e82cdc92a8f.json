@@ -30,9 +30,7 @@
       "description": "DexKit's GitHub hosts project insights and open-source resources."
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM"],
   "impactDescription": "DexKit's contributions to Optimism Collective are centered on our shared mission: advancing public goods and sustainability within the Ethereum community. DexAppBuilder, our flagship product, is designed for the common good. We've open-sourced various DexAppBuilder features on NPM, expanding access to valuable Ethereum and Web3 development tools, benefiting the entire community. Additionally, we promote DexAppBuilder within the developer community, encouraging contributions to its development and the Web3 ecosystem. By simplifying DApp development, driving innovation through open source and supporting the decentralized communities while fostering a developer community, we contribute to Ethereum's sustainability and the Collective's goal of promoting an impactful and profitable ecosystem.\n",
   "impactMetrics": [
     {
@@ -69,6 +67,5 @@
   "applicantAddress": "0x5265Bde27F57E738bE6c1F6AB3544e82cdc92a8f",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Smart Contract Platforms, Decentralized Finance (DeFi), Developer Ecosystem",
-  "pwCategory": "Developer Tools - Smart Contracts"
+  "pwCategorySuggestions": "Smart Contract Platforms, Decentralized Finance (DeFi), Developer Ecosystem"
 }
