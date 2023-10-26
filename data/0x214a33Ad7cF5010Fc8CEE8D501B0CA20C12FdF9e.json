@@ -34,10 +34,10 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x214a33Ad7cF5010Fc8CEE8D501B0CA20C12FdF9e.json",
   "RPGF3_Application_UID": "0x4a035ab278736170ef6243e27c41fab2c9176df1f1ca94bbe603b511184ede59",
   "applicantAddress": "0x214a33Ad7cF5010Fc8CEE8D501B0CA20C12FdF9e",
-  "pwIsFlagged": false,
+  "pwIsFlagged": true,
   "pwCategorySuggestions": "Governance & Tokens, Blockchain Infrastructure",
   "pwRecategorizeToType": "PROJECT",
   "pwRecategorizeReason": "NO, the application is not correctly categorized, as the \"contributionDescription\" and \"impactDescription\" refer to the \"Optimism Collective\" and the \"OP Stack\", which implies it's a project and not an individual.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Cross-Chain Interoperability"
+  "pwFlaggedReason": "Fake application."
 }
