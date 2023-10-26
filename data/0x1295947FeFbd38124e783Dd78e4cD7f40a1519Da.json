@@ -35,10 +35,10 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x1295947FeFbd38124e783Dd78e4cD7f40a1519Da.json",
   "RPGF3_Application_UID": "0x1a5e6955798de068a5e5e59aa8bde459f947e5b708e785fb3f755066aca6ddf9",
   "applicantAddress": "0x1295947FeFbd38124e783Dd78e4cD7f40a1519Da",
-  "pwIsFlagged": false,
+  "pwIsFlagged": true,
   "pwRecategorizeToType": "PROJECT",
   "pwRecategorizeReason": "NO, the application is not correctly categorized as it refers to \"we\" indicating it most likely is a project rather than an individual.",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Blockchain Infrastructure",
-  "pwCategory": "Governance Tools"
+  "pwFlaggedReason": "Fake."
 }
