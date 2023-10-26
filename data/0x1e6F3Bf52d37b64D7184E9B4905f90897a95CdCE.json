@@ -1,5 +1,5 @@
 {
-  "applicantType": "PROJECT",
+  "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://amarettolabs.com/",
   "bio": "Hi! My name is Ben, and I manage a crypto marketing agency called Amaretto Labs. We help crypto projects with marketing campaigns, community events, and growth.",
   "contributionDescription": "Hello! \n\nDuring my time working with a DAO called ICHI, my team and I created content describing the benefits of Layer 2s, primarily Optimism. We created educational blog articles and videos that tell people why they need layer 2s, how Optimism builds with the public good in mind, and is cheaper than Ethereum, all while maintaining great levels of security! We think that educating the public on the various solutions in crypto will make the world a better place, and we are so happy to have included Optimism in a few of our pieces of content. ",
@@ -67,5 +67,5 @@
   "pwRecategorizeReason": "NO, it should be categorized as PROJECT because despite an individual being mentioned, the work described and accomplishments listed are all focused on the output of Amaretto Labs, which is a operational agency.",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Layer 2 Scaling, Content Creation, Blockchain Education",
-  "pwCategory": "Web3 Education & Adoption"
+  "pwCategory": "Blockchain Education"
 }
