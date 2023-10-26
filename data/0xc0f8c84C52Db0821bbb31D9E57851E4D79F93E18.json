@@ -1,5 +1,5 @@
 {
-  "applicantType": "INDIVIDUAL",
+  "applicantType": "PROJECT",
   "websiteUrl": "https://blockchainbytesdaily.com/",
   "bio": "I build Web3 products and make sure they are accessible to the masses. I also market those products and aim to decrease the gap between users and web3 tech.",
   "contributionDescription": "Our contribution to Optimism is multi-faceted and centered around fostering a more informed, connected, and trustworthy blockchain ecosystem.\n\nOur commitment to education benefits end users by providing them with accurate and unbiased information. This knowledge empowers them to confidently engage with blockchain technologies, aligning with our aim to take the community away from Fear, Uncertainty, and Doubt (FUD) and bring them closer to reality.\n\nUpholding ethical journalism standards also contributes to trust and transparency within the industry, making blockchain technologies, including Optimism, more accessible and appealing to end users.",
@@ -56,6 +56,5 @@
   "pwIsFlagged": false,
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, the application is categorized as a \"PROJECT\" but it appears to be an individual applicant since the bio uses first person language like \"I\".",
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Content Creation & Media"
+  "pwApplicantTypeChecked": true
 }

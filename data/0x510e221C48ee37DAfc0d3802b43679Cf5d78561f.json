@@ -1,5 +1,5 @@
 {
-  "applicantType": "INDIVIDUAL",
+  "applicantType": "PROJECT",
   "websiteUrl": "https://zuzalu.city",
   "bio": "A co-creator of Zuzalu and a Gitcoin Steward. I care deeply about new funding mechanisms and social tech infra in crypto to build a more connected future IRL.",
   "contributionDescription": "Zuzalu has significantly aided the Ethereum ecosystem by 1) addressing critical crypto challenges and bridging with technologies like AI and Synthetic Biology; 2) organizing mini-hackathons for open-source projects; 3) offering an open-source guide for \"pop-up\" village setups—already adopted by four communities; 4) serving as a practical testing site for industry projects like 0xParc's ZuPass and PSE's ZuStamps; and 5) using RetroPGF with Hypercerts to devise sustainable financing models for Zuzalu's impact.",
@@ -82,5 +82,5 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO. The applicant is an individual (\"I care deeply about new funding mechanisms and social tech infra in crypto...\") and should not be classified as a \"PROJECT\".",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Development & Infrastructure"
+  "pwCategory": "Community Building"
 }

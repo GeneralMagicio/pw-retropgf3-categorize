@@ -156,8 +156,8 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x1e3a41F770219e03649b434b4c1E07850DfCFf66.json",
   "RPGF3_Application_UID": "0xefe128594155a47fd209ddfb9340d0bfb9aa72f7214be78febb9deb80307038d",
   "applicantAddress": "0x1e3a41F770219e03649b434b4c1E07850DfCFf66",
-  "pwIsFlagged": false,
+  "pwIsFlagged": true,
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Web3 Community Platform, Content Creation",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Community Building"
+  "pwFlaggedReason": "impersonation"
 }

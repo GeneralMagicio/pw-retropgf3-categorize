@@ -36,10 +36,9 @@
   "RPGF3_Application_UID": "0x88850a09124f18ed13dab0acc826c80a1dd84cad93ffcfeeca11f04c451d8f32",
   "applicantAddress": "0xe6C96653847653102471Cd84135dEc131B2622f3",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "The application should be flagged because it violates rule 11. The text in the \"contributionDescription\" and \"impactDescription\" fields are in a language other than English.",
+  "pwFlaggedReason": "no english",
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, the application should be categorized as INDIVIDUAL as the name of the applicant \"Nihat Çelikel\" is a personal name and not a project.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Media Production, Content Creation, Community Building",
-  "pwCategory": "Content Creation & Media"
+  "pwCategorySuggestions": "Media Production, Content Creation, Community Building"
 }

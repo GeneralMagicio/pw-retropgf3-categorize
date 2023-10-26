@@ -35,10 +35,9 @@
   "RPGF3_Application_UID": "0xa1aa059e3b751071dec0ef0f27443a95522897c1143c04d61c822bf98cad7a6e",
   "applicantAddress": "0x0755A2c4C1808Ca14CC2928d0D727b16a1C467Bd",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "This application should be flagged for violating rule 10. Outside of RetroPGF's scope - as the contribution mentioned seems to be more of an interaction on the OP Mainnet and does not show clear impact or required time commitment.",
+  "pwFlaggedReason": "personal uses",
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, it is not correctly categorized as a project. The application speaks in first person indicating it's an individual.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Smart Contract Platforms, Digital Identity",
-  "pwCategory": "Blockchain Education"
+  "pwCategorySuggestions": "Smart Contract Platforms, Digital Identity"
 }

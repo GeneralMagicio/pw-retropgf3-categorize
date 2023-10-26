@@ -1,5 +1,5 @@
 {
-  "applicantType": "INDIVIDUAL",
+  "applicantType": "PROJECT",
   "websiteUrl": "https://optimism.easscan.org",
   "bio": "Core team @ Ethereum Attestation Service. Product person and public goods builder with some salty dev & design skills. Loves a good street taco.",
   "contributionDescription": "EAS has been natively integrated into the OP Stack codebase and linked by two predeploy addresses for registering schemas and making attestations onchain or offchain. All future OP Stack chains automatically inherit the contracts at Genesis. \n\nThese contracts unlock new opportunities for builders passionate about identity, reputation, governance, voting, social & beyond.\n\nDid you know?\n- EAS powers the AttestationStation V1\n- RetroPGF profiles & badgeholders are attested to using EAS\n- Gitcoin Passport uses EAS to attest to stamps & scores on OP\n- Base uses the predeploy contracts\n+ more use cases\n\nWe've also contributed:\n- An OP Attestation Explorer\n- An SDK + API to get devs building faster\n- No-code tools for making schemas & attestations\n- Educational content & docs for attestations",
@@ -115,5 +115,5 @@
   "pwRecategorizeReason": "NO. The application is from an individual acting as the core team member of Ethereum Attestation Service, hence it should be categorized as \"INDIVIDUAL\".",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Decentralized Identity, Governance & Tokens, Tokenization Platforms",
-  "pwCategory": "Identity & Privacy Management"
+  "pwCategory": "Ethereum Infrastructure"
 }

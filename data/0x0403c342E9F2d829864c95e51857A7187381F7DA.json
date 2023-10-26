@@ -1,5 +1,5 @@
 {
-  "applicantType": "INDIVIDUAL",
+  "applicantType": "PROJECT",
   "websiteUrl": "https://medium.com/@Optimismindonesia",
   "bio": "Translator at Optimism Indonesia \n\nCommunity Manager at The Sandbox Indonesian\n\nbe careful there are a lot of scams out there\n\nAlways DYOR :)",
   "contributionDescription": "In addition to OP token trading on Binance, my contribution to optimism is as an Article Translator into Indonesian and a Crowdin Indonesian Translator. In addition, I also disseminated about OP As a token that is good to buy and hold long-term, this I conveyed on Telegram LBank Indonesia with my second telegram account, Alvarez. Because LBank users often Also ask me about OP. I would also like to plan to do an AMA at LBank Indonesia about Optimism.",
@@ -45,5 +45,5 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Community Building, Content Creation, Cryptocurrency Services",
-  "pwCategory": "International & Multilingual Support"
+  "pwCategory": "Local Blockchain Communities"
 }

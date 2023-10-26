@@ -1,5 +1,5 @@
 {
-  "applicantType": "INDIVIDUAL",
+  "applicantType": "PROJECT",
   "websiteUrl": "https://optimism.sdailynews.com/",
   "bio": "I believe that Optimism has the potential to revolutionize the way we use blockchain technology, and I am eager to be part of that journey.",
   "contributionDescription": "In the initial two months of its launch, the https://www.optimism.sdailynews.com website garnered an impressive 5,000 visitors. Our strategic goal is to further broaden our outreach and consistently provide top-notch content that will not only retain this audience but also captivate an even larger readership.",
@@ -43,6 +43,5 @@
   "applicantAddress": "0x66946def4ba6153C500D743b7A5FebfC1654d6bD",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Content Creation, Community Building, User Experience & Adoption",
-  "pwCategory": "Content Creation & Media"
+  "pwCategorySuggestions": "Content Creation, Community Building, User Experience & Adoption"
 }

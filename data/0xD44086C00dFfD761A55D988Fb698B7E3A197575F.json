@@ -36,7 +36,6 @@
   "applicantAddress": "0xD44086C00dFfD761A55D988Fb698B7E3A197575F",
   "pwCategorySuggestions": "Digital Identity, User Experience & Adoption, Web3 Community Platform",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "The application should be flagged because it violates rule 11 - Applications in languages other than English.",
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Identity & Privacy Management"
+  "pwFlaggedReason": "twitter do not exist",
+  "pwApplicantTypeChecked": true
 }
