@@ -10,7 +10,10 @@
       "description": "Contribution"
     }
   ],
-  "impactCategory": ["COLLECTIVE_GOVERNANCE", "OP_STACK"],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "OP_STACK"
+  ],
   "impactDescription": "It will be helpful for the Optimism Company and its whole community as every transaction counts. Im financially not stable to i didn't able to contribute well and also i'm not so educative and a well speaker in english. So, if i do something wrong with the info you need for. Please perdon me! i'm trying my best to do what best for Optimism and RetroPGF",
   "impactMetrics": [
     {
@@ -42,5 +45,6 @@
   "applicantAddress": "0x77fCC2d8e99Dae605837B7752D64285272168f73",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Tokenization Platforms, Community Building"
+  "pwCategorySuggestions": "Tokenization Platforms, Community Building",
+  "pwCategory": "Community Building"
 }

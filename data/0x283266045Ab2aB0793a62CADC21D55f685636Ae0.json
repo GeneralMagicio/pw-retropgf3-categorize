@@ -40,7 +40,10 @@
       "description": "Dune Dashboard: Layer 2 Adoption"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION", "OP_STACK"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
   "impactDescription": "These dashboards have gained quite some popularity on Dune in het past years. In total the dashboards created for the Optimism Ecosystem have gained 587 stars (which are basically equal to \"likes\"), indicating the amount of users that saved the dashboard and have likely came back to it later on. \n\nAlso these dashboards have been referenced in various places; blogs, news articles, projects websites and forums. Creating more exposure to the OP Stack and introducing potentially new users and developers. \n\nExample sources: https://docs.google.com/spreadsheets/d/1GZOqlDReL5kOiFz1iguav7mg5seQp5IvuRVyQ2oJg5o/edit?usp=sharing",
   "impactMetrics": [
     {
@@ -92,5 +95,6 @@
   "applicantAddress": "0x283266045Ab2aB0793a62CADC21D55f685636Ae0",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Developer Ecosystem, End-User Experience, Content Creation"
+  "pwCategorySuggestions": "Developer Ecosystem, End-User Experience, Content Creation",
+  "pwCategory": "Content Creation & Media"
 }

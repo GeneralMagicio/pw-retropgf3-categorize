@@ -43,5 +43,6 @@
   "applicantAddress": "0xb3Ce00145169d9B16c55fbe0E651CBEAE5F5709b",
   "pwCategorySuggestions": "NFT Platforms, Music, Blockchain Infrastructure",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Music & Audio NFTs"
 }

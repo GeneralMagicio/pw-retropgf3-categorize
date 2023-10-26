@@ -53,5 +53,6 @@
   "applicantAddress": "0xa64ED05d827eD7eEC23a6b2ade715418Fd5c06b9",
   "pwCategorySuggestions": "Governance & Tokens",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Governance & Tokenomics"
 }

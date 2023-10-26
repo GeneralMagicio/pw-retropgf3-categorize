@@ -35,5 +35,6 @@
   "applicantAddress": "0x45632417ed520ac43D993b7FED8Fa05E472e521c",
   "pwCategorySuggestions": "Cross-Chain Platforms",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Layer 2 & Cross-Chain Solutions"
 }

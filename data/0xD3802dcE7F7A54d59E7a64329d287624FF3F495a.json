@@ -10,7 +10,10 @@
       "description": "This article is about the Effectiveness of L2 Airdrop, specifically OP vs ARB"
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "By thoroughly analyzing airdrop strategies and outcomes, the article enables projects to make more informed decisions about airdrop design. And it demonstrates the ability of airdrops to drive real utility and advancement for scaling solutions when executed thoughtfully. The analysis and conclusions positively impact the broader understanding of airdrops in the crypto industry.",
   "impactMetrics": [
     {
@@ -46,5 +49,6 @@
   "applicantAddress": "0xD3802dcE7F7A54d59E7a64329d287624FF3F495a",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Content Creation, Community Building, User Experience & Adoption"
+  "pwCategorySuggestions": "Content Creation, Community Building, User Experience & Adoption",
+  "pwCategory": "Content Creation & Media"
 }

@@ -46,5 +46,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged because the applicant's contribution of user interactions (sending transactions, minting NFTs) on OP Mainnet falls under the scope that does not qualify to be rewarded in RetroPGF 3 according to grant program rule number 10.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Finance (DeFi), Non-Fungible Tokens (NFTs), User Experience & Adoption"
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Non-Fungible Tokens (NFTs), User Experience & Adoption",
+  "pwCategory": "User Experience & Adoption"
 }

@@ -40,5 +40,6 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO. This application is flagged as spam and contains repeated placeholder text rather than any specific details indicating it's a project.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Developer Ecosystem, Web3 Community Platform"
+  "pwCategorySuggestions": "Developer Ecosystem, Web3 Community Platform",
+  "pwCategory": "Development & Infrastructure"
 }

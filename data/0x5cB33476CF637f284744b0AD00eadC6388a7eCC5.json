@@ -55,5 +55,6 @@
   "applicantAddress": "0x5cB33476CF637f284744b0AD00eadC6388a7eCC5",
   "pwCategorySuggestions": "NFT Aggregator, Content Creation, Community Building",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Creative NFTs & Art"
 }

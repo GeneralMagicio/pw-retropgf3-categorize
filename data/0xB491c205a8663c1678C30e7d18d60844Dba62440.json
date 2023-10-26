@@ -43,5 +43,6 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, this application should be categorized as an INDIVIDUAL since the applicant refers to themselves as \"I\" and \"My\" throughout the application, indicating that it's a single person rather than a team or organization.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "NFT Aggregator, Web3 Community Platform, Blockchain Infrastructure"
+  "pwCategorySuggestions": "NFT Aggregator, Web3 Community Platform, Blockchain Infrastructure",
+  "pwCategory": "Development & Infrastructure"
 }

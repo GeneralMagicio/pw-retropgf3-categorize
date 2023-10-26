@@ -43,5 +43,6 @@
   "pwFlaggedReason": "This application should be flagged because the impact description is not in English, violating rule 11.",
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, it should be categorized as \"INDIVIDUAL\" because the contribution description uses \"I\" and \"me\" indicating that this is an individual applicant.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Development & Infrastructure"
 }

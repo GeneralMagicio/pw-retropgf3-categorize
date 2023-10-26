@@ -10,7 +10,9 @@
       "description": "Good project"
     }
   ],
-  "impactCategory": ["COLLECTIVE_GOVERNANCE"],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
   "impactDescription": "I created a community that encourages all users to use the optimis network, and everyone is very supportive of it. I hope that in the future the community will have more participants, with the benefit of providing encouragement to the OP network. I believe the OP network will be a layer2 in the future",
   "impactMetrics": [
     {
@@ -36,5 +38,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for violating the rule 1 of the grant program by promising future impact and deliverables.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Layer 2 Scaling, Community Building, End-User Experience"
+  "pwCategorySuggestions": "Layer 2 Scaling, Community Building, End-User Experience",
+  "pwCategory": "Community Building"
 }

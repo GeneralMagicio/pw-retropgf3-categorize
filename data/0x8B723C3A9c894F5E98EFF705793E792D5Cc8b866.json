@@ -48,5 +48,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for violation of rule 10 - it does not provide a clear contribution or demonstrate measurable impact.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Content Creation, User Experience & Adoption, End-User Experience"
+  "pwCategorySuggestions": "Content Creation, User Experience & Adoption, End-User Experience",
+  "pwCategory": "User Testing & Quality Assurance"
 }

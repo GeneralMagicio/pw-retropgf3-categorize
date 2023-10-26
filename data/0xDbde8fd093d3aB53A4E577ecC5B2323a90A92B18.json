@@ -39,5 +39,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for containing spam, as the descriptions of the contribution and impact are filled with irrelevant characters, violating rule 11.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Content Creation, Community Building, User Experience & Adoption"
+  "pwCategorySuggestions": "Content Creation, Community Building, User Experience & Adoption",
+  "pwCategory": "The project description provided is incomplete and does not offer enough detail to accurately assign a category."
 }

@@ -48,5 +48,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for \"Promises of future impact\". The applicant does not describe a project or contribution that already happened but mentions what he will do in the future.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Blockchain Infrastructure, Community Building, Developer Ecosystem"
+  "pwCategorySuggestions": "Blockchain Infrastructure, Community Building, Developer Ecosystem",
+  "pwCategory": "Community Building"
 }

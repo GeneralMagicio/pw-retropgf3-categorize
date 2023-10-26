@@ -60,5 +60,6 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, the application is from an individual acting as a representative of a project because the bio describes personal skills and experience.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Developer Ecosystem, User Experience & Adoption, Community Building"
+  "pwCategorySuggestions": "Developer Ecosystem, User Experience & Adoption, Community Building",
+  "pwCategory": "User Experience & Adoption"
 }

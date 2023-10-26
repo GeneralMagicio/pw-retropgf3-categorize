@@ -57,5 +57,6 @@
   "pwCategorySuggestions": "Smart Contract Platforms, Developer Ecosystem, Community Building",
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged because it promises future impact by stating that the applicant plans to start developing their own project on Optimism within 3 months, which violates rule 1 of the grant program rules.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Community Building"
 }

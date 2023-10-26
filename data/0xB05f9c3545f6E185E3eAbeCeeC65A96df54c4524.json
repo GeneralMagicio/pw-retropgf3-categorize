@@ -44,5 +44,6 @@
   "pwCategorySuggestions": "NFT Aggregator, Community Building",
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged because it includes a section written in a language other than English which violates rule 11.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Music & Audio NFTs"
 }

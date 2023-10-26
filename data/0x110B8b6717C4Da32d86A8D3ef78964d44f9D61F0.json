@@ -15,7 +15,9 @@
       "description": "Detail of Optimism Education Meetup"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "1.) We bridged 118 high networth individuals from stock markets to Optimism mainnet. Proof of bridging transaction link is attached for reference.\n2.) These traders & investors are still active even in this bear market which is evident from their unique wallet activities.\n3.) We created a mini ecosystem for Optimism here at South Africa.",
   "impactMetrics": [
     {
@@ -47,5 +49,6 @@
   "applicantAddress": "0x110B8b6717C4Da32d86A8D3ef78964d44f9D61F0",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Tokenization Platforms"
+  "pwCategorySuggestions": "Tokenization Platforms",
+  "pwCategory": "Community Building"
 }

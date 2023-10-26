@@ -44,5 +44,6 @@
   "applicantAddress": "0x368B9D607072165Fb207dFE4af46687BA4cF2b0d",
   "pwIsFlagged": false,
   "pwCategorySuggestions": "Content Creation, Community Building, Web3 Community Platform",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Content Creation & Media"
 }

@@ -48,5 +48,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged because the descriptions of contribution and impact provided by the applicant are vague and do not provide concrete evidence or details of what they actually did for the Web3/blockchain project.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, User Experience & Adoption, Cryptocurrency Services"
+  "pwCategorySuggestions": "Community Building, User Experience & Adoption, Cryptocurrency Services",
+  "pwCategory": "Community Building"
 }

@@ -40,5 +40,6 @@
   "applicantAddress": "0xBae5aBDc9BdB50d4DE0ac07eE13f233e6AF2Eaae",
   "pwCategorySuggestions": "Blockchain Infrastructure, Developer Ecosystem",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Development & Infrastructure"
 }

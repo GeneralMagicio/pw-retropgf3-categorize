@@ -72,5 +72,6 @@
   "applicantAddress": "0xe3d8E58551d240626D50EE26FAFF2649e1EEE3cb",
   "pwCategorySuggestions": "Smart Contract Platforms, Layer 2 Scaling, Research & Development",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Layer 2 & Cross-Chain Solutions"
 }

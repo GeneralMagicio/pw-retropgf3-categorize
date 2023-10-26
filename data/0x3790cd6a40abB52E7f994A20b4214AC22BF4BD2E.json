@@ -48,5 +48,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "Flagged because the application contains spam, specifically, the repeated phrases in the contribution and impact descriptions.",
   "pwCategorySuggestions": "Smart Contract Platforms, Blockchain Infrastructure",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Blockchain Development"
 }

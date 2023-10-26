@@ -10,7 +10,10 @@
       "description": "T"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION", "OP_STACK"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
   "impactDescription": "Work that provided impact to end users in the Optimism Collective, or helped bring new end users into the Work that provided impact to governance participants of the Optimism Collective, or helped bring new governance participants into the Collective",
   "impactMetrics": [
     {
@@ -33,5 +36,6 @@
   "applicantAddress": "0x9a7c55A31F57995792163F84deB6Bc540C91C242",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Finance (DeFi), Governance & Tokens, Community Building"
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Governance & Tokens, Community Building",
+  "pwCategory": "Governance & Tokenomics"
 }

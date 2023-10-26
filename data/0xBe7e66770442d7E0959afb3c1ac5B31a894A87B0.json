@@ -41,5 +41,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for promising future impact and not providing any tangible, past contributions or metrics of impact.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, Governance & Tokens"
+  "pwCategorySuggestions": "Community Building, Governance & Tokens",
+  "pwCategory": "The project description provided does not give enough information to accurately assign a category."
 }

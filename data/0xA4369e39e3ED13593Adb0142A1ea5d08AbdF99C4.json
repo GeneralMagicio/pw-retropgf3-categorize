@@ -236,5 +236,6 @@
   "applicantAddress": "0xA4369e39e3ED13593Adb0142A1ea5d08AbdF99C4",
   "pwCategorySuggestions": "Community Building, Governance & Tokens, Media Production",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Community Building"
 }

@@ -64,5 +64,6 @@
   "applicantAddress": "0x34d05Abb475c6F65F70fF6427edA8dB9CE4D40ad",
   "pwIsFlagged": false,
   "pwCategorySuggestions": "NFTs, Community Building, User Experience & Adoption",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Creative NFTs & Art"
 }

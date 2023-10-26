@@ -47,5 +47,6 @@
   "applicantAddress": "0x7A623a81ed52EFc54Da26C5583DC95FeAE790DDA",
   "pwCategorySuggestions": "Community Building, User Experience & Adoption, Decentralized Identity",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Community Building"
 }

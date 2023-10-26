@@ -10,7 +10,9 @@
       "description": "It’s on etherscan"
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
   "impactDescription": "I think continuous contribution is very impactive for a blockchains broader development. My continuous usage of various dapps and platform will bring them incourageous to bring good product in web3. My transaction and tvl will help various dapps and defi. ",
   "impactMetrics": [
     {
@@ -33,5 +35,6 @@
   "applicantAddress": "0x2Eb7E1a70366713a2B45c7A27Fe78734775d78d6",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Layer 2 Scaling, Decentralized Finance (DeFi), Non-Fungible Tokens (NFTs)"
+  "pwCategorySuggestions": "Layer 2 Scaling, Decentralized Finance (DeFi), Non-Fungible Tokens (NFTs)",
+  "pwCategory": "Layer 2 & Cross-Chain Solutions"
 }

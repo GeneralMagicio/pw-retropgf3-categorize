@@ -79,5 +79,6 @@
   "applicantAddress": "0x3D502fA3C2Aac31d88d6BDA8fBd38AB861211458",
   "pwCategorySuggestions": "Blockchain Forensics, Security Incident Response, Whistleblower",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Security & Auditing"
 }

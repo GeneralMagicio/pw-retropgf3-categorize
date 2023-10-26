@@ -46,5 +46,6 @@
   "pwCategorySuggestions": "Decentralized Finance (DeFi)",
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged because it contains blank fields in 'contributionDescription' and 'impactDescription' which are necessary to justify the application and understand the contribution made.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "The provided project descriptions are incomplete. Please provide a complete description to facilitate accurate categorization."
 }

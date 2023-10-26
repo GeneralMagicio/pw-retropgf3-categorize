@@ -10,7 +10,9 @@
       "description": "This is my address"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "I can contribute towards the collective in a million different ways, and there is no way we could make processes for all of these contributions. Nor would we want to! However, getting from 0 to 1 is the hardest step. So we have made a few ways to get you up to speed and contributing in no time!",
   "impactMetrics": [
     {
@@ -47,5 +49,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "Flag this application. The application's contribution and impact descriptions are vague and non-specific, violating rule 10 regarding contributions without a clear relationship to Optimism and valid contribution details.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Developer Ecosystem, Web3 Community Platform, Governance & Tokens"
+  "pwCategorySuggestions": "Developer Ecosystem, Web3 Community Platform, Governance & Tokens",
+  "pwCategory": "Development & Infrastructure"
 }

@@ -43,5 +43,6 @@
   "applicantAddress": "0xe75A587A24251D722e95e2BC5f2C84dFDa5Da405",
   "pwCategorySuggestions": "Governance & Tokens, Developer Ecosystem, Smart Contract Platforms",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Governance & Tokenomics"
 }

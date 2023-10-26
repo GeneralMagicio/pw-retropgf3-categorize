@@ -44,5 +44,6 @@
   "applicantAddress": "0x342C5CcE2cDdA07365c6f23B5E91ac9F9Bb70cBe",
   "pwIsFlagged": false,
   "pwCategorySuggestions": "Layer 2 Scaling, NFTs, Community Building",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Layer 2 & Cross-Chain Solutions"
 }

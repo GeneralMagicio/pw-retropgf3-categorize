@@ -36,5 +36,6 @@
   "applicantAddress": "0x53607dcF5E15657D81825C14b6a90f717418DCdA",
   "pwCategorySuggestions": "Smart Contract Platforms, Blockchain Infrastructure, Governance & Tokens",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Blockchain Development"
 }

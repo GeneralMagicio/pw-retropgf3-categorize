@@ -73,5 +73,6 @@
   "applicantAddress": "0xf8d4DEda6726134d5F1B506dc7bD6c407cFF64dF",
   "pwCategorySuggestions": "Developer Ecosystem, Web3 Community Platform, End-User Experience",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Development & Infrastructure"
 }

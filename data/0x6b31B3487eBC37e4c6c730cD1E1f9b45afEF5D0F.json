@@ -65,5 +65,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for violating the first and second rules of the Grant program, as it makes promises of future impact and contributions but does not provide clear evidence of past contributions or impact in the Web3/blockchain space.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Layer 2 Scaling, Social Media Platform"
+  "pwCategorySuggestions": "Layer 2 Scaling, Social Media Platform",
+  "pwCategory": "Community Building"
 }

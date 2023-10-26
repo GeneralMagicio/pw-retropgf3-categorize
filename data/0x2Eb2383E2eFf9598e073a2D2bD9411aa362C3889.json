@@ -36,5 +36,6 @@
   "applicantAddress": "0x2Eb2383E2eFf9598e073a2D2bD9411aa362C3889",
   "pwIsFlagged": false,
   "pwCategorySuggestions": "Tokenization Platforms, Blockchain Infrastructure, Decentralized Finance (DeFi)",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Layer 2 & Cross-Chain Solutions"
 }

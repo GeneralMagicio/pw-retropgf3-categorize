@@ -38,5 +38,6 @@
   "applicantAddress": "0x1F452Ea54d4d934AfAdc300C61ca0A3B1bbDE958",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, Content Creation, Social Media Marketing"
+  "pwCategorySuggestions": "Community Building, Content Creation, Social Media Marketing",
+  "pwCategory": "Community Building"
 }

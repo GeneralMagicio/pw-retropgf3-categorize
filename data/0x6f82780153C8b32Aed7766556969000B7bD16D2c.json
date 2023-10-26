@@ -60,5 +60,6 @@
   "applicantAddress": "0x6f82780153C8b32Aed7766556969000B7bD16D2c",
   "pwCategorySuggestions": "Non-Fungible Tokens (NFTs), Web3 Community Platform, Media Production",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Music & Audio NFTs"
 }

@@ -40,5 +40,6 @@
   "pwCategorySuggestions": "Blockchain Infrastructure",
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for violation of rule #1, as the applicant promises future impact by stating that they hope the site will have more superior products in the future.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Music & Audio NFTs"
 }

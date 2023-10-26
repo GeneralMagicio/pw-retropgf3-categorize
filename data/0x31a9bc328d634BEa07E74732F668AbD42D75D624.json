@@ -46,5 +46,6 @@
   "applicantAddress": "0x31a9bc328d634BEa07E74732F668AbD42D75D624",
   "pwIsFlagged": false,
   "pwCategorySuggestions": "Content Creation, User Experience & Adoption, Governance & Tokens",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Governance & Tokenomics"
 }

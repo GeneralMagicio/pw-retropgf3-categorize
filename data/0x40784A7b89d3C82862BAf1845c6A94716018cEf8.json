@@ -40,5 +40,6 @@
   "pwCategorySuggestions": "Web3 Community Platform",
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for violating the program rules. The application is using the RetroPGF application to advertise and showcase something they are selling: NFT sales, which is against the rule no. 6 about Advertising.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "The project description provided is not detailed enough for a thorough analysis. Please provide additional details about the project."
 }

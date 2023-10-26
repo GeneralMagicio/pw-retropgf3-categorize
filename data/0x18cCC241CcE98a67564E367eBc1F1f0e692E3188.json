@@ -15,7 +15,10 @@
       "description": "Friendtech analysis like weekly snapshot & hourly activity thru the week"
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "NFT snapshot dashboard has helped projects find their holders easily and reward them accordingly, it has been used by users to find overlap in their project and any project they like.\n\nFriend Tech analysis has helped people see how much activity base consisted of friend tech contract interaction, how friend tech trading volume and tvl has changed over weeks. Most importantly be able to visualize activity during the week on each hour in the day. ",
   "impactMetrics": [
     {
@@ -39,5 +42,6 @@
   "applicantAddress": "0x18cCC241CcE98a67564E367eBc1F1f0e692E3188",
   "pwIsFlagged": false,
   "pwCategorySuggestions": "NFT Aggregator, Content Creation, Community Building",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Development & Infrastructure"
 }

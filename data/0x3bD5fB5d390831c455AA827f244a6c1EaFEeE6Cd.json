@@ -42,5 +42,6 @@
   "applicantAddress": "0x3bD5fB5d390831c455AA827f244a6c1EaFEeE6Cd",
   "pwCategorySuggestions": "Layer 2 Scaling",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Community Building"
 }

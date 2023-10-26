@@ -55,5 +55,6 @@
   "applicantAddress": "0xC643aE4336736989dbBF0D20B3641B2A32e77Bb1",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Developer Ecosystem, Smart Contract Platforms, Blockchain Education"
+  "pwCategorySuggestions": "Developer Ecosystem, Smart Contract Platforms, Blockchain Education",
+  "pwCategory": "Blockchain Education"
 }

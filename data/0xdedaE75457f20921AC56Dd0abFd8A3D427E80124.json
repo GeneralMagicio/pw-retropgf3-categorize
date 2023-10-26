@@ -49,5 +49,6 @@
   "applicantAddress": "0xdedaE75457f20921AC56Dd0abFd8A3D427E80124",
   "pwCategorySuggestions": "Blockchain Gaming, NFT Aggregator, Media Production",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Music & Audio NFTs"
 }

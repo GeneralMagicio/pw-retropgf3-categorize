@@ -46,5 +46,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for promising future impact. The individual stated they will contribute through various platforms, which is a promise of future actions and not a reflection of past impact.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Developer Ecosystem, Social Media Marketing, Layer 2 Scaling"
+  "pwCategorySuggestions": "Developer Ecosystem, Social Media Marketing, Layer 2 Scaling",
+  "pwCategory": "Layer 2 & Cross-Chain Solutions"
 }

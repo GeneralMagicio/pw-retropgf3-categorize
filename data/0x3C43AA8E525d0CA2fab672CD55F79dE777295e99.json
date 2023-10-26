@@ -69,5 +69,6 @@
   "applicantAddress": "0x3C43AA8E525d0CA2fab672CD55F79dE777295e99",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "1. End-User Experience & Adoption,\n2. Collective Governance"
+  "pwCategorySuggestions": "1. End-User Experience & Adoption,\n2. Collective Governance",
+  "pwCategory": "Governance & Tokenomics"
 }

@@ -70,5 +70,6 @@
   "applicantAddress": "0x3A2a72fF37afE42B2c2747366Be5eCDacb211d8a",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Blockchain Education, Community Building, Digital Identity"
+  "pwCategorySuggestions": "Blockchain Education, Community Building, Digital Identity",
+  "pwCategory": "Community Building"
 }

@@ -41,5 +41,6 @@
   "pwFlaggedReason": "This application should be flagged for spam due to the irrelevant and nonsensical content in the \"contributionDescription\" and \"impactDescription\" fields.",
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, the application contains no sufficient information to assert that it's a project; it may belong to an individual.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Layer 2 & Cross-Chain Solutions"
 }

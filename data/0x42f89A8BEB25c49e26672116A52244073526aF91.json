@@ -10,7 +10,9 @@
       "description": "Grind Everday"
     }
   ],
-  "impactCategory": ["COLLECTIVE_GOVERNANCE"],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
   "impactDescription": "Engaged more users and helped learn the concept of optimism and much more\nGave a proper bried explanation on how OP mechanisms work and what is pow/pos\nShared campaigns and articles for user perspective views\nExplored them the perks of being active particpant and much more",
   "impactMetrics": [
     {
@@ -41,5 +43,6 @@
   "applicantAddress": "0x42f89A8BEB25c49e26672116A52244073526aF91",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, User Experience & Adoption, Blockchain Education"
+  "pwCategorySuggestions": "Community Building, User Experience & Adoption, Blockchain Education",
+  "pwCategory": "Governance & Tokenomics"
 }

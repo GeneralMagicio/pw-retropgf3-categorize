@@ -10,7 +10,9 @@
       "description": "Here I made few transaction"
     }
   ],
-  "impactCategory": ["OP_STACK"],
+  "impactCategory": [
+    "OP_STACK"
+  ],
   "impactDescription": "I’ve tried at least to make some transaction with optimism which has been a while now because i have heard about optimism for the past few years now and I made sure I did my possible best to make some money transactions on it buh it might not be of much amount buh I did few ",
   "impactMetrics": [
     {
@@ -34,5 +36,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged because it violates rule 10; the grant applicant's description of their contribution is mainly centered around personal trading, which per the rule, simply sending transactions wouldn't qualify as a valid contribution.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Finance (DeFi), Smart Contract Platforms"
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Smart Contract Platforms",
+  "pwCategory": "Layer 2 & Cross-Chain Solutions"
 }

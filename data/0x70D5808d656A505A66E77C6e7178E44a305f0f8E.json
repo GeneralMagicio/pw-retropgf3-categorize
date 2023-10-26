@@ -44,5 +44,6 @@
   "applicantAddress": "0x70D5808d656A505A66E77C6e7178E44a305f0f8E",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Layer 2 Scaling, User Experience & Adoption, Community Building"
+  "pwCategorySuggestions": "Layer 2 Scaling, User Experience & Adoption, Community Building",
+  "pwCategory": "User Testing & Quality Assurance"
 }

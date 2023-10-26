@@ -10,7 +10,9 @@
       "description": "Wallet address"
     }
   ],
-  "impactCategory": ["COLLECTIVE_GOVERNANCE"],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
   "impactDescription": "1. contribute to the development of such projects by providing open source code, conducting security audits, or proposing improvements.\n2. Investment\nJika Anda mempercayai visi dan proyek Crypto Optimism, Anda dapat berinvestasi dalam token proyek ini. Dengan demikian, Anda memiliki dukungan finansial yang membantu perkembangan proyek.",
   "impactMetrics": [
     {
@@ -42,5 +44,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged because it contains content in a language other than English.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Tokenization Platforms, Developer Ecosystem, Community Building"
+  "pwCategorySuggestions": "Tokenization Platforms, Developer Ecosystem, Community Building",
+  "pwCategory": "Development & Infrastructure"
 }

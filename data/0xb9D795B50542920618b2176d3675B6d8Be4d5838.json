@@ -10,7 +10,9 @@
       "description": "a"
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
   "impactDescription": "I unknowingly submitted my project with my team as if it was my own project. I'm sorry for taking up your time. There was no other way to withdraw my application, so I am resubmitting it this way. I'm sorry again.I'm sorry again.I'm sorry again.I'm sorry again.",
   "impactMetrics": [
     {
@@ -34,5 +36,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged because it contains repetitive content and does not provide valid contribution details, which may indicate it's spam, and therefore violate Rule 11.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Identity, Developer Ecosystem"
+  "pwCategorySuggestions": "Decentralized Identity, Developer Ecosystem",
+  "pwCategory": "This project does not fit into any category as the project description doesn't provide any information about the nature of the project."
 }

@@ -75,5 +75,6 @@
   "applicantAddress": "0x9687c70DcFE21C6198703C813cDAEC9d3458e068",
   "pwCategorySuggestions": "Developer Ecosystem",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Blockchain Development"
 }

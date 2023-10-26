@@ -46,5 +46,6 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, the application is titled as a \"PROJECT\" but the descriptions given refer to individual efforts, indicated by uses of \"I\" and \"my\".",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Exchanges (DEXs), Trustless Swaps, Blockchain Infrastructure"
+  "pwCategorySuggestions": "Decentralized Exchanges (DEXs), Trustless Swaps, Blockchain Infrastructure",
+  "pwCategory": "Layer 2 & Cross-Chain Solutions"
 }

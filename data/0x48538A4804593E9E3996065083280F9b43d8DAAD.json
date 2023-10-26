@@ -43,5 +43,6 @@
   "pwFlaggedReason": "Flagged: The application contains ambiguous descriptions about the contributions to the Optimism ecosystem and impact on it, thus potentially violating the rule against false statements & deception.",
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, it is incorrectly categorized. The application uses first person pronouns like \"My\" which suggests that the applicant is an individual, not a project.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Layer 2 & Cross-Chain Solutions"
 }

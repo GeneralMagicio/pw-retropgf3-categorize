@@ -44,5 +44,6 @@
   "pwCategorySuggestions": "Layer 2 Scaling, Smart Contract Platforms, Blockchain Infrastructure",
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, it is not correctly categorized because the application is submitted by an individual \"George Knee\" who mentions \"I'm the Tech Lead for State Channels...\", thus the \"applicantType\" should be \"INDIVIDUAL\".",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Layer 2 & Cross-Chain Solutions"
 }

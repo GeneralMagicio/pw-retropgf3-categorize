@@ -47,5 +47,6 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, the application is incorrectly categorized because it uses first-person pronouns like \"I\" and \"me\" which indicate an individual, not a project.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Layer 2 Scaling, Content Creation, Developer Ecosystem"
+  "pwCategorySuggestions": "Layer 2 Scaling, Content Creation, Developer Ecosystem",
+  "pwCategory": "User Experience & Adoption"
 }

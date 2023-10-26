@@ -10,7 +10,9 @@
       "description": "i also donated to gitcoin last op donation"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "I strongly believe that with my various activities on op chain by trading, buying and selling of tokens,  minting of nfts under optimism chain,,,bored app etc, also I keep optimism chain active by making transactions under op chain u can track my wallet to confirm, I don't stay a week without transactions on op chain...I also use various contracts on op chain, stake op, I provide liquidity under op chain as well using stargate, op to me remains the best and cheaper chain to transact on, I strongly belive that my daily and weekly transactions under op chain adds to the contribution of optimism.  Thanks for the privilege",
   "impactMetrics": [
     {
@@ -41,5 +43,6 @@
   "applicantAddress": "0x34925b991dce4e9A94490C8882a37c3Dc3C6C631",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Smart Contract Platforms"
+  "pwCategorySuggestions": "Smart Contract Platforms",
+  "pwCategory": "User Experience & Adoption"
 }

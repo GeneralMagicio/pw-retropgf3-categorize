@@ -40,5 +40,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "Flag this application. It appears to be advertising airdrops which falls in violation of rule 6 (Advertising).",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, Blockchain Education, Early Access"
+  "pwCategorySuggestions": "Community Building, Blockchain Education, Early Access",
+  "pwCategory": "Blockchain Education"
 }

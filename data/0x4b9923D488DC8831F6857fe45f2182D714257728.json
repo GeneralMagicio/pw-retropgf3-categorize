@@ -44,5 +44,6 @@
   "applicantAddress": "0x4b9923D488DC8831F6857fe45f2182D714257728",
   "pwCategorySuggestions": "Non-Fungible Tokens (NFTs), Digital Identity, Community Building",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Music & Audio NFTs"
 }

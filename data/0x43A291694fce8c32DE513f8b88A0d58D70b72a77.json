@@ -10,7 +10,10 @@
       "description": "website"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION", "OP_STACK"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
   "impactDescription": "Onboarded users to the optimism ecosystem\n\nDelegated Op to governance \n\nTook path on snapshots\n\nBridged Asset to Optimism \n\nIncrease in transaction number\n\nSustained public good network and trust\n\nfavorite L2 to most persons i onboarded\n\nStrong L2 Community",
   "impactMetrics": [
     {
@@ -42,5 +45,6 @@
   "applicantAddress": "0x43A291694fce8c32DE513f8b88A0d58D70b72a77",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Layer 2 Scaling, Community Building, Governance & Tokens"
+  "pwCategorySuggestions": "Layer 2 Scaling, Community Building, Governance & Tokens",
+  "pwCategory": "Layer 2 & Cross-Chain Solutions"
 }

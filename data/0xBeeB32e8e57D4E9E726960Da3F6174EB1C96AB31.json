@@ -45,5 +45,6 @@
   "applicantAddress": "0xBeeB32e8e57D4E9E726960Da3F6174EB1C96AB31",
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Governance & Tokens, Cryptocurrency Services",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Fundraising & Capital Allocation"
 }

@@ -43,5 +43,6 @@
   "applicantAddress": "0xc64F1e68A59E26007fD1B3693223C5c5Af5c0769",
   "pwCategorySuggestions": "Governance Tokens, Decentralized Finance (DeFi), Blockchain Infrastructure",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Governance & Tokenomics"
 }

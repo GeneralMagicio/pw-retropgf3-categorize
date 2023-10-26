@@ -46,5 +46,6 @@
   "applicantAddress": "0x6335308e4dF71222a06dDC3e6Ed41d6f5B3BB58C",
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Trading Tools, Community Building",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Finance & DeFi"
 }

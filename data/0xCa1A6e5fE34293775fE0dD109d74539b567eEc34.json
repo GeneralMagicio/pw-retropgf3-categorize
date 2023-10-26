@@ -38,5 +38,6 @@
   "applicantAddress": "0xCa1A6e5fE34293775fE0dD109d74539b567eEc34",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Non-Fungible Tokens (NFTs), Music Production, Community Building"
+  "pwCategorySuggestions": "Non-Fungible Tokens (NFTs), Music Production, Community Building",
+  "pwCategory": "Music & Audio NFTs"
 }

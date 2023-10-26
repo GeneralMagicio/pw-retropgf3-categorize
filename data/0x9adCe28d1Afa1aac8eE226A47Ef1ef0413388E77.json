@@ -35,7 +35,10 @@
       "description": "Official Base is for builders nft on Base mainnet was minted"
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM", "OP_STACK"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "OP_STACK"
+  ],
   "impactDescription": "Base is a secure, low-cost, builder-friendly Ethereum L2 built on the OP Stack. Building Base is to bring the next million builders and billion users onchain. Testing and building on base at an early stage is necessary for the development of both base and optimism.",
   "impactMetrics": [
     {
@@ -70,5 +73,6 @@
   "applicantAddress": "0x9adCe28d1Afa1aac8eE226A47Ef1ef0413388E77",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Layer 2 Scaling, Smart Contract Platforms, Tokenization Platforms"
+  "pwCategorySuggestions": "Layer 2 Scaling, Smart Contract Platforms, Tokenization Platforms",
+  "pwCategory": "Layer 2 & Cross-Chain Solutions"
 }

@@ -39,5 +39,6 @@
   "applicantAddress": "0x1De671A88Dc2C1454d077E5cab06376ebF51bB48",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Developer Ecosystem, User Experience & Adoption, Community Building"
+  "pwCategorySuggestions": "Developer Ecosystem, User Experience & Adoption, Community Building",
+  "pwCategory": "Development & Infrastructure"
 }

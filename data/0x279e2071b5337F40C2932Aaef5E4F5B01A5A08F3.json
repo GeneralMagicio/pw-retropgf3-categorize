@@ -49,5 +49,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for violating the Grant program rules as the \"impactDescription\" is not in English.",
   "pwCategorySuggestions": "Non-Fungible Tokens (NFTs), Decentralized Finance (DeFi), Music Onchain",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Music & Audio NFTs"
 }

@@ -65,5 +65,6 @@
   "applicantAddress": "0x1de2A056508E0D0dd88A88f1f5cdf9cfa510795c",
   "pwIsFlagged": false,
   "pwCategorySuggestions": "Governance & Tokens, Web3 Community Platform, Developer Ecosystem",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Governance & Tokenomics"
 }

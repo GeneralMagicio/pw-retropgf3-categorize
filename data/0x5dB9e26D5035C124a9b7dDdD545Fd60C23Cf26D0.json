@@ -10,7 +10,9 @@
       "description": "here"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "help optimism growth \nsupporting optimism project\ntry about ecosystem optimism \nparticipating on event and campaign \ntry official bridge \nBy offering insights and answering questions about Optimism, I aim to help users understand the project better and make informed decisions. Additionally, I can provide security information about the Optimism contract and its creator, ensuring users have a comprehensive understanding of the project's safety and reliability.\n\nWhile my contributions are primarily informational, I strive to empower users with the knowledge and resources they need to engage with the Optimism Collective effectively",
   "impactMetrics": [
     {
@@ -35,5 +37,6 @@
   "applicantAddress": "0x5dB9e26D5035C124a9b7dDdD545Fd60C23Cf26D0",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Web3 Community Platform"
+  "pwCategorySuggestions": "Web3 Community Platform",
+  "pwCategory": "Community Building"
 }

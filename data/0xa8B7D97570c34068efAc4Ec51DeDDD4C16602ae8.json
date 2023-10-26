@@ -46,5 +46,6 @@
   "applicantAddress": "0xa8B7D97570c34068efAc4Ec51DeDDD4C16602ae8",
   "pwCategorySuggestions": "Layer 2 Scaling, Developer Ecosystem, Community Building",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Layer 2 & Cross-Chain Solutions"
 }

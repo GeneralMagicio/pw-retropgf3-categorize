@@ -42,5 +42,6 @@
   "applicantAddress": "0x915D72Fd6Cf53c34D6b7C238be60a79d5214C452",
   "pwCategorySuggestions": "Community Building, Developer Ecosystem, Blockchain Infrastructure",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Community Building"
 }

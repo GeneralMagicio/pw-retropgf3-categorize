@@ -43,5 +43,6 @@
   "applicantAddress": "0x951Fa1F882D609bbdA2B784F998fd2A7945DA25C",
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Optimism Ecosystem, Blockchain Infrastructure",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Finance & DeFi"
 }

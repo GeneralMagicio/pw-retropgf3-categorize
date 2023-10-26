@@ -10,7 +10,9 @@
       "description": "I am"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "I complete all possible tasks, complete all nft tests, follow updates. glad to be part of the project. I hope I get some kind of prize. If anything I am ready to work very hard, since there is no employment. very convenient network, it’s a pity I just didn’t receive the drop(",
   "impactMetrics": [
     {
@@ -34,5 +36,6 @@
   "applicantAddress": "0x967733bcC6A86e0A44D0d2aB882dc5F4c59d0Dd7",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, End-User Experience, NFT Aggregator"
+  "pwCategorySuggestions": "Community Building, End-User Experience, NFT Aggregator",
+  "pwCategory": "User Testing & Quality Assurance"
 }

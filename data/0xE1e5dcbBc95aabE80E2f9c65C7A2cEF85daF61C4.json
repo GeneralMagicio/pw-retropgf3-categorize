@@ -98,5 +98,6 @@
   "applicantAddress": "0xE1e5dcbBc95aabE80E2f9c65C7A2cEF85daF61C4",
   "pwCategorySuggestions": "Non-Fungible Tokens (NFTs), Web3 Community Platform, Decentralized Identity",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Blockchain Education"
 }

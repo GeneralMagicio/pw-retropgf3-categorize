@@ -44,5 +44,6 @@
   "pwCategorySuggestions": "Content Creation, Community Building, User Experience & Adoption",
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for promising future impact, which is against the rules of the grant program.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "User Experience & Adoption"
 }

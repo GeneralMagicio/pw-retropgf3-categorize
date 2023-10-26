@@ -46,5 +46,6 @@
   "pwCategorySuggestions": "Community Building, Developer Ecosystem, Governance & Tokens",
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for promises of future impact and for containing a spam-like content. The impact description and contribution description do not clearly explain past contributions. Instead, they contains vague promises about future contributions.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Community Building"
 }

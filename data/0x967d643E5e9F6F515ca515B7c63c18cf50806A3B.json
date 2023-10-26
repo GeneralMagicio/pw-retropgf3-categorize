@@ -44,5 +44,6 @@
   "applicantAddress": "0x967d643E5e9F6F515ca515B7c63c18cf50806A3B",
   "pwCategorySuggestions": "Layer 2 Scaling, Smart Contract Platforms, NFTs",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Layer 2 & Cross-Chain Solutions"
 }

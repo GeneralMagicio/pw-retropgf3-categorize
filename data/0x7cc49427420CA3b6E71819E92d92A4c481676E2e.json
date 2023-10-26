@@ -45,5 +45,6 @@
   "pwFlaggedReason": "This application should be flagged for spam as the content is repetitive and meaningless.",
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, the application is incorrectly categorized as \"PROJECT\" but the bio and contribution description are written in first person, indicating an \"INDIVIDUAL\".",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "This project doesn't qualify for any category due to lack of applicable content."
 }

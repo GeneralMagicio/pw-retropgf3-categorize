@@ -45,5 +45,6 @@
   "pwIsFlagged": false,
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO. The application refers to the applicant's activity with the first person pronoun (\"I\"), indicating that the applicant is an individual, not a project.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "User Experience & Adoption"
 }

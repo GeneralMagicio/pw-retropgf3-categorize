@@ -44,5 +44,6 @@
   "applicantAddress": "0xdFe5283Fd19558F1c7149fbBB6e689FC0a455bbC",
   "pwCategorySuggestions": "Community Building, Decentralized Finance (DeFi), User Experience & Adoption",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Community Building"
 }

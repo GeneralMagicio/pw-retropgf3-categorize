@@ -49,5 +49,6 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, the applicant refers to himself as \"I\" in the bio, indicating that it is an individual not a project.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Cryptographic Implementations"
+  "pwCategorySuggestions": "Cryptographic Implementations",
+  "pwCategory": "Blockchain Development"
 }

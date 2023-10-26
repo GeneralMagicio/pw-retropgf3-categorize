@@ -15,7 +15,10 @@
       "description": "OmniLido - Deposit ETH in Lido from Optimism"
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "By open-sourcing cross-chain protocols, I’ve enabled collective innovation and experimentation. OmniLido and similar projects spotlight Optimism’s versatility, spurring its adoption within the Collective. Such initiatives set high benchmarks, driving developers to reach new heights. Overall, I’ve not only added technological prowess but invigorated the Collective's spirit and growth.",
   "impactMetrics": [
     {
@@ -49,5 +52,6 @@
   "applicantAddress": "0xe2f6659e0209C3f79132AbDEB95abEBa0f1f672F",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Cross-Chain Platforms, Layer 2 Scaling, Open Source Innovation"
+  "pwCategorySuggestions": "Cross-Chain Platforms, Layer 2 Scaling, Open Source Innovation",
+  "pwCategory": "Layer 2 & Cross-Chain Solutions"
 }

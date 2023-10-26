@@ -46,5 +46,6 @@
   "applicantAddress": "0xbA95a8E83c7B012daB6208D04cfc9405a6098e6E",
   "pwCategorySuggestions": "Governance Tokens, Community Building, End-User Experience",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Governance & Tokenomics"
 }

@@ -48,5 +48,6 @@
   "pwCategorySuggestions": "Blockchain Education, Developer Ecosystem",
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged as it does not include description of personal contribution or the impact on the Web3/blockchain space, thus violating rules regarding false statements and deception.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "The project description is not provided in the prompt. Please provide the details of the project for analysis and category assignment."
 }

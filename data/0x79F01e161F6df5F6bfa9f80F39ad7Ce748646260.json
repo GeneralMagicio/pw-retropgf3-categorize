@@ -71,5 +71,6 @@
   "applicantAddress": "0x79F01e161F6df5F6bfa9f80F39ad7Ce748646260",
   "pwCategorySuggestions": "NFT Aggregator, Media Production, Web3 Community Platform",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Music & Audio NFTs"
 }

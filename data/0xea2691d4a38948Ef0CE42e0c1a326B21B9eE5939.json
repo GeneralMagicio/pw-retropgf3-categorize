@@ -46,5 +46,6 @@
   "applicantAddress": "0xea2691d4a38948Ef0CE42e0c1a326B21B9eE5939",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "NFT Aggregator"
+  "pwCategorySuggestions": "NFT Aggregator",
+  "pwCategory": "Creative NFTs & Art"
 }

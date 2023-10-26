@@ -100,7 +100,9 @@
       "description": "Aevo: Trade Perps, Options and Strategies. "
     }
   ],
-  "impactCategory": ["OP_STACK"],
+  "impactCategory": [
+    "OP_STACK"
+  ],
   "impactDescription": "I explained the advantages of using Opstack in the written projects such as Simplicity, Scalability, Security, Flexibility and User Experience. I think that people who have experienced the projects will have more confidence in the projects if they know that these projects were developed using Opstack.",
   "impactMetrics": [
     {
@@ -131,5 +133,6 @@
   "applicantAddress": "0x3562A4Df9Fb30d7B1cb1447C24eaA9B540EdFCD7",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Smart Contract Platforms, Developer Ecosystem, User Experience & Adoption"
+  "pwCategorySuggestions": "Smart Contract Platforms, Developer Ecosystem, User Experience & Adoption",
+  "pwCategory": "Blockchain Education"
 }

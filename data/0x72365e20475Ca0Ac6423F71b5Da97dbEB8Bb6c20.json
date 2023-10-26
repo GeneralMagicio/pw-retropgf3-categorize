@@ -10,7 +10,9 @@
       "description": "Very optimistic music."
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "I’m just a wannabe influencer. Iv onboarded several people into crypto. I reminded my buddy he had the last drop made sure he did not miss out lol. I really just retweet for the most part. I just want to take part. I honestly didn’t realize this was for a grant when I started. I just try to get involved with the blockchain.",
   "impactMetrics": [
     {
@@ -42,5 +44,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged because it violates rule 1: promises of future impact. The applicant claims they will interact in future projects if given the opportunity and funds.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Finance (DeFi), Web3 Community Platform, Tokenization Platforms"
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Web3 Community Platform, Tokenization Platforms",
+  "pwCategory": "Community Building"
 }

@@ -44,5 +44,6 @@
   "applicantAddress": "0xDDC9cc6b612C9FFB84f0D4A1c1C5d960b2C4eECF",
   "pwCategorySuggestions": "Smart Contract Platforms, Blockchain Education, Community Building",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Blockchain Education"
 }

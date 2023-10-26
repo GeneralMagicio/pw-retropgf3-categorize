@@ -40,5 +40,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for violation of rule number 6: Advertising - the URL provided by the applicant points to a website with a clear advertisement flag.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Blockchain Gaming, Content Creation"
+  "pwCategorySuggestions": "Blockchain Gaming, Content Creation",
+  "pwCategory": "Creative NFTs & Art"
 }

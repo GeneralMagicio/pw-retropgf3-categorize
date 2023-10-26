@@ -46,5 +46,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for containing content in languages other than English.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Developer Ecosystem, Governance & Tokens, Community Building"
+  "pwCategorySuggestions": "Developer Ecosystem, Governance & Tokens, Community Building",
+  "pwCategory": "Governance & Tokenomics"
 }

@@ -10,7 +10,9 @@
       "description": "I share all information on my X (Twitter)"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "People who do not know about Optimism. They received true information about Optimism. It is the big opportunity to invite and share new technolocy (L2) to person who never try. And in the mean time we can build the strong community which grow togerther with OP chain.",
   "impactMetrics": [
     {
@@ -35,5 +37,6 @@
   "applicantAddress": "0x9279492DC2123340aa00244987d4460d0e3cF070",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, Web3 Community Platform"
+  "pwCategorySuggestions": "Community Building, Web3 Community Platform",
+  "pwCategory": "Community Building"
 }

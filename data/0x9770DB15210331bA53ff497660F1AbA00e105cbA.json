@@ -39,5 +39,6 @@
   "applicantAddress": "0x9770DB15210331bA53ff497660F1AbA00e105cbA",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "NFT Aggregator, Trading Tools, Web3 Community Platform"
+  "pwCategorySuggestions": "NFT Aggregator, Trading Tools, Web3 Community Platform",
+  "pwCategory": "Layer 2 & Cross-Chain Solutions"
 }

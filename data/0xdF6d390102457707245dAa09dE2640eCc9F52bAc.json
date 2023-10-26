@@ -51,5 +51,6 @@
   "pwCategorySuggestions": "Governance Tokens, Web3 Community Platform, Smart Contract Platforms",
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged because it violates the rule related to language, as the application is submitted in a language other than English.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Governance & Tokenomics"
 }

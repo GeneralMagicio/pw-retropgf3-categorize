@@ -69,5 +69,6 @@
   "applicantAddress": "0x4DF83971f6f1bFD8D33a2E79584bDFDe75F4DF60",
   "pwCategorySuggestions": "Content Creation, Media Production, Blockchain Education",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Content Creation & Media"
 }

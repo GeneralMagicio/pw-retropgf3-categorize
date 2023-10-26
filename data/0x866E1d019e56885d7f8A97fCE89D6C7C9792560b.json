@@ -45,5 +45,6 @@
   "pwCategorySuggestions": "Smart Contract Platforms, Community Building, Decentralized Finance (DeFi)",
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for promising future impact and potentially getting RetroPGF for outside of its scope.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Development & Infrastructure"
 }

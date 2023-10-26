@@ -45,5 +45,6 @@
   "applicantAddress": "0x4F506Adc76074e9A046e60AD17a882991721df5f",
   "pwCategorySuggestions": "Tokenization Platforms, Web3 Community Platform",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Layer 2 & Cross-Chain Solutions"
 }

@@ -45,5 +45,6 @@
   "pwCategorySuggestions": "Non-Fungible Tokens (NFTs), Decentralized Finance (DeFi)",
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged because it is in a language other than English, which violates rule 11.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Community Building"
 }

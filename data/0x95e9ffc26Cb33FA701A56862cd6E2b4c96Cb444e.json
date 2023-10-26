@@ -46,5 +46,6 @@
   "applicantAddress": "0x95e9ffc26Cb33FA701A56862cd6E2b4c96Cb444e",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Layer 2 Scaling, Governance & Tokens, Blockchain Infrastructure"
+  "pwCategorySuggestions": "Layer 2 Scaling, Governance & Tokens, Blockchain Infrastructure",
+  "pwCategory": "Layer 2 & Cross-Chain Solutions"
 }

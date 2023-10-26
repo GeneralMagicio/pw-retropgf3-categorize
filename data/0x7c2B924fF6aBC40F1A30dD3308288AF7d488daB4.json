@@ -57,5 +57,6 @@
   "applicantAddress": "0x7c2B924fF6aBC40F1A30dD3308288AF7d488daB4",
   "pwCategorySuggestions": "Content Creation, Layer 2 Scaling, Blockchain Education",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Content Creation & Media"
 }

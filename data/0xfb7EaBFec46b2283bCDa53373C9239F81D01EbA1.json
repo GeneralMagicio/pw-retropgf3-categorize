@@ -45,5 +45,6 @@
   "applicantAddress": "0xfb7EaBFec46b2283bCDa53373C9239F81D01EbA1",
   "pwCategorySuggestions": "Community Building, Web3 Community Platform, Developer Ecosystem",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Community Building"
 }

@@ -44,5 +44,6 @@
   "applicantAddress": "0x3b042ff4733430F74A2CA2d7BAA2FE4B34a7a278",
   "pwCategorySuggestions": "Community Building, User Experience & Adoption",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Community Building"
 }

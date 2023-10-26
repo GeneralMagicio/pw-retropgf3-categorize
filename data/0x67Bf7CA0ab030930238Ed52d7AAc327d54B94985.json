@@ -43,5 +43,6 @@
   "applicantAddress": "0x67Bf7CA0ab030930238Ed52d7AAc327d54B94985",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Tokenization Platforms, Governance & Tokens, Community Building"
+  "pwCategorySuggestions": "Tokenization Platforms, Governance & Tokens, Community Building",
+  "pwCategory": "Community Building"
 }

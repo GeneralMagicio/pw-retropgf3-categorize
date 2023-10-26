@@ -66,5 +66,6 @@
   "applicantAddress": "0xca47Bb2FfB7eAEa5517ee6420f6cc4535307C297",
   "pwCategorySuggestions": "Web3 Community Platform, Developer Ecosystem, Cross-Chain Platforms",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Layer 2 & Cross-Chain Solutions"
 }

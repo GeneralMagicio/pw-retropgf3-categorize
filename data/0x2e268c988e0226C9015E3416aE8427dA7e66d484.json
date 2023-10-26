@@ -45,5 +45,6 @@
   "applicantAddress": "0x2e268c988e0226C9015E3416aE8427dA7e66d484",
   "pwIsFlagged": false,
   "pwCategorySuggestions": "Non-Fungible Tokens (NFTs), Decentralized Applications (dApps), Digital Collectibles",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Creative NFTs & Art"
 }

@@ -39,5 +39,6 @@
   "applicantAddress": "0xD52BdC1439Bd9C4da99A85d179c3D57a256d415E",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Exchanges (DEXs), Layer 2 Scaling, Community Building"
+  "pwCategorySuggestions": "Decentralized Exchanges (DEXs), Layer 2 Scaling, Community Building",
+  "pwCategory": "Layer 2 & Cross-Chain Solutions"
 }

@@ -47,5 +47,6 @@
   "applicantAddress": "0xCC692D6E11268B40A1E3C58e3D86Fc4CAAb9b77a",
   "pwCategorySuggestions": "Non-Fungible Tokens (NFTs), Blockchain Gaming, Community Building",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Creative NFTs & Art"
 }

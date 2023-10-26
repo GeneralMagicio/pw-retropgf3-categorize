@@ -38,5 +38,6 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, the application is not correctly categorized because it gives no clear indication whether it's from an individual or a project due to irrelevant and incomplete answers provided.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Blockchain Infrastructure, Developer Ecosystem, Community Building"
+  "pwCategorySuggestions": "Blockchain Infrastructure, Developer Ecosystem, Community Building",
+  "pwCategory": "Community Building"
 }

@@ -44,5 +44,6 @@
   "pwCategorySuggestions": "Developer Tools, Web3 Community Platform, Cryptocurrency Services",
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for not providing a contribution description and impact description.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "The information provided is incomplete in order to assign an accurate category to the project."
 }

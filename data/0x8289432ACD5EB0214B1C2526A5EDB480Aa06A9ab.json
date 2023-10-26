@@ -94,5 +94,6 @@
   "applicantAddress": "0x8289432ACD5EB0214B1C2526A5EDB480Aa06A9ab",
   "pwCategorySuggestions": "Developer Ecosystem, Web3 Community Platform",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Developer Ecosystem"
 }

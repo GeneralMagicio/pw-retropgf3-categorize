@@ -41,5 +41,6 @@
   "pwCategorySuggestions": "Developer Ecosystem, Layer 2 Scaling, Community Building",
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for promising future impact, a violation of the first rule of the grant program. The applicant states that they \"will be an ambassador for Optimism\" and \"will help build in the scaling of optimism,\" both of which are promises of future action and impact.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Layer 2 & Cross-Chain Solutions"
 }

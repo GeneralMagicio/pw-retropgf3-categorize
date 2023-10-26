@@ -10,7 +10,10 @@
       "description": "support donation tour"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION", "OP_STACK"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
   "impactDescription": "I direct my relatives and those around me to donate to Optimism and help them contribute to the ecosystem. Apart from donations, I tell them to use the ecosystem and provide technological support. I express the benefits of the op ecosystem to the crypto industry at every opportunity.",
   "impactMetrics": [
     {
@@ -42,5 +45,6 @@
   "applicantAddress": "0x90f0f585fB2A33bE857b54b0a83624A5356a3Ed8",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building"
+  "pwCategorySuggestions": "Community Building",
+  "pwCategory": "Community Building"
 }

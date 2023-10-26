@@ -44,5 +44,6 @@
   "applicantAddress": "0x429F9aDA43e9F345CbB85EC88681BB70Df808892",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Content Creation, Governance & Tokens, Developer Ecosystem"
+  "pwCategorySuggestions": "Content Creation, Governance & Tokens, Developer Ecosystem",
+  "pwCategory": "Content Creation & Media"
 }

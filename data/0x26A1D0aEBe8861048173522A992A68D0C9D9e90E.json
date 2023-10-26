@@ -49,5 +49,6 @@
   "pwCategorySuggestions": "Community Building, Content Creation",
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, the application is from an individual, not a project, as indicated by the use of \"我\" meaning \"I\" in the bio and contribution description.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Development & Infrastructure"
 }

@@ -10,7 +10,9 @@
       "description": "oo"
     }
   ],
-  "impactCategory": ["COLLECTIVE_GOVERNANCE"],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
   "impactDescription": "Hello, I'm Liu, and I come from IND . I am a 24-year-old  Student.\n\nI have always been passionate about crypto, which has shaped my life and inspired my personal and professional growth. I enjoy finding out about it on Twitter in my free time. It helps me unwind and stay creative.",
   "impactMetrics": [
     {
@@ -35,5 +37,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged because there are no clear and specific contributions to the Web3 or blockchain space as required by the grant program rules.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, Blockchain Education, User Experience & Adoption"
+  "pwCategorySuggestions": "Community Building, Blockchain Education, User Experience & Adoption",
+  "pwCategory": "Community Building"
 }

@@ -10,7 +10,9 @@
       "description": "this is some of my transaction"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "my friend got interested on this project, so that we can work together to make this project bigger and more of my to become work on this project too. hope this RetroPGF Round 3 could be done so smoothly so our comunity can enjoy and happy about this project. thankyou",
   "impactMetrics": [
     {
@@ -42,5 +44,6 @@
   "applicantAddress": "0xa22Af02d999f33cc7d02726881D2ccD7Bd1b6383",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, Decentralized Finance (DeFi), End-User Experience"
+  "pwCategorySuggestions": "Community Building, Decentralized Finance (DeFi), End-User Experience",
+  "pwCategory": "Community Building"
 }

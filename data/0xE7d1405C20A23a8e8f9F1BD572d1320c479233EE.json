@@ -39,5 +39,6 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, the application is categorized as a project but it clearly mentions activities carried out by an individual i.e., \"I created a Dune Spell table\".",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "On-chain Data Analytics"
+  "pwCategorySuggestions": "On-chain Data Analytics",
+  "pwCategory": "Development & Infrastructure"
 }

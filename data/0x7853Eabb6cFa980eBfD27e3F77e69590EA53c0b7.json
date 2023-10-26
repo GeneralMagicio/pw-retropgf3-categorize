@@ -35,7 +35,9 @@
       "description": "I explained about OP Stack to 11,000 subscribers in my newsletter."
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "My foremost contribution to the Optimism Collective has been through educational outreach within the Japanese community. I have effectively disseminated information on various facets of Optimism via my newsletter, which now has 12,000 subscribers. The following are the view counts for key articles related to Optimism:\n- RetroPGF article: 5,310 views\n- OP Stimpack article: 8,200 views\n- OP Token article: 8,500 views\n- OP Stack article: 10,500 views\nSeveral readers tweeted that they first discovered RetroPGF through my educational content.\n\nIn addition to that. I participated in RetroPGF experiment #1 and I nominated the author of EIP 1559, which led to him receiving a grant of $12,225. This encouraged a new EIP to apply for RetroPGF.",
   "impactMetrics": [
     {
@@ -70,5 +72,6 @@
   "applicantAddress": "0x7853Eabb6cFa980eBfD27e3F77e69590EA53c0b7",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Content Creation, Community Building, Blockchain Education"
+  "pwCategorySuggestions": "Content Creation, Community Building, Blockchain Education",
+  "pwCategory": "Blockchain Education"
 }

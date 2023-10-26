@@ -44,5 +44,6 @@
   "applicantAddress": "0x3437f6ED844013852650851D769ae7939B5e0aec",
   "pwIsFlagged": false,
   "pwCategorySuggestions": "NFTs, Layer 2 Scaling, Blockchain Infrastructure",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Music & Audio NFTs"
 }

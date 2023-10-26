@@ -38,5 +38,6 @@
   "pwIsFlagged": false,
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, the application is categorized as a \"PROJECT\" but it should be \"INDIVIDUAL\" as the application talks about \"I\" and \"me\", indicating it's an individual's work.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "News & Marketing"
 }

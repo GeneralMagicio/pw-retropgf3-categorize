@@ -10,7 +10,10 @@
       "description": "YouTube Channel"
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "It's hard for me to measure the impact of my videos, but I think that I've helped many builders and enthusiasts understand the technology in this space better. I've done a few videos on ZK and Optimistic roll-ups, and I've received a lot of positive feedback on them. I've also tried to paint the picture for grand vision of the World Computer (Ethereum + L2s) concept, and I hope that has inspired some people. I have many more videos on the way along these lines!",
   "impactMetrics": [
     {
@@ -57,5 +60,6 @@
   "applicantAddress": "0x29FF795B015652EdFB9883bB83B3E9bE3c207e62",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Content Creation, Blockchain Education, Community Building"
+  "pwCategorySuggestions": "Content Creation, Blockchain Education, Community Building",
+  "pwCategory": "Blockchain Education"
 }

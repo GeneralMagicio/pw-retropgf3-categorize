@@ -40,5 +40,6 @@
   "applicantAddress": "0x9740f978937cF3A6faBFbfa80d5daEd1d31c5151",
   "pwCategorySuggestions": "Developer Ecosystem, Web3 Community Platform, NFT Aggregator",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "User Testing & Quality Assurance"
 }

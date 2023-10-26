@@ -45,5 +45,6 @@
   "applicantAddress": "0xC69f29c28EB5b8920F7B7F624D325d70B4dCc68e",
   "pwCategorySuggestions": "Community Building, Content Creation, Blockchain Infrastructure",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Community Building"
 }

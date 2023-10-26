@@ -63,5 +63,6 @@
   "applicantAddress": "0x333d0EBc54707c0a9D92caC749B3094c28a0E111",
   "pwIsFlagged": false,
   "pwCategorySuggestions": "NFTs",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Creative NFTs & Art"
 }

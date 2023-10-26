@@ -40,5 +40,6 @@
   "pwCategorySuggestions": "Community Building",
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for promising future impact and contributions to the development of the OP Project.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Community Building"
 }

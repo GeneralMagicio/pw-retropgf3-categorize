@@ -45,5 +45,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for violating the rule against \"Promises of future impact - promises of future deliverables or impact are not allowed.\" The applicant states \"I look forward to playing a bigger role moving into the future,\" which is a promise of future involvement and potential impact.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Layer 2 Scaling, Decentralized Finance (DeFi), Blockchain Gaming"
+  "pwCategorySuggestions": "Layer 2 Scaling, Decentralized Finance (DeFi), Blockchain Gaming",
+  "pwCategory": "Layer 2 & Cross-Chain Solutions"
 }

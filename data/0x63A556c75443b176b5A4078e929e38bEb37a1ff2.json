@@ -50,5 +50,6 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, the application is not correctly categorized. The application talks about \"I\" and \"my\", making it evident that it is an individual and not a project.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Smart Contract Platforms, Developer Ecosystem, User Experience & Adoption"
+  "pwCategorySuggestions": "Smart Contract Platforms, Developer Ecosystem, User Experience & Adoption",
+  "pwCategory": "User Experience & Adoption"
 }

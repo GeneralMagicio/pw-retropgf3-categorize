@@ -46,5 +46,6 @@
   "applicantAddress": "0x8fBFD3faBD443334B6f413b5931477d4DeBEAFa9",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, User Experience & Adoption, Wallet Management"
+  "pwCategorySuggestions": "Community Building, User Experience & Adoption, Wallet Management",
+  "pwCategory": "Community Building"
 }

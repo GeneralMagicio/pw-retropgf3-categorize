@@ -91,5 +91,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Decentralized Finance (DeFi)",
-  "pwRecategorizeToType": "INDIVIDUAL"
+  "pwRecategorizeToType": "INDIVIDUAL",
+  "pwCategory": "Fundraising & Capital Allocation"
 }

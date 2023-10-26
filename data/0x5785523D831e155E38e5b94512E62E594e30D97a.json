@@ -15,7 +15,9 @@
       "description": "mint"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "Using the network and its functionalities for the end user. Frequently using bridge and stake functions. Always seeking to develop the best of the optimism network and seek the best usability for users. always seeking to interact with the system as a whole to discover new functionalities\n",
   "impactMetrics": [
     {
@@ -51,5 +53,6 @@
   "applicantAddress": "0x5785523D831e155E38e5b94512E62E594e30D97a",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "User Experience & Adoption, Community Building, Smart Contract Platforms"
+  "pwCategorySuggestions": "User Experience & Adoption, Community Building, Smart Contract Platforms",
+  "pwCategory": "User Testing & Quality Assurance"
 }

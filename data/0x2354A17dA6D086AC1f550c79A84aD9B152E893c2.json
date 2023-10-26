@@ -47,5 +47,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "Flagged: The application contains spam text with repetition and gibberish.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, Web3 Community Platform, Blockchain Infrastructure"
+  "pwCategorySuggestions": "Community Building, Web3 Community Platform, Blockchain Infrastructure",
+  "pwCategory": "Blockchain Development"
 }

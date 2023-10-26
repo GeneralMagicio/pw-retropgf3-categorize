@@ -46,5 +46,6 @@
   "applicantAddress": "0xdBf0705fdfdA1361BD09C0339b6AE3B041a794f8",
   "pwCategorySuggestions": "Blockchain Infrastructure, Developer Ecosystem, User Experience & Adoption",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "User Testing & Quality Assurance"
 }

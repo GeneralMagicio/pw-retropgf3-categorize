@@ -39,5 +39,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for promising future impact and impact metrics do not indicate any measurable past contributions.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Wallet Management"
+  "pwCategorySuggestions": "Wallet Management",
+  "pwCategory": "User Testing & Quality Assurance"
 }

@@ -47,5 +47,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "Flag the application - The applicant promises future impact by saying they're promoting to onboard more people which goes against rule 1.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, User Experience & Adoption, Tokenization Platforms"
+  "pwCategorySuggestions": "Community Building, User Experience & Adoption, Tokenization Platforms",
+  "pwCategory": "User Experience & Adoption"
 }

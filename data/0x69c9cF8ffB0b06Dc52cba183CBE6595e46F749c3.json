@@ -51,5 +51,6 @@
   "pwCategorySuggestions": "Governance & Tokens, User Experience & Adoption, Developer Ecosystem",
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged because it violates the application rule which bars the usage of languages other than English.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Governance & Tokenomics"
 }

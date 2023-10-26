@@ -10,7 +10,9 @@
       "description": "Link to my Telegram Channel"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "In the past year, I've educated over 200 people in Cambodia on Optimistic Rollups and web3 through interactive workshops. Attendees experience Optimism's potential hands-on, setting up wallets, minting NFTs, and learning about blockchain, dApps, DAOs, DeFi, security, contracts, and self-custody. I emphasize decentralization and financial access for the unbanked, equipping them with practical skills to begin building on Optimism. I foster continued learning through Khmer online communities, bolstering local adoption, cultivating a vibrant Optimism community, introducing web3 benefits to newcomers, and empowering attendees to create impactful decentralized solutions on Optimism. My efforts enhance diversity and inclusivity within the global Optimism community.",
   "impactMetrics": [
     {
@@ -42,5 +44,6 @@
   "applicantAddress": "0xDf0eb1e4480E9aa00F7C16994ECf0DeDde17C024",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Blockchain Education, Community Building, Web3 Community Platform"
+  "pwCategorySuggestions": "Blockchain Education, Community Building, Web3 Community Platform",
+  "pwCategory": "Blockchain Education"
 }

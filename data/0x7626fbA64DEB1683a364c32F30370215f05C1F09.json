@@ -40,7 +40,9 @@
       "description": "articles"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "I actively joined OP governance and I deposited funds to yield on OP network. So I know the advantages of OP network and I'd like to share them with my readers. I also encouraged my 27k followers and let them to participate in OP governance and collective as well as oddessy.\nhttps://vote.optimism.io/delegate/960908.eth",
   "impactMetrics": [
     {
@@ -83,5 +85,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged because it violates rule 1 of the grant program: the applicant promises future contributions and impact in the statement, \"In the future, I will post OP development and its news on my WeChat platform and let more Chinese developers and lovers know Optimism network.\"",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, User Experience & Adoption, End-User Experience"
+  "pwCategorySuggestions": "Community Building, User Experience & Adoption, End-User Experience",
+  "pwCategory": "Community Building"
 }

@@ -45,5 +45,6 @@
   "applicantAddress": "0xE8c11D0568102c19c81a546a215498678e5796aC",
   "pwCategorySuggestions": "Governance & Tokens, Community Building, Web3 Community Platform",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Governance & Tokenomics"
 }

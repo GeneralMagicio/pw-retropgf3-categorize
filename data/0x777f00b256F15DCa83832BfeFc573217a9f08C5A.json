@@ -10,7 +10,10 @@
       "description": "On"
     }
   ],
-  "impactCategory": ["COLLECTIVE_GOVERNANCE", "OP_STACK"],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "OP_STACK"
+  ],
   "impactDescription": "I told people about the optimism.As there are many rollups chains ,scaling solutions in the market ,.I told people about the optimism collective it's governance  ,it security and reliability through article published in my website and compared it with it other solution and told people about it's advantages",
   "impactMetrics": [
     {
@@ -40,5 +43,6 @@
   "applicantAddress": "0x777f00b256F15DCa83832BfeFc573217a9f08C5A",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Layer 2 Scaling"
+  "pwCategorySuggestions": "Layer 2 Scaling",
+  "pwCategory": "Layer 2 & Cross-Chain Solutions"
 }

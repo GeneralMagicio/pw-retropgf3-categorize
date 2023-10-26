@@ -55,5 +55,6 @@
   "pwCategorySuggestions": "Community Building, NFT Minting, User Experience & Adoption",
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for violating rule 10. The applicant's contribution is mainly using the OP Mainnet for transactions, which falls under user interactions, and this is explicitly mentioned as not within the scope to be rewarded in RetroPGF 3.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Community Building"
 }

@@ -39,5 +39,6 @@
   "applicantAddress": "0x3D0E2776ab8F879C1A77E7EA899De05062BAfC65",
   "pwCategorySuggestions": "Smart Contract Platforms",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Layer 2 & Cross-Chain Solutions"
 }

@@ -43,5 +43,6 @@
   "applicantAddress": "0xB780c4C3C83696ac8E5c9FD974A7a111184d4EaB",
   "pwCategorySuggestions": "Blockchain Infrastructure",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Development & Infrastructure"
 }

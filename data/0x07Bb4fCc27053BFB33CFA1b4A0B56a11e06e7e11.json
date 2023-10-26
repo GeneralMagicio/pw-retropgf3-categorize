@@ -210,7 +210,7 @@
     },
     {
       "description": "Thoughts and prayers for alt L1s",
-      "number": 4.069460496408431e55,
+      "number": 4.069460496408431e+55,
       "url": "https://they_need_all_the_help_they_can_get"
     },
     {
@@ -236,5 +236,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for false statements and deception, as the applicant admits to not having done any work worthy of a retroactive reward.",
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Smart Contract Platforms, Blockchain Infrastructure",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Community Building"
 }

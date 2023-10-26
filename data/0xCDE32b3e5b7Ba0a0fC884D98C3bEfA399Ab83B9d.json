@@ -47,5 +47,6 @@
   "applicantAddress": "0xCDE32b3e5b7Ba0a0fC884D98C3bEfA399Ab83B9d",
   "pwCategorySuggestions": "Community Building, Governance & Tokens, Developer Ecosystem",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "User Testing & Quality Assurance"
 }

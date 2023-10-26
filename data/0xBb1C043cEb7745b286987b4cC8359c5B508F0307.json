@@ -15,7 +15,9 @@
       "description": "My X profile for writing review artists, music"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "I hope that the extremely easy and cheap collecting/minting of music on the OP chain will contribute to the development and expansion of the web3 music industry, and create a fair and diverse environment for artists, creators, contributing to helping the creative economy grow stronger.\n\nAs a reviewer, I hope to bring the public useful information about music, artists and creators, helping more people know and participate in the onchain music movement in particular and creative economy in general as well as supporting artists and creators, and demonstrating the great potential of OP chain, showing everyone the great advantages of OP chain and worthy of being an L2 blockchain today leading with a lot of potential for future development.",
   "impactMetrics": [
     {
@@ -50,5 +52,6 @@
   "applicantAddress": "0xBb1C043cEb7745b286987b4cC8359c5B508F0307",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Tokenization Platforms"
+  "pwCategorySuggestions": "Tokenization Platforms",
+  "pwCategory": "Content Creation & Media"
 }

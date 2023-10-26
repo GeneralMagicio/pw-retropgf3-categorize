@@ -41,5 +41,6 @@
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Governance & Tokens, Developer Ecosystem",
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for rule 2: false statements & deception, because the application does not provide clear and truthful information about the contributions or impact of the applicant.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Fundraising & Capital Allocation"
 }

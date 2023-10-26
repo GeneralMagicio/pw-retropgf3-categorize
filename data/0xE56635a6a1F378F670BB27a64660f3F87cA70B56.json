@@ -37,5 +37,6 @@
   "applicantAddress": "0xE56635a6a1F378F670BB27a64660f3F87cA70B56",
   "pwCategorySuggestions": "Community Building, User Experience & Adoption",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "User Testing & Quality Assurance"
 }

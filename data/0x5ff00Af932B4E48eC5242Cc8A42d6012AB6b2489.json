@@ -40,5 +40,6 @@
   "applicantAddress": "0x5ff00Af932B4E48eC5242Cc8A42d6012AB6b2489",
   "pwCategorySuggestions": "Community Building, Positive Messaging, Mentoring",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Community Building"
 }

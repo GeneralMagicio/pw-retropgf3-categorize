@@ -47,5 +47,6 @@
   "applicantAddress": "0x9A00781946447D4d9c5a7bc8C46C47bD31797165",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Blockchain Education, Community Building, Decentralized Finance (DeFi)"
+  "pwCategorySuggestions": "Blockchain Education, Community Building, Decentralized Finance (DeFi)",
+  "pwCategory": "Blockchain Education"
 }

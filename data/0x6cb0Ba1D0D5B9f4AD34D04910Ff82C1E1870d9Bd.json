@@ -48,5 +48,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for violating rule 1: Promises of future impact - promises of future deliverables or impact are not allowed. The applicant's contribution and impact descriptions only express a desire for participating and hopes for the future, but do not detail any actual past contributions or impact.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, User Experience & Adoption, Web3 Community Platform"
+  "pwCategorySuggestions": "Community Building, User Experience & Adoption, Web3 Community Platform",
+  "pwCategory": "The provided project description does not contain any specific information about the actual project, its goals, or its functions in the Web3/blockchain domain. Therefore, it's not possible to assign any category from the provided list accurately. Please provide a detailed project description."
 }

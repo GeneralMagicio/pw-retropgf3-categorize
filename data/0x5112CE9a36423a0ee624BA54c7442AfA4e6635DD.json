@@ -42,5 +42,6 @@
   "pwIsFlagged": false,
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO. The application is incorrectly categorized as it mentions \"I\" and \"me\", therefore it should be categorized as an INDIVIDUAL.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Blockchain Development"
 }

@@ -10,7 +10,9 @@
       "description": "My github repo"
     }
   ],
-  "impactCategory": ["COLLECTIVE_GOVERNANCE"],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
   "impactDescription": "Test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test",
   "impactMetrics": [
     {
@@ -34,5 +36,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for containing spam since the contribution and impact descriptions are irrelevant and filled with repetitive filler words.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Blockchain Development"
+  "pwCategorySuggestions": "Blockchain Development",
+  "pwCategory": "The description provided does not give any information about the project. Please provide a valid project description."
 }

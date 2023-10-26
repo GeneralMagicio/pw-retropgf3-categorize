@@ -39,5 +39,6 @@
   "pwCategorySuggestions": "Smart Contract Platforms, Layer 2 Scaling",
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for violating rule number 1. The applicant hopes for a retroactive reward but does not provide concrete evidence of past verifiable contributions or impact.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Blockchain Development"
 }

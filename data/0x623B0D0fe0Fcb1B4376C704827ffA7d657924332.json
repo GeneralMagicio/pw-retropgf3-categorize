@@ -45,5 +45,6 @@
   "applicantAddress": "0x623B0D0fe0Fcb1B4376C704827ffA7d657924332",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Layer 2 Scaling, Tokenization Platforms, Governance & Tokens"
+  "pwCategorySuggestions": "Layer 2 Scaling, Tokenization Platforms, Governance & Tokens",
+  "pwCategory": "Community Building"
 }

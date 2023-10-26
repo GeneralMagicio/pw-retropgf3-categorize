@@ -37,5 +37,6 @@
   "applicantAddress": "0x5310129d96e2f722032Cb5F99381797AD1eA796c",
   "pwCategorySuggestions": "Blockchain Education, Community Building, Governance & Tokens",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Blockchain Education"
 }

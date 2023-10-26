@@ -46,5 +46,6 @@
   "applicantAddress": "0xAa87a3a6290E2739bB7C87A0D6d6AB794CB2DB23",
   "pwCategorySuggestions": "Community Building, Governance & Tokens, End-User Experience",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Mentorship & Resources"
 }

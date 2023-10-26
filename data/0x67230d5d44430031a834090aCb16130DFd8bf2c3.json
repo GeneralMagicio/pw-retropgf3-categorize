@@ -10,7 +10,10 @@
       "description": "DeBank"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION", "OP_STACK"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
   "impactDescription": "Promote, suggest, use the Optimismblockchain. Work that provided impact to end users in the Optimism Collective, or helped bring new end users into the Collective. Work that increased the efficiency, security, resilience and awareness of the OP Stack",
   "impactMetrics": [
     {
@@ -43,5 +46,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "Flagged: The application promises future deliverables such as submitting suggestions to the advertising team and promoting Optimism, which is against grant program rule 1.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Smart Contract Platforms, Developer Ecosystem, Community Building"
+  "pwCategorySuggestions": "Smart Contract Platforms, Developer Ecosystem, Community Building",
+  "pwCategory": "Community Building"
 }

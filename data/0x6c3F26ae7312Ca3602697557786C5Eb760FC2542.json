@@ -107,5 +107,6 @@
   "applicantAddress": "0x6c3F26ae7312Ca3602697557786C5Eb760FC2542",
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Non-Fungible Tokens (NFTs), Community Building",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Community Building"
 }

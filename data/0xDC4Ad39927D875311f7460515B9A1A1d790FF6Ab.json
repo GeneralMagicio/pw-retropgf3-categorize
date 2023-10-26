@@ -40,5 +40,6 @@
   "applicantAddress": "0xDC4Ad39927D875311f7460515B9A1A1d790FF6Ab",
   "pwCategorySuggestions": "Smart Contract Platforms, Community Building, Partnership",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Blockchain Development"
 }

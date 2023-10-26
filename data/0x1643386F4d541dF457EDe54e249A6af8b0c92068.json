@@ -40,5 +40,6 @@
   "applicantAddress": "0x1643386F4d541dF457EDe54e249A6af8b0c92068",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Layer 2 Scaling"
+  "pwCategorySuggestions": "Layer 2 Scaling",
+  "pwCategory": "Layer 2 & Cross-Chain Solutions"
 }

@@ -41,5 +41,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "Flag the application. The application is ambiguous and does not clearly specify the contributions or impact the individual has made in the Web3/blockchain space.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, User Experience & Adoption, Blockchain Education"
+  "pwCategorySuggestions": "Community Building, User Experience & Adoption, Blockchain Education",
+  "pwCategory": "Blockchain Education"
 }

@@ -15,7 +15,10 @@
       "description": "good project "
     }
   ],
-  "impactCategory": ["COLLECTIVE_GOVERNANCE", "OP_STACK"],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "OP_STACK"
+  ],
   "impactDescription": "I will share this project with my friends, my family, my relatives.  I will also contribute to participate in this project and pay attention every day to the development of this project.  I hope this project will continue to develop and become a good project.",
   "impactMetrics": [
     {
@@ -40,5 +43,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for promising future impact which is against the rules of the grant program.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, Content Creation, User Experience & Adoption."
+  "pwCategorySuggestions": "Community Building, Content Creation, User Experience & Adoption.",
+  "pwCategory": "Community Building"
 }

@@ -10,7 +10,10 @@
       "description": "https://snapshot.org/#/stgdao.eth"
     }
   ],
-  "impactCategory": ["COLLECTIVE_GOVERNANCE", "DEVELOPER_ECOSYSTEM"],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM"
+  ],
   "impactDescription": "I try to be active in the ecosystem and community, and I also try to run the beta testnet within the optimism ecosystem itself. starting from voting profosal, and beridge. maybe only a little, but I hope I can contribute more to this big ecosystem on crypto",
   "impactMetrics": [
     {
@@ -33,5 +36,6 @@
   "applicantAddress": "0xfa33A22d2CC6F497888036F3B34Dde59e6E79533",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, Developer Ecosystem, Governance & Tokens"
+  "pwCategorySuggestions": "Community Building, Developer Ecosystem, Governance & Tokens",
+  "pwCategory": "Governance & Tokenomics"
 }

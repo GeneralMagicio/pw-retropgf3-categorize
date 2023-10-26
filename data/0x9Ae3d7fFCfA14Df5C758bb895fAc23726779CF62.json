@@ -45,5 +45,6 @@
   "pwCategorySuggestions": "Community Building, NFT Aggregator, Governance & Tokens",
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for violating rule 1 as the applicant made promises of future deliverables or impact.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Community Building"
 }

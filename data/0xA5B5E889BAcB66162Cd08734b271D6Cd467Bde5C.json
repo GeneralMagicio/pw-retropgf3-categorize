@@ -39,5 +39,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "Yes, this application should be flagged as it violated rule 10 (outside of the RetroPGF scope) by attributing the contributions solely to sending transactions on OP Mainnet which is clearly stated as not in scope to be rewarded in RetroPGF 3.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Web3 Community Platform, Optimism Ecosystem, Governance & Tokens"
+  "pwCategorySuggestions": "Web3 Community Platform, Optimism Ecosystem, Governance & Tokens",
+  "pwCategory": "Governance & Tokenomics"
 }

@@ -45,5 +45,6 @@
   "applicantAddress": "0xA5F03C8f253bFF10EdDf5059d0796CfF5A3f539a",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Content Creation, Developer Ecosystem, User Experience & Adoption"
+  "pwCategorySuggestions": "Content Creation, Developer Ecosystem, User Experience & Adoption",
+  "pwCategory": "User Experience & Adoption"
 }

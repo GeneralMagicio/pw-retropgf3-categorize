@@ -15,7 +15,9 @@
       "description": "an article, (2) step-by-step procedure for starting low-cost BASE NFTs"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "(1) By creating open edition NFTs\nI created 2 manga on mirror (OP), 3 mints.I created 3 OP Chain Open Edition NFTs, 17 mints.I also made 5 BASE chain open editions, 45 mints.Total 64 mints.\n\nIt was 12 people who first got onboarded to OP/BASE to buy my work. That's 19%.\n\nOut of 61mint, 24 people repeat and buy my works, and the repeat rate is 39%. My work contributes to promoting the use of OP/BASE, rather than just one-time use.\n\n\n(2) I have written a step-by-step procedure\nI wrote a step-by-step procedure for starting low-cost BASE NFTs, and the tweet received over 3,700 views.",
   "impactMetrics": [
     {
@@ -95,5 +97,6 @@
   "applicantAddress": "0xc4Da779262E5011Cab487E102357fBB85eF7C08F",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "NFT Aggregator"
+  "pwCategorySuggestions": "NFT Aggregator",
+  "pwCategory": "Creative NFTs & Art"
 }

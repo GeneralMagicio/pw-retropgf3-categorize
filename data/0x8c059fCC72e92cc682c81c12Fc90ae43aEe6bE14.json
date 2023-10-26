@@ -49,5 +49,6 @@
   "applicantAddress": "0x8c059fCC72e92cc682c81c12Fc90ae43aEe6bE14",
   "pwCategorySuggestions": "Community Building, Developer Ecosystem, Governance & Tokens",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Community Building"
 }

@@ -39,5 +39,6 @@
   "applicantAddress": "0x3fA6F262B25945112F4890CDD46204743A579960",
   "pwCategorySuggestions": "NFTs, Music Creation, Social Networking",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Music & Audio NFTs"
 }

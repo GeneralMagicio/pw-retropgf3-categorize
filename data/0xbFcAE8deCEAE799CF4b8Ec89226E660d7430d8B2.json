@@ -45,5 +45,6 @@
   "pwCategorySuggestions": "Governance Tokens, Tokenization Platforms, Blockchain Education",
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged because it contains empty fields under \"contributionDescription\" and \"impactDescription\" which constitute incomplete or false information.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "The project description is missing. Therefore, without sufficient information, it is impossible to accurately assign a category."
 }

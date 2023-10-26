@@ -55,5 +55,6 @@
   "applicantAddress": "0x591a150574f49245E0D513901A72DaF005E6f997",
   "pwCategorySuggestions": "Community Building, User Experience & Adoption, Blockchain Infrastructure",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "User Experience & Adoption"
 }

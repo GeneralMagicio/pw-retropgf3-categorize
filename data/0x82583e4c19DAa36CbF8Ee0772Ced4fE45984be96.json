@@ -47,5 +47,6 @@
   "pwCategorySuggestions": "Community Building, Blockchain Education, Social Impact",
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for violating rule 11: Spam, due to the repeated content in the application; This repetition does not provide unique or additional information, qualifying the content as spam.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Blockchain Education"
 }

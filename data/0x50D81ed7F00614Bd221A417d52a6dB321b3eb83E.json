@@ -10,7 +10,9 @@
       "description": "LFG"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "Of course I chose the end user experience & adoption category, because it will have an impact on the situation, such as maybe because of fud or not having capital, and that will cause end users, but I will prove it and give my experience so that they trust it again for new users or old user",
   "impactMetrics": [
     {
@@ -42,5 +44,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged due to rule violation 1: Promises of future impact. The applicant states, \"I really look forward to RetroPGF becoming more famous in the future\" and \"I hope I can also get prizes from it,\" which can be considered promises of future deliverables or impact.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "End-User Experience, Adoption"
+  "pwCategorySuggestions": "End-User Experience, Adoption",
+  "pwCategory": "User Experience & Adoption"
 }

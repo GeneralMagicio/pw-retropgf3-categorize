@@ -45,7 +45,9 @@
       "description": "a16z 2023 State of Crypto Report (translate in thai)"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "it's pretty hard to measure the impact of what i did as mention above i mainly focus on Ethereum and Layer 2 ecosystems content, not Optimism specific which i think Ethereum and Layer 2 will play crucial role in the future and become infrastructure for financial systems, helping thai people become pioneer of the crypto world, better understanding of Ethereum and Layer 2 ecosystems. \n\nI do believe that what i did more or less is help other thai people more appreciate about How good Ethereum is, How sustain Ethereum is and hope that my content inspire other to learn more about crypto.",
   "impactMetrics": [
     {
@@ -70,5 +72,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "Flagged: The application violates rule 10 as the contributions mentioned do not have a clear relationship to Optimism and are not specific to Optimism.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Blockchain Education, Content Creation, Community Building"
+  "pwCategorySuggestions": "Blockchain Education, Content Creation, Community Building",
+  "pwCategory": "Blockchain Education"
 }

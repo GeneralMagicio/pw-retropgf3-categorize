@@ -46,5 +46,6 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, this seems to be an INDIVIDUAL applicant as the bio and descriptions use singular pronouns such as \"I\" and \"me\".",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, User Experience & Adoption, Cryptocurrency Services"
+  "pwCategorySuggestions": "Community Building, User Experience & Adoption, Cryptocurrency Services",
+  "pwCategory": "The project description provided is unclear and does not offer enough information to adequately assign a category from the provided list."
 }

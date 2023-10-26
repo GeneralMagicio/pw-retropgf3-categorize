@@ -37,5 +37,6 @@
   "pwCategorySuggestions": "Content Creation, Digital Identity, Cryptocurrency Services",
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged as it violates rule 11 as the application includes content that is not in English.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Identity & Privacy Management"
 }

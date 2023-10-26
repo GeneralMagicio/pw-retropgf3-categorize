@@ -45,5 +45,6 @@
   "pwCategorySuggestions": "Content Creation, User Experience & Adoption, Media Production",
   "pwIsFlagged": true,
   "pwFlaggedReason": "Flagged for violating the rules: 1. Promises of future impact - as the contribution description and impact description are left blank, this suggests there may be only promises of future deliverables or impact; and 11. Spam - as the application contains irrelevant answers.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Content Creation & Media"
 }

@@ -47,5 +47,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for promises of future impact and for potential false statements and deception. The applicant makes assertions about the improvement of the blockchain in the future without providing concrete evidence or past contribution to back up the claims.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Layer 2 Scaling, Decentralized Finance (DeFi), Community Building"
+  "pwCategorySuggestions": "Layer 2 Scaling, Decentralized Finance (DeFi), Community Building",
+  "pwCategory": "Layer 2 & Cross-Chain Solutions"
 }

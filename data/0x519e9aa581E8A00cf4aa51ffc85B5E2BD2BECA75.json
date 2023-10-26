@@ -218,5 +218,6 @@
   "pwIsFlagged": false,
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO. The application is not correctly categorized as it should be under \"INDIVIDUAL\" because the applicant refers to themselves as \"I\" in the bio section.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Blockchain Education"
 }

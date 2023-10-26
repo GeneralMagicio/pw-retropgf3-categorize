@@ -52,5 +52,6 @@
   "applicantAddress": "0x2117085E7e4eE35825A9C71bbE46AAd8c01789f3",
   "pwIsFlagged": false,
   "pwCategorySuggestions": "Developer Ecosystem, Education, Community Building",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Developer Ecosystem"
 }

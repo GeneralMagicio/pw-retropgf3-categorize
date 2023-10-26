@@ -60,5 +60,6 @@
   "applicantAddress": "0x2Db4625A9eCe077CB432D1A84b85b03c15721BE6",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Finance (DeFi), Governance & Tokens, Community Building"
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Governance & Tokens, Community Building",
+  "pwCategory": "Governance & Tokenomics"
 }

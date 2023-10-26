@@ -44,5 +44,6 @@
   "applicantAddress": "0x24Bd63fc60C70504e1C0F5FDfae5442967da77F5",
   "pwIsFlagged": false,
   "pwCategorySuggestions": "Tokenization Platforms, Decentralized Finance (DeFi), Community Building",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Music & Audio NFTs"
 }

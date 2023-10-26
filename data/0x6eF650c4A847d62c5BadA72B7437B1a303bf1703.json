@@ -10,7 +10,9 @@
       "description": "dsa"
     }
   ],
-  "impactCategory": ["OP_STACK"],
+  "impactCategory": [
+    "OP_STACK"
+  ],
   "impactDescription": "111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
   "impactMetrics": [
     {
@@ -35,5 +37,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for spam as the contribution description and impact description are incomprehensible and filled with repeated characters, which doesn't provide any meaningful or relevant information.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Tokenization Platforms"
+  "pwCategorySuggestions": "Tokenization Platforms",
+  "pwCategory": "The description provided for the project is not meaningful or specific enough to assign it to a category. Please provide a detailed and comprehensive description of the project."
 }

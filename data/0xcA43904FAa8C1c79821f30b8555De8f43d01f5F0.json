@@ -46,5 +46,6 @@
   "pwCategorySuggestions": "Blockchain Infrastructure, Developer Ecosystem, Governance & Tokens",
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged because it is in a language other than English.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Blockchain Development"
 }

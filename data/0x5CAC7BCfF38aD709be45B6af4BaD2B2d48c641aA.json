@@ -44,5 +44,6 @@
   "applicantAddress": "0x5CAC7BCfF38aD709be45B6af4BaD2B2d48c641aA",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "NFTs, Community Building, Social Promotions"
+  "pwCategorySuggestions": "NFTs, Community Building, Social Promotions",
+  "pwCategory": "Community Building"
 }

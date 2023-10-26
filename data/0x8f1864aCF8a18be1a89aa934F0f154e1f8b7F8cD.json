@@ -10,7 +10,9 @@
       "description": "website technology education"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "i can write article to share optimism ecosystem. I once wrote an article related to blockchain, and introduced it to new users in my country. Maybe I can also do the same thing in Optimism as I did previously in another project. Maybe this will add new enthusiasts who will export an ecosystem of optimism.",
   "impactMetrics": [
     {
@@ -42,5 +44,6 @@
   "applicantAddress": "0x8f1864aCF8a18be1a89aa934F0f154e1f8b7F8cD",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Content Creation, Community Building, User Experience & Adoption"
+  "pwCategorySuggestions": "Content Creation, Community Building, User Experience & Adoption",
+  "pwCategory": "Content Creation & Media"
 }

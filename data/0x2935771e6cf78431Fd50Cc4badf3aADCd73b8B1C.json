@@ -44,5 +44,6 @@
   "applicantAddress": "0x2935771e6cf78431Fd50Cc4badf3aADCd73b8B1C",
   "pwIsFlagged": false,
   "pwCategorySuggestions": "Education and Adoption, Web3 Community Platform, Developer Ecosystem",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Blockchain Education"
 }

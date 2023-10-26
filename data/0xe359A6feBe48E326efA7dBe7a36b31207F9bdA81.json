@@ -10,7 +10,9 @@
       "description": "The Impact of Computer Science Students on the Optimism Ecosystem"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "Sebagai Pengalaman & Adopsi Pengguna Akhir di Optimism Collective, saya memiliki peran penting dalam meningkatkan kepuasan pengguna, mengedukasi pengguna tentang teknologi Optimism, mendatangkan pengguna baru, mengumpulkan umpan balik, dan mendorong adopsi teknologi ini. Terus berinovasi, mendengarkan umpan balik, dan berkolaborasi untuk mencapai tujuan bersama.",
   "impactMetrics": [
     {
@@ -41,5 +43,6 @@
   "applicantAddress": "0xe359A6feBe48E326efA7dBe7a36b31207F9bdA81",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Blockchain Education, User Experience & Adoption, Community Building"
+  "pwCategorySuggestions": "Blockchain Education, User Experience & Adoption, Community Building",
+  "pwCategory": "Blockchain Education"
 }

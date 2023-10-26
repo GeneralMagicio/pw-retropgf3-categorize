@@ -80,5 +80,6 @@
   "applicantAddress": "0x7AA3784b1B80A059B5fa2475bbCFe176d17C19e8",
   "pwCategorySuggestions": "Community Building, NFT Aggregator, Wallet Management",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Community Building"
 }

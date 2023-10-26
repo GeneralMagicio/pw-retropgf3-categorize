@@ -10,7 +10,10 @@
       "description": "Excelsheet"
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "                                                                                                                                                                                                                                                                   ",
   "impactMetrics": [
     {
@@ -36,5 +39,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged because it lacks the required detailed descriptions about the contribution and its impact.",
   "pwCategorySuggestions": "Tokenization Platforms, Governance Tokens, Media Production",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "The provided project description does not contain any information about the project. Please provide a valid description."
 }

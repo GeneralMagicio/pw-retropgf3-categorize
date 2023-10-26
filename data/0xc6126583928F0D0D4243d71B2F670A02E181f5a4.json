@@ -38,5 +38,6 @@
   "pwCategorySuggestions": "Community Building, User Experience & Adoption, Governance & Tokens",
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for promising future impact which is not allowed according to the rules.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Community Building"
 }

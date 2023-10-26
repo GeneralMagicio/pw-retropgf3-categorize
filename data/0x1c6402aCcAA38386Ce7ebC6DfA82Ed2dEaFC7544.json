@@ -15,7 +15,9 @@
       "description": "A detailed explanation of how the optimism Blockchain works"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "Enlightening, guiding and bringing the unreached to Optimism using the power of content and imaged description to preach Web3 and the power of decentralization to the undeveloped communities. Education and Learning, Advocacy,Networking bringing  developers, entrepreneurs, investors to the Optimism ecosystem.",
   "impactMetrics": [
     {
@@ -52,5 +54,6 @@
   "applicantAddress": "0x1c6402aCcAA38386Ce7ebC6DfA82Ed2dEaFC7544",
   "pwIsFlagged": false,
   "pwCategorySuggestions": "Blockchain Education, Community Building, Decentralized Finance (DeFi)",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Blockchain Education"
 }

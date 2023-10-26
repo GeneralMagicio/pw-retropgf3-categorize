@@ -56,5 +56,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged because it is in a language other than English.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Blockchain Gaming, User Experience & Adoption, Developer Ecosystem"
+  "pwCategorySuggestions": "Blockchain Gaming, User Experience & Adoption, Developer Ecosystem",
+  "pwCategory": "User Testing & Quality Assurance"
 }

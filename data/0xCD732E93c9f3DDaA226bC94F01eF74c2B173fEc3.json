@@ -68,5 +68,6 @@
   "pwCategorySuggestions": "Community Building, User Experience & Adoption, Developer Ecosystem",
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for promising future impact, which is a violation of rule 1 of the grant program rules.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Community Building"
 }

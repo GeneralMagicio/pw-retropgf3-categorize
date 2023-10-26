@@ -46,5 +46,6 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, it is not correctly categorized. Despite the \"applicantType\" field being marked as \"PROJECT\", the applicant uses first person pronouns such as \"I\" and \"we\" indicating that the applicant may be an individual.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, Content Creation, Media Production"
+  "pwCategorySuggestions": "Community Building, Content Creation, Media Production",
+  "pwCategory": "Content Creation & Media"
 }

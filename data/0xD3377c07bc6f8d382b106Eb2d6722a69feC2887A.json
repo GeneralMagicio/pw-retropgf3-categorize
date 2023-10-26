@@ -38,5 +38,6 @@
   "pwCategorySuggestions": "Community Building, Tokenization Platforms",
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for violating rule 1: promises of future impact are not allowed. The applicant states \"We hope that in the future the coin price will increase and we will be very happy. Hopefully in 2024 things will improve for the crypto world.\" which is a clear violation of this rule.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Community Building"
 }

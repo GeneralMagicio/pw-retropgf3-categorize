@@ -42,5 +42,6 @@
   "applicantAddress": "0x7C1461296CbBa0d92BACa619253eF5B797e12CFf",
   "pwCategorySuggestions": "Smart Contract Platforms, Community Building, Developer Ecosystem",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Development & Infrastructure"
 }

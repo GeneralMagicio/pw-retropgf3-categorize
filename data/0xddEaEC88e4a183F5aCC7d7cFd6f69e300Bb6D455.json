@@ -36,5 +36,6 @@
   "applicantAddress": "0xddEaEC88e4a183F5aCC7d7cFd6f69e300Bb6D455",
   "pwCategorySuggestions": "Content Creation, Community Building, User Experience & Adoption",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Blockchain Development"
 }
