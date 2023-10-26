@@ -53,5 +53,6 @@
   "applicantAddress": "0x7fD0030D3D21d17Fb4056DE319faD67A853b3C20",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Hardware Wallets, User Experience & Adoption, Smart Contract Platforms"
+  "pwCategorySuggestions": "Hardware Wallets, User Experience & Adoption, Smart Contract Platforms",
+  "pwCategory": "Wallet & Key Management"
 }

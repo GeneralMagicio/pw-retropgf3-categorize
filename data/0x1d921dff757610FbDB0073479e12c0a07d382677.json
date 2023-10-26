@@ -92,5 +92,6 @@
   "applicantAddress": "0x1d921dff757610FbDB0073479e12c0a07d382677",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Smart Contract Platforms, Tokenization Platforms, Blockchain Infrastructure"
+  "pwCategorySuggestions": "Smart Contract Platforms, Tokenization Platforms, Blockchain Infrastructure",
+  "pwCategory": "Messaging & Social Networks"
 }

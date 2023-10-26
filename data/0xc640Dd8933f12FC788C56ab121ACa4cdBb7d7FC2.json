@@ -82,5 +82,6 @@
   "applicantAddress": "0xc640Dd8933f12FC788C56ab121ACa4cdBb7d7FC2",
   "pwCategorySuggestions": "Blockchain Gaming, Smart Contract Platforms, Developer Ecosystem",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Gaming & Entertainment"
 }

@@ -10,7 +10,10 @@
       "description": "Curvegrid homepage"
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "Curvegrid’s MultiBaas blockchain middleware helps companies and developers build on Optimism and Base up to 10x faster than doing so from scratch. After adding support for Optimism into our MultiBaas blockchain middleware, we have continued to promote it within our user base as a credible platform to build DApps on or migrate them to. We have also helped bring at least one major DApp onto Base by adding support to MultiBaas. In addition, we have re-verified a Hardhat gas issue broadly affecting the Base Goerli Testnet (https://github.com/NomicFoundation/hardhat/issues/4190#issuecomment-1763641843) and provided notes to both the Optimism and Base teams on our experiences with it.",
   "impactMetrics": [
     {
@@ -53,5 +56,6 @@
   "applicantAddress": "0xfa49187F19edeEb7df7868Db82F2D723440B6C6E",
   "pwCategorySuggestions": "Smart Contract Platforms, Blockchain Infrastructure, Developer Ecosystem",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Developer Tools - Other"
 }

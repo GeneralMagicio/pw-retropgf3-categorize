@@ -55,5 +55,6 @@
   "applicantAddress": "0x50b6a381993834C623b2Bded6825824C936E48bB",
   "pwCategorySuggestions": "Content Creation, Community Building, Marketing Support",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Community Building"
 }

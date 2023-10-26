@@ -67,5 +67,6 @@
   "applicantAddress": "0x9C8cc9735005A7424eBF868105fCC93adf6073b0",
   "pwCategorySuggestions": "Content creation, Community building, User experience & Adoption",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Blockchain News & Media"
 }

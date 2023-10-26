@@ -10,7 +10,9 @@
       "description": "The GitHub organization hosting Alloy libraries"
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
   "impactDescription": "Alloy's integration into the Optimism Collective can significantly elevate the development and operational facets of the Optimism Layer 2 scaling solution, providing developers with a robust, efficient, and secure toolkit for Ethereum application development.\nLeveraging Alloy’s high-performance libraries and well-tested components, developers can optimize the runtime performance and security of applications on the Optimism Layer 2.\nThis not only enhances the efficiency and scalability of applications developed on the platform but also potentially attracts a wider developer community, fostering ecosystem growth, and enabling the Optimism Collective to scale its vision and offerings to a broader user base, thereby solidifying its position in the blockchain and Ethereum development space.",
   "impactMetrics": [
     {
@@ -33,5 +35,6 @@
   "applicantAddress": "0x678bDe72881AC85ad22FF536F06673CBF97691F8",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Smart Contract Platforms, Blockchain Infrastructure"
+  "pwCategorySuggestions": "Smart Contract Platforms, Blockchain Infrastructure",
+  "pwCategory": "Developer Tools - Smart Contracts"
 }

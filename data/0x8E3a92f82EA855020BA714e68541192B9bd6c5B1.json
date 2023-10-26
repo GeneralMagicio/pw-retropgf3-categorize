@@ -25,7 +25,9 @@
       "description": "Slides used during the 6 week training"
     }
   ],
-  "impactCategory": ["COLLECTIVE_GOVERNANCE"],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
   "impactDescription": "We trained and supported the development of soft skills in active participants of the community. We are directly improving governance accessibility by supporting the design of alternatives to deal with conflicting cases and code of Conduct enforcement processes.",
   "impactMetrics": [
     {
@@ -83,5 +85,6 @@
   "applicantAddress": "0x8E3a92f82EA855020BA714e68541192B9bd6c5B1",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, Governance & Tokens, Blockchain Education"
+  "pwCategorySuggestions": "Community Building, Governance & Tokens, Blockchain Education",
+  "pwCategory": "DAO Tooling"
 }

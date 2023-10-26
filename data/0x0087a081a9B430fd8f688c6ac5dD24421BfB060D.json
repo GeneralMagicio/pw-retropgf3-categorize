@@ -115,5 +115,6 @@
   "applicantAddress": "0x0087a081a9B430fd8f688c6ac5dD24421BfB060D",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Governance & Tokens, Community Building, Developer Ecosystem"
+  "pwCategorySuggestions": "Governance & Tokens, Community Building, Developer Ecosystem",
+  "pwCategory": "Governance Tools"
 }

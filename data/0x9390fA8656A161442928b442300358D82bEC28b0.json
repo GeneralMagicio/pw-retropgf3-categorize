@@ -25,7 +25,9 @@
       "description": "DeFi L2 Bootcamp"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "Since we founded Definomics Labs, our focus has been on impacting two objectives:\n\n1. Transforming the DeFi sector by guiding talent from Web2 to Web3 and boosting their expertise in DeFi and tokenomics.\n\n2. Empowering individuals and organizations to stay current with rapidly evolving DeFi technologies through tailored in-house training.\n\nOur approach is straightforward, designed to surmount language and technical barriers prevalent in this ecosystem.\n\nOur members actively engage in Optimism's governance, participating in forums and delegating OP tokens to regional representatives to advance governance.\n\nWe remain committed to maintaining an optimistic spirit as we tirelessly work toward democratizing education, making DeFi knowledge accessible to every corner of LATAM.",
   "impactMetrics": [
     {
@@ -77,5 +79,6 @@
   "applicantAddress": "0x9390fA8656A161442928b442300358D82bEC28b0",
   "pwCategorySuggestions": "Education & Certification, Decentralized Finance (DeFi), Community Building",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Web3 Education & Adoption"
 }

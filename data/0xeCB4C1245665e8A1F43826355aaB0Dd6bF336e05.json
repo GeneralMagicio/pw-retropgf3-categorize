@@ -65,7 +65,10 @@
       "description": "Digital Economy workshop 2020"
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "- 21 members in zenbit discord server\n- more than 38k USD distributed among talent and zenbit operation expenses\n- 471 Gitcoin Beta Projects analyzed \n- 19 projects voted in Gitcoin Beta Mainrounds\n- 111 ReFi dao projects analyzed\n- Zenbit.eth is now officially registered as a commercial entity in Mexico.\n- 4 IP projects have been registered as trademarks in Mexico.",
   "impactMetrics": [
     {
@@ -156,5 +159,6 @@
   "applicantAddress": "0xeCB4C1245665e8A1F43826355aaB0Dd6bF336e05",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Digital Laboratory, Smart Contract Platforms, Decentralized Finance (DeFi)"
+  "pwCategorySuggestions": "Digital Laboratory, Smart Contract Platforms, Decentralized Finance (DeFi)",
+  "pwCategory": "Developer Tools - Smart Contracts"
 }

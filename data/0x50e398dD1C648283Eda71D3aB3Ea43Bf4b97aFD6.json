@@ -45,7 +45,9 @@
       "description": "E2PG Announcement Post"
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
   "impactDescription": "E2PG has enabled several projects (popular NFT websites, erc4337 wallet, MUD games) to index data across many OP L2 chains.\n\nRLPS was one of the first hosted node providers for the bedrock release. Since then we've made it dead simple to boot up an E2PG indexer and have it be connected to Optimism and Base to start indexing data across those chains. To my knowledge, E2PG + RLPS is the quickest way to get data from multiple L2 chains into a Postgres database. I don't believe any of the hosted API providers are as easy to setup or are as fast as RLPS to index historical data.",
   "impactMetrics": [
     {
@@ -75,5 +77,6 @@
   "applicantAddress": "0x50e398dD1C648283Eda71D3aB3Ea43Bf4b97aFD6",
   "pwCategorySuggestions": "Blockchain Infrastructure, Decentralized Finance (DeFi), Tokenization Platforms",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Developer Tools - Nodes"
 }

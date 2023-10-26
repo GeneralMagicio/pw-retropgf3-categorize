@@ -60,7 +60,10 @@
       "description": "Friend Tech Review"
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "Arkham's integration with Optimism positively impacts both end users and developers in meaningful ways. Users gain real-time transaction tracking, portfolio management, and network visualization on Optimism's L2 Rollup. Developers benefit from an enriched ecosystem with detailed on-chain data. This work bridges the gap between the address-centric world of crypto and the rest of the entity-centric world, including TradFi and Web2. This collaboration fosters broader adoption and a vibrant developer community, aligning with Optimism's vision for a decentralized, accessible, and healthy blockchain ecosystem​.\n\nArkham also integrated Base (built on the OP Stack) with 130K active entities, 50M labeled addresses, and 70M tags.",
   "impactMetrics": [
     {
@@ -117,5 +120,6 @@
   "applicantAddress": "0x901168296E01613E758433591B82E4d9606feddB",
   "pwCategorySuggestions": "Blockchain Infrastructure, Tokenization Platforms, Decentralized Finance (DeFi)",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Data Analytics & Insights"
 }

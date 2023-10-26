@@ -35,7 +35,10 @@
       "description": "coc-solidity repo & site"
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM", "OP_STACK"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "OP_STACK"
+  ],
   "impactDescription": "- HH was used to build the OP protocol.\n- The OP team used HH to bootstrap the platform. They built plugins so HH would work with OP, which made it the first dev tool available for OP users.\n- OP team built Smock on top of HH to make contract testing easier.\n- The community used HH to build projects that run on OP.\n- The OP team used HH to operate the protocol.\n- The OP team used HH to deploy the Optimist NFT.\n- The OP team used HH to deploy the Bedrock contracts.\n- Optimism SDK uses HH to operate the protocol.\n- HH is used in teaching materials and guides for OP.\n- The OP community uses Hardhat VSCode and vim's coc-solidity for coding in Solidity.\n\nhttps://nomicfoundation.notion.site/HH-RetroPGF-3-impact-proof-links-38f52d0c59744a6d98642340c1525304",
   "impactMetrics": [
     {
@@ -70,5 +73,6 @@
   "applicantAddress": "0x329Ee91AE6A0A28a0a2B729B80adC50855ceE2d2",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Smart Contract Platforms, Developer Ecosystem, Blockchain Infrastructure"
+  "pwCategorySuggestions": "Smart Contract Platforms, Developer Ecosystem, Blockchain Infrastructure",
+  "pwCategory": "Developer Tools - Smart Contracts"
 }

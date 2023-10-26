@@ -77,5 +77,6 @@
   "applicantAddress": "0x5C36Bd76a6c138187C43da92f66f37E23b4017fA",
   "pwCategorySuggestions": "Blockchain Infrastructure, Developer Ecosystem, User Experience & Adoption",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Data Analytics & Insights"
 }

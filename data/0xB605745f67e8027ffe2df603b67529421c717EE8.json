@@ -45,7 +45,10 @@
       "description": "Twitter"
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "In 2022, ETHBarcelona pioneered an optimistic future with our Solarpunk-themed event, inspiring a positive narrative. We united the community, enabling attendees to actively participate and donate over $30,000 to various projects.\n\nIn 2023, our impact on the Optimism Collective surged. We distributed all event tickets as NFTs on Optimism, engaging over 1200 participants. Notably, 742 individuals actively interacted with Optimism, reflecting our commitment to user adoption. By airdropping NFT tickets and ETH on Optimism, we encouraged everyone to install Optimism RPCs, fostering widespread blockchain engagement. Our collaboration with the RetroPGF team, backed by General Magic and Giveth, elevated the event, with activations and insightful panel discussions.",
   "impactMetrics": [
     {
@@ -97,5 +100,6 @@
   "applicantAddress": "0xB605745f67e8027ffe2df603b67529421c717EE8",
   "pwCategorySuggestions": "Community Building, NFT Aggregator, User Experience & Adoption",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Community Building"
 }

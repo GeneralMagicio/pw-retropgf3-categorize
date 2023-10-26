@@ -45,7 +45,10 @@
       "description": "Analytics Dashboard: Current metrics on usage over time"
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "Ponder, which utilizes Optimism (through Farcaster) & Base (for passes/rewards), has:\n\n- Facilitated public discussions among builders on topics that help them grow their products\n\n- Engaged over 1,000 unique respondents, who are now accumulating reputation for their answers\n\n- Driven significant activity on the Farcaster protocol, serving as a space for users to voice their thoughts and understand the broader community's perspective\n\n- Created new active contracts and transactions with accelerating usage week over week\n",
   "impactMetrics": [
     {
@@ -130,5 +133,6 @@
   "applicantAddress": "0x64Ff33b653B26edCb4644E27d3720F3C653F8371",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Content Creation, User Experience & Adoption, Decentralized Identity"
+  "pwCategorySuggestions": "Content Creation, User Experience & Adoption, Decentralized Identity",
+  "pwCategory": "Reputations & Rewards"
 }

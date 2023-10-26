@@ -66,5 +66,6 @@
   "applicantAddress": "0x4F5F74D5770c943d2d111F14dEb8743Ba366Eb45",
   "pwCategorySuggestions": "Community Building, Developer Ecosystem, Education & Awareness",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Community Building"
 }

@@ -10,7 +10,9 @@
       "description": "All content is available on the platform"
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
   "impactDescription": "Students from LearnWeb3 have participated and win various prizes at various hackathons over the time we've been around, a lot have found jobs in the space and work in Web3 in engineering roles, and many have also built their own projects and are continuing to do so thanks to the resources and support offered within the community.",
   "impactMetrics": [
     {
@@ -67,5 +69,6 @@
   "applicantAddress": "0x0D1f2Bd5351a65a78Ac0BeF3C8fAEf643C046508",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Blockchain Education, Developer Ecosystem, Community Building"
+  "pwCategorySuggestions": "Blockchain Education, Developer Ecosystem, Community Building",
+  "pwCategory": "Web3 Education & Adoption"
 }

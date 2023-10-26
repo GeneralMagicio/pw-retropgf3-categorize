@@ -1,5 +1,5 @@
 {
-  "applicantType": "PROJECT",
+  "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://uniswap-interface-5458tghkb-sangare.vercel.app/",
   "bio": "Uniswap claim ugp\nClaim uniswap UGP ,member of Uniswap governance, just as we have been in the Compound community",
   "contributionDescription": "Get paid to build the future of finance. Uniswap Governance offers grant funding for people building apps, tools, and activities on the Uniswap Protocol , This program is meant to be the simplest possible MVP of a Uniswap Ecosystem Grants initiative. While the multi-sig committee comes with trust assumptions about the members, our hope is the community will approve this limited engagement to get the ball rolling in an efficient structure.",
@@ -90,5 +90,6 @@
   "applicantAddress": "0x2D815240A61731c75Fa01b2793E1D3eD09F289d0",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Finance (DeFi)"
+  "pwCategorySuggestions": "Decentralized Finance (DeFi)",
+  "pwRecategorizeToType": "INDIVIDUAL"
 }

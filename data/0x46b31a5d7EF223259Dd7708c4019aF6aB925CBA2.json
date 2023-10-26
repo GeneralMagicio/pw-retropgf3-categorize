@@ -69,5 +69,6 @@
   "applicantAddress": "0x46b31a5d7EF223259Dd7708c4019aF6aB925CBA2",
   "pwCategorySuggestions": "Developer Ecosystem, Layer 2 Scaling, Smart Contract Platforms",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Ethereum Infrastructure"
 }

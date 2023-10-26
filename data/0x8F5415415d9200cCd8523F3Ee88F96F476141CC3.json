@@ -131,5 +131,6 @@
   "applicantAddress": "0x8F5415415d9200cCd8523F3Ee88F96F476141CC3",
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Blockchain Infrastructure, User Experience & Adoption",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Reputations & Rewards"
 }

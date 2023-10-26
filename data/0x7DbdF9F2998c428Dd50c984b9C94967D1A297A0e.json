@@ -60,5 +60,6 @@
   "applicantAddress": "0x7DbdF9F2998c428Dd50c984b9C94967D1A297A0e",
   "pwCategorySuggestions": "Decentralized Governance Platform, Web3 Community Platform.",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Governance Tools"
 }

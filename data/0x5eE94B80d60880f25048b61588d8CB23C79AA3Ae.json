@@ -68,5 +68,6 @@
   "applicantAddress": "0x5eE94B80d60880f25048b61588d8CB23C79AA3Ae",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Blockchain Infrastructure"
+  "pwCategorySuggestions": "Blockchain Infrastructure",
+  "pwCategory": "Web3 Education & Adoption"
 }

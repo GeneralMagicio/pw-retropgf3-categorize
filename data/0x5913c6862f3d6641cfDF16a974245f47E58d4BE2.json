@@ -10,7 +10,9 @@
       "description": "Extract ABIs (and more) from EVM bytecode, even without source code."
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
   "impactDescription": "The features that WhatsABI offers are important for all EVM-powered blockchains, including those under the Optimism Collective.\n\nMany of the tools that already use WhatsABI are operating on OP Stack powered chains: Rivet, Zodiac, Ondora, etc.\n\nBy using WhatsABI, all of these tools get many features out of the box: Easy fetching of ABIs from verified contracts, extracting ABIs from unverified contracts, detecting and resolving proxies, and more. (See Github project page for more details.)\n\nAnyone building generalized frontends (like block explorers) knows how hard it is to do these things reliably. One example: Resolving proxy contracts. There's many kinds (EIP-1967, GnosisSafeProxy, ZeppelinOSProxy, PROXIABLE, DiamondProxy, and more)—WhatsABI detects and resolves all of them!",
   "impactMetrics": [
     {
@@ -52,5 +54,6 @@
   "applicantAddress": "0x5913c6862f3d6641cfDF16a974245f47E58d4BE2",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Smart Contract Platforms, Tokenization Platforms, Blockchain Infrastructure"
+  "pwCategorySuggestions": "Smart Contract Platforms, Tokenization Platforms, Blockchain Infrastructure",
+  "pwCategory": "Developer Tools - Smart Contracts"
 }

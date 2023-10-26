@@ -15,7 +15,9 @@
       "description": "Definitive source for finding yields on Base"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "Vaults simplifies on-chain yield discovery in the Optimism ecosystem by independently sourcing and calculating yields from DeFi projects. \n\nWe prioritize user safety through only showing tenured vaults, empowering Optimism users to make informed capital allocation decisions. \n\nOur mission is to enhance DeFi yield accessibility.",
   "impactMetrics": [
     {
@@ -45,5 +47,6 @@
   "applicantAddress": "0xbb6CDB42C917De3b1FdDE316481B1241ED46b3a3",
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Layer 2 Scaling, Yield Analysis",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Asset Management & Portfolio Tools"
 }

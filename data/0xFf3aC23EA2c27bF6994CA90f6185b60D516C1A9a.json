@@ -64,5 +64,6 @@
   "applicantAddress": "0xFf3aC23EA2c27bF6994CA90f6185b60D516C1A9a",
   "pwCategorySuggestions": "Wallet Abstraction, Internet's own boy is what I am. DevRel at Ledger is what I do., Decentralized Finance (DeFi), NFT Aggregator, Smart Contract Platforms",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Developer Tools - Wallets"
 }

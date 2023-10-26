@@ -45,7 +45,9 @@
       "description": "Etherea, Gwyn, Azura on Zora"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "Travenesia's community now exceeds 5,000 hodlers across Optimism, Base, and Zora collections. We donate 50% of paid mint proceeds to public goods. In 2022, our Aethernity collection contributed over 5 ETH to Fund Public Goods on Gitcoin Grants, with 2.5 ETH aiding Optimism projects like QuestN, Wagmi.sh, and ethers.js, strengthening the Optimism blockchain community. We've become early supporters of these impactful projects.",
   "impactMetrics": [
     {
@@ -106,5 +108,6 @@
   "pwIsFlagged": false,
   "pwRecategorizeToType": "PROJECT",
   "pwRecategorizeReason": "NO. The application is from an individual artist who initiated a project called Aethernity, so it should be categorized as a \"PROJECT\".",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "NFTs, POAPs & Collectibles"
 }

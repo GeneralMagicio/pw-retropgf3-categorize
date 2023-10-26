@@ -79,5 +79,6 @@
   "applicantAddress": "0xb93F1e042939D58c0b6696366ca5e021DCF3650D",
   "pwCategorySuggestions": "Blockchain Infrastructure, Developer Ecosystem, Web3 Community Platform",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Cross-Chain Interoperability"
 }

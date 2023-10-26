@@ -45,7 +45,9 @@
       "description": "ScoreFront"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "By creating Nomis Score for LayerZero we attracted a huge number of users who were interested in checking their onchain reputation and get bonuses for doing so. We have 120,000 addresses (minted LayerZero Score - 15005 addresses), and each address among these wallets, in case it interacted with the Optimism Network, saw on the dashboard its transactions, transaction addresses, projects in which these transactions were made, as well as the amount of funds used for bridges between networks or token swaps. In the scoring model created for Rubic - all 5,000 (minted Cross-chain Score 1,644 addresses) interacted with the Optimism Network.\n\nScoreFront page, at the moment we have already added several partners supporting the Optimism Network and plan to expand 30 partners by the end of 2023 year",
   "impactMetrics": [
     {
@@ -88,5 +90,6 @@
   "applicantAddress": "0xA1b0B899F843eC4caEe771eD7c15FAc333f28D7C",
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Tokenization Platforms, Web3 Community Platform",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Community Building"
 }

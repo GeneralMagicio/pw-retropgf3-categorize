@@ -15,7 +15,10 @@
       "description": "Defient Github"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION", "OP_STACK"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
   "impactDescription": "6551 Studio is an expansion of the #1 project on 6551, Cre8ors.com, which gave thousands of new users awareness and access to participate in the Optimisim ecosystem by way of bridging Ethereum and Polygon NFTs into an Optimisim smart wallet using the free platform.",
   "impactMetrics": [
     {
@@ -46,5 +49,6 @@
   "applicantAddress": "0x97a5810acDDF54371e3bBA01C41eFbA8ada268d6",
   "pwCategorySuggestions": "NFT Management, Wallet Management",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Developer Tools - Wallets"
 }

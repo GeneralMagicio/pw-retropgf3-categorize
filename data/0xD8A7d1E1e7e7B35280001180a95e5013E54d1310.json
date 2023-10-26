@@ -30,7 +30,9 @@
       "description": "deployment of Superfluid on BASE mainnet"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "Music is the perfect vessel to generate mainstream interest in web3. We aim to maximize this adoption effect by bringing in the biggest name in music and making it accessible through the OP stack.\n\n-Moving from ETH Mainnet to BASE with our contract factory and the latest drops\n-Deploying superfluid on BASE\n-Educational content to generate interest in the space\n-Royalty payouts to our holders on Optimism\n-ABT Soulbound, Loyalty and engagement token streamed to all holders.\n-Campaigns: Onchainsummer+Themultichain\n-Privy and ERC-4337 were implemented for the seamless onboarding of new users\n-Gas sponsoring via Biconomy for our first royalty payout for gasless royalty claiming\n-Participants in the European Blockchain Sandbox project where we aim to push legislators to embrace web3 principles.\n",
   "impactMetrics": [
     {
@@ -87,5 +89,6 @@
   "applicantAddress": "0xD8A7d1E1e7e7B35280001180a95e5013E54d1310",
   "pwCategorySuggestions": "Music NFTs, Royalty Payments, Web3 Education",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Music & Creative NFTs"
 }

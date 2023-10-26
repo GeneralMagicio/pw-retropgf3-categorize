@@ -96,5 +96,6 @@
   "applicantAddress": "0x2BA3c3e9D61C776b415ECCd753133dEF6737770A",
   "pwIsFlagged": false,
   "pwCategorySuggestions": "Decentralized Exchanges (DEXs), Layer 2 Scaling, Smart Contract Platforms",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Exchanges, DEX, Trading & Liquidity"
 }

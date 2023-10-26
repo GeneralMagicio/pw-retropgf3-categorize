@@ -25,7 +25,10 @@
       "description": "Aggregation of all data sources about Optimism chain and ecosystem"
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM", "OP_STACK"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "OP_STACK"
+  ],
   "impactDescription": "Optimism ecosystem and grant analytics helps connect users with Optimism data more effectively and efficiently. The project impacts OP community by structuring grantee data that is scattered across different platforms- forum, Charmverse, Tally and more.\n\nThe current community user journey to discover grantee details is to manually search through forums and read through data. The grantee list makes it very efficient and effective to search through hundreds of grantees. Along with the dashboard that gives you a complete picture of the grants programs.\n\nThe contributions database makes it easy for community members and hopeful contributors to discover contribution ideas more easily. Totally eliminating the need for visiting the GitHub interface, the advanced filters make it more impactful.",
   "impactMetrics": [
     {
@@ -55,5 +58,6 @@
   "applicantAddress": "0x72C58877ef744b86F6ef416a3bE26Ec19d587708",
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Web3 Community Platform",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Data Analytics & Insights"
 }

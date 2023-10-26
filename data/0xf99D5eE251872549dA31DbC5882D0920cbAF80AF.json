@@ -10,7 +10,9 @@
       "description": "Github"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "I believe in the power of cryptocurrency and the opportunities of freedom it provides and Optimism is one of those ways. While I may not be a developer, I am trying to use influence and high quality content, including relationship building, to bring a greater awareness of crypto around the world. And I believe it's a good work we can do across the board to better us as a society. And I hope that continues to build within the collective.",
   "impactMetrics": [
     {
@@ -37,5 +39,6 @@
   "pwRecategorizeToType": "PROJECT",
   "pwRecategorizeReason": "NO, the use of \"we\" in the bio indicates this might be a group or project, not an individual.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, Content Creation, Cryptocurrency Services"
+  "pwCategorySuggestions": "Community Building, Content Creation, Cryptocurrency Services",
+  "pwCategory": "Web3 Education & Adoption"
 }

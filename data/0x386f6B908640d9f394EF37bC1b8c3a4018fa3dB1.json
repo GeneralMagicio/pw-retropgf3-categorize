@@ -10,7 +10,9 @@
       "description": "All contracts are open-sourced with no license,the core contract has 100+ stars!"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "We believe that we need to re-build DeFi from scratch, which involves re-building lots of \"shared infrastructure\" in common that can be shared between protocols, which are immutable, secure, and work as a \"primitive\".\n\nGrappa aims to be the base immutable layer for options, and allows everyone to build option engines that can easily be connected to other products, result in a better liquidity access, and overall better UX for all option protocols.\n",
   "impactMetrics": [
     {
@@ -47,5 +49,6 @@
   "applicantAddress": "0x386f6B908640d9f394EF37bC1b8c3a4018fa3dB1",
   "pwIsFlagged": false,
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Cross-Chain Platforms, Smart Contract Platforms",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "DeFi, Decentralized Finance"
 }

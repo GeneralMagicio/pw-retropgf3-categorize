@@ -15,7 +15,9 @@
       "description": "Farcaster IdRegistry contract"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "flink has been built with a focus on crypto-native consumers, many of which have already been a part of the Collective. Therefore, the main contribution is allowing these members to be able to permissionlessly onboard to Farcaster and participate in discussions through a client that is more familiar to their day-to-day web3 experiences. flink also allows for those who onboard to have a richer social experience by providing transaction embeds directly within the client experience for discovery and minting on shared NFTs.",
   "impactMetrics": [
     {
@@ -39,5 +41,6 @@
   "applicantAddress": "0x333601a803CAc32B7D17A38d32c9728A93b422f4",
   "pwIsFlagged": false,
   "pwCategorySuggestions": "Tokenization Platforms, Decentralized Identity, NFT Aggregator",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Identity & Privacy"
 }

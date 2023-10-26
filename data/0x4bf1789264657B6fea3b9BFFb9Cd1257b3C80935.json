@@ -10,7 +10,9 @@
       "description": "website"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "The positive impact Moji brings to Optimism is primarily reflected in two aspects:\n- Firstly, in intangible influence - as more and more people establish and share their personal profiles on Moji, this will enhance Optimism's brand visibility and attract a growing user base.\n- Secondly, with tangible impact - by driving higher transaction activity on the Optimism chain, Moji will generate more revenue for creators.",
   "impactMetrics": [
     {
@@ -40,5 +42,6 @@
   "applicantAddress": "0x4bf1789264657B6fea3b9BFFb9Cd1257b3C80935",
   "pwCategorySuggestions": "Content Creation, User Experience & Adoption, Decentralized Finance (DeFi)",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Banking & Payments"
 }

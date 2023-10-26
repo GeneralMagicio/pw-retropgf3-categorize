@@ -83,5 +83,6 @@
   "pwCategorySuggestions": "Blockchain Infrastructure, Developer Ecosystem, User Experience & Adoption",
   "pwRecategorizeToType": "PROJECT",
   "pwRecategorizeReason": "NO. The application should be categorized as \"PROJECT\" as it refers to multiple projects that the individual has developed, not just the work of the individual.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Developer Tools - Other"
 }

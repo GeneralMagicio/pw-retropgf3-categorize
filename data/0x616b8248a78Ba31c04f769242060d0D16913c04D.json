@@ -10,7 +10,9 @@
       "description": "optimistic"
     }
   ],
-  "impactCategory": ["OP_STACK"],
+  "impactCategory": [
+    "OP_STACK"
+  ],
   "impactDescription": "life chanching \nOP is a fast, stable, and scalable L2 blockchain built by Ethereum developers, for Ethereum developers. Built as a minimal extension to existing Ethereum software, OP Mainnet's EVM-equivalent architecture scales your Ethereum apps without surprises. If it works on Ethereum, it works on OP Mainnet at a fraction of the cost.",
   "impactMetrics": [
     {
@@ -34,5 +36,6 @@
   "applicantAddress": "0x616b8248a78Ba31c04f769242060d0D16913c04D",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Tokenization Platforms, Layer 2 Scaling, Blockchain Infrastructure"
+  "pwCategorySuggestions": "Tokenization Platforms, Layer 2 Scaling, Blockchain Infrastructure",
+  "pwCategory": "Ethereum Infrastructure"
 }

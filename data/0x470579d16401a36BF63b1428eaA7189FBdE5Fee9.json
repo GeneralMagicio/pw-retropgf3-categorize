@@ -48,5 +48,6 @@
   "pwRecategorizeToType": "PROJECT",
   "pwRecategorizeReason": "NO. The application should be categorized as \"PROJECT\" because it refers to a collective development effort for Optimism AI Chatbot.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "User Experience & Adoption"
+  "pwCategorySuggestions": "User Experience & Adoption",
+  "pwCategory": "AI, Artificial Intelligence & Security"
 }

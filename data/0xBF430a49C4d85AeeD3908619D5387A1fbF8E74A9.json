@@ -20,7 +20,10 @@
       "description": "For recent impact, IC3's publication page shows releases in 2023 since RetroPGF3"
     }
   ],
-  "impactCategory": ["COLLECTIVE_GOVERNANCE", "OP_STACK"],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "OP_STACK"
+  ],
   "impactDescription": "Some key findings from IC3 for Optimism: \n- MEV: IC3 research formally identified and coined the term \"MEV,\" important for the Optimism sequencer, and published follow-up work (Babel et al., 2023) since RetroPGF2\n- Dark DAOs: IC3 research identified the risk of Dark DAOs and automated bribery to governance, illuminating design space for robust governance systems\n-Privacy cryptography: IC3 has driven forward privacy cryptography research, including threshold encryption and multi party computation\n-Social good: IC3 prioritizes support of research for social good and ethical blockchain technology, sharing values with the Optimism Collective\n\nWe believe that research done in academia is a key compliment to industry research and contributes to the success of blockchain systems like Optimism. ",
   "impactMetrics": [
     {
@@ -52,5 +55,6 @@
   "applicantAddress": "0xBF430a49C4d85AeeD3908619D5387A1fbF8E74A9",
   "pwCategorySuggestions": "Smart Contract Platforms, Blockchain Infrastructure, Governance Tokens",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Developer Education & Mentoring"
 }

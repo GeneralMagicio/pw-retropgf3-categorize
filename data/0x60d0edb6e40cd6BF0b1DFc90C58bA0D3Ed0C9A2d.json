@@ -81,5 +81,6 @@
   "applicantAddress": "0x60d0edb6e40cd6BF0b1DFc90C58bA0D3Ed0C9A2d",
   "pwCategorySuggestions": "Bridge and Onboarding, Layer 2 Scaling, Decentralized Finance (DeFi)",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Cross-Chain Interoperability"
 }

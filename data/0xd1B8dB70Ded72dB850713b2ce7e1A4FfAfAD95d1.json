@@ -90,5 +90,6 @@
   "applicantAddress": "0xd1B8dB70Ded72dB850713b2ce7e1A4FfAfAD95d1",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, Governance & Tokens, User Experience & Adoption"
+  "pwCategorySuggestions": "Community Building, Governance & Tokens, User Experience & Adoption",
+  "pwCategory": "DAO Tooling"
 }

@@ -54,5 +54,6 @@
   "pwIsFlagged": false,
   "pwRecategorizeToType": "PROJECT",
   "pwRecategorizeReason": "NO, the application is referring to a group community, hence it should be categorized as \"PROJECT\".",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Blockchain News & Media"
 }

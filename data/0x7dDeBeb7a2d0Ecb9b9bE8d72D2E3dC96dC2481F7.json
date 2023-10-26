@@ -10,7 +10,9 @@
       "description": "project repo"
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
   "impactDescription": "Since the Fe compiler targets EVM, developers can write Fe code for Ethereum or any EVM-equivalent platform. Fe support's a number features that developers have come to love. That list includes things like, enums and pattern matching, libraries and modules, a standard library, traits, built-in testing, and more. By improving languages we are able to improve the ecosystem as a whole.",
   "impactMetrics": [
     {
@@ -33,5 +35,6 @@
   "applicantAddress": "0x7dDeBeb7a2d0Ecb9b9bE8d72D2E3dC96dC2481F7",
   "pwCategorySuggestions": "Smart Contract Platforms, Developer Ecosystem, Blockchain Infrastructure",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Developer Tools - Smart Contracts"
 }

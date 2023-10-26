@@ -20,7 +20,9 @@
       "description": "Version 3.0, which is to merge. This is on the Optimism-Goerli network"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "QuantumFair's impact is in terms of smart-contract development and market focus on Optimism.\n\nSmart-contract finished development on Optimism: \n\n(1) QuantumFair uses Beacon Proxy contract using MCP in the entry point contract.\n\n(2) The user opens the contract and locks the assets in the dynamic vault.\n\n(3) With the contract in an open state, then users can register themselves as participants by paying or not a specified fee in ETH or a predefined ERC20 token.\n\n(4) After the time is over, the raffle is set to close. The contract makes a call to the Airnode through our requester contract to choose the winner.\n\n(5)Lastly, we retrieve the results and wrap the raffle contract in a finished state.\n\nMarket Reach:\n(1) We have had 25,200 impressions on X (twitter) in 4 days of going publicly live. ",
   "impactMetrics": [
     {
@@ -50,5 +52,6 @@
   "applicantAddress": "0xD91F2101c396f4123fC3caB6276511653F4A43Ce",
   "pwCategorySuggestions": "Smart Contract Platforms, Digital Identity, Blockchain Infrastructure",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Gaming & Entertainment"
 }

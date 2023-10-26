@@ -54,5 +54,6 @@
   "applicantAddress": "0xF05b5f04B7a77Ca549C0dE06beaF257f40C66FDB",
   "pwCategorySuggestions": "Smart Contract Platforms, Wallet Management, Blockchain Infrastructure",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Developer Tools - Smart Contracts"
 }

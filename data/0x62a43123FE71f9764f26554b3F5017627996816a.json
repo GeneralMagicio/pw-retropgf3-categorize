@@ -15,7 +15,10 @@
       "description": "The Opitmist Score by Flipside"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION", "OP_STACK"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
   "impactDescription": "Our contributions have made critical data & infrastructure available to the Optimism & broader blockchain ecosystem for free. Enabling teams to make better decisions and for the Collective to provide the broader community with key network tooling. \n\nAdditionally, our applications & business intelligence have delivered deep insights and raised awareness of important developments within the Optimism ecosystem. These initiatives have helped attract new users and drive usage of the network. \n\nOverall, our contributions have delivered essential tooling, raised awareness of the OP stack, and helped drive adoption & user growth. \n\nWe are thrilled to continue supporting the Optimism Collective and broader community. ",
   "impactMetrics": [
     {
@@ -67,5 +70,6 @@
   "applicantAddress": "0x62a43123FE71f9764f26554b3F5017627996816a",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Blockchain Infrastructure, Developer Ecosystem, Data Analytics"
+  "pwCategorySuggestions": "Blockchain Infrastructure, Developer Ecosystem, Data Analytics",
+  "pwCategory": "Data Analytics & Insights"
 }

@@ -77,5 +77,6 @@
   "applicantAddress": "0xFEC0Ad833FB7D20A83E373279f37c88159bAd99E",
   "pwCategorySuggestions": "Developer Ecosystem",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Developer Tools - Smart Contracts"
 }

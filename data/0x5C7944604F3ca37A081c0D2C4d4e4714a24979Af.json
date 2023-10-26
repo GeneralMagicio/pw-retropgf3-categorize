@@ -55,5 +55,6 @@
   "applicantAddress": "0x5C7944604F3ca37A081c0D2C4d4e4714a24979Af",
   "pwCategorySuggestions": "Community Building, Blockchain Education, Layer 2 Scaling",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Community Building"
 }

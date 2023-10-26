@@ -10,7 +10,9 @@
       "description": "Twitter"
     }
   ],
-  "impactCategory": ["COLLECTIVE_GOVERNANCE"],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
   "impactDescription": "Educating people in the city where I live because understanding of the world of crypto and blockchain technology is still common here so of course I have to introduce it so that everyone can Know and understand advances in financial technology And of course it's not easy, it takes time and effort ",
   "impactMetrics": [
     {
@@ -35,5 +37,6 @@
   "applicantAddress": "0x0000C291A4D0814b6c764CF001a0eBB0E2c5b498",
   "pwIsFlagged": false,
   "pwCategorySuggestions": "Blockchain Education",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Blockchain Education"
 }

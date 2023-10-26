@@ -72,5 +72,6 @@
   "applicantAddress": "0x6FdfD0Dee3e2aa16bA6c70B1398E640735D5C065",
   "pwCategorySuggestions": "Content Creation, Community Building, User Experience & Adoption",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Grants & Retroactive Funding"
 }

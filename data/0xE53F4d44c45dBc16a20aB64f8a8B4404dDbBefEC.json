@@ -89,5 +89,6 @@
   "pwRecategorizeToType": "PROJECT",
   "pwRecategorizeReason": "NO. It should be categorized as \"PROJECT\" as the applicant talks about their work on \"Web3Comic's in/habitants\" project and related ventures, not individual contributions alone.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, Content Creation, Education"
+  "pwCategorySuggestions": "Community Building, Content Creation, Education",
+  "pwCategory": "Web3 Education & Adoption"
 }

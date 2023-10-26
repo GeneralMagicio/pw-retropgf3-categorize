@@ -43,5 +43,6 @@
   "applicantAddress": "0x9E8779a144f0734adEfD6f7e5265347054E4FC7F",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Social Platform, Web3 Community Platform, Data Ownership"
+  "pwCategorySuggestions": "Decentralized Social Platform, Web3 Community Platform, Data Ownership",
+  "pwCategory": "Community Building"
 }

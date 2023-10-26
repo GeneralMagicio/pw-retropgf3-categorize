@@ -10,7 +10,10 @@
       "description": "Transfer"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION", "OP_STACK"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
   "impactDescription": "BuidlGuidl helps onboard and educate new developers to the Ethereum ecosystem with teaching materials and tools to help them hit the ground running. It also provide mentoring and incentivize through its grant-giving arm. From Austin: \"I think the thing I'm most Optimistic about is what's gonna happen on the application layer...[when] we have everything we need for people to start shipping applications on blockchain and start getting mainstream audiences to start engaging with these apps.\"",
   "impactMetrics": [
     {
@@ -37,5 +40,6 @@
   "pwIsFlagged": false,
   "pwRecategorizeToType": "PROJECT",
   "pwRecategorizeReason": "NO, it is not correctly categorized. The application talks more about the project \"BuidlGuidl\" rather than an individual's personal contribution, suggesting it should be categorized as a \"PROJECT\".",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Developer Education & Mentoring"
 }

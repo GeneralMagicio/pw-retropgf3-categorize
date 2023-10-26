@@ -45,7 +45,9 @@
       "description": "University Lessons - ITBA"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "Our contributions have significantly supported free education in topics of highly interest for the Optimism Collective, since we help people understand how Optimism and optimistic rollups work and why their are valuable and important for achieving scalability on Ethereum.\nIn addittion we focused on key and targeted groups of audience like:\n\n- Low income sectors\n- Young students and women\n- University students",
   "impactMetrics": [
     {
@@ -102,5 +104,6 @@
   "applicantAddress": "0x07176cf362C7594e945015069d9C2010FE8DEb8e",
   "pwIsFlagged": false,
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Education, Community Building",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Web3 Education & Adoption"
 }

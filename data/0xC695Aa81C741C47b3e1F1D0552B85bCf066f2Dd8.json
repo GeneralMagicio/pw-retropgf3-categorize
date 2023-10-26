@@ -25,7 +25,9 @@
       "description": "We took part in Optimism Twitter campaign; in Hungarian."
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "-  We were able to help propagate the Optimistic Vision and mission to a community of Hungarian readers / speakers via newsletter and social media amplification\n- We have a small but regular readership, which probably reflects the population of Hungary; approximately 9.7 million people.\n- There is presently only a small tangible measurement of the impact that we had on Optimism however in an intangible sense knowing that no language or community will be left behind a barrier, such as language, no matter how small the reach, makes the wider web3 global community feel like a diverse, inclusive space.\n- I'm Optimistic that more Hungarian readers will access and perhaps mint these articles going forward.\n",
   "impactMetrics": [
     {
@@ -97,5 +99,6 @@
   "applicantAddress": "0xC695Aa81C741C47b3e1F1D0552B85bCf066f2Dd8",
   "pwCategorySuggestions": "Media Production, Community Building, Content Creation",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Local Blockchain Communities"
 }

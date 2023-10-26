@@ -20,7 +20,10 @@
       "description": "cryo 0.2.0 release thread"
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM", "OP_STACK"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "OP_STACK"
+  ],
   "impactDescription": "Until recently, most people believed that the only way to analyze historical crypto data was by using centralized, closed-source, proprietary infra like Dune or BigQuery. However, cryo makes it easy for anyone to run a complete open-source crypto analysis pipeline on their own laptop. This presents a huge cost savings and shifts the process back toward the crypto principles of decentralization and open-source.\n\nEven though cryo is still in beta, many teams have integrated it into their backend infra. This includes data platforms (CoinMetrics), security firms (shield3), news outlets (TheBlock), MEV teams (private), and on-chain protocols (Zora).\n\ncryo also powers the Paradigm Data Portal, which is the only place to download complete open-source historical crypto datasets without sign-up.",
   "impactMetrics": [
     {
@@ -45,5 +48,6 @@
   "applicantAddress": "0x40C0BB75D745141727211338eBb4f26202C00Ef2",
   "pwCategorySuggestions": "Blockchain Infrastructure, Data Science, Data Engineering",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Data Analytics & Insights"
 }

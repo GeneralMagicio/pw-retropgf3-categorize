@@ -10,7 +10,9 @@
       "description": "website"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "I an building a web application that allow people to get some help in their scholarship. With my site, they could ask question to some experts in order to progress and get solutions. \nBy the way, this application needs lot of payment, wallets in order to be efficient. I want to permit my users to use ETH to pay and receive money (if the are helpers or helped) effeciently. Optimism could be a very effective way to reduce the cost of transactions, accelerate money transfers, get a fee for my firm, and keep security.\n\nWith my project, I would accelerate adoption of Optimism tech. ",
   "impactMetrics": [
     {
@@ -44,5 +46,6 @@
   "pwIsFlagged": false,
   "pwRecategorizeToType": "PROJECT",
   "pwRecategorizeReason": "NO, the application is from an individual but it speaks more about a project initiated by this individual rather than contributions as an individual. It should be categorized as \"PROJECT\".",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Web3 Education & Adoption"
 }

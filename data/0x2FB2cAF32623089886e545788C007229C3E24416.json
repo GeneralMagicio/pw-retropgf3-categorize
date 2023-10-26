@@ -15,7 +15,9 @@
       "description": "Optimism Project on X"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "Cryptorist Hub serves as an expansive WhatsApp community comprising 1200+ passionate adopters. With its substantial membership, this community has significantly contributed to the growth of the Optimism Ecosystem. This support extends to various projects building on both Optimism and Optimism itself, making it a driving force behind the advancements within the Optimism ecosystem.",
   "impactMetrics": [
     {
@@ -55,5 +57,6 @@
   "pwCategorySuggestions": "Blockchain Education, Community Building, Cryptocurrency Services",
   "pwRecategorizeToType": "PROJECT",
   "pwRecategorizeReason": "NO, the application is incorrectly categorized because it refers to an entity \"Cryptorist Hub\", not an individual.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Web3 Education & Adoption"
 }

@@ -154,5 +154,6 @@
   "applicantAddress": "0x6cfbF06E8b6612B39333eA7c230208D1d178278d",
   "pwCategorySuggestions": "NFT Gaming, Web3 Community Platform, Developer Ecosystem",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Gaming & Entertainment"
 }

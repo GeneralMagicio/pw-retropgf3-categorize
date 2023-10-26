@@ -42,5 +42,6 @@
   "applicantAddress": "0x579D7a028634b9d95f3382AC2A20C9F5Bcc99976",
   "pwCategorySuggestions": "Decentralized Oracle Infrastructure, Decentralized Finance (DeFi), Developer Ecosystem",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Oracles"
 }

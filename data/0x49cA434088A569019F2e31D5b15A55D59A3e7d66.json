@@ -60,7 +60,10 @@
       "description": "Gasless Chronicles - What is gasless? "
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "As part of joint mission of advancing public goods and sustainability future within Ethereum (and Optimism), MetaDEXA built products that improve and promote the Ethereum ecosystem and fully open-sourced every aspect of the products. \nOur commitment to streamlining DApp development, igniting creativity and innovation via open-source initiatives, and nurturing decentralized communities, all while cultivating a thriving developer network, actively contributes to Ethereum's long-term sustainability and the Collective's mission to foster a dynamic and prosperous ecosystem with a meaningful impact.\n \nMilestones so far:\n- Between $100.000 - $500.000 volume (estimated, contracts are not on Dune yet)\n- 833 regular swaps in 3 months period \n- 25 gasless swaps (still under development)\n",
   "impactMetrics": [
     {
@@ -126,5 +129,6 @@
   "applicantAddress": "0x49cA434088A569019F2e31D5b15A55D59A3e7d66",
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Aggregator Platforms, Open-source Development",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Exchanges, DEX, Trading & Liquidity"
 }

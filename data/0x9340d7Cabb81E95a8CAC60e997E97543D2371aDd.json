@@ -10,7 +10,9 @@
       "description": "NFT contract"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "The bigger positive impact we've had on Optimism is helping native projects get traction.\n\nUser acquisition is one of the hardest and most painful problems in crypto. We've allows many Optimism founders tap into our user base of committed and savvy on-chain power users.\n\nSome of the projects we've worked with:\n\n- Polynomial (futures trading competition, Beta testing of vault product)\n- Thales ( Beta testing with free bet voucher)\n- Lyra ( Options competition)\n- Kwenta (beta testing)\n- Aevo ( OP stack -> beta testing & competition)\n- Nested ( beta testing, portfolio creation)\n\nCryptotesters didn't charge these projects any fee or commission for working with us. It's hard to quantify the impact of each of these initiatives but participation was always very high.",
   "impactMetrics": [
     {
@@ -52,5 +54,6 @@
   "applicantAddress": "0x9340d7Cabb81E95a8CAC60e997E97543D2371aDd",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, User Acquisition, Beta Testing"
+  "pwCategorySuggestions": "Community Building, User Acquisition, Beta Testing",
+  "pwCategory": "Community Building"
 }

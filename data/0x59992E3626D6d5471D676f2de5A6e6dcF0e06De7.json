@@ -100,7 +100,9 @@
       "description": "Mirror"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "Since we focus on developing open technology and maintaining equal access for anyone.\nWe develop user-friendly tools for the Optimistic collective.\n\nSmart contracts and repositories open-sourced\nHosted meetups and educational sessions for Web3\nCreated & distributed educational material that is free to the public\nRepresented and publicized the collective in our community\n\nOur Gas Faucet provides free ETH for first-time transactions. Our EVM Gas Station dApp monitors network prices and estimates costs for L1 and L2 networks.\n\nAnyone can use our technology & access resources that onboard them directly to Optimism.\nWe provide resources beyond our office doors; our technology is open source. We aim to foster infinite positive-sum games by lowering the entry barrier for adopting Optimism.",
   "impactMetrics": [
     {
@@ -162,5 +164,6 @@
   "applicantAddress": "0x59992E3626D6d5471D676f2de5A6e6dcF0e06De7",
   "pwCategorySuggestions": "Developer Ecosystem, Web3 Community Platform, Blockchain Infrastructure",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Web3 Education & Adoption"
 }

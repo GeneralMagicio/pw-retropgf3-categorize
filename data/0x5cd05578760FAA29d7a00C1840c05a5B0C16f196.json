@@ -25,7 +25,9 @@
       "description": "App specific OP Stack deployment"
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
   "impactDescription": "Playmint is a leading developer in the growing Autonomous World builder community. We actively engage other builders in the tools and techniques we have developed.\n\nWe speak at hackathons, Ethereum conferences and Autonomous Worlds events about the technical and design challenges we have overcome.\n\nMore than a dozen onchain builders took part in a week-long technical test that demonstrated they could permissionlessy extend downstream.",
   "impactMetrics": [
     {
@@ -50,5 +52,6 @@
   "applicantAddress": "0x5cd05578760FAA29d7a00C1840c05a5B0C16f196",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Blockchain Gaming, Smart Contract Platforms, Developer Ecosystem"
+  "pwCategorySuggestions": "Blockchain Gaming, Smart Contract Platforms, Developer Ecosystem",
+  "pwCategory": "Gaming & Entertainment"
 }

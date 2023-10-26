@@ -80,5 +80,6 @@
   "applicantAddress": "0x3D9d22E1821Be3b1Ce2A8ACB6FE47fFEF04243c3",
   "pwCategorySuggestions": "Web3 Community Platform",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "AI, Artificial Intelligence & Security"
 }

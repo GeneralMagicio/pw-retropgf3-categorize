@@ -54,5 +54,6 @@
   "applicantAddress": "0xEc10Ac0784B5DE2Fad69332e5a90B46eebba70aF",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "User Experience & Adoption, Wallet Management, Blockchain Infrastructure"
+  "pwCategorySuggestions": "User Experience & Adoption, Wallet Management, Blockchain Infrastructure",
+  "pwCategory": "Wallet & Key Management"
 }

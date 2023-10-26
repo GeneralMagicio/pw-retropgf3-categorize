@@ -50,7 +50,9 @@
       "description": "Key Metrics Data Thread"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "Our Twitter analytics show consistent engagement with our weekly data threads. Catering to over 570 followers on Twitter, we provide updates to 87,000+ Lyra community members. Our Medium page, dedicated to newsletters, reveals increasing readership, highlighting the community's demand for in-depth insights. We produce content on various Lyra products for hedging and arbitrage. Most content revolves around Optimism. In 'Data & Key Metrics', we explore pivotal option metrics for OP. ",
   "impactMetrics": [
     {
@@ -90,5 +92,6 @@
   "applicantAddress": "0xb8f526E029E7e629221e98Fbc1CDCF363eA486ee",
   "pwCategorySuggestions": "Community Building, Media Production",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Blockchain News & Media"
 }

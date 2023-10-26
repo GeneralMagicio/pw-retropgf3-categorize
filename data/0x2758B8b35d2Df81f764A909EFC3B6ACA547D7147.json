@@ -10,7 +10,10 @@
       "description": "Our team are standing at top 1 of all time curators chart of Sound.xyz"
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "With the efforts and research we have put in, my team and I have built a large web3 music community in Vietnam. We were able to raise nearly 30 ETH, which may not be a large amount, but it is a great achievement for us considering the web3 music market is still in its early stages and not many people are aware of it or know much about it.",
   "impactMetrics": [
     {
@@ -44,5 +47,6 @@
   "pwCategorySuggestions": "Web3 Community Platform, Decentralized Identity, Media Production",
   "pwRecategorizeToType": "PROJECT",
   "pwRecategorizeReason": "NO. The application is from a co-founder of a project, Camel Venture fund, and they talk about the efforts \"we\" have put in and what \"my team and I\" have achieved, indicating this is a project collaboration, not an individual.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Music & Creative NFTs"
 }

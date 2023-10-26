@@ -47,5 +47,6 @@
   "applicantAddress": "0x061A36DAe7F6e857a526978B052B1b0Cb882a1Dc",
   "pwIsFlagged": false,
   "pwCategorySuggestions": "Media Production, Community Building, Blockchain Education",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Blockchain News & Media"
 }

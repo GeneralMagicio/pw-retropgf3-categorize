@@ -79,5 +79,6 @@
   "applicantAddress": "0xFF0c6EC0130575e51e9B7173F1E095f188e3d524",
   "pwCategorySuggestions": "NFT Aggregator, Onchain Media, Community Building",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "NFTs, POAPs & Collectibles"
 }

@@ -40,5 +40,6 @@
   "pwRecategorizeToType": "PROJECT",
   "pwRecategorizeReason": "NO, the application is categorized as \"INDIVIDUAL\", but the applicant seems to be representing a project or a community, not just an individual.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, Governance & Tokens"
+  "pwCategorySuggestions": "Community Building, Governance & Tokens",
+  "pwCategory": "Community Building"
 }

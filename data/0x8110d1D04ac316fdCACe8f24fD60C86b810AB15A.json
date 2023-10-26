@@ -140,5 +140,6 @@
   "applicantAddress": "0x8110d1D04ac316fdCACe8f24fD60C86b810AB15A",
   "pwCategorySuggestions": "Token Engineering, Decentralized Governance, Open Source Research",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "DAO Tooling"
 }

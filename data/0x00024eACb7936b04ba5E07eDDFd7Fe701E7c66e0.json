@@ -10,7 +10,10 @@
       "description": "when opportunity meets ability it is more than luck"
     }
   ],
-  "impactCategory": ["COLLECTIVE_GOVERNANCE", "OP_STACK"],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "OP_STACK"
+  ],
   "impactDescription": "Through my contribution to the optimism community, I enhance the various events held and utilize the optimism network in order to ensure that transactions are conducted efficiently. Moreover, I help to resolve any bugs or problems in the optimism network.",
   "impactMetrics": [
     {
@@ -33,5 +36,6 @@
   "applicantAddress": "0x00024eACb7936b04ba5E07eDDFd7Fe701E7c66e0",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Developer Ecosystem, Web3 Community Platform, Blockchain Infrastructure"
+  "pwCategorySuggestions": "Developer Ecosystem, Web3 Community Platform, Blockchain Infrastructure",
+  "pwCategory": "Community Building"
 }

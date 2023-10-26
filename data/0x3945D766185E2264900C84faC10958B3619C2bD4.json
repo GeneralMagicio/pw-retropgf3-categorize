@@ -55,5 +55,6 @@
   "applicantAddress": "0x3945D766185E2264900C84faC10958B3619C2bD4",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Governance, Blockchain Infrastructure, Social Impact"
+  "pwCategorySuggestions": "Decentralized Governance, Blockchain Infrastructure, Social Impact",
+  "pwCategory": "Governance Tools"
 }

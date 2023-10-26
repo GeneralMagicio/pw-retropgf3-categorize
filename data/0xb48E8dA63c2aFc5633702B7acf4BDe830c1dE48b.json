@@ -30,7 +30,9 @@
       "description": "FAQ"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "Since launching, BasePaint has:\n1. Generated 150Eth in profits for artists on OP stack\n2. Created 64+ unique CC0 pixel canvases, minted 63,000 times from 14,000 unique minters.\n3. Had 2,203 unique contributing artists total, with over 650 artists contribute daily in every timezone (https://twitter.com/basepaint_xyz/status/1695460763669074004)\n4. Launched collaborations with Pixelmon, Lens, & PartyDAO.\n5. Launched the first pixel-verse concert series with SongaDayMann (https://songaday.world/auction/5388)\n6. Launched Community Theme Selection, with 27 collaborative themes selected by  collectors (https://x.com/basepaint_xyz/status/1705008848267010431?s=20)\n7. Community members had one of the canvas time lapses shown in Time Square (https://x.com/gtmcknight/status/1697991118166671469?s=20)",
   "impactMetrics": [
     {
@@ -98,5 +100,6 @@
   "applicantAddress": "0xb48E8dA63c2aFc5633702B7acf4BDe830c1dE48b",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Non-Fungible Tokens (NFTs), Community Building, Art Collaboration"
+  "pwCategorySuggestions": "Non-Fungible Tokens (NFTs), Community Building, Art Collaboration",
+  "pwCategory": "NFTs, POAPs & Collectibles"
 }

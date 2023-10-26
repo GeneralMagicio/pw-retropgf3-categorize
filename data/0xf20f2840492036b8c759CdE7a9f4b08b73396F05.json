@@ -82,5 +82,6 @@
   "applicantAddress": "0xf20f2840492036b8c759CdE7a9f4b08b73396F05",
   "pwCategorySuggestions": "NFTs, Media Production, Community Building",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "NFTs, POAPs & Collectibles"
 }

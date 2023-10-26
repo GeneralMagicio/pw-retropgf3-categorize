@@ -49,5 +49,6 @@
   "applicantAddress": "0xc7DfbB5262852a50080c601CeDa9B3D2459a0969",
   "pwCategorySuggestions": "Content Creation, Community Building, Media Production",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Web3 Education & Adoption"
 }
