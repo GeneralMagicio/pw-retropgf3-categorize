@@ -66,5 +66,6 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "Flag: The application violates rule 10. The main contribution highlighted is user interaction, namely sending transactions, which is explicitly stated to be out of scope for the RetroPGF program.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Layer 2 Scaling, NFTs, Blockchain Education"
+  "pwCategorySuggestions": "Layer 2 Scaling, NFTs, Blockchain Education",
+  "pwCategory": "Layer 2 Scaling"
 }

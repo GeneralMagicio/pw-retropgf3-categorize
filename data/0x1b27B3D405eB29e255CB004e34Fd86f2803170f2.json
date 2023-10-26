@@ -36,5 +36,6 @@
   "applicantAddress": "0x1b27B3D405eB29e255CB004e34Fd86f2803170f2",
   "pwIsFlagged": false,
   "pwCategorySuggestions": "NFTs, Environmental Sustainability, Community Building",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Environmental Sustainability"
 }

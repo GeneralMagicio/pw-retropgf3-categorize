@@ -65,7 +65,10 @@
       "description": "CryptoMage Time Travel Contract on Zora"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION", "OP_STACK"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
   "impactDescription": "1) I assisted over 12,500 users in beginning their blockchain journey through my YouTube channel.\n\n2) I increased awareness of the Optimism Collective by creating various videos on Base, Zora, and Optimism. In the past year, my videos collectively received more than 612,000 views.\n\n3) I actively thwarted common scams by creating and sharing 9 security and disinformation awareness videos.\n\n4) I provided support to over 2,000 users by responding to questions, offering tips, and sharing discoveries on my Discord server.\n\n5) I created an event for my community in the form of a freemint NFT collection with a reveal. 648 unique addresses interacted with the contract over 5091 transactions on Zora's blockchain.",
   "impactMetrics": [
     {
@@ -122,5 +125,6 @@
   "applicantAddress": "0x1609f039A96ce10756f5C6D403a80400DC081a02",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Content Creation, Community Building, NFT Aggregator"
+  "pwCategorySuggestions": "Content Creation, Community Building, NFT Aggregator",
+  "pwCategory": "Content Creation"
 }

@@ -20,7 +20,9 @@
       "description": "This is how I spread my appreciation and love about Optimism"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "When I shared my thoughts on Optimism Collective, I consistently approached it with honesty and genuineness. Just as I often relay the positive aspects of life to my friends, I brought that same enthusiasm to the contents. By focusing on the 'good stuff' that I'm passionate about, I aimed to uplift and inspire others.",
   "impactMetrics": [
     {
@@ -45,5 +47,6 @@
   "applicantAddress": "0x157Ea7465237654286Ba3FdfAeFD145cafc8859E",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "NFT Aggregator, Content Creation, Community Building"
+  "pwCategorySuggestions": "NFT Aggregator, Content Creation, Community Building",
+  "pwCategory": "Content Creation"
 }

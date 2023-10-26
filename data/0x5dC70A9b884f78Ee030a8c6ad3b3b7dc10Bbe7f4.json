@@ -40,9 +40,7 @@
       "description": "Unlock Protocol's Twitter"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Consumer use cases for Optimism are critical to increasing onboarding, adoption, and usage. Events are an obvious use case for Optimism, enabling people with and without crypto wallets to register for or buy tickets to an event.\n\nLegacy ticketing solutions don’t meet the needs of web3 and crypto event organizers.\n\nEvents by Unlock Labs enables no-code event creation, deploying a smart contract to Optimism that creates tickets that include event details, metadata, and other information relevant to an event. Enhancing the features and functionality of Events allows crypto-centric event organizers using web2 platforms (Eventbrite, Luma, Partiful) to embrace the technology their attendees expect them to champion..",
   "impactMetrics": [
     {
@@ -68,7 +66,7 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "displayName": "Patrick Workman",
+  "displayName": "Unlock Protocol",
   "applicantName": "Patrick Workman",
   "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5dC70A9b884f78Ee030a8c6ad3b3b7dc10Bbe7f4.jpeg",
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x5dC70A9b884f78Ee030a8c6ad3b3b7dc10Bbe7f4.jpeg",

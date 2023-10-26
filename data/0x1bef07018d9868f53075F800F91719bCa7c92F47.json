@@ -35,5 +35,6 @@
   "applicantAddress": "0x1bef07018d9868f53075F800F91719bCa7c92F47",
   "pwIsFlagged": false,
   "pwCategorySuggestions": "Smart Contract Platforms, Layer 2 Scaling, Developer Ecosystem",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Community Building"
 }
