@@ -37,8 +37,8 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x1b2d294ab6ca449e34F946B86540cd342cF49100.json",
   "RPGF3_Application_UID": "0xa73fdf49cc8adc368b06c25ee6fdcec7a908a359ea6eaf208927989964207f99",
   "applicantAddress": "0x1b2d294ab6ca449e34F946B86540cd342cF49100",
-  "pwIsFlagged": false,
+  "pwIsFlagged": true,
+  "pwFlaggedReason": "Fake application",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Collective Governance, Developer Ecosystem, Smart Contract Platforms",
-  "pwCategory": "Cross-Chain Interoperability"
+  "pwCategorySuggestions": "Collective Governance, Developer Ecosystem, Smart Contract Platforms"
 }
