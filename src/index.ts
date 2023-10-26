@@ -7,6 +7,7 @@ import color from "picocolors";
 import { exportCategorySuggestionsCsv } from "./exportCategorySuggestionsCsv";
 import { exportDescriptionsCsv } from "./exportCategoryDescriptionsCsv";
 import { exportFlaggedCsv } from "./exportFlaggedCsv";
+import { exportFullAsCsv } from "./exportFullAsCsv";
 import { exportFullAsJson } from "./exportFullAsJson";
 import { exportTwitterCsv } from "./exportTwitterCsv";
 import { exportWrongCategoryCsv } from "./exportWrongCategoryCsv";
@@ -91,6 +92,10 @@ async function selectYesNo(message: string): Promise<YesOrNo> {
           value: "exportTwitterCsv",
           label: "Export - Twitter contacts (CSV)",
         },
+        {
+          value: "exportFullCsv",
+          label: "Export - FULL (CSV)",
+        },
         { value: "exit", label: "Exit" },
       ],
     });
@@ -150,6 +155,9 @@ async function selectYesNo(message: string): Promise<YesOrNo> {
         break;
       case "exportTwitterCsv":
         await exportTwitterCsv();
+        break;
+      case "exportFullCsv":
+        await exportFullAsCsv();
         break;
       case "exit":
         outro("Bye!");
