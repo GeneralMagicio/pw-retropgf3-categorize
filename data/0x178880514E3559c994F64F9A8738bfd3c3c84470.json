@@ -42,8 +42,7 @@
   "RPGF3_Application_UID": "0xd5910abda3be72696c3b510687a73524d90a3f07b30e4a9523fa65acdd2a220e",
   "applicantAddress": "0x178880514E3559c994F64F9A8738bfd3c3c84470",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "The application should be flagged for violating the first rule of the grant program - it contains promises of future impacts and deliverables, including providing liquidity, promoting Optimism to a broader audience, and continuing to mint NFTs.",
+  "pwFlaggedReason": "trading and minting NFTs not valid contributions",
   "pwCategorySuggestions": "Tokenization Platforms, Decentralized Finance (DeFi), Community Building",
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "column 2"
+  "pwApplicantTypeChecked": true
 }

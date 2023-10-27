@@ -44,8 +44,8 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x053F0b6901841dCEc275b5BaA381E61Cb00Ec371.json",
   "RPGF3_Application_UID": "0x925dd92cd34595d22e95bf942d62f9f4cb1a368114c2c71cef2073f0edd4366b",
   "applicantAddress": "0x053F0b6901841dCEc275b5BaA381E61Cb00Ec371",
-  "pwIsFlagged": false,
+  "pwIsFlagged": true,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Community Building, User Experience & Adoption, Governance & Tokens",
-  "pwCategory": "column 1"
+  "pwFlaggedReason": "trading and LPing not valid contributions"
 }

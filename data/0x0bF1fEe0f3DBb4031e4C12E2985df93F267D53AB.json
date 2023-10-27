@@ -43,8 +43,7 @@
   "RPGF3_Application_UID": "0x951563f89bebf9f3d554d2f51086233c983aa4561682c7acf2ef04369971f2d1",
   "applicantAddress": "0x0bF1fEe0f3DBb4031e4C12E2985df93F267D53AB",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "Flagged for irrelevant contribution links and lack of clear contribution, as well as an insignificant bio.",
+  "pwFlaggedReason": "OP user is not a contribution",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, User Experience & Adoption, Governance & Tokens",
-  "pwCategory": "column 2"
+  "pwCategorySuggestions": "Community Building, User Experience & Adoption, Governance & Tokens"
 }

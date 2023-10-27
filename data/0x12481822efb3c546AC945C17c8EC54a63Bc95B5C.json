@@ -40,8 +40,8 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x12481822efb3c546AC945C17c8EC54a63Bc95B5C.json",
   "RPGF3_Application_UID": "0x43d98b976edfa31855310192d4a022b0e333112b1f1dc4669b7361344369608f",
   "applicantAddress": "0x12481822efb3c546AC945C17c8EC54a63Bc95B5C",
-  "pwIsFlagged": false,
+  "pwIsFlagged": true,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Smart Contract Platforms, Governance & Tokens",
-  "pwCategory": "Finance & DeFi"
+  "pwFlaggedReason": "LPing and options trading not a contribution"
 }

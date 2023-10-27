@@ -43,8 +43,8 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x08f40D5f8f85d7605e72C6e37DbeBadaB6149962.json",
   "RPGF3_Application_UID": "0x063f668e964f5fe2a53b1c518e34d139fec6898bb4af1eb296a7bdce2d434794",
   "applicantAddress": "0x08f40D5f8f85d7605e72C6e37DbeBadaB6149962",
-  "pwIsFlagged": false,
+  "pwIsFlagged": true,
   "pwCategorySuggestions": "Community Building, Promotion of Innovation and Positive Impact, Blockchain Education",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "column 3"
+  "pwFlaggedReason": "does not outline valid contribution"
 }

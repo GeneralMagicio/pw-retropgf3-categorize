@@ -39,8 +39,7 @@
   "RPGF3_Application_UID": "0xa0b46c64e39fd5be66ee535adb33f2233ae7871c912b5ed87fb1a82ebaa8735d",
   "applicantAddress": "0x01521f06C55526a7fFf11236B9a4ea65986bc1b3",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "This application should be flagged for promising future impact in the impact description.",
+  "pwFlaggedReason": "spam - nothingnothingnothing and describes retropgf distribution.",
   "pwCategorySuggestions": "Tokenization Platforms",
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Governance & Tokenomics"
+  "pwApplicantTypeChecked": true
 }
