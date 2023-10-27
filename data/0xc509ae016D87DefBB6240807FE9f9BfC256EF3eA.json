@@ -42,8 +42,7 @@
   "RPGF3_Application_UID": "0x3a201e7415c2252038aafcfddc22066d13d2fe1eaa0b20b22325e1ade525ddf6",
   "applicantAddress": "0xc509ae016D87DefBB6240807FE9f9BfC256EF3eA",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "Flagged: The applicant promises of future impact which is a violation of rule 1.",
+  "pwFlaggedReason": "no valid contribution outlined",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Content Creation, User Experience & Adoption, Decentralized Identity",
-  "pwCategory": "Mentorship & Resources"
+  "pwCategorySuggestions": "Content Creation, User Experience & Adoption, Decentralized Identity"
 }

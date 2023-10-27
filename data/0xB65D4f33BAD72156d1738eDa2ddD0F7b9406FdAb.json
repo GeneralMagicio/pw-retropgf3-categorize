@@ -46,8 +46,7 @@
   "RPGF3_Application_UID": "0xb9171aae6c9a62cbd781c03b6519741b44361a4e4c004557fdd06ab1861f5c6b",
   "applicantAddress": "0xB65D4f33BAD72156d1738eDa2ddD0F7b9406FdAb",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "The application should be flagged for containing spam and false statements, as the applicant has provided irrelevant answers, and their contribution and impact description is disjointed and unclear.",
+  "pwFlaggedReason": "no valid contribution",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Developer Ecosystem",
-  "pwCategory": "Community Building"
+  "pwCategorySuggestions": "Developer Ecosystem"
 }

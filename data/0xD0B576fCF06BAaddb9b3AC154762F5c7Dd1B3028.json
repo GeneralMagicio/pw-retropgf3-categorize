@@ -47,7 +47,6 @@
   "applicantAddress": "0xD0B576fCF06BAaddb9b3AC154762F5c7Dd1B3028",
   "pwCategorySuggestions": "Community Building, User Experience & Adoption, Governance & Tokens",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "Flag the application, as the applicant fails to provide clear and specific details regarding their contribution to the Web3/blockchain project, violating rule number 2 for making false claims about their contributions.",
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Community Building"
+  "pwFlaggedReason": "no contribution outlined",
+  "pwApplicantTypeChecked": true
 }

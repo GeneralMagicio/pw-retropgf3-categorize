@@ -39,10 +39,9 @@
   "RPGF3_Application_UID": "0x677a0f37e538e6b6bbd563450fed6c5bd5d9e388b2742a2bda970956c22dbdfa",
   "applicantAddress": "0xB5605612EDe935E5AE184a2F46c7fe101357d9C8",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "This application should be flagged for promising future impact and potential violation of rule 10 as user interactions (staking) are not within the scope of RetroPGF.",
+  "pwFlaggedReason": "not valid contribution",
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, the application is categorized as a \"PROJECT\" but the language used throughout refers to a single person implying it should be categorized as an \"INDIVIDUAL\".",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, Tokenization Platforms, Cryptocurrency Services",
-  "pwCategory": "Community Building"
+  "pwCategorySuggestions": "Community Building, Tokenization Platforms, Cryptocurrency Services"
 }

@@ -37,7 +37,6 @@
   "applicantAddress": "0xc6126583928F0D0D4243d71B2F670A02E181f5a4",
   "pwCategorySuggestions": "Community Building, User Experience & Adoption, Governance & Tokens",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "The application should be flagged for promising future impact which is not allowed according to the rules.",
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Community Building"
+  "pwFlaggedReason": "future impact",
+  "pwApplicantTypeChecked": true
 }

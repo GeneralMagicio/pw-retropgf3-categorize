@@ -41,8 +41,8 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x28322C3D6b8E9AF82A12533DC0aC3f5421a7E704.json",
   "RPGF3_Application_UID": "0xa79ad021936b5a5c1990b84f231b44981d139858eed173847fa36ab6162a50a7",
   "applicantAddress": "0x28322C3D6b8E9AF82A12533DC0aC3f5421a7E704",
-  "pwIsFlagged": false,
+  "pwIsFlagged": true,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Non-Fungible Tokens (NFTs), Community Building, Multilingual Community Support",
-  "pwCategory": "column 2"
+  "pwFlaggedReason": "NFT minting not a valid contribution"
 }

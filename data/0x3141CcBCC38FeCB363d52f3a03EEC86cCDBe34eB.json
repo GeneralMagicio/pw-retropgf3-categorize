@@ -34,8 +34,7 @@
   "RPGF3_Application_UID": "0x60a42cd93f9d0b29382846ea61e8b9eef2997451a212cb9e5ff9d3f68ee87010",
   "applicantAddress": "0x3141CcBCC38FeCB363d52f3a03EEC86cCDBe34eB",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "This application should be flagged for violating rule 10. The applicant does not provide a clear contribution to the collective and fails to demonstrate any measurable impact in the Web3/blockchain space.",
+  "pwFlaggedReason": "no valid contribution outlined",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Content Creation, Community Building, User Experience & Adoption",
-  "pwCategory": "Mentorship & Resources"
+  "pwCategorySuggestions": "Content Creation, Community Building, User Experience & Adoption"
 }

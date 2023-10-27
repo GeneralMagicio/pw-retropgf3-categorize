@@ -43,8 +43,7 @@
   "RPGF3_Application_UID": "0x9516c818a28e4983adad771d9f73986f1d575198746bfbfaf44617e565a85fd2",
   "applicantAddress": "0xc9caf3760A4Ba81aeD7a02FafC82C755aE0E7FB5",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "The application should be flagged for violating the Grant program rule 10. The applicant's contribution to the Web3/blockchain space is just using the technology and not specifically working on any projects that have a clear relationship to Optimism.",
+  "pwFlaggedReason": "not a valid contribution",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, User Experience & Adoption, Blockchain Education",
-  "pwCategory": "Community Building"
+  "pwCategorySuggestions": "Community Building, User Experience & Adoption, Blockchain Education"
 }

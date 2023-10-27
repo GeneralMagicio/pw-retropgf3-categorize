@@ -43,7 +43,7 @@
   "RPGF3_Application_UID": "0x81aee6f08d94b83c625e753f8fb9f1bcd04ad66f5249dc9b09083c6d09cb769c",
   "applicantAddress": "0x9D5C3Ef84eE86605b52196c99A1c6D96464e4C90",
   "pwCategorySuggestions": "Community Building, Governance & Tokens, Developer Ecosystem",
-  "pwIsFlagged": false,
+  "pwIsFlagged": true,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Community Building"
+  "pwFlaggedReason": "not valid contributions"
 }

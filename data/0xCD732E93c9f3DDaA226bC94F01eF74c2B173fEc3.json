@@ -67,7 +67,6 @@
   "applicantAddress": "0xCD732E93c9f3DDaA226bC94F01eF74c2B173fEc3",
   "pwCategorySuggestions": "Community Building, User Experience & Adoption, Developer Ecosystem",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "The application should be flagged for promising future impact, which is a violation of rule 1 of the grant program rules.",
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Community Building"
+  "pwFlaggedReason": "network use not valid contribution",
+  "pwApplicantTypeChecked": true
 }
