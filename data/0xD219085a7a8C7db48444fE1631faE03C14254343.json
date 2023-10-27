@@ -1,5 +1,5 @@
 {
-  "applicantType": "PROJECT",
+  "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://twitter.com/Vaibhav97814702",
   "bio": "a 20 yrs old boy from india !!!!",
   "contributionDescription": "We provided over 100 OP News updates to our audience of 2,000 podcast listeners and 230 newsletter subscribers.\nIn the fast-changing Optimism Collective, we play a crucial role in keeping users well-informed. OP News is a series of Optimism-related updates featured within our Ethereum News flash briefing in a dedicated segment called\nOptimism Highlights.",
@@ -48,6 +48,5 @@
   "pwIsFlagged": false,
   "pwRecategorizeToType": "PROJECT",
   "pwRecategorizeReason": "NO, this application is incorrectly categorized. It should be \"PROJECT\" as the applicant is referring to work done by \"we\" and a service provided to listeners and subscribers which implies a project or collective effort.",
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Blockchain News & Media"
+  "pwApplicantTypeChecked": true
 }
