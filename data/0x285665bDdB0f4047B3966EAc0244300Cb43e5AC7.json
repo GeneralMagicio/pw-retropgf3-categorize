@@ -1,5 +1,5 @@
 {
-  "applicantType": "PROJECT",
+  "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://www.sound.xyz/camel",
   "bio": "When people can connect each other through the emotions of music, only love remains in this world. I'm camel on the journey to do it.",
   "contributionDescription": "We want our community to be able to have an airdrop, or at least our voice can reach the hearts of the OP foundation, young and passionate leaders. I hope they understand the importance of music for the next cycle.\nArtists of all kinds have long struggled to support themselves, and NFTs offer a potentially viable way for them to support themselves. The fact that money is involved does not make them securities.\nWe find it important to support new artists participating in Web3.\n",
@@ -39,6 +39,5 @@
   "pwCategorySuggestions": "Non-Fungible Tokens (NFTs), Smart Contract Platforms, Music Streaming",
   "pwRecategorizeToType": "PROJECT",
   "pwRecategorizeReason": "NO. Although this application uses first-person references, indicating an individual, the applicant details a project (https://www.sound.xyz/camel) and outline collective achievements and goals which indicate a project application rather than an individual.",
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "NFTs, POAPs & Collectibles"
+  "pwApplicantTypeChecked": true
 }
