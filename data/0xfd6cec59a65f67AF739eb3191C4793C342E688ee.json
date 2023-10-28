@@ -43,8 +43,7 @@
   "RPGF3_Application_UID": "0x04912c70b96302d26a8f362f4ff95dcc641c1ede7089eaf3d5de9f13ae8ddfb8",
   "applicantAddress": "0xfd6cec59a65f67AF739eb3191C4793C342E688ee",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "This application should be flagged for promising future impact (\"i wish in the future i can get more airdrop from optimism and i wish optimism become number one crypto in the world\"), which violates Rule 1 of the grant program.",
+  "pwFlaggedReason": "no valid contribution",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Blockchain Infrastructure, User Experience & Adoption, Governance & Tokens",
-  "pwCategory": "Layer 2 & Cross-Chain Solutions"
+  "pwCategorySuggestions": "Blockchain Infrastructure, User Experience & Adoption, Governance & Tokens"
 }

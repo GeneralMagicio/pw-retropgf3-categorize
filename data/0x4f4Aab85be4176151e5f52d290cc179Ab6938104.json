@@ -45,8 +45,8 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x4f4Aab85be4176151e5f52d290cc179Ab6938104.json",
   "RPGF3_Application_UID": "0x370f0c47023a7ba7a5e70cb133d1b403dacd042aa208e124dc3e8a29b125e99f",
   "applicantAddress": "0x4f4Aab85be4176151e5f52d290cc179Ab6938104",
-  "pwIsFlagged": false,
+  "pwIsFlagged": true,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Smart Contract Platforms, Cross-Chain Platforms, Community Building",
-  "pwCategory": "column 2"
+  "pwFlaggedReason": "no valid contributions"
 }

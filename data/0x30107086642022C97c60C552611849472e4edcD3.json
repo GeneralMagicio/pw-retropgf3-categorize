@@ -49,8 +49,7 @@
   "RPGF3_Application_UID": "0x5bebfb1883d7ed47a4473ff5e5f17a543ddfdac4c503e072e98e353a4a77de88",
   "applicantAddress": "0x30107086642022C97c60C552611849472e4edcD3",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "This application should be flagged because it violates rule 1: promises of future impact. The applicant states multiple times that they hope the project will be successful in the future.",
+  "pwFlaggedReason": "no valid contributions",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, User Experience & Adoption, Cryptocurrency Services",
-  "pwCategory": "column 3"
+  "pwCategorySuggestions": "Community Building, User Experience & Adoption, Cryptocurrency Services"
 }

@@ -42,8 +42,7 @@
   "RPGF3_Application_UID": "0x003e99b295e21ca620ab462db8ff44b2f2ff91877a2ee380505d2a52d74a111c",
   "applicantAddress": "0xfd555256bE7f02Ce04509fa5dEC7C66164C33C66",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "This application should be flagged for promising future impact and contributions, which is against the rules of the grant program.",
+  "pwFlaggedReason": "no valid contribution",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Layer 2 Scaling, Governance & Tokens, Developer Ecosystem",
-  "pwCategory": "Layer 2 & Cross-Chain Solutions"
+  "pwCategorySuggestions": "Layer 2 Scaling, Governance & Tokens, Developer Ecosystem"
 }

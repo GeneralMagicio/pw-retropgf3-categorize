@@ -44,8 +44,7 @@
   "RPGF3_Application_UID": "0xa7c36cea04332c77d8fcdbc895a131cff62c2b6179d9ee52f6ad6538479caf5f",
   "applicantAddress": "0xB4244A468c035EB3fB42D4aA93040c4Bf1Bcc7b5",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "The application should be flagged because the applicant's contribution of user interactions (sending transactions, minting NFTs) on OP Mainnet falls under the scope that does not qualify to be rewarded in RetroPGF 3 according to grant program rule number 10.",
+  "pwFlaggedReason": "no valid contributions",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Finance (DeFi), Non-Fungible Tokens (NFTs), User Experience & Adoption",
-  "pwCategory": "User Experience & Adoption"
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Non-Fungible Tokens (NFTs), User Experience & Adoption"
 }

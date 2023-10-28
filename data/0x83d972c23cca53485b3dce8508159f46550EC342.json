@@ -34,8 +34,7 @@
   "RPGF3_Application_UID": "0xb1193e30684a9b00f4bad3a94da7c4d3cb0660dff088e3d4efd4a9a3bdc4a273",
   "applicantAddress": "0x83d972c23cca53485b3dce8508159f46550EC342",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "The application should be flagged for being in a language other than English.",
+  "pwFlaggedReason": "not in english",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Content Creation, Community Building, Tokenization Platforms",
-  "pwCategory": "User Testing & Quality Assurance"
+  "pwCategorySuggestions": "Content Creation, Community Building, Tokenization Platforms"
 }
