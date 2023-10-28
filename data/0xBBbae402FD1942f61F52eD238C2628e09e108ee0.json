@@ -41,8 +41,7 @@
   "RPGF3_Application_UID": "0xdea5b7630cc398b2b9a5b105c866e72a9f6d1a98dac7830b9d94ad8916f67110",
   "applicantAddress": "0xBBbae402FD1942f61F52eD238C2628e09e108ee0",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "This application should be flagged for violating the rules as it contains promises of future impact, which is against rule 1. The applicant states \"I will actively vote for the admin, I will do the tasks required by the project, I will actively use the network and give feedback, if I have a good idea I will propose it to the board, I will continue the discussion\". These are all actions they plan on doing in the future, not things they have already done.",
+  "pwFlaggedReason": "no valid contributions",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, Governance & Tokens, Decentralized Finance (DeFi)",
-  "pwCategory": "Governance & Tokenomics"
+  "pwCategorySuggestions": "Community Building, Governance & Tokens, Decentralized Finance (DeFi)"
 }

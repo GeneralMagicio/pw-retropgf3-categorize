@@ -39,10 +39,9 @@
   "RPGF3_Application_UID": "0x181ca5723b8510a26ce63b3dcd8b69fe2df56aa9f5ca800069e0665d7a5c1628",
   "applicantAddress": "0x690904b28737B21a949E03720720eD5364f4b0E0",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "This application should be flagged for violating the \"False statements & Deception\" rule as there are no concrete past contributions mentioned, instead, it has simply copy-pasted the grant guidelines into the application.",
+  "pwFlaggedReason": "no content contributed",
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, the application is not correctly categorized. It seems to be an individual (\"I love myself\", \"You are only evaluated based on the impact you already had\") posing as a project.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Governance Tokens",
-  "pwCategory": "Governance & Tokenomics"
+  "pwCategorySuggestions": "Governance Tokens"
 }
