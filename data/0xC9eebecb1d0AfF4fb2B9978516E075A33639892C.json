@@ -55,5 +55,6 @@
   "pwIsFlagged": false,
   "pwRecategorizeToType": "PROJECT",
   "pwRecategorizeReason": "NO, the application is miscategorized because although it is filled out by an individual, it discusses the contributions and impacts of a project (OpenX). It should be categorized as a \"PROJECT\".",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Fundraising & Capital Allocation"
 }

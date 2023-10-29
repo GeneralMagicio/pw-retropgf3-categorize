@@ -39,5 +39,6 @@
   "pwCategorySuggestions": "Non-Fungible Tokens (NFTs), Smart Contract Platforms, Music Streaming",
   "pwRecategorizeToType": "PROJECT",
   "pwRecategorizeReason": "NO. Although this application uses first-person references, indicating an individual, the applicant details a project (https://www.sound.xyz/camel) and outline collective achievements and goals which indicate a project application rather than an individual.",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Fundraising & Capital Allocation"
 }
