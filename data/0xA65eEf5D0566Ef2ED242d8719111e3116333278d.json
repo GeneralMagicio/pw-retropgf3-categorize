@@ -1,5 +1,5 @@
 {
-  "applicantType": "INDIVIDUAL",
+  "applicantType": "PROJECT",
   "websiteUrl": "https://guild.xyz",
   "bio": "I am Hanna, leading customer success at Guild.xyz. My main areas are building customer relationships, user education, and business development.",
   "contributionDescription": "Since integrating Optimism to Guild - supporting tokens, NFTs, contract queries and OP Attestations - our contributions have expanded by introducing wallet-based actions as requirements and gated NFT distribution on Optimism.\n\nWallet Activity requirements allows communities to create unique membership journeys for developers, high-volume traders and power users based on their onchain actions and interest, while protecting shared spaces from Sybils within the Optimism ecosystem.\n\nWe also have rolled out our native NFT distribution tool on Optimism recently. Guild’s native NFT reward and composable role structure enable builders to have greater control over the allocation and utilization of their assets within the community, while linking immediate value to them.",
@@ -57,5 +57,5 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, the application is not correctly categorized. The application is made by Hanna, an individual who works for Guild.xyz. Therefore, the \"applicantType\" field should be \"INDIVIDUAL\".",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "User Experience & Adoption"
+  "pwCategory": "Governance Tools"
 }

@@ -44,8 +44,8 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x1F011c52aaD07A32ff5639A6f2F759b838B30FAB.json",
   "RPGF3_Application_UID": "0x90a826da0d950c882d1e46822a9e8e35905bf4b094fa87812c4a25e635be5860",
   "applicantAddress": "0x1F011c52aaD07A32ff5639A6f2F759b838B30FAB",
-  "pwIsFlagged": false,
+  "pwIsFlagged": true,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "NFTs, Layer 2 Scaling, Blockchain Infrastructure",
-  "pwCategory": "Layer 2 & Cross-Chain Solutions"
+  "pwFlaggedReason": "not valid contribution"
 }

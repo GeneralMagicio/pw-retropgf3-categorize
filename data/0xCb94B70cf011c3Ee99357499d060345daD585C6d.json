@@ -1,5 +1,5 @@
 {
-  "applicantType": "INDIVIDUAL",
+  "applicantType": "PROJECT",
   "websiteUrl": "https://builder.gitcoin.co/#/chains/10/rounds/0x4ec3cf21e9a67f8b6bc8906c0a78407a9db9b5be",
   "bio": "Hello, I'm a Dapp Dev on Ethereum, traveling and hacking around the globe. Recently I started this idea to help the development of new projects in Próspera",
   "contributionDescription": "My contributions to OP would be building and testing DApps on the Optimism Mainnet, and begginning to create a community of builders around the OP stack, the plan is to with the grant money run a round to fund on development DApps built with the OP stack in the Island of Próspera",
@@ -47,6 +47,5 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, the application should be categorized as \"INDIVIDUAL\" because it refers to \"I\" and \"me\", indicating a single person, not a project.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Finance (DeFi), Developer Ecosystem, Community Building",
-  "pwCategory": "Fundraising & Capital Allocation"
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Developer Ecosystem, Community Building"
 }

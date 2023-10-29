@@ -42,8 +42,8 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x3437f6ED844013852650851D769ae7939B5e0aec.json",
   "RPGF3_Application_UID": "0x6030682fe8c5c892dfc2bb0a5b90d17edbcdd8bf0d94fa0c6f1ea641b2642655",
   "applicantAddress": "0x3437f6ED844013852650851D769ae7939B5e0aec",
-  "pwIsFlagged": false,
+  "pwIsFlagged": true,
   "pwCategorySuggestions": "NFTs, Layer 2 Scaling, Blockchain Infrastructure",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Music & Audio NFTs"
+  "pwFlaggedReason": "not valid contribution"
 }

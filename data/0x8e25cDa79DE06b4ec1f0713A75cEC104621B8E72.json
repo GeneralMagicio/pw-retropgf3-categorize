@@ -42,10 +42,10 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x8e25cDa79DE06b4ec1f0713A75cEC104621B8E72.json",
   "RPGF3_Application_UID": "0x75a21d19ed1025cc31c93e4a551e9bb354336e9f6f05f752c420b678f639ce64",
   "applicantAddress": "0x8e25cDa79DE06b4ec1f0713A75cEC104621B8E72",
-  "pwIsFlagged": false,
+  "pwIsFlagged": true,
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, the application is not correctly categorized because the \"impactDescription\" field indicates that the applicant is an individual, as it uses first-person pronouns like \"I\".",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Governance & Tokens, Developer Ecosystem, Blockchain Infrastructure",
-  "pwCategory": "Governance & Tokenomics"
+  "pwFlaggedReason": "not valid contribution"
 }

@@ -42,8 +42,7 @@
   "RPGF3_Application_UID": "0x2fccfdfda25152a0a201758b94cc299f465fc3da26b2a7e15f8e12148ed9412e",
   "applicantAddress": "0xCd5367827fc644E00db7d48f29A785D622Dd9E83",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "This application should be flagged for violating the grant rules with promises of future impact, as indicated by the statement \"I want to make optimism familiar and easy use for people around the world. And also can be use to passive income.\"",
+  "pwFlaggedReason": "not valid contribution, no valid links",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Layer 2 Scaling, User Experience & Adoption, Developer Ecosystem",
-  "pwCategory": "User Experience & Adoption"
+  "pwCategorySuggestions": "Layer 2 Scaling, User Experience & Adoption, Developer Ecosystem"
 }

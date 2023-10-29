@@ -38,8 +38,7 @@
   "RPGF3_Application_UID": "0x514a198204625b1f1b45b9a02b9e9d2a51d63ac0843c4a1c4c02ee97c5116de0",
   "applicantAddress": "0xa78dC5e1f4d75F1426A41eC13523C1ed61c8C8A7",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "The application should be flagged because the contribution and impact descriptions are promises of future impact, which violates rule 1. Also, part of the application is in a language other than English, violating rule 11.",
+  "pwFlaggedReason": "not valid contribution",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, User Experience & Adoption, Rewards Program",
-  "pwCategory": "User Experience & Adoption"
+  "pwCategorySuggestions": "Community Building, User Experience & Adoption, Rewards Program"
 }

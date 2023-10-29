@@ -45,8 +45,7 @@
   "RPGF3_Application_UID": "0xececbfbe455c65ccc5d51e5e62c1ae201a0089877938b5ebf7ccca3a717b6aea",
   "applicantAddress": "0xb3780DBC665aF423DD0B0cFB72465442B13ef46E",
   "pwIsFlagged": true,
-  "pwFlaggedReason": "Flag the application - The applicant promises future impact by saying they're promoting to onboard more people which goes against rule 1.",
+  "pwFlaggedReason": "not valid contribution",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, User Experience & Adoption, Tokenization Platforms",
-  "pwCategory": "User Experience & Adoption"
+  "pwCategorySuggestions": "Community Building, User Experience & Adoption, Tokenization Platforms"
 }

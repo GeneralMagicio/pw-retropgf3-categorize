@@ -1,5 +1,5 @@
 {
-  "applicantType": "INDIVIDUAL",
+  "applicantType": "PROJECT",
   "websiteUrl": "https://blockhead.info",
   "bio": "frontend dev・founder/decentralized data wrangler blockhead.info・UI/UX abstractionist・DeFi/web3 builder・hackathon bounty hunter・code artist・dropout・23・prev. dYdX",
   "contributionDescription": "Blockhead is a universal crypto/DeFi/web3 browser, implemented as a data-agnostic client-side web app with swappable data sources. Under the hood is a suite of highly composable Svelte-based UI/UX primitives which I continuously update and integrate with new protocols and data providers at various Ethereum/web3 hackathons.\n\nBlockhead started as a hackathon project at ETHGlobal's ETHOnline 2020, and I have been building it in the open for the past three years as a public good.",
@@ -77,5 +77,5 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO. The application should be categorized as \"INDIVIDUAL\" as the bio and contribution description indicate that the project is primarily undertaken by an individual \"I have been building it\", rather than a collective team effort.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "User Experience & Adoption"
+  "pwCategory": "Data Analytics & Insights"
 }
