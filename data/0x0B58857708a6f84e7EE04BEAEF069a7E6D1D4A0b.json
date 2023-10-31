@@ -49,8 +49,8 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x0B58857708a6f84e7EE04BEAEF069a7E6D1D4A0b.json",
   "RPGF3_Application_UID": "0x3486803613fb6ff9cfaa916f62f61faa86ce9f359d0a58c8b39d23fd45c135e3",
   "applicantAddress": "0x0B58857708a6f84e7EE04BEAEF069a7E6D1D4A0b",
-  "pwIsFlagged": false,
+  "pwIsFlagged": true,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Content Creation, Community Building, Developer Ecosystem",
-  "pwCategory": "Development & Infrastructure"
+  "pwFlaggedReason": "github page not available, general links to dune and etherscan"
 }
