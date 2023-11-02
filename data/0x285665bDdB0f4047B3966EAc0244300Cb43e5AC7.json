@@ -35,10 +35,10 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x285665bDdB0f4047B3966EAc0244300Cb43e5AC7.json",
   "RPGF3_Application_UID": "0xa0f771edd972c7dbe1367933ce0f4fbbdb7d126bf6d9ff569ceb7a454694826a",
   "applicantAddress": "0x285665bDdB0f4047B3966EAc0244300Cb43e5AC7",
-  "pwIsFlagged": false,
+  "pwIsFlagged": true,
   "pwCategorySuggestions": "Non-Fungible Tokens (NFTs), Smart Contract Platforms, Music Streaming",
   "pwRecategorizeToType": "PROJECT",
   "pwRecategorizeReason": "NO. Although this application uses first-person references, indicating an individual, the applicant details a project (https://www.sound.xyz/camel) and outline collective achievements and goals which indicate a project application rather than an individual.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "NFTs"
+  "pwFlaggedReason": "missed flag"
 }
