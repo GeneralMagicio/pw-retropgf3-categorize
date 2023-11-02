@@ -51,5 +51,5 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, it is not correctly categorized. The application talks about personal projects, uses \"I\" and \"me\", indicating that it is an individual applicant, not a project.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Blockchain Development"
+  "pwCategory": "Development & Infrastructure"
 }

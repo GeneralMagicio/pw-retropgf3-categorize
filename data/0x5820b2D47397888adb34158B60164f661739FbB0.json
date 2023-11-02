@@ -56,5 +56,5 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, the application is incorrectly categorized as \"PROJECT\". It should be \"INDIVIDUAL\" as the \"bio\" section indicates that it is an individual software engineer who is working on the project.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Blockchain Development"
+  "pwCategory": "Development & Infrastructure"
 }
