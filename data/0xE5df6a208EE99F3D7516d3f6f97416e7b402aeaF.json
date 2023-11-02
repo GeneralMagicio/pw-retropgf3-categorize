@@ -129,7 +129,6 @@
   "RPGF3_Application_UID": "0xef34b4a18cd1c2f3960adfadf663f6909755fa628856a9348f1ac8c47d631ae0",
   "applicantAddress": "0xE5df6a208EE99F3D7516d3f6f97416e7b402aeaF",
   "pwCategorySuggestions": "Community Building, Education, NFT Aggregator",
-  "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Community Building"
+  "pwIsFlagged": true,
+  "pwApplicantTypeChecked": true
 }

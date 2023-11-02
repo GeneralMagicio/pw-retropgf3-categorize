@@ -128,7 +128,6 @@
   "RPGF3_Application_UID": "0x3e0f34b627d69cfa2ad26dad2bf8a98272c4e30c0d6b604acdbd9a0ac86e9828",
   "applicantAddress": "0x49cA434088A569019F2e31D5b15A55D59A3e7d66",
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Aggregator Platforms, Open-source Development",
-  "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Exchanges, DEX, Trading & Liquidity"
+  "pwIsFlagged": true,
+  "pwApplicantTypeChecked": true
 }

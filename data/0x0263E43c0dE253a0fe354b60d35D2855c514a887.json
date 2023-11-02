@@ -61,8 +61,7 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x0263E43c0dE253a0fe354b60d35D2855c514a887.json",
   "RPGF3_Application_UID": "0x4384f12001b8b7bcbf3abe9d0a354378851b34f68634ef0e9cec92152c18c1c2",
   "applicantAddress": "0x0263E43c0dE253a0fe354b60d35D2855c514a887",
-  "pwIsFlagged": false,
+  "pwIsFlagged": true,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, Content Creation, Education",
-  "pwCategory": "Web3 Community Engagement"
+  "pwCategorySuggestions": "Community Building, Content Creation, Education"
 }

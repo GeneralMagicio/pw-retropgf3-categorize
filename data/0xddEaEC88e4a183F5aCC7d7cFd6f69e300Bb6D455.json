@@ -35,7 +35,6 @@
   "RPGF3_Application_UID": "0xa015a4a665f834fd11e71bf368ae33857180d76c818d9ea202cde974115e2fc8",
   "applicantAddress": "0xddEaEC88e4a183F5aCC7d7cFd6f69e300Bb6D455",
   "pwCategorySuggestions": "Content Creation, Community Building, User Experience & Adoption",
-  "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Blockchain Development"
+  "pwIsFlagged": true,
+  "pwApplicantTypeChecked": true
 }

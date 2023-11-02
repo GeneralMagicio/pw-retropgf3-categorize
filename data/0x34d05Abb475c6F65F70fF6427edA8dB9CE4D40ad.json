@@ -62,8 +62,7 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x34d05Abb475c6F65F70fF6427edA8dB9CE4D40ad.json",
   "RPGF3_Application_UID": "0xb44dcb78ec5e929894422c4adcdce6eb5890447ac00e04af4a446494b2589274",
   "applicantAddress": "0x34d05Abb475c6F65F70fF6427edA8dB9CE4D40ad",
-  "pwIsFlagged": false,
+  "pwIsFlagged": true,
   "pwCategorySuggestions": "NFTs, Community Building, User Experience & Adoption",
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Creative NFTs & Art"
+  "pwApplicantTypeChecked": true
 }

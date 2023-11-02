@@ -35,10 +35,9 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xE7f71aa9498FebDD9Dd33D336670e86d85850688.json",
   "RPGF3_Application_UID": "0xb98f37a1a68bc52581a4af99ce183333c064c23bc9b6f5b25c0234db2811b71b",
   "applicantAddress": "0xE7f71aa9498FebDD9Dd33D336670e86d85850688",
-  "pwIsFlagged": false,
+  "pwIsFlagged": true,
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, this application is not correctly categorized. Even though there are mentions of a smart contract, the application seems to be from an individual, as evident from the usage of first person pronouns like 'I' and 'me'.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Smart Contract Platforms, Developer Ecosystem, Blockchain Infrastructure",
-  "pwCategory": "Blockchain Development"
+  "pwCategorySuggestions": "Smart Contract Platforms, Developer Ecosystem, Blockchain Infrastructure"
 }

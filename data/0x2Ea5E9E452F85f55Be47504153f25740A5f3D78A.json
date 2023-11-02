@@ -34,10 +34,9 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x2Ea5E9E452F85f55Be47504153f25740A5f3D78A.json",
   "RPGF3_Application_UID": "0x03a28a0edff1fa90f03f65a75b3864f5023cccfd9853325c8175af887ddf805a",
   "applicantAddress": "0x2Ea5E9E452F85f55Be47504153f25740A5f3D78A",
-  "pwIsFlagged": false,
+  "pwIsFlagged": true,
   "pwRecategorizeToType": "PROJECT",
   "pwRecategorizeReason": "NO, the application is incorrectly categorized as it refers to \"we will help them solve the problem\" suggesting a group or project effort rather than an individual's contribution.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, User Experience & Adoption, Developer Ecosystem",
-  "pwCategory": "Web3 Community Engagement"
+  "pwCategorySuggestions": "Community Building, User Experience & Adoption, Developer Ecosystem"
 }

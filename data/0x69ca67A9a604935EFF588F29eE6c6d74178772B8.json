@@ -39,7 +39,6 @@
   "RPGF3_Application_UID": "0x7a4c028fc4e592e9d80d90b8cc52635bec2b678574e8f4afb75137631a626b77",
   "applicantAddress": "0x69ca67A9a604935EFF588F29eE6c6d74178772B8",
   "pwCategorySuggestions": "Community Building, User Experience & Adoption, Tokenization Platforms",
-  "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Onboarding"
+  "pwIsFlagged": true,
+  "pwApplicantTypeChecked": true
 }

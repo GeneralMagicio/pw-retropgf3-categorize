@@ -37,6 +37,5 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for promises of future impact, with the applicant stating that they believe they will have an impact in the future.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, Content Creation, Web3 Community Platform",
-  "pwCategory": "Content Creation & Media"
+  "pwCategorySuggestions": "Community Building, Content Creation, Web3 Community Platform"
 }

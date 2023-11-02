@@ -45,6 +45,5 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged due to rule 11: spam. The application includes irrelevant and nonsensical text in the contribution and impact descriptions.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Blockchain Infrastructure",
-  "pwCategory": "Blockchain Development"
+  "pwCategorySuggestions": "Blockchain Infrastructure"
 }

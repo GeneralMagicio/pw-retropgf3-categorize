@@ -54,7 +54,6 @@
   "RPGF3_Application_UID": "0x1f363ca7ce3c3adabaf3d9e2feee5cece624649f4ecb43ff84ec8d9b6329d58d",
   "applicantAddress": "0xE4747F53aCc2175236C5977b25DcEe16a4558d8a",
   "pwCategorySuggestions": "NFTs, Music, Content Creation",
-  "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Music & Audio NFTs"
+  "pwIsFlagged": true,
+  "pwApplicantTypeChecked": true
 }

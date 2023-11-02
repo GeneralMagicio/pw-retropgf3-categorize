@@ -10,7 +10,9 @@
       "description": "task"
     }
   ],
-  "impactCategory": ["COLLECTIVE_GOVERNANCE"],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
   "impactDescription": "                                                                                                                                                                                                                                                                 ",
   "impactMetrics": [
     {

@@ -120,9 +120,8 @@
   "RPGF3_Application_UID": "0x08996e04730303bd981fca765055b18858c85c17d7717d4ece3e8c104c260b01",
   "applicantAddress": "0xDfEe6525Affca9144c51C1B307D1fba75b8277C3",
   "pwCategorySuggestions": "Community Building, Media Production",
-  "pwIsFlagged": false,
+  "pwIsFlagged": true,
   "pwRecategorizeToType": "PROJECT",
   "pwRecategorizeReason": "NO, the application is not correctly categorized as it appears to be from a project (KeepCalm DAO) rather than an individual.",
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Local Blockchain Communities"
+  "pwApplicantTypeChecked": true
 }

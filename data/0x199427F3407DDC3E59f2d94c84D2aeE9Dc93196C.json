@@ -36,6 +36,5 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for violating the rule of \"Outside of RetroPGF's scope.\" The applicant does not clearly demonstrate a valid contribution in their description, instead focusing mostly on the difficulties they are having with withdrawing their funds.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Wallet Management, User Experience & Adoption",
-  "pwCategory": "User Experience & Adoption"
+  "pwCategorySuggestions": "Wallet Management, User Experience & Adoption"
 }

@@ -45,6 +45,5 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for violating the rules by promising future deliverables, as the applicant states they will bring their work to the Optimism Ecosystem next year.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Governance & Tokens",
-  "pwCategory": "Governance & Tokenomics"
+  "pwCategorySuggestions": "Governance & Tokens"
 }

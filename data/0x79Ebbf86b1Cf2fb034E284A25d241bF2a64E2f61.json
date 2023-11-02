@@ -43,8 +43,7 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x79Ebbf86b1Cf2fb034E284A25d241bF2a64E2f61.json",
   "RPGF3_Application_UID": "0x93f2df318bec06a4f53ac3c13a5efeadf3151d84660f64d435d0223925641cb7",
   "applicantAddress": "0x79Ebbf86b1Cf2fb034E284A25d241bF2a64E2f61",
-  "pwIsFlagged": false,
+  "pwIsFlagged": true,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, User Experience & Adoption, Governance & Tokens",
-  "pwCategory": "Interactions"
+  "pwCategorySuggestions": "Community Building, User Experience & Adoption, Governance & Tokens"
 }

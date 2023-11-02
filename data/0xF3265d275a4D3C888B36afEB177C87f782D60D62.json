@@ -10,7 +10,9 @@
       "description": "0xf36e50968d20d1dd8bc78526c41416e514e668b7b5cfa02f0b27310347c5bdb7"
     }
   ],
-  "impactCategory": ["OP_STACK"],
+  "impactCategory": [
+    "OP_STACK"
+  ],
   "impactDescription": "Optimism’s vision is to build a global system where positive impact to the collective is rewarded by profit to the individual. RetroPGF is an experimental mechanism to realize this goal of By funding public goods sustainably, the Collective can create a rich ecosystem and a better economy",
   "impactMetrics": [
     {

@@ -126,8 +126,7 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x70a4e7e0b399c6AB736B15d66410f7015a8C6663.json",
   "RPGF3_Application_UID": "0x145cab73ffe93483d520d2815da725bbbc8da24e861260ff52afcba92f0da2c3",
   "applicantAddress": "0x70a4e7e0b399c6AB736B15d66410f7015a8C6663",
-  "pwIsFlagged": false,
+  "pwIsFlagged": true,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Media Production, Cryptocurrency Services",
-  "pwCategory": "Blockchain News & Media"
+  "pwCategorySuggestions": "Media Production, Cryptocurrency Services"
 }

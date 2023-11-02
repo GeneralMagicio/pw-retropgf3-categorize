@@ -10,7 +10,9 @@
       "description": "Sasy"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "This part of your application helps badgeholders understand how your work has benefitted the Optimism Collective. We strongly encourage you spend time going into detail here.\n\nBadgeholders will be relying heavily on this information. If you need help, view our guidelines.\n",
   "impactMetrics": [
     {

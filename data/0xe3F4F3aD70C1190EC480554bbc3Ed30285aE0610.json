@@ -25,7 +25,10 @@
       "description": "Deresy UI"
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "We are building on Optimism because we believe our evaluation tools could be used as a part of future rounds of the RetroPGF program. Based on talking with some badge holders the review process evolves each round. While our protocol has yet to be fully deployed to mainnet, we are targeting a launch before the end of the year. We have employed six developers who are now building on Optimism. We are working closely with Hypercerts Protocol to become the evaluation layer for Hypercerts, a Claim of Impact. We are talking to Gitcoin and other grantmakers who can use our tools to verify grantee impact. We are designing funding mechanisms for the impact certificates to drive additional users to OP. Receiving RetroPGF will support our team as we continue to add value to Optimism.",
   "impactMetrics": [
     {

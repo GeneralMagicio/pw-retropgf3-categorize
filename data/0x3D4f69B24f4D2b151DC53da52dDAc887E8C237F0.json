@@ -51,7 +51,6 @@
   "RPGF3_Application_UID": "0x08b9ec609e8439ab3b9bc160283fad28078abca1cbee16bca0da822d240f27b4",
   "applicantAddress": "0x3D4f69B24f4D2b151DC53da52dDAc887E8C237F0",
   "pwCategorySuggestions": "Blockchain Social Platform, Cross-Chain Solution, Content Creation",
-  "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Cross-Chain Interoperability"
+  "pwIsFlagged": true,
+  "pwApplicantTypeChecked": true
 }

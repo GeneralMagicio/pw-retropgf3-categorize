@@ -10,7 +10,9 @@
       "description": "Optimism monorepo"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "Just a zebra testing. Just a zebra testing. Just a zebra testing. Just a zebra testing. Just a zebra testing. Just a zebra testing. Just a zebra testing. Just a zebra testing. Just a zebra testing. Just a zebra testing. Just a zebra testing. Just a zebra testing. Just a zebra testing. Just a zebra testing. ",
   "impactMetrics": [
     {

@@ -35,7 +35,6 @@
   "RPGF3_Application_UID": "0x6627e10fe8d835c4af48ead52ce8f8da14e9ec08e491f37e0a1aa4d7e937966e",
   "applicantAddress": "0xAAb2C54130A07B1033711Fc5962074a08549E957",
   "pwCategorySuggestions": "Smart Contract Platforms, Decentralized Finance (DeFi), Blockchain Infrastructure",
-  "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Blockchain Development"
+  "pwIsFlagged": true,
+  "pwApplicantTypeChecked": true
 }

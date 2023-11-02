@@ -40,6 +40,5 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged because it violates rule 10 as user interactions, such as sending transactions and minting NFTs, are not considered valid contributions according to the grant program rules.",
   "pwCategorySuggestions": "NFTs, DeFi, Testing",
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "User Testing & Quality Assurance"
+  "pwApplicantTypeChecked": true
 }

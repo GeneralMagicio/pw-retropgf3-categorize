@@ -41,8 +41,7 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x65DC3d4512B0F506Eb4d139c5140611D2A60D527.json",
   "RPGF3_Application_UID": "0x5dbdb1bfbdb381cb59c7e8c6eed98f4cd248cbef32e93ce65d58186ca5bf38b8",
   "applicantAddress": "0x65DC3d4512B0F506Eb4d139c5140611D2A60D527",
-  "pwIsFlagged": false,
+  "pwIsFlagged": true,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Tokenization Platforms, User Experience & Adoption, Community Building",
-  "pwCategory": "Onboarding"
+  "pwCategorySuggestions": "Tokenization Platforms, User Experience & Adoption, Community Building"
 }

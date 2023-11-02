@@ -72,6 +72,5 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "Flagged: The application violates rule 10 as the contributions mentioned do not have a clear relationship to Optimism and are not specific to Optimism.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Blockchain Education, Content Creation, Community Building",
-  "pwCategory": "Blockchain Education"
+  "pwCategorySuggestions": "Blockchain Education, Content Creation, Community Building"
 }

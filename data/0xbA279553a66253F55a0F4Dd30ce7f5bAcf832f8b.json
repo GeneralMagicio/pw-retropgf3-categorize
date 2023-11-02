@@ -47,6 +47,5 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for promising future impacts and deliverable which violates the first rule of the grant program.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Blockchain Infrastructure, Developer Ecosystem, Community Building",
-  "pwCategory": "Security & Auditing"
+  "pwCategorySuggestions": "Blockchain Infrastructure, Developer Ecosystem, Community Building"
 }

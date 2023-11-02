@@ -76,7 +76,6 @@
   "RPGF3_Application_UID": "0xf34407790c3cc4747ec7dc174fe00e7608c6cdc5467ee614f53a5b573267fc4c",
   "applicantAddress": "0xC9737651e2A88E2e3E8395AC98B4E3a360733369",
   "pwCategorySuggestions": "Tokenization Platforms, NFT Aggregator, Web3 Community Platform",
-  "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Music & Audio NFTs"
+  "pwIsFlagged": true,
+  "pwApplicantTypeChecked": true
 }

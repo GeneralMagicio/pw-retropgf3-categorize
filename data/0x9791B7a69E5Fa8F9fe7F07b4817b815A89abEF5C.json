@@ -10,7 +10,9 @@
       "description": "NFT trade "
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "We aim to attract over 50,000 users to use our dapp within 3 months, and 500,000 in a year. Every user can generate their exclusive social assets and connect to more soulmates in our project.\n\n- Lowered the barrier to entry for creating social assets through the integration of visual social score and AIGC, enriching the op ecosystem.\n- Innovative transaction and incentive mechanisms providing creators in op ecosystem with diverse monetization tools.\n- Combined with the ERC-6551 and Abstract Accounts, the composable social metaverse has expanded the use cases for NFTs in op ecosystem.",
   "impactMetrics": [
     {

@@ -47,7 +47,6 @@
   "RPGF3_Application_UID": "0x5a8b2dc9ed6835d5cd846bf77cf2a8ae83f80fab8e66e873c664f0c9e41a0dea",
   "applicantAddress": "0x98608709ff4b73e73fEF159Ada888F0c50048557",
   "pwCategorySuggestions": "Decentralized Identity, Community Building, Layer 2 Scaling",
-  "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Exchanges, DEX, Trading & Liquidity"
+  "pwIsFlagged": true,
+  "pwApplicantTypeChecked": true
 }

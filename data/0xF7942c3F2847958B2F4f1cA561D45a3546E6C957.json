@@ -10,7 +10,9 @@
       "description": "No"
     }
   ],
-  "impactCategory": ["OP_STACK"],
+  "impactCategory": [
+    "OP_STACK"
+  ],
   "impactDescription": "OB is an applied behavioral science built on contributions from a number of behavioral disciplines, mainly psychology and social psychology, sociology, and anthropology. Psychology’s contributions have been principally at the individual or micro level of analysis, while the other disciplines have contributed to our understanding of macro concepts such as group processes and organization. Exhibit 1-3 is an overview of the major contributions to the study of organizational behavior.\n\nExhibit",
   "impactMetrics": [
     {

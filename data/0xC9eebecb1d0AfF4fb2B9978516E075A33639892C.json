@@ -52,9 +52,8 @@
   "RPGF3_Application_UID": "0xad0cdf5986a9518f5fa2c5e09ca3be46281ce63d82bb12b984934b1ee58d3726",
   "applicantAddress": "0xC9eebecb1d0AfF4fb2B9978516E075A33639892C",
   "pwCategorySuggestions": "Tokenization Platforms, Decentralized Finance (DeFi), Web3 Community Platform",
-  "pwIsFlagged": false,
+  "pwIsFlagged": true,
   "pwRecategorizeToType": "PROJECT",
   "pwRecategorizeReason": "NO, the application is miscategorized because although it is filled out by an individual, it discusses the contributions and impacts of a project (OpenX). It should be categorized as a \"PROJECT\".",
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Fundraising & Capital Allocation"
+  "pwApplicantTypeChecked": true
 }

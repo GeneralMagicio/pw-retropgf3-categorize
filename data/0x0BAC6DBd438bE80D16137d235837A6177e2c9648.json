@@ -10,7 +10,9 @@
       "description": "."
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "                                                                                                                                                                                                                                                                            ",
   "impactMetrics": [
     {

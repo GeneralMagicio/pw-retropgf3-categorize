@@ -97,7 +97,6 @@
   "RPGF3_Application_UID": "0x621d5a35c3f1adc137b749da5ba1763ad32b364bcaca9b212b825794dc515f17",
   "applicantAddress": "0xE1e5dcbBc95aabE80E2f9c65C7A2cEF85daF61C4",
   "pwCategorySuggestions": "Non-Fungible Tokens (NFTs), Web3 Community Platform, Decentralized Identity",
-  "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Blockchain Education"
+  "pwIsFlagged": true,
+  "pwApplicantTypeChecked": true
 }

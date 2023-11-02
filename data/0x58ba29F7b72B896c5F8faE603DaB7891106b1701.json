@@ -228,7 +228,6 @@
   "RPGF3_Application_UID": "0x90a0df94274a3baadba6bad013350182cf13c31242fc318e25ff8e2ca84ae2a9",
   "applicantAddress": "0x58ba29F7b72B896c5F8faE603DaB7891106b1701",
   "pwCategorySuggestions": "Blockchain Infrastructure, Web3 Community Platform, Developer Ecosystem",
-  "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Ethereum Infrastructure"
+  "pwIsFlagged": true,
+  "pwApplicantTypeChecked": true
 }

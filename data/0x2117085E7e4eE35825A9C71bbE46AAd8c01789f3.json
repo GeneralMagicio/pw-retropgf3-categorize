@@ -50,8 +50,7 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x2117085E7e4eE35825A9C71bbE46AAd8c01789f3.json",
   "RPGF3_Application_UID": "0x7f02a8bbd6da623b7df2eec269f539230a251a8417202a5e1ebc5ebf98444486",
   "applicantAddress": "0x2117085E7e4eE35825A9C71bbE46AAd8c01789f3",
-  "pwIsFlagged": false,
+  "pwIsFlagged": true,
   "pwCategorySuggestions": "Developer Ecosystem, Education, Community Building",
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Awarness"
+  "pwApplicantTypeChecked": true
 }

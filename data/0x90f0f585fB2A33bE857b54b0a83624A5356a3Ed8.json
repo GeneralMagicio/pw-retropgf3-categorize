@@ -43,8 +43,7 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x90f0f585fB2A33bE857b54b0a83624A5356a3Ed8.json",
   "RPGF3_Application_UID": "0x73ae3d20abf3b0d424c9224861bef44756185bc1e48823b78cc9897de3d3a295",
   "applicantAddress": "0x90f0f585fB2A33bE857b54b0a83624A5356a3Ed8",
-  "pwIsFlagged": false,
+  "pwIsFlagged": true,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building",
-  "pwCategory": "Onboarding"
+  "pwCategorySuggestions": "Community Building"
 }

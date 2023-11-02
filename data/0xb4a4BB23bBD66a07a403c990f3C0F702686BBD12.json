@@ -37,6 +37,5 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for promising future impact. The applicant promises that they \"will make NFT on op network or somethink , or i can make some token in Op network,\" which goes against Rule 1 of the grant program as it suggests future deliverables.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Tokenization Platforms, Decentralized Finance (DeFi), Community Building",
-  "pwCategory": "Development & Infrastructure"
+  "pwCategorySuggestions": "Tokenization Platforms, Decentralized Finance (DeFi), Community Building"
 }

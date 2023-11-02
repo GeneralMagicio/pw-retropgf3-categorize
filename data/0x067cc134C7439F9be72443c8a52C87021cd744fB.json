@@ -41,8 +41,7 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x067cc134C7439F9be72443c8a52C87021cd744fB.json",
   "RPGF3_Application_UID": "0x8acaa7799abc028554f23692d097e616e8132060b8066da5f8ed167125b66946",
   "applicantAddress": "0x067cc134C7439F9be72443c8a52C87021cd744fB",
-  "pwIsFlagged": false,
+  "pwIsFlagged": true,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "End-User Experience, Decentralized Finance (DeFi), Blockchain Infrastructure",
-  "pwCategory": "NFTs"
+  "pwCategorySuggestions": "End-User Experience, Decentralized Finance (DeFi), Blockchain Infrastructure"
 }

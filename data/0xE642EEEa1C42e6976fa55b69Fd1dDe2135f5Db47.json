@@ -35,9 +35,8 @@
   "RPGF3_Application_UID": "0x0d84f696bfbf26a02f03f11929f3ad4bdab5c3331ad357eadc67981b310a6bea",
   "applicantAddress": "0xE642EEEa1C42e6976fa55b69Fd1dDe2135f5Db47",
   "pwCategorySuggestions": "Smart Contract Platforms, Decentralized Exchanges (DEXs), Developer Ecosystem",
-  "pwIsFlagged": false,
+  "pwIsFlagged": true,
   "pwRecategorizeToType": "PROJECT",
   "pwRecategorizeReason": "NO, this application refers to a group effort and the description provided indicates this applicant is representing a team or a project, not an individual.",
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Developer Education & Mentoring"
+  "pwApplicantTypeChecked": true
 }

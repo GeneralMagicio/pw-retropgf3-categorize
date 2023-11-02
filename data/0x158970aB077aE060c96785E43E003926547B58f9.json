@@ -43,6 +43,5 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for containing spam, as it has irrelevant answers and irrelevant/broken impact metrics and contribution links.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Blockchain Education, Developer Ecosystem",
-  "pwCategory": "Development & Infrastructure"
+  "pwCategorySuggestions": "Blockchain Education, Developer Ecosystem"
 }

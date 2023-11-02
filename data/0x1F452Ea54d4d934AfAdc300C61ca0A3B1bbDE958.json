@@ -36,8 +36,7 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x1F452Ea54d4d934AfAdc300C61ca0A3B1bbDE958.json",
   "RPGF3_Application_UID": "0xb18ad415862b4ffb0ec553e1b633772c935ff74501fd2c46365bcd05d80fade2",
   "applicantAddress": "0x1F452Ea54d4d934AfAdc300C61ca0A3B1bbDE958",
-  "pwIsFlagged": false,
+  "pwIsFlagged": true,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, Content Creation, Social Media Marketing",
-  "pwCategory": "Onboarding"
+  "pwCategorySuggestions": "Community Building, Content Creation, Social Media Marketing"
 }

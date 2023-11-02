@@ -10,7 +10,9 @@
       "description": "Good project "
     }
   ],
-  "impactCategory": ["OP_STACK"],
+  "impactCategory": [
+    "OP_STACK"
+  ],
   "impactDescription": "Sangat mendukung proyek ini sampai sukses. Karena ini salah satu dari proyek yang di kembangkan dengan transpan . Yang terpenting ini sangat fleksibel mudah di mengerti dan biaya gasfee yang sangat murah. Bagi seseorang pemula pasti tidak merasa dirugikan dengan biaya gas yang harus di bayar ",
   "impactMetrics": [
     {

@@ -104,7 +104,6 @@
   "RPGF3_Application_UID": "0xc006760fd9e200525b623bdef2ad95baf217dff39971d05533d69af04f81e739",
   "applicantAddress": "0xd3eFbc65713C307d3057b7E0979A996F6A9799AC",
   "pwCategorySuggestions": "NFT Marketplace, Layer 2 Scaling, Blockchain Infrastructure",
-  "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "NFTs, POAPs & Collectibles"
+  "pwIsFlagged": true,
+  "pwApplicantTypeChecked": true
 }

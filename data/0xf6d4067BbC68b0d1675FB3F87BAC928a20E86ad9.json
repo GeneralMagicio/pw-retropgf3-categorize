@@ -34,7 +34,6 @@
   "RPGF3_Application_UID": "0x74440b51801cdec570b224c6d7de5eb2270edc0955d0e3acb14af7832e643d88",
   "applicantAddress": "0xf6d4067BbC68b0d1675FB3F87BAC928a20E86ad9",
   "pwCategorySuggestions": "Decentralized Identity, User Experience & Adoption, DApps Rating Platform",
-  "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Digital Identity & Social Privacy Innovations"
+  "pwIsFlagged": true,
+  "pwApplicantTypeChecked": true
 }

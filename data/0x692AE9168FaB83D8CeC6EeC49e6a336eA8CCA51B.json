@@ -35,10 +35,9 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x692AE9168FaB83D8CeC6EeC49e6a336eA8CCA51B.json",
   "RPGF3_Application_UID": "0xbc77e29635539c48958bbb674f687a19531eacf13baf2015f8962d6e67fd96a2",
   "applicantAddress": "0x692AE9168FaB83D8CeC6EeC49e6a336eA8CCA51B",
-  "pwIsFlagged": false,
+  "pwIsFlagged": true,
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, the application is incorrectly categorized as it is made by an individual named Victoria, as mentioned in the bio.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Blockchain Education",
-  "pwCategory": "Education"
+  "pwCategorySuggestions": "Blockchain Education"
 }

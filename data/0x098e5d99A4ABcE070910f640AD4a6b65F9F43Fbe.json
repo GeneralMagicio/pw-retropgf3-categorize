@@ -10,7 +10,10 @@
       "description": "Excelsheet"
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "                                                                                                                                                                                                                                                                   ",
   "impactMetrics": [
     {

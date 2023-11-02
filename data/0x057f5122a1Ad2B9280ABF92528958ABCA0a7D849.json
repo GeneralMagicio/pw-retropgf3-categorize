@@ -45,6 +45,5 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for being outside of RetroPGF's scope as user interactions like the transactions mentioned are not considered valid contributions.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Developer Ecosystem, User Experience & Adoption",
-  "pwCategory": "User Experience & Adoption"
+  "pwCategorySuggestions": "Developer Ecosystem, User Experience & Adoption"
 }

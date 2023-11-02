@@ -76,7 +76,6 @@
   "RPGF3_Application_UID": "0xa562f6cd8d38b520f42777e121c23d710d9953bbb11e78d53cb9fe34feab1193",
   "applicantAddress": "0xf32dd1Bd55bD14d929218499a2E7D106F72f79c7",
   "pwCategorySuggestions": "Decentralized Commerce, Web3 Community Platform, Tokenization Platforms",
-  "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Exchanges, DEX, Trading & Liquidity"
+  "pwIsFlagged": true,
+  "pwApplicantTypeChecked": true
 }

@@ -41,6 +41,5 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for promising future impact and contributions, which is a violation of the rules.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, Blockchain Education, Cryptocurrency Services",
-  "pwCategory": "Interactions"
+  "pwCategorySuggestions": "Community Building, Blockchain Education, Cryptocurrency Services"
 }

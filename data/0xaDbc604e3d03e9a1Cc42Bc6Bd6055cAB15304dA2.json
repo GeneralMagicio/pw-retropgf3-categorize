@@ -54,8 +54,7 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xaDbc604e3d03e9a1Cc42Bc6Bd6055cAB15304dA2.json",
   "RPGF3_Application_UID": "0xe35c148db9b121165dcfd533b91921a0dfa3f23729b17bfacc06c06b93404086",
   "applicantAddress": "0xaDbc604e3d03e9a1Cc42Bc6Bd6055cAB15304dA2",
-  "pwIsFlagged": false,
+  "pwIsFlagged": true,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, User Experience & Adoption, Decentralized Identity",
-  "pwCategory": "User Experience & Adoption"
+  "pwCategorySuggestions": "Community Building, User Experience & Adoption, Decentralized Identity"
 }

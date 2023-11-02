@@ -38,8 +38,7 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x75232B3a9A500748356fB605297862Bb9cbdd53d.json",
   "RPGF3_Application_UID": "0xb8d343210bca085f06a8b89dfe735dd9fb3a51658da13e2f6fc95c04c7a025c0",
   "applicantAddress": "0x75232B3a9A500748356fB605297862Bb9cbdd53d",
-  "pwIsFlagged": false,
+  "pwIsFlagged": true,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Finance (DeFi), Blockchain Infrastructure, Governance & Tokens",
-  "pwCategory": "Layer 2 & Cross-Chain Solutions"
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Blockchain Infrastructure, Governance & Tokens"
 }

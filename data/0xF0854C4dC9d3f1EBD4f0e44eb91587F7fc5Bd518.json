@@ -35,8 +35,7 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xF0854C4dC9d3f1EBD4f0e44eb91587F7fc5Bd518.json",
   "RPGF3_Application_UID": "0x1938597b3d66a2174c8977f076658a80daf92120e3a89e666c0478a8015b745f",
   "applicantAddress": "0xF0854C4dC9d3f1EBD4f0e44eb91587F7fc5Bd518",
-  "pwIsFlagged": false,
+  "pwIsFlagged": true,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "NFT Aggregator, Community Building",
-  "pwCategory": "Onboarding"
+  "pwCategorySuggestions": "NFT Aggregator, Community Building"
 }

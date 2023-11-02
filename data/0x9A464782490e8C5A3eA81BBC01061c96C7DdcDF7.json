@@ -36,10 +36,9 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x9A464782490e8C5A3eA81BBC01061c96C7DdcDF7.json",
   "RPGF3_Application_UID": "0xc7af251aacde1f191aad6185a912e3464a047f0eae0ae522f7699e85253a70b4",
   "applicantAddress": "0x9A464782490e8C5A3eA81BBC01061c96C7DdcDF7",
-  "pwIsFlagged": false,
+  "pwIsFlagged": true,
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO. The application is made by an individual not a project as the applicant uses terms such as \"I\" and \"my\" in the descriptions provided.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Developer Ecosystem, Cross-Chain Platforms, Community Building",
-  "pwCategory": "Awarness"
+  "pwCategorySuggestions": "Developer Ecosystem, Cross-Chain Platforms, Community Building"
 }

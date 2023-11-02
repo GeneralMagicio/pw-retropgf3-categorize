@@ -52,8 +52,7 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x4F4a595bdc00ACF85eFb90b1f2171d475F1a63B7.json",
   "RPGF3_Application_UID": "0xdc5c6d5def0ce6658b13860804a452df0f08e5045896ee7e65d4dae96aac1ca2",
   "applicantAddress": "0x4F4a595bdc00ACF85eFb90b1f2171d475F1a63B7",
-  "pwIsFlagged": false,
+  "pwIsFlagged": true,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "NFT Marketplace, Decentralized Finance (DeFi), Web3 Community Platform",
-  "pwCategory": "NFTs, POAPs & Collectibles"
+  "pwCategorySuggestions": "NFT Marketplace, Decentralized Finance (DeFi), Web3 Community Platform"
 }

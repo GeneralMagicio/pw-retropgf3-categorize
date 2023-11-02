@@ -10,7 +10,9 @@
       "description": "Lighthouse main repository"
     }
   ],
-  "impactCategory": ["OP_STACK"],
+  "impactCategory": [
+    "OP_STACK"
+  ],
   "impactDescription": "Our primary work here has not yet been released. The goal of the Deneb fork is to significantly reduce Optimism's fees by dramatically decreasing the cost for layer 2's to store data on the Ethereum base layer. Once complete we imagine adoption of layer 2's to be significant and most of the current layer 1 load to shift to layer 2's like Optimism.",
   "impactMetrics": [
     {
@@ -52,7 +54,7 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xd66190FAE43F6094665cD1aBCbd9Cc70Dfa8BA03.json",
   "RPGF3_Application_UID": "0x795c02e18131bf22626db5172ecbe21e0ee7316ed73921ad079b4d2989dce8b6",
   "applicantAddress": "0xd66190FAE43F6094665cD1aBCbd9Cc70Dfa8BA03",
-  "pwIsFlagged": true,
+  "pwIsFlagged": false,
   "pwFlaggedReason": "This application should be flagged for promising future deliverables or impact, which goes against the rule 1 of the program. The application states that their work has not yet been released with the goal of significantly reducing Optimism's fees though Deneb fork.",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Layer 2 Scaling, Smart Contract Platforms, Blockchain Infrastructure"

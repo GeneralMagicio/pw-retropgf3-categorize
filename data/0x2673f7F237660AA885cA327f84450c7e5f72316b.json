@@ -47,6 +47,5 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged because the impactDescription and parts of the application contain content in a language other than English, violating rule 11.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Exchanges (DEXs)",
-  "pwCategory": "Finance & DeFi"
+  "pwCategorySuggestions": "Decentralized Exchanges (DEXs)"
 }

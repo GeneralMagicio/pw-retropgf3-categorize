@@ -47,6 +47,5 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged because it includes promises of future impact, which is against the rules outlined for the grants program.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Finance (DeFi), Content Creation, Cryptocurrency Services",
-  "pwCategory": "Content Creation & Media"
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Content Creation, Cryptocurrency Services"
 }

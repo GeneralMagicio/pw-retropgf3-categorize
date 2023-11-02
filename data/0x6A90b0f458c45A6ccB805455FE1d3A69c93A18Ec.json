@@ -44,6 +44,5 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged because it contains content in a language other than English.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Tokenization Platforms, Developer Ecosystem, Community Building",
-  "pwCategory": "Development & Infrastructure"
+  "pwCategorySuggestions": "Tokenization Platforms, Developer Ecosystem, Community Building"
 }

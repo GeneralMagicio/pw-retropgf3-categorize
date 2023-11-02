@@ -34,8 +34,7 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xF7401728edd23290d8099eD73f155101dCf8CC0C.json",
   "RPGF3_Application_UID": "0x683cc066545682db16c429830ab0c77dc9cd70e95107c1bb618f67ff16447c62",
   "applicantAddress": "0xF7401728edd23290d8099eD73f155101dCf8CC0C",
-  "pwIsFlagged": false,
+  "pwIsFlagged": true,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Education & Promotion, DeFi, Layer 2 Scaling",
-  "pwCategory": "Blockchain Education"
+  "pwCategorySuggestions": "Education & Promotion, DeFi, Layer 2 Scaling"
 }

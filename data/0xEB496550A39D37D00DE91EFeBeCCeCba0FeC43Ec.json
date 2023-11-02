@@ -44,10 +44,9 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xEB496550A39D37D00DE91EFeBeCCeCba0FeC43Ec.json",
   "RPGF3_Application_UID": "0x62e4db16b6f593d51cebdd89595cadf1657ef80d22ea28fa1794f6e66f6d873f",
   "applicantAddress": "0xEB496550A39D37D00DE91EFeBeCCeCba0FeC43Ec",
-  "pwIsFlagged": false,
+  "pwIsFlagged": true,
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "The application is not correctly categorized. It should be categorized as \"INDIVIDUAL\" as the applicant refers to themselves as \"I\" and \"me\" throughout the application.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, User Experience & Adoption",
-  "pwCategory": "Onboarding"
+  "pwCategorySuggestions": "Community Building, User Experience & Adoption"
 }

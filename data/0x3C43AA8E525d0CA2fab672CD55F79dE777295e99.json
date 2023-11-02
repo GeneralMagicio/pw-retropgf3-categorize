@@ -67,8 +67,7 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x3C43AA8E525d0CA2fab672CD55F79dE777295e99.json",
   "RPGF3_Application_UID": "0x5dd8f925837f3dcece9f7c7ed0a5eb99688a14de81bc4b4d48c65f728cfbfee5",
   "applicantAddress": "0x3C43AA8E525d0CA2fab672CD55F79dE777295e99",
-  "pwIsFlagged": false,
+  "pwIsFlagged": true,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "1. End-User Experience & Adoption,\n2. Collective Governance",
-  "pwCategory": "Governance & Tokenomics"
+  "pwCategorySuggestions": "1. End-User Experience & Adoption,\n2. Collective Governance"
 }

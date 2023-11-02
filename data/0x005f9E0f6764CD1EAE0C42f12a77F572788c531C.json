@@ -47,6 +47,5 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, the application is not correctly categorized. It appears to be an individual rather than a project, as the applicant has a personal name (\"Herculaz\"), which contrasts with the \"PROJECT\" category listed in the \"applicantType\" field.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Layer 2 Scaling, Smart Contract Platforms, Blockchain Infrastructure",
-  "pwCategory": "Layer 2 Scaling"
+  "pwCategorySuggestions": "Layer 2 Scaling, Smart Contract Platforms, Blockchain Infrastructure"
 }

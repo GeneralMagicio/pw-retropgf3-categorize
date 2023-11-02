@@ -40,6 +40,5 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for violating the rule against non-English applications and possibly for spam/irrelevancy given the untranslated Vietnamese content and questionable impact metrics.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Blockchain Infrastructure, User Experience & Adoption",
-  "pwCategory": "Blockchain Development"
+  "pwCategorySuggestions": "Blockchain Infrastructure, User Experience & Adoption"
 }

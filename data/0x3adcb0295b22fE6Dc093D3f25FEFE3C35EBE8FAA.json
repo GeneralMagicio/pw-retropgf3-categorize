@@ -43,7 +43,6 @@
   "RPGF3_Application_UID": "0x699156eaa0722212e4109ca5d3dadfcd1065c9c1e2805924342f281be545b8e8",
   "applicantAddress": "0x3adcb0295b22fE6Dc093D3f25FEFE3C35EBE8FAA",
   "pwCategorySuggestions": "Blockchain Gaming",
-  "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Gaming & Entertainment"
+  "pwIsFlagged": true,
+  "pwApplicantTypeChecked": true
 }

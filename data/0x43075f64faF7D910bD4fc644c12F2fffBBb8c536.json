@@ -40,8 +40,7 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x43075f64faF7D910bD4fc644c12F2fffBBb8c536.json",
   "RPGF3_Application_UID": "0xd96f608ed991ad278bcceb432b3b69834307de82f8213ab4da67c31d2677821e",
   "applicantAddress": "0x43075f64faF7D910bD4fc644c12F2fffBBb8c536",
-  "pwIsFlagged": false,
+  "pwIsFlagged": true,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Content Creation, Community Building, Governance & Tokens",
-  "pwCategory": "Education"
+  "pwCategorySuggestions": "Content Creation, Community Building, Governance & Tokens"
 }

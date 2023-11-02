@@ -42,7 +42,6 @@
   "RPGF3_Application_UID": "0x2ae09a1d405daff5b5635866ec7cc5bae5ec9b6ae9883bc9a3a8786008c2715d",
   "applicantAddress": "0xd284114F4c684CBf7c6c13f31Ee395ed376505eC",
   "pwCategorySuggestions": "Governance & Tokens, Developer Ecosystem, Blockchain Infrastructure",
-  "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Governance & Tokenomics"
+  "pwIsFlagged": true,
+  "pwApplicantTypeChecked": true
 }

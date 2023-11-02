@@ -41,8 +41,7 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xE32F096Db0EB9A0600b0cBEb7CEDB37f21690ed7.json",
   "RPGF3_Application_UID": "0x4ede3f335b8704b3cc3c910fb5328e82c74f6306f22710b4e83381213429a935",
   "applicantAddress": "0xE32F096Db0EB9A0600b0cBEb7CEDB37f21690ed7",
-  "pwIsFlagged": false,
+  "pwIsFlagged": true,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, Blockchain Education, Cryptocurrency Services",
-  "pwCategory": "Blockchain Education"
+  "pwCategorySuggestions": "Community Building, Blockchain Education, Cryptocurrency Services"
 }

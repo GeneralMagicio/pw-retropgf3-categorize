@@ -67,7 +67,6 @@
   "RPGF3_Application_UID": "0xfe8cc74cd4ebe86a7d18e440bd90d90ff98d847ad2a3e0a5674902741ba824c3",
   "applicantAddress": "0xc622420AD9dE8E595694413F24731Dd877eb84E1",
   "pwCategorySuggestions": "Decentralized Domain Name System, Layer 2 Scaling, Community Building",
-  "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Digital Identity & Social Privacy Innovations"
+  "pwIsFlagged": true,
+  "pwApplicantTypeChecked": true
 }

@@ -44,6 +44,5 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for being outside of RetroPGF's scope as the contributions made by the individual are user interactions, which are explicitly stated as not in scope to be rewarded in RetroPGF 3.",
   "pwCategorySuggestions": "Layer 2 Scaling, Smart Contract Platforms",
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "NFTs"
+  "pwApplicantTypeChecked": true
 }

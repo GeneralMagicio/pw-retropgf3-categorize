@@ -43,8 +43,7 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x3b3f8478B194cAE514c7c7A91Dc9c25Ddb98FEB7.json",
   "RPGF3_Application_UID": "0x00839e36d61309db21dc590bbc4f15ea6b891280464932ea3ee854e64886bc3e",
   "applicantAddress": "0x3b3f8478B194cAE514c7c7A91Dc9c25Ddb98FEB7",
-  "pwIsFlagged": false,
+  "pwIsFlagged": true,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Blockchain Education, Community Building, Layer 2 Scaling",
-  "pwCategory": "Web3 Community Engagement"
+  "pwCategorySuggestions": "Blockchain Education, Community Building, Layer 2 Scaling"
 }

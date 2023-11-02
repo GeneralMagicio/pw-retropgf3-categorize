@@ -45,6 +45,5 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for spam due to repeated content in both the contributionDescription and impactDescription sections.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Developer Ecosystem, Governance & Tokens, Community Building",
-  "pwCategory": "Governance & Tokenomics"
+  "pwCategorySuggestions": "Developer Ecosystem, Governance & Tokens, Community Building"
 }

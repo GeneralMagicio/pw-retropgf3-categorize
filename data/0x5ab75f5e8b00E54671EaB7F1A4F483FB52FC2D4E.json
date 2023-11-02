@@ -44,10 +44,9 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x5ab75f5e8b00E54671EaB7F1A4F483FB52FC2D4E.json",
   "RPGF3_Application_UID": "0x170f0050060e0233bee25c373ebc3e170a39690ac46268e434ae452d793857c9",
   "applicantAddress": "0x5ab75f5e8b00E54671EaB7F1A4F483FB52FC2D4E",
-  "pwIsFlagged": false,
+  "pwIsFlagged": true,
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, this application is not correctly categorized. Despite the \"PROJECT\" category, the application uses \"I\" and \"me\", indicating it is from an individual named \"Soyduende\".",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Governance & Tokens, Developer Ecosystem, Decentralized Finance (DeFi)",
-  "pwCategory": "Governance & Tokenomics"
+  "pwCategorySuggestions": "Governance & Tokens, Developer Ecosystem, Decentralized Finance (DeFi)"
 }

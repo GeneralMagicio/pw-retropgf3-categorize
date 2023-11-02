@@ -34,8 +34,7 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xB3e33E96bef4fdCC034cAA376e6737773b120289.json",
   "RPGF3_Application_UID": "0xdd7e3417a23c4151bc0127c064abfc5c8c9918655da4339f693c99e90438da5c",
   "applicantAddress": "0xB3e33E96bef4fdCC034cAA376e6737773b120289",
-  "pwIsFlagged": false,
+  "pwIsFlagged": true,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, NFT Enthusiast, Blockchain Gaming",
-  "pwCategory": "Interactions"
+  "pwCategorySuggestions": "Community Building, NFT Enthusiast, Blockchain Gaming"
 }

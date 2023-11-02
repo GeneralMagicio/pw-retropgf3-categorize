@@ -34,10 +34,9 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xa2F28A71cca242aBe55AEC0Ff046c1C8dCdE5eDD.json",
   "RPGF3_Application_UID": "0x871c89bc90ce389fa016eb8e0b805f8dc921b6a15d9b52667886a62e6bbac693",
   "applicantAddress": "0xa2F28A71cca242aBe55AEC0Ff046c1C8dCdE5eDD",
-  "pwIsFlagged": false,
+  "pwIsFlagged": true,
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, this application should be categorized as \"INDIVIDUAL\" as the bio section includes first person pronouns like \"I\" and \"me\".",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Blockchain Infrastructure, Web3 Community Platform, Developer Ecosystem",
-  "pwCategory": "Blockchain Development"
+  "pwCategorySuggestions": "Blockchain Infrastructure, Web3 Community Platform, Developer Ecosystem"
 }

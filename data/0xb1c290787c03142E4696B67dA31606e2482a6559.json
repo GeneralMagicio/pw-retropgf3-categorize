@@ -51,7 +51,6 @@
   "RPGF3_Application_UID": "0xcc6eced5cb10ded4e141ba2cb6a4d73a9392ff57123e8f3f5e0ffdebd4f7177b",
   "applicantAddress": "0xb1c290787c03142E4696B67dA31606e2482a6559",
   "pwCategorySuggestions": "Blockchain Gaming, NFT Aggregator, Tokenization Platforms",
-  "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Gaming & Entertainment"
+  "pwIsFlagged": true,
+  "pwApplicantTypeChecked": true
 }

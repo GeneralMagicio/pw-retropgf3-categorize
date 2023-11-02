@@ -44,7 +44,6 @@
   "RPGF3_Application_UID": "0x29fa8e0408b12cb483e6f377d4ea0a8abe70ba200f05929582479d8afa607b20",
   "applicantAddress": "0x8Fe90E1618b97f30E043107ACe36aF91AcD1a1A3",
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Layer 2 Scaling, Non-Fungible Tokens (NFTs)",
-  "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Governance & Tokenomics"
+  "pwIsFlagged": true,
+  "pwApplicantTypeChecked": true
 }

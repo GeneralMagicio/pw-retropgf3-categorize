@@ -56,6 +56,5 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged because it promises future deliverables or impact which is violation of Rule 1.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Governance & Tokens, Decentralized Finance (DeFi), Non-Fungible Tokens (NFTs)",
-  "pwCategory": "Governance & Tokenomics"
+  "pwCategorySuggestions": "Governance & Tokens, Decentralized Finance (DeFi), Non-Fungible Tokens (NFTs)"
 }

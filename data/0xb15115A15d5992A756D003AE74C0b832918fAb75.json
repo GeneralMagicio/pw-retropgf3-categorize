@@ -15,7 +15,10 @@
       "description": "Donate3 code repository"
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "As a donation tool, Donate3 can save developers time and improve donor experience. In the past 1 years, users have created 6 transactions through Donate3, generating approximately 0.058 ETH in OP network and 11181 downloads in npm. In the future, Donate3 hopes to introduce more liquidity to the optimism network, enhance the integration of the OP network with charitable causes, and promote the development of public goods on the OP chain.",
   "impactMetrics": [
     {
@@ -60,7 +63,7 @@
   "RPGF3_Application_UID": "0x7d3cb52c6e006ca04df32b6bef1982962c0669a7b9d826114cf9f40c0ce9be97",
   "applicantAddress": "0xb15115A15d5992A756D003AE74C0b832918fAb75",
   "pwCategorySuggestions": "Tokenization Platforms, Blockchain Infrastructure, Decentralized Finance (DeFi)",
-  "pwIsFlagged": true,
+  "pwIsFlagged": false,
   "pwFlaggedReason": "The application should be flagged because it violates Rule 1: promises of future deliverables or impact are not allowed. The applicant mentioned, \"In the future, Donate3 hopes to introduce more liquidity to the optimism network, enhance the integration of the OP network with charitable causes, and promote the development of public goods on the OP chain.\" This is a clear promise of future impact.",
   "pwApplicantTypeChecked": true
 }

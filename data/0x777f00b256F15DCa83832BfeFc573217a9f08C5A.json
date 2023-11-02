@@ -41,8 +41,7 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x777f00b256F15DCa83832BfeFc573217a9f08C5A.json",
   "RPGF3_Application_UID": "0x4f47bc81a3c561ca8d1b163f5c484f91cac72bbeb0b0e0ce7538a2bbecffe3a0",
   "applicantAddress": "0x777f00b256F15DCa83832BfeFc573217a9f08C5A",
-  "pwIsFlagged": false,
+  "pwIsFlagged": true,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Layer 2 Scaling",
-  "pwCategory": "Layer 2 & Cross-Chain Solutions"
+  "pwCategorySuggestions": "Layer 2 Scaling"
 }

@@ -45,10 +45,9 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x002748dB885D4CCfe3C7C92143f0805F4eBEEC01.json",
   "RPGF3_Application_UID": "0x747117672689bf3fe3ea5069d77a4ed92d662594b10447e80f9e025faab82f16",
   "applicantAddress": "0x002748dB885D4CCfe3C7C92143f0805F4eBEEC01",
-  "pwIsFlagged": false,
+  "pwIsFlagged": true,
   "Applicant Type": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, the application is miscategorized. The \"contributionDescription\" and \"impactDescription\" sections use \"I\" indicating an individual applicant, not a project.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Layer 2 Scaling, Blockchain Education",
-  "pwCategory": "Education"
+  "pwCategorySuggestions": "Layer 2 Scaling, Blockchain Education"
 }

@@ -38,6 +38,5 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for violating rule 11 as it contains repeated phrases in the contribution and impact description and it is not in English.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Content Creation, Community Building, Blockchain Education",
-  "pwCategory": "International & Multilingual Support"
+  "pwCategorySuggestions": "Content Creation, Community Building, Blockchain Education"
 }

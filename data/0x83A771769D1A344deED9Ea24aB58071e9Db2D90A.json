@@ -25,7 +25,9 @@
       "description": "The 4th largest lending protocol on Optimism"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "dForce aims to become a leading platform for LSD lending on Optimism. In Feb 2023, we collaborated with Lido to reward wstETH lending activities and became the 4th largest holder of wstETH on Optimism. Recently, dForce DAO has approved for Rocket Pool’s rETH to be used as collateral on Optimism with the hope to offer users the choice between different LSD assets to facilitate their investment strategies.\n\nWe also received two grants from Optimism in Phase 1 and Cycle 11. The grants were utilized to incentivize lending and trading via various liquidity mining campaigns and to offer bribes for USX/USDC on Velodrome.",
   "impactMetrics": [
     {
@@ -75,7 +77,7 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x83A771769D1A344deED9Ea24aB58071e9Db2D90A.json",
   "RPGF3_Application_UID": "0x76a3260167144f6bd35d5cb0996e48edf645100aa3b4abcd6302a454d34bcee0",
   "applicantAddress": "0x83A771769D1A344deED9Ea24aB58071e9Db2D90A",
-  "pwIsFlagged": true,
+  "pwIsFlagged": false,
   "pwFlaggedReason": "This application should be flagged for violation of rule 7 - Bribery. It mentions offering bribes for USX/USDC on Velodrome.",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Stablecoins, Layer 2 Scaling"

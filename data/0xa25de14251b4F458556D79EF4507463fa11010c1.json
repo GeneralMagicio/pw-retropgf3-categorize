@@ -37,8 +37,7 @@
   "RPGF3_Application_UID": "0xe40ea642808c4fce867db3e02275358325a9d6325e929ff751c4bbe23741dda9",
   "applicantAddress": "0xa25de14251b4F458556D79EF4507463fa11010c1",
   "pwCategorySuggestions": "Smart Contract Platforms, Layer 2 Scaling",
-  "pwIsFlagged": true,
+  "pwIsFlagged": false,
   "pwFlaggedReason": "The application should be flagged for violating rule number 1. The applicant hopes for a retroactive reward but does not provide concrete evidence of past verifiable contributions or impact.",
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Blockchain Development"
+  "pwApplicantTypeChecked": true
 }

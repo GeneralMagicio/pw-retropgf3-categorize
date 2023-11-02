@@ -51,8 +51,7 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x5785523D831e155E38e5b94512E62E594e30D97a.json",
   "RPGF3_Application_UID": "0xa79f4f55f6c742e70ff1844e1201b85acc6073bdb286458318e97ae54819f529",
   "applicantAddress": "0x5785523D831e155E38e5b94512E62E594e30D97a",
-  "pwIsFlagged": false,
+  "pwIsFlagged": true,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "User Experience & Adoption, Community Building, Smart Contract Platforms",
-  "pwCategory": "User Testing & Quality Assurance"
+  "pwCategorySuggestions": "User Experience & Adoption, Community Building, Smart Contract Platforms"
 }

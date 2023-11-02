@@ -10,7 +10,10 @@
       "description": "Previous project "
     }
   ],
-  "impactCategory": ["COLLECTIVE_GOVERNANCE", "OP_STACK"],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "OP_STACK"
+  ],
   "impactDescription": "Increase privacy on the optimism network, this project will be helping increase the privacy on Optimism with the help of technology that helps users break the on chain link with their main wallet address and the wallet address they would like the funds to be on. ",
   "impactMetrics": [
     {

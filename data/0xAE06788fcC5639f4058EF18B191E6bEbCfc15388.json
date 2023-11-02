@@ -46,6 +46,5 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for promising future impact and deliverables which violates rule 1 of the grant program.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, Marketing, Tokenization Platforms",
-  "pwCategory": "Onboarding"
+  "pwCategorySuggestions": "Community Building, Marketing, Tokenization Platforms"
 }

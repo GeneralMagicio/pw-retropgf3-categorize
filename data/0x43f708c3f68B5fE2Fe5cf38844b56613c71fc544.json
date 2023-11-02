@@ -45,6 +45,5 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for promising future impact which is in violation of the grant program rules.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, User Experience & Adoption",
-  "pwCategory": "Onboarding"
+  "pwCategorySuggestions": "Community Building, User Experience & Adoption"
 }

@@ -45,6 +45,5 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged because the contribution description and impact description are left empty.",
   "pwCategorySuggestions": "Content Creation, Community Building, Media Production",
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Content Creation & Media"
+  "pwApplicantTypeChecked": true
 }

@@ -43,6 +43,5 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, the application is not correctly categorized. The applicant is talking in the first person which indicates it's an individual and not a project.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building",
-  "pwCategory": "Awarness"
+  "pwCategorySuggestions": "Community Building"
 }

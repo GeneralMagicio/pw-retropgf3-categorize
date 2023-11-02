@@ -43,10 +43,9 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x2758B8b35d2Df81f764A909EFC3B6ACA547D7147.json",
   "RPGF3_Application_UID": "0x801b6edf293467a883cf1fe81fd174eab4a47a038df2d329e590b207be55f6c9",
   "applicantAddress": "0x2758B8b35d2Df81f764A909EFC3B6ACA547D7147",
-  "pwIsFlagged": false,
+  "pwIsFlagged": true,
   "pwCategorySuggestions": "Web3 Community Platform, Decentralized Identity, Media Production",
   "pwRecategorizeToType": "PROJECT",
   "pwRecategorizeReason": "NO. The application is from a co-founder of a project, Camel Venture fund, and they talk about the efforts \"we\" have put in and what \"my team and I\" have achieved, indicating this is a project collaboration, not an individual.",
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "NFTs, POAPs & Collectibles"
+  "pwApplicantTypeChecked": true
 }

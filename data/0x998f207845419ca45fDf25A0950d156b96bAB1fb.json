@@ -40,6 +40,5 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "Flag the application, it appears to violate rule number 2 as the applicant claims to have contributed to Optimism by providing advanced data analysis and other enhancements, but they do not provide verifiable proof of such contributions. Moreover, the contribution link leads to a Telegram group instead of a valid project or contribution.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Layer 2 Scaling",
-  "pwCategory": "Layer 2 & Cross-Chain Solutions"
+  "pwCategorySuggestions": "Layer 2 Scaling"
 }

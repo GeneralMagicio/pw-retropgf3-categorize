@@ -20,7 +20,9 @@
       "description": "Quests on Optimism"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "For about a year, we've provided educational resources, support and teachings to hundreds users on Optimism. Casually enhancing user's competence conducting themselves on-chain, while spreading the word of optimism and maintaining reasonable expectations through our lenses. My passion here on Optimism came from my passion for DeFi as a whole.",
   "impactMetrics": [
     {
@@ -43,7 +45,7 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xF90f56AFa1DaE825Db57fc305B2F8F1Ccf337531.json",
   "RPGF3_Application_UID": "0x245b63367b41c9dd64170309ed03a878a5ed402f809a491dc8ff0e4a94e4adc9",
   "applicantAddress": "0xF90f56AFa1DaE825Db57fc305B2F8F1Ccf337531",
-  "pwIsFlagged": true,
+  "pwIsFlagged": false,
   "pwFlaggedReason": "Flagged: The application promises future impact, specifically the onboarding of 100+ new crypto users to Optimism from Q1 to Q4 2022, which is against rule 1 of the grant program rules.",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Community Building, Education"

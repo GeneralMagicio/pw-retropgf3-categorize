@@ -34,8 +34,7 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x1b27B3D405eB29e255CB004e34Fd86f2803170f2.json",
   "RPGF3_Application_UID": "0x76095a7f4e747359e740ade5da3398b529cf5dbc2302a72feaf991809bd5dfff",
   "applicantAddress": "0x1b27B3D405eB29e255CB004e34Fd86f2803170f2",
-  "pwIsFlagged": false,
+  "pwIsFlagged": true,
   "pwCategorySuggestions": "NFTs, Environmental Sustainability, Community Building",
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Onboarding"
+  "pwApplicantTypeChecked": true
 }

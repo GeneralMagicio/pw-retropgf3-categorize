@@ -64,8 +64,7 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xd02722722615935330252bD616bF4D0590840563.json",
   "RPGF3_Application_UID": "0x272801a4d001331f5b64a34425d39e7cd9dfeef1da58617b6a45bccd6a768dcc",
   "applicantAddress": "0xd02722722615935330252bD616bF4D0590840563",
-  "pwIsFlagged": false,
+  "pwIsFlagged": true,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Blockchain Education, Community Building, Developer Ecosystem",
-  "pwCategory": "DAOs, ReFi, and DAO Tooling"
+  "pwCategorySuggestions": "Blockchain Education, Community Building, Developer Ecosystem"
 }

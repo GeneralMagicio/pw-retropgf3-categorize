@@ -46,8 +46,7 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x03B07a3cb2f55dA486cEfc911120A537813F42fE.json",
   "RPGF3_Application_UID": "0xe893bf41623c616cb372a2987e2cc4b7e82f5ad25249d22fc6d13de4a85dfe76",
   "applicantAddress": "0x03B07a3cb2f55dA486cEfc911120A537813F42fE",
-  "pwIsFlagged": false,
+  "pwIsFlagged": true,
   "pwCategorySuggestions": "Decentralized Identity, Blockchain Education, Layer 2 Scaling",
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Local Blockchain Communities"
+  "pwApplicantTypeChecked": true
 }

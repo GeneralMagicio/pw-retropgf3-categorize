@@ -64,6 +64,5 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged for promising future impact which is against the grant program rules.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Content Creation, Community Building, Developer Ecosystem",
-  "pwCategory": "Content Creation & Media"
+  "pwCategorySuggestions": "Content Creation, Community Building, Developer Ecosystem"
 }

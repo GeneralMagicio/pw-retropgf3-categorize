@@ -41,8 +41,7 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x9E8779a144f0734adEfD6f7e5265347054E4FC7F.json",
   "RPGF3_Application_UID": "0xf33fd3c7e55f99377ad8a1f04b48f400e612432616b2e18f28d964e61e789b7f",
   "applicantAddress": "0x9E8779a144f0734adEfD6f7e5265347054E4FC7F",
-  "pwIsFlagged": false,
+  "pwIsFlagged": true,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Social Platform, Web3 Community Platform, Data Ownership",
-  "pwCategory": "Community Building"
+  "pwCategorySuggestions": "Decentralized Social Platform, Web3 Community Platform, Data Ownership"
 }

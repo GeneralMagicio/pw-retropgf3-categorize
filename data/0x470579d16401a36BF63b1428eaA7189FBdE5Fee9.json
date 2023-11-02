@@ -44,10 +44,9 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x470579d16401a36BF63b1428eaA7189FBdE5Fee9.json",
   "RPGF3_Application_UID": "0x7a065f4554c2c8c407ed90a3a2bc73c93494537f2beba93e3db842623814ed68",
   "applicantAddress": "0x470579d16401a36BF63b1428eaA7189FBdE5Fee9",
-  "pwIsFlagged": false,
+  "pwIsFlagged": true,
   "pwRecategorizeToType": "PROJECT",
   "pwRecategorizeReason": "NO. The application should be categorized as \"PROJECT\" because it refers to a collective development effort for Optimism AI Chatbot.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "User Experience & Adoption",
-  "pwCategory": "Developer Education & Mentoring"
+  "pwCategorySuggestions": "User Experience & Adoption"
 }

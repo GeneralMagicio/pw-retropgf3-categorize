@@ -42,9 +42,8 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x556f06A371005d32542FC348498fe5E5cDfD7cEF.json",
   "RPGF3_Application_UID": "0x1395c02f8d390f92e57713f60ad39e3a84e319d23066ce3bf059181947265130",
   "applicantAddress": "0x556f06A371005d32542FC348498fe5E5cDfD7cEF",
-  "pwIsFlagged": true,
+  "pwIsFlagged": false,
   "pwFlaggedReason": "The application should be flagged for violating the rule against \"Promises of future impact - promises of future deliverables or impact are not allowed.\" The applicant states \"I look forward to playing a bigger role moving into the future,\" which is a promise of future involvement and potential impact.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Layer 2 Scaling, Decentralized Finance (DeFi), Blockchain Gaming",
-  "pwCategory": "Layer 2 & Cross-Chain Solutions"
+  "pwCategorySuggestions": "Layer 2 Scaling, Decentralized Finance (DeFi), Blockchain Gaming"
 }

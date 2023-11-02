@@ -40,6 +40,5 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, it is not correctly categorized. The application mentions \"kami\" which means \"we\" in Indonesian but also uses personal pronouns such as \"saya\" which means \"I\", indicating this could be an application from an individual rather than a project.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Finance (DeFi), Tokenization Platforms, User Experience & Adoption",
-  "pwCategory": "User Experience & Adoption"
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Tokenization Platforms, User Experience & Adoption"
 }

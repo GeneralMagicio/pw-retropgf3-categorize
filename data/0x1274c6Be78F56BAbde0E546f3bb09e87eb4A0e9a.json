@@ -38,6 +38,5 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged because it contains a bio and possibly other content in a language other than English, which goes against rule 11.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Governance & Tokens, Community Building, User Experience & Adoption",
-  "pwCategory": "Onboarding"
+  "pwCategorySuggestions": "Governance & Tokens, Community Building, User Experience & Adoption"
 }

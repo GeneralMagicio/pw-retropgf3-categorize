@@ -53,7 +53,6 @@
   "RPGF3_Application_UID": "0x96e6b8cb3a00a59f799194d9587dd5fbad1aec7ba622cc60642b975fa7e61505",
   "applicantAddress": "0xCb4B8F4810188fCBe96C06ccf8A763eb49f56a29",
   "pwCategorySuggestions": "Decentralized Finance (DeFi), User Experience & Adoption, Tokenization Platforms",
-  "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Data Analytics & Insights"
+  "pwIsFlagged": true,
+  "pwApplicantTypeChecked": true
 }

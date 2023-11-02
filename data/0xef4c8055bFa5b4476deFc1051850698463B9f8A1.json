@@ -10,7 +10,9 @@
       "description": "Transaction on OP"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "I make effective trades across the entire web3 ecosystem! I load up frequently to make trades across all platforms. Been here since 2017 so I must be doing something right with my trades. My trades have mostly been on chain for I have more profits vs losses. Last time I checked i have a 40% roi",
   "impactMetrics": [
     {
@@ -33,8 +35,7 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xef4c8055bFa5b4476deFc1051850698463B9f8A1.json",
   "RPGF3_Application_UID": "0x325bccfcb0ceacb4ecb809e67bebeba4209314c3d87b2d9c8003617c0e6b5545",
   "applicantAddress": "0xef4c8055bFa5b4476deFc1051850698463B9f8A1",
-  "pwIsFlagged": false,
+  "pwIsFlagged": true,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Finance (DeFi), Trading Tools, User Experience & Adoption",
-  "pwCategory": "Finance & DeFi"
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Trading Tools, User Experience & Adoption"
 }

@@ -39,9 +39,8 @@
   "RPGF3_Application_UID": "0x28bef149d91250612388f64e3c0a8e84627e68c3aed78336df679063d561b183",
   "applicantAddress": "0x5112CE9a36423a0ee624BA54c7442AfA4e6635DD",
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Blockchain Infrastructure, Governance & Tokens",
-  "pwIsFlagged": false,
+  "pwIsFlagged": true,
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO. The application is incorrectly categorized as it mentions \"I\" and \"me\", therefore it should be categorized as an INDIVIDUAL.",
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Blockchain Development"
+  "pwApplicantTypeChecked": true
 }

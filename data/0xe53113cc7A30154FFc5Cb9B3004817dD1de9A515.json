@@ -47,6 +47,5 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "This application should be flagged for violating rule 2: False statements & deception, rule 4: Deceiving badgeholders, and rule 10: Outside of RetroPGF's scope because the applicant has made false claims about his contribution, not providing any valid contribution or impact to the platform, and is also using misleading and potentially deceptive language.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "NFT Aggregator",
-  "pwCategory": "User Testing & Quality Assurance"
+  "pwCategorySuggestions": "NFT Aggregator"
 }

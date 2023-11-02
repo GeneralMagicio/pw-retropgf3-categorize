@@ -37,8 +37,7 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x6eC92Beb96eAb83bD4Ad21CDFa1DF18A86065A19.json",
   "RPGF3_Application_UID": "0xe83a85be38c6d5b43ead8c535d534ede8d68254944b4a1e302f24f2a1234f7b8",
   "applicantAddress": "0x6eC92Beb96eAb83bD4Ad21CDFa1DF18A86065A19",
-  "pwIsFlagged": false,
+  "pwIsFlagged": true,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Layer 2 Scaling, Developer Ecosystem, Blockchain Infrastructure",
-  "pwCategory": "Layer 2 & Cross-Chain Solutions"
+  "pwCategorySuggestions": "Layer 2 Scaling, Developer Ecosystem, Blockchain Infrastructure"
 }

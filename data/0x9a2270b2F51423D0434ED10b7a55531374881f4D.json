@@ -42,8 +42,7 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x9a2270b2F51423D0434ED10b7a55531374881f4D.json",
   "RPGF3_Application_UID": "0xfe7780a49c0a7a9d1572428d48ab8cd90e8683c5dc06fad5050610bb47f487bf",
   "applicantAddress": "0x9a2270b2F51423D0434ED10b7a55531374881f4D",
-  "pwIsFlagged": false,
+  "pwIsFlagged": true,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Finance (DeFi), Centralized Exchanges (CEXs)",
-  "pwCategory": "Finance & DeFi"
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Centralized Exchanges (CEXs)"
 }

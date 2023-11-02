@@ -49,6 +49,5 @@
   "pwIsFlagged": true,
   "pwFlaggedReason": "Flag this application. The application's contribution and impact descriptions are vague and non-specific, violating rule 10 regarding contributions without a clear relationship to Optimism and valid contribution details.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Developer Ecosystem, Web3 Community Platform, Governance & Tokens",
-  "pwCategory": "Development & Infrastructure"
+  "pwCategorySuggestions": "Developer Ecosystem, Web3 Community Platform, Governance & Tokens"
 }

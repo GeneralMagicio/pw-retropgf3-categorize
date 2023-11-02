@@ -60,8 +60,7 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x0ca34B96F8c33fF40dCB463a6e976697B6ff7010.json",
   "RPGF3_Application_UID": "0x8deca4b11ad408c50f746627fd74d8ce41687aff75cd1f6ba03262a96e266973",
   "applicantAddress": "0x0ca34B96F8c33fF40dCB463a6e976697B6ff7010",
-  "pwIsFlagged": false,
+  "pwIsFlagged": true,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Finance (DeFi), Layer 2 Scaling, Cross-Chain Platforms",
-  "pwCategory": "NFTs"
+  "pwCategorySuggestions": "Decentralized Finance (DeFi), Layer 2 Scaling, Cross-Chain Platforms"
 }

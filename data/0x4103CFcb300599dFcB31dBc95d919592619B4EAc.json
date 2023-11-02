@@ -43,6 +43,5 @@
   "pwCategorySuggestions": "Smart Contract Platforms",
   "pwIsFlagged": true,
   "pwFlaggedReason": "The application should be flagged because it violates rule 10: user interactions such as transactions on OP Mainnet are not considered valid contributions to be rewarded in RetroPGF 3.",
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "User Experience & Adoption"
+  "pwApplicantTypeChecked": true
 }

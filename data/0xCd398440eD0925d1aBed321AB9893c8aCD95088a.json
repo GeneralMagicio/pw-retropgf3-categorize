@@ -10,7 +10,9 @@
       "description": "@cadlth"
     }
   ],
-  "impactCategory": ["OP_STACK"],
+  "impactCategory": [
+    "OP_STACK"
+  ],
   "impactDescription": "@cadlth @cadlth @cadlth @cadlth @cadlth @cadlth @cadlth @cadlth @cadlth @cadlth @cadlth @cadlth @cadlth @cadlth @cadlth @cadlth @cadlth @cadlth @cadlth @cadlth @cadlth @cadlth @cadlth @cadlth @cadlth @cadlth @cadlth @cadlth @cadlth @cadlth @cadlth @cadlth @cadlth @cadlth @cadlth @cadlth",
   "impactMetrics": [
     {

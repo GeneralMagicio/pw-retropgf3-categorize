@@ -42,8 +42,7 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x0403c342E9F2d829864c95e51857A7187381F7DA.json",
   "RPGF3_Application_UID": "0x0a7435424cf672ef4166ab32cc1343381c329f33cbc492a657a41e55bb430775",
   "applicantAddress": "0x0403c342E9F2d829864c95e51857A7187381F7DA",
-  "pwIsFlagged": false,
+  "pwIsFlagged": true,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, Content Creation, Cryptocurrency Services",
-  "pwCategory": "Local Blockchain Communities"
+  "pwCategorySuggestions": "Community Building, Content Creation, Cryptocurrency Services"
 }

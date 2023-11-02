@@ -34,8 +34,7 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x9C4e57db42c9d8C5Ef233c74FB37bABA630b88d3.json",
   "RPGF3_Application_UID": "0x91c35217e956acc70ad43c9cd4ec1900c5ed4c74f1366a69398e4b1520682779",
   "applicantAddress": "0x9C4e57db42c9d8C5Ef233c74FB37bABA630b88d3",
-  "pwIsFlagged": false,
+  "pwIsFlagged": true,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Layer 2 Scaling, Smart Contract Platforms, Developer Ecosystem",
-  "pwCategory": "Layer 2 & Cross-Chain Solutions"
+  "pwCategorySuggestions": "Layer 2 Scaling, Smart Contract Platforms, Developer Ecosystem"
 }

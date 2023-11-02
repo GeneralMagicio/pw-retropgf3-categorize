@@ -44,11 +44,10 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x26A1D0aEBe8861048173522A992A68D0C9D9e90E.json",
   "RPGF3_Application_UID": "0x35f6bec9c8bdb20b16c1cc07e773d83173e749abfb49593fea2c40f1906224de",
   "applicantAddress": "0x26A1D0aEBe8861048173522A992A68D0C9D9e90E",
-  "pwIsFlagged": true,
+  "pwIsFlagged": false,
   "pwFlaggedReason": "The application should be flagged because it violates the rule about spam as the application contains that is not in English.",
   "pwCategorySuggestions": "Community Building, Content Creation",
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, the application is from an individual, not a project, as indicated by the use of \"我\" meaning \"I\" in the bio and contribution description.",
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Development & Infrastructure"
+  "pwApplicantTypeChecked": true
 }

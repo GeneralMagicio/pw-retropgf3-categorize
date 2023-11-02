@@ -74,8 +74,7 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x2e2316088c015F4BF27D86A1458A707af536A324.json",
   "RPGF3_Application_UID": "0x5cd7424c0af2cbd9795350832337c4ac0e29559cec9ba417d19aad02719fa6ee",
   "applicantAddress": "0x2e2316088c015F4BF27D86A1458A707af536A324",
-  "pwIsFlagged": false,
+  "pwIsFlagged": true,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Tokenization Platforms, Decentralized Finance (DeFi), Web3 Community Platform",
-  "pwCategory": "Wallet and wallet tools"
+  "pwCategorySuggestions": "Tokenization Platforms, Decentralized Finance (DeFi), Web3 Community Platform"
 }

@@ -70,9 +70,8 @@
   "RPGF3_Application_UID": "0x4902fa72c3361a2690ea5f1bbecd5df45af8782894890dbb8b235c85c7dd9402",
   "applicantAddress": "0xE791b92c1E9Fc7db3fa8e9C0483F505A993d2289",
   "pwCategorySuggestions": "Content Creation, Community Building, Media Production",
-  "pwIsFlagged": false,
+  "pwIsFlagged": true,
   "pwRecategorizeToType": "PROJECT",
   "pwRecategorizeReason": "NO. This should be categorized as a \"PROJECT\", as it mentions \"we\" and provides details of a collective effort, not an individual effort.",
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Blockchain News & Media"
+  "pwApplicantTypeChecked": true
 }

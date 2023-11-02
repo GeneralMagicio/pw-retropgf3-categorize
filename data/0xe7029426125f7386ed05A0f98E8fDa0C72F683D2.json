@@ -44,9 +44,8 @@
   "RPGF3_Application_UID": "0x7a0fbf9af8fdcec08d78adf20a0b9e797cd54489299b6d7b3485b372914364a9",
   "applicantAddress": "0xe7029426125f7386ed05A0f98E8fDa0C72F683D2",
   "pwCategorySuggestions": "Community Building, User Experience & Adoption, Decentralized Finance (DeFi)",
-  "pwIsFlagged": false,
+  "pwIsFlagged": true,
   "pwRecategorizeToType": "PROJECT",
   "pwRecategorizeReason": "NO. The application is categorized as an \"INDIVIDUAL,\" but the contribution description and impact description suggest that the applicant represents a team or a PROJECT, as the contributions are not described in the first person tone.",
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Community Building"
+  "pwApplicantTypeChecked": true
 }

@@ -10,7 +10,9 @@
       "description": "Originator contract"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "Today, our live platform Racer.Loans empowers users with instant liquidity access for their keys. Users can leverage their Friend.Tech keys with ease and capital efficiency.\n\nIn the future, we're excited to unveil our intents-based lending platform. This innovation will seamlessly match lenders and borrowers, ensuring optimal liquidity distribution and fostering a more efficient Optimism ecosystem.",
   "impactMetrics": [
     {

@@ -42,10 +42,9 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x209Ba62148AA31e3F397c3B4539Fc292D22FB68e.json",
   "RPGF3_Application_UID": "0x06c719c3e0ac2c6824c527e3dbf359bc05b37ab75d2bb6cb9c618835ec5e5e4b",
   "applicantAddress": "0x209Ba62148AA31e3F397c3B4539Fc292D22FB68e",
-  "pwIsFlagged": false,
+  "pwIsFlagged": true,
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, the application is titled as a \"PROJECT\" but the descriptions given refer to individual efforts, indicated by uses of \"I\" and \"my\".",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Decentralized Exchanges (DEXs), Trustless Swaps, Blockchain Infrastructure",
-  "pwCategory": "NFTs"
+  "pwCategorySuggestions": "Decentralized Exchanges (DEXs), Trustless Swaps, Blockchain Infrastructure"
 }
