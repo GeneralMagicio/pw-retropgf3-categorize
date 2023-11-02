@@ -39,5 +39,6 @@
   "pwFlaggedReason": "The application should be flagged because it violates the rule of only submitting applications in English.",
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, the application is incorrectly categorized as a project while the bio suggests that the applicant is an individual (\"I'm a fan of Web 3 and decentralization.\")",
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "International & Multilingual Support"
 }
