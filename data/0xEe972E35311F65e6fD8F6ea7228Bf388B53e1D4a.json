@@ -76,5 +76,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Developer Ecosystem, Community Building, Blockchain Education",
-  "pwCategory": "Web3 Education & Skill Development"
+  "pwCategory": "Web3 Education & Skill Development",
+  "applicationApprovalID": "0x74bb2fd6c1dacf0d3556a80af369e620df5ee6f348a8435b0b977064c79bc50d"
 }

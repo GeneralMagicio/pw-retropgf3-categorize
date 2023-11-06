@@ -112,5 +112,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Developer Ecosystem, End-User Experience & Adoption, Blockchain Education",
-  "pwCategory": "Development & Infrastructure"
+  "pwCategory": "Development & Infrastructure",
+  "applicationApprovalID": "0x96b420d4a9c0cacc124d46cc85e29dcccd8811e3119f01dd336954af17843bb7"
 }

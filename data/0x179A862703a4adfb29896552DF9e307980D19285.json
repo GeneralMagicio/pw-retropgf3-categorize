@@ -84,5 +84,6 @@
   "pwRecategorizeToType": "PROJECT",
   "pwRecategorizeReason": "NO. The application should be categorized as \"PROJECT\" as it refers to multiple projects that the individual has developed, not just the work of the individual.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Blockchain Developer Hub"
+  "pwCategory": "Blockchain Developer Hub",
+  "applicationApprovalID": "0x03ace8762fad52f1c0aa3e629bd7eb2a9e8de3ea807ab5878fa7789ceb7028f3"
 }

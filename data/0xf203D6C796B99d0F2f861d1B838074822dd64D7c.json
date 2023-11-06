@@ -70,5 +70,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Blockchain Education, Community Building, User Experience & Adoption",
-  "pwCategory": "Developer Education & Mentoring"
+  "pwCategory": "Developer Education & Mentoring",
+  "applicationApprovalID": "0xd57877d44413352f5bdc2197304056fd24dcf3eea5b6c86a17177feb838468e0"
 }

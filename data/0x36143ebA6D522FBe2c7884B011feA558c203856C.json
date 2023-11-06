@@ -120,5 +120,6 @@
   "pwIsFlagged": false,
   "pwCategorySuggestions": "Developer Ecosystem, Smart Contract Platforms, Decentralized Finance (DeFi)",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Blockchain Developer Hub"
+  "pwCategory": "Blockchain Developer Hub",
+  "applicationApprovalID": "0x517fa0d1a58652b1fec28db4d4f9be287bc4d1f2fac7bac8f583de374f9534f7"
 }

@@ -80,5 +80,6 @@
   "pwCategorySuggestions": "Blockchain Forensics, Security Incident Response, Whistleblower",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Security & Cross-Chain Solutions"
+  "pwCategory": "Security & Cross-Chain Solutions",
+  "applicationApprovalID": "0x29a4b00f46a4eb31db8a962dfa202fe79f02ba3dc9dd49c98d993eb6189d72aa"
 }

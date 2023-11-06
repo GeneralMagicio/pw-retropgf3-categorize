@@ -81,5 +81,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Media Production, Decentralized Finance (DeFi), Layer 2 Scaling",
-  "pwCategory": "Blockchain News & Media"
+  "pwCategory": "Blockchain News & Media",
+  "applicationApprovalID": "0x7d76018d1a4bf0867c24bbdc5d3d3665928909911e6ec2cbe191e9b00f92ae36"
 }

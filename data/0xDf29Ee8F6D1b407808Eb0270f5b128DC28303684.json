@@ -65,5 +65,6 @@
   "pwRecategorizeReason": "NO, it is not correctly categorized as the applicant mentions \"I'm Arthurws, PM at Nuant and contributor at DeFi France.\" indicating this is an individual applicant.",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Community Building, Content Creation, Decentralized Finance (DeFi)",
-  "pwCategory": "International & Multilingual Support"
+  "pwCategory": "International & Multilingual Support",
+  "applicationApprovalID": "0xc4a629437b7193a4c4ea51f2f43c9f4f0e1ba9887f7f38e576ac45d7f66ec208"
 }

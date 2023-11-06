@@ -120,5 +120,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Community Building, Infrastructure, Blockchain Education",
-  "pwCategory": "Community Building"
+  "pwCategory": "Community Building",
+  "applicationApprovalID": "0xf780b4a39ea9529b9e7af1638c816801ce89cf06e93dd6d66ea383fb3ed263f0"
 }

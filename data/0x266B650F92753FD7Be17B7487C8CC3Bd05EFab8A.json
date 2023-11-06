@@ -94,5 +94,6 @@
   "pwIsFlagged": false,
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Cross-Chain Platforms, Community Building",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Community Building"
+  "pwCategory": "Community Building",
+  "applicationApprovalID": "0x0eb54adbc7b4564eea0b18f9270d201dde386ad9aba771dff0cc0370ca4df523"
 }

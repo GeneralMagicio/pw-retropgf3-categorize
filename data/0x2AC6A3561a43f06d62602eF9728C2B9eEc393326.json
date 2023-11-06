@@ -44,5 +44,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Non-Fungible Tokens (NFTs), Tokenization Platforms, Decentralized Identity",
-  "pwCategory": "Blockchain Developer Hub"
+  "pwCategory": "Blockchain Developer Hub",
+  "applicationApprovalID": "0x54763940f1803ecdd2adf48c1446268cdc3aa02e11090189cf91a78615c89d23"
 }

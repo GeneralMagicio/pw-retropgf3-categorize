@@ -74,5 +74,6 @@
   "pwIsFlagged": false,
   "pwCategorySuggestions": "Decentralized Infrastructure, Proof of Location, Layer 2 Scaling",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Blockchain Developer Hub"
+  "pwCategory": "Blockchain Developer Hub",
+  "applicationApprovalID": "0x90bc7355488e5587a996f673b7fd58197bf51d642db64461a63c9a09656923a8"
 }

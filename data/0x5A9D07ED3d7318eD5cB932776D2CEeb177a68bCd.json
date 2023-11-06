@@ -98,5 +98,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Blockchain Infrastructure, Web3 Community Platform",
-  "pwCategory": "Data Analytics & Insights"
+  "pwCategory": "Data Analytics & Insights",
+  "applicationApprovalID": "0xda04cebe79ec8547116a948edfbdb87e48dcb0543b29b7276df53df579170f74"
 }

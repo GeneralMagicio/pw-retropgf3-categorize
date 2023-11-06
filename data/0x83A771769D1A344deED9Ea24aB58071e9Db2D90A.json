@@ -81,5 +81,6 @@
   "pwFlaggedReason": "This application should be flagged for violation of rule 7 - Bribery. It mentions offering bribes for USX/USDC on Velodrome.",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Stablecoins, Layer 2 Scaling",
-  "pwCategory": "DeFi, Decentralized Finance"
+  "pwCategory": "DeFi, Decentralized Finance",
+  "applicationApprovalID": "0x03a6b6d06964fe9fe43aba6058e2369640a18fb38bf650c587184cd16015fb70"
 }

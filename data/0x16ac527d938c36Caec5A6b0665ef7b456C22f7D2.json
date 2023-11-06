@@ -68,5 +68,6 @@
   "pwIsFlagged": false,
   "pwCategorySuggestions": "NFTs, Layer 2 Scaling, Community Building",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "NFTs, POAPs & Collectibles"
+  "pwCategory": "NFTs, POAPs & Collectibles",
+  "applicationApprovalID": "0x6e8a118fd384d47958f5a7773569de37463645011edb43193202c749f1e27ca5"
 }

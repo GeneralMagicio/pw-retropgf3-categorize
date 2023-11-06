@@ -53,5 +53,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Cross-Chain Platforms, Layer 2 Scaling, Open Source Innovation",
-  "pwCategory": "Security & Cross-Chain Solutions"
+  "pwCategory": "Security & Cross-Chain Solutions",
+  "applicationApprovalID": "0x77bc669a940c76bd014eb7649f3970ec2fb8479de6167016a92bff163df6ac86"
 }

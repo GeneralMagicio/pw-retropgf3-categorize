@@ -58,5 +58,6 @@
   "pwIsFlagged": false,
   "pwCategorySuggestions": "Decentralized Identity, Developer Ecosystem, Web3 Community Platform",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Web3 Community Engagement"
+  "pwCategory": "Web3 Community Engagement",
+  "applicationApprovalID": "0x0649c52a10c70c6f044d930c1ad92756f6aed49e68fb136c6168cea78a73d524"
 }

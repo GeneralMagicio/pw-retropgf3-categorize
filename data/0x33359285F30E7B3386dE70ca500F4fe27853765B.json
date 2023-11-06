@@ -161,5 +161,6 @@
   "pwIsFlagged": false,
   "pwCategorySuggestions": "Decentralized Identity, Privacy, Blockchain Infrastructure",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Digital Identity & Social Privacy Innovations"
+  "pwCategory": "Digital Identity & Social Privacy Innovations",
+  "applicationApprovalID": "0xb0f319e13cdddf0cb23344062d1e445a0c0f005e9d44a93692838438a5ee0c3b"
 }

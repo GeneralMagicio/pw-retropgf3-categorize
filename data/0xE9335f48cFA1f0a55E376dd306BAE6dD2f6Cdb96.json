@@ -43,5 +43,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Tokenization Platforms, Decentralized Finance (DeFi), Wallet Management",
-  "pwCategory": "Wallet and wallet tools"
+  "pwCategory": "Wallet and wallet tools",
+  "applicationApprovalID": "0xe87b160ad7b2d7a9e13982760509cf6bb1467ce6ea19626fe4970280cdefb6e8"
 }

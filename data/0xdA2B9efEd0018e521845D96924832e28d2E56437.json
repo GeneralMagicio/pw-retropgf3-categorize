@@ -85,5 +85,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Tokenization Platforms, Web3 Community Platform, Blockchain Infrastructure",
-  "pwCategory": "Cross-Chain Interoperability"
+  "pwCategory": "Cross-Chain Interoperability",
+  "applicationApprovalID": "0x704e1ae65341be6d169ba16441f8fd7089da05c54ac709671afca0d1a459fee1"
 }

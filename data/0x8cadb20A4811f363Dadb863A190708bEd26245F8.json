@@ -110,5 +110,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Smart Contract Platforms, User Experience & Adoption",
-  "pwCategory": "Asset Management & Portfolio Tools"
+  "pwCategory": "Asset Management & Portfolio Tools",
+  "applicationApprovalID": "0x653d55ee03bdd6efb8c8cf7434f6c98fd3741bb5dbbc678d021365adfd9dce23"
 }

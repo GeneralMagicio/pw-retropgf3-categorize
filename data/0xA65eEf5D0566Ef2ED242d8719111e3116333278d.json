@@ -57,5 +57,6 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, the application is not correctly categorized. The application is made by Hanna, an individual who works for Guild.xyz. Therefore, the \"applicantType\" field should be \"INDIVIDUAL\".",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Governance Tools"
+  "pwCategory": "Governance Tools",
+  "applicationApprovalID": "0x867d2124127d8e8cca1dffa619fce4279b29312553774c585be90c0427a81c39"
 }

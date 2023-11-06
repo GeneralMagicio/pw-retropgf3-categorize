@@ -59,5 +59,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Tokenization Platforms, Web3 Community Platform, End-User Experience",
-  "pwCategory": "NFTs, POAPs & Collectibles"
+  "pwCategory": "NFTs, POAPs & Collectibles",
+  "applicationApprovalID": "0x0d6e26e569c5948ab3298986d805965a6f6f8c9f15308600e725ad512c5c1e61"
 }

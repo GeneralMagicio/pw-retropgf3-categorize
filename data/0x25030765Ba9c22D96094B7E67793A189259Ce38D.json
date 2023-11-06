@@ -45,5 +45,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Web3 Community Platform",
-  "pwCategory": "User Experience & Adoption"
+  "pwCategory": "User Experience & Adoption",
+  "applicationApprovalID": "0xc6cbf9c5e892a9fdbdf109e6bfab5af0c1b584bcd2d6c40d677549942c315df5"
 }

@@ -58,5 +58,6 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, the application should be categorized as \"INDIVIDUAL\", as the applicant refers to their contributions using \"I\".",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "User Experience & Adoption"
+  "pwCategory": "User Experience & Adoption",
+  "applicationApprovalID": "0x3192905c60d595504b29dcbea66d0ab0fa07cf37eccd422726a2f87287f720b3"
 }

@@ -43,5 +43,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Smart Contract Platforms, Blockchain Infrastructure, Developer Ecosystem",
-  "pwCategory": "Security & Cross-Chain Solutions"
+  "pwCategory": "Security & Cross-Chain Solutions",
+  "applicationApprovalID": "0x5e11cabdb73600171d8fc02a26c7c2c571d46db0988690efb842ba0ce3b77e99"
 }

@@ -142,5 +142,6 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, the application is not correctly categorized. Although the applicant uses a project-like name, the bio and contribution clearly points to an individual as it talks about \"I\" and \"my\".",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Content Creation & Media"
+  "pwCategory": "Content Creation & Media",
+  "applicationApprovalID": "0x44e708bdd13870098672da024bef02f8a103fa33dccd900b9e6ace0f14ca5e78"
 }

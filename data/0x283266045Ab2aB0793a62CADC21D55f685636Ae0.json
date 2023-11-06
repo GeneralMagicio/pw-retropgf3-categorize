@@ -96,5 +96,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Developer Ecosystem, End-User Experience, Content Creation",
-  "pwCategory": "Governance Tokenomics and Analytics"
+  "pwCategory": "Governance Tokenomics and Analytics",
+  "applicationApprovalID": "0x0005effcf8fef542bbf3d1ee5bb6e8fb8b00b018dc325ef4932325bf78aed622"
 }

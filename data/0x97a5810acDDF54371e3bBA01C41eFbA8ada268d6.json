@@ -50,5 +50,6 @@
   "pwCategorySuggestions": "NFT Management, Wallet Management",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Wallet and wallet tools"
+  "pwCategory": "Wallet and wallet tools",
+  "applicationApprovalID": "0x5697290de650311df3acdaabedea14aa95879c472d6f449091137d1a736339db"
 }

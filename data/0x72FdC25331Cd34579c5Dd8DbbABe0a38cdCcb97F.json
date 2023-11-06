@@ -72,5 +72,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Decentralized Education Platform, Web3 Community Platform",
-  "pwCategory": "Web3 Community Engagement"
+  "pwCategory": "Web3 Community Engagement",
+  "applicationApprovalID": "0x7fcb54a60df19932aed931a67527d0c78c82d8d90870d946c49fe5c429a48925"
 }

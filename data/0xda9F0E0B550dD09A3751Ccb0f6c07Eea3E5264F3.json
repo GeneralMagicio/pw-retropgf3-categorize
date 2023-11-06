@@ -155,5 +155,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Layer 2 Scaling, Education",
-  "pwCategory": "Web3 Education & Skill Development"
+  "pwCategory": "Web3 Education & Skill Development",
+  "applicationApprovalID": "0xdd21efe36f7f32fb23d3f328b90a740d50a9514262f8c51cfc01f8b87e55f513"
 }

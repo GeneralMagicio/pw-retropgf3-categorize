@@ -50,5 +50,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Tokenization Platforms, Blockchain Education",
-  "pwCategory": "Developer Education & Mentoring"
+  "pwCategory": "Developer Education & Mentoring",
+  "applicationApprovalID": "0x72c4197430710848de6ad973ca7fe8a7e680174298608189a399222bc195b662"
 }

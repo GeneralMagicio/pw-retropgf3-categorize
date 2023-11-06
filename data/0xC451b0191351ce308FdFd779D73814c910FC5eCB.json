@@ -90,5 +90,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Layer 2 Scaling, Decentralized Finance (DeFi), Tokenization Platforms",
-  "pwCategory": "Cross-Chain Interoperability"
+  "pwCategory": "Cross-Chain Interoperability",
+  "applicationApprovalID": "0x6ff9260b94544e3a51d026a98f7c3d7a420d32f8ccb169a592a7de913f42be06"
 }

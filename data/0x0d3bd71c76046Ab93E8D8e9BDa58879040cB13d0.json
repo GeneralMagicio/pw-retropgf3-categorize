@@ -62,5 +62,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Tokenization Platforms, Blockchain Infrastructure, Developer Ecosystem",
-  "pwCategory": "Blockchain Developer Hub"
+  "pwCategory": "Blockchain Developer Hub",
+  "applicationApprovalID": "0xfd284c78fd0dfbc9d66a2c7638601860a02990d25de2ff46365ef487c7d138ed"
 }

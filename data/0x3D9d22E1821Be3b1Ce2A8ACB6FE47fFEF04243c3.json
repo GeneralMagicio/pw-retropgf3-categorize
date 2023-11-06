@@ -81,5 +81,6 @@
   "pwCategorySuggestions": "Web3 Community Platform",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Explorers, Security & Node Deployment Tools"
+  "pwCategory": "Explorers, Security & Node Deployment Tools",
+  "applicationApprovalID": "0x39be80ba67dcdc408202dce1462a12ef64cf5454f3b227f750d09c01c82918f9"
 }

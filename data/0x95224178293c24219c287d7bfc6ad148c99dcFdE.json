@@ -84,5 +84,6 @@
   "pwRecategorizeReason": "NO, it's not correctly categorized. The \"bio\" section indicates this is an individual application since the applicant refers to themselves as \"I\".",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Blockchain Infrastructure, Ethereum Validators, Ethereum Staking",
-  "pwCategory": "Ethereum Core Tech Foundations"
+  "pwCategory": "Ethereum Core Tech Foundations",
+  "applicationApprovalID": "0x5c465f2cece28e1ba91ef5967549fec63f8b17212fba05e5e0117b442af554b8"
 }

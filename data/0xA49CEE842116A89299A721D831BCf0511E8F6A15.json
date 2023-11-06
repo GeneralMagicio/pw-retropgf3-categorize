@@ -109,5 +109,6 @@
   "pwRecategorizeToType": "PROJECT",
   "pwRecategorizeReason": "NO. The application is from an individual artist who initiated a project called Aethernity, so it should be categorized as a \"PROJECT\".",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "NFTs, POAPs & Collectibles"
+  "pwCategory": "NFTs, POAPs & Collectibles",
+  "applicationApprovalID": "0xa838bacd4b72cce9d99f0489ad48c64ea9ad2b0c5b90c55075f8c5aec4a5bb6d"
 }

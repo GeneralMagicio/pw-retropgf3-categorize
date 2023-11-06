@@ -80,5 +80,6 @@
   "pwIsFlagged": false,
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Non-Fungible Tokens (NFTs), Content Creation",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Digital Identity & Social Privacy Innovations"
+  "pwCategory": "Digital Identity & Social Privacy Innovations",
+  "applicationApprovalID": "0xd61045d17bdd1312b455d49bcaf58eab5f8eca9825d145aabc848507cd692d82"
 }

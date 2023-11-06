@@ -65,5 +65,6 @@
   "pwIsFlagged": false,
   "pwCategorySuggestions": "Developer Education, Community Building, Decentralized Finance (DeFi)",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Developer Education & Mentoring"
+  "pwCategory": "Developer Education & Mentoring",
+  "applicationApprovalID": "0xe74dbae19350be6155c66a28b65be982bf7b1a4db210695dde5ed2f53782a315"
 }

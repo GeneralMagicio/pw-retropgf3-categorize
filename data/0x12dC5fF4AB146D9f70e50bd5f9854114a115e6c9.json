@@ -99,5 +99,6 @@
   "pwIsFlagged": false,
   "pwCategorySuggestions": "Decentralized Identity, End-User Experience, Blockchain Infrastructure",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Wallet and wallet tools"
+  "pwCategory": "Wallet and wallet tools",
+  "applicationApprovalID": "0x44e382b0845c4bbe3695f5bc8218c1cf75e5c44d1868a08f10571871295ad042"
 }

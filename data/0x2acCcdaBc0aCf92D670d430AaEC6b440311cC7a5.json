@@ -77,5 +77,6 @@
   "pwIsFlagged": false,
   "pwCategorySuggestions": "Tokenization Platforms, Blockchain Infrastructure, Content Creation",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "NFTs, POAPs & Collectibles"
+  "pwCategory": "NFTs, POAPs & Collectibles",
+  "applicationApprovalID": "0x8b15a95f06dcb065dd7ec3eff34624cb2db10ae7c67eebee1b04ee65d81f84a8"
 }

@@ -40,5 +40,6 @@
   "pwRecategorizeReason": "NO, the application is categorized as a project but it clearly mentions activities carried out by an individual i.e., \"I created a Dune Spell table\".",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "On-chain Data Analytics",
-  "pwCategory": "Governance Tokenomics and Analytics"
+  "pwCategory": "Governance Tokenomics and Analytics",
+  "applicationApprovalID": "0xfb8c37a789f9b1e6344b85bccb943cc1402b03d99ade45620a6d69923939c911"
 }

@@ -58,5 +58,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Blockchain Infrastructure, Gas Optimization",
-  "pwCategory": "Blockchain Developer Hub"
+  "pwCategory": "Blockchain Developer Hub",
+  "applicationApprovalID": "0x6f6e00c81aeb5d79b12ca07b1e301e64da9d17be6300d9d7f5008ceefdeac7ca"
 }

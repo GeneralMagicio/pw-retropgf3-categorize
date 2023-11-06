@@ -45,5 +45,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Media Production, Content Creation, Community Building",
-  "pwCategory": "International & Multilingual Support"
+  "pwCategory": "International & Multilingual Support",
+  "applicationApprovalID": "0x0aa530ea27323da4a3e87aa9318d26fdbc7ce40e9567a13cb8b65dbbeef4db3f"
 }

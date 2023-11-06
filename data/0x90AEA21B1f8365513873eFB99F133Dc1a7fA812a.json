@@ -48,5 +48,6 @@
   "pwFlaggedReason": "The application should be flagged because it includes promises of future deliverables, specifically opening a data market and planning to use ERC-721 to define user data, which violates Rule 1 of the grant program rules.",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Tokenization Platforms, Decentralized Identity, Web3 Community Platform",
-  "pwCategory": "Digital Identity & Social Privacy Innovations"
+  "pwCategory": "Digital Identity & Social Privacy Innovations",
+  "applicationApprovalID": "0xf3b403af50cdb976fea39b15645501515f7ee31a5353476611a1bf5a44dae665"
 }

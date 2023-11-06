@@ -65,5 +65,6 @@
   "pwCategorySuggestions": "Decentralized Identity",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Explorers, Security & Node Deployment Tools"
+  "pwCategory": "Explorers, Security & Node Deployment Tools",
+  "applicationApprovalID": "0x93efc906a84b4367757350dacd0ad700cafc78eb658fcb47d0b4f7e0240d2e9f"
 }

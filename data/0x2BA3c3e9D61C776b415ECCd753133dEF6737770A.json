@@ -97,5 +97,6 @@
   "pwIsFlagged": false,
   "pwCategorySuggestions": "Decentralized Exchanges (DEXs), Layer 2 Scaling, Smart Contract Platforms",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Exchanges, DEX, Trading & Liquidity"
+  "pwCategory": "Exchanges, DEX, Trading & Liquidity",
+  "applicationApprovalID": "0x0acc8d164a8084029652743eb5a4d6e624ee9f2b18c5fe77ac3f0dcb9160b28d"
 }

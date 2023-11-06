@@ -78,5 +78,6 @@
   "pwRecategorizeReason": "NO, the application is not correctly categorized. The applicant talks about \"I\" and \"me\" within the application indicating that it is coming from an individual not a project.",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Content Creation, Community Building, User Experience & Adoption",
-  "pwCategory": "International & Multilingual Support"
+  "pwCategory": "International & Multilingual Support",
+  "applicationApprovalID": "0x52ea28bade0488f325a3428887f4cf1395e00a146ebb70bc77fd575193f7bdfe"
 }

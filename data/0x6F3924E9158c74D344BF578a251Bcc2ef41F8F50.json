@@ -60,5 +60,6 @@
   "pwRecategorizeToType": "PROJECT",
   "pwRecategorizeReason": "NO, the application is miscategorized because despite being under \"INDIVIDUAL\", the applicant refers to actions made by \"we\", indicating a group or project, not an individual.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Web3 Community Engagement"
+  "pwCategory": "Web3 Community Engagement",
+  "applicationApprovalID": "0x63addd88cadccd8bdb353b81606bc7125714a9742fddd16db19ba48e6840b5e1"
 }

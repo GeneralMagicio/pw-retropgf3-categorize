@@ -68,5 +68,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Blockchain Infrastructure, Decentralized Finance (DeFi), Governance & Tokens",
-  "pwCategory": "Governance Tokenomics and Analytics"
+  "pwCategory": "Governance Tokenomics and Analytics",
+  "applicationApprovalID": "0x28f3a89844dd7eda7d26a4dcd32231900665f2300aebeb2c717f066a232572e5"
 }

@@ -107,5 +107,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Tokenization Platforms, Blockchain Infrastructure",
-  "pwCategory": "Cross-Chain Interoperability"
+  "pwCategory": "Cross-Chain Interoperability",
+  "applicationApprovalID": "0xd27984d196342b49f7e3019510482e2dab1a80d9b3e1b292a5dcf60134dce7b8"
 }

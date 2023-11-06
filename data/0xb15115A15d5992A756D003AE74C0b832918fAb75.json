@@ -66,5 +66,6 @@
   "pwIsFlagged": false,
   "pwFlaggedReason": "The application should be flagged because it violates Rule 1: promises of future deliverables or impact are not allowed. The applicant mentioned, \"In the future, Donate3 hopes to introduce more liquidity to the optimism network, enhance the integration of the OP network with charitable causes, and promote the development of public goods on the OP chain.\" This is a clear promise of future impact.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Grants, Capital Allocation & Onboarding"
+  "pwCategory": "Grants, Capital Allocation & Onboarding",
+  "applicationApprovalID": "0xeef1e2aa3447f6231738c67c99227d02f33b87d853ea16fa21a137ed73bcd100"
 }

@@ -50,5 +50,6 @@
   "pwRecategorizeReason": "NO, the application should be categorized as an INDIVIDUAL because the bio states \"I jumped into web3 in 2021\".",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Blockchain Infrastructure, Decentralized Identity, Developer Ecosystem",
-  "pwCategory": "Development & Infrastructure"
+  "pwCategory": "Development & Infrastructure",
+  "applicationApprovalID": "0x17b6075cdc32729b7ef683d9cb9160cfc5425c00115af4844eaf310721862e8d"
 }

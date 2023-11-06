@@ -38,5 +38,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Community Building, Web3 Community Platform",
-  "pwCategory": "DAOs, ReFi, and DAO Tooling"
+  "pwCategory": "DAOs, ReFi, and DAO Tooling",
+  "applicationApprovalID": "0x3440915b7799f4dfb1577267a90d0d24336ce3b8cd2c900c80af3a39a92ec52d"
 }

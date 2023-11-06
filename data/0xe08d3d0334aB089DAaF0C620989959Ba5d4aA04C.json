@@ -40,5 +40,6 @@
   "pwRecategorizeReason": "NO, it is not correctly categorized, the application should be categorized under \"INDIVIDUAL\" as the applicant mentioned \"I am working alone on my website\".",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Layer 2 Scaling, Web3 Community Platform, User Experience & Adoption",
-  "pwCategory": "Security & Cross-Chain Solutions"
+  "pwCategory": "Security & Cross-Chain Solutions",
+  "applicationApprovalID": "0x1eeb37b64c871d9e9988756d714dadd6cd645edb0f185389f2139d561df9e079"
 }

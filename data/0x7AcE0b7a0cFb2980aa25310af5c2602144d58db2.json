@@ -96,5 +96,6 @@
   "pwCategorySuggestions": "Smart Contract Platforms, Tokenization Platforms, Governance & Tokens",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Governance Tools"
+  "pwCategory": "Governance Tools",
+  "applicationApprovalID": "0x62303737eacb3de8795ae5ad00bc2da45a36e8c4a033c20257b0f893f7c4d3a4"
 }

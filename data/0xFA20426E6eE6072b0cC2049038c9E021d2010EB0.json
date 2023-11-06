@@ -52,5 +52,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Smart Contract Platforms, Decentralized Exchanges (DEXs), Developer Ecosystem",
-  "pwCategory": "Development & Infrastructure"
+  "pwCategory": "Development & Infrastructure",
+  "applicationApprovalID": "0x82426eab338a4383b2ab55d94d41ffd46770a1f5f217f0c3fa81fbb5a0964dc4"
 }

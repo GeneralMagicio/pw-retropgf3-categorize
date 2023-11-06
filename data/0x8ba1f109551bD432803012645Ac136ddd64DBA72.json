@@ -73,5 +73,6 @@
   "pwRecategorizeReason": "NO, the application is categorized as a PROJECT, but the bio section indicates that it's an individual (\"A random Canadian developer, dedicating his time to a variety of open source projects\").",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Smart Contract Platforms, Decentralized Finance (DeFi), Blockchain Infrastructure",
-  "pwCategory": "Development & Infrastructure"
+  "pwCategory": "Development & Infrastructure",
+  "applicationApprovalID": "0x32ee121e0dbcef2fe2b7a8e668f9a53ddc6d43e16c423fe8b4595b0120ac08d8"
 }

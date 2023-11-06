@@ -150,5 +150,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Blockchain Education",
-  "pwCategory": "Blockchain Education"
+  "pwCategory": "Blockchain Education",
+  "applicationApprovalID": "0xfcd835dcd49c065f771ddd79ee1a37a908645121a0a59c51738507d6c89ae06c"
 }

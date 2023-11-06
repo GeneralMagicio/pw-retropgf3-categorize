@@ -73,5 +73,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Blockchain Infrastructure, User Experience & Adoption, Blockchain Education",
-  "pwCategory": "Wallet and wallet tools"
+  "pwCategory": "Wallet and wallet tools",
+  "applicationApprovalID": "0xa0ef6246d5c1dc17417db2b0f2b0b3aa3113f9c6df5920e93ac1e0c639a5bd1e"
 }

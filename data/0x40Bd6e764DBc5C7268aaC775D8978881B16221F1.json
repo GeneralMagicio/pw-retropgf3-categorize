@@ -64,5 +64,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Smart Contract Platforms, User Experience & Adoption",
-  "pwCategory": "DeFi, Decentralized Finance"
+  "pwCategory": "DeFi, Decentralized Finance",
+  "applicationApprovalID": "0x655147f840bb857c98d0a6841d40c43a0d1359aa79843c46e8e15b9f8cafd6eb"
 }

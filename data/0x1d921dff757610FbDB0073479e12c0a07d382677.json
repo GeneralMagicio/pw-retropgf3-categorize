@@ -95,5 +95,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Smart Contract Platforms, Tokenization Platforms, Blockchain Infrastructure",
-  "pwCategory": "Digital Identity & Social Privacy Innovations"
+  "pwCategory": "Digital Identity & Social Privacy Innovations",
+  "applicationApprovalID": "0xa97288157a5dbd10e18e03c08b6434e4999a7741ec8f4b5e5d10d5638560e7a4"
 }

@@ -61,5 +61,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Smart Contract Platforms, Web3 Community Platform",
-  "pwCategory": "Asset Management & Portfolio Tools"
+  "pwCategory": "Asset Management & Portfolio Tools",
+  "applicationApprovalID": "0xf77b5c952f2a7dddc5634a1ff63a57835a6c3e72a52c133b63a2ac65c20819f0"
 }

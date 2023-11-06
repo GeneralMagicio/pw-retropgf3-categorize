@@ -44,5 +44,6 @@
   "pwCategorySuggestions": "Smart Contract Platforms, Decentralized Identity, Blockchain Infrastructure",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Development & Infrastructure"
+  "pwCategory": "Development & Infrastructure",
+  "applicationApprovalID": "0x2c3cb1cda92a66effc9c010c9d29774c4b549e1617dcaa4823068e7053513ffb"
 }

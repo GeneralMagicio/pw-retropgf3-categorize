@@ -59,5 +59,6 @@
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Smart Contract Platforms, Layer 2 Scaling",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Asset Management & Portfolio Tools"
+  "pwCategory": "Asset Management & Portfolio Tools",
+  "applicationApprovalID": "0x1cad8308a2ca6a64abb3dc2286bac3f71ad46d0efd3bd82d3bde215b8aea71db"
 }

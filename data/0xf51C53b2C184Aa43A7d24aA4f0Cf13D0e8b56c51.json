@@ -111,5 +111,6 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, the application should be categorized as an INDIVIDUAL because the applicant mentions that they are a smart contract engineer and they contribute to the project in their free time.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Development & Infrastructure"
+  "pwCategory": "Development & Infrastructure",
+  "applicationApprovalID": "0x91411a9f53cb3d0d36f4dc6394d6d6aea81e12d9ecef2ac2225af3f9fe6d3d07"
 }

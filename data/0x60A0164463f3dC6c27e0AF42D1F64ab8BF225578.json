@@ -84,5 +84,6 @@
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Smart Contract Platforms, Cross-Chain Platforms",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Cross-Chain Interoperability"
+  "pwCategory": "Cross-Chain Interoperability",
+  "applicationApprovalID": "0xeff464a4d1163c24dea3777598667b31c6b68cea03649e0e8dbaa80fad82fc5f"
 }

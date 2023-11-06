@@ -80,5 +80,6 @@
   "pwCategorySuggestions": "Blockchain Infrastructure, Developer Ecosystem, Web3 Community Platform",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Cross-Chain Interoperability"
+  "pwCategory": "Cross-Chain Interoperability",
+  "applicationApprovalID": "0x315ab2dcbb2d8196e6c9a5a5945ca34ca210901a6f71ab103e00b253ccb73158"
 }

@@ -36,5 +36,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Smart Contract Platforms, Blockchain Infrastructure",
-  "pwCategory": "Developer Tools - Smart Contracts"
+  "pwCategory": "Developer Tools - Smart Contracts",
+  "applicationApprovalID": "0xc7f3dfa39edf399c56c96c2c192f50e54e71faefd01a07a8b3d9e6d9471ed09c"
 }

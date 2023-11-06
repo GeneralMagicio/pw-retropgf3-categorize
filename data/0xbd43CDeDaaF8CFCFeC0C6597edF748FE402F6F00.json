@@ -57,5 +57,6 @@
   "pwRecategorizeReason": "NO, it should be categorized as an INDIVIDUAL because the bio refers to \"I\" and \"me\", indicating it's a person, not a project.",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Blockchain Infrastructure, Privacy Coin, Decentralized Finance (DeFi)",
-  "pwCategory": "Governance Tokenomics and Analytics"
+  "pwCategory": "Governance Tokenomics and Analytics",
+  "applicationApprovalID": "0x7f6cff783ec90dfbb875801ddcca2830a063ce8af7c0cd1debfea5d660b096df"
 }

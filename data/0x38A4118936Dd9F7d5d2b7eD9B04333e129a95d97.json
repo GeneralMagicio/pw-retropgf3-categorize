@@ -53,5 +53,6 @@
   "pwCategorySuggestions": "NFT Aggregator, Digital Identity",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "NFTs, POAPs & Collectibles"
+  "pwCategory": "NFTs, POAPs & Collectibles",
+  "applicationApprovalID": "0x14396f1320abe1af334cd3c05b25ad70f7b4d17be33ed54ac01dd9eabd5cb096"
 }

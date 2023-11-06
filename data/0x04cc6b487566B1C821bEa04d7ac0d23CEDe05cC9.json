@@ -176,5 +176,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Decentralized Governance, Urban Governance, Public Finance",
-  "pwCategory": "Governance Tools"
+  "pwCategory": "Governance Tools",
+  "applicationApprovalID": "0xa0e0d386a862f8f1ee625bf5837bfb8ef5a8201d70c459efbe9172602ff3d831"
 }

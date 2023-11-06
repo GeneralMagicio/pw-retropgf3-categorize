@@ -48,5 +48,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Community Building, Education, Layer 2 Scaling",
-  "pwCategory": "Local Blockchain Communities"
+  "pwCategory": "Local Blockchain Communities",
+  "applicationApprovalID": "0xa56d0018133907dbd04d4e07f18bebd9b1fcef5f3cbc8f2510d0724c35d9cea8"
 }

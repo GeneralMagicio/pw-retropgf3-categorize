@@ -63,5 +63,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Non-Fungible Tokens (NFTs), Digital Identity, Community Building",
-  "pwCategory": "NFTs, POAPs & Collectibles"
+  "pwCategory": "NFTs, POAPs & Collectibles",
+  "applicationApprovalID": "0x733452eb6b9e98b599d8bd708a69086087618abd72a0c733ae7fd8c71c3deae5"
 }

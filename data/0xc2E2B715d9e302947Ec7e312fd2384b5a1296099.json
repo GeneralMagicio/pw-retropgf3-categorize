@@ -66,5 +66,6 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO. The application is categorized as a \"PROJECT\" but it's from an \"INDIVIDUAL\" named Kyle who is associated with the Gitcoin project.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Grants, Capital Allocation & Onboarding"
+  "pwCategory": "Grants, Capital Allocation & Onboarding",
+  "applicationApprovalID": "0x859d7ec1d7414662658b753da4559bfa6d091483fd0084b673a374e1c3cabf05"
 }

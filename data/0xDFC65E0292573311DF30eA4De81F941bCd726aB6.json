@@ -48,5 +48,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Blockchain Education",
-  "pwCategory": "Web3 Education & Skill Development"
+  "pwCategory": "Web3 Education & Skill Development",
+  "applicationApprovalID": "0xd02c9ba1056cbd0d5098b5bfd02d0de524716e24744b668b2c3006dea747a057"
 }

@@ -51,5 +51,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Governance & Tokens, Developer Ecosystem, Decentralized Finance (DeFi)",
-  "pwCategory": "Blockchain Education"
+  "pwCategory": "Blockchain Education",
+  "applicationApprovalID": "0x7424d0334feb519ea48f66153ce6b3f7dfd156f2dd861c23e4c5f308c95aef41"
 }

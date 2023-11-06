@@ -99,5 +99,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Tokenization Platforms, Blockchain Infrastructure",
-  "pwCategory": "NFTs"
+  "pwCategory": "NFTs",
+  "applicationApprovalID": "0xb736895db321cd99558c9b3c039fb03442e2fd2cfa95c95e1dd13a2d611fada7"
 }

@@ -92,5 +92,6 @@
   "pwCategorySuggestions": "Governance & Tokens, Tokenization Platforms, Blockchain Infrastructure",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Cross-Chain Interoperability"
+  "pwCategory": "Cross-Chain Interoperability",
+  "applicationApprovalID": "0x67ced2fcb164fe4806d9f1e10cb7a6ba4862530cd9d60a188e3dd3d5c6ce162d"
 }

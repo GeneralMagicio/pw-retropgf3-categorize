@@ -47,5 +47,6 @@
   "pwIsFlagged": false,
   "pwCategorySuggestions": "Content Creation, User Experience & Adoption, Governance & Tokens",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Governance Tokenomics and Analytics"
+  "pwCategory": "Governance Tokenomics and Analytics",
+  "applicationApprovalID": "0x4549e4350b5665b8baddddf4e8795667a16dcc1a922ec38f80bf80bbb61cc576"
 }

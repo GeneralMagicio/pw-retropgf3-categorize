@@ -72,5 +72,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Non-Fungible Tokens (NFTs), User Experience & Adoption.",
-  "pwCategory": "User Experience & Adoption"
+  "pwCategory": "User Experience & Adoption",
+  "applicationApprovalID": "0xbf60aad61fe50124510ec9c2f806bea84a2cb24d9b1f820fec6f74eaa127e4a8"
 }

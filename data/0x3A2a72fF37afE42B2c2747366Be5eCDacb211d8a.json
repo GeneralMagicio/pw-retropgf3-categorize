@@ -71,5 +71,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Blockchain Education, Community Building, Digital Identity",
-  "pwCategory": "NFTs"
+  "pwCategory": "NFTs",
+  "applicationApprovalID": "0x692fdc32cf03165e999d9abc1df1f0ae32549ad1e7c218505c4ed5fc6ed12b68"
 }

@@ -66,5 +66,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Blockchain Education, Web3 Community Platform, Developer Ecosystem",
-  "pwCategory": "Developer Education & Mentoring"
+  "pwCategory": "Developer Education & Mentoring",
+  "applicationApprovalID": "0xd5390391a52f0c2add9c6a9da3579d0eb4cdc8dfc62d30c791f29b7358e6d113"
 }

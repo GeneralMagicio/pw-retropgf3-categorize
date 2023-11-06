@@ -52,5 +52,6 @@
   "pwCategorySuggestions": "Smart Contract Platforms, Developer Ecosystem, Web3 Community Platform",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Development & Infrastructure"
+  "pwCategory": "Development & Infrastructure",
+  "applicationApprovalID": "0x5493ad25a21ade46d776ee122fa64cb3a396fd32d014b919fde940c73cc75fdf"
 }

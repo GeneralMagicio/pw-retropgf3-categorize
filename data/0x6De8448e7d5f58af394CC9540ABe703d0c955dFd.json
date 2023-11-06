@@ -81,5 +81,6 @@
   "pwCategorySuggestions": "Governance & Tokens, Developer Ecosystem, Blockchain Infrastructure",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Governance Tools"
+  "pwCategory": "Governance Tools",
+  "applicationApprovalID": "0xde2cdac6214cb7c5ebabfbf74f0038b416910f207f41be680680db18e477a820"
 }

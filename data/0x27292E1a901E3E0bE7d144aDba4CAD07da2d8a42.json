@@ -66,5 +66,6 @@
   "pwIsFlagged": false,
   "pwCategorySuggestions": "Developer Ecosystem, Blockchain Education, Social Impact",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "DAOs, ReFi, and DAO Tooling"
+  "pwCategory": "DAOs, ReFi, and DAO Tooling",
+  "applicationApprovalID": "0x8ea2ef9ab0d04fe8fdb9edd5208abf0504eafb530378f52b6a401f2b26a9e233"
 }

@@ -90,5 +90,6 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, the application is not correctly categorized. Despite the applicantType being labeled as a \"PROJECT\", the \"bio\" field uses first person language implying this is an individual.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Wallet and wallet tools"
+  "pwCategory": "Wallet and wallet tools",
+  "applicationApprovalID": "0x5fea22432b5b5a6f836e2d7f40372234e9a4e5d987b229cdc548d2057124cf4e"
 }

@@ -61,5 +61,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Developer Ecosystem, End-User Experience & Adoption",
-  "pwCategory": "NFTs, POAPs & Collectibles"
+  "pwCategory": "NFTs, POAPs & Collectibles",
+  "applicationApprovalID": "0xa9f33a56aa40586c814f40717d2a50abc26ec56ce17f978e788abf6d05d19525"
 }

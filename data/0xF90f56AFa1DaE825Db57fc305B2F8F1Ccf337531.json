@@ -49,5 +49,6 @@
   "pwFlaggedReason": "Flagged: The application promises future impact, specifically the onboarding of 100+ new crypto users to Optimism from Q1 to Q4 2022, which is against rule 1 of the grant program rules.",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Community Building, Education",
-  "pwCategory": "Web3 Education & Skill Development"
+  "pwCategory": "Web3 Education & Skill Development",
+  "applicationApprovalID": "0x3d17e2141d2f43c7bf1c32b2da17f39f8fd1d47fda7ddd5bc1ffb49562e99cf9"
 }

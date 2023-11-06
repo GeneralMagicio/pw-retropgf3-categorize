@@ -90,5 +90,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Smart Contract Platforms, Blockchain Infrastructure",
-  "pwCategory": "Blockchain News & Media"
+  "pwCategory": "Blockchain News & Media",
+  "applicationApprovalID": "0x0517a9d930d480d5478b6b173e54376cd03ec48d17574baadde2a6322560c7a7"
 }

@@ -108,5 +108,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Token Engineering Commons, Decentralized Finance (DeFi), Developer Ecosystem",
-  "pwCategory": "DAOs, ReFi, and DAO Tooling"
+  "pwCategory": "DAOs, ReFi, and DAO Tooling",
+  "applicationApprovalID": "0xfa0bb32edc38f3704e38dfa2af33310fed14f3a90928143c688643342b7f3466"
 }

@@ -70,5 +70,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Blockchain Infrastructure, Developer Ecosystem, Layer 2 Scaling",
-  "pwCategory": "Explorers, Security & Node Deployment Tools"
+  "pwCategory": "Explorers, Security & Node Deployment Tools",
+  "applicationApprovalID": "0x092a8ce182f9443499d2a36b1b6bbcd5da9340360d82a38c921b6b5c46f1e67f"
 }

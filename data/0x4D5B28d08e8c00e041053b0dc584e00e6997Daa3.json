@@ -172,5 +172,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Community Building, Decentralized Finance (DeFi), Public Goods",
-  "pwCategory": "Community Building"
+  "pwCategory": "Community Building",
+  "applicationApprovalID": "0xbf77dd60670643679c3108d6c26fc5d658aa52fa1d0a50d89f58cb3fc59d10ec"
 }

@@ -38,5 +38,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Tokenization Platforms, Blockchain Infrastructure, User Experience & Adoption",
-  "pwCategory": "Data Analytics & Insights"
+  "pwCategory": "Data Analytics & Insights",
+  "applicationApprovalID": "0x2eb508d0de065158c7ad478b90f5ad3bb34f530ae4eff096d2183a28e2d24930"
 }

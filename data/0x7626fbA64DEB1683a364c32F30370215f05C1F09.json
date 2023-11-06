@@ -86,5 +86,6 @@
   "pwFlaggedReason": "The application should be flagged because it violates rule 1 of the grant program: the applicant promises future contributions and impact in the statement, \"In the future, I will post OP development and its news on my WeChat platform and let more Chinese developers and lovers know Optimism network.\"",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Community Building, User Experience & Adoption, End-User Experience",
-  "pwCategory": "International & Multilingual Support"
+  "pwCategory": "International & Multilingual Support",
+  "applicationApprovalID": "0x2be7f3d97285899944dc774d48ae5bb1c1df672d68fdee9c77e03b6974fdcb6d"
 }

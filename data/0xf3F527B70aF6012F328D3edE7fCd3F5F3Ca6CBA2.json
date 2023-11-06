@@ -60,5 +60,6 @@
   "pwCategorySuggestions": "Wallet Management, Web3 Community Platform, Decentralized Finance (DeFi)",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Wallet and wallet tools"
+  "pwCategory": "Wallet and wallet tools",
+  "applicationApprovalID": "0x641fe0827e471069d6c0d2aa3a0688393aa20c3c845da252b4c8450cdee29630"
 }

@@ -80,5 +80,6 @@
   "pwCategorySuggestions": "Community Building, Web3 Community Platform, Event Organization",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Local Blockchain Communities"
+  "pwCategory": "Local Blockchain Communities",
+  "applicationApprovalID": "0x1cdb926d184bb8a656cb141dadb5c2c01211afa9b060abcb5deb604d0a1cdf93"
 }

@@ -71,5 +71,6 @@
   "pwIsFlagged": false,
   "pwCategorySuggestions": "Tokenization Platforms, Smart Contract Platforms, Governance Tokens",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "DAOs, ReFi, and DAO Tooling"
+  "pwCategory": "DAOs, ReFi, and DAO Tooling",
+  "applicationApprovalID": "0xe481da7dcea63794d734fbbd156f0327a4b6905852d6865a5437b722c80871ab"
 }

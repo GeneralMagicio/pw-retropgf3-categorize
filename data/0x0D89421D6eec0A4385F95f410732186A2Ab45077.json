@@ -76,5 +76,6 @@
   "pwIsFlagged": false,
   "pwCategorySuggestions": "Tokenization Platforms, Decentralized Finance (DeFi), Smart Contract Platforms",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "DAOs, ReFi, and DAO Tooling"
+  "pwCategory": "DAOs, ReFi, and DAO Tooling",
+  "applicationApprovalID": "0x88403a05838b89463ea5a2a8635d2b4c537fb2f6e7a4b939bebb60adb7dedee0"
 }

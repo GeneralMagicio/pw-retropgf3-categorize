@@ -53,5 +53,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Blockchain Gaming, Smart Contract Platforms, Developer Ecosystem",
-  "pwCategory": "Gaming & Entertainment"
+  "pwCategory": "Gaming & Entertainment",
+  "applicationApprovalID": "0x60e8b63d4c87c43409731ac1370379af9884f7239cf69b052fb36c14d121f736"
 }

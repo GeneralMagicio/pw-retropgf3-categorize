@@ -54,5 +54,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Hardware Wallets, User Experience & Adoption, Smart Contract Platforms",
-  "pwCategory": "Wallet and wallet tools"
+  "pwCategory": "Wallet and wallet tools",
+  "applicationApprovalID": "0x6b9133680966c6d5b9a0496aa442e063ea73d965024cb2c89685f9f3c79148f0"
 }

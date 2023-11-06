@@ -117,5 +117,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Content Creation, Developer Ecosystem, Blockchain Education",
-  "pwCategory": "International & Multilingual Support"
+  "pwCategory": "International & Multilingual Support",
+  "applicationApprovalID": "0x6c36998db2c142c13535bed9481e4ec4ac6fdad0d616ede7d4b1279d342494ca"
 }

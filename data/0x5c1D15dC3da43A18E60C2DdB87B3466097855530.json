@@ -81,5 +81,6 @@
   "pwRecategorizeReason": "NO, the application is not correctly categorized. Despite having a project-like name, the application talks about \"I\" showing that the applicant is an individual, not a project.",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Governance & Tokens, Blockchain Infrastructure, Developer Ecosystem",
-  "pwCategory": "Governance Tokenomics and Analytics"
+  "pwCategory": "Governance Tokenomics and Analytics",
+  "applicationApprovalID": "0x2ce0a71770e02af9a60965fd214e45283cc8adf5328ba54fecc9799b6c5adf6a"
 }

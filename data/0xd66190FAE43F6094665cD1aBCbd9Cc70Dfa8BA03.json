@@ -58,5 +58,6 @@
   "pwFlaggedReason": "This application should be flagged for promising future deliverables or impact, which goes against the rule 1 of the program. The application states that their work has not yet been released with the goal of significantly reducing Optimism's fees though Deneb fork.",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Layer 2 Scaling, Smart Contract Platforms, Blockchain Infrastructure",
-  "pwCategory": "Ethereum Core Tech Foundations"
+  "pwCategory": "Ethereum Core Tech Foundations",
+  "applicationApprovalID": "0xd37644d60f063de12786ccd1bb192bdca7ead7aaed1707161943e0ce8bfb72ff"
 }

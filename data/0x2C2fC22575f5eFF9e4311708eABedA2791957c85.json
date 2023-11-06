@@ -118,5 +118,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Community Building, Blockchain Education, Content Creation",
-  "pwCategory": "Web3 Community Engagement"
+  "pwCategory": "Web3 Community Engagement",
+  "applicationApprovalID": "0xd9a704d14fcf56e7d17b8a35f10e436fb4082d4c9bd7dbae254c59dd3e60a291"
 }

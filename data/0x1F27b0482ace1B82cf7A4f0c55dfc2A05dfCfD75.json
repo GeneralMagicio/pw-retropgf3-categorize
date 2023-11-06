@@ -118,5 +118,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Blockchain Education, Community Building, Content Creation",
-  "pwCategory": "International & Multilingual Support"
+  "pwCategory": "International & Multilingual Support",
+  "applicationApprovalID": "0x5b70a0c9b8c7f9ae678eb13b261801084fffc2b2bf2a27f73c93e2a9ac8cbd83"
 }

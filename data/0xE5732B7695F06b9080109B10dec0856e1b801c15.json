@@ -140,5 +140,6 @@
   "pwCategorySuggestions": "Decentralized Exchanges (DEXs), Cross-Chain Platforms, Liquidity Solutions",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Exchanges, DEX, Trading & Liquidity"
+  "pwCategory": "Exchanges, DEX, Trading & Liquidity",
+  "applicationApprovalID": "0x176d93beb29316e51b21e42cc1d49ef0867b37bda258b06ba410a3043fee7df5"
 }

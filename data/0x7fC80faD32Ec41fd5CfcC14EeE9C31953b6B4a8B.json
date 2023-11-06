@@ -135,5 +135,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Governance & Tokens, Community Building, Web3 Community Platform",
-  "pwCategory": "Community Building"
+  "pwCategory": "Community Building",
+  "applicationApprovalID": "0x12f8c09e2283155c61201fcc0263c628c07a522d4681242cf91cbc954c28d4cf"
 }

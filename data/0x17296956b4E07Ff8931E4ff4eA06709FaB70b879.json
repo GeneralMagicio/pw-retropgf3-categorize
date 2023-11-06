@@ -80,5 +80,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Governance & Tokens, Blockchain Infrastructure, Community Building",
-  "pwCategory": "Data Analytics & Insights"
+  "pwCategory": "Data Analytics & Insights",
+  "applicationApprovalID": "0xebfc1df338555d25cbe27bce4896c16c761e90e879be669fe8a6910c9f60dc6d"
 }

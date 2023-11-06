@@ -70,5 +70,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Community Building, Education, User Experience & Adoption",
-  "pwCategory": "User Experience & Adoption"
+  "pwCategory": "User Experience & Adoption",
+  "applicationApprovalID": "0xc9cf6f0c8f011f5935524d823da0ae4b50447ce084165692b931ef131c28403b"
 }

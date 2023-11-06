@@ -75,5 +75,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Developer Ecosystem, Blockchain Infrastructure, Layer 2 Scaling",
-  "pwCategory": "Security & Cross-Chain Solutions"
+  "pwCategory": "Security & Cross-Chain Solutions",
+  "applicationApprovalID": "0x5a041a04567ec1d38f7938f95579599846e0f9c01fcc5df978d20da56e957257"
 }

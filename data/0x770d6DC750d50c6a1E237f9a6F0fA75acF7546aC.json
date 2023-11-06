@@ -80,5 +80,6 @@
   "pwCategorySuggestions": "Community Building, Developer Ecosystem, Governance & Tokens",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Community Building"
+  "pwCategory": "Community Building",
+  "applicationApprovalID": "0x4cd6a82325cb804aaa19bbc8a3900e4cfc7c9e1f8ab014a9e6318488bf6dd35f"
 }

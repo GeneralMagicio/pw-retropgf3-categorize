@@ -50,5 +50,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Web3 Onboarding, User-Friendly App, Education & Social Impact",
-  "pwCategory": "Web3 Community Engagement"
+  "pwCategory": "Web3 Community Engagement",
+  "applicationApprovalID": "0xad78424bff63abc154f5377f9c876ed1e9f2a2c18c692854f32a383756868641"
 }

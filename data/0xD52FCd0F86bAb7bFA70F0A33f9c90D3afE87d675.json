@@ -48,5 +48,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Governance & Tokens, Developer Ecosystem, Smart Contract Platforms",
-  "pwCategory": "Governance Tools"
+  "pwCategory": "Governance Tools",
+  "applicationApprovalID": "0x074bd7082cde0d054a4d0402d63e6da0c02630dd39f552ec72c83d9614ec2a03"
 }

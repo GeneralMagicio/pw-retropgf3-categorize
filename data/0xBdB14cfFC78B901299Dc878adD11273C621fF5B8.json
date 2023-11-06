@@ -53,5 +53,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Developer Ecosystem",
-  "pwCategory": "Development & Infrastructure"
+  "pwCategory": "Development & Infrastructure",
+  "applicationApprovalID": "0x1d31165ae1b07462d311c0be2fa7cd90bf6fcdf1bf86756a633598c3e9e5199b"
 }

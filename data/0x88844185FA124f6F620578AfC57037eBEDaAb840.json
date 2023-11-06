@@ -105,5 +105,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Blockchain Education, Community Building, User Experience & Adoption",
-  "pwCategory": "Blockchain News & Media"
+  "pwCategory": "Blockchain News & Media",
+  "applicationApprovalID": "0x0c8b2527c29dee98b481017068e914279edf1a67c32f8670474b8bc376acd2b6"
 }

@@ -150,5 +150,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Decentralized Gaming, Layer 2 Scaling, Blockchain Education",
-  "pwCategory": "Gaming & Entertainment"
+  "pwCategory": "Gaming & Entertainment",
+  "applicationApprovalID": "0xfe2b907f252c0cb610a2625a1da0746862b02b814a0ad1a3296271725a841ec4"
 }

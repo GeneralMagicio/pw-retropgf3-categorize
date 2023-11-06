@@ -43,5 +43,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Community Building, NFT Aggregator, Blockchain Education",
-  "pwCategory": "Community Building"
+  "pwCategory": "Community Building",
+  "applicationApprovalID": "0xf75a2a43e2b5184bfb2aeb9eaccf5531101258317799c3faf9e51b1721491cf0"
 }

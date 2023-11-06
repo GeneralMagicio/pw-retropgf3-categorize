@@ -53,5 +53,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Blockchain Education, Web3 Community Platform, Media Production",
-  "pwCategory": "Web3 Education & Skill Development"
+  "pwCategory": "Web3 Education & Skill Development",
+  "applicationApprovalID": "0x4944faa89385224a1c499f4a4f35d0d8a00331d2ab3020efd63e203793e11845"
 }

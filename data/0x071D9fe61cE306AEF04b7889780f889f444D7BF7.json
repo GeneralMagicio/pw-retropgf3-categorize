@@ -54,5 +54,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Tokenization Platforms, Wallet Management, Web3 Community Platform",
-  "pwCategory": "Wallet and wallet tools"
+  "pwCategory": "Wallet and wallet tools",
+  "applicationApprovalID": "0xb61ed750e99be2df7e825ec88ab34f4e52afa65478f54ed8e8229ce391608cea"
 }

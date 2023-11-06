@@ -55,5 +55,6 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, the application is incorrectly categorized as a 'PROJECT'. This is an application from an 'INDIVIDUAL', Matthew, who identifies himself and talks about his individual contributions using personal pronouns such as 'I'.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "User Experience & Adoption"
+  "pwCategory": "User Experience & Adoption",
+  "applicationApprovalID": "0x09cf4d12f221b02800975408200f32b18b428c08f6796199f2b9b4a54fe86bc7"
 }

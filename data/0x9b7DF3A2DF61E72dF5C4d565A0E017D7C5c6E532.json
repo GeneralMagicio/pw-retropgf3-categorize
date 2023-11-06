@@ -55,5 +55,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Layer 2 Scaling, Smart Contract Platforms, Cross-Chain Platforms",
-  "pwCategory": "Cross-Chain Interoperability"
+  "pwCategory": "Cross-Chain Interoperability",
+  "applicationApprovalID": "0x4f900f5b3f1521b7bbb2c2d1da5ebee6975fa0739aacb003d466f655eed324ae"
 }

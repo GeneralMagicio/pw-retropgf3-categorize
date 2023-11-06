@@ -71,5 +71,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Developer Ecosystem, Education, Smart Contract Platforms",
-  "pwCategory": "Developer Education & Mentoring"
+  "pwCategory": "Developer Education & Mentoring",
+  "applicationApprovalID": "0x8bf38219babafdfd18899b481056e6b9dfdf5aed56e5b91a6490cbbc72ac70b0"
 }

@@ -105,5 +105,6 @@
   "pwIsFlagged": false,
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Tokenization Platforms, Blockchain Infrastructure",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "DeFi, Decentralized Finance"
+  "pwCategory": "DeFi, Decentralized Finance",
+  "applicationApprovalID": "0x8a98ca3820628543b412f97cfb5e9d0b75987432daf1d6199a658234727c8564"
 }

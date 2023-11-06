@@ -48,5 +48,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Taxation Tools, Governance & Tokens",
-  "pwCategory": "Asset Management & Portfolio Tools"
+  "pwCategory": "Asset Management & Portfolio Tools",
+  "applicationApprovalID": "0x36095c75011838036c512484b03c67dc9d23dcbaf5f87d413a270d256dd5bb4e"
 }

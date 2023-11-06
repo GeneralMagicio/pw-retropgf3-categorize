@@ -97,5 +97,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Tokenization Platforms, Web3 Community Platform, Digital Identity",
-  "pwCategory": "Exchanges, DEX, Trading & Liquidity"
+  "pwCategory": "Exchanges, DEX, Trading & Liquidity",
+  "applicationApprovalID": "0xc2618c219f978482880af2ae3995632711a3c5a24039378e805604b1c1deee27"
 }

@@ -108,5 +108,6 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, the application is categorized as a project but the bio indicates that it is an individual.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Digital Identity & Social Privacy Innovations"
+  "pwCategory": "Digital Identity & Social Privacy Innovations",
+  "applicationApprovalID": "0x9ae606d30dc33cdb405ea16e48fd055ba496a088cd4cc7efec488db659a296d2"
 }

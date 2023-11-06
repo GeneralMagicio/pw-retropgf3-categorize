@@ -219,5 +219,6 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO. The application is not correctly categorized as it should be under \"INDIVIDUAL\" because the applicant refers to themselves as \"I\" in the bio section.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "International & Multilingual Support"
+  "pwCategory": "International & Multilingual Support",
+  "applicationApprovalID": "0x26ff87883511c2e098d8f80ec85de3191eee5560ac5838c3e78119acc1201ad1"
 }

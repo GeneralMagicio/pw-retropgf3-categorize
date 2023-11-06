@@ -78,5 +78,6 @@
   "pwCategorySuggestions": "Blockchain Infrastructure, Decentralized Finance (DeFi), Tokenization Platforms",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Explorers, Security & Node Deployment Tools"
+  "pwCategory": "Explorers, Security & Node Deployment Tools",
+  "applicationApprovalID": "0x91accca44656ae99040e947aa75f50e9f9657bce564fdf1b9f266c32081ecf0b"
 }

@@ -71,5 +71,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Stablecoin Aggregator, DeFi Analytics, Blockchain Media",
-  "pwCategory": "Asset Management & Portfolio Tools"
+  "pwCategory": "Asset Management & Portfolio Tools",
+  "applicationApprovalID": "0x43fe522287123a1ec1cd4b0ea4f346db3d9ed4cf8ade3f011bfda15cdbc0a80d"
 }

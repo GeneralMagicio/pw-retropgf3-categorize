@@ -68,5 +68,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Decentralized Identity, Blockchain Infrastructure, Web3 Community Platform",
-  "pwCategory": "Digital Identity & Social Privacy Innovations"
+  "pwCategory": "Digital Identity & Social Privacy Innovations",
+  "applicationApprovalID": "0x67d0c66af963dd27720330e5dc2b5ab73a522c9436fd4085aa7048f1584da54b"
 }

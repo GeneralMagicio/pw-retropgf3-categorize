@@ -37,5 +37,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Web3 Infrastructure",
-  "pwCategory": "Development & Infrastructure"
+  "pwCategory": "Development & Infrastructure",
+  "applicationApprovalID": "0xe3ed647a584d9ba739324fa51e1d5810bf2db62570cb7491cc0c63eac8a44e4a"
 }

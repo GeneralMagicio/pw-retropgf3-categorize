@@ -50,5 +50,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Web3 Infrastructure, Developer Tools, Adoption",
-  "pwCategory": "Blockchain Developer Hub"
+  "pwCategory": "Blockchain Developer Hub",
+  "applicationApprovalID": "0x0b2f10e6d718c30137841f1c2017c2aa0e5a16f11f3dd5e00c23ddd37f32e5a2"
 }

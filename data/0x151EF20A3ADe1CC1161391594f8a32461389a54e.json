@@ -73,5 +73,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Smart Contract Platforms",
-  "pwCategory": "Ethereum Core Tech Foundations"
+  "pwCategory": "Ethereum Core Tech Foundations",
+  "applicationApprovalID": "0xef65b1e277e1c7398bbd8a10c623d53dbbb64474ea68b6484e9ccf5c9c0cc494"
 }

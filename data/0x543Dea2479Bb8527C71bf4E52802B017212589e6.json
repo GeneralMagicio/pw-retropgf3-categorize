@@ -68,5 +68,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Blockchain Education, Media Production, Decentralized Finance (DeFi)",
-  "pwCategory": "Blockchain News & Media"
+  "pwCategory": "Blockchain News & Media",
+  "applicationApprovalID": "0x6939fbb2f2cbf416e355659b9bd2cdbbd322c098607bdff1d0a87974c176b180"
 }

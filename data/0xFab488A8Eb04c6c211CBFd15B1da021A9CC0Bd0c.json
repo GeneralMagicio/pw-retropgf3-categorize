@@ -60,5 +60,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Content Creation, Blockchain Education, Smart Contract Platforms",
-  "pwCategory": "Blockchain Education"
+  "pwCategory": "Blockchain Education",
+  "applicationApprovalID": "0x6b1dacf09d39e4af7b211477c67428abfc9b2da6ad4ae996383ed3bd00b99bc1"
 }

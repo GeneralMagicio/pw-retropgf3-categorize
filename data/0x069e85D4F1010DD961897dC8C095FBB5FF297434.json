@@ -75,5 +75,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Decentralized Exchanges (DEXs), Tokenization Platforms, Decentralized Finance (DeFi)",
-  "pwCategory": "Exchanges, DEX, Trading & Liquidity"
+  "pwCategory": "Exchanges, DEX, Trading & Liquidity",
+  "applicationApprovalID": "0x3a19a401d8892df9abdc19a255ef686d98ff5e2cb629a03f90272e89725ac3e5"
 }

@@ -48,5 +48,6 @@
   "pwCategorySuggestions": "Non-Fungible Tokens (NFTs), Blockchain Gaming, Community Building",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "NFTs"
+  "pwCategory": "NFTs",
+  "applicationApprovalID": "0x4f5288babc44fe1d53d8a322b5fc674d916b7edd40715052d566929667b2efab"
 }

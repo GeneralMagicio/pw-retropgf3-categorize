@@ -55,5 +55,6 @@
   "pwCategorySuggestions": "Smart Contract Platforms, Wallet Management, Blockchain Infrastructure",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Developer Tools - Smart Contracts"
+  "pwCategory": "Developer Tools - Smart Contracts",
+  "applicationApprovalID": "0x118a000851cf4c736497bab89993418517ac7cd9c8ede074aff408a8e0f84060"
 }

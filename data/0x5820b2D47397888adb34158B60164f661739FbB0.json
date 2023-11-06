@@ -56,5 +56,6 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, the application is incorrectly categorized as \"PROJECT\". It should be \"INDIVIDUAL\" as the \"bio\" section indicates that it is an individual software engineer who is working on the project.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Development & Infrastructure"
+  "pwCategory": "Development & Infrastructure",
+  "applicationApprovalID": "0xd440298214a506f4b23470fc38c664f016b6c801924a2bec2a85f8df5713d1f2"
 }

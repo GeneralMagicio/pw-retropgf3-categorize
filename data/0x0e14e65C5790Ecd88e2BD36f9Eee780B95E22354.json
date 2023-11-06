@@ -68,5 +68,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Decentralized Exchanges (DEXs), Layer 2 Scaling, Wallet Management",
-  "pwCategory": "Exchanges, DEX, Trading & Liquidity"
+  "pwCategory": "Exchanges, DEX, Trading & Liquidity",
+  "applicationApprovalID": "0x56572c92143d2355c0744c69ed9eeee088eea9ad84a15f20a8f9b3cb11233350"
 }

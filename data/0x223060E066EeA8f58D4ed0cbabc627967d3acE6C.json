@@ -45,5 +45,6 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, it is not correctly categorized because the application is submitted by an individual \"George Knee\" who mentions \"I'm the Tech Lead for State Channels...\", thus the \"applicantType\" should be \"INDIVIDUAL\".",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Ethereum Core Tech Foundations"
+  "pwCategory": "Ethereum Core Tech Foundations",
+  "applicationApprovalID": "0x6fb1521598b6e2417c6439d4350c577ab1609f2bd9a3cdfdfa1267cfa52789e1"
 }

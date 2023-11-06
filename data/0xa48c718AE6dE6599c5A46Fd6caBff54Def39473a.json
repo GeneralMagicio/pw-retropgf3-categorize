@@ -57,5 +57,6 @@
   "pwRecategorizeReason": "NO, the application is categorized as a \"PROJECT\", but the bio section states \"Hello, I'm an independent developer building dApps\", which shows it should be categorized as an \"INDIVIDUAL\".",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Decentralized Identity, Governance & Tokens, Developer Ecosystem",
-  "pwCategory": "Digital Identity & Social Privacy Innovations"
+  "pwCategory": "Digital Identity & Social Privacy Innovations",
+  "applicationApprovalID": "0x8c296435286bd1a2116dfe41c1323e27361af7931b007457bc5b754cfb6fdc55"
 }

@@ -50,5 +50,6 @@
   "pwRecategorizeReason": "NO, the applicant refers to himself as \"I\" in the bio, indicating that it is an individual not a project.",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Cryptographic Implementations",
-  "pwCategory": "Development & Infrastructure"
+  "pwCategory": "Development & Infrastructure",
+  "applicationApprovalID": "0x38f7def3a807b2947526a64a1b56f99589c84ff90a3144e1628218569fd66cf2"
 }

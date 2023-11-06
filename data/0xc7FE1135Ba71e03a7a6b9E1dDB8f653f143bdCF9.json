@@ -139,5 +139,6 @@
   "pwRecategorizeReason": "NO, it is not correctly categorized. Despite the individual Waylon Jepsen being mentioned, the main focus and contributions of the application are centered around a project named \"Jessy's Hacker House,\" not the contributions of Waylon Jepsen as an individual. Hence the applicantType should be \"PROJECT\".",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Community Building, Open-Source Software",
-  "pwCategory": "Community Building"
+  "pwCategory": "Community Building",
+  "applicationApprovalID": "0x625af78742d214ddceb8fdc2fb992333579e3787b1b270e940e82ff44f261ea3"
 }

@@ -125,5 +125,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Decentralized Infrastructure, Blockchain Development Tools",
-  "pwCategory": "Explorers, Security & Node Deployment Tools"
+  "pwCategory": "Explorers, Security & Node Deployment Tools",
+  "applicationApprovalID": "0xd7678550d5092dc6163c97666248ff136eae59c82e3bfd21905be13024d0662e"
 }

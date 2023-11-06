@@ -50,5 +50,6 @@
   "pwIsFlagged": false,
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Cross-Chain Platforms, Smart Contract Platforms",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "DeFi, Decentralized Finance"
+  "pwCategory": "DeFi, Decentralized Finance",
+  "applicationApprovalID": "0x8950355a1dd8ddcbd9acc926563e980bc6df7b41358a6ba6fa58822f235baedb"
 }

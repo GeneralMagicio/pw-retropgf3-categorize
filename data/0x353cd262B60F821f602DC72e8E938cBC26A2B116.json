@@ -75,5 +75,6 @@
   "pwIsFlagged": false,
   "pwCategorySuggestions": "Tokenization Platforms, Web3 Community Platform, Blockchain Infrastructure",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Grants, Capital Allocation & Onboarding"
+  "pwCategory": "Grants, Capital Allocation & Onboarding",
+  "applicationApprovalID": "0x70b69055f61045ae4ea36c1078a413f7d32a237c052b78047efbf8c38fe44652"
 }

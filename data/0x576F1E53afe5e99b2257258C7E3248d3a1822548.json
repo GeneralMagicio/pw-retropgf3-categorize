@@ -46,5 +46,6 @@
   "pwCategorySuggestions": "Smart Contract Platforms, Blockchain Infrastructure, Developer Ecosystem",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Explorers, Security & Node Deployment Tools"
+  "pwCategory": "Explorers, Security & Node Deployment Tools",
+  "applicationApprovalID": "0x9f375d025498e4a6e457e9bbd517f1c75395fbc521bb3300f85b02ed6cbbe5d1"
 }

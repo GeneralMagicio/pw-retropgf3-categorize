@@ -38,5 +38,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "NFTs, Web3 Community Platform",
-  "pwCategory": "Digital Identity & Social Privacy Innovations"
+  "pwCategory": "Digital Identity & Social Privacy Innovations",
+  "applicationApprovalID": "0x2d8dc7a3cd967718d8f27253b4a3912653d308620007576ac0697ba65fecd985"
 }

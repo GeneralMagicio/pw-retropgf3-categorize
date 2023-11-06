@@ -43,5 +43,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Blockchain Gaming",
-  "pwCategory": "Gaming & Entertainment"
+  "pwCategory": "Gaming & Entertainment",
+  "applicationApprovalID": "0xbc143f0bb65bd6355dbda961519e124721b88349b53ff73c699ae785a8d60411"
 }

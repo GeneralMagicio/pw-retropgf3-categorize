@@ -47,5 +47,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Smart Contract Platforms, Developer Ecosystem, Testing Tools",
-  "pwCategory": "Developer Tools - Smart Contracts"
+  "pwCategory": "Developer Tools - Smart Contracts",
+  "applicationApprovalID": "0xb69bd7618a4186b861ac50e11d6ab546db2e435afd46d2da211fc64e84505bf3"
 }

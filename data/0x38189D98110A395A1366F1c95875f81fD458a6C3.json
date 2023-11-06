@@ -48,5 +48,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Decentralized Identity, Web3 Community Platform",
-  "pwCategory": "Explorers, Security & Node Deployment Tools"
+  "pwCategory": "Explorers, Security & Node Deployment Tools",
+  "applicationApprovalID": "0xb5b8a7a121a175d70136e0509cdb1ad0fd66b30dc10c955a5717cecc9e8b1961"
 }

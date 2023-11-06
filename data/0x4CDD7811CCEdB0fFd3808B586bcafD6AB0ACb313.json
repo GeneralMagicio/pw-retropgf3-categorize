@@ -87,5 +87,6 @@
   "pwCategorySuggestions": "Community Building, Developer Ecosystem, Web3 Community Platform",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Community Building"
+  "pwCategory": "Community Building",
+  "applicationApprovalID": "0x6c138f65797f29f8378d1a8bfe362a242b858401b1eddd45717abe7d553693a3"
 }

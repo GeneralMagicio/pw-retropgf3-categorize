@@ -108,5 +108,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Decentralized Governance, Developer Ecosystem, Collaborative Ecosystem",
-  "pwCategory": "DAOs, ReFi, and DAO Tooling"
+  "pwCategory": "DAOs, ReFi, and DAO Tooling",
+  "applicationApprovalID": "0x1230e13ddd6a768853da352e490b26ce145a23554359c7bb2522c0700ef5381e"
 }

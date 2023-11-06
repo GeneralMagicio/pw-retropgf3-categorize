@@ -134,5 +134,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Content Creation, User Experience & Adoption, Decentralized Identity",
-  "pwCategory": "Digital Identity & Social Privacy Innovations"
+  "pwCategory": "Digital Identity & Social Privacy Innovations",
+  "applicationApprovalID": "0x134cdf191a5a805f5069b74bff91a1e2f641053908d50ab9c2531de6baf03de1"
 }

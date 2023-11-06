@@ -54,5 +54,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Developer Community Building, Technology Showcase, Awareness & Education",
-  "pwCategory": "Developer Education & Mentoring"
+  "pwCategory": "Developer Education & Mentoring",
+  "applicationApprovalID": "0xc994fee0c5255f0bb044f3e0e86fc18ecb6243a10189e717f3269d430a0c507c"
 }

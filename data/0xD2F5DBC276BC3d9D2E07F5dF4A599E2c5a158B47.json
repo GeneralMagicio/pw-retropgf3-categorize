@@ -43,5 +43,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Smart Contract Platforms, Blockchain Infrastructure, Web3 Community Platform",
-  "pwCategory": "NFTs"
+  "pwCategory": "NFTs",
+  "applicationApprovalID": "0xc56adc46c6687b1b8b40930bf6724b819917ac03b0b9f83e7f02ea219098275b"
 }

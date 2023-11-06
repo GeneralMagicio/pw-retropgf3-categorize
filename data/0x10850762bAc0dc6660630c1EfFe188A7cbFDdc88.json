@@ -91,5 +91,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "NFTs, Content Creation, Community Building",
-  "pwCategory": "NFTs, POAPs & Collectibles"
+  "pwCategory": "NFTs, POAPs & Collectibles",
+  "applicationApprovalID": "0x4002ff01746bfe821acbcdc98c3d97d58673998dc655471186dc13f27e2d84ab"
 }

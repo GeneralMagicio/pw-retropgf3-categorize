@@ -42,5 +42,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Smart Contract Security Tools",
-  "pwCategory": "Security & Cross-Chain Solutions"
+  "pwCategory": "Security & Cross-Chain Solutions",
+  "applicationApprovalID": "0x7e980b829cf896bc976e773dd743294a767ab097af1185a270ebb9e8f5899b9b"
 }

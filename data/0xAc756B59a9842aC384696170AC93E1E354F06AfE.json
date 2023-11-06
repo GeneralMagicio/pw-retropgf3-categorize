@@ -103,5 +103,6 @@
   "pwFlaggedReason": "The application should be flagged for promising future impact, which is against the rules of the grant program. The applicant states in their contribution description that they will allocate all RetroPGF grants to future public goods security reviews in the OP ecosystem.",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Blockchain Infrastructure",
-  "pwCategory": "Explorers, Security & Node Deployment Tools"
+  "pwCategory": "Explorers, Security & Node Deployment Tools",
+  "applicationApprovalID": "0x7c45354a60d2e984beb565b698bd3c04a0901ca065bc788459023f03c3b1cfa2"
 }

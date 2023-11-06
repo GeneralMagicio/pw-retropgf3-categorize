@@ -49,5 +49,6 @@
   "pwCategorySuggestions": "Blockchain Infrastructure, Smart Contract Platforms, Layer 2 Scaling",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Ethereum Core Tech Foundations"
+  "pwCategory": "Ethereum Core Tech Foundations",
+  "applicationApprovalID": "0x75c17ab86592588357ebe8f116dab73c6a531ec20a5b23a1f57ae7d85dbb3549"
 }

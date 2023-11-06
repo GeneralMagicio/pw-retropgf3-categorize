@@ -77,5 +77,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "NFT Aggregator",
-  "pwCategory": "NFTs"
+  "pwCategory": "NFTs",
+  "applicationApprovalID": "0x8e27954588424d59759c84a2692f4115e12bb557b584ecea2b8e872aa3cdc133"
 }

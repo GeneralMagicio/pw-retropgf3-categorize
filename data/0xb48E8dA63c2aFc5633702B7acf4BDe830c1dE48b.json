@@ -101,5 +101,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Non-Fungible Tokens (NFTs), Community Building, Art Collaboration",
-  "pwCategory": "Gaming & Entertainment"
+  "pwCategory": "Gaming & Entertainment",
+  "applicationApprovalID": "0x91bba885bafc9e5144c7577f7159778277e17eb6073d4f6adf5acd3b31c9f1fc"
 }

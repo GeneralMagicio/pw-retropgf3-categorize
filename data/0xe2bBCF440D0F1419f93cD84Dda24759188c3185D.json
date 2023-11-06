@@ -45,5 +45,6 @@
   "pwCategorySuggestions": "Blockchain Infrastructure, User Experience & Adoption, Privacy Coins",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Cross-Chain Interoperability"
+  "pwCategory": "Cross-Chain Interoperability",
+  "applicationApprovalID": "0x7d1e13db1b852828f7072e10fcfc179751c624f6a93929a3b5a4a6795d5bdec4"
 }

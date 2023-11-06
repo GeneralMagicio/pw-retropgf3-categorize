@@ -116,5 +116,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Governance & Tokens, Community Building, Developer Ecosystem",
-  "pwCategory": "Governance Tools"
+  "pwCategory": "Governance Tools",
+  "applicationApprovalID": "0x2bb6fd5bdce9bec41b0ede8c956aeeef777a3ffa14aaf953e3828c245352363e"
 }

@@ -68,5 +68,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Web3 Data Intelligence Platform, Blockchain Infrastructure, Media Production",
-  "pwCategory": "Data Analytics & Insights"
+  "pwCategory": "Data Analytics & Insights",
+  "applicationApprovalID": "0xc769fbdc23daaddf4267c4026326106783271a78f1be761c859c9f508ebe895e"
 }

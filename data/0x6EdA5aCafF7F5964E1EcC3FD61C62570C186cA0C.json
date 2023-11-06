@@ -65,5 +65,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Community Building, Governance & Tokens, User Experience & Adoption",
-  "pwCategory": "Community Building"
+  "pwCategory": "Community Building",
+  "applicationApprovalID": "0x0d494df8a9fd661b3eac0d17be9cb49c90ca4c94d8b6551d82df74b74907ef4f"
 }

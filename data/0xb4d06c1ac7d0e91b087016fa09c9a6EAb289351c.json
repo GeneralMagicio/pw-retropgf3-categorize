@@ -60,5 +60,6 @@
   "pwCategorySuggestions": "Wallet Management",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Wallet and wallet tools"
+  "pwCategory": "Wallet and wallet tools",
+  "applicationApprovalID": "0xb7247ddd26258c85d25c75b287219c22c72db583a99d9539a962b9b5cccb5194"
 }

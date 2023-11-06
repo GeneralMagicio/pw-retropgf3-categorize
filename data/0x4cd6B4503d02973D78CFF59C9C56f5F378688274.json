@@ -102,5 +102,6 @@
   "pwCategorySuggestions": "Developer Ecosystem, Governance & Tokens",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "DAOs, ReFi, and DAO Tooling"
+  "pwCategory": "DAOs, ReFi, and DAO Tooling",
+  "applicationApprovalID": "0x31e6a151a738d9175f93bd96c5578b71f66475ddbd341b5da69ce5ddb2ad7bfc"
 }

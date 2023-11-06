@@ -43,5 +43,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Tokenization Platforms, Smart Contract Platforms, User Experience & Adoption",
-  "pwCategory": "Developer Tools - Smart Contracts"
+  "pwCategory": "Developer Tools - Smart Contracts",
+  "applicationApprovalID": "0xa6d7790f101a9e2efc543a623d1f362f0707f2dc570caa96ac092926fb2bedfb"
 }

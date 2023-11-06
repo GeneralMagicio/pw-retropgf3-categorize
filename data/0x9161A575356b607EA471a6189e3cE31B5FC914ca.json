@@ -44,5 +44,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Blockchain Infrastructure, Decentralized Finance (DeFi), User Experience & Adoption",
-  "pwCategory": "Data Analytics & Insights"
+  "pwCategory": "Data Analytics & Insights",
+  "applicationApprovalID": "0x89f8a3ae09553252f125cb6adaf4a0f1bd75f0d46239ab0e6c659223cf24fb50"
 }

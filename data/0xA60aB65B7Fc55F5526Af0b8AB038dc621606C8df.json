@@ -84,5 +84,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Tokenization Platforms, Web3 Community Platform, Blockchain Infrastructure",
-  "pwCategory": "Explorers, Security & Node Deployment Tools"
+  "pwCategory": "Explorers, Security & Node Deployment Tools",
+  "applicationApprovalID": "0xb1e3145980b63c6b80adad4ff345f8424b51b2885c13a411ffa6f37fba3aeb23"
 }

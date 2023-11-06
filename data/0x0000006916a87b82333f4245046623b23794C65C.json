@@ -44,5 +44,6 @@
   "pwIsFlagged": false,
   "pwCategorySuggestions": "Smart Contract Platforms, Developer Ecosystem, Blockchain Infrastructure",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Ethereum Core Tech Foundations"
+  "pwCategory": "Ethereum Core Tech Foundations",
+  "applicationApprovalID": "0x779573aacec94452e1cc6fe2708ece867a8c056b5e5a02c003c53f650ee08ddc"
 }

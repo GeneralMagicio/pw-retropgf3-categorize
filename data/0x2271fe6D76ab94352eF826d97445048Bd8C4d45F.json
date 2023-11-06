@@ -60,5 +60,6 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, the application should be categorized as \"INDIVIDUAL\" because the bio and contribution descriptions talk about \"I\" and \"me\".",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "User Experience & Adoption"
+  "pwCategory": "User Experience & Adoption",
+  "applicationApprovalID": "0x759e6f42422f5e660ce8359097c72c9598219be2fe5eada718100e53dd9866cf"
 }

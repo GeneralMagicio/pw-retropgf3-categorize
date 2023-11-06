@@ -66,5 +66,6 @@
   "pwIsFlagged": false,
   "pwCategorySuggestions": "Grant Management",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Grants, Capital Allocation & Onboarding"
+  "pwCategory": "Grants, Capital Allocation & Onboarding",
+  "applicationApprovalID": "0x79fc11f76eb95d878142bf547b993f5850e2fec2408457ae7d3a68d0a755fabb"
 }

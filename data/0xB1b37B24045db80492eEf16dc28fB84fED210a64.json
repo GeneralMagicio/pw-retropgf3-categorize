@@ -141,5 +141,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Community Building, Content Creation, Web3 Community Platform",
-  "pwCategory": "Web3 Community Engagement"
+  "pwCategory": "Web3 Community Engagement",
+  "applicationApprovalID": "0xb8995100de67ccb37e0d12d1bec7e3b90b0c9423055c5d0f24d7265e66daefa2"
 }

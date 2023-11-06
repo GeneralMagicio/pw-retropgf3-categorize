@@ -41,5 +41,6 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, it is not correctly categorized because the application uses singular pronouns like \"I\" and \"me\", so it should be categorized as an \"INDIVIDUAL\".",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Development & Infrastructure"
+  "pwCategory": "Development & Infrastructure",
+  "applicationApprovalID": "0x1d865a703d9c84fa4b5d97f84d399b0a785f64d0ae99716a306e698035412c54"
 }

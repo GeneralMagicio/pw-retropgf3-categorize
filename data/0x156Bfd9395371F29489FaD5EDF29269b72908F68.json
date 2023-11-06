@@ -61,5 +61,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Decentralized Science, Coral Reef Conservation",
-  "pwCategory": "DAOs, ReFi, and DAO Tooling"
+  "pwCategory": "DAOs, ReFi, and DAO Tooling",
+  "applicationApprovalID": "0xe0bf90167bf2df7b82043f0c0bf564730e5ebd506e2cacf4d44f8c3cd29cdc27"
 }

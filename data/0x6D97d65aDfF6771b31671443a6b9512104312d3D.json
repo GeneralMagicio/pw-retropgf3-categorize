@@ -40,5 +40,6 @@
   "pwRecategorizeReason": "NO, it should be categorized as \"INDIVIDUAL\" because the application is from a person named Marko and he refers to his work using \"I\" in the impact description.",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "User Experience & Adoption, Developer Ecosystem, Web3 Community Platform",
-  "pwCategory": "User Experience & Adoption"
+  "pwCategory": "User Experience & Adoption",
+  "applicationApprovalID": "0x7e30bd735b4d56efe3ea3e57521ec441cc10ac2cd6c1d1a121af24873b2c13f7"
 }

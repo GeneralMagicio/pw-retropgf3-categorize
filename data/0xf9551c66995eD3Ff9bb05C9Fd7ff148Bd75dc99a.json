@@ -65,5 +65,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Decentralized Governance Platform, Layer 2 Scaling, Blockchain Infrastructure",
-  "pwCategory": "Governance Tools"
+  "pwCategory": "Governance Tools",
+  "applicationApprovalID": "0xfadf25227cc176c7ede5ca6453f663bf57947c42664768e00de9f71c1a907c41"
 }

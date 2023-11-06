@@ -43,5 +43,6 @@
   "pwIsFlagged": false,
   "pwCategorySuggestions": "Smart Contract Platforms, Tokenization Platforms, Blockchain Infrastructure",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Blockchain Developer Hub"
+  "pwCategory": "Blockchain Developer Hub",
+  "applicationApprovalID": "0x75815ccd858e6b97c6e8435e24ec66b1bc4d67c4775a81d4b49a8c58b62daf3f"
 }

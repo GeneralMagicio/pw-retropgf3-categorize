@@ -38,5 +38,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Smart Contract Platforms",
-  "pwCategory": "NFTs"
+  "pwCategory": "NFTs",
+  "applicationApprovalID": "0xedd5da3aa7cb23ec992f2d0b8bc6da3976efa2d28ed3a30521b5cbe6069eea01"
 }

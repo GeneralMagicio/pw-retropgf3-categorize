@@ -83,5 +83,6 @@
   "pwIsFlagged": false,
   "pwCategorySuggestions": "DAO Analytics, Governance Transparency",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Governance Tools"
+  "pwCategory": "Governance Tools",
+  "applicationApprovalID": "0xfaaed11baa954ccc12629031eeaf8dbfb8041b73f0e050614152b0d1b6beaed7"
 }

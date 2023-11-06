@@ -56,5 +56,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Decentralized Governance, Blockchain Infrastructure, Social Impact",
-  "pwCategory": "Governance Tools"
+  "pwCategory": "Governance Tools",
+  "applicationApprovalID": "0x257a1cd3636dacb61acfaf682f07d3753453246858145ba32c5de11284bd9c5a"
 }

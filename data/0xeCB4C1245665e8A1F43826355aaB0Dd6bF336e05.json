@@ -160,5 +160,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Digital Laboratory, Smart Contract Platforms, Decentralized Finance (DeFi)",
-  "pwCategory": "Developer Tools - Smart Contracts"
+  "pwCategory": "Developer Tools - Smart Contracts",
+  "applicationApprovalID": "0x904fafc79d5a1e200399edc47fbe95e69530075f8a699866ff7ccbd3f5567cb7"
 }

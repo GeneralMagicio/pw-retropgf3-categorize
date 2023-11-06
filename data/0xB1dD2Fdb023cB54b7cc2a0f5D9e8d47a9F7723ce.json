@@ -81,5 +81,6 @@
   "pwIsFlagged": false,
   "pwFlaggedReason": "This project is not deployed on Optimism yet.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "DeFi, Decentralized Finance"
+  "pwCategory": "DeFi, Decentralized Finance",
+  "applicationApprovalID": "0x7ab835fe64d2895755b3bbb798cd2164884ff924485993448394a28a1f854d33"
 }

@@ -75,5 +75,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Community Building, Tokenization Platforms, Blockchain Infrastructure",
-  "pwCategory": "DAOs, ReFi, and DAO Tooling"
+  "pwCategory": "DAOs, ReFi, and DAO Tooling",
+  "applicationApprovalID": "0x65eb997409c4507e265482ba4c355fa87a936d326a45bacc0b3f815477dff588"
 }

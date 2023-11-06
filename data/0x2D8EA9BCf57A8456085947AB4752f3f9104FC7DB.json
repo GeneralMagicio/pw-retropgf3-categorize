@@ -85,5 +85,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Blockchain Infrastructure, Decentralized Finance (DeFi), User Experience & Adoption",
-  "pwCategory": "User Experience & Adoption"
+  "pwCategory": "User Experience & Adoption",
+  "applicationApprovalID": "0x9f35e67a3fab96d07539e342cfb9417ab7eee66ea589a6ba5ac27531d1e36c5b"
 }

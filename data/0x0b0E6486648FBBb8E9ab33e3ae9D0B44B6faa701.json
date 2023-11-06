@@ -36,5 +36,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Content Creation, Blockchain Education, Community Building",
-  "pwCategory": "Blockchain News & Media"
+  "pwCategory": "Blockchain News & Media",
+  "applicationApprovalID": "0xb046f206a85340c9a5fd8a2580c50a959a5e12ce83472533cf7320481836c242"
 }

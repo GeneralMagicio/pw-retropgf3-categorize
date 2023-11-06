@@ -109,5 +109,6 @@
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Smart Contract Platforms, Developer Ecosystem",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "DeFi, Decentralized Finance"
+  "pwCategory": "DeFi, Decentralized Finance",
+  "applicationApprovalID": "0x8e02390fa0a94edad31224af640fa639f7d62111f05f32ea1e2746111e45a905"
 }

@@ -223,5 +223,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Blockchain Education, Security Research, Community Building",
-  "pwCategory": "Developer Tools - Smart Contracts"
+  "pwCategory": "Developer Tools - Smart Contracts",
+  "applicationApprovalID": "0x08887fb11639636a61fda9a74730cc377d5bb7b66f68c8da13dd97f67bb4819d"
 }

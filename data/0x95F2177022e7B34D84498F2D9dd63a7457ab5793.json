@@ -48,5 +48,6 @@
   "pwCategorySuggestions": "Tokenization Platforms",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Grants, Capital Allocation & Onboarding"
+  "pwCategory": "Grants, Capital Allocation & Onboarding",
+  "applicationApprovalID": "0x1a0f5668e635eb1a79c7f4baef6e41900c9370a147abdb89021d94f7bac007c6"
 }

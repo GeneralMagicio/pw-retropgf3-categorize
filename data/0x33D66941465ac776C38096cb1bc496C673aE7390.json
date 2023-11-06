@@ -70,5 +70,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Blockchain Infrastructure",
-  "pwCategory": "NFTs"
+  "pwCategory": "NFTs",
+  "applicationApprovalID": "0xbfff1e92ab7d10ccc59fc3f26df800c8c3c632e4ebe3c8f416aa2871569b18b7"
 }

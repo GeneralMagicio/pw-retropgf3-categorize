@@ -64,5 +64,6 @@
   "pwCategorySuggestions": "Content Creation, Community Building, User Experience & Adoption",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Community Building"
+  "pwCategory": "Community Building",
+  "applicationApprovalID": "0x74fa8a40b8989bbd3e3a9bebe3b3900f377be2f2feab6dc6a3d1272bbdf45b57"
 }

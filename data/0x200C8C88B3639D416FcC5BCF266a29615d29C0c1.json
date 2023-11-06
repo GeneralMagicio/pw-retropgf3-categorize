@@ -68,5 +68,6 @@
   "pwIsFlagged": false,
   "pwCategorySuggestions": "Decentralized Storage",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Ethereum Core Tech Foundations"
+  "pwCategory": "Ethereum Core Tech Foundations",
+  "applicationApprovalID": "0x55de5c33ffd56e471340bf62a199c25f84f0c5564e7a6f2d6e8b3a4aaabeb8f7"
 }

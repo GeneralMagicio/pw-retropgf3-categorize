@@ -55,5 +55,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Developer Ecosystem, Web3 Community Platform, User Experience & Adoption",
-  "pwCategory": "Wallet and wallet tools"
+  "pwCategory": "Wallet and wallet tools",
+  "applicationApprovalID": "0xe237610298218749548a170de7784f05fbfc33497558142eb76d366e5f3aafe1"
 }

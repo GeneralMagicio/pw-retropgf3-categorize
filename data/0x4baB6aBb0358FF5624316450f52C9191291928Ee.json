@@ -80,5 +80,6 @@
   "pwFlaggedReason": "Flagged: The application is in English but the links and the content provided are mostly in Russian. This violates Rule 11 which states applications must be in English.",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "End-User Experience & Adoption, Community Building, Education",
-  "pwCategory": "Local Blockchain Communities"
+  "pwCategory": "Local Blockchain Communities",
+  "applicationApprovalID": "0xfeece77fd33f7851d672917565bcf1f8f5ecdde44f5497c45c8729d2386764e0"
 }

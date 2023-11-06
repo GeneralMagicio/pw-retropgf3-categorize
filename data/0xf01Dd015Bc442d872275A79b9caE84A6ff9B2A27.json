@@ -64,5 +64,6 @@
   "pwCategorySuggestions": "Developer Ecosystem, Blockchain Infrastructure",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Development & Infrastructure"
+  "pwCategory": "Development & Infrastructure",
+  "applicationApprovalID": "0x254cf8c61aa5ca4191734ca14ed63e4ae450a166fd3b1e0b9a1b90fde7fe1405"
 }

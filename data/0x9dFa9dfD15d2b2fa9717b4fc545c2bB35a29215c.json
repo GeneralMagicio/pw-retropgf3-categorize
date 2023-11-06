@@ -97,5 +97,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Blockchain Infrastructure, Developer Ecosystem, Education",
-  "pwCategory": "Blockchain Developer Hub"
+  "pwCategory": "Blockchain Developer Hub",
+  "applicationApprovalID": "0xf00fb0eb4581ec63ea15fef0aff171097b14e072eb9223ee3ed3dbcc1ffe0be7"
 }

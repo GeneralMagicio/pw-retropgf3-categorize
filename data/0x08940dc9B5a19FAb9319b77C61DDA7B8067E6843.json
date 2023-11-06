@@ -36,5 +36,6 @@
   "pwIsFlagged": false,
   "pwCategorySuggestions": "Smart Contract Platforms, Trading Tools",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Asset Management & Portfolio Tools"
+  "pwCategory": "Asset Management & Portfolio Tools",
+  "applicationApprovalID": "0x9ff4d4ff2ba7e77917b04ec98c645535a0ff29f0584a67c92201e34757d57b2e"
 }

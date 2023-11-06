@@ -53,5 +53,6 @@
   "pwCategorySuggestions": "Decentralized Identity, Tokenization Platforms, Web3 Community Platform",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Governance Tools"
+  "pwCategory": "Governance Tools",
+  "applicationApprovalID": "0x2d93c0eca3a25f1350286a43e12958aef2292c5213adc111db326b40f67098cc"
 }

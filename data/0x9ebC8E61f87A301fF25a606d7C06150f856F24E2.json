@@ -112,5 +112,6 @@
   "pwCategorySuggestions": "Smart Contract Platforms, Tokenization Platforms",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Grants, Capital Allocation & Onboarding"
+  "pwCategory": "Grants, Capital Allocation & Onboarding",
+  "applicationApprovalID": "0x2b4aeb64146ded169a426bde053b3f9e9e925ee740a58149d92812114af83de6"
 }

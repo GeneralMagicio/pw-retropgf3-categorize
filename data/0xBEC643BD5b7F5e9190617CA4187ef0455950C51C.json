@@ -93,5 +93,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Governance & Tokens",
-  "pwCategory": "Governance Tools"
+  "pwCategory": "Governance Tools",
+  "applicationApprovalID": "0x9dd5aa707043c2286fdb625be1a5b46808a10aad3f137e89855683bcb260b013"
 }

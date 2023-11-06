@@ -45,5 +45,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Decentralized Exchanges (DEXs), Layer 2 Scaling, NFT Aggregator",
-  "pwCategory": "Exchanges, DEX, Trading & Liquidity"
+  "pwCategory": "Exchanges, DEX, Trading & Liquidity",
+  "applicationApprovalID": "0x97cacef9bf5fce74535c27a69bfd929cfe48b862253ce3fa53fe4dde4963a788"
 }

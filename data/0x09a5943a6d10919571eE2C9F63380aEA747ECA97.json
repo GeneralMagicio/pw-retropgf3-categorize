@@ -50,5 +50,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Data Analytics, Blockchain Infrastructure",
-  "pwCategory": "Governance Tokenomics and Analytics"
+  "pwCategory": "Governance Tokenomics and Analytics",
+  "applicationApprovalID": "0x5bd75a998f0c4564449fadff6ad602fd73df5d02e836d5d5369f3d6a10e567df"
 }

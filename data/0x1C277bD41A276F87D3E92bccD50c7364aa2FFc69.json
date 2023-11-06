@@ -59,5 +59,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Smart Contract Platforms, Developer Ecosystem, Layer 2 Scaling",
-  "pwCategory": "Blockchain Developer Hub"
+  "pwCategory": "Blockchain Developer Hub",
+  "applicationApprovalID": "0x6655fe259700452b0452aad4b8c7589c745e7df2dccefe76d70701317fd9e3b8"
 }

@@ -104,5 +104,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Decentralized Exchanges (DEXs), Cross-Chain Platforms, User Experience & Adoption",
-  "pwCategory": "Cross-Chain Interoperability"
+  "pwCategory": "Cross-Chain Interoperability",
+  "applicationApprovalID": "0xfbc5b3bbff7b3e97d80ae04bfefc389dd9caf7085ce788d752bd3a04cf1165fa"
 }

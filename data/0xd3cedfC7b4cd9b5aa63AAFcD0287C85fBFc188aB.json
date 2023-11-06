@@ -37,5 +37,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Tokenization Platforms, Blockchain Infrastructure, Web3 Community Platform",
-  "pwCategory": "Ethereum Core Tech Foundations"
+  "pwCategory": "Ethereum Core Tech Foundations",
+  "applicationApprovalID": "0x2356a899e6a3b44ae87b63f06bfc7ab385031ae5f84553b91a79809b1f42b954"
 }

@@ -96,5 +96,6 @@
   "pwIsFlagged": false,
   "pwCategorySuggestions": "Decentralized Identity, Tokenization Platforms, Web3 Community Platform",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Asset Management & Portfolio Tools"
+  "pwCategory": "Asset Management & Portfolio Tools",
+  "applicationApprovalID": "0x7306b6b6693b92628d6b79880298112179fba89eb4289aaa1f4423cd8eb2b49e"
 }

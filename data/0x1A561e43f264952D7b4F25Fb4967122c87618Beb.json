@@ -75,5 +75,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Decentralized Exchanges (DEXs), Web3 Community Platform",
-  "pwCategory": "DeFi, Decentralized Finance"
+  "pwCategory": "DeFi, Decentralized Finance",
+  "applicationApprovalID": "0x2f13f29404a2aa8725336f24fcda2eadd5f15ef510db6063b5b0e5b49968c40d"
 }

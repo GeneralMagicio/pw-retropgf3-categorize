@@ -64,5 +64,6 @@
   "pwCategorySuggestions": "Decentralized Governance, Voting Platforms, Layer 2 Scaling",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Governance Tools"
+  "pwCategory": "Governance Tools",
+  "applicationApprovalID": "0x0d545183c325a4ddc39efb4311dc9c8221d6bc0e3a0179feae2c308c5111da6d"
 }

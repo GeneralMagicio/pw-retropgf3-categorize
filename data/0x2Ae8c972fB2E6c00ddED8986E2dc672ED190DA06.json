@@ -59,5 +59,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Blockchain Education, Content Creation",
-  "pwCategory": "Security & Cross-Chain Solutions"
+  "pwCategory": "Security & Cross-Chain Solutions",
+  "applicationApprovalID": "0xb9dc69169ecedba49d6e8c75ca7a115cb62ed8f59032454605a4ac12180f94c1"
 }

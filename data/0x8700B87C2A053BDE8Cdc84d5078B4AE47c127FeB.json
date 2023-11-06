@@ -121,5 +121,6 @@
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Smart Contract Platforms, Community Building",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Exchanges, DEX, Trading & Liquidity"
+  "pwCategory": "Exchanges, DEX, Trading & Liquidity",
+  "applicationApprovalID": "0x0bcd7e1f59a78a15a8c481244aaba93b7f690aaece04ffc6e4a55e282afa309c"
 }

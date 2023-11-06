@@ -46,5 +46,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Blockchain Infrastructure, Web3 Community Platform, Developer Ecosystem",
-  "pwCategory": "Explorers, Security & Node Deployment Tools"
+  "pwCategory": "Explorers, Security & Node Deployment Tools",
+  "applicationApprovalID": "0x6eb944b672b1cf8e4c2e46e756f58ef62620cd76ba5909f93a0a17a0a9e09992"
 }

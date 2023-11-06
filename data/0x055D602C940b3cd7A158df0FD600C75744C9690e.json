@@ -80,5 +80,6 @@
   "pwIsFlagged": false,
   "pwCategorySuggestions": "Web3 Community Platform, User Experience & Adoption",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Grants, Capital Allocation & Onboarding"
+  "pwCategory": "Grants, Capital Allocation & Onboarding",
+  "applicationApprovalID": "0x271a5f83a4a79b1e0e65dedef46a10e22fe6ec6b8c5a9828546182026d4c6067"
 }

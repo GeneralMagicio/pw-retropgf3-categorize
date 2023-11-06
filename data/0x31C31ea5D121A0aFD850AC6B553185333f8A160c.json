@@ -101,5 +101,6 @@
   "pwIsFlagged": false,
   "pwCategorySuggestions": "DEX Aggregator, Cross-Chain Swap Aggregator, Swap Product Suite",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Exchanges, DEX, Trading & Liquidity"
+  "pwCategory": "Exchanges, DEX, Trading & Liquidity",
+  "applicationApprovalID": "0xdef7aef5aedfb4fe622c6a145659d6c1a7a9dfdb57e53c9a9dc93adf6f05f0d3"
 }

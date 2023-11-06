@@ -283,5 +283,6 @@
   "pwCategorySuggestions": "Blockchain Infrastructure",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Data Analytics & Insights"
+  "pwCategory": "Data Analytics & Insights",
+  "applicationApprovalID": "0x53b27d6f1094914fd15913484f1330a1186f0479f796e173acebe3fe72ce3300"
 }

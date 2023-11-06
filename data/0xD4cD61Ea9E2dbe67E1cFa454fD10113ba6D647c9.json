@@ -48,5 +48,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Blockchain Gaming, NFT Aggregator, Smart Contract Platforms",
-  "pwCategory": "Gaming & Entertainment"
+  "pwCategory": "Gaming & Entertainment",
+  "applicationApprovalID": "0x89fb018dfa7d20cc5d1e0f7153cd123972fce65842e0df352dbff2913682193c"
 }

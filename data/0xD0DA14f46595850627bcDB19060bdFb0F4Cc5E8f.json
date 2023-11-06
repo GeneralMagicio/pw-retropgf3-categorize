@@ -100,5 +100,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Community Building, User Experience & Adoption, Tokenization Platforms",
-  "pwCategory": "Digital Identity & Social Privacy Innovations"
+  "pwCategory": "Digital Identity & Social Privacy Innovations",
+  "applicationApprovalID": "0xe43e48a485bb7d86311ec9af48c8dff4af695fc9b783943388e14801a0f8915b"
 }

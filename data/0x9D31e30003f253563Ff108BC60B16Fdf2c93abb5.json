@@ -100,5 +100,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Decentralized Oracle Platforms, Cross-Chain Platforms, Data Infrastructure",
-  "pwCategory": "Cross-Chain Interoperability"
+  "pwCategory": "Cross-Chain Interoperability",
+  "applicationApprovalID": "0x938958cbd40bff58453dad061a22b9ee0e525767622cc363bdd69af8f9b2d9c7"
 }

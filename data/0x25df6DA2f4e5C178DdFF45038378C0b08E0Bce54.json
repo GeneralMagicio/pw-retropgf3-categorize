@@ -96,5 +96,6 @@
   "pwFlaggedReason": "This application should be flagged because it promises future impact that violates the first rule - \"We will launch WTF on-chain certificates on optimism by the end of 2023.\".",
   "pwCategorySuggestions": "Blockchain Education, Developer Ecosystem, Community Building",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Developer Education & Mentoring"
+  "pwCategory": "Developer Education & Mentoring",
+  "applicationApprovalID": "0xc77e8caea0ff6aa3bfcb546234f651f9c7b2486d42a326a64b0d847fe3f84afc"
 }

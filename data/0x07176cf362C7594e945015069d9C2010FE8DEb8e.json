@@ -105,5 +105,6 @@
   "pwIsFlagged": false,
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Education, Community Building",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Web3 Community Engagement"
+  "pwCategory": "Web3 Community Engagement",
+  "applicationApprovalID": "0x37772ce655f287f26af2d3c5252c704af87428dec0c993fd5d30f2e4f35f0314"
 }

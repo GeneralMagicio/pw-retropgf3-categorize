@@ -105,5 +105,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Reputation Systems, Governance Tokens, Web3 Community Platforms",
-  "pwCategory": "Governance Tools"
+  "pwCategory": "Governance Tools",
+  "applicationApprovalID": "0xa3a9f7442c1e971a696a7f70f7eea524eff2a8685d279b143506a8f3cca22924"
 }

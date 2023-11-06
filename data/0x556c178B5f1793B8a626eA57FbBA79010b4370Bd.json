@@ -156,5 +156,6 @@
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Tokenization Platforms, Decentralized Exchanges (DEXs)",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "DeFi, Decentralized Finance"
+  "pwCategory": "DeFi, Decentralized Finance",
+  "applicationApprovalID": "0x3eca7098f253e56e7f0b2da0877651ec375762f07fdae2583281b3d0c82f50e3"
 }

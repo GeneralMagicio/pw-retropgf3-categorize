@@ -73,5 +73,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Smart Contract Platforms, Non-Fungible Tokens (NFTs)",
-  "pwCategory": "Grants, Capital Allocation & Onboarding"
+  "pwCategory": "Grants, Capital Allocation & Onboarding",
+  "applicationApprovalID": "0xdc7101e51a122ec96eaf07c4191f5cc0a096ef50cbbdfdf5936464369991afb2"
 }

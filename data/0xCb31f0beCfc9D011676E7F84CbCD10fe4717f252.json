@@ -149,5 +149,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Blockchain Education, Content Creation, Developer Ecosystem",
-  "pwCategory": "Blockchain Education"
+  "pwCategory": "Blockchain Education",
+  "applicationApprovalID": "0xa86ba3d6a29e11a4be7ae1368f0ade28a6baf49383e0872eebc128409f384c65"
 }

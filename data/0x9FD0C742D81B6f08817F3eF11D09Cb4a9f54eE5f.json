@@ -67,5 +67,6 @@
   "pwRecategorizeReason": "NO, the application is not correctly categorized. Despite being named as a project, the submission has individualistic language such as \"I'm the creator of the open source project Blockchain ETL and a co-founder of the blockchain analytics platform Nansen.ai\".",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Blockchain Infrastructure, Developer Ecosystem, Data Analytics",
-  "pwCategory": "Data Analytics & Insights"
+  "pwCategory": "Data Analytics & Insights",
+  "applicationApprovalID": "0x5673d6a413d360de74d262487bdb4e70cb357c4d890af9cd62a369b1d858416b"
 }

@@ -97,5 +97,6 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, the application is miscategorized. The \"applicantType\" is listed as \"PROJECT\", however in the \"bio\" section, the applicant refers to themselves as \"I\" which indicates this is an individual application.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Developer Education & Mentoring"
+  "pwCategory": "Developer Education & Mentoring",
+  "applicationApprovalID": "0xf3556b88ce615a95656a66b816dccd3aafa786e47905a2bf5f40af726c481ebd"
 }

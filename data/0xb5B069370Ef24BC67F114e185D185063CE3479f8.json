@@ -65,5 +65,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Decentralized Governance, Layer 2 Scaling, Governance Tools",
-  "pwCategory": "Governance Tools"
+  "pwCategory": "Governance Tools",
+  "applicationApprovalID": "0x3a4decc8b39d16b0eff1b41134bc9b9fcdba84292c2416766237125ad730072f"
 }

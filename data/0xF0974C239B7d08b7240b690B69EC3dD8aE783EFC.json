@@ -83,5 +83,6 @@
   "pwCategorySuggestions": "Non-Fungible Tokens (NFTs), Tokenization Platforms, Blockchain Infrastructure",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Exchanges, DEX, Trading & Liquidity"
+  "pwCategory": "Exchanges, DEX, Trading & Liquidity",
+  "applicationApprovalID": "0x5fb9f9c499ef4e96440e5d9623068c8f7f10a3ed601c73628eb2e216f53338b9"
 }

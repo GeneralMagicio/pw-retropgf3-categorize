@@ -52,5 +52,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Lending Protocol, Collateral Optimization",
-  "pwCategory": "DeFi, Decentralized Finance"
+  "pwCategory": "DeFi, Decentralized Finance",
+  "applicationApprovalID": "0xcd17447eb2b8a5332630662c3bcf6a4da4ad8213c643621536d40655340c7f84"
 }

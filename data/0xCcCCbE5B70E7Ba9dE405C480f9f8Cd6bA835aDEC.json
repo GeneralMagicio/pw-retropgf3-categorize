@@ -80,5 +80,6 @@
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Automated Liquidity Management, Vault Optimization",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Asset Management & Portfolio Tools"
+  "pwCategory": "Asset Management & Portfolio Tools",
+  "applicationApprovalID": "0x5cc8dc85d40909999a55201f90c714b334cc502f013209497a271934e604b9d0"
 }

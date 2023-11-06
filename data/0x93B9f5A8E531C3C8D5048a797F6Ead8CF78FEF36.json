@@ -50,5 +50,6 @@
   "pwCategorySuggestions": "Blockchain Infrastructure",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Ethereum Core Tech Foundations"
+  "pwCategory": "Ethereum Core Tech Foundations",
+  "applicationApprovalID": "0x00007821871c29a7f1377bcfe3e02d474777111d71b541884ea014d1aa9a1b96"
 }

@@ -81,5 +81,6 @@
   "pwRecategorizeReason": "NO. The application talks about \"I\" and \"me\", which are sure signs of an individual. Therefore, it should be categorized as \"INDIVIDUAL\", not \"PROJECT\".",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Smart Contract Platforms, Layer 2 Scaling, Developer Ecosystem",
-  "pwCategory": "Development & Infrastructure"
+  "pwCategory": "Development & Infrastructure",
+  "applicationApprovalID": "0xf6e92ff9410d269f6e6659011dfdc4f3cbd59fee6736924bf7fb948c75ca5113"
 }

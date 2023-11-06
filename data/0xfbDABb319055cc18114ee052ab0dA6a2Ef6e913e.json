@@ -55,5 +55,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Content Creation, Web3 Community Platform, Layer 2 Scaling",
-  "pwCategory": "Community Building"
+  "pwCategory": "Community Building",
+  "applicationApprovalID": "0xb9eb765925d42dc2169d2770a981697c276260d2a06f35a95f75bce0e1790aaf"
 }

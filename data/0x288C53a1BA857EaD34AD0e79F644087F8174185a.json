@@ -56,5 +56,6 @@
   "pwIsFlagged": false,
   "pwCategorySuggestions": "Blockchain Infrastructure, Developer Ecosystem, Content Creation",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Blockchain News & Media"
+  "pwCategory": "Blockchain News & Media",
+  "applicationApprovalID": "0x44be5b3d06daade4fd7a1c3e1bc9428926befe272b72c16f2d72dce66692af13"
 }

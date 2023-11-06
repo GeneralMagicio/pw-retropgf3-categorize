@@ -71,5 +71,6 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO. The application is submitted by an individual named Eric, despite having a project focus on BunnyAI.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "User Experience & Adoption"
+  "pwCategory": "User Experience & Adoption",
+  "applicationApprovalID": "0xec28a8a5e5c37b7ed2633d2618df0b3c2ff0e3b1ffbdd401d317a90b5c884b9a"
 }

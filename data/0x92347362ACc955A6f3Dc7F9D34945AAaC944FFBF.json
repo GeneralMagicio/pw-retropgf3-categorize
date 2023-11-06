@@ -67,5 +67,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Decentralized Developer Tools, Smart Contract Verification, Open-source Development Tools",
-  "pwCategory": "Developer Tools - Smart Contracts"
+  "pwCategory": "Developer Tools - Smart Contracts",
+  "applicationApprovalID": "0x2c95b50db5da51867c96da2c76773472d2aad9a63f473a3e8096e9b4cbf3f29b"
 }

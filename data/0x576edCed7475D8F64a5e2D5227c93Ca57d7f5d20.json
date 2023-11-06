@@ -73,5 +73,6 @@
   "pwCategorySuggestions": "Community Building, Governance & Tokens, End-User Experience",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Grants, Capital Allocation & Onboarding"
+  "pwCategory": "Grants, Capital Allocation & Onboarding",
+  "applicationApprovalID": "0x258d37e997650d7c83eba44f7210224fdb2afbf331e6e6dedb8bf6e83c75645c"
 }

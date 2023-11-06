@@ -79,5 +79,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Community Building, Developer Ecosystem, Governance & Tokens",
-  "pwCategory": "Local Blockchain Communities"
+  "pwCategory": "Local Blockchain Communities",
+  "applicationApprovalID": "0xa9c293993eca8f9b128c0a5d1eb821b5680b8fa736cd8bec4d8058ee3707821b"
 }

@@ -48,5 +48,6 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, because the application repeatedly refers to \"I\" and \"me\", suggesting that the applicant is an individual, not a project.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "Local Blockchain Communities"
+  "pwCategory": "Local Blockchain Communities",
+  "applicationApprovalID": "0x16d6ac20ee0a1f9075007e8d88a05bee1badce36f104d907a6826afb79bd96de"
 }

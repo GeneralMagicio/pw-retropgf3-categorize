@@ -84,5 +84,6 @@
   "pwRecategorizeReason": "NO, it should be categorized as PROJECT since the description is about a podcast and newsletter service, \"ETH Daily,\" which is not an individual’s task.",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Content Creation, Community Building, Media Production",
-  "pwCategory": "Blockchain News & Media"
+  "pwCategory": "Blockchain News & Media",
+  "applicationApprovalID": "0xe8db9badf4fac5f877c2333e492f853081b559be08bdfeb0d9947076637c1318"
 }

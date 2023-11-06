@@ -72,5 +72,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Decentralized Infrastructure, Blockchain Scalability, Blockchain Governance",
-  "pwCategory": "Blockchain News & Media"
+  "pwCategory": "Blockchain News & Media",
+  "applicationApprovalID": "0xf6c81f36041a6d90c828596ffa470e1fc4929cad6ade4242f3f8a9f37f66597e"
 }
