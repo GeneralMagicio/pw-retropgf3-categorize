@@ -90,7 +90,7 @@
   "RPGF3_Application_UID": "0xfa3a360aa2685bb42c535c6f06692eb0bd7bd534266781c4191d35e7724ed85a",
   "applicantAddress": "0x92f551665C69586Fd5f30e6EFdB78aC882B22d17",
   "pwCategorySuggestions": "Content Creation, Web3 Community Platform, Media Production",
-  "pwIsFlagged": false,
+  "pwIsFlagged": true,
   "pwApplicantTypeChecked": true,
   "pwCategory": "NFTs, POAPs & Collectibles"
 }

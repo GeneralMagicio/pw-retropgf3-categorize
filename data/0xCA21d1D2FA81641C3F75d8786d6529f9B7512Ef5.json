@@ -91,7 +91,7 @@
   "RPGF3_Application_UID": "0x4e9bde0f10a6ec054904c73f12ecad9cf0c4d67dc35a71f9fb68af449016c1a6",
   "applicantAddress": "0xCA21d1D2FA81641C3F75d8786d6529f9B7512Ef5",
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Tokenization Platforms, Blockchain Infrastructure",
-  "pwIsFlagged": false,
+  "pwIsFlagged": true,
   "pwApplicantTypeChecked": true,
   "pwCategory": "Blockchain Developer Hub"
 }

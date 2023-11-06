@@ -43,7 +43,7 @@
   "RPGF3_Application_UID": "0xe7bb020c27fa0572679c9e0619ce7a0b44f98b43f006dfe2348cd7573ddb8f03",
   "applicantAddress": "0xf4De160464Fb0fC00F4A062D1913715b7e429Aea",
   "pwCategorySuggestions": "Tokenization Platforms, Blockchain Infrastructure, Developer Ecosystem",
-  "pwIsFlagged": false,
+  "pwIsFlagged": true,
   "pwApplicantTypeChecked": true,
   "pwCategory": "Data Analytics & Insights"
 }

@@ -75,7 +75,7 @@
   "RPGF3_Application_UID": "0x4074447f480a1c07e934eb6187b1d2cbbe11d7c69fc5c6b7c6a1ccf0b22e2a0d",
   "applicantAddress": "0xEFEdaf9c07E6eB56BB8F82f30018e4461B1c5F4c",
   "pwCategorySuggestions": "Community Building, Tokenization Platforms, Impact Onboarding",
-  "pwIsFlagged": false,
+  "pwIsFlagged": true,
   "pwApplicantTypeChecked": true,
   "pwCategory": "Grants, Capital Allocation & Onboarding"
 }
