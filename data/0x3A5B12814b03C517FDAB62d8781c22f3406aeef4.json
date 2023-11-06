@@ -25,10 +25,7 @@
       "description": "Documentation"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM",
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "We have created a framework that could be used across the Optimims ecosystem.\n\nThe use cases could include (but are not exhausted) the following:\n- Project website integration with specific ERC-20 asset\n- Wallet integration to provide users with DCA opportunity\n- DEX integration to provide users with DCA opportunity",
   "impactMetrics": [
     {
@@ -59,5 +56,5 @@
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Smart Contract Platforms, User Experience & Adoption",
   "pwCategory": "Asset Management & Portfolio Tools",
-  "applicationApprovalID": "0x27de4f66f0433de79ae96092bef499db80909c87b8572d4fbbb63bb6d82af2a0"
+  "applicationApprovalUID": "0x27de4f66f0433de79ae96092bef499db80909c87b8572d4fbbb63bb6d82af2a0"
 }

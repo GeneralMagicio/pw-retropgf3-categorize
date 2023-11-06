@@ -20,9 +20,7 @@
       "description": "The Ethers.js documentation."
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM"],
   "impactDescription": "The impact provided by Ethers has been a simple and popular developer library.\n\nMany aspects of Ethers favour simplicity and safety-by-default, such as \"garbage-in, fail loud\" (opposed to \"garbage-in, garbage-out\", which often results in unsafe or error prone behaviour) which has helped protect developers and end-users from innocent mistakes, which could be costly or dangerous in the the blockchain world. Making it difficult to build a foot-gun is a feature.\n\nBy being so widely used, it has also led to the development of many other projects on top of it, further expanding the ecosystem.",
   "impactMetrics": [
     {
@@ -74,5 +72,5 @@
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Smart Contract Platforms, Decentralized Finance (DeFi), Blockchain Infrastructure",
   "pwCategory": "Development & Infrastructure",
-  "applicationApprovalID": "0x32ee121e0dbcef2fe2b7a8e668f9a53ddc6d43e16c423fe8b4595b0120ac08d8"
+  "applicationApprovalUID": "0x32ee121e0dbcef2fe2b7a8e668f9a53ddc6d43e16c423fe8b4595b0120ac08d8"
 }

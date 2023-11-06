@@ -15,10 +15,7 @@
       "description": "This is a social link where you can see we have growing community"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM",
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "\n=>Increased Transaction Activity: Our integration has led to a significant increase in transaction activity on the OP chain. More users are actively engaging with the network, contributing to its growth.\n\n=>Project Creation on OP Chain: By offering courses that guide users in creating projects on the OP chain, we have empowered individuals to become active participants in the ecosystem. This has fostered a sense of ownership and involvement within the Optimism Collective.",
   "impactMetrics": [
     {
@@ -73,5 +70,5 @@
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Decentralized Education Platform, Web3 Community Platform",
   "pwCategory": "Web3 Community Engagement",
-  "applicationApprovalID": "0x7fcb54a60df19932aed931a67527d0c78c82d8d90870d946c49fe5c429a48925"
+  "applicationApprovalUID": "0x7fcb54a60df19932aed931a67527d0c78c82d8d90870d946c49fe5c429a48925"
 }

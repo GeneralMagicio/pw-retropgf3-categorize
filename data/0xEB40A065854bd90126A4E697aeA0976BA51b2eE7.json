@@ -15,9 +15,7 @@
       "description": "Over 100 podcast episodes covering OP News."
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Our daily briefing boosts Optimism Collective's brand awareness, reaching over 2,000 crypto enthusiasts. We provide essential OP News coverage, keeping end-users, developers, journalists, and crypto security firms informed about network upgrades, new OP Stack chains, and airdrops. Our briefs have even inspired news articles, like this one published by The Block on Optimism Airdrop 3 after the journalist read our newsletter.",
   "impactMetrics": [
     {
@@ -85,5 +83,5 @@
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Content Creation, Community Building, Media Production",
   "pwCategory": "Blockchain News & Media",
-  "applicationApprovalID": "0xe8db9badf4fac5f877c2333e492f853081b559be08bdfeb0d9947076637c1318"
+  "applicationApprovalUID": "0xe8db9badf4fac5f877c2333e492f853081b559be08bdfeb0d9947076637c1318"
 }

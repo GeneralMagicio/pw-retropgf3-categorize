@@ -10,9 +10,7 @@
       "description": "Oliens contract interactions"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "We did contribute to optimism by:\n\n1- launching our collection on the early stage of optimism\n2- building a community of +15k members on both twitter and discord\n3- dropping 2222 piece of a cool art on optimism free\n4- having more than 3000 sales\n5- having more than 40 $eth volume\n6- helping other NFT projects on optimism to gain more audience ",
   "impactMetrics": [
     {
@@ -39,5 +37,5 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategory": "NFTs, POAPs & Collectibles",
-  "applicationApprovalID": "0x4c9226d7a48438ede6eecf93bd511d547a85bf5e4e846a0733e2c1d7214fd48e"
+  "applicationApprovalUID": "0x4c9226d7a48438ede6eecf93bd511d547a85bf5e4e846a0733e2c1d7214fd48e"
 }

@@ -39,7 +39,7 @@ fs.readdirSync(dataDirName).forEach((file) => {
         );
 
         if (approval) {
-          parsedJson.applicationApprovalID = approval.id;
+          parsedJson.applicationApprovalUID = approval.id;
           fs.writeFileSync(filePath, JSON.stringify(parsedJson, null, 2));
           processedFiles++;
         } else {

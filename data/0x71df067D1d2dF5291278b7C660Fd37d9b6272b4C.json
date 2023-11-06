@@ -10,9 +10,7 @@
       "description": "Current work on new IR for Vyper"
     }
   ],
-  "impactCategory": [
-    "OP_STACK"
-  ],
+  "impactCategory": ["OP_STACK"],
   "impactDescription": "By making it easier to map IR to source code and bytecode, Venom increases the auditability and security of the OP Stack.\n\nThe optimization allowed by Venom and the Fang compiler improve the efficiency of the OP stack by reducing gas usage and contract size, allowing developers to write more complex contracts",
   "impactMetrics": [
     {
@@ -37,5 +35,5 @@
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Smart Contract Platforms, Developer Tools",
   "pwCategory": "Developer Tools - Smart Contracts",
-  "applicationApprovalID": "0xd1dff3d8e1413ab2640763b44af7ef52d8a80f14bb04986f4804574aa71d6dca"
+  "applicationApprovalUID": "0xd1dff3d8e1413ab2640763b44af7ef52d8a80f14bb04986f4804574aa71d6dca"
 }

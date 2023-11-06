@@ -25,9 +25,7 @@
       "description": "Cycle 13 Final Grants Roundup"
     }
   ],
-  "impactCategory": [
-    "COLLECTIVE_GOVERNANCE"
-  ],
+  "impactCategory": ["COLLECTIVE_GOVERNANCE"],
   "impactDescription": "The council was able to create a more streamlined and consistent process for proposers, set a pace for grant distributions, and define clear expectations for grant applicants.  The council has also been able to create more accountability for grant usage through milestone based tracking and distribution.  Overall, the grants council has reduced the workload of Token House delegates, enabling them to focus their energies on high-impact votes.\n",
   "impactMetrics": [
     {
@@ -73,5 +71,5 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategory": "Grants, Capital Allocation & Onboarding",
-  "applicationApprovalID": "0x03b5b6ffac48925d3a94db18da9e93520c5faab92154362aaab8cb37b0eae8f2"
+  "applicationApprovalUID": "0x03b5b6ffac48925d3a94db18da9e93520c5faab92154362aaab8cb37b0eae8f2"
 }

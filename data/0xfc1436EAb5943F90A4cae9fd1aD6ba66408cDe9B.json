@@ -35,10 +35,7 @@
       "description": "OSS Grants with NumFOCUS (pandas, numpy...) for scientific computation <> web3"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM",
-    "OP_STACK"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM", "OP_STACK"],
   "impactDescription": "Optimism is now benefiting from TEC cultural investments in Praise and Gravity. Our $174K in grants to the Token Engineering Academy has helped grow Optimism’s talent pool with graduates like Jonas, who now runs its RetroPGF. Other relevant TEC grants include:\n\n- $30K to Inverter, whose programmable smart contract workflows help app developers deploy on Optimism.\n- $54K to cadCAD, a tool used by the EF and others for Ethereum research (e.g. beacon chain, EIP-1559)\n\nOur latest Gitcoin Token Engineering Grants Round generated 2,608 contributions from 1,837 individuals on Optimism. It also uses Optimism-based “knowledge proof” NFTs to give an “expertise boost” to 192 Academy students. These rounds help bring the highly technical token engineering community to the Optimism developer ecosystem.",
   "impactMetrics": [
     {
@@ -109,5 +106,5 @@
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Token Engineering Commons, Decentralized Finance (DeFi), Developer Ecosystem",
   "pwCategory": "DAOs, ReFi, and DAO Tooling",
-  "applicationApprovalID": "0xfa0bb32edc38f3704e38dfa2af33310fed14f3a90928143c688643342b7f3466"
+  "applicationApprovalUID": "0xfa0bb32edc38f3704e38dfa2af33310fed14f3a90928143c688643342b7f3466"
 }

@@ -35,9 +35,7 @@
       "description": "Me personally sharing the remaining 10,000 GoerliETH with ETH hackathons"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM"],
   "impactDescription": "I noted that most of the content focused on app developers was technical. There were many technical intros, guides & documentation, but I felt that this “How to build a web3 startup” piece was missing.\n\nWhen I started (Nov 2021), if you’d like to learn this knowledge, you’d have to know a web3 founder personally or join acceleration programs where they’ve been mentors.\n\nBut if we want more crypto apps, we need to make this product-building know-how accessible to everyone, regardless of their skill level, wealth & network. So I open-sourced it.\n\nSince the podcast is focused on niche, tactical know-how, it only had a bit more than 1,500 subscribers. My guide also had a bit more than 1,000 readers. But most of these people were crypto devs & founders, and some of them shared their praise.",
   "impactMetrics": [
     {
@@ -112,5 +110,5 @@
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Blockchain Education, Content Creation, Community Building",
   "pwCategory": "Blockchain Education",
-  "applicationApprovalID": "0x6e9bdfc93cdba878fa63c1cff9c4b6ad4f84dd5374475b9c612d9b5718ea5a53"
+  "applicationApprovalUID": "0x6e9bdfc93cdba878fa63c1cff9c4b6ad4f84dd5374475b9c612d9b5718ea5a53"
 }

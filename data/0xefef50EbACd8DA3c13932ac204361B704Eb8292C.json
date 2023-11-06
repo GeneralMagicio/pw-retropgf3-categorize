@@ -15,9 +15,7 @@
       "description": "Web UI for abi-to-sol"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM"],
   "impactDescription": "abi-to-sol enhances interoperability within the Optimism ecosystem by automating Solidity interface generation from ABI files. This significantly lowers the barrier to interfacing with existing Optimism contracts. Without abi-to-sol, programmers would have to manually write these interfaces, a tedious and error-prone task. By eliminating this manual effort, the tool fosters a more interconnected blockchain ecosystem, encouraging the creation of complex, interlocking smart contracts on Optimism. Users across the smart contract development ecosystem regularly applaud abi-to-sol for its utility in streamlining this process.",
   "impactMetrics": [
     {
@@ -52,5 +50,5 @@
   "pwRecategorizeReason": "NO, it is not correctly categorized. The application talks about personal projects, uses \"I\" and \"me\", indicating that it is an individual applicant, not a project.",
   "pwApplicantTypeChecked": true,
   "pwCategory": "Development & Infrastructure",
-  "applicationApprovalID": "0x8af099c741d009e71850d3a9570e2672078ad7ca5b3ee391a7d4a0b75f845be4"
+  "applicationApprovalUID": "0x8af099c741d009e71850d3a9570e2672078ad7ca5b3ee391a7d4a0b75f845be4"
 }

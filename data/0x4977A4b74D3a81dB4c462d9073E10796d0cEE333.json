@@ -15,9 +15,7 @@
       "description": "Vasco open source github"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Making life easier for developers in the Farcaster network, actually ends up bringing more developers to the Optimism network, since their contracts are deployed there. By bringing more developers, there's more interest in the OP Collective and there's a growth in interactions with the network and so on. It's a snowball effect that brings positive yield to OP.",
   "impactMetrics": [
     {
@@ -53,5 +51,5 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategory": "Development & Infrastructure",
-  "applicationApprovalID": "0x5493ad25a21ade46d776ee122fa64cb3a396fd32d014b919fde940c73cc75fdf"
+  "applicationApprovalUID": "0x5493ad25a21ade46d776ee122fa64cb3a396fd32d014b919fde940c73cc75fdf"
 }

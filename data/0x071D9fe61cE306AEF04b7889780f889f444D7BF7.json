@@ -15,9 +15,7 @@
       "description": "Safe app"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Multi-sigs and managing multiple wallets is difficult. We made the wallet experience as easy as can be for users starting in crypto. With apps like Friend Tech, AdWorld, etc. users are required to hold various types of assets across many wallets. Castle prioritizes chains like Optimism and Base to ensure that new users can easily manage all their assets in one place.",
   "impactMetrics": [
     {
@@ -55,5 +53,5 @@
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Tokenization Platforms, Wallet Management, Web3 Community Platform",
   "pwCategory": "Wallet and wallet tools",
-  "applicationApprovalID": "0xb61ed750e99be2df7e825ec88ab34f4e52afa65478f54ed8e8229ce391608cea"
+  "applicationApprovalUID": "0xb61ed750e99be2df7e825ec88ab34f4e52afa65478f54ed8e8229ce391608cea"
 }

@@ -10,10 +10,7 @@
       "description": "1W3 templates NFT contract"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM",
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Currently, we've successfully transformed four decentralized websites into customizable templates, which have been created as NFTs on the Optimism network. Enthusiastic users are actively minting these NFTs to craft their unique websites tailored for their respective ENS domains, ushering in a new era of decentralized online presence.",
   "impactMetrics": [
     {
@@ -45,5 +42,5 @@
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Non-Fungible Tokens (NFTs), Tokenization Platforms, Decentralized Identity",
   "pwCategory": "Blockchain Developer Hub",
-  "applicationApprovalID": "0x54763940f1803ecdd2adf48c1446268cdc3aa02e11090189cf91a78615c89d23"
+  "applicationApprovalUID": "0x54763940f1803ecdd2adf48c1446268cdc3aa02e11090189cf91a78615c89d23"
 }

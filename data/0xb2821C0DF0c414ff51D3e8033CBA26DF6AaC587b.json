@@ -55,9 +55,7 @@
       "description": "Goerli Contract Address of Bonding Curve deployment "
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM"],
   "impactDescription": "BCRG R&D enables researchers and developers in the Optimism ecosystem to understand and experiment with bonding curve mechanisms, which are fundamental to various DeFi applications, including Automated Market Makers (AMMs) and token issuance platforms. Our educational library has contributed to making knowledge about bonding curves more accessible, helping both newcomers and experts to enhance their understanding. By providing a hub for educational material, our library fosters learning, research, and innovation in this realm and is key for current and future builds on Optimism. Our collaboration efforts are instrumental in driving forward research and applications of BCs, contributing to the broader Optimism ecosystem's growth and development.",
   "impactMetrics": [
     {
@@ -91,5 +89,5 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategory": "DeFi, Decentralized Finance",
-  "applicationApprovalID": "0x7b87da7a264b179034d1d09483889d744f7a77259049ee4afe742063167151db"
+  "applicationApprovalUID": "0x7b87da7a264b179034d1d09483889d744f7a77259049ee4afe742063167151db"
 }

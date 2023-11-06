@@ -10,10 +10,7 @@
       "description": "Deggkies NFT build on OP Mainnet"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM",
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "We're a Native DEX and Launchpad, we build on Base, a layer 2 built base on OP Stack. First start we build a NFT collection on Ethereum, then we move our collection to OP Mainnet. Then we build a DEX on Base and grow our community to 200k follower https://twitter.com/DackieSwap.",
   "impactMetrics": [
     {
@@ -46,5 +43,5 @@
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Decentralized Exchanges (DEXs), Layer 2 Scaling, NFT Aggregator",
   "pwCategory": "Exchanges, DEX, Trading & Liquidity",
-  "applicationApprovalID": "0x97cacef9bf5fce74535c27a69bfd929cfe48b862253ce3fa53fe4dde4963a788"
+  "applicationApprovalUID": "0x97cacef9bf5fce74535c27a69bfd929cfe48b862253ce3fa53fe4dde4963a788"
 }

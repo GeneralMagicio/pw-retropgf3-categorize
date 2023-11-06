@@ -40,9 +40,7 @@
       "description": "Official Twitter"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Making it easy to connect to almost any chain benefits not only end-users, but also native dApps and the network itself.\n\nFor end-users:\nOnboarding them seamlessly to Optimism and other chains, allowing them to try out any dApp residing on the network. Our 'Checker' introduces them to a comprehensive list of apps to discover.\n\nFor Optimism:\nThis ultimately promotes network activity and traffic on the native chain, proven by our impact metrics.\n\nMerkly has:\n• 2620 daily active users transacting on Optimism \n• Over 6000 daily transactions on Optimism\n• Over 139K unique addresses transacting on Optimism in the last 90 days\n\nWhile also being the #9 most used dApp on Optimism.\n\nCohesive breakdown of metrics: https://docs.google.com/document/d/1sadllTl9EY4Llb-4tuyKFkV5f2pwxy4Es66oCiUZ4VU/edit\n",
   "impactMetrics": [
     {
@@ -91,5 +89,5 @@
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Layer 2 Scaling, DeFi, Tokenization Platforms",
   "pwCategory": "Cross-Chain Interoperability",
-  "applicationApprovalID": "0x7840d1178ec3b4c6fa6fcef1ab16acdb40522b824806d2f6bed7a62519f251cc"
+  "applicationApprovalUID": "0x7840d1178ec3b4c6fa6fcef1ab16acdb40522b824806d2f6bed7a62519f251cc"
 }

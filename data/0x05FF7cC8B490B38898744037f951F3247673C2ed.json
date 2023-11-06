@@ -25,9 +25,7 @@
       "description": "Farcaster Insights Dashboard (created by ghostlinkz)"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "- Facilitated the onboarding of new users into the Optimism and Ethereum ecosystem.\n- Provided education to users regarding the social protocols and networks developed on Optimism.\n- Attracted and introduced new NFT collectors to the Optimism ecosystem.",
   "impactMetrics": [
     {
@@ -73,5 +71,5 @@
   "pwCategorySuggestions": "Content Creation, Community Building, User Experience & Adoption",
   "pwApplicantTypeChecked": true,
   "pwCategory": "Content Creation & Media",
-  "applicationApprovalID": "0xc0b7848433e5918db316a4f3735252a60c15be0ca6d9da79a2a2d65b65e19b57"
+  "applicationApprovalUID": "0xc0b7848433e5918db316a4f3735252a60c15be0ca6d9da79a2a2d65b65e19b57"
 }

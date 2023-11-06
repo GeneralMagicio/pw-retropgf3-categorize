@@ -40,9 +40,7 @@
       "description": "articles"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "I actively joined OP governance and I deposited funds to yield on OP network. So I know the advantages of OP network and I'd like to share them with my readers. I also encouraged my 27k followers and let them to participate in OP governance and collective as well as oddessy.\nhttps://vote.optimism.io/delegate/960908.eth",
   "impactMetrics": [
     {
@@ -87,5 +85,5 @@
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Community Building, User Experience & Adoption, End-User Experience",
   "pwCategory": "International & Multilingual Support",
-  "applicationApprovalID": "0x2be7f3d97285899944dc774d48ae5bb1c1df672d68fdee9c77e03b6974fdcb6d"
+  "applicationApprovalUID": "0x2be7f3d97285899944dc774d48ae5bb1c1df672d68fdee9c77e03b6974fdcb6d"
 }

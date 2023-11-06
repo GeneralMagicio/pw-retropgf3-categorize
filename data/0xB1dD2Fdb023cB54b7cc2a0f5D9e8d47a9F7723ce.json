@@ -20,9 +20,7 @@
       "description": "wBLT contract address"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "BMX by Morphex launched on BASE in September, 2023. Since then, we have onboarded 550+ users, almost $500k liquidity in BLT, and $330k+ in wBLT. Trading volume has surpassed $4.7mm+ with over $8k+ in revenue. wBLT-(OtherAsset) liquidity pools have surpassed $530k+ TVL. Liquidity providers of protocols like Yearn Finance and Ethos Reserve have deployed wBLT-YFI and wBLT-stERN liquidity pools on Velocimeter. Instead of pairing wETH-YFI or USDC-stERN, wBLT allows bluechip capital to be put to work and earn additional revenue for the LP/protocol in addition to pool2 rewards. wBLT as a paired asset composed of multiple bluechips and stablecoins may also reduce single-asset price volatility risk. The features of BMX by Morphex and use-cases of wBLT introduce unique reasons to bridge to BASE.",
   "impactMetrics": [
     {
@@ -82,5 +80,5 @@
   "pwFlaggedReason": "This project is not deployed on Optimism yet.",
   "pwApplicantTypeChecked": true,
   "pwCategory": "DeFi, Decentralized Finance",
-  "applicationApprovalID": "0x7ab835fe64d2895755b3bbb798cd2164884ff924485993448394a28a1f854d33"
+  "applicationApprovalUID": "0x7ab835fe64d2895755b3bbb798cd2164884ff924485993448394a28a1f854d33"
 }

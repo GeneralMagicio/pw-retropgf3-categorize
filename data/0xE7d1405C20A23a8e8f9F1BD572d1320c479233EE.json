@@ -10,10 +10,7 @@
       "description": "Github history of the dataset. You can see that I created and updated the spell."
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM",
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "This Dune Spell is an open-source model that makes it easy for analysts to surface useful rollup economics insights and share those with the community. \n\nIt's already being used by popular L2 Dune dashboards with more than 730 stars combined. For example, \n- https://dune.com/niftytable/rollup-economics (built by me)\n- https://dune.com/sealaunch/rollups-profits (built by the SeaLaunch team)\n\nThe open-source code is also being used by analytics platforms outside of Dune::\n\n\"At Artemis, we routinely use the roll-up economics spellbook as a reference to understand how to calculate profit across OP Mainnet, OP Stack chains, and other roll-ups in the Ethereum ecosystem.\"\n- Nirmal Krishnan\n  [Head of Engineering at Artemis.xyz]",
   "impactMetrics": [
     {
@@ -41,5 +38,5 @@
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "On-chain Data Analytics",
   "pwCategory": "Governance Tokenomics and Analytics",
-  "applicationApprovalID": "0xfb8c37a789f9b1e6344b85bccb943cc1402b03d99ade45620a6d69923939c911"
+  "applicationApprovalUID": "0xfb8c37a789f9b1e6344b85bccb943cc1402b03d99ade45620a6d69923939c911"
 }

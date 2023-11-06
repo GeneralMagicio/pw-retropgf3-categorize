@@ -83,5 +83,5 @@
   "pwRecategorizeReason": "NO, it is not correctly categorized. Despite being listed as \"PROJECT,\" the bio refers to \"I\" indicating this application is from an individual.",
   "pwApplicantTypeChecked": true,
   "pwCategory": "International & Multilingual Support",
-  "applicationApprovalID": "0x8e62c9b3dcb09648c017fd3322d1ad7e5a8a1e9efc9cc38b5b3a432fa4a8db54"
+  "applicationApprovalUID": "0x8e62c9b3dcb09648c017fd3322d1ad7e5a8a1e9efc9cc38b5b3a432fa4a8db54"
 }

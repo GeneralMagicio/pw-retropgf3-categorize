@@ -15,9 +15,7 @@
       "description": "A content on dapps and interaction on the Optimism Ecosystem. "
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Impact from my own end is collectively educational to the end user on how to go about Optimism and learning everything about it. When looking at it, most people do not know about onboarding projects on the OP Ecosystem, they keep visiting and using the old protocols whilst they can know about the new ones and also take part in them and help secure the ecosystem. ",
   "impactMetrics": [
     {
@@ -56,5 +54,5 @@
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Content Creation, Web3 Community Platform, Layer 2 Scaling",
   "pwCategory": "Community Building",
-  "applicationApprovalID": "0xb9eb765925d42dc2169d2770a981697c276260d2a06f35a95f75bce0e1790aaf"
+  "applicationApprovalUID": "0xb9eb765925d42dc2169d2770a981697c276260d2a06f35a95f75bce0e1790aaf"
 }

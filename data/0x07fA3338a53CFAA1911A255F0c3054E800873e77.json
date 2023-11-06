@@ -20,10 +20,7 @@
       "description": "(2nd photo) Our Builder meetup with presentation about Superchain and OP-Stack"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM",
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Our contributions made a decent impact on the Optimism Collective by raising awareness and driving increased utilization of Optimism. 2 of our Medium articles garnered 2,337 and 3,127 views, sparking interest and understanding in Optimism's mission. Our support for GG18 drew in 160 participants, further emphasized of QF round on OP Mainnet. Our builder meetups coverage was instrumental in achieving 1,710 views and actively engaging 22 builders, propelling the importance of Superchain and utilization of OP-Stack. Our posts, shared with a network of 10,100 followers, expanded Optimism's outreach within the Turkish ecosystem. These efforts communicated the significance of public goods and motivated participation in Optimism initiatives, ultimately elevating the awareness of Optimism.",
   "impactMetrics": [
     {
@@ -80,5 +77,5 @@
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Community Building, Developer Ecosystem, Governance & Tokens",
   "pwCategory": "Local Blockchain Communities",
-  "applicationApprovalID": "0xa9c293993eca8f9b128c0a5d1eb821b5680b8fa736cd8bec4d8058ee3707821b"
+  "applicationApprovalUID": "0xa9c293993eca8f9b128c0a5d1eb821b5680b8fa736cd8bec4d8058ee3707821b"
 }

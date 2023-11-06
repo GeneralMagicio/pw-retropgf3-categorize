@@ -15,9 +15,7 @@
       "description": "The Nethermind client now supports the Optimism network"
     }
   ],
-  "impactCategory": [
-    "OP_STACK"
-  ],
+  "impactCategory": ["OP_STACK"],
   "impactDescription": "Instead of creating a fork, we're incorporating support for OP Stack directly into the Nethermind Client. This means users can use the same client for all Ethereum and OP Stack chains, ensuring a consistent experience. Additionally, any new features implemented in the client will be immediately available for OP Stack chains.",
   "impactMetrics": [
     {
@@ -68,5 +66,5 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategory": "Ethereum Core Tech Foundations",
-  "applicationApprovalID": "0x610c90e43f00306d50b676c4b9f3c02612c121ba42137f9eac49dccc8d2d1d07"
+  "applicationApprovalUID": "0x610c90e43f00306d50b676c4b9f3c02612c121ba42137f9eac49dccc8d2d1d07"
 }

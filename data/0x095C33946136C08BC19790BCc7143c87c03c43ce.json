@@ -35,10 +35,7 @@
       "description": "Mosaic hackathon project rewards Gitcoin Passport users with attestations on OP"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM",
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Mosaic rewards issued as NFTs on OP didn’t just outperform our expectations, each consecutive campaign also outperformed the one before it. Our combined alpha rewards campaigns totaled nearly 6000 NFTs.\n\nFurthermore, our work with Passport data hosted by EAS on Optimism was recognized by Gitcoin as the best use of onchain data and earned us the top prize at the hackathon.",
   "impactMetrics": [
     {
@@ -88,5 +85,5 @@
   "pwCategorySuggestions": "NFT Aggregator, Web3 Community Platform, Blockchain Gaming",
   "pwApplicantTypeChecked": true,
   "pwCategory": "Digital Identity & Social Privacy Innovations",
-  "applicationApprovalID": "0xf40a0097695977f72786fd5ddeabfd3f791cdccf8b5bf045ad295c86007c1345"
+  "applicationApprovalUID": "0xf40a0097695977f72786fd5ddeabfd3f791cdccf8b5bf045ad295c86007c1345"
 }

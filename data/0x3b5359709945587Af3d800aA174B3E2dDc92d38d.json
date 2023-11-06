@@ -10,9 +10,7 @@
       "description": "Overview of the app"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Interface has been the go-to place for Mirror article explorations since the feature launch in June this year. Users get notified when there favourite creators drop new publications, while also have a feed of recommended articles to explore. Besides, we have been supporting Base on Mirror from day one.\n\nWhen it comes to other media types, the new cryptomedia feed has been getting good traction despite being a very new feature. Users get to explore and be first to mint the most interesting and relevant content, that they otherwise might not have discovered at all. At the same time, Interface serves as a distribution channel for creators that are now able to reach new audiences.",
   "impactMetrics": [
     {
@@ -44,5 +42,5 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategory": "Blockchain News & Media",
-  "applicationApprovalID": "0x74332149d2712aaf8639acfcc5de8aaad60365f28b5348896a8a3a174163d98a"
+  "applicationApprovalUID": "0x74332149d2712aaf8639acfcc5de8aaad60365f28b5348896a8a3a174163d98a"
 }

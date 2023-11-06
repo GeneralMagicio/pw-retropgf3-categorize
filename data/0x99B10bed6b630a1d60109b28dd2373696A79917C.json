@@ -10,9 +10,7 @@
       "description": "Twitter"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "I have written an educational piece for the Optimism Collective, providing in-depth insights into important Optimism Collective concepts. I believe that this information will be instrumental in understanding the development of Optimism,OP Stack and other cryptocurrency technologies.",
   "impactMetrics": [
     {
@@ -39,5 +37,5 @@
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Content Creation, Blockchain Education, Community Building",
   "pwCategory": "International & Multilingual Support",
-  "applicationApprovalID": "0x7715221880775bde6c4e1cc1d2d62e3a798c30e21319cb06492b1c5e45e69500"
+  "applicationApprovalUID": "0x7715221880775bde6c4e1cc1d2d62e3a798c30e21319cb06492b1c5e45e69500"
 }

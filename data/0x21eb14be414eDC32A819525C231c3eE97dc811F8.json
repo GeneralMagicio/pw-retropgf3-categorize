@@ -15,10 +15,7 @@
       "description": "Share Video about OP and Web3"
     }
   ],
-  "impactCategory": [
-    "COLLECTIVE_GOVERNANCE",
-    "DEVELOPER_ECOSYSTEM"
-  ],
+  "impactCategory": ["COLLECTIVE_GOVERNANCE", "DEVELOPER_ECOSYSTEM"],
   "impactDescription": "Hello Optimistic Collective,\n\nI'm CII, a YouTuber and website creator with a mission: to help more people understand and get started with the Optimism network. Through accessible videos and high-quality content, I am breaking down barriers to entry and fostering a more inclusive ecosystem.",
   "impactMetrics": [
     {
@@ -51,5 +48,5 @@
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Content Creation, Blockchain Education, Community Building",
   "pwCategory": "Content Creation & Media",
-  "applicationApprovalID": "0x0dcf0958585d5eee6ef0de0fab32b480fff80558028f096d8cd93d812f261b86"
+  "applicationApprovalUID": "0x0dcf0958585d5eee6ef0de0fab32b480fff80558028f096d8cd93d812f261b86"
 }

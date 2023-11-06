@@ -20,9 +20,7 @@
       "description": "Banklessadria mirror page"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Banklessadria were able to help propagate the Optimistic Vision and Mission to a community of Serbian/Croatian speakers via our Substack page and X profile.\n\nDuring last two years, Banklessadria published 264 articles, all related to crypto and web3 ecosystem, primarily concentrated on Ethereum blockchain and Rollup solutions. First Optimism article is published in May 2022, covering airdrop announcement and NFT projects on Optimism at the time. Covering Optimism, we published first article regarding OP stack solution Base L2, in March 2023.",
   "impactMetrics": [
     {
@@ -86,5 +84,5 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategory": "Web3 Education & Skill Development",
-  "applicationApprovalID": "0x33cbedc1cd085228b82aad34354954300fa82e7de307b5508ca3145c8e0f1ab7"
+  "applicationApprovalUID": "0x33cbedc1cd085228b82aad34354954300fa82e7de307b5508ca3145c8e0f1ab7"
 }

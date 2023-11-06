@@ -10,9 +10,7 @@
       "description": "List of completed and ongoing tasks by NumbaNERDs."
     }
   ],
-  "impactCategory": [
-    "COLLECTIVE_GOVERNANCE"
-  ],
+  "impactCategory": ["COLLECTIVE_GOVERNANCE"],
   "impactDescription": "The NumbaNERDs program has had a significant impact on governance-related analytics, data infrastructure, and transparency within the Optimism ecosystem, fostering growth and informed decision-making.Through collective contribution coming from our NumbaNERDs community, Optimism data excels any other protocol in the blockchain ecosystem. ",
   "impactMetrics": [
     {
@@ -56,5 +54,5 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategory": "Data Analytics & Insights",
-  "applicationApprovalID": "0xc1e0a3e9fe552dc8e04a7b2ca5a7be55cdc9f2eece78a954074b4a739aaeda3c"
+  "applicationApprovalUID": "0xc1e0a3e9fe552dc8e04a7b2ca5a7be55cdc9f2eece78a954074b4a739aaeda3c"
 }

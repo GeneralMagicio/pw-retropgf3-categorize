@@ -20,10 +20,7 @@
       "description": "BuidlGuidl.com lists all our cohort streams and small grants programs. "
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM",
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "BuidlGuidl focuses on developer growth and mentoring. We build tools and educational content to teach the next wave of builders how/what they can build on Ethereum and Optimism. \n\nWe have SpeedRunEthereum.com and Scaffold-ETH-2 as our main offerings but we are also creating lots of handy tools like abi.ninja!\n\nWe are constantly trying new things and building prototypes on the cutting edge.",
   "impactMetrics": [
     {
@@ -72,5 +69,5 @@
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Developer Ecosystem, Education, Smart Contract Platforms",
   "pwCategory": "Developer Education & Mentoring",
-  "applicationApprovalID": "0x8bf38219babafdfd18899b481056e6b9dfdf5aed56e5b91a6490cbbc72ac70b0"
+  "applicationApprovalUID": "0x8bf38219babafdfd18899b481056e6b9dfdf5aed56e5b91a6490cbbc72ac70b0"
 }

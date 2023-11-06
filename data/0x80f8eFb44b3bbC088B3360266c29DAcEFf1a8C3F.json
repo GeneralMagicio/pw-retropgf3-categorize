@@ -50,9 +50,7 @@
       "description": "Optimism Analysis"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Every work that I do I hope to spread and share knowledge about the optimism ecosystem to other people who are new to the web3 world. Or even many people who are better than me. and from the total engagement amount in the tens of thousands It made me quite satisfied with the response that exceeded my expectations. At least there should be people who get to know a little more optimism than before. It would be good. In addition to having more knowledge I also hope that those people will continue to spread good things.",
   "impactMetrics": [
     {
@@ -116,5 +114,5 @@
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Content Creation, Community Building, User Experience & Adoption",
   "pwCategory": "Governance Tokenomics and Analytics",
-  "applicationApprovalID": "0x1c8c4fd36918b7b75642a5fccbcc1c4404299c3aed94ab0203a18c158f7744a6"
+  "applicationApprovalUID": "0x1c8c4fd36918b7b75642a5fccbcc1c4404299c3aed94ab0203a18c158f7744a6"
 }

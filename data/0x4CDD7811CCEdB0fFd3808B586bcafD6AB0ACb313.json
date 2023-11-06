@@ -40,9 +40,7 @@
       "description": "An example of my posts to share the news when there was an interesting AMA "
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "My contributions primarily consisted of posts on Twitter, where I aimed to create a substantial impact by raising awareness about the Optimism ecosystem. While promoting Optimism as a Layer-2 network is crucial, I also endeavored to convey that it's not merely a scaling solution, but a vibrant ecosystem with numerous opportunities for user participation",
   "impactMetrics": [
     {
@@ -88,5 +86,5 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategory": "Community Building",
-  "applicationApprovalID": "0x6c138f65797f29f8378d1a8bfe362a242b858401b1eddd45717abe7d553693a3"
+  "applicationApprovalUID": "0x6c138f65797f29f8378d1a8bfe362a242b858401b1eddd45717abe7d553693a3"
 }

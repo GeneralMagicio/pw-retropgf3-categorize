@@ -35,10 +35,7 @@
       "description": "We also support many other artist like TK, Rohki, Sara Phillips..."
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM",
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "- Top 3 curators leader board (top 3 revenue referral in Sound): ~ 5 ETH in total volume\n- Top 3 mints driven: ~ 3200 nft music tracks for more than 50 projects / artists\n- Top 6 in number of artists supporting: 53 projects / artists in Sound.\n- UNWA members are top1 - top 10 collectors in many  projects / artists: Top1 San Holo, Top 5 TK, Top 7 Rohki, Top 5 Sadye, Top 1 High Tropics, Top 4 Sarah Phillips... (link below)\n\n- We brought hundred of new people to Music Web3 on Sound. Couldnt track the exact number because many didnt mint through our ref links. But for example 30+ of them are using UNWA behind their name to show our music sharing culture (the last link below ***)",
   "impactMetrics": [
     {
@@ -101,5 +98,5 @@
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Tokenization Platforms, Web3 Community Platform, Media Production",
   "pwCategory": "NFTs, POAPs & Collectibles",
-  "applicationApprovalID": "0xf02abe0a28342d032f03ea868bdba3b2c5eb81d40ca3ba5f8f781786febef7f7"
+  "applicationApprovalUID": "0xf02abe0a28342d032f03ea868bdba3b2c5eb81d40ca3ba5f8f781786febef7f7"
 }

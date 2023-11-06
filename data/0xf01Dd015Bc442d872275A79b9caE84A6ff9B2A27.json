@@ -20,10 +20,7 @@
       "description": "List of impacts on GitHub issues and Tickets"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM",
-    "OP_STACK"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM", "OP_STACK"],
   "impactDescription": "\"simple-optimism-node\" is an open-source Optimism's Full Node deployment script used by more than 250 developers and used to be featured in the official docs.\n\nHowever, the original author hasn't maintained \"simple-optimism-node\" since July 2023 (A few months ago) as his last commit is on Jun, 30. Causing negative impacts!\n\nAs a result of my work, The Optimism Collective now has a functional \"simple-optimism-node\" implementation.\n\nMany developers have adopted my fork of \"simple-optimism-node\" to run their own Dedicated Optimism Full Node. \n\nMy contributions have resolved at least 7 GitHub issues and 4 dev tickets in the Optimism Discord, considerably reducing ticket volume related to \"simple-optimism-node\".\n\nLastly, I am committed to the continuation of \"simple-optimism-node\" maintenance.",
   "impactMetrics": [
     {
@@ -65,5 +62,5 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategory": "Development & Infrastructure",
-  "applicationApprovalID": "0x254cf8c61aa5ca4191734ca14ed63e4ae450a166fd3b1e0b9a1b90fde7fe1405"
+  "applicationApprovalUID": "0x254cf8c61aa5ca4191734ca14ed63e4ae450a166fd3b1e0b9a1b90fde7fe1405"
 }

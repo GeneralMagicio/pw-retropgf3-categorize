@@ -15,10 +15,7 @@
       "description": "Velocimeter Zealy Quests"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM",
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Provided launchpad contracts and frontend to friendtech33 who raised $400,000 using our contracts and frontend launchpad.\n\nSeveral other projects are in various stages of launching via our launchpad on Base.\n\nHelped to onboard projects such as Firebird Finance, Beefy, Qi DAO, Ethos Reserve & many more to Base via veBVM grants & emmissions.",
   "impactMetrics": [
     {
@@ -76,5 +73,5 @@
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Decentralized Exchanges (DEXs), Tokenization Platforms, Decentralized Finance (DeFi)",
   "pwCategory": "Exchanges, DEX, Trading & Liquidity",
-  "applicationApprovalID": "0x3a19a401d8892df9abdc19a255ef686d98ff5e2cb629a03f90272e89725ac3e5"
+  "applicationApprovalUID": "0x3a19a401d8892df9abdc19a255ef686d98ff5e2cb629a03f90272e89725ac3e5"
 }

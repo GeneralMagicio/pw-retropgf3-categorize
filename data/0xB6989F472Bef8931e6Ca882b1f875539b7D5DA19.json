@@ -20,9 +20,7 @@
       "description": "Twitter space about the project."
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM"],
   "impactDescription": "Community Catalyst:\n\nPeterpan's journey from Giveth House directly impacted the founding of MetaCartel, a notable entity in the Optimism ecosystem.\nThe founders of EthBarcelona, an Optimism-focused event, utilized Giveth House as their brainstorming and planning hub.\n\nInnovation Hub:\n\nThe Giveth House's environment enabled Jordi Baylina to contribute significantly to Hermez, further enriching Optimism's L2 capabilities.\n\nPublic Goods and Optimism:\n\nThe financial ease provided by the house has empowered numerous contributors to focus solely on public goods within the Optimism ecosystem.\nGiveth House hosts the RetroPGF team during ETHBarcelona.\n\nSolar Punk Ethos:\n\nThe house embodies Optimism Collective’s values, serving as a living space that fosters community-driven innovation for Optimism.",
   "impactMetrics": [
     {
@@ -81,5 +79,5 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategory": "Local Blockchain Communities",
-  "applicationApprovalID": "0x5e78ac7cb417bb9a6f96e126cd442468d925bf0be07547bbdf089bb07fde9b79"
+  "applicationApprovalUID": "0x5e78ac7cb417bb9a6f96e126cd442468d925bf0be07547bbdf089bb07fde9b79"
 }

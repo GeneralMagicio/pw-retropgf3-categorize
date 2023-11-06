@@ -15,10 +15,7 @@
       "description": "Erigon blog"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM",
-    "OP_STACK"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM", "OP_STACK"],
   "impactDescription": "Upstream Erigon serves as the basis for op-erigon, an Optimism fork of Erigon. Besides excelling as an archive node, op-erigon helps to improve client diversity. Test in Prod, a team external to OP Labs and Erigon AG, achieved this exciting development, demonstrating the power of the modular and open-source OP Stack.\n\nWhile this first version of Optimistic Erigon needs ongoing testing to ensure stability and prepare for an eventual OP Mainnet launch, it represents a massive milestone in L2 client diversity.",
   "impactMetrics": [
     {
@@ -50,5 +47,5 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategory": "Ethereum Core Tech Foundations",
-  "applicationApprovalID": "0x75c17ab86592588357ebe8f116dab73c6a531ec20a5b23a1f57ae7d85dbb3549"
+  "applicationApprovalUID": "0x75c17ab86592588357ebe8f116dab73c6a531ec20a5b23a1f57ae7d85dbb3549"
 }

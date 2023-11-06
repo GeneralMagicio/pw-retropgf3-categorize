@@ -65,9 +65,7 @@
       "description": "EUCI Linkedin"
     }
   ],
-  "impactCategory": [
-    "COLLECTIVE_GOVERNANCE"
-  ],
+  "impactCategory": ["COLLECTIVE_GOVERNANCE"],
   "impactDescription": " We've defended the decentralized tech stack. Imagine building Optimism Collective without wallets or registering as a \"crypto-asset service provider\" to onboard users. We ensured these weren't our reality. We educated regulators that DeFi isn't like TradFi and that decentralization is possible. We trained MEPs in Metamask use and enlightened EU Commission reps about DAOs' utilities.",
   "impactMetrics": [
     {
@@ -154,5 +152,5 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategory": "Community Building",
-  "applicationApprovalID": "0xf82d6bed5abf74e7540f503c694097612b6002103966ccaec043b19557787cb9"
+  "applicationApprovalUID": "0xf82d6bed5abf74e7540f503c694097612b6002103966ccaec043b19557787cb9"
 }

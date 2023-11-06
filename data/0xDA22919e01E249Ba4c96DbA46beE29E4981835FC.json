@@ -78,5 +78,5 @@
   "pwRecategorizeReason": "NO. The application should be categorized as \"INDIVIDUAL\" as the bio and contribution description indicate that the project is primarily undertaken by an individual \"I have been building it\", rather than a collective team effort.",
   "pwApplicantTypeChecked": true,
   "pwCategory": "Data Analytics & Insights",
-  "applicationApprovalID": "0x884d2033ce97d63efc7524f104572d0cae1d1ca48491a3774c26ccd922a15f5b"
+  "applicationApprovalUID": "0x884d2033ce97d63efc7524f104572d0cae1d1ca48491a3774c26ccd922a15f5b"
 }

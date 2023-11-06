@@ -25,9 +25,7 @@
       "description": "Find all the pictures of the 2-day workshop via this link"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM"],
   "impactDescription": "Over the course of our Web3 Developer Workshop, we engaged with over 30 developers ranging from seasoned devs to individuals completely new to Web3 development.\n\nThrough the workshop series, participants acquired hands-on experience in deploying smart contracts on the Optimism test network. We observed a significant improvement in their proficiency with tools like Solidity and Remix IDE. By the end of the program, 50% of attendees successfully deployed their own smart contracts.\n\nAttendees also formed connections and created several joint projects. Many shared their intention to continue building on the Optimism network, demonstrating the lasting impact and growth within the Optimism ecosystem.",
   "impactMetrics": [
     {
@@ -71,5 +69,5 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategory": "Local Blockchain Communities",
-  "applicationApprovalID": "0xc6aefba00febddc9d0c0e0c35619ef05265c805e0fe304ce4bf5ca53a6f80d09"
+  "applicationApprovalUID": "0xc6aefba00febddc9d0c0e0c35619ef05265c805e0fe304ce4bf5ca53a6f80d09"
 }

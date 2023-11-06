@@ -35,10 +35,7 @@
       "description": "Code4rena Audit of Temporal Governance"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM",
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "This open-source public good enabled the Moonwell community to expand to the Base L2 and reach over 2,000 new OP stack users, while maintaining our community's high standards for decentralization and trust minimization. \n\nThe Moonwell protocol was successfully activated on Base mainnet August 9th through a cross-chain governance proposal, and since then, our community has successfully passed 7 additional cross-chain proposals.\n\nMoonwell has consistently been in the top 10 TVL projects on Base as measured by DeFi Llama since launch on August 9th.",
   "impactMetrics": [
     {
@@ -85,5 +82,5 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategory": "Cross-Chain Interoperability",
-  "applicationApprovalID": "0xeff464a4d1163c24dea3777598667b31c6b68cea03649e0e8dbaa80fad82fc5f"
+  "applicationApprovalUID": "0xeff464a4d1163c24dea3777598667b31c6b68cea03649e0e8dbaa80fad82fc5f"
 }

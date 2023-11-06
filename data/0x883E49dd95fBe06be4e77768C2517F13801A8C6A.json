@@ -10,10 +10,7 @@
       "description": "information related to Remix CC."
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM",
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "The contributions of the Remix Chinese community can help lower the entry barrier for Chinese users to participate in OP network development, enabling OP developers to engage more effectively in the construction of the OP network, and promoting the flourishing development of the OP network.",
   "impactMetrics": [
     {
@@ -48,5 +45,5 @@
   "pwRecategorizeReason": "NO, the application is not correctly categorized, it should be categorized as \"INDIVIDUAL\", since the applicant speaks about \"I\" and \"me\" in the bio.",
   "pwApplicantTypeChecked": true,
   "pwCategory": "Developer Education & Mentoring",
-  "applicationApprovalID": "0x36971f3eca782399ac07ca77c8e49d66e066eece8fe10fdbc121a3176db59c46"
+  "applicationApprovalUID": "0x36971f3eca782399ac07ca77c8e49d66e066eece8fe10fdbc121a3176db59c46"
 }

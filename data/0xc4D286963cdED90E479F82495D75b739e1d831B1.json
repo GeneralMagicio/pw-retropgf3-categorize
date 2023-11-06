@@ -10,9 +10,7 @@
       "description": "Project Website"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Our 100K+ users and 94K+ site visitors demonstrate our educational reach. Specific metrics include: 17K+ Optimism content impressions, 280+ vetted grants in our directory, and 284+ reviewed courses in Spanish, Portuguese & English. We held BIT Day Cuernavaca at Tec de Monterrey, directly connecting 100+ students. We also conducted a writing cohort with 12 women who received access to a Zora NFT. \n",
   "impactMetrics": [
     {
@@ -77,5 +75,5 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategory": "Web3 Education & Skill Development",
-  "applicationApprovalID": "0xc84d4bc9f541cc7905a3a5b68144b3a49ec97837e3713fe989520a31bcbe6087"
+  "applicationApprovalUID": "0xc84d4bc9f541cc7905a3a5b68144b3a49ec97837e3713fe989520a31bcbe6087"
 }

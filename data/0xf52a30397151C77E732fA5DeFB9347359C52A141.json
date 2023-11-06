@@ -15,10 +15,7 @@
       "description": "Newsletter (Substack) The present state of L2s Edition #1 -#6"
     }
   ],
-  "impactCategory": [
-    "COLLECTIVE_GOVERNANCE",
-    "OP_STACK"
-  ],
+  "impactCategory": ["COLLECTIVE_GOVERNANCE", "OP_STACK"],
   "impactDescription": "I've made my audience understood clearly everything about the OP stack and Superchain vision and how it aims to be a game-changer in the L2s Race.\n\nAlso, I keep my audience (Twitter) and readers (Newsletter) updated on what's happening on the Optimism Ecosystem and not to miss out any Alpha, also I do recap on them weekly for those who missed that.",
   "impactMetrics": [
     {
@@ -99,5 +96,5 @@
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Layer 2 Scaling, Blockchain Education, Community Building",
   "pwCategory": "Blockchain Education",
-  "applicationApprovalID": "0x8207d38dd2b645c6df0b29f35e36bf30a6e42eac03054c63f139089c8f443082"
+  "applicationApprovalUID": "0x8207d38dd2b645c6df0b29f35e36bf30a6e42eac03054c63f139089c8f443082"
 }

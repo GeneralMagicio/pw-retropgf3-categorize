@@ -10,9 +10,7 @@
       "description": "Twitter "
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "contributions on Optimism Collective from Bankless Bengali were made on YouTube and Twitter were aimed at educating, engaging, and empowering the community. We created educational content and actively engaged with community members on Twitter. These efforts have led to increased community engagement and stronger bonds",
   "impactMetrics": [
     {
@@ -146,5 +144,5 @@
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Media Production, Content Creation, Community Building",
   "pwCategory": "Local Blockchain Communities",
-  "applicationApprovalID": "0x9f4fbe2f82b8c499849bfd1963f8798ab8f25f95b0631fdf44129d477a3f7b78"
+  "applicationApprovalUID": "0x9f4fbe2f82b8c499849bfd1963f8798ab8f25f95b0631fdf44129d477a3f7b78"
 }

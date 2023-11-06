@@ -10,9 +10,7 @@
       "description": "The Optimism Superchain Roundup Newsletter "
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "\"The OP Superchain Roundup\" newsletter has impacted the Optimism Collective in the following ways:\n\nNews Updates: The newsletter delivers regular updates on significant events, launches, partnerships, and advancements within the Optimism Ecosystem. These updates are presented in a concise and easily understandable format, ensuring that subscribers stay well-informed and engaged with the latest developments.\n\nEcosystem Insights: In addition to news updates, the newsletter provides valuable insights, analysis, and commentary on key topics within the Optimism Ecosystem. It covers important discussions such as the competition between Layer 2 stacks, Optimism Governance Seasons, and the app-chain debate. These insights spark meaningful discussions among community members.",
   "impactMetrics": [
     {
@@ -39,5 +37,5 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategory": "Blockchain News & Media",
-  "applicationApprovalID": "0x3c44fe46a0a6e885a87fb828f1f2a4f7053cb5075cab92476b0df3d08f7fe64b"
+  "applicationApprovalUID": "0x3c44fe46a0a6e885a87fb828f1f2a4f7053cb5075cab92476b0df3d08f7fe64b"
 }

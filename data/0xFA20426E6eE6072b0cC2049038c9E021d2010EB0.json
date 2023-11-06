@@ -25,9 +25,7 @@
       "description": "Consensus bug fixed on geth (to show the impact of OpenEthereum contributions)"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM"],
   "impactDescription": "At the time of my contributions to OpenEthereum, this client had ~15% of all ethereum mainnet nodes share, the second biggest share, right after Geth. Unfortenately, the project was shut down after some time, due to lack of funding.\nOpenEthereum London hard fork discovered a critical bug in Geth client on one of the test networks just before the mainnet activation. Obviously, this prevented a serious consensus bug between geth client and the rest of the clients. London hard fork also contained the EIP1559 implementation - change in the fee mechanism for Ethereum.\nI also had contributions to rust web3 library widely used for all rust projects on ethereum and EVM compatible chains and also contributed to Cowswap project which main impact is protecting users from MEV and giving best prices.",
   "impactMetrics": [
     {
@@ -53,5 +51,5 @@
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Smart Contract Platforms, Decentralized Exchanges (DEXs), Developer Ecosystem",
   "pwCategory": "Development & Infrastructure",
-  "applicationApprovalID": "0x82426eab338a4383b2ab55d94d41ffd46770a1f5f217f0c3fa81fbb5a0964dc4"
+  "applicationApprovalUID": "0x82426eab338a4383b2ab55d94d41ffd46770a1f5f217f0c3fa81fbb5a0964dc4"
 }

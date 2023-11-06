@@ -25,9 +25,7 @@
       "description": "Technical guides / audit reports"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Seamless sets the foundation of Base by being the first native lending protocol. It pushes the boundaries of the latest technologies by using abstracted smart contracts and isolated liquidity pools to bring higher capital efficiency (up to 4x exposure with just 1x collateral). This fuses the value props of typical lending pools with typical vault strategies into a single, better UX app.\n\nAdditionally, Seamless has soulbound token points (called OG Points) where usage is rewarded with non-transferrable tokens to represent loyalty and \"OG-ness,\" opening the door for even more innovative utility in the ecosystem.",
   "impactMetrics": [
     {
@@ -71,5 +69,5 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategory": "DeFi, Decentralized Finance",
-  "applicationApprovalID": "0x7f2bcd6d20e753b49c12c96eee3304715ecb33bdc6750c572530c90750e47713"
+  "applicationApprovalUID": "0x7f2bcd6d20e753b49c12c96eee3304715ecb33bdc6750c572530c90750e47713"
 }

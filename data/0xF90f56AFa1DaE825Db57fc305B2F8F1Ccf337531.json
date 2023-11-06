@@ -20,9 +20,7 @@
       "description": "Quests on Optimism"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "For about a year, we've provided educational resources, support and teachings to hundreds users on Optimism. Casually enhancing user's competence conducting themselves on-chain, while spreading the word of optimism and maintaining reasonable expectations through our lenses. My passion here on Optimism came from my passion for DeFi as a whole.",
   "impactMetrics": [
     {
@@ -50,5 +48,5 @@
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Community Building, Education",
   "pwCategory": "Web3 Education & Skill Development",
-  "applicationApprovalID": "0x3d17e2141d2f43c7bf1c32b2da17f39f8fd1d47fda7ddd5bc1ffb49562e99cf9"
+  "applicationApprovalUID": "0x3d17e2141d2f43c7bf1c32b2da17f39f8fd1d47fda7ddd5bc1ffb49562e99cf9"
 }

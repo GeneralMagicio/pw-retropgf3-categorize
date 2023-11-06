@@ -15,9 +15,7 @@
       "description": "Gaslite Drop Repository"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Gaslite Drop improves the the experience of rewarding and incentivizing your community.\n\nWe allow user's to effortlessly, safely, and efficiently facilitate transfers to their end users.\n\nThrough our easy to use UI and highly optimized Yul based airdrop contract anyone can bulk transfer assets to anyone.",
   "impactMetrics": [
     {
@@ -44,5 +42,5 @@
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Tokenization Platforms, Smart Contract Platforms, User Experience & Adoption",
   "pwCategory": "Developer Tools - Smart Contracts",
-  "applicationApprovalID": "0xa6d7790f101a9e2efc543a623d1f362f0707f2dc570caa96ac092926fb2bedfb"
+  "applicationApprovalUID": "0xa6d7790f101a9e2efc543a623d1f362f0707f2dc570caa96ac092926fb2bedfb"
 }

@@ -10,10 +10,7 @@
       "description": "Application UX Research"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM",
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "A good app UX may influence people to use other OP Mainnet apps.\nUX Audits help application developers better serve their target audience.\nEvery audit includes suggestions to improve the Web3 experience of the DApp, developers and product owners can use this information to provide better experiences to their users, increase traffic and DApp usage, which should also reflect to positive user adoption. ",
   "impactMetrics": [
     {
@@ -41,5 +38,5 @@
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "User Experience & Adoption, Developer Ecosystem, Web3 Community Platform",
   "pwCategory": "User Experience & Adoption",
-  "applicationApprovalID": "0x7e30bd735b4d56efe3ea3e57521ec441cc10ac2cd6c1d1a121af24873b2c13f7"
+  "applicationApprovalUID": "0x7e30bd735b4d56efe3ea3e57521ec441cc10ac2cd6c1d1a121af24873b2c13f7"
 }

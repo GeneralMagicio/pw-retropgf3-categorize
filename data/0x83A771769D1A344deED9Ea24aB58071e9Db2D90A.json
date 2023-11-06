@@ -25,9 +25,7 @@
       "description": "The 4th largest lending protocol on Optimism"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "dForce aims to become a leading platform for LSD lending on Optimism. In Feb 2023, we collaborated with Lido to reward wstETH lending activities and became the 4th largest holder of wstETH on Optimism. Recently, dForce DAO has approved for Rocket Pool’s rETH to be used as collateral on Optimism with the hope to offer users the choice between different LSD assets to facilitate their investment strategies.\n\nWe also received two grants from Optimism in Phase 1 and Cycle 11. The grants were utilized to incentivize lending and trading via various liquidity mining campaigns and to offer bribes for USX/USDC on Velodrome.",
   "impactMetrics": [
     {
@@ -82,5 +80,5 @@
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Stablecoins, Layer 2 Scaling",
   "pwCategory": "DeFi, Decentralized Finance",
-  "applicationApprovalID": "0x03a6b6d06964fe9fe43aba6058e2369640a18fb38bf650c587184cd16015fb70"
+  "applicationApprovalUID": "0x03a6b6d06964fe9fe43aba6058e2369640a18fb38bf650c587184cd16015fb70"
 }

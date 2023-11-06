@@ -30,9 +30,7 @@
       "description": "Minting of proposer opportunities of the OP Stack with VRGDAs"
     }
   ],
-  "impactCategory": [
-    "OP_STACK"
-  ],
+  "impactCategory": ["OP_STACK"],
   "impactDescription": "Many of the projects were research proofs of concept that introduced original ideas, so the impact lies on the research value rather than on seeking for immediate adoption. For example, the project Sequencer Commitments addressed the lack of programmability at the sequencer level in rollups. The framework enables programmable sequencing policies, new MEV mitigation techniques, and more general sequencing services, directly embedded into the Stack. The software was used as foundational research on Protocol-enforced Proposer Commitments (PEPC).",
   "impactMetrics": [
     {
@@ -74,5 +72,5 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategory": "Security & Cross-Chain Solutions",
-  "applicationApprovalID": "0x553a463819936d8c8f5bdd26e2c3c6eba8fca668093e1b18f388f24bc6666012"
+  "applicationApprovalUID": "0x553a463819936d8c8f5bdd26e2c3c6eba8fca668093e1b18f388f24bc6666012"
 }

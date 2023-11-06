@@ -30,9 +30,7 @@
       "description": "This is our web2 platform, "
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Our newest EVM.Finance product is the RFG-2.   We have implemented features of this previously for Aave and Uniswap interactions with conditional checks. Additionally or system supports this for multiple blockchains. \n\nThe newest version allows a user to select the ABI, Action, Method and Event. \n\nAdditionally our platform provides asset management for Optimism, in addition to support for Ethereum mainnet, Binance Smart Chain, XRPL, Polugon and others.",
   "impactMetrics": [
     {
@@ -59,5 +57,5 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategory": "Asset Management & Portfolio Tools",
-  "applicationApprovalID": "0xeb6a80070c1f94ee5bd855e4703d92bb41b44796b866c26c3be72bb74656a290"
+  "applicationApprovalUID": "0xeb6a80070c1f94ee5bd855e4703d92bb41b44796b866c26c3be72bb74656a290"
 }

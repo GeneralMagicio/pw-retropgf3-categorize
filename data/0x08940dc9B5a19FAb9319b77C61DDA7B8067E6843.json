@@ -10,9 +10,7 @@
       "description": "Optimism connector process"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Our integration Ethereum Optimism with Hummingbot trading bot simplifies trading, expands opportunities, and improves risk management. Novice and experienced traders benefit from an intuitive interface, 24/7 trading, stop-loss/take-profit orders, efficient liquidity management, backtesting, security, and support. Join us to enhance your crypto trading experience.",
   "impactMetrics": [
     {
@@ -37,5 +35,5 @@
   "pwCategorySuggestions": "Smart Contract Platforms, Trading Tools",
   "pwApplicantTypeChecked": true,
   "pwCategory": "Asset Management & Portfolio Tools",
-  "applicationApprovalID": "0x9ff4d4ff2ba7e77917b04ec98c645535a0ff29f0584a67c92201e34757d57b2e"
+  "applicationApprovalUID": "0x9ff4d4ff2ba7e77917b04ec98c645535a0ff29f0584a67c92201e34757d57b2e"
 }

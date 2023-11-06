@@ -30,10 +30,7 @@
       "description": " OptimismMintableERC1155 tokens  minter, listening deposits into L1ERC1155bridge"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM",
-    "OP_STACK"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM", "OP_STACK"],
   "impactDescription": "We could not track the impact of this contribution. However,  we believe that by  having an standard ERC1155 bridge we will reduce the barriers for any project that is working with ERC1155 tokens and is willing to operate on the Optimism ecosystem.  In addition, having an standard ERC1155 bridge and not one created by individual teams will foster standardization, mass adoption and makes Optimism more accessible, developer friendly and valuable, compared to other networks.\n",
   "impactMetrics": [
     {
@@ -90,5 +87,5 @@
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Smart Contract Platforms, Tokenization Platforms, Blockchain Infrastructure",
   "pwCategory": "Ethereum Core Tech Foundations",
-  "applicationApprovalID": "0x31fa3f2b3ab4221bb89dd64e864339a6c59ab6658d91860e239e2491f4bb2435"
+  "applicationApprovalUID": "0x31fa3f2b3ab4221bb89dd64e864339a6c59ab6658d91860e239e2491f4bb2435"
 }

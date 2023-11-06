@@ -20,9 +20,7 @@
       "description": "CoSoul launch thread, learn more about CoSoul here."
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Building CoSoul on Optimism has made a significant impact, positioning Optimism to lead on-chain applications for the future of work.  By building on Optimism, Coordinape has helped the OP Collective provide new value to tens of thousands of users in just 4 months. CoSouls have proved out the need for reputation to live on chain, and created a primary locus for new web3 adopters to create their web3 CV on OP.  CoSouls help Optimists engage regularly with digital identity, resulting in 46,000 transactions in four months. As we've seen over the last several years, the organism of collective agency and collaboration works differently in web3, and Coordinape has helped these activities form roots on OP.  38,400 contributors have used Coordinape, in over 3600 DAOs, since 2021.",
   "impactMetrics": [
     {
@@ -83,5 +81,5 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategory": "Grants, Capital Allocation & Onboarding",
-  "applicationApprovalID": "0xcec7aea98b44a9e53c771a33664e9349c0cfd6d9bb769a40c2acb8baf1a3beb1"
+  "applicationApprovalUID": "0xcec7aea98b44a9e53c771a33664e9349c0cfd6d9bb769a40c2acb8baf1a3beb1"
 }

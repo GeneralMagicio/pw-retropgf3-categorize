@@ -35,10 +35,7 @@
       "description": "revm is very fast"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM",
-    "OP_STACK"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM", "OP_STACK"],
   "impactDescription": "In essence, Revm is a library within the Ethereum ecosystem, powering key projects, fostering innovation, and contributing to the network's overall robustness and growth, it allows the Rust Ethereum ecosystem to flourish.\n\nIts impact is on both the tooling and the infrastructure, as it is a library its impact is propagated through the projects that use it, as mentioned above. It is unique as it provides common ground for a lot of different groups that have a need to use fast, stable and dependable Ethereum Virtual Machine in Rust.",
   "impactMetrics": [
     {
@@ -69,5 +66,5 @@
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Smart Contract Platforms, Blockchain Infrastructure, Developer Ecosystem",
   "pwCategory": "Blockchain Developer Hub",
-  "applicationApprovalID": "0x17e2c8ce0820b7ff172084cd69c6c2b4cdbd65e20e8af8a8f2c96b8401fb22c7"
+  "applicationApprovalUID": "0x17e2c8ce0820b7ff172084cd69c6c2b4cdbd65e20e8af8a8f2c96b8401fb22c7"
 }

@@ -30,10 +30,7 @@
       "description": "Contract"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM",
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "- Deployed a novel product that solves a clear problem; encourages builders and explorers to use Optimism.\n- Product has accrued steady (quantifiable and monitored) user growth and traction over the last quarter since launch (unique users, transaction count etc).\n- Team behind product continues to develop and ship improvements, solicit reguarl user feedback.",
   "impactMetrics": [
     {
@@ -69,5 +66,5 @@
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Layer 2 Scaling, Blockchain Infrastructure, User Experience & Adoption",
   "pwCategory": "Blockchain Developer Hub",
-  "applicationApprovalID": "0x4c1639e17f4f30026bb5a1e1646878a03004d5afdc53065d1b092bac47562ca8"
+  "applicationApprovalUID": "0x4c1639e17f4f30026bb5a1e1646878a03004d5afdc53065d1b092bac47562ca8"
 }

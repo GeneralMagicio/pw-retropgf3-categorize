@@ -15,9 +15,7 @@
       "description": "CryptoFees Github"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Websites like CryptoFees and L2Fees help users and developers better understand the blockchain ecosystem.\n\nSpecifically, CryptoFees helps understand blockchain revenue for chains like Optimism, which is revenue that partially goes to public goods. Meanwhile, sites like L2Fees highlight the value that rollups like Optimism offer to users via lower fees.",
   "impactMetrics": [
     {
@@ -82,5 +80,5 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategory": "Data Analytics & Insights",
-  "applicationApprovalID": "0xae4aa2fec8bda8568083e9f482cd0a08c278959582fd6776ea1e55230a2a487a"
+  "applicationApprovalUID": "0xae4aa2fec8bda8568083e9f482cd0a08c278959582fd6776ea1e55230a2a487a"
 }

@@ -20,9 +20,7 @@
       "description": "Crowdmuse github"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Through building a crypto consumer use case that regular people can enjoy, we are incentivizing user adoption, especially as creators see new revenue opportunities through business models onchain. \n\nAs part of the “Stay Optimistic” drop campaign, we want to show the power of Optimism as a consumer brand, enabling new consumer touch points beyond existing web3 audiences.\n\nThis is our first drop on the OP network, bringing 100 collectors of consumer goods into the OP and Crowdmuse ecosystems. This drop was a collaboration with Rapanui, a sustainable manufacturing brand in the UK, a brilliant 3D designer CU3D, and the Crowdmuse curation team.\n\nWe believe the most important aspect of end user adoption on Optimism will be consumer experiences targeting new communities outside of web3. ",
   "impactMetrics": [
     {
@@ -98,5 +96,5 @@
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Tokenization Platforms, Web3 Community Platform, Digital Identity",
   "pwCategory": "Exchanges, DEX, Trading & Liquidity",
-  "applicationApprovalID": "0xc2618c219f978482880af2ae3995632711a3c5a24039378e805604b1c1deee27"
+  "applicationApprovalUID": "0xc2618c219f978482880af2ae3995632711a3c5a24039378e805604b1c1deee27"
 }

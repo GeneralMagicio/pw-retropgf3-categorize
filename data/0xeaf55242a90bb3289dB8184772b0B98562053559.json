@@ -15,10 +15,7 @@
       "description": "Get onchain data for all Farcaster users on Optimism"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM",
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Airstack APIs enables developers to easily create Farcaster applications and integrate Farcaster with the broader Ethereum ecosystem. For example, at ETH NYC in September 2023, 25 teams used Airstack to build apps that combined data from Farcaster, Lens, XMTP, NFTs, POAPs and more.",
   "impactMetrics": [
     {
@@ -44,5 +41,5 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategory": "Blockchain Developer Hub",
-  "applicationApprovalID": "0x2da0a205208f0703f3b53ee3b8a1e385d587a8c79768521ff1d088d34356a7a1"
+  "applicationApprovalUID": "0x2da0a205208f0703f3b53ee3b8a1e385d587a8c79768521ff1d088d34356a7a1"
 }

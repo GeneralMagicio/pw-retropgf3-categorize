@@ -10,9 +10,7 @@
       "description": "youtube video about optimism"
     }
   ],
-  "impactCategory": [
-    "COLLECTIVE_GOVERNANCE"
-  ],
+  "impactCategory": ["COLLECTIVE_GOVERNANCE"],
   "impactDescription": "Through my educational content around Optimism across multiple formats, I aimed to increase adoption and participation within the Optimism Collective by reaching new audiences and equipping them with accessible information.My social media posts, infographics, and YouTube videos served to spread general awareness of Optimism to casual crypto users. Explaining the benefits over mainnet Ethereum transactions increased potential end user adoption. My airdrop-related content ensured eligible recipients could claim their tokens.",
   "impactMetrics": [
     {
@@ -44,5 +42,5 @@
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Content Creation, Community Building, User Experience & Adoption",
   "pwCategory": "Blockchain Education",
-  "applicationApprovalID": "0xb4831ed3f4f28e666b5a9f94de5b54569793576ae9072e69b48f043dde3742e3"
+  "applicationApprovalUID": "0xb4831ed3f4f28e666b5a9f94de5b54569793576ae9072e69b48f043dde3742e3"
 }

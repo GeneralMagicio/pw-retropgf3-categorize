@@ -75,9 +75,7 @@
       "description": "How L2 generate profits? What is MEV? ft. imToken Chief Scientist ChangWu Chen"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "My contributions have had a substantial impact on the Optimism Collective in Chinese community. I authored various articles and engaged in podcasting to amplify the importance of the digital public goods, encouraging users to actively participate in Optimism ecosystem. Additionally, I explored RetroPGF concepts, underlining its commitment to supporting public goods.\n\nFor example, my extensive coverage of RetroPGF included an article on 'Simulated Voting.' This aimed to provide readers with a firsthand understanding of the challenges faced by badgeholders when evaluating 195 projects within a tight timeframe. Additionally, I underscored the distinction between retroactive funding, which rewards based on outcomes, and traditional investments, which are based on expectations of future impact.",
   "impactMetrics": [
     {
@@ -182,5 +180,5 @@
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Content Creation, Community Building, Governance & Tokens",
   "pwCategory": "Blockchain News & Media",
-  "applicationApprovalID": "0x43b75ffb6854af47b5566238d3077e593e819ec422d95156bcee4234aebb2a40"
+  "applicationApprovalUID": "0x43b75ffb6854af47b5566238d3077e593e819ec422d95156bcee4234aebb2a40"
 }

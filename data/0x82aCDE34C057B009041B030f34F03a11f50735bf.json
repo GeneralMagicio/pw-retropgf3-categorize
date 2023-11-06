@@ -10,10 +10,7 @@
       "description": "A curated list of awesome resources related to the Optimism ecosystem "
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM",
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Awesome Optimism comprises over 150 awesome resources covering diverse categories within the Optimism Ecosystem. It serves as a hub for developers and enthusiasts looking for relevant information and tools. The repository is also featured on multiple Optimism community resources, including Web3explorer. \n\nAwesome Optimism offers visibility and recognition for projects or community resources contributing to the Optimism ecosystem. Community contributions are also actively encouraged to foster a vibrant and collaborative environment around Optimism. ",
   "impactMetrics": [
     {
@@ -42,5 +39,5 @@
   "pwRecategorizeReason": "NO, it is not correctly categorized because the application uses singular pronouns like \"I\" and \"me\", so it should be categorized as an \"INDIVIDUAL\".",
   "pwApplicantTypeChecked": true,
   "pwCategory": "Development & Infrastructure",
-  "applicationApprovalID": "0x1d865a703d9c84fa4b5d97f84d399b0a785f64d0ae99716a306e698035412c54"
+  "applicationApprovalUID": "0x1d865a703d9c84fa4b5d97f84d399b0a785f64d0ae99716a306e698035412c54"
 }

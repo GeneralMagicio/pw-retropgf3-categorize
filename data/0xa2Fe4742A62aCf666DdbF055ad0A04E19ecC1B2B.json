@@ -15,9 +15,7 @@
       "description": "Ether actor open source github repository"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM"],
   "impactDescription": "This tool has helped multiple developers building on the base, zora, and optimism ecosystem to integrate counts into spreadsheets, NFT minting websites, check transaction data easily without needing specific tools and needing to pay for an RPC provider since we work with providers to get enough bandwidth to run this service. We have served over 41 million requests and over 200 thousand within the optimism ecosystem, building out NFT support before alchemy supported NFTs on the optimism chains and adding base and zora support quickly for the superchain ecosystem.",
   "impactMetrics": [
     {
@@ -62,5 +60,5 @@
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Blockchain Infrastructure, Developer Tools",
   "pwCategory": "Blockchain Developer Hub",
-  "applicationApprovalID": "0x47ac6700012c2e9bba07fbb9cf739eda25880791096d64796a328a16842dfec9"
+  "applicationApprovalUID": "0x47ac6700012c2e9bba07fbb9cf739eda25880791096d64796a328a16842dfec9"
 }

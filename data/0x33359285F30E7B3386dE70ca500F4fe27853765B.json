@@ -105,10 +105,7 @@
       "description": "Holonym ZK ID server"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM",
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "The Holonym protocol has provided the following impact:\n\n* 18,000 users verified in an on-chain anonymity set, providing strong user privacy without the risk of biometrics\n* 9,000 ZK SBT proofs of uniqueness minted, reducing the Sybil threat\n* Developer tooling for deploying ZK credentials on Optimism with example issuers for any credential with examples written in rust\n* R&D with post-quantum ZK research company BTQ to upgrade OP ZK circuits with quantum resistance.\n* Open Civics tooling to democracies on-chain with ZK proofs for voting and legal status\n* ZK reputation tooling for DeSci researchers with on-chain OP attestation\n* Snapshot integration to allow for OP DAOs with Holonym support for 1-person, 1-vote strategies. ",
   "impactMetrics": [
     {
@@ -162,5 +159,5 @@
   "pwCategorySuggestions": "Decentralized Identity, Privacy, Blockchain Infrastructure",
   "pwApplicantTypeChecked": true,
   "pwCategory": "Digital Identity & Social Privacy Innovations",
-  "applicationApprovalID": "0xb0f319e13cdddf0cb23344062d1e445a0c0f005e9d44a93692838438a5ee0c3b"
+  "applicationApprovalUID": "0xb0f319e13cdddf0cb23344062d1e445a0c0f005e9d44a93692838438a5ee0c3b"
 }

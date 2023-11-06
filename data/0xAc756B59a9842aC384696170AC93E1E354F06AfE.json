@@ -40,10 +40,7 @@
       "description": "Advanced Blockchain Security Education "
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM",
-    "OP_STACK"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM", "OP_STACK"],
   "impactDescription": "Through performing multiple high-priority security reviews for comprehensive bug coverage on core projects being built on Optimism as well as directly evaluating the security posture of the Optimism protocol itself, Spearbit has aided in securing 840M TVL at the time of reviews.\n\nSpearbit and its security researchers have reviewed over 10,000+ lines of complex and mission-critical code across the Optimism ecosystem. As a result, Spearbit and its security researchers have identified:\n\n• 1 Critical\n• 9 Highs\n• 32 Mediums\n\nThere have been 0 exploits from Spearbit security reviews on reviewed portions of the Optimism protocol and relevant projects building on Optimism since the completion of Spearbit security assessments. ",
   "impactMetrics": [
     {
@@ -104,5 +101,5 @@
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Blockchain Infrastructure",
   "pwCategory": "Explorers, Security & Node Deployment Tools",
-  "applicationApprovalID": "0x7c45354a60d2e984beb565b698bd3c04a0901ca065bc788459023f03c3b1cfa2"
+  "applicationApprovalUID": "0x7c45354a60d2e984beb565b698bd3c04a0901ca065bc788459023f03c3b1cfa2"
 }

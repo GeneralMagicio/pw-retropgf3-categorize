@@ -20,10 +20,7 @@
       "description": "Mirror"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION",
-    "OP_STACK"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION", "OP_STACK"],
   "impactDescription": "1) Pika had a security incident on 5-30-23 after a Discord server was compromised resulting in $330K+ lost. Orbiter suffered a similar incident on 5-31-23 resulting in $760K+ lost. 7-17-23 I shared findings on scammer I traced it back to. I privately shared more details with both so they could take legal action against the individual.\n2) Recently there were SIM swap targeting FriendTech users. I traced multiple thefts & froze funds at a CEX for KingMgugga & Gr0wCrypt0\n3) Discovered Magnate on Base would likely rug after the deployers address was funded from previous scam. I put out a warning so investors could save funds. Shortly after it rugged\n4) Made posts in my Telegram encouraging people to participate in Gitcoin & apply to RPGF round 3\n5) Found the person who rug pulled BALD on Base",
   "impactMetrics": [
     {
@@ -81,5 +78,5 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategory": "Security & Cross-Chain Solutions",
-  "applicationApprovalID": "0x29a4b00f46a4eb31db8a962dfa202fe79f02ba3dc9dd49c98d993eb6189d72aa"
+  "applicationApprovalUID": "0x29a4b00f46a4eb31db8a962dfa202fe79f02ba3dc9dd49c98d993eb6189d72aa"
 }

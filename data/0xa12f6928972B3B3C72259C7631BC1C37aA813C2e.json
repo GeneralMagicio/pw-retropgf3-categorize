@@ -15,9 +15,7 @@
       "description": "GitHub homepage"
     }
   ],
-  "impactCategory": [
-    "COLLECTIVE_GOVERNANCE"
-  ],
+  "impactCategory": ["COLLECTIVE_GOVERNANCE"],
   "impactDescription": "1. Fostered an 800-member community of researchers, developers, and thinkers, becoming a hub for governance talks beneficial to Optimism.\n\n2. Organized events like the Metagovernance Seminar, DAO Palace, workshops at Harvard, Stanford, NYU, and RMIT, and others that facilitated key partnerships, insights, and collaborations for Optimism.\n\n3. Deployed tools like Govbase, Metagov Gateway, and PolicyKit, advancing governance experimentation and integration of sophisticated online structures.\n\n4. By co-organizing workshops with industry giants like OpenAI and the Internet Archive, promoted DAO governance in Industry. \n\nThrough these impacts, Metagov has provided Optimism with tools, insights, and a robust community that collectively drives the evolution of online self-governance. ",
   "impactMetrics": [
     {
@@ -94,5 +92,5 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategory": "DAOs, ReFi, and DAO Tooling",
-  "applicationApprovalID": "0xe367584886bdb185038a466f6a8e5a4ad746ffef051507a311cae85ae11c7d5e"
+  "applicationApprovalUID": "0xe367584886bdb185038a466f6a8e5a4ad746ffef051507a311cae85ae11c7d5e"
 }

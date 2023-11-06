@@ -20,10 +20,7 @@
       "description": "Direct transfer to Farcaster profiles"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM",
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "- Our contracts and ERC-4337 passkey tests have been quoted dozens of times in the 4337 Mafia, Web Sessions, and Modular Accounts Telegram chats. \n\n- Our connect with Farcaster feature generated 500+ signups. These profiles have the option to deploy an ERC-4337 passkey account.",
   "impactMetrics": [
     {
@@ -51,5 +48,5 @@
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Blockchain Infrastructure, Decentralized Identity, Developer Ecosystem",
   "pwCategory": "Development & Infrastructure",
-  "applicationApprovalID": "0x17b6075cdc32729b7ef683d9cb9160cfc5425c00115af4844eaf310721862e8d"
+  "applicationApprovalUID": "0x17b6075cdc32729b7ef683d9cb9160cfc5425c00115af4844eaf310721862e8d"
 }

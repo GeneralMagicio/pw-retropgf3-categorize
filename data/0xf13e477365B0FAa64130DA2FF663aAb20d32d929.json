@@ -30,10 +30,7 @@
       "description": "Ethereum Cat Herders website"
     }
   ],
-  "impactCategory": [
-    "COLLECTIVE_GOVERNANCE",
-    "DEVELOPER_ECOSYSTEM"
-  ],
+  "impactCategory": ["COLLECTIVE_GOVERNANCE", "DEVELOPER_ECOSYSTEM"],
   "impactDescription": "\nWhile ECH have primarily been involved in coordination and communication activities surrounding the Ethereum mainnet we've played an essential role in enhancing the transparency and understanding of Ethereum's development here's how we have indirectly supported Optimism:\nMany EIPs have indirect implications for Optimism and Layer2 solutions. By facilitating discussions around these EIPs, the Ethereum Cat Herders have helped refine and implement features that are beneficial.\nWhile not exclusively focused on Optimism, the educational content produced helps in disseminating knowledge about the changes that may affect Optimism.\n A better-informed community can contribute more effectively to the evolution and integration of Optimism.",
   "impactMetrics": [
     {
@@ -88,5 +85,5 @@
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Developer Ecosystem, Blockchain Education",
   "pwCategory": "Developer Education & Mentoring",
-  "applicationApprovalID": "0xfcc4798ccc9e2f578ce316278aa40da3fcee3c3f0b92c265062cf31906f2e815"
+  "applicationApprovalUID": "0xfcc4798ccc9e2f578ce316278aa40da3fcee3c3f0b92c265062cf31906f2e815"
 }

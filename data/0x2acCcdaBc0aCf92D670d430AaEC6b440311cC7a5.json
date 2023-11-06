@@ -20,10 +20,7 @@
       "description": "Weekly curated drops with artists, music released on OP"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION",
-    "OP_STACK"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION", "OP_STACK"],
   "impactDescription": "Our contributions and projects on the OP Superchain have onboarded both artists and collectors alike into the ecosystem. Additionally, we started releases on ETH Mainnet originally and made a complete transition to OP Stack because we believe this is where creators will flourish. We have been a beacon for other artists switching off of Mainnet.",
   "impactMetrics": [
     {
@@ -78,5 +75,5 @@
   "pwCategorySuggestions": "Tokenization Platforms, Blockchain Infrastructure, Content Creation",
   "pwApplicantTypeChecked": true,
   "pwCategory": "NFTs, POAPs & Collectibles",
-  "applicationApprovalID": "0x8b15a95f06dcb065dd7ec3eff34624cb2db10ae7c67eebee1b04ee65d81f84a8"
+  "applicationApprovalUID": "0x8b15a95f06dcb065dd7ec3eff34624cb2db10ae7c67eebee1b04ee65d81f84a8"
 }

@@ -133,5 +133,5 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategory": "Grants, Capital Allocation & Onboarding",
-  "applicationApprovalID": "0x4f382f942845103eace9ad3e46a817e5e95a1676974c58358c7c84d540fdd951"
+  "applicationApprovalUID": "0x4f382f942845103eace9ad3e46a817e5e95a1676974c58358c7c84d540fdd951"
 }

@@ -20,9 +20,7 @@
       "description": "A post from Michael Silberling highlighting the use of EthereumETL"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM"],
   "impactDescription": "Almost 2700 stars on our GitHub project show how many people use the tools we developed. They are used in OP Analytics repository https://github.com/ethereum-optimism/op-analytics#common-requirements and Optimism Gas Tracker dashboard https://optimism.io/gas-tracker ",
   "impactMetrics": [
     {
@@ -68,5 +66,5 @@
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Blockchain Infrastructure, Developer Ecosystem, Data Analytics",
   "pwCategory": "Data Analytics & Insights",
-  "applicationApprovalID": "0x5673d6a413d360de74d262487bdb4e70cb357c4d890af9cd62a369b1d858416b"
+  "applicationApprovalUID": "0x5673d6a413d360de74d262487bdb4e70cb357c4d890af9cd62a369b1d858416b"
 }

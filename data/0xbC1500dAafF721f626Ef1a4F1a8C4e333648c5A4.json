@@ -25,10 +25,7 @@
       "description": "Wrote a comprehensive thread highlighting the changes coming to Governance S5"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM",
-    "OP_STACK"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM", "OP_STACK"],
   "impactDescription": "I have helped create more accurate documentation for our community members. Such change would lead to a less frustrating and smoother user experience for users and developers within the Collective.\n\nPosting Twitter threads to raise awareness about the Collective has expanded our reach and visibility. These threads have acted as a powerful tool to inform, educate, and inspire a broader audience. They will attract new followers, supporters, and potential collaborators.",
   "impactMetrics": [
     {
@@ -65,5 +62,5 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategory": "Community Building",
-  "applicationApprovalID": "0x74fa8a40b8989bbd3e3a9bebe3b3900f377be2f2feab6dc6a3d1272bbdf45b57"
+  "applicationApprovalUID": "0x74fa8a40b8989bbd3e3a9bebe3b3900f377be2f2feab6dc6a3d1272bbdf45b57"
 }

@@ -15,9 +15,7 @@
       "description": "Rust-kzg is and EIP-4844 library."
     }
   ],
-  "impactCategory": [
-    "OP_STACK"
-  ],
+  "impactCategory": ["OP_STACK"],
   "impactDescription": "We have built a high-performance EIP-4844 library that works as a drop-in replacement for a reference c-kzg-4844 library. The performance comparison can be found here https://github.com/sifraitech/rust-kzg .\n\nOur main product Ethereum consensus layer client Grandine has the fastest state transition function. Our goal is to push the consensus layer performance further.",
   "impactMetrics": [
     {
@@ -51,5 +49,5 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategory": "Ethereum Core Tech Foundations",
-  "applicationApprovalID": "0x00007821871c29a7f1377bcfe3e02d474777111d71b541884ea014d1aa9a1b96"
+  "applicationApprovalUID": "0x00007821871c29a7f1377bcfe3e02d474777111d71b541884ea014d1aa9a1b96"
 }

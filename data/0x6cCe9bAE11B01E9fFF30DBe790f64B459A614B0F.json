@@ -30,9 +30,7 @@
       "description": "Article on the problem Hedgey solved for Collab.Land"
     }
   ],
-  "impactCategory": [
-    "COLLECTIVE_GOVERNANCE"
-  ],
+  "impactCategory": ["COLLECTIVE_GOVERNANCE"],
   "impactDescription": "When Collab.Land distributed their team token vesting and investor lockups via Hedgey's contracts, the locked and vesting tokens were given governance rights that could flexibly be delegated and participate in onchain governance via Tally. This helped bring new participants into the collective by allowing the team and investors to delegate/ vote in a way they previously would not have been able to. ",
   "impactMetrics": [
     {
@@ -66,5 +64,5 @@
   "pwRecategorizeReason": "NO, the application is not correctly categorized as PROJECT. The bio and contributions make references to individual activities like \"I'm a Cofounder...\" and \"We've helped teams...\" which indicates that it should be categorized as INDIVIDUAL.",
   "pwApplicantTypeChecked": true,
   "pwCategory": "Governance Tokenomics and Analytics",
-  "applicationApprovalID": "0xf8dfff20523c457d87c6ee83f00574f4c73912597f0487c1eff55afb663c4fa2"
+  "applicationApprovalUID": "0xf8dfff20523c457d87c6ee83f00574f4c73912597f0487c1eff55afb663c4fa2"
 }

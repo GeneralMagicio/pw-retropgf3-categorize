@@ -10,10 +10,7 @@
       "description": "Main eth.limo github repository"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION",
-    "OP_STACK"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION", "OP_STACK"],
   "impactDescription": "Ethereum Mainnet transactions are too expensive for the average user, by utilizing CCIP-Read eth.limo allows users and dApp developers to host static sites in a cost effective manner. This in return opens up the ability for the average person to create blogs/dApps and more without paying absurd gas fees or associated hosting costs. Vitalik has discussed the importance of CCIP-Read for end-user adoption. ",
   "impactMetrics": [
     {
@@ -69,5 +66,5 @@
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Decentralized Identity, Blockchain Infrastructure, Web3 Community Platform",
   "pwCategory": "Digital Identity & Social Privacy Innovations",
-  "applicationApprovalID": "0x67d0c66af963dd27720330e5dc2b5ab73a522c9436fd4085aa7048f1584da54b"
+  "applicationApprovalUID": "0x67d0c66af963dd27720330e5dc2b5ab73a522c9436fd4085aa7048f1584da54b"
 }

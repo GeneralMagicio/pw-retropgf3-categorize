@@ -15,10 +15,7 @@
       "description": "Showcase video for the Keyring wallet features "
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM",
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "1. Traditional users who are not familiar with crypto hardware wallets choose Keyring for holding their assets on Ethereum and Optimism, because of our security, similar debit card experience, and lower costs.\n2. Crypto users in Optimism Collective get an alternative solution to self-custodian their on-chain assets and interact with dApps. \n3. Application developers review our code and learn about how to use smart card to integrate with blockchains.",
   "impactMetrics": [
     {
@@ -55,5 +52,5 @@
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Hardware Wallets, User Experience & Adoption, Smart Contract Platforms",
   "pwCategory": "Wallet and wallet tools",
-  "applicationApprovalID": "0x6b9133680966c6d5b9a0496aa442e063ea73d965024cb2c89685f9f3c79148f0"
+  "applicationApprovalUID": "0x6b9133680966c6d5b9a0496aa442e063ea73d965024cb2c89685f9f3c79148f0"
 }

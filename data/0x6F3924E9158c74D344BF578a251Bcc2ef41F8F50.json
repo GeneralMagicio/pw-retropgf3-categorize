@@ -25,10 +25,7 @@
       "description": "Buy Back Our Attention - Community curated positive billboards"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM",
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Raised and distributed 22 ETH for public goods grants providing funds for people who want to move from a traditional job into full time web3 work\n\nFunds supported new web3 workers, developers, engineers\n\nGreen pilling the public via the gm bus\n\nWe inspired 100's of people to use Ethereum and learn more abut the regenerative power of decentralization\n",
   "impactMetrics": [
     {
@@ -61,5 +58,5 @@
   "pwRecategorizeReason": "NO, the application is miscategorized because despite being under \"INDIVIDUAL\", the applicant refers to actions made by \"we\", indicating a group or project, not an individual.",
   "pwApplicantTypeChecked": true,
   "pwCategory": "Web3 Community Engagement",
-  "applicationApprovalID": "0x63addd88cadccd8bdb353b81606bc7125714a9742fddd16db19ba48e6840b5e1"
+  "applicationApprovalUID": "0x63addd88cadccd8bdb353b81606bc7125714a9742fddd16db19ba48e6840b5e1"
 }

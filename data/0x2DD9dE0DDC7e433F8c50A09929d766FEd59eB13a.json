@@ -30,10 +30,7 @@
       "description": "Whitepaper for our extensible and censorship-resistant dApp UIs"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM",
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "The opportunity for Ethereum and Optimism to become globally ubiquitous is path-dependent and not guaranteed to be realized.\n\nThe quicker we can all learn, understand, and act on novel and important information, the more likely it is that our infinite garden successfully becomes a globally ubiquitous level playing field for all of humanity.\n\nMy years of work to discover and write about novel and important principles, opportunities, and threats helped our community move faster and focus on the right problems.",
   "impactMetrics": [
     {
@@ -60,5 +57,5 @@
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Content Creation, Community Building, Blockchain Education",
   "pwCategory": "Content Creation & Media",
-  "applicationApprovalID": "0x1d32f5fd7007ddfb7d205481a2c6897d1c4c7cf2e871a327f9f9e5dd3c8751ef"
+  "applicationApprovalUID": "0x1d32f5fd7007ddfb7d205481a2c6897d1c4c7cf2e871a327f9f9e5dd3c8751ef"
 }

@@ -40,9 +40,7 @@
       "description": "Current Perp trading contract"
     }
   ],
-  "impactCategory": [
-    "OP_STACK"
-  ],
+  "impactCategory": ["OP_STACK"],
   "impactDescription": "- Drove over 2k users to optimism for our trading platform\n- Over 3.5 Billion RPC relays for our free public rpc aggregator\n- over 250m in trading volume facilitated on optimism\n- Increased awareness and pushed the adoption of OP stack chains with our deployed Magma testnet & Molten Mainnet\n- Contributed to the OP stack ecosystem by building a new approach to sequencers that similar perp dexs looking to launch their own OEV/MEV controlled app chain can utilize",
   "impactMetrics": [
     {
@@ -84,5 +82,5 @@
   "pwCategorySuggestions": "Layer 2 Scaling, Decentralized Finance (DeFi), Tokenization Platforms",
   "pwApplicantTypeChecked": true,
   "pwCategory": "Exchanges, DEX, Trading & Liquidity",
-  "applicationApprovalID": "0xd0b94ba626d77239d6f96a187fbce720584871ae0c6c2104c10d585ea72cac58"
+  "applicationApprovalUID": "0xd0b94ba626d77239d6f96a187fbce720584871ae0c6c2104c10d585ea72cac58"
 }

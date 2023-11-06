@@ -15,10 +15,7 @@
       "description": "Tests for Curve's new stablecoin/lending product, written with titanoboa"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM",
-    "OP_STACK"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM", "OP_STACK"],
   "impactDescription": "OP Stack:\n- Titanoboa's embedded EVM, granular gas profiler and advanced testing features enhance contract security and efficiency within the OP Stack, as well as validating differences between optimism and mainnet EVMs.\n\nDeveloper Ecosystem:\n\n- Features such as integration with Jupyter notebooks, live blockchain interactions, and pure Python execution are pivotal for fast and efficient contract deployments.\n- Titanoboa's testing features are essential for smart-contract developers working on multiple networks such as Optimism and Mainnet.\n- Titanoboa allows Vyper developers to quickly prototype as well as thoroughly test their smart contracts.",
   "impactMetrics": [
     {
@@ -48,5 +45,5 @@
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Smart Contract Platforms, Developer Ecosystem, Testing Tools",
   "pwCategory": "Developer Tools - Smart Contracts",
-  "applicationApprovalID": "0xb69bd7618a4186b861ac50e11d6ab546db2e435afd46d2da211fc64e84505bf3"
+  "applicationApprovalUID": "0xb69bd7618a4186b861ac50e11d6ab546db2e435afd46d2da211fc64e84505bf3"
 }

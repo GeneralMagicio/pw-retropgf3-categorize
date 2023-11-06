@@ -50,10 +50,7 @@
       "description": "Giveth, TEC, 1hive, BrightID and others using Conviction Voting"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM",
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "For direct impact, we are actively building on Optimism. We have ported to Optimism the Aragon OS client which is the safest DAO tooling that exists. Thousands of DAOs have used this tooling to manage billions of USD in crypto and well known DAOs are already using it to migrate to Optimism.\n\nWe also deployed all the infrastructure needed by communities to launch the same economic model the TEC has (the ABC), without the need for a developer. Optimism is now the only network where this no-code solution can be used. \n\nMore indirectly, our open source research on Augmented Bonding Curves and Conviction Voting has been a public good for the Ethereum and web3 community. The ABC was charging mint and burn fees years before friend.tech launched with a similar mechanism. ",
   "impactMetrics": [
     {
@@ -142,5 +139,5 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategory": "DAOs, ReFi, and DAO Tooling",
-  "applicationApprovalID": "0xe3e819b9059115915280be91f45afb951f907e7ba9208cb9f979bc0d1e58a45e"
+  "applicationApprovalUID": "0xe3e819b9059115915280be91f45afb951f907e7ba9208cb9f979bc0d1e58a45e"
 }

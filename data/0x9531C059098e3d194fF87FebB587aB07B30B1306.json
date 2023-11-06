@@ -25,10 +25,7 @@
       "description": "A chrome addon to decode etherscan/optimismscan transactions based on our code"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM",
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "rotki has left an indelible mark on optimism. By running locally on users machines, it ensures their financial data remains private and secure. By being opensource it provides transparency.\n\nIts unwavering support for optimism began early; it was the first EVM chain integrated after mainnet, boasting broad protocol support. Its decoding system won praise from users, offering more user-friendly transaction visibility than etherscan.\n\nIts PnL reporting aids optimism users in accounting for their activities, helping them make sense of their financials.\n\nIts opensource nature has spurred collaboration within the community. It has given rise to projects like Buchfink and Decodify, which have further enriched the ecosystem by providing plaintext accounting and decoding solutions respectively.",
   "impactMetrics": [
     {
@@ -106,5 +103,5 @@
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Web3 Community Platform, User Experience & Adoption, Blockchain Infrastructure",
   "pwCategory": "Asset Management & Portfolio Tools",
-  "applicationApprovalID": "0xf307abb7638c184e3836beb422abf8cd36b7fd2bbb4fbd0fdeadf7ab7047a8c8"
+  "applicationApprovalUID": "0xf307abb7638c184e3836beb422abf8cd36b7fd2bbb4fbd0fdeadf7ab7047a8c8"
 }

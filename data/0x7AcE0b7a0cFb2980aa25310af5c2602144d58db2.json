@@ -40,10 +40,7 @@
       "description": "Attestations standard v0.2 "
     }
   ],
-  "impactCategory": [
-    "COLLECTIVE_GOVERNANCE",
-    "DEVELOPER_ECOSYSTEM"
-  ],
+  "impactCategory": ["COLLECTIVE_GOVERNANCE", "DEVELOPER_ECOSYSTEM"],
   "impactDescription": "Adoption: 4 DAOs on Optimism have already adopted EIP-4824. The adoption by Snapshot ensures that future DAOs using the framework on Optimism will automatically comply with EIP-4824. \n\nEngagement: We collected feedback from the 20+ projects on Optimism, ensuring that the implementation of EIP-4824 aligns with community needs. \n\nAccess: Our technical infrastructure improvements (contract upgrades, integrations with Snapshot & Boardroom, the explorer for Optimism, etc.) have made the adoption of EIP-4824 on Optimism easier. \n\nInnovation: Our work on attestations, grants, delegations, and regulatory interoperability take inspiration from EIP-4824. Multiple Optimism projects including Gitcoin, Tally, OpenZepplin, EAS, Agora, and others are involved in the projects. ",
   "impactMetrics": [
     {
@@ -97,5 +94,5 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategory": "Governance Tools",
-  "applicationApprovalID": "0x62303737eacb3de8795ae5ad00bc2da45a36e8c4a033c20257b0f893f7c4d3a4"
+  "applicationApprovalUID": "0x62303737eacb3de8795ae5ad00bc2da45a36e8c4a033c20257b0f893f7c4d3a4"
 }

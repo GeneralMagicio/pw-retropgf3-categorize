@@ -20,10 +20,7 @@
       "description": "Candide Wallet Mobile App"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM",
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Candide raised the bar for wallet UX and safety without compromising on self-custody. Candide Wallet codebase has been leveraged by several teams including versawallet.io mobile client, bananawallet.xyz base accounts and openfort.xyz account recovery module. Voltaire, a vital infrastructure, is being used by major RPC providers LlamaNodes, BlockPi, and BlockNative to offer AA as a Service and is provided as a free endpoint instance on testnets. The AbstractionKit SDK finds utility among a growing number of independent developers and notable companies like picnicinvestimentos.com and getjoin.io",
   "impactMetrics": [
     {
@@ -80,5 +77,5 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategory": "Wallet and wallet tools",
-  "applicationApprovalID": "0xf28fd827c67ce04a26b1ecf1f938d109f56c0977d5a2f0a0a7ecb14eb3276122"
+  "applicationApprovalUID": "0xf28fd827c67ce04a26b1ecf1f938d109f56c0977d5a2f0a0a7ecb14eb3276122"
 }

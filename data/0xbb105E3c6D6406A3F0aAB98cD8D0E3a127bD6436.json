@@ -20,9 +20,7 @@
       "description": "Twitter thread announcing the release of the Superchain Faucet and our course."
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM"],
   "impactDescription": "Our platform is free and used by more than 500,000 developers worldwide. Consequently, we've broadened the Optimism Collective's audience while streamlining developer onboarding. In doing so, we've blended simplicity and humor, making the art of writing smart contracts on Optimism fun and accessible. Furthermore, our Telegram community ensures prompt support from our engineers, aiding both newcomers and experienced developers alike.",
   "impactMetrics": [
     {
@@ -56,5 +54,5 @@
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Blockchain Education, Smart Contract Platforms",
   "pwCategory": "Developer Education & Mentoring",
-  "applicationApprovalID": "0xea51114ddd4cd331be77a9318748c5e276a2b3c34c5e220558e6fb88483bec5c"
+  "applicationApprovalUID": "0xea51114ddd4cd331be77a9318748c5e276a2b3c34c5e220558e6fb88483bec5c"
 }

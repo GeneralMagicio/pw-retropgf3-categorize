@@ -20,10 +20,7 @@
       "description": "Example of a meetup I hosted (ETHDenver 2023)"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM",
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "I've co-organized most of the meetups this year within the Farcaster community including the ETHDenver (400 ppl), NFT NYC (150 ppl), EthCC (200 ppl), ETHNY (100 ppl) as well as many dozens of smaller meetups in cities around the world.\n\nI've also helped raise more than $30k to fund meetups within the community. Some of them have been individual event crowdfunds, but about ~$10k of that is a small grants program for local meetups that I started and run.\n\nEventcaster was also one of the very first Farcaster apps and bots, and is still one of the most widely used ones. I've also helped a handful of other Farcaster builders think through their apps based on the learnings from Eventcaster.",
   "impactMetrics": [
     {
@@ -56,5 +53,5 @@
   "pwRecategorizeReason": "NO, the application is incorrectly categorized as a 'PROJECT'. This is an application from an 'INDIVIDUAL', Matthew, who identifies himself and talks about his individual contributions using personal pronouns such as 'I'.",
   "pwApplicantTypeChecked": true,
   "pwCategory": "User Experience & Adoption",
-  "applicationApprovalID": "0x09cf4d12f221b02800975408200f32b18b428c08f6796199f2b9b4a54fe86bc7"
+  "applicationApprovalUID": "0x09cf4d12f221b02800975408200f32b18b428c08f6796199f2b9b4a54fe86bc7"
 }

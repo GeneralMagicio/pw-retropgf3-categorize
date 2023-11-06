@@ -25,9 +25,7 @@
       "description": "Loom Demo - How to List and Issue Subnames with Namespace"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Subname Customization:\nWe've provided the Ethereum ecosystem with a structured naming system, offering 54 unique listed names at an average listing price of 0.16 ETH.\n\nEconomic Impact:\nOur platform has facilitated the minting of 178 subnames, generating a total of 23.10 ETH. This not only adds economic value but also utility to the ethereum ecosystem.\n\nUser Engagement:\nThe average spend per wallet for minting is 0.075 ETH, and the average earning is 0.14 ETH, promoting both user engagement and economic activity within the community.\n",
   "impactMetrics": [
     {
@@ -97,5 +95,5 @@
   "pwCategorySuggestions": "Decentralized Identity, Tokenization Platforms, Web3 Community Platform",
   "pwApplicantTypeChecked": true,
   "pwCategory": "Asset Management & Portfolio Tools",
-  "applicationApprovalID": "0x7306b6b6693b92628d6b79880298112179fba89eb4289aaa1f4423cd8eb2b49e"
+  "applicationApprovalUID": "0x7306b6b6693b92628d6b79880298112179fba89eb4289aaa1f4423cd8eb2b49e"
 }

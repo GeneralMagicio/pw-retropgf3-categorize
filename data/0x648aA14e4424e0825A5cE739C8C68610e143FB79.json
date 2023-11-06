@@ -35,10 +35,7 @@
       "description": "EthHub podcast (Into the Ether)"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION",
-    "OP_STACK"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION", "OP_STACK"],
   "impactDescription": "I have covered the Optimism ecosystem extensively through all of my educational channels - stretching all the way back to when the founding Optimism team was known as 'Plasma Group'. You can see a tweet here form 2019 where I was one of the first people to interact with an early optimistic rollup demo called 'UniPig' (https://twitter.com/sassal0x/status/1181495761281773569).\n\nThrough my coverage, I have educated tens of thousands of people about the OP Stack, Optimism's RPGF initiatives and layer 2's generally. This education also continued through conversations in The Daily Gwei Discord server where like-minded individuals discuss Optimism's strategy around the 'Superchain' and taking on a 'subtractive' development philosophy.\n\n",
   "impactMetrics": [
     {
@@ -72,5 +69,5 @@
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Blockchain Education, Content Creation, Community Building",
   "pwCategory": "Blockchain Education",
-  "applicationApprovalID": "0x9e1829323c35d18c3b5366b75922da2d966c39abf4472b29f763cf09e150a09d"
+  "applicationApprovalUID": "0x9e1829323c35d18c3b5366b75922da2d966c39abf4472b29f763cf09e150a09d"
 }

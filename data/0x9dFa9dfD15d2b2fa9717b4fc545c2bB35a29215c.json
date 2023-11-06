@@ -25,10 +25,7 @@
       "description": "OP Workshop IRL"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM",
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Our contributions have played a pivotal role in bridging the knowledge gap, enabling a broader spectrum of developers to engage with blockchain technologies without the need for extensive prior knowledge. By simplifying blockchain interaction, we have accelerated the rate of adoption and innovation on the Optimism network. \n\nOur educational initiatives, in partnership with local communities for developer workshops, have further fostered a robust developer community, expanding the pool of skilled individuals capable of contributing to the Optimism ecosystem. We generated a meeting point with developers interested in developing on Optimism, with a focus on Latin America, creating high-quality Spanish content.  ",
   "impactMetrics": [
     {
@@ -98,5 +95,5 @@
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Blockchain Infrastructure, Developer Ecosystem, Education",
   "pwCategory": "Blockchain Developer Hub",
-  "applicationApprovalID": "0xf00fb0eb4581ec63ea15fef0aff171097b14e072eb9223ee3ed3dbcc1ffe0be7"
+  "applicationApprovalUID": "0xf00fb0eb4581ec63ea15fef0aff171097b14e072eb9223ee3ed3dbcc1ffe0be7"
 }

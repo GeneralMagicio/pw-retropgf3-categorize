@@ -20,9 +20,7 @@
       "description": "Professional opportunities with optimism"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "I promote the creation of more ventures using optimism applications and create public goods that benefit the optimism ecosystem. I have participated in Twitter spaces and educational optimism events to continue learning, Then I share that knowledge in the different talks I give.\nOrganizations created in charmverse:5\nWorkshops online: 3\nWorkshops IRL: 7\nInterviews about optimism in youtube: 1",
   "impactMetrics": [
     {
@@ -72,5 +70,5 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategory": "Blockchain Education",
-  "applicationApprovalID": "0x8d2746b81e20c419e84f2148ab48fe51d028ebb53377039ed37e40f135f6feac"
+  "applicationApprovalUID": "0x8d2746b81e20c419e84f2148ab48fe51d028ebb53377039ed37e40f135f6feac"
 }

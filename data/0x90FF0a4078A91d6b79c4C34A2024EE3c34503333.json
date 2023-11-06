@@ -10,9 +10,7 @@
       "description": "Articles about Optimism and blockchain "
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Since the English language is a barrier for many people to understand blockchain or understand the Optimism project, I created a series of articles in Russian to make it easier for Russian speakers to learn about blockchain and the Optimism project.\nMy articles contribute to attracting new users.",
   "impactMetrics": [
     {
@@ -41,5 +39,5 @@
   "pwRecategorizeReason": "NO, the application is incorrectly categorized as a project while the bio suggests that the applicant is an individual (\"I'm a fan of Web 3 and decentralization.\")",
   "pwApplicantTypeChecked": true,
   "pwCategory": "International & Multilingual Support",
-  "applicationApprovalID": "0xa0b2b4ff3008a56ad78eec7d7c11b5deb1602a484de651c269de3fda04fad0a0"
+  "applicationApprovalUID": "0xa0b2b4ff3008a56ad78eec7d7c11b5deb1602a484de651c269de3fda04fad0a0"
 }

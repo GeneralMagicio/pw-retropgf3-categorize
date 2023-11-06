@@ -15,9 +15,7 @@
       "description": "Interport Cross-Chain Transfer Protocol contract"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "As a result of Interport activity and contribution on Optimsm networks, users are able to access Optimism ecosystem with no obstacles for capital migration. \n\nSo far Interport helped 3200 unique wallet addresses to migrate capital to Optimism with total amount of 25,500,000 USD.\nBeing live for less than 2 months and without much of marketing exposure yet. \n\nAs a result of own stable coin pools, Interport also creates more of sticky TVL on Optimism network and contributes to daily on chain trading volumes.",
   "impactMetrics": [
     {
@@ -69,5 +67,5 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategory": "Cross-Chain Interoperability",
-  "applicationApprovalID": "0x6a6895e360009a6b3f15b176fec8fc400567658003b2bd408228fab9e2bd2489"
+  "applicationApprovalUID": "0x6a6895e360009a6b3f15b176fec8fc400567658003b2bd408228fab9e2bd2489"
 }

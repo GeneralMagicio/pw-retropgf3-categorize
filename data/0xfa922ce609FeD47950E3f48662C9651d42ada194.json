@@ -10,9 +10,7 @@
       "description": "Website"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "We have facilitated a number of bookings between Farcaster users and sent about 0.08 eth to Purple DAO through donations. We continue to advertise and onboard users, and aim to become a tool for OP users to monetise their knowledge and expertise. Thanks",
   "impactMetrics": [
     {
@@ -38,5 +36,5 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategory": "Web3 Education & Skill Development",
-  "applicationApprovalID": "0xa1e63dbe5365f402c1a594f2867c310dbcdd55e7b7681670ef20a2820bf18bdf"
+  "applicationApprovalUID": "0xa1e63dbe5365f402c1a594f2867c310dbcdd55e7b7681670ef20a2820bf18bdf"
 }

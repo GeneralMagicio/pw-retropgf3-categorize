@@ -40,9 +40,7 @@
       "description": "A list of NFTs we have deployed on multiple chains and drew users to Optimism."
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "So far, we have amassed 46,000 followers on X, with 18,700 members on Discord, and our 20+ collections across various blockchains, predominantly on Optimism, have engaged with 28,800 wallets.\n\nWe maintain strong relationships with other protocols such as Galxe, Guild.xyz, Clique, QuestN, and Opti.domains. Furthermore, we provide support for up to 200 artists who have participated in our art contest. Several of them have already launched their first NFT collections on Optimism and OP stacks through our launchpad, receiving outstanding backing from our community.\n\nTo date, we have successfully incubated 8 collections, with a total supply of up to 35k, and all of them were fully minted within less than 2 hours during public mint events.",
   "impactMetrics": [
     {
@@ -102,5 +100,5 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategory": "NFTs, POAPs & Collectibles",
-  "applicationApprovalID": "0x9d2d5d4f6fe9b6eb701f06c046c56f54d3ea287fc76cd237d7cb03f7f34d316b"
+  "applicationApprovalUID": "0x9d2d5d4f6fe9b6eb701f06c046c56f54d3ea287fc76cd237d7cb03f7f34d316b"
 }

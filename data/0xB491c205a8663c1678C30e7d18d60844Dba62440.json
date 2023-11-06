@@ -15,9 +15,7 @@
       "description": "the code source of the project"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "I've illustrated the tangible impact of Optimism technology through OnchainPostcard. This platform serves as a real-world application, showcasing the scalability and efficiency of the Optimism blockchain. Users in the Optimism Collective now enjoy a seamless, high-performance application, benefiting from reduced transaction costs and accelerated confirmation times. Particularly noteworthy is the positive reception, as people appreciate the platform's ease in crafting and minting postcards on the Optimism stack, fostering a community that spreads love through creative expression. This actively encourages innovation and adoption within the Optimism Collective.",
   "impactMetrics": [
     {
@@ -45,5 +43,5 @@
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "NFT Aggregator, Web3 Community Platform, Blockchain Infrastructure",
   "pwCategory": "Development & Infrastructure",
-  "applicationApprovalID": "0x10afb8ffbeca9342d21e4bf30fc5ee6180de4c2e044cc8cd106ce0eb8fc7cfc7"
+  "applicationApprovalUID": "0x10afb8ffbeca9342d21e4bf30fc5ee6180de4c2e044cc8cd106ce0eb8fc7cfc7"
 }

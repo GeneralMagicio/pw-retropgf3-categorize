@@ -25,9 +25,7 @@
       "description": "AP Protocol is composed of a router based architecture"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM"],
   "impactDescription": "The category that best describes the significant impact of Public Assembly (PA) on Optimism Collective is the developer ecosystem. By creating and maintaining a robust set of open-source tools specifically designed for the Ethereum ecosystem, PA has simplified the process of developers to seamlessly navigate the complexities of application development at both protocol and full stack levels. This comprehensive suite of tools has effectively bridged the gap between  developers and the Ethereum ecosystem, fostering a dynamic and vibrant community of developers who can now leverage the power of the Ethereum protocol to build innovative and groundbreaking applications.\n",
   "impactMetrics": [
     {
@@ -79,5 +77,5 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategory": "Developer Education & Mentoring",
-  "applicationApprovalID": "0x772cd778c83db4986af453df66bd3d6f93348ec07cf134385dccef9ecb2e5780"
+  "applicationApprovalUID": "0x772cd778c83db4986af453df66bd3d6f93348ec07cf134385dccef9ecb2e5780"
 }

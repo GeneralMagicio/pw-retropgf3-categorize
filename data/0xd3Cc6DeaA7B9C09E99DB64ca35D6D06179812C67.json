@@ -10,10 +10,7 @@
       "description": "The scripts to run and install the validator node on mainnet & testnet."
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM",
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "\nValidato is designed to streamline processes that were previously manual and time-consuming. While exact time savings are yet to be quantified, the tool aims to significantly reduce the time users spend on installing the node.\n\n\nOrganizations and individuals can potentially reallocate resources more effectively. Instead of dedicating time and manpower to manual tasks, they can focus on strategic initiatives and growth opportunities.\n\n\n\n While the immediate impact is the tool itself, the long-term impact is fostering a culture of innovation and adaptability.\nAutomation reduces the chances of human error.\nWhile the exact numbers and achievements will provide a clearer picture in the future, the anticipated benefits of the Validato position it as a game-changer for the ecosystem.",
   "impactMetrics": [
     {
@@ -42,5 +39,5 @@
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Blockchain Infrastructure, Developer Ecosystem, User Experience & Adoption",
   "pwCategory": "Development & Infrastructure",
-  "applicationApprovalID": "0x0013d2c9abbc3047014a3815916ae8159058186379175c4613b1d00cbbb39864"
+  "applicationApprovalUID": "0x0013d2c9abbc3047014a3815916ae8159058186379175c4613b1d00cbbb39864"
 }

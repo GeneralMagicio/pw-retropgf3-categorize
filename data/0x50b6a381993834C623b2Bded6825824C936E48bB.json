@@ -10,9 +10,7 @@
       "description": "High level overview"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "The Ambassador program executed a mission proposal to create content for retroPGF round 2 recipients in order to drive awareness for retroPGF on Optimism. Ambassadors were able to 4x - 12x all milestones while generating over 1.6m views across Twitter and Youtube. We consider these accomplishments as going above and beyond the mission proposal and are therefore including it in our retroPGF application. \n\nIn addition to this we have provided marketing support for two projects (Clique and CryptoRefills). The CryptoRefills marketing support provided much needed marketing support to a project whom recently launched on Optimism.",
   "impactMetrics": [
     {
@@ -57,5 +55,5 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategory": "Community Building",
-  "applicationApprovalID": "0x24b3600b0d049e7bdaee893d3988bdc4b04ebb0819c2c44f693093637d96f111"
+  "applicationApprovalUID": "0x24b3600b0d049e7bdaee893d3988bdc4b04ebb0819c2c44f693093637d96f111"
 }

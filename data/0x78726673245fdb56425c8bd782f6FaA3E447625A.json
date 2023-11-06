@@ -20,9 +20,7 @@
       "description": "contract repo"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "JustCause is a state-of-the-art crowdfunding app that allows users to contribute to public goods, important charitable organizations, community projects, and numerous other causes, all while confidently preserving their initial deposit and fostering community goodwill.",
   "impactMetrics": [
     {
@@ -49,5 +47,5 @@
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Crowdfunding, Decentralized Finance (DeFi), Non-Profit Organizations",
   "pwCategory": "Grants, Capital Allocation & Onboarding",
-  "applicationApprovalID": "0x9979098a0bd42d43226f772324d159dc274ab52d4c5ed9399fdfc1b01e6f5448"
+  "applicationApprovalUID": "0x9979098a0bd42d43226f772324d159dc274ab52d4c5ed9399fdfc1b01e6f5448"
 }

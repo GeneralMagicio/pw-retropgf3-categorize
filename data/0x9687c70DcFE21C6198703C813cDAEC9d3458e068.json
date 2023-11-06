@@ -25,10 +25,7 @@
       "description": "ETHGlobal project page about Shadow Rollup"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM",
-    "OP_STACK"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM", "OP_STACK"],
   "impactDescription": "OP Stack\n- My projects showcase the modularity of the OP Stack and prove the technical feasibility of multiple types of modifications of it.\n- The Cannon prover for Concrete is a particularly good example of an instance where a VM-based rollup proof (OP Stack) is superior to a program-based one (e.g., most zkEVMs).\n- I lowered the barrier of entry for developers to to build custom rollups using the OP Stack by building some of the necessary tooling (e.g., Concrete) and setting a foundation for other forks to build on.\n\nDeveloper Ecosystem\n- I accumulated over 100k views on Twitter related to OP Stack forks.\n- My work convinced other developers to build on the OP Stack.\n- Two of my projects (ticking-optimism and ticking-conway) are featured in the OP Stack documentation.",
   "impactMetrics": [
     {
@@ -77,5 +74,5 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategory": "Development & Infrastructure",
-  "applicationApprovalID": "0x43a3dfdedf7dc7ba761c2c6c39f1ff92749ec592bdaa818dd15faf42f53d0401"
+  "applicationApprovalUID": "0x43a3dfdedf7dc7ba761c2c6c39f1ff92749ec592bdaa818dd15faf42f53d0401"
 }

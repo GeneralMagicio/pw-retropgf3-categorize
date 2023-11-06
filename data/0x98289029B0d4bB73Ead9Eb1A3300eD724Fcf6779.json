@@ -10,9 +10,7 @@
       "description": "Twitter Page for publishing articles"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "In the context of the rapid development of Layer 2 solutions (Arbitrum, ZkSync, etc.), I consistently strive to create instructional articles, introduce Optimism projects, and highlight the values they bring to users, to attract more users to Optimism Ecosystem.\n- Additionally, I emphasize the potential for users to receive valuable rewards when participating in these projects through incentive programs they received from Governance Fund.\n- I've also provided Alpha information that can entice users to contribute their funds to the ecosystem with the expectation of receiving retroactive rewards from upcoming projects.",
   "impactMetrics": [
     {
@@ -52,5 +50,5 @@
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Governance & Tokens, Developer Ecosystem, Decentralized Finance (DeFi)",
   "pwCategory": "Blockchain Education",
-  "applicationApprovalID": "0x7424d0334feb519ea48f66153ce6b3f7dfd156f2dd861c23e4c5f308c95aef41"
+  "applicationApprovalUID": "0x7424d0334feb519ea48f66153ce6b3f7dfd156f2dd861c23e4c5f308c95aef41"
 }

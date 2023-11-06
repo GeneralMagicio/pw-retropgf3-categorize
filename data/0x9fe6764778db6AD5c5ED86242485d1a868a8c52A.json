@@ -10,9 +10,7 @@
       "description": "Open source code for our project"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Our project empowers DeFi users on Optimism by providing insightful risk-reward analyses for liquidity provision across multiple protocols, including Uniswap and Perpetual Protocol. By offering this support, we aim to unlock new capital streams, thereby contributing to the accelerated growth and activity on the Optimism network.",
   "impactMetrics": [
     {
@@ -62,5 +60,5 @@
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Smart Contract Platforms, Web3 Community Platform",
   "pwCategory": "Asset Management & Portfolio Tools",
-  "applicationApprovalID": "0xf77b5c952f2a7dddc5634a1ff63a57835a6c3e72a52c133b63a2ac65c20819f0"
+  "applicationApprovalUID": "0xf77b5c952f2a7dddc5634a1ff63a57835a6c3e72a52c133b63a2ac65c20819f0"
 }

@@ -20,9 +20,7 @@
       "description": "Telegram"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "We have more then 200k views on our website monthly, telegram channel with 21k subscribers, twitter with 12,5k followers. This channel keeps users interested in the Optimism ecosystem instantly informed about promising new projects backed by renowned investors.\n",
   "impactMetrics": [
     {
@@ -66,5 +64,5 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategory": "Grants, Capital Allocation & Onboarding",
-  "applicationApprovalID": "0x1d7420159a7ae784669c6d675dd4f88acaeda9ab56d762347797b19c6422e319"
+  "applicationApprovalUID": "0x1d7420159a7ae784669c6d675dd4f88acaeda9ab56d762347797b19c6422e319"
 }

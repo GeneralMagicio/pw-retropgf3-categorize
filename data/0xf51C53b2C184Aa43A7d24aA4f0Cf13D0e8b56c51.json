@@ -65,9 +65,7 @@
       "description": "Tweet Testimony by Amadi Michaels mentioning hardhat-tracer"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM"],
   "impactDescription": "This tool has improved the ease of inspecting many situations on the EVM like finding revert causes during mainnet fork, unnecessary storage access, discovering unintended behaviour, various gas optimisations and more use cases. It has saved hours of debugging. Hence, it has gained adoption among numerous smart contract teams like 1inch, Aura Finance, Graph Protocol, Immunefi, LayerZero, Lyra Finance, Rainbow Wallet, Rareskills, Stargate, SushiSwap, UMA etc, just to name few who are related to the Optimism Collective.\n",
   "impactMetrics": [
     {
@@ -112,5 +110,5 @@
   "pwRecategorizeReason": "NO, the application should be categorized as an INDIVIDUAL because the applicant mentions that they are a smart contract engineer and they contribute to the project in their free time.",
   "pwApplicantTypeChecked": true,
   "pwCategory": "Development & Infrastructure",
-  "applicationApprovalID": "0x91411a9f53cb3d0d36f4dc6394d6d6aea81e12d9ecef2ac2225af3f9fe6d3d07"
+  "applicationApprovalUID": "0x91411a9f53cb3d0d36f4dc6394d6d6aea81e12d9ecef2ac2225af3f9fe6d3d07"
 }

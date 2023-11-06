@@ -20,9 +20,7 @@
       "description": "PR for Integration with Gitcoin Passport"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Anyone can build applications that use verified passports using Coinpassport.\n\nI made a no-code DAO construction dAPP (https://democratic.capital/) which requires all users to have verified using Coinpassport in order to make groups, launch tokens, create elections, and custom liquidity pools.\n\nI've also created a pull request for Gitcoin Passport to add a Coinpassport stamp so that users can onboard faster and easier by producing a stamp that would cost a lot to forge. I have not been able to make contact with anyone at Gitcoin about receiving feedback on this integration.",
   "impactMetrics": [
     {
@@ -58,5 +56,5 @@
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Decentralized Identity, Governance & Tokens, Developer Ecosystem",
   "pwCategory": "Digital Identity & Social Privacy Innovations",
-  "applicationApprovalID": "0x8c296435286bd1a2116dfe41c1323e27361af7931b007457bc5b754cfb6fdc55"
+  "applicationApprovalUID": "0x8c296435286bd1a2116dfe41c1323e27361af7931b007457bc5b754cfb6fdc55"
 }

@@ -20,9 +20,7 @@
       "description": "Personal github profile"
     }
   ],
-  "impactCategory": [
-    "OP_STACK"
-  ],
+  "impactCategory": ["OP_STACK"],
   "impactDescription": "Accelerated the availability of more private communication options. Supporting the transition of research to practice allows for more things like https://spiraldb.xyz/balances/  - Impact both through direct distribution of capital, and through regular talks (e.g https://speak.protocol.berlin/protocol-berg/talk/Y7HNG9/, ethCC, HCPP, etc) to bridge research results to the web3 community.",
   "impactMetrics": [
     {
@@ -58,5 +56,5 @@
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Blockchain Infrastructure, Privacy Coin, Decentralized Finance (DeFi)",
   "pwCategory": "Governance Tokenomics and Analytics",
-  "applicationApprovalID": "0x7f6cff783ec90dfbb875801ddcca2830a063ce8af7c0cd1debfea5d660b096df"
+  "applicationApprovalUID": "0x7f6cff783ec90dfbb875801ddcca2830a063ce8af7c0cd1debfea5d660b096df"
 }

@@ -10,9 +10,7 @@
       "description": "BlockBeats bulletin"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "As an editor, I joined BlockBeats (News and One of the Sharp Chinese Observers on Crypto, Web 3.0 Industry.) for two years, and I have published more than 80 news bulletins on Optimism projects and ecology, helping Optimism to build awareness in Chinese areas and keep abreast of project trends.",
   "impactMetrics": [
     {
@@ -46,5 +44,5 @@
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Media Production, Content Creation, Community Building",
   "pwCategory": "International & Multilingual Support",
-  "applicationApprovalID": "0x0aa530ea27323da4a3e87aa9318d26fdbc7ce40e9567a13cb8b65dbbeef4db3f"
+  "applicationApprovalUID": "0x0aa530ea27323da4a3e87aa9318d26fdbc7ce40e9567a13cb8b65dbbeef4db3f"
 }

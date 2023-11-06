@@ -15,10 +15,7 @@
       "description": "Auxilliary repo"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM",
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "We are raising awareness on several fronts:\n- Easy and open access to verified smart contracts\n- Benefits of Solidity's contract metadata and its appended hash in the onchain bytecode\n- Centralization in source code verification tools and providing alternatives\n\nWe support 109 EVM chains, among those using OP Stack e.g. OP networks, and Base. We also \"monitor\" those networks to catch contract creations and verify automatically if the source code is published on IPFS.",
   "impactMetrics": [
     {
@@ -68,5 +65,5 @@
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Decentralized Developer Tools, Smart Contract Verification, Open-source Development Tools",
   "pwCategory": "Developer Tools - Smart Contracts",
-  "applicationApprovalID": "0x2c95b50db5da51867c96da2c76773472d2aad9a63f473a3e8096e9b4cbf3f29b"
+  "applicationApprovalUID": "0x2c95b50db5da51867c96da2c76773472d2aad9a63f473a3e8096e9b4cbf3f29b"
 }

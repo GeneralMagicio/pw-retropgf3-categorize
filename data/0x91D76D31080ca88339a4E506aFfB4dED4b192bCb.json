@@ -20,10 +20,7 @@
       "description": "Account Factory Contract for Account Abstraction (ERC-4337)"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM",
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "I don't have any past contributions on the Optimism Collective.\nHowever, this new approach of onboarding users will help engineers to onboard millions of users without any friction. We are preparing an SDK + Contracts, which can be integrated easily into any website and onboard users instantly.",
   "impactMetrics": [
     {
@@ -52,5 +49,5 @@
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Decentralized Identity, User Experience & Adoption, Developer Ecosystem",
   "pwCategory": "User Experience & Adoption",
-  "applicationApprovalID": "0x2f2c20e60d1f327d708f2e46799a3582623ab0fac770bc1afb2b5e793f86bf83"
+  "applicationApprovalUID": "0x2f2c20e60d1f327d708f2e46799a3582623ab0fac770bc1afb2b5e793f86bf83"
 }

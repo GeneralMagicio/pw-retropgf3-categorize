@@ -10,9 +10,7 @@
       "description": "Superbridge App"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "We're giving chains the ability to launch a user friendly bridge on the same day as they launch their mainnet or testnet network. We saw the launch of Base, where users were sending funds directly to a contract on Etherscan and thought that this needn't be the UX the Superchain is striving for.\n\nOn top of basic token bridging functionality, our easy mode feature enables users to not worry about coming back to prove (2 hours later) and finalize (7 days later) their withdrawals - Fugu Works does it for them. Drastically improving the withdrawal process and cutting transactions needed from users from 3 to 1.\n\n\nOn top of basic ETH and token bridging functionality, our easy mode feature enables users to not worry about coming back to prove (2 hours later) and finalize (7 days later",
   "impactMetrics": [
     {
@@ -38,5 +36,5 @@
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Tokenization Platforms, Blockchain Infrastructure, Web3 Community Platform",
   "pwCategory": "Ethereum Core Tech Foundations",
-  "applicationApprovalID": "0x2356a899e6a3b44ae87b63f06bfc7ab385031ae5f84553b91a79809b1f42b954"
+  "applicationApprovalUID": "0x2356a899e6a3b44ae87b63f06bfc7ab385031ae5f84553b91a79809b1f42b954"
 }

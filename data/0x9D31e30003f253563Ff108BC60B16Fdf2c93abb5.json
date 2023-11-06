@@ -40,9 +40,7 @@
       "description": "Morpheus contracts for decentralized, self hostable oracles with NO intermediary"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM"],
   "impactDescription": "Scrys tools have directly enabled new, unique use cases such as Veryfi, which is a dapp that lets users verify their assets on any other chain, such as NFTs, ERC20s on other networks, allowing Optimism to attract projects on any network to it without needing their users to move assets or relaunch, allowing for easy bootstrapping and compatibility for any project that wants to use OP for new uses without full redeployment.\n\nBy enabling anyone to run their own oracle, Scry has democratized the oracle space, with full control over their data and allows for easy bootstrapping of data onto OP Stack chains (we were the first oracle deployed on Base). Developers can now access any data they need without relying on 3p providers, ensuring data integrity and reducing potential points of failure.",
   "impactMetrics": [
     {
@@ -101,5 +99,5 @@
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Decentralized Oracle Platforms, Cross-Chain Platforms, Data Infrastructure",
   "pwCategory": "Cross-Chain Interoperability",
-  "applicationApprovalID": "0x938958cbd40bff58453dad061a22b9ee0e525767622cc363bdd69af8f9b2d9c7"
+  "applicationApprovalUID": "0x938958cbd40bff58453dad061a22b9ee0e525767622cc363bdd69af8f9b2d9c7"
 }

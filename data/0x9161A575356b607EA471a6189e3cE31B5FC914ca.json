@@ -15,10 +15,7 @@
       "description": "Custom dashboard for Velodrome Finance, native Optimism DEX."
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM",
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "By offering Optimism data in our platform not only have we exposed our existing userbase to Optimism and widened the funnel for adoption, we have also provided tools for Optimism users to better understand and navigate the on-chain environment. \n\nWithout contextualised and visualised chain data, it can be hard to monitor the success of a given application or chain. Protocols and users alike have used Parsec to construct graphs/tables to monitor adoption/usage metrics and to derive key insights such as the most traded pair on Velodrome Finance.",
   "impactMetrics": [
     {
@@ -45,5 +42,5 @@
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Blockchain Infrastructure, Decentralized Finance (DeFi), User Experience & Adoption",
   "pwCategory": "Data Analytics & Insights",
-  "applicationApprovalID": "0x89f8a3ae09553252f125cb6adaf4a0f1bd75f0d46239ab0e6c659223cf24fb50"
+  "applicationApprovalUID": "0x89f8a3ae09553252f125cb6adaf4a0f1bd75f0d46239ab0e6c659223cf24fb50"
 }

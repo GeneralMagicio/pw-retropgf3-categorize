@@ -30,9 +30,7 @@
       "description": "DevCon Talk on Themes in Layer 2, synthesized from my threads."
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM"],
   "impactDescription": "By regularly summarizing and explaining the importance of new developments in the L2 space, I lower the barrier to entry for community members who want to get involved. The speed at which the Ethereum scaling space moves can make people feel like they have \"already missed\" their chance to contribute, and my threads help people catch up and figure out where they can make the most impact. \n\nAdditionally, writing these threads has allowed me to synthesize the information and provide additional education to the community, like my 2023 L2 predictions thread and my Lightning Talk at DevCon on themes and trends in Layer 2.",
   "impactMetrics": [
     {
@@ -66,5 +64,5 @@
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Layer 2 Scaling, Developer Ecosystem, Blockchain Education",
   "pwCategory": "Blockchain Education",
-  "applicationApprovalID": "0x35410b3bbfeec0b4474cf36141da039eaa8bdeea6c619ac4efa2095c934131da"
+  "applicationApprovalUID": "0x35410b3bbfeec0b4474cf36141da039eaa8bdeea6c619ac4efa2095c934131da"
 }

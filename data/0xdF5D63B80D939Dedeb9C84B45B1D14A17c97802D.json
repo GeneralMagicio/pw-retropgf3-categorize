@@ -15,9 +15,7 @@
       "description": "Example vesting contract for hair loss patient community."
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "At our DAO accelerator for patient communities, our contributions on Optimism have been twofold:\n\nToken Vesting Contract: Deployed on Optimism, this not only saved costs but also optimized transaction speeds. It promotes genuine, long-term community involvement by providing immediate voting rights to contributors, aligning with Optimism's ethos of community empowerment.\n\nNFT Badges via Otterspace: To streamline the compliance process, we used Optimism for efficient NFT minting, ensuring that sizable contributions remain transparent and trustworthy. This approach has showcased Optimism’s potential in regulatory use-cases, further diversifying its applicability.\n\nOur efforts aim to enhance Optimism's community-centric vision.",
   "impactMetrics": [
     {
@@ -49,5 +47,5 @@
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Tokenization Platforms, Blockchain Infrastructure",
   "pwCategory": "DAOs, ReFi, and DAO Tooling",
-  "applicationApprovalID": "0xf52b29dee6155d61885345fc646a2e4de3258a9a51ff96f056ce2dcae02ae530"
+  "applicationApprovalUID": "0xf52b29dee6155d61885345fc646a2e4de3258a9a51ff96f056ce2dcae02ae530"
 }

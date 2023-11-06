@@ -30,10 +30,7 @@
       "description": "ethOS community on Discord"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM",
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "ethOS gives users of Ethereum & Optimism a first-class mobile experience. Our mission is the disruption of the iOS and Android ecosystems providing undeniable value and novel and superior use cases by leveraging the Ethereum protocol. We started with an OS for Ethereum enthusiasts that could be flashed on used Pixel devices. We now sell new Pixel 7a’s preinstalled with ethOS, creating a viable “daily driver” device for first adopters within the Ethereum community. By expanding the ethOS user-base, we created a distribution network for developers of Ethereum applications that increases resistance to censorship that developers and users have been experiencing on other mobile platforms. Sending ETH on the Optimism network in the native messaging app:https://www.youtube.com/watch?v=eUTBKjPKZUE",
   "impactMetrics": [
     {
@@ -100,5 +97,5 @@
   "pwCategorySuggestions": "Decentralized Identity, End-User Experience, Blockchain Infrastructure",
   "pwApplicantTypeChecked": true,
   "pwCategory": "Wallet and wallet tools",
-  "applicationApprovalID": "0x44e382b0845c4bbe3695f5bc8218c1cf75e5c44d1868a08f10571871295ad042"
+  "applicationApprovalUID": "0x44e382b0845c4bbe3695f5bc8218c1cf75e5c44d1868a08f10571871295ad042"
 }

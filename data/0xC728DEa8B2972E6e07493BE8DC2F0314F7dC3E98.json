@@ -25,10 +25,7 @@
       "description": "Kernel v2, our online peer-learning environment. "
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM",
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Kernel's impact on Optimism is found through the fellows who interact with Optimism, the projects they build, and the impact Kernel has on their learning journey. \n\nStories of people who participated in Kernel which have directly impacted Optimism ecosystem include: \n\n- Veronica Coutts (KB1), Zain Bacchus (KB4), Tess Rinearson (KB4), and Harper Garvey (KB5) each participated in Kernel & are Optimism core contributors\n- Projects built on Optimism who participated in Kernel include $OAK (Darrell Jones, Rebecca Mqamelo), Atlantis World (Rev Miller & CJ), Coinshift (Tarun Gupta), Umbra (Ben DiFrancesco, Matt Soloman), jokedao (David Phelps) + 10 more \n\nThese people and projects have equally impacted Kernel and our ability to continue running wonderful blocks, continuing with KB8 this January.",
   "impactMetrics": [
     {
@@ -77,5 +74,5 @@
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Blockchain Infrastructure, Community Building, Developer Ecosystem",
   "pwCategory": "Web3 Education & Skill Development",
-  "applicationApprovalID": "0x1fd47d4e1eb48f9423464b8fe00c9b2c490705e138082ac5c3b8ee7aa2258d3b"
+  "applicationApprovalUID": "0x1fd47d4e1eb48f9423464b8fe00c9b2c490705e138082ac5c3b8ee7aa2258d3b"
 }

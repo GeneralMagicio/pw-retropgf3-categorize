@@ -10,9 +10,7 @@
       "description": "Optimism Educational Content Impact "
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "- Extending the knowledge of Optimism as a whole, with the reach that Lemon currently has in Latin America and the different channels to make this happen, it had a huge impact in terms of extending Optimism collective vision to the future.\n- Onboarding thousands of users that most probably did not have a direct access to the Optimism network and ecosystem by providing an easy-to-use fiat on-ramp for trading OP, ETH and USDT on Optimism network.",
   "impactMetrics": [
     {
@@ -51,5 +49,5 @@
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Web3 Onboarding, User-Friendly App, Education & Social Impact",
   "pwCategory": "Web3 Community Engagement",
-  "applicationApprovalID": "0xad78424bff63abc154f5377f9c876ed1e9f2a2c18c692854f32a383756868641"
+  "applicationApprovalUID": "0xad78424bff63abc154f5377f9c876ed1e9f2a2c18c692854f32a383756868641"
 }

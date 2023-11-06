@@ -55,9 +55,7 @@
       "description": "AW MUD Grant 50K+ from Komorebi's pocket. "
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM"],
   "impactDescription": "There are some projects.\n-Hackathon: Gave opportunity to develop and share knowledge\n-Hacker House: Made Schelling points for niche autonomous worlds/fully onchain game builders, researchers, and players.\n-AW Grant: Boosted projects in this space. Support them to move forward quickly. \n-AW UBI: Supported public good builders.  \n-R＆D: Showed different angles and innovative signals for builders. \n-Optimism: Kamigochi team switched to Optimism from Kanto after attending hacker house. And Komorebi connected them to Optimism member. Probably, Gaul would choose Optimism after Hacker House. ",
   "impactMetrics": [
     {
@@ -91,5 +89,5 @@
   "pwCategorySuggestions": "Decentralized Identity, Community Building, Developer Ecosystem",
   "pwApplicantTypeChecked": true,
   "pwCategory": "Community Building",
-  "applicationApprovalID": "0xda538dc56054ec05476e152009df9af3e1947505e067b8363dd568a0d89c739d"
+  "applicationApprovalUID": "0xda538dc56054ec05476e152009df9af3e1947505e067b8363dd568a0d89c739d"
 }

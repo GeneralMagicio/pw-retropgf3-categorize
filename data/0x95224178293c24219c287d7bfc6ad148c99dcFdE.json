@@ -20,9 +20,7 @@
       "description": "A list of current relays"
     }
   ],
-  "impactCategory": [
-    "OP_STACK"
-  ],
+  "impactCategory": ["OP_STACK"],
   "impactDescription": "Our impact on the optimism collective is indirect. 400,000 validators including members of LIDO, RocketPool and other staking providers use our services. On a daily basis, between 1-5% of all ethereum mainnet blocks are negotiated using our infrastructure. We play an important part in decentralising the network and securing L1.",
   "impactMetrics": [
     {
@@ -85,5 +83,5 @@
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Blockchain Infrastructure, Ethereum Validators, Ethereum Staking",
   "pwCategory": "Ethereum Core Tech Foundations",
-  "applicationApprovalID": "0x5c465f2cece28e1ba91ef5967549fec63f8b17212fba05e5e0117b442af554b8"
+  "applicationApprovalUID": "0x5c465f2cece28e1ba91ef5967549fec63f8b17212fba05e5e0117b442af554b8"
 }

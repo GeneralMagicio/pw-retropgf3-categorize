@@ -25,9 +25,7 @@
       "description": "Slides used during the 6 week training"
     }
   ],
-  "impactCategory": [
-    "COLLECTIVE_GOVERNANCE"
-  ],
+  "impactCategory": ["COLLECTIVE_GOVERNANCE"],
   "impactDescription": "We trained and supported the development of soft skills in active participants of the community. We are directly improving governance accessibility by supporting the design of alternatives to deal with conflicting cases and code of Conduct enforcement processes.",
   "impactMetrics": [
     {
@@ -87,5 +85,5 @@
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Community Building, Governance & Tokens, Blockchain Education",
   "pwCategory": "Web3 Education & Skill Development",
-  "applicationApprovalID": "0xb8293744bb647089c30bcee93260cef2baefefde4e2d94bac1ee7ed1516ab7cc"
+  "applicationApprovalUID": "0xb8293744bb647089c30bcee93260cef2baefefde4e2d94bac1ee7ed1516ab7cc"
 }

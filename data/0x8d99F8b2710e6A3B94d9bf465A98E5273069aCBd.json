@@ -35,9 +35,7 @@
       "description": "Components for syncing off-chain data with Dune Community Sources"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM"],
   "impactDescription": "1. The client SDKs (in multiple languages) allow data scientists and engineers to seamlessly integrate blockchain datasets into their backend workflows. This serves for automation, accounting, monitoring, marketing and possibly other purposes. Furthermore, this tooling allows Dune users to organize, manage, test and version control their queries to ensure correctness of their data insights. \n\n2. The alerting system is easily accessible and reusable for anyone in the ecosystem. It can (and has) save protocols money by detecting malicious activity. \n\n3. The Dune Sync project brings offchain data into the dune query engine so that it can be joined together with it's onchain companion data.\n\n4. My spellbook contributions utilize the above tools and bring the story of a protocol to life.",
   "impactMetrics": [
     {
@@ -92,5 +90,5 @@
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Blockchain Infrastructure, Developer Ecosystem, Data Analytics",
   "pwCategory": "Governance Tokenomics and Analytics",
-  "applicationApprovalID": "0x0217ac586cd82d3e19fb6e208aaa6a2d59b3fbbe43dc594749d1425f152a177e"
+  "applicationApprovalUID": "0x0217ac586cd82d3e19fb6e208aaa6a2d59b3fbbe43dc594749d1425f152a177e"
 }

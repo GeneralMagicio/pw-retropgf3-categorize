@@ -10,9 +10,7 @@
       "description": "Github repository of Prettier Solidity"
     }
   ],
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM"
-  ],
+  "impactCategory": ["DEVELOPER_ECOSYSTEM"],
   "impactDescription": "Prettier Solidity is used by thousands of projects to format their Solidity code. Many of these projects are deployed to Optimism.\n\nA formatter is a fundamental tool for developers: it saves time and discussions. We believe that Prettier Solidity has had a significant impact in Solidity developers productivity, including those working on Optimism projects.",
   "impactMetrics": [
     {
@@ -57,5 +55,5 @@
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Smart Contract Platforms, Developer Ecosystem, Blockchain Infrastructure",
   "pwCategory": "Ethereum Core Tech Foundations",
-  "applicationApprovalID": "0xa1ba547a93ddb2d5273ad0960f42b4c2d1a1dd92fe945b019787a937c5e9c705"
+  "applicationApprovalUID": "0xa1ba547a93ddb2d5273ad0960f42b4c2d1a1dd92fe945b019787a937c5e9c705"
 }

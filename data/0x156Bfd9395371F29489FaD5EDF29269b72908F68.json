@@ -15,9 +15,7 @@
       "description": "2. Gitcoin GG18 Proposal for funding Climate Solutions Round"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "MesoreefDAO's impact on Optimism goes beyond financial support. It embodies a commitment to environmental stewardship, envisioning a sustainable future integrated with DeSci. Our efforts empower a community of scientists, showcasing the transformative potential of Decentralized Science in coral reef conservation.\n\nThrough MesoreefDAO's adoption, we've facilitated substantial funding for projects restoring and preserving coral reefs in the Mesoamerican Reef. Using Quadratic Funding, we've provided vital financial stability, enabling projects to thrive and contribute effectively. Urging contributors to vote for Coral Reef Conservation projects highlights our dedication to safeguarding these vital marine ecosystems.",
   "impactMetrics": [
     {
@@ -62,5 +60,5 @@
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Decentralized Science, Coral Reef Conservation",
   "pwCategory": "DAOs, ReFi, and DAO Tooling",
-  "applicationApprovalID": "0xe0bf90167bf2df7b82043f0c0bf564730e5ebd506e2cacf4d44f8c3cd29cdc27"
+  "applicationApprovalUID": "0xe0bf90167bf2df7b82043f0c0bf564730e5ebd506e2cacf4d44f8c3cd29cdc27"
 }
