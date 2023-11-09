@@ -53,5 +53,6 @@
   "applicantAddress": "0x018C8a81cb02cA1a327BaefD400f75f57ea57ba2",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Developer Ecosystem, Layer 2 Scaling, Community Building"
+  "pwCategorySuggestions": "Developer Ecosystem, Layer 2 Scaling, Community Building",
+  "pwCategory": "Community Building"
 }

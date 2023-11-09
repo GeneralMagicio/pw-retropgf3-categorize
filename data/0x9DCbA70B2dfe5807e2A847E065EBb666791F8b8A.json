@@ -52,5 +52,6 @@
   "applicantAddress": "0x9DCbA70B2dfe5807e2A847E065EBb666791F8b8A",
   "pwCategorySuggestions": "Smart Contract Platforms, Developer Ecosystem, Education",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Web3 Education & Skill Development"
 }
