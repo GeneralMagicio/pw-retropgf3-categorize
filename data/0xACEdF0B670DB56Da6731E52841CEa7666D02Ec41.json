@@ -258,5 +258,6 @@
   "applicantAddress": "0xACEdF0B670DB56Da6731E52841CEa7666D02Ec41",
   "pwCategorySuggestions": "Community Building, Content Creation, Web3 Community Platform",
   "pwIsFlagged": false,
-  "pwApplicantTypeChecked": true
+  "pwApplicantTypeChecked": true,
+  "pwCategory": "Local Blockchain Communities"
 }
