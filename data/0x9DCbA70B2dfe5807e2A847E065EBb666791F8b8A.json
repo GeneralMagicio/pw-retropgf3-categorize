@@ -51,6 +51,6 @@
   "RPGF3_Application_UID": "0x7c8eb6894c320645b4c3f234631da3fbd33cd1b66ffb6fcd55e517385abd5a90",
   "applicantAddress": "0x9DCbA70B2dfe5807e2A847E065EBb666791F8b8A",
   "pwCategorySuggestions": "Smart Contract Platforms, Developer Ecosystem, Education",
-  "pwIsFlagged": true,
+  "pwIsFlagged": false,
   "pwApplicantTypeChecked": true
 }

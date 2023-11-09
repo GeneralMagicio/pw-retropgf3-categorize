@@ -64,7 +64,7 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xD131F1BcDd547e067Af447dD3C36C99d6be9FdEB.json",
   "RPGF3_Application_UID": "0x52f7491efe1ee24db5a3d2f6a988d7f575e4818666e7c1e86133d6975de2a255",
   "applicantAddress": "0xD131F1BcDd547e067Af447dD3C36C99d6be9FdEB",
-  "pwIsFlagged": true,
+  "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Non-Fungible Tokens (NFTs), Layer 2 Scaling, Blockchain Infrastructure"
 }
