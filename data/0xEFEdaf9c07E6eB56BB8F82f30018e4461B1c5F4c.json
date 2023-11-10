@@ -76,6 +76,5 @@
   "applicantAddress": "0xEFEdaf9c07E6eB56BB8F82f30018e4461B1c5F4c",
   "pwCategorySuggestions": "Community Building, Tokenization Platforms, Impact Onboarding",
   "pwIsFlagged": true,
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Grants, Capital Allocation & Onboarding"
+  "pwApplicantTypeChecked": true
 }

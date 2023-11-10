@@ -38,6 +38,5 @@
   "applicantAddress": "0x581f00D9ebef412FDaf173f14164275925c846B1",
   "pwCategorySuggestions": "Community Building, User Experience & Adoption, Governance & Tokens",
   "pwIsFlagged": true,
-  "pwApplicantTypeChecked": true,
-  "pwCategory": "Governance Tokenomics and Analytics"
+  "pwApplicantTypeChecked": true
 }
