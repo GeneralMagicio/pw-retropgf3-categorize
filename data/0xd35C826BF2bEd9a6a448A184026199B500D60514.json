@@ -15,7 +15,9 @@
       "description": "Use google scripts for Mirror content sync and store at google sheets"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "MC DAO benefits 1,790 subscribers and onboards them to Mirror. So Mirror is the biggest beneficiary as a project. Mirror is one of the most active Web3 platforms on Optimism. Our work has an indirect impact for onboarding new optimists. Creators are also beneficial from our curation but it’s hard to quantify.",
   "impactMetrics": [
     {
@@ -44,9 +46,9 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xd35C826BF2bEd9a6a448A184026199B500D60514.json",
   "RPGF3_Application_UID": "0x7ff743bfaa6a5a7c982fb76e983d668b977af06905ba9a2ffda541ea055b91e8",
   "applicantAddress": "0xd35C826BF2bEd9a6a448A184026199B500D60514",
-  "pwIsFlagged": false,
+  "pwIsFlagged": true,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Content Creation, Community Building, Web3 Community Platform",
-  "pwCategory": "DAOs, ReFi, and DAO Tooling",
-  "applicationApprovalUID": "0x6565449e46eba1283b32efd00d98c22aa9c43ccfb2edc7c79747e311a04284c9"
+  "applicationApprovalUID": "0x6565449e46eba1283b32efd00d98c22aa9c43ccfb2edc7c79747e311a04284c9",
+  "pwFlaggedReason": ""
 }

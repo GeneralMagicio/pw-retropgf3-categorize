@@ -35,7 +35,10 @@
       "description": "Autobribes for Velodrome contract"
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "While Autobribes still has a low TVL, I'm convinced it can bring new liquidity providers to Velodrome which is the leading DEX of Optimism.\nMany retail liquidity providers are interested in being paid with real yield instead of farm & dump. Autobribes offer this service while contributing to the Velodrome ecosystem.\n\nOn the developer ecosystem side, I've forked and improved the \"Reliquary system\" from byte masons. This is a staking smart contract that rewards long term participants.\nBy integrating the Reliquary with Velodrome, I've contributed to bring a new DeFi primitive that can be used as a layer on top of any ve(3,3) DEX.",
   "impactMetrics": [
     {
@@ -67,6 +70,5 @@
   "pwRecategorizeReason": "NO, this application is miscategorized. Applicant talks about a project called \"Optimism Prime\" and \"Autobribes protocol\" which indicates this should be categorized as a \"PROJECT\".",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Developer Ecosystem, Smart Contract Platforms",
-  "pwCategory": "DeFi, Decentralized Finance",
   "applicationApprovalUID": "0xe166384404f3f711dc62738c7ae7493865b8130bfb02d281a97c0fd3a31e9705"
 }
