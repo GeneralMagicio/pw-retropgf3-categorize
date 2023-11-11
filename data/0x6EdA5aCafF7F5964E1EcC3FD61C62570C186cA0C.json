@@ -15,7 +15,9 @@
       "description": "Link to Badgeholder Speed Networking Annoucement"
     }
   ],
-  "impactCategory": ["COLLECTIVE_GOVERNANCE"],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
   "impactDescription": "These calls have become a pillar of Optimism Governance infrastructure, and have had an outsized impact as the main place where governance decisions are made and important updates and announcements are shared. Many impactful decisions were facilitated by these calls; for example a large number of improvements to missions being implemented in Season 5 stemmed directly from community feedback on call #23. In addition, these calls have helped transition many delegates from new to active-and-contributing by being the go-to place for onboarding. The pitch session for mission proposals aided delegates in making better voting decisions for the batch of missions. The speed-networking for badgeholders fostered connection amongst a diverse group of individuals centered around Optimism.",
   "impactMetrics": [
     {

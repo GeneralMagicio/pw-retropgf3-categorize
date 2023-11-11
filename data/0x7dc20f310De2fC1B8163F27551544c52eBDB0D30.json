@@ -25,7 +25,9 @@
       "description": "Deployed Optinames ENS Offchain Resolver"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "1. A substantial 7,615 Optimism users have successfully acquired ENS names via Optinames.\n\n2. Optinames has played a pivotal role in facilitating the registration of a remarkable 25,357 ENS names on OP Mainnet.\n\nThese statistics highlight the tangible impact of Optinames in making ENS names accessible and widely adopted on the Optimism network, enhancing the user experience and contributing to the growth of the ecosystem.\n",
   "impactMetrics": [
     {

@@ -25,7 +25,9 @@
       "description": "Rhino Manta bridge contract"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "Rhino has worked with OP Stack core teams and Caldera to launch the rhino super-fast bridge on Day-1 of their mainnet launches so that early adopter users have a frictionless way of on-boarding to new OP Stack chains. Examples include bring the first third part bridge to deploy on opBNB, Base and Manta, The rhino bridge has also been deployed on Optimism mainet, and several upcoming OP Stack chain testnets . The rhino bridge connects these L2s with a total of 12 L2s & chains meaning users can easily on board to OP Stack chains without touching Ethereum Layer 1. This is important to ecosystem growth as it allows projects to on-board communities in a frictionless and cost-efficient manner. ",
   "impactMetrics": [
     {

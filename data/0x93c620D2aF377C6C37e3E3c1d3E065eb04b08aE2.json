@@ -15,7 +15,10 @@
       "description": "Command line tools for the Farcaster power user and developer."
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "farcaster-py and fario are important parts of a Python-base toolchain that will allow Python developers to build for Farcaster. Python is very important in this case as developers building/integrating AI tools and apps often use Python. Since Farcaster is a social network, AI applications can bring value in ways we can't define yet.",
   "impactMetrics": [
     {

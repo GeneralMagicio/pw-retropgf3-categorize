@@ -15,7 +15,9 @@
       "description": "optimism-radiating base-chain NFT celebrating Base chain"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "These NFTs expand the Sunny-verse with optimistic characters who:\n1. Celebrate the launch of new op-stack chains\n2. Give people an delightful way to mint their first Zora-chain and Base-chain NFT\n3. Spread the OP brand and meme of Sunny, the unofficial (I believe!) optimism mascot\n4. As onchain SVGs, this animated art can be code-inspected, copied and riffed on\n\nMost importantly, the art and the description text present the work and the chains they're  deployed on as territory for wholesome enthusiasm, onchain creativity, and a positive message to builders and minters: You got this! You can do it! Go get it! Stay optimistic!",
   "impactMetrics": [
     {

@@ -30,7 +30,9 @@
       "description": "Twitter Profile"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "Since the launch, we've seen more than 31k deployed tokens and more than 90k visitors to the page. Posted YouTube videos have thousands of views. \n\nOur work helped people create their tokens without relying on complicated processes and shady interfaces. By giving everyone the power to create tokens while teaching them best practices around liquidity, we made users more aware of the technology and, in turn, more resistant to fraudulent behaviors.",
   "impactMetrics": [
     {

@@ -30,7 +30,9 @@
       "description": "Education on Optimism, Public Goods, RPGF, and OP stack"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "By targeting communities and creators with massive audiences, I help more communities take notice of Optimism, Public Goods, RPGF so they are encouraged to interact and/ or build on OP stack. A big focus of my work is helping these creators and communities reflect their impact onchain though free mints (like POAP), completion certificates, blogs on mirror, etc",
   "impactMetrics": [
     {

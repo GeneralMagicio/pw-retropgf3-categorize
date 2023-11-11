@@ -10,7 +10,9 @@
       "description": "Articles about Optimism and blockchain "
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "Since the English language is a barrier for many people to understand blockchain or understand the Optimism project, I created a series of articles in Russian to make it easier for Russian speakers to learn about blockchain and the Optimism project.\nMy articles contribute to attracting new users.",
   "impactMetrics": [
     {

@@ -15,7 +15,10 @@
       "description": "Bedrock Contracts Architecture Diagram"
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM", "OP_STACK"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "OP_STACK"
+  ],
   "impactDescription": "We could not track the impact of this contribution. However, if it is included as part of the official documentation and shown on the right channels, it will help others understand how the contracts interact with each other way faster and easier.           ",
   "impactMetrics": [
     {

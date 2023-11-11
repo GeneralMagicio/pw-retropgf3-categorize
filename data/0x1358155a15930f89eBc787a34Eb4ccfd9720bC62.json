@@ -20,7 +20,9 @@
       "description": "Webapp"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "Farcaster recently deployed on Optimism Mainnet their registry contract so I heard any projects built in the Farcaster ecosystem might be eligible for RetroPGF. I built an OpenSource tool to navigate the Farcaster community with plain-english prompts. You can ask Findcaster things like \"Find me people who are interested in AI\" and then connect with them through some of the Farcaster existing clients. Next steps I want to take with the projects are around becoming an actual client as well, allowing people to connect with their Farcaster account and contact people directly through my tool, or maybe with XMTP. Another interesting thing to explore is to offer this service as an API or SDK that other applications can use to offer a smart user search to their users/customers.",
   "impactMetrics": [
     {

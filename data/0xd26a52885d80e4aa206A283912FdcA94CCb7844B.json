@@ -20,7 +20,9 @@
       "description": "the app"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "We contributed directly to the Optimism ecosystem by deploying a P2P permissionless lending protocol. \nOur project also contributed by educating users about the benefits of prioritizing decentralized platforms. \n1/PWN publishes the cryptonative economy reports to detail the self-sufficiency of our economy. We did one deep-dive on the origin of the fees generated for the year 2022 on Optimism inspiring readers to become cryptonative. We brought the cryptonative economy reports into local communities. We were published in the French media Le Journal Du Coin and interviewed by Czech podcasts.\n2/We also have an ongoing series of interviews with cryptonatives.\n3/We maintain gm.events. It's a page for crypto natives to list their value-aligned events for free. \n",
   "impactMetrics": [
     {

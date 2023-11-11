@@ -20,7 +20,9 @@
       "description": "Official support on Tenderly for Base released"
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
   "impactDescription": "Projects using Tenderly on Optimism have been executing 100.000+ events/month on average (this includes running simulations and creating forks, alerts, web3 actions, debugging, gas optimizations, etc). 8 out of 10 leading projects on Optimism rely on our services.\n\nThere are also several projects that heavily rely on our Web3 Gateway (hosted node service), most notably Yearn, Zora, thirdweb, Endaoment, DeFi Yield, Frax, Kwenta with 250.000.000+ compute units spent in total between them per month.\n\nIn a bid to support the Superchain, Tenderly also integrated Base from day one, where projects are already executing more than 200.000.000+ compute units per month.",
   "impactMetrics": [
     {

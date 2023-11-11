@@ -25,7 +25,9 @@
       "description": "Blog post from a customer showing one of the main use case of Ethernal"
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
   "impactDescription": "A lot of new developers have been using Ethernal when they get started as it easier to understand blockchains when you can see what's going on through a dashboard that connects to your local development chain.\n\nDevelopers are already using Ethernal to develop smart contracts that have been deployed on Optimism. It has sped up their development time by providing them with a set of basic tools (transactions visualisation + contract interaction) that allows them to focus on building their contracts, instead of spending time on various \"quality of life\" scripts.",
   "impactMetrics": [
     {

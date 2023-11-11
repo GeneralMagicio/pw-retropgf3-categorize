@@ -25,7 +25,10 @@
       "description": "surr.eth"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION", "OP_STACK"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
   "impactDescription": "Maximizing user numbers on Optimism:\n- With the success of Surreal's App Store launch (1k users in a month, 12k waitlist, $22k Membership pass sales), we have a strong user base ready to engage.\n- Offering daily free mints on Optimism promotes consistent user activity.\n- Native minting in our app improves UX, attracting a wider audience and showcasing Optimism's benefits.\n\nFostering user-centric tech development:\n- Our product bridges the gap for retail users, offering a user-friendly L2 mobile experience.\n- Collaborations with retail brands spotlight Optimism's potential.\n- An Optimism-focused approach can onboard users directly into the Optimism ecosystem, prioritizing its growth.",
   "impactMetrics": [
     {

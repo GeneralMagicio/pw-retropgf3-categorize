@@ -15,7 +15,9 @@
       "description": "48 analyzing & news content on OP Stack Layer 2 chains"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "Our dashboards and content targeted fully to end-users, keeping them posted about the new OP Stack Layer 2 chains, potential retroactive programs, NFT minting campaigns, etc. We gave a helping hand in educating users about, boosting brand awareness of, and acquiring users to join Base, Zora Network, Mantle Network, PGN, opBNB, DeBank (the chains & projects built on & programs run on the chains). \n\nOur over 50 dashboards and content reached nearly 2,000 crypto users in the local Vietnam market and 2,000 crypto users in the global market, hitting in total 20,000 views on social networks. Our dashboards (Base’s Onchain Summer visualization and Mantle Network) were applauded by Jesse Pollak (Base), trending on Dune site, and used in a number of deep-dive posts by Crypto Twitter researchers. \n",
   "impactMetrics": [
     {

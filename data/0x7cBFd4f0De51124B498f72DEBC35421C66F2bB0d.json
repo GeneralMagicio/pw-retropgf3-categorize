@@ -25,7 +25,10 @@
       "description": "DeFi Llama"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION", "OP_STACK"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
   "impactDescription": "Optimism Specific\n\n$400M+ trading volume (~10% of daily Optimism DEX volume)\nResponsible for $64M of assets cross-chain swapped (442,551 tx)\nLeading single-sided yield on OP \nSupported withdrawals and deposits on our centralized exchange WOO X \nRanked #7 of all Optimism dapps by MAU\nRebated $12,500 to aggregators\nLed a quest which brought 30k+ onchain\nRan a campaign with Cyberconnect rewarding 10,000 Optimism users\nWOOFi Pro built on OP Stack\nRanked #7 by MAU on Optimism \n \nBase Specific\n\nAchieved $14M+ trading volume\nRanked #9 Base dapps by MAU\nFacilitated $1M of assets cross-chain swapped in and out of Base\nBecame the first project to use an embedded Layer3 quest to bring users into Base\nOne of the earliest adopters of Base testnet (March 16th) and Mainnet (August 15th)",
   "impactMetrics": [
     {

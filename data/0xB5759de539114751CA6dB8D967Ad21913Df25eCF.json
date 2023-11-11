@@ -39,5 +39,6 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO, the application is categorized as a \"PROJECT\" but it should be \"INDIVIDUAL\" as the application talks about \"I\" and \"me\", indicating it's an individual's work.",
   "pwApplicantTypeChecked": true,
-  "pwCategory": "International & Multilingual Support"
+  "pwCategory": "International & Multilingual Support",
+  "applicationApprovalUID": "0x21a961b132e3305cd199a7d70872c61961cbd5c65b30a318d1402e469d1eeef0"
 }

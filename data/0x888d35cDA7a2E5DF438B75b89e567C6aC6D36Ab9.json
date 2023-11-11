@@ -15,7 +15,9 @@
       "description": "Documentation"
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
   "impactDescription": "Benefits: The primary benefit of indexed.xyz is that it increases data accessibility for Optimism chains, with all of the pre-work (indexing & decoding) done by indexed.xyz. In addition, costs to developers are lowered by enabling them to use their existing storage and compute (ie. laptops & local devices), making chain-level analytics use cases that would otherwise be prohibitively expensive, possible.\n\nImpact: Because we require no account to download data, have any trackers to collect information, and one of the primary use cases for indexed.xyz is offline / local analytics, much of the usage of indexed.xyz is not publicly visible outside of data download volume (outlined in the \"impact metrics\" section below).",
   "impactMetrics": [
     {

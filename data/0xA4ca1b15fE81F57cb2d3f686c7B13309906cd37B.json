@@ -15,7 +15,10 @@
       "description": "Dinosours NFT Collection"
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "My contributions have primarily centered around elevating the developer experience, constructing new tooling, and fostering a supportive community, which collectively propel the broader adoption and evolution of Optimism. The tools and support provided have not only simplified the development process but also catalyzed the transition of new developers into competent contributors within the ecosystem. The financial support for deployments and ENS purchases has been instrumental in alleviating initial cost hurdles faced by emerging developers, thereby encouraging a more robust participation and experimentation on the Optimism network.\n",
   "impactMetrics": [
     {

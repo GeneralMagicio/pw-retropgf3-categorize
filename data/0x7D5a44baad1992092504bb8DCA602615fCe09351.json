@@ -20,7 +20,9 @@
       "description": "Leaderboard"
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
   "impactDescription": "The Ethernaut is a hub for developers to understand smart contract security. It is also a key resource for new blockchain security researchers entering the field.\n\nIn the game, players’ skills are measured and recognized through a public leaderboard where they can link their contact details and build a reputation. Each network has its own leaderboard.\n\nThe game is always expanding with a current total of 29 distinct levels, where in each one of them, the player is engaged in a gamified experience that involves researching and exploiting a vulnerability in the contract.",
   "impactMetrics": [
     {

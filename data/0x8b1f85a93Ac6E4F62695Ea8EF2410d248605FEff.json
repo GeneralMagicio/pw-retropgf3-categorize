@@ -20,7 +20,9 @@
       "description": "Subname Registrar Contract"
     }
   ],
-  "impactCategory": ["OP_STACK"],
+  "impactCategory": [
+    "OP_STACK"
+  ],
   "impactDescription": "We have worked to support ENS on OP Stack L2s by enabling anyone with an ENS name to offer subnames on L2s, e.g. tom.avid.eth. We have created and shared publicly our working open source code, including smart contracts and a front end demo showing a custom ENS subname registration system on OP Stack. We have also worked to develop the long term roadmap of ENS on L2s including registrations of .eth second level names, such as vitalik.eth. We have consistently advocated and shared our demos and open source code in the ENS community, including attending the weekly ENS DAO ecosystem call and attended Ethereum conferences this year including Eth Denver, Eth Waterloo, Eth CC, where we have engaged in onboarding developers to ENS and to using ENS on OP Stack L2s using our open source codebase. ",
   "impactMetrics": [
     {

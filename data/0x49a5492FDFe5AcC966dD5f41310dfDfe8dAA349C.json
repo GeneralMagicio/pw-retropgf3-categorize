@@ -70,5 +70,6 @@
   "pwRecategorizeReason": "NO, this application is miscategorized. Applicant talks about a project called \"Optimism Prime\" and \"Autobribes protocol\" which indicates this should be categorized as a \"PROJECT\".",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Developer Ecosystem, Smart Contract Platforms",
-  "applicationApprovalUID": "0xe166384404f3f711dc62738c7ae7493865b8130bfb02d281a97c0fd3a31e9705"
+  "applicationApprovalUID": "0xe166384404f3f711dc62738c7ae7493865b8130bfb02d281a97c0fd3a31e9705",
+  "pwCategory": "DeFi, Decentralized Finance"
 }

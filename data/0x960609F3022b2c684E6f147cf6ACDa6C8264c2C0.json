@@ -10,7 +10,9 @@
       "description": "Web3js repo"
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
   "impactDescription": "The web3.js library has significant impact on developers working with EVM blockchains including Optimism network. Web3.js has around 2 million downloads per month on NPM, and 10+ million CDN hits per month. There are 4500+ library projects depending on web3.js library. ",
   "impactMetrics": [
     {

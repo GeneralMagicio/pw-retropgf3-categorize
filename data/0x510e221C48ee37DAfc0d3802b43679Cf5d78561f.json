@@ -20,7 +20,9 @@
       "description": "Follow on events"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "Zuzalu addresses intricate crypto and tech challenges, disseminating insights through 80+ virtual talks. Our mini-hackathons foster open-source tool development, and our playbook guides web3 communities in creating real-life hubs, of which four have already been created and there are another two that have been planned. Serving as an innovation lab, we test projects like ZuPass for wider adoption like for DevConnect. The Hypercerts RPGF experiment saw over 235 addresses funding 21.10 ETH, rewarding volunteer work. Meanwhile, Tripsha launched a novel open-source pop-up cities ticketing solution with crypto payments used by over 280 people. We have heard from many participants that Zuzalu was both life and career changing. In a way that catapulted people forward many years in their career. ",
   "impactMetrics": [
     {

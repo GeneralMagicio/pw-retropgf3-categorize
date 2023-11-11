@@ -45,7 +45,9 @@
       "description": "Article - faster speeds for users"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "We are now consistently supporting around $2MM in daily bridge volume heading TO Optimism and have a cumulative volume bridged TO Optimism of $407,991,721. We've seen 89,977 unique users bridging TO Optimism with Across. \n\nIn a direct comparison of bridge fees between third-party bridges, Across saves users between 32 - 75%. This tweet thread by Across founder, Hart Lambur, describes how Across saves users by being extremely gas efficient in design (https://x.com/hal2001/status/1712839125051863252?s=20). \n\nAdditionally, Across consistently provides users with the fastest fill times. In fact, the only competitor that beats across in L2 - L2 fees has a huge time cost tradeoff, which can be seen in the spreadsheet provided in the metrics section below. ",
   "impactMetrics": [
     {

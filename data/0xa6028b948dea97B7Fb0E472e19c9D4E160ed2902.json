@@ -81,5 +81,6 @@
   "pwRecategorizeToType": "INDIVIDUAL",
   "pwRecategorizeReason": "NO. The application is from an individual (the creator of Optiland Quests) but it is categorized as a \"PROJECT\".",
   "pwApplicantTypeChecked": true,
-  "applicationApprovalUID": "0x0121ef4e9b7106ceaccdbb3196e12b5767386ae7647642ef791f88e233fa1528"
+  "applicationApprovalUID": "0x0121ef4e9b7106ceaccdbb3196e12b5767386ae7647642ef791f88e233fa1528",
+  "pwCategory": "Web3 Education & Skill Development"
 }

@@ -40,7 +40,9 @@
       "description": "Research Article - \"Web3 Airdrop Playbook (Feat. Optimism vs. Arbitrum)\""
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "We've significantly expanded OP's brand awareness and educated both Web3 and Web2 B2B users. With a strong reputation in traditional industries, Xangle has introduced OP to both B2C & B2B users.\n-On-chain Analytics: Has attracted 1.3k+ users monthly since APR 2023, emphasizing Optimism's importance.\n-Research: Our reports have reached many users through Xangle and various media & channel partners. Some reports garnered 86k+ views.\n-Base Explorer: While we offer advisory to major Web2s, we emphasized our capability to support an explorer for companies entering to Base, positioning Base as a mainnet partner, thereby encouraging widespread adoption to OP Stack.\n-Event: We've covered 39 OP ecosystem key events with an average of 0.6k views per event, reaching 23.4k general Web3 and B2B users.",
   "impactMetrics": [
     {

@@ -10,7 +10,9 @@
       "description": "0xebcaae4af6844b5f24a4730c5f58130977e62a2b#code"
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
   "impactDescription": "The deployment makes something tought as possible only through precompiles with pure solidity code. While some less efficient implementation are available there and there, our precomputation version remains at least x5 cheaper than our competitors.\n\nIt also makes secp256r1 as a candidate for EIP4337 custom signer, to couple with the secure enclave of a smartphone. Now available on Optimism.",
   "impactMetrics": [
     {

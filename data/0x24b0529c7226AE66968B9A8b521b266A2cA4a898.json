@@ -10,7 +10,10 @@
       "description": "Layer 2 Weekly Roundup website"
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "The Layer 2 Weekly Roundup was founded as a public good to help educate both the Ethereum and wider crypto communities about the benefits of Layer 2 scaling solutions.\n\nThe roundup has contributed to Optimism and other Layer 2 solutions by providing both users and developers with valuable information to keep them updated on everything that is happening across Ethereum's Layer 2 ecosystem. The roundup covers a variety of categories, such as protocol, ecosystem, media, and events.\n",
   "impactMetrics": [
     {

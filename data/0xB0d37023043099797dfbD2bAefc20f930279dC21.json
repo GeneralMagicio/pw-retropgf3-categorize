@@ -15,7 +15,10 @@
       "description": "News and crypto content focused on Optimism and Base Network"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION", "OP_STACK"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
   "impactDescription": "Make crypto enthusiasts get to know Optimism and Base more through news, campaigns, various quests of the network and various ecosystem projects.\n\nI was also voted 2nd best educator in the Optimism Ambassador program by @Subli_Defi https://twitter.com/Subli_Defi/status/1676507895897391105",
   "impactMetrics": [
     {

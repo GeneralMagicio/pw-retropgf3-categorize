@@ -15,7 +15,9 @@
       "description": "The Ecosystem Project Idea"
     }
   ],
-  "impactCategory": ["COLLECTIVE_GOVERNANCE"],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
   "impactDescription": "The Attestation Visualiser helps boost governance engagement in the Optimism Collective by making complex relationships in the RetroPGF ecosystem clearer for the Optimism Citizens. Using the ThreeGraph module to create a 3D graph, it makes understanding relationships among badgeholders easier. Features like Highlight Paths and ENS improve navigation and identification, making governance more accessible and engaging.\n\nWhile we're still waiting on user engagement metrics, the Visualiser aims to promote inclusivity and a more interactive governance experience in the Optimism Collective by improving understanding and engagement.",
   "impactMetrics": [
     {

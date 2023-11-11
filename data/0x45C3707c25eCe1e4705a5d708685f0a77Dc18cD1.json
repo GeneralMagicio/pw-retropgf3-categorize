@@ -15,7 +15,9 @@
       "description": " Moderator and helper on a French community discord of 2000 people"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "Thanks to the help provided on Discord, many people were able to avoid interacting with malicious contracts. In addition, I was also able to help people achieve their goal, which they sometimes had difficulty achieving (whether it was deploying a contract, stacking tokens, swap or wrap, bridge...)",
   "impactMetrics": [
     {

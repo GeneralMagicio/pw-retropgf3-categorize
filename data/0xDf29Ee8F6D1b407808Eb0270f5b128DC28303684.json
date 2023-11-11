@@ -25,7 +25,9 @@
       "description": "Discord"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "We have enabled the adoption of DeFi on ethereum and optimism through our various meetups and discussions on our discord. We've brought optimism to a wide audience through our educational content. In addition, numerous discussions on the optimism collective and op stack technologies have been held within our French-speaking community.",
   "impactMetrics": [
     {

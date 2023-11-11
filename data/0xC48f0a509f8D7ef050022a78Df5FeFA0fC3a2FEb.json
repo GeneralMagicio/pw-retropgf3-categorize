@@ -15,7 +15,10 @@
       "description": "Telegram post"
     }
   ],
-  "impactCategory": ["COLLECTIVE_GOVERNANCE", "OP_STACK"],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "OP_STACK"
+  ],
   "impactDescription": "Supported the development of the quest video ecosystem; I have one of the most viewed videos in the CIS space.\nhttps://www.youtube.com/watch?v=VlguxLS9jTs  (15k views)\n\n One of the first to talk about your voting platform and encouraged his audience to delegate votes to me. \nhttps://t.me/promintsecret/108 (4.4k views)\n\nhttps://vote.optimism.io/delegate/bakfard.eth\n\nI actively participate in the life of the ecosystem and attract my readers.",
   "impactMetrics": [
     {

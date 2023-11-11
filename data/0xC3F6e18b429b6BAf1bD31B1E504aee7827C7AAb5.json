@@ -10,7 +10,9 @@
       "description": "open source Map for ETH communities (adopted by LatAm Chapters)"
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
   "impactDescription": "As L2 supporters, we always mentor new projects to run their DApps on either Optimism or Arbitrum, and network them to get in touch with core developers in the OP collective. We also provide educational modules for crypto newbies in our country and feature demos on all L2s",
   "impactMetrics": [
     {

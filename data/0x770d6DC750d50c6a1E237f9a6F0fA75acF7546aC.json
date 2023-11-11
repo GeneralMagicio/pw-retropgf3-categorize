@@ -25,7 +25,9 @@
       "description": "Research Discussion Threads"
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
   "impactDescription": "These efforts enriched the project's legacy, fostered discussion culture, and either resolved practical issues or explored solutions.\n\nIn the Wanna-TechNerd channel, two active developers were recommended by me, boosting engagement and project support.\n\nA common process for resolving longstanding issues: I initiated this process for 'Adding node for OP stack chain' and 'debug geth', addressing challenges and improving issue resolution culture.\n\nI've collected and shared questions and authoritative answers in 'wanna-techNerds', enhancing knowledge management.\n\nBeneficiaries: Developers, TechNerds Project, OP Collective.",
   "impactMetrics": [
     {

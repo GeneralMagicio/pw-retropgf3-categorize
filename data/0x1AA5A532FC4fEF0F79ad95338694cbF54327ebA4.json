@@ -10,7 +10,10 @@
       "description": "Mentoships descriptions, replies are hidden to keep everyone privacy."
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM", "OP_STACK"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "OP_STACK"
+  ],
   "impactDescription": "EthernautDAO provides high-level developers to the ecosystem by migrating senior web2 devs into Optimism. We do tailor mentorships and while we are chain agnostics the last year we have fully focused our efforts on Optimism. We don't charge Mentors or Mentees, this is a free service we consider a public good. We live on donations and use the funds to keep mentors engaged.",
   "impactMetrics": [
     {

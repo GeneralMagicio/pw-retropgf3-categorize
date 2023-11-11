@@ -67,5 +67,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Non-Fungible Tokens (NFTs), Layer 2 Scaling, Blockchain Infrastructure",
-  "pwCategory": "NFTs"
+  "pwCategory": "NFTs",
+  "applicationApprovalUID": "0x00129cda3549f0230e7b7868745bdd11085164ede251ca9c5b2dd5af720d60e8"
 }

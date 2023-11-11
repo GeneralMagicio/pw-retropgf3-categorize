@@ -10,7 +10,9 @@
       "description": "All sound tracks and contributions are public on Optimism contract"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "It's clear that people love to collect our music. We love to collect people's music too. Yey for the Optimistic marketplace. A lot of our collectors are first timers. That means our art inspires an onboards people to the ecosystem. We are also onboarding new artists and introducing them to Optimism by donating them their first $2-3 of eth to deploy their contracts. ",
   "impactMetrics": [
     {

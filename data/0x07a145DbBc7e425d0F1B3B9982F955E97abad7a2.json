@@ -10,7 +10,9 @@
       "description": "Main Development Repository"
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
   "impactDescription": "Dasy has performed well as an experimental language, already matching the features and gas performance of more mature languages. It has also been a playground for brainstorming syntax features that may or may not make it into Vyper eventually. Because of its lispy nature, these syntax features can be implemented easily as compile-time Dasy macros. If they're good, more robust support can make it into either Dasy or potentially even Vyper itself.",
   "impactMetrics": [
     {

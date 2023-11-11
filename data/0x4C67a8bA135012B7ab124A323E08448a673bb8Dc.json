@@ -15,7 +15,9 @@
       "description": "Our application's github repo."
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "We envision the Optimism dashboard being the go-to resource for community members since the entire Optimism ecosystem is aggregated into one UI on Alphaday. This makes it a very attractive on-boarding tool for new developers as the dashboard will contain beginner resource material, documentation, grants, bounties, open positions in community projects, on-chain tools and much more.",
   "impactMetrics": [
     {

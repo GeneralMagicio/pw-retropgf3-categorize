@@ -20,7 +20,10 @@
       "description": "API for OP prices and large token transfer."
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "OpTracker allows users to track large OP token transfers in real-time. The site aims to label known OP wallets. All the data is easily accessible through an open API. Users are integrating our price API into their Google Sheets. The site has just recently launched, but I can see the user metrics growing daily.",
   "impactMetrics": [
     {

@@ -35,7 +35,10 @@
       "description": "Newport Upgrade of the AMM"
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "Lyra solved fundamental problems for traders in defi with unified liquidity, competitive pricing, improved gas costs, and two-sided, reliable option liquidity, offereing LPs passive, risk-adjusted yield, and improved UX by mitigating IL and risk management.\n\nLyra onboarded numerous developers to OP with developer tooling (Javascript SDK, Docs, Grants), and offered stable, reliable options liquidity programmatically. This led to multiple protocols integrating: Polynomial, Brahma, dSquared, dHedge, Torros, Otus Finance, Strands along with trading interfaces: Kwenta, Sharwa Finance (Dede Lend), data providers: Amber Data, Laevitas, and Aggregators: Teal Finance, stradle.xyz. Enhancing the OP Community with education, trading comps, co-marketing, onboarding incentives, and poker tournament ",
   "impactMetrics": [
     {

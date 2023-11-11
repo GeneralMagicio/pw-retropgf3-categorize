@@ -15,7 +15,9 @@
       "description": "Educational workshop for BASE with SEA developers community"
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
   "impactDescription": "Generate awareness and strong interest in building on Base - one of the most important partnering ecosystems to Optimism. With a combined approach of education, office hours, AMA and community engagement, we were able to gather in total 200+ audience (150+ for workshop and 100+ for office hours)  to understand about how to build on BASE and demonstrate their use cases on Base.",
   "impactMetrics": [
     {

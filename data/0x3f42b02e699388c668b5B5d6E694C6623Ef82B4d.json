@@ -20,7 +20,9 @@
       "description": "List of contract addresses deployed on Optimism"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "We created an opportunity for Optimism protocols, who otherwise wouldn’t be able to, to get their protocol and deposit assets listed on a lending protocol. Additionally, VMEX is a reliable & risk focused place for users to borrow against and maximize rewards on their staked LP and vault assets. This adds desired utility that is beneficial to both the protocols and users.\n\nSo far we have built out support for Beethoven, Aura, Velodrome, Yearn, Curve, and Beefy LP / Vault positions and have more in the works! \n\nAlthough we may have a small base of TVL now, we are just starting to ramp up our marketing and plan to roll out an incentives program to onboard new users",
   "impactMetrics": [
     {

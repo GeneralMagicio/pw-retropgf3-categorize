@@ -20,7 +20,9 @@
       "description": "The UI prototype I've  used to show companies using farcaster"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "Doing the research and design work to build a better business interface for Farcaster brings us one step closer to making B2B all happen onchain. \n\nOrganizing meetups and hosting podcasts about Farcaster helped to strengthen the community in the early days. ",
   "impactMetrics": [
     {

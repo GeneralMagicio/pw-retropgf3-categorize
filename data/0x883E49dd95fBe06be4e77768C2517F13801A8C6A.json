@@ -10,7 +10,10 @@
       "description": "information related to Remix CC."
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "The contributions of the Remix Chinese community can help lower the entry barrier for Chinese users to participate in OP network development, enabling OP developers to engage more effectively in the construction of the OP network, and promoting the flourishing development of the OP network.",
   "impactMetrics": [
     {

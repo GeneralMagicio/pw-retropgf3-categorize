@@ -20,7 +20,9 @@
       "description": "Translator Data & Address"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "Translated content allows the Optimism collective to diversify its members and be more accessible to the global markets and communities. This diversity strengthens the Collective's ability to decentralise, as well as expand available user groups. Localisation also makes Optimism more inclusive and welcoming to the world <3",
   "impactMetrics": [
     {

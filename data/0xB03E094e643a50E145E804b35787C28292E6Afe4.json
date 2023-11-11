@@ -15,7 +15,9 @@
       "description": "Web3xplorer Pitch deck"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "We started Web3xplorer in October 2022 and launched in June 2023. Since then, user engagement has surged, with more than 1,350 visitors spending collectively 68 hours on our site just last month.\n\nOur influence extends beyond just our platform. We've been featured in newsletters like TheRunDownAI, Bytebrief, and community projects like the Optimistic Reservoir. Platforms including AlternativeTo, SideProjectors, SaasHub, and especially ProductHunt, where we hit '#6 product of the day' with 265+ upvotes, amplified our visibility. This has enabled us to effectively engage with audiences beyond the core web3 community.\n\nThe positive feedback we continue to receive from our users speaks volumes about the value we offer, all while keeping the service completely free.",
   "impactMetrics": [
     {

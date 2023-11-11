@@ -54,5 +54,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Developer Ecosystem, Layer 2 Scaling, Community Building",
-  "pwCategory": "Community Building"
+  "pwCategory": "Community Building",
+  "applicationApprovalUID": "0x33db1eb9aa4fc4f62089e22d4b167613d9a5d372c16cb1afed2c94dcd12eb9d9"
 }

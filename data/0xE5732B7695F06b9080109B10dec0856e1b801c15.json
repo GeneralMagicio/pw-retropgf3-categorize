@@ -45,7 +45,9 @@
       "description": "All Sushi Deployment addresses"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "Sushi's cross-chain swaps enable users from various chains to easily join the OP stack. These pioneering efforts foster user cross-pollination, securing strong liquidity vital for projects on the OP stack. Our engagement in the Optimism ecosystem is marked by a significant $239.6M trading volume on both chains YTD, contributing to 15% of Base's total activity. This throughput highlights our essential role in boosting the stack's liveliness and reach. More than just participants, we lead tech evolution, simplifying asset transfers, and liquidity solutions, affirming Sushi's commitment to broadening decentralized finance on the Optimism stack.",
   "impactMetrics": [
     {

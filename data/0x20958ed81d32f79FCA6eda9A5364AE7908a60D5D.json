@@ -138,5 +138,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Community Building",
-  "pwCategory": "Data Analytics & Insights"
+  "pwCategory": "Data Analytics & Insights",
+  "applicationApprovalUID": "0x876550bff1a9cc69817bcf27d37ce8a7f2525dfe1bb54613cfa5b643c0b9f007"
 }

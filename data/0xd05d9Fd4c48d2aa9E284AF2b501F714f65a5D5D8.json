@@ -20,7 +20,10 @@
       "description": "Curriculum targeted at web2 and web3 development mastery"
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "We helped train developers and equip them with the necessary technical skillset to building Dapps on the Ethereum and Optimism ecosystem.\nWe offer several free to use and open to attend community programme for aspiring web3 devs and enthusiasts alike, leading to significant growth of web3 adoption in the larger campus community.\nWe hope the retroPGF funding would motivate us a lot to push for an OP centric development bootcamp and OP exclusive workshops, leveraging our strong community and expertise.",
   "impactMetrics": [
     {

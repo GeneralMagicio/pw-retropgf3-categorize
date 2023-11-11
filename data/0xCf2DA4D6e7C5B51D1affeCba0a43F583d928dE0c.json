@@ -60,7 +60,9 @@
       "description": "Education about the potential of the merge "
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "We have help over 334,000 followers and 83,000 community members in Thailand (including all social media and platform) to be well informed and educated about the Ethereum, Optimism and Layer 2  ecosystem, through our realtime news and indepth our education content.",
   "impactMetrics": [
     {

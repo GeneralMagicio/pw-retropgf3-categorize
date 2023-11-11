@@ -20,7 +20,9 @@
       "description": "Twitter is where the virtual events and Twitter Spaces take place"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "One of the main challenges to onboarding women to web3 is creating a safe space to communicate, ask questions, and learn in a community-based way. We've onboarded more than 300 Mexican women to web3, acting as the initial point of contact with the technology\nMetagals is the initial bridge Gals have with crypto, and we offer the tools so that every Gal can build her path. We've collaborated with Espacio Cripto, Her DAO, WAGI LATAM, and other communities to help the Gals explore the ecosystem. If they want deeper knowledge or IRL events in Mexico City, we connect them with Espacio Cripto. If they want to go to hackathons, we connect them with Her DAO LATAM to get scholarships.\nWe've built Metagals as a women-centered public good; we have never charged the community for being part of the Gals",
   "impactMetrics": [
     {

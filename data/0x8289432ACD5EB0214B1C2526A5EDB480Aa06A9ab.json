@@ -35,7 +35,10 @@
       "description": "Dev Cohort"
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "useWeb3 has been running since Aug 2021 as a free, open-source public good. \nTwitter followers: +20.8K\nNewsletter subscribes: 11.4K\nWebsite stats: 35k views/month\nGithub stars: 366\nParticipants in my 30-days of Web3 builder cohorts: 58\n\nNexth has been active since Dec 2022, completely open-source and used by and for several projects, hackathons and side quests. \nGithub stars: 432\n\nGitcoin Passport NFT: +20k NFT mints\nZK Academy Credentials: 23 NFT mints \n",
   "impactMetrics": [
     {

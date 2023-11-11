@@ -160,5 +160,6 @@
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Web3 Community Platform, Content Creation",
   "pwApplicantTypeChecked": true,
   "pwFlaggedReason": "impersonation",
-  "pwCategory": "DAOs, ReFi, and DAO Tooling"
+  "pwCategory": "DAOs, ReFi, and DAO Tooling",
+  "applicationApprovalUID": "0x023ec749b1a3ad4335595edad791b6dd5523a94817f53cba336060779471c3c8"
 }

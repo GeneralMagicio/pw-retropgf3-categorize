@@ -30,7 +30,10 @@
       "description": "Frontend Repo"
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "- 7 NFT communities have been onboarded on OP chain. \n (OptiChads, Apetimism, Tickled Picklez, Optimistic Bunnies, Optimism Quests, Deggkies Optimism, HyperChads)\n\n- 3 NFT collections have been onboarded on Base. \n (Tiny Based Frogs, Base Wars, Summer Kevin)\n\n- 64,696 resolvable ENS wildcard subdomains created.",
   "impactMetrics": [
     {

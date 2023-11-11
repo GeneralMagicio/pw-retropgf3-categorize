@@ -64,5 +64,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Community Building, Content Creation, Education",
-  "pwCategory": "Local Blockchain Communities"
+  "pwCategory": "Local Blockchain Communities",
+  "applicationApprovalUID": "0x50a46b0a2eb26fc734d5429337e6446d068451fb903c86b1dfc79bef41eebaee"
 }

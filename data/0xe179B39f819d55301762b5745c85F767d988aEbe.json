@@ -45,7 +45,10 @@
       "description": "Overview of OP Stack based chains based on Research Report"
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "Our holistic research educates & empowers users to understand Optimism's technology & ecosystem, familiarizing them with the big potential the tech bears, the limitations it faces & the trust assumptions users are subject to. \n\nBased on feedback received, this resulted in many new users joining the OP collective & existing users feeling more comfortable to actively interact with the network. \n\nAlso, the granular technical breakdown & ecosystem analysis have proven to resonate well with builders, as it introduces devs to the vast opportunities Optimism's technology & ecosystem provide. Based on talks with builders, our research has inspired a significant # of innovators to start building on OP Mainnet and/or OP Stack.\n\nThis profound impact is proven by the strong metrics of our X post(s)!",
   "impactMetrics": [
     {

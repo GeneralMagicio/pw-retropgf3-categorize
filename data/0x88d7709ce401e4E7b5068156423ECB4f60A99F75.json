@@ -30,7 +30,9 @@
       "description": "Meta-infinite PGF round contract"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "Quoting Optimism’s documentation, “Funding public goods drives growth — and therefore network revenues — from the ground up”. \n\nOur project improves discoverability and stimulates donations to public goods on OP by putting them in front of 80k users of the IDriss extension. Moreover, issuance of attestations helps bootstrap the growth of the Attestation Station.\n\nMetrics on OP during Gitcoin GG18:\n\n-  1186 total donations\n-  377 unique donors\n-  155 unique grantees received donations\n\nReactions from grantees and donors were overwhelmingly positive, as evidenced by the collection of reactions on Twitter within the first 24 hours post launch.\n\nTaking the next step and launching the meta-infinite PGF round opened doors for a larger and more diverse group of 700+ grantees to receive donations.",
   "impactMetrics": [
     {

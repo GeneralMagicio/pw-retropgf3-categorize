@@ -10,7 +10,10 @@
       "description": "Application level activity (gas usage, txns, daily active addresses) on Optimism"
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "Our work has helped highlight the top categories and applications that have developed on Optimism (e.g. Perp Protocol, Worldcoin, Kwenta) while also providing a standardized way for developers and applications to understand activity on Optimism vs. other EVM compatible chains",
   "impactMetrics": [
     {

@@ -30,7 +30,9 @@
       "description": "Onchain summit venue research page, we prepared this for Optimism Event team"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "We have become the first and only Turkish resource for those who want to contribute to the Optimism and Superchain ecosystem in Turkey. We have helped people make developments in the ecosystem through these resources. \n\nWe created Spaces and facilitated access to the ecosystem by translating resources such as Op Radio, Optimism Weekly Recap, Governance Cycles, and The Optimistic Newsletter into Turkish. We also shared knowledge by addressing important topics such as Optimism Governance and Op Labs.\n\nWith content produced by 11 people, we believed in the Optimistic Vision and worked to share this vision. We became the only local Optimism native community in Turkey, contributed to the organization of events such as the Onchain Summit, and shot videos reaching thousands of people.\n",
   "impactMetrics": [
     {

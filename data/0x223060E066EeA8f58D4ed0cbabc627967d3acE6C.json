@@ -15,7 +15,9 @@
       "description": "Blog post on our work on the dispute game"
     }
   ],
-  "impactCategory": ["OP_STACK"],
+  "impactCategory": [
+    "OP_STACK"
+  ],
   "impactDescription": "We understand clabby (who has written recently on the latest modular approach to dispute games) found our repo most helpful. If his work is a continuation of ours, even in a small way, we feel that our efforts have certainly increased the efficiency and security of the OP Stack. By writing about the work on our blog, we have increased awareness of the OP Stack and its provenance.",
   "impactMetrics": [
     {

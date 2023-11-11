@@ -40,7 +40,10 @@
       "description": "Twitter"
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "Our contributions are open-source Web3 Social tools for DAOs and other web3 communities.\n\nThe impact of these tools is that members of these web3 communities are more actively engaged onchain compared to web2.\n\nMany users have used our tools resulting in on-chain actions on Base Network. Actions like minting a username, minting posts, sending tokens, etc.\n\nWhile our contributions are in their early stage we can see our impact through on-chain metrics:\n\n- Registering a username (web3 domain name).\n- Minting posts as NFTs (this is how users can reward or tip creators of great posts).\n- Creating your own NFT via NFT Launchpad (separate from post NFTs, users can also launch their own NFT collections through the NFT Launchpad).\n",
   "impactMetrics": [
     {

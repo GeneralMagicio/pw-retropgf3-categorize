@@ -20,7 +20,9 @@
       "description": "Twitter - ETH Lima"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "We've guided individuals from their initial stages in comprehending Ethereum and its potential benefits in their lives. Subsequently, we've facilitated their transition towards solutions such as Optimism as a Layer 2.\n\nOur wealth of experience encompasses the orchestration of workshops, discussions, and virtual events tailored for our community. \n\nTo this day, we've effectively coordinated more than 25 workshops, discussions, and online events. These gatherings consistently draw in a substantial audience, averaging 20 attendees per workshop.",
   "impactMetrics": [
     {

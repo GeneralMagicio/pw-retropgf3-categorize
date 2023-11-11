@@ -25,7 +25,10 @@
       "description": "Lil Based Noun NFT Contract address"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION", "OP_STACK"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
   "impactDescription": "We have onboarded many users onto the Base network from Layer 1. In doing so we have educated about the Base Network and in turn the OP stack.\nWe are only getting started but I believe our small contributions with onboarding have played a vital role and made an impact on advancing the Optimism network by onboarding, ecouraging participation, and investments on the Base Network.",
   "impactMetrics": [
     {

@@ -76,5 +76,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Education, Community Building, Content Creation",
-  "pwCategory": "Blockchain Education"
+  "pwCategory": "Blockchain Education",
+  "applicationApprovalUID": "0xa94487a5ed3b3cfd1d9c2ae647f359ec7537ce1f23751d1b069bcf2a651858ed"
 }

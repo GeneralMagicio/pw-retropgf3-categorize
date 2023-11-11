@@ -35,7 +35,9 @@
       "description": "This is contract details of our NFT"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "Base Punk has left a remarkable impact on our users through several initiatives. We've conducted giveaways, creating opportunities for our community to acquire NFTs and other valuable assets. NFT holders have enjoyed exclusive benefits, including free lifetime domain minting, empowering them with unique digital identities.\n\nOur innovative social DApps offer users a daily earning potential with ETH and activity points. The engagement has been phenomenal, with users actively participating, minting NFTs and enjoying their activity points. Our DApps have garnered extensive user registrations, reflecting the community's seamless and enthusiastic adoption of our Web3-powered ecosystem.",
   "impactMetrics": [
     {

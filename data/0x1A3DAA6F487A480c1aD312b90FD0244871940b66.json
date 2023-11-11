@@ -15,7 +15,9 @@
       "description": "GitHub"
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
   "impactDescription": "Sphinx's library has been downloaded over 2,000 times on npm and currently has 186 stars on GitHub. Sphinx has been used by Wonderland (https://defi.sucks/) in production. Their CTO said, \"Sphinx is a game changer for deploying smart contracts across chains. Finally, we can say goodbye to deploying from local computers, getting gas tokens on every chain, and using private keys in .env files! I believe these types of solutions are more than just nice-to-have; they're critical in the space.\"",
   "impactMetrics": [
     {

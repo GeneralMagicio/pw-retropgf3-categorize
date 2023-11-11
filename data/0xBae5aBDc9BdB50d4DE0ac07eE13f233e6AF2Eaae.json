@@ -10,7 +10,9 @@
       "description": "Website"
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
   "impactDescription": "My archival nodes have allowed developers & users to have unlimited access to RPC api with free of charge. My nodes have served more than 3 billion requests in the last two months. It has made the developers life easy because they can use these nodes without having to worry about api limits and expensive bills.",
   "impactMetrics": [
     {

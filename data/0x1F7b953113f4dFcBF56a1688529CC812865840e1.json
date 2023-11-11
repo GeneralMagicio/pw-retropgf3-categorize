@@ -20,7 +20,10 @@
       "description": "our dao rewards for contributor  are distributed by this  redpacket contract.   "
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "Radiant to 10K Chinese language developers from the mainland and overseas.   We help to promote the op stack and op fraud-proof system to developers to get to know Optimism. Our dao also deploys the dao reward contract on OP mainnet.  Our dao members can claim their reward and bonus on Op. \n",
   "impactMetrics": [
     {

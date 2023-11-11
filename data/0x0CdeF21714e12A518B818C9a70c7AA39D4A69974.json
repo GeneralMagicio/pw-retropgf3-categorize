@@ -15,7 +15,10 @@
       "description": "This repository is a monorepo and contains Pheasant Network's contract code."
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION", "OP_STACK"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
   "impactDescription": "By using the optimistic bridge like Pheasant Network, to bridge assets from Ethereum and other Layer 2s to Optimism, users can significantly reduce their gas costs.\n\nIn order to get more assets flowing into DApps in the Optimism ecosystem, it is important to reduce gas costs for the bridge as much as possible. From that perspective, Pheasant Network has been the most efficient in bridging assets and users to Optimism since it began supporting Optimism in January 2023.",
   "impactMetrics": [
     {

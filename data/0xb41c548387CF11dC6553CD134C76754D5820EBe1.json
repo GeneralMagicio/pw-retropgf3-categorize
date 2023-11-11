@@ -30,7 +30,9 @@
       "description": "DethCode announcement tweet. "
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
   "impactDescription": "TypeChain allowed hundreds (if not thousands) app-layer developers to build better software. Furthermore, it helped create original Optimism contracts itself. Have a look at GitHub dependencies and download stats.\n\nDethCode has significantly simplified the reading and exploration of smart contracts for numerous researchers and developers. Companies like L2BEAT use it on a daily basis to understand what's really what on-chain.",
   "impactMetrics": [
     {

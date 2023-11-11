@@ -15,7 +15,9 @@
       "description": "Thread explaining EIP-4844"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "By onboarding Thai people to Optimism and the OP stack chain, I've enabled individuals. Who mainly were priced out of the ETH mainnet, even in a bear market due to the low income in my country—to have the same level of access to high-quality DeFi dapps on Optimism L2 just like people in developed countries.\n\nMoreover, by doing this, I also bring people into the Ethereum ecosystem, helping them achieve the financial freedom they desperately need.",
   "impactMetrics": [
     {

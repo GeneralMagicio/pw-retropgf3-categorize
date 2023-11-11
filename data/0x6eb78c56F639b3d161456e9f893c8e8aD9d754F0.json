@@ -25,7 +25,9 @@
       "description": "RetroPGF Community NFT Collection "
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "We sponsored booths at ETHBarcelona and Funding the Commons at EthCC and doing so onboarded 97 new projects that were previously unaware of RetroPGF. Our continuous engagement on social media created a growing community of grassroot enthusiasts spreading the RetroPGF meme. Additionally, our website acts as a hub, providing an overview of all projects that received funding in rounds 1 and 2, as well as in depth case studies and educational resources to get projects excited about what RetroPGF can do and push them to apply to round 3! \n",
   "impactMetrics": [
     {

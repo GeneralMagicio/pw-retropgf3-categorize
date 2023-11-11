@@ -10,7 +10,9 @@
       "description": "A course platform for everything Optimism and OP Stack"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "The biggest impact those who have taken my free courses have had is having a deeper knowledge of Optimism and the OP Stack and in turn, having a deep appreciation for the technology behind it.\n\nAs a result, some have been keen to learn more about and to explore Optimism and its ecosystem.",
   "impactMetrics": [
     {

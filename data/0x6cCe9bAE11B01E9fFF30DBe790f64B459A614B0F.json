@@ -30,7 +30,9 @@
       "description": "Article on the problem Hedgey solved for Collab.Land"
     }
   ],
-  "impactCategory": ["COLLECTIVE_GOVERNANCE"],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
   "impactDescription": "When Collab.Land distributed their team token vesting and investor lockups via Hedgey's contracts, the locked and vesting tokens were given governance rights that could flexibly be delegated and participate in onchain governance via Tally. This helped bring new participants into the collective by allowing the team and investors to delegate/ vote in a way they previously would not have been able to. ",
   "impactMetrics": [
     {

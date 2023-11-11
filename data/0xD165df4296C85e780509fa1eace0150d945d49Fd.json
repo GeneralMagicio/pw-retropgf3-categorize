@@ -15,7 +15,9 @@
       "description": "EthStaker github"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "While we may not contribute directly to Optimism, we feel that without a secure and decentralized Ethereum mainnet, Optimism could not succeed in it's mission. Without Optimism Ethereum is much less useful. EthStaker's and Optimism's values, goals, and incentives are aligned. ",
   "impactMetrics": [
     {

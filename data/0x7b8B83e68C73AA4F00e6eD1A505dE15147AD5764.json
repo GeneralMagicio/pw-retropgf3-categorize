@@ -20,7 +20,10 @@
       "description": "Pocket Public RPC"
     }
   ],
-  "impactCategory": ["DEVELOPER_ECOSYSTEM", "END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "- Enabling developers to build applications on top of Optimism and make 11.5 Billion calls to the Optimism blockchain\n- Providing end-users a public endpoint for Optimism that enjoys near perfect uptime and provides a decentralised RPC connection for their wallet.",
   "impactMetrics": [
     {

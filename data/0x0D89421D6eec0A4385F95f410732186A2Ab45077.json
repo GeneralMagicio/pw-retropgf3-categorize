@@ -50,7 +50,9 @@
       "description": "LexNews+ monthly newsletter"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "The most significant direct impact to OP are our Real World Asset projects on our sister project Kali. The Kali project, like many other on chain DAO deployers, is a direct spinout from earlier Lex Projects related to onchain governance, arbitration, an corporate structures. The smart contract code is greatly simplified which makes it easier to read and secure assets on chain. \n\nSmart Invoice is a tool that was designed to provides web3 workers with cryptocurrency invoicing, escrow, and arbitration capabilities. As with most things LexDAO produces, it is built in an open source framework so that other developers can build on top of its code.  It is designed for clients and contractors to make the facilitation of crypto-payments easier to use and safer for both parties involved.",
   "impactMetrics": [
     {

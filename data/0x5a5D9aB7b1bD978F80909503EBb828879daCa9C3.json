@@ -30,7 +30,10 @@
       "description": "Analysis of 373 OSS projects contributing to the Optimism ecosystem."
     }
   ],
-  "impactCategory": ["COLLECTIVE_GOVERNANCE", "DEVELOPER_ECOSYSTEM"],
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM"
+  ],
   "impactDescription": "Open Source Observer helps OP citizens make smart grant funding decisions! We've created a strong foundation for measuring the activity and impact of open source software contributions in the Ethereum ecosystem. Although our data and analytics platform is less than 3 months old, we've already had outsized impact by helping badgeholders screen RPGF3 applicants, develop \"lists\" of RPGF projects based on impact metrics, and learn more about any project with a Github or smart contract address. ",
   "impactMetrics": [
     {

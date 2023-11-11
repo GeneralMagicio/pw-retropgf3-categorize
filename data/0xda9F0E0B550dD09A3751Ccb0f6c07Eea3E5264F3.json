@@ -115,7 +115,9 @@
       "description": "long form educational post about rollups (optimism incl)"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "The Rollup contributes to Optimism by providing educational content, fostering community discussions, and promoting the project to a wider audience. These contributions can help increase the adoption of the project, attract new contributors, and provide valuable feedback to the project team. This platform adds an educational public good for the entire industry to benefit from and learn more about crypto. Our content has helped users navigate DeFi better, protocols receive awareness about their project, and further aimed to bring the entire Optimism community to light.\n",
   "impactMetrics": [
     {

@@ -20,7 +20,9 @@
       "description": "Twitter account (created very recently)"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "We created the first Optimism Academy and an Intro to Optimism course that makes learning about Optimism 10x easier.\n\nThe course features more than 20 videos (so far), all tied together in a structured way and complemented with quizzes and assignments.\n\nAfter months of work, we launched the academy a few weeks ago and had more than 30 people joining, despite not doing any marketing or publicity apart from publishing the link on the forum.\n\nWe've recently created Twitter and Youtube accounts to start distributing the content and reaching more people, but it's too soon to see it's real impact.\n",
   "impactMetrics": [
     {

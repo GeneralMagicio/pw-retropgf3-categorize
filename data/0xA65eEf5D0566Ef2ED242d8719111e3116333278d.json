@@ -20,7 +20,9 @@
       "description": "Documentation"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "By building a permissionless homepage and toolkit for onchain communities, we continuously prioritize user experience and seamless onboarding for both builders and members.\n\nWith expanding the support for Wallet Activity requirements and NFT rewards on Optimism, communities can run NFT-based campaigns and build future strategies for growth and engagement natively in the ecosystem. Allowing users to perform transactions, increasing network usage and ecosystem growth.\n\nGuild currently has over 400 communities leveraging Optimism integrations, with 430K+ members who hold roles with OP-based requirements. Notable communities include Stargate Finance (242K holders), Linea (122K holders) and Base (58K holders).",
   "impactMetrics": [
     {

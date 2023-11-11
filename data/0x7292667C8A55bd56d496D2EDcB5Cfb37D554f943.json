@@ -20,7 +20,9 @@
       "description": "Mirror page"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "We were able to help propagate the Optimistic Vision and mission to a community of Ukranian speakers via \n\nNewsletters 1.4k views per month\n\n1. The Bankless Guide to Base \n2. Optimism Provides a Shared Resource For DAOs\n3. The Optimism Collective’s RetroPGF Learning Journey | Layer 2 Review\n4. Welcoming Base\n5. OP Grants Stack: The Wellspring of Regenerative Cryptoeconomics | Layer 2 Review\n6. What Is the Law of Chains?\n7. Optimism Synthesizes a New Economic Paradigm | Layer 2 Review\n8. Hands-On Learning for Optimistic Hearts | BanklessDAO Weekly Rollup\n9. Optimism’s Governance Is Tuned Into Community\n10. From the Ashes of Moloch, Ether’s Phoenix Rises | Layer 2 Review\n\nSocial Media posts 2k+ views and 200+ Engagement \n\n1. Posts on Telegram + X (Twitter)\n",
   "impactMetrics": [
     {

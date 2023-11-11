@@ -25,7 +25,9 @@
       "description": "Chaineye Public Github Repository"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "1. Publish various articles about blockchain general and Optimism Collective to help users understand how to use dApps on Optimism. There are 4 articles about Optimism and the total views are over 200K.\n2. BridgeEye has directed over 200K assets from other chains to Optimism. This helps web3 native users find a better and cheaper way to bridge to Optimism. \n3. Chaineye Mini Bridge, deployed on Sep.20, 2023, has over 150 transactions already, which benefits small retail investors adopting Optimism.  \n4. Our dune dashboard tracking Optimism projects helps users and developers evaluate each project and get an improved user experience. \n",
   "impactMetrics": [
     {

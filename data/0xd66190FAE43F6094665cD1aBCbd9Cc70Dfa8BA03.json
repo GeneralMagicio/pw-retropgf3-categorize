@@ -10,7 +10,9 @@
       "description": "Lighthouse main repository"
     }
   ],
-  "impactCategory": ["OP_STACK"],
+  "impactCategory": [
+    "OP_STACK"
+  ],
   "impactDescription": "Our primary work here has not yet been released. The goal of the Deneb fork is to significantly reduce Optimism's fees by dramatically decreasing the cost for layer 2's to store data on the Ethereum base layer. Once complete we imagine adoption of layer 2's to be significant and most of the current layer 1 load to shift to layer 2's like Optimism.",
   "impactMetrics": [
     {

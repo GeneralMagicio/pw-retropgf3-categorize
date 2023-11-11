@@ -25,7 +25,9 @@
       "description": "Hypercerts Github repository"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "USAGE: Almost 40,000 hypercerts have been minted on Optimism through our protocol from over 20,000 unique addresses with more than 30,000 unique owners. More than 2,000 hypercerts are created weekly. We drive adoption of Optimism. \n\nONBOARDING: For many users – either creators or receivers of hypercerts – these are their first transactions on Optimism. We have supported numerous users in our pilots to get OP and walked them through their first transactions.\n\nUSE CASE: We created a use case for Optimism strengthening the narrative for web3: You need to be in control of accounting for your contributions and the sale of impact – without a centralized platform.\n\nPROJECTS: Projects account for contributions, raise funds and reward their supporters, e.g. Zuzalu received over 20 ETH.",
   "impactMetrics": [
     {

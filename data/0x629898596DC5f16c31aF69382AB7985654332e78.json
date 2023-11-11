@@ -10,7 +10,9 @@
       "description": "The website for browsing Mirror articles"
     }
   ],
-  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
   "impactDescription": "At bress our website has served more than 22,139 unique users and has 81,472 total page views , with around 100 daily active users. We help onboard and maintain users for Mirror. Our service reaches users in different countries which means we have a gloable users base.",
   "impactMetrics": [
     {

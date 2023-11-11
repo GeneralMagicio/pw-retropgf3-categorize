@@ -78,5 +78,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Tokenization Platforms, Web3 Community Platform, Decentralized Finance (DeFi)",
-  "applicationApprovalUID": "0xba60fee29d573acf227ffb4dd7bc8f44371cf226b37ce28efe413a082f23e53b"
+  "applicationApprovalUID": "0xba60fee29d573acf227ffb4dd7bc8f44371cf226b37ce28efe413a082f23e53b",
+  "pwCategory": "DAOs, ReFi, and DAO Tooling"
 }
