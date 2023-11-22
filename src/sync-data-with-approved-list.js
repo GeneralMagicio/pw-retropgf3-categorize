@@ -46,12 +46,21 @@ const isJsonEqual = (a, b) => JSON.stringify(a) === JSON.stringify(b);
         );
 
         if (approval) {
+          let updated = false;
+
           if (localData.applicationApprovalUID !== approval.id) {
             console.log(`Marking ${localData.displayName} as approved`);
             localData.applicationApprovalUID = approval.id;
+            updated = true;
           }
 
-          let updated = false;
+          if (localData.pwIsFlagged) {
+            console.log(`Marking ${localData.displayName} as not flagged`);
+            localData.pwIsFlagged = false;
+            delete localData.pwFlaggedReason;
+            delete localData.pwCategory;
+            updated = true;
+          }
 
           // Fetch referenced attestation
           const approvedAttestation = await fetchAttestation(approval.refUID);
