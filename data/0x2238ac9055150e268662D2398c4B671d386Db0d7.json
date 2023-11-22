@@ -10,9 +10,7 @@
       "description": "Optimism monorepo"
     }
   ],
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
+  "impactCategory": ["END_USER_EXPERIENCE_AND_ADOPTION"],
   "impactDescription": "Just a zebra testing. Just a zebra testing. Just a zebra testing. Just a zebra testing. Just a zebra testing. Just a zebra testing. Just a zebra testing. Just a zebra testing. Just a zebra testing. Just a zebra testing. Just a zebra testing. Just a zebra testing. Just a zebra testing. Just a zebra testing. ",
   "impactMetrics": [
     {
@@ -35,8 +33,8 @@
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x2238ac9055150e268662D2398c4B671d386Db0d7.json",
   "RPGF3_Application_UID": "0x9f39b424df642a57eb92e0eb632356e01d8513ed61eb3bb3832380df98a56001",
   "applicantAddress": "0x2238ac9055150e268662D2398c4B671d386Db0d7",
-  "pwIsFlagged": false,
+  "pwIsFlagged": true,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Decentralized Identity, User Experience & Adoption, Developer Ecosystem",
-  "applicationApprovalUID": "0x5f0c3827a5a6d85e9a72958e3941e18f77159d63eb97d9595cc2fcc8ef7551a3"
+  "pwFlaggedReason": "Application not approved"
 }

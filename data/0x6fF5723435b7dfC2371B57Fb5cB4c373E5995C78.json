@@ -98,5 +98,6 @@
   "pwCategorySuggestions": "NFTs, Web3 Community Platform, Decentralized Identity",
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
-  "applicationApprovalUID": "0x16975e7a89132161310d5fb63766352915c0311044748fa7ee80ea507812edde"
+  "applicationApprovalUID": "0x16975e7a89132161310d5fb63766352915c0311044748fa7ee80ea507812edde",
+  "pwCategory": "NFTs"
 }

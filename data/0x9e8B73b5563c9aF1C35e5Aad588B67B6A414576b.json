@@ -66,5 +66,6 @@
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Tokenization Platforms, Decentralized Finance (DeFi)",
   "applicationApprovalUID": "0x8526b3343ae97a1859ff98d7f7d414ba2f47735d62a84b94f5aef514b5260aa6",
-  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x9e8B73b5563c9aF1C35e5Aad588B67B6A414576b.png"
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x9e8B73b5563c9aF1C35e5Aad588B67B6A414576b.png",
+  "pwCategory": "Explorers, Security & Node Deployment Tools"
 }

@@ -54,5 +54,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Content Creation, Community Building, Web3 Community Platform",
-  "applicationApprovalUID": "0x6565449e46eba1283b32efd00d98c22aa9c43ccfb2edc7c79747e311a04284c9"
+  "applicationApprovalUID": "0x6565449e46eba1283b32efd00d98c22aa9c43ccfb2edc7c79747e311a04284c9",
+  "pwCategory": "DAOs, ReFi, and DAO Tooling"
 }
