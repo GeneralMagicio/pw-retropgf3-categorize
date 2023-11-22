@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://webacy.com/",
-  "bio": "CEO of Webacy",
+  "bio": "Making Web3 Safer for Everyone",
   "contributionDescription": "We've recently launched Wallet Watch, Webacy's real time notification, monitoring, and alerts system, on Optimism. The service has been well loved on Ethereum mainnet (over 25k users, 300k transactions a month, over 150M assets under monitoring), and we are so excited to bring Webacy safety tools to the Optimism ecosystem.\n\nWallet Watch allows users to monitor all of their wallets and accounts, receiving real time SMS and email notifications whenever ANYTHING interacts with their wallet. This means inbound and outbound transactions, airdrops, royalty payments, and even things like spam drops, drains, and other potentially malicious transactions. We believe knowledge is power. We're so excited to bring these self-custody safety tools to Optimism, making the chain safer for users!",
   "contributionLinks": [
     {

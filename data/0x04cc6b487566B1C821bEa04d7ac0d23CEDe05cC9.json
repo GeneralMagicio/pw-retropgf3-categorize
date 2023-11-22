@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://go.zenbit.mx",
-  "bio": "I do R&D @ zenbit.eth, Im building public goods to decentralize urban processes in Querétaro City, México",
+  "bio": "A public good for collaborative governance in cities with plural voting",
   "contributionDescription": "The zengoDAO contracts enable the addition of a decentralized budget for cities, empowering citizens to participate in urban governance with proposals to address community needs in public spaces.\n\nModerators allocate the decentralized budget through an iterative verification process with local, regional, and national government instances. Then, they vote to distribute the funds among the verified submissions with a plural voting round.\n\nZengo results from R&D around urban governance and retroactive funding carried out by zenbit.eth. This process started with the Cities Protocol in 2021 followed by CiudadesDAO in 2022. In the same year, We started to test Optimism, deploying RegensDAO, and Eneagon, and now, in 2023, we are integrating these solutions with Zengo in the OP Goerli testnet.",
   "contributionLinks": [
     {

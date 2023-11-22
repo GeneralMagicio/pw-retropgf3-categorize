@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://api3.org/",
-  "bio": "Ecosystem lead for API3 DAO, working to deliver next-generation oracle infrastructure.",
+  "bio": "API3 has built an oracle node deployed to and operated by the data source. ",
   "contributionDescription": "API3 has deployed a range of oracles to Optimism and Base for their community to utilize. Specifically, this consists of:\n\n- dAPI Price Feeds through market.api3.org\n- The public good API3 QRNG \n- Ability to deploy first-party oracles through chainapi.com \n\nAPI3 DAO would seek a small reward for the deployment of a full-oracle stack to Optimism. ",
   "contributionLinks": [
     {

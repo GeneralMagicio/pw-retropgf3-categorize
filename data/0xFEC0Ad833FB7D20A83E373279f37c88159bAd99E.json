@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
-  "websiteUrl": "https://www.public---assembly.com",
-  "bio": "Public Assembly (PA) is an onchain collective creating what's missing and fostering a community based on building public goods infrastructures.",
+  "websiteUrl": "https://www.public---assembly.com/about",
+  "bio": "Public Assembly is an onchain collective focused on creating what's missing.",
   "contributionDescription": "This past summer, Public Assembly introduced Assembly Press (AP), a comprehensive framework designed for Ethereum application development. AP streamlines the process of constructing your own application infrastructure by offering an accessible toolset for developers. The framework incorporates a singleton smart contract design pattern, complemented by a minimalist yet performant indexing solution, along with a compact set of React hooks designed to integrate your frontend with the rest of the framework.\nAP is catered towards developers unfamiliar with the challenges of creating high-performance Ethereum applications, as well as those who seek a straightforward, ready-to-use solution without the need to delve into the complexities of protocol design.\n",
   "contributionLinks": [
     {

@@ -1,7 +1,7 @@
 {
-  "applicantType": "INDIVIDUAL",
-  "websiteUrl": "https://github.com/0xJepsen",
-  "bio": "My name is Waylon Jepsen. I am a software engineering in the rust ethereum ecosystem. I am passionate about high impact technology, Math and Philosophy. ",
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://twitter.com/wehack247",
+  "bio": "Jessy’s Hacker House supports a strong community of builders",
   "contributionDescription": "Jessy's hacker house is a beacon for engineers and innovators in the Ethereum ecosystem, offering a supportive community to navigate this niche industry. We prioritize our residents, fostering an environment where they can collaborate, learn, and form lasting bonds. Our rigorous selection process ensures we house genuine, curious, and resourceful individuals. We view our houses as a public good, never compromising our values for monetary gain. Living and hacking together fosters deeper connections than casual meetups. We value obsession, genuine curiosity, and resourcefulness. We will include a list of all projects built by our residents.",
   "contributionLinks": [
     {
@@ -76,42 +76,45 @@
     }
   ],
   "impactCategory": [
-    "COLLECTIVE_GOVERNANCE",
     "DEVELOPER_ECOSYSTEM",
-    "END_USER_EXPERIENCE_AND_ADOPTION",
-    "OP_STACK"
+    "END_USER_EXPERIENCE_AND_ADOPTION"
   ],
   "impactDescription": "Jessy's hacker house and the Optimism Collective share a profound synergy in their commitment to Ethereum's sustainable future. While the Collective envisions a world where public goods equate to profitability, Jessy's house actualizes this by nurturing open-source projects. The single requirement for residents of Jessy's hacker house, is that whatever they build, it must be free open source. The house's emphasis on free open-source software resonates with the Collective's retroactive public goods funding, underscoring the belief that true value lies in communal benefits. We challenge traditional notions of profit, advocating for a model where community-driven initiatives and shared benefits define success in the Ethereum landscape.",
   "impactMetrics": [
     {
       "description": "Unique open source projects hacked ",
       "number": 110,
-      "url": "https://twitter.com/wehack247"
+      "url": "https://docs.google.com/spreadsheets/d/16J8Ic9VYcNXFFsGJd0RjJ6Vahrx3xMgPhaQPXvWg4Bk/edit#gid=79619539"
     },
     {
       "description": "Number of residents supported",
       "number": 320,
-      "url": "https://twitter.com/wehack247"
+      "url": "https://docs.google.com/spreadsheets/d/16J8Ic9VYcNXFFsGJd0RjJ6Vahrx3xMgPhaQPXvWg4Bk/edit#gid=1507946051"
     },
     {
-      "description": "Events where we hosted houses",
+      "description": "Events we Hosted",
       "number": 8,
-      "url": "https://twitter.com/wehack247"
+      "url": "https://docs.google.com/spreadsheets/d/16J8Ic9VYcNXFFsGJd0RjJ6Vahrx3xMgPhaQPXvWg4Bk/edit#gid=1885259814"
     },
     {
       "description": "Visitors at our Houses",
       "number": 3500,
-      "url": "https://twitter.com/wehack247"
+      "url": "https://docs.google.com/spreadsheets/d/16J8Ic9VYcNXFFsGJd0RjJ6Vahrx3xMgPhaQPXvWg4Bk/edit#gid=979617392"
     },
     {
       "description": "Funding Received by Residents",
       "number": 46000000,
-      "url": "https://twitter.com/wehack247"
+      "url": "https://docs.google.com/spreadsheets/d/16J8Ic9VYcNXFFsGJd0RjJ6Vahrx3xMgPhaQPXvWg4Bk/edit#gid=310545002"
     },
     {
-      "description": "Number of unique Sponsors",
-      "number": 50,
-      "url": "https://twitter.com/wehack247"
+      "description": "Media Links",
+      "number": 3,
+      "url": "https://docs.google.com/spreadsheets/d/16J8Ic9VYcNXFFsGJd0RjJ6Vahrx3xMgPhaQPXvWg4Bk/edit#gid=1362224191"
+    },
+    {
+      "description": "Misc Information",
+      "number": 3,
+      "url": "https://docs.google.com/spreadsheets/d/16J8Ic9VYcNXFFsGJd0RjJ6Vahrx3xMgPhaQPXvWg4Bk/edit#gid=1631545597"
     }
   ],
   "fundingSources": [

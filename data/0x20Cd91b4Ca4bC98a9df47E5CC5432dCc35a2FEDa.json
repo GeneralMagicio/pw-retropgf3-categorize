@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
-  "websiteUrl": "https://playmint.com/",
-  "bio": "CTO - Playmint - Using the blockchain to make a new category of decentralised games owned and extended by the players.",
+  "websiteUrl": "https://mirror.xyz/5p0rt5beard.eth/TG6jFqfYg3vHiX4yBbBuYVHiV2DX7umYmUbOKiRQzFs",
+  "bio": "A scaling solution, developed as part of fully onchain game, Downstream.",
   "contributionDescription": "We have developed a way of practically using ZK Proof technology to execute game logic in client code that is verifiable on-chain. The technique uses Circom SNARK circuits with players' transaction call data used as signal inputs. \n\nThis minimises EVM execution and storage during mutliplayer game sessions and allows players to cheaply claim onchain rewards with proof of the session results generated in their game client.\n",
   "contributionLinks": [
     {

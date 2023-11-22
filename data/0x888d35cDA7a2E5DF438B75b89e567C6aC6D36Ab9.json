@@ -1,8 +1,8 @@
 {
   "applicantType": "PROJECT",
-  "websiteUrl": "https://goldsky.com",
-  "bio": "growth at @goldskyio",
-  "contributionDescription": "Problem:\nAccessing Superchain data is painful. Analysts can use cloud platforms and face vendor lock-in, limited flexibility, and expensive query compute and/or storage fees. Many emerging OP-stack chains aren't supported, requiring analytics to run a full node to access the data they need to power analytics on their app or at the chain/multi-chain level.\n\nSolution: indexed.xyz is a public, open, and CC0-licensed dataset that allows anyone to freely download, copy, and analyze chain data (incl. OP-stack chains like Zora and Base) without any restriction. By adopting a local-first approach, we enable builders to leverage their local storage and compute resources, making it easier and more affordable to work with crypto data, all while providing more flexibility and control.",
+  "websiteUrl": "https://indexed.xyz",
+  "bio": "Open, decoded, and CC0-licensed Optimism Superchain datasets.",
+  "contributionDescription": "indexed.xyz is an open, decoded, and CC0-licensed dataset that allows anyone to freely download, copy, and analyze chain data (including OP-stack chains like Zora and Base) without any restriction. By adopting a local-first approach, we enable builders to leverage their local storage and compute, making it easier and more affordable to work with crypto data, all while providing more flexibility and control.\n\nWithout indexed.xyz, builders otherwise have to use cloud platforms that drive lock-in, offer limited flexibility, and charge expensive query compute and/or storage fees. These platforms don't support many newer OP-stack chains, requiring builders to run a node to access the data they need to power analytics on their app or at the (multi-)chain level.\n\n",
   "contributionLinks": [
     {
       "type": "OTHER",
@@ -18,17 +18,32 @@
   "impactCategory": [
     "DEVELOPER_ECOSYSTEM"
   ],
-  "impactDescription": "Benefits: The primary benefit of indexed.xyz is that it increases data accessibility for Optimism chains, with all of the pre-work (indexing & decoding) done by indexed.xyz. In addition, costs to developers are lowered by enabling them to use their existing storage and compute (ie. laptops & local devices), making chain-level analytics use cases that would otherwise be prohibitively expensive, possible.\n\nImpact: Because we require no account to download data, have any trackers to collect information, and one of the primary use cases for indexed.xyz is offline / local analytics, much of the usage of indexed.xyz is not publicly visible outside of data download volume (outlined in the \"impact metrics\" section below).",
+  "impactDescription": "The main benefit of indexed.xyz is that it increases data accessibility for OP chains, taking on all of the cost and complexity of indexing, decoding, and hosting multiple blockchains' worth of data.\n\nindexed.xyz's local-first model enables developers to use their existing storage and compute (eg. laptops) and work offline. This makes possible large-scale analytics that would otherwise be prohibitively expensive, which is especially important in enhancing accessibility for resource-limited teams (eg. other public goods, those in developing regions).\n\nAccessible and cost-effective Superchain data via indexed.xyz makes OP-stack chains more attractive to builders and enables better decision-making across the ecosystem, contributing to the growth & success of the Optimism Collective.",
   "impactMetrics": [
     {
-      "description": "Total data served per month (TB)",
-      "number": 140.23,
-      "url": "https://share.goldsky.com/70cGds7m"
+      "description": "TB of OP-Stack data hosted",
+      "number": 1.85,
+      "url": "https://docs.google.com/document/d/13W4Nn-D-qkHRi8WGaVUf1rwajpj1yUg47OtVj4Pax-o/edit"
     },
     {
-      "description": "Superchain data served per month (TB)",
-      "number": 32.45,
-      "url": "https://share.goldsky.com/70cGds7m"
+      "description": "TB of data served, past 3 wks",
+      "number": 139.96,
+      "url": "https://docs.google.com/document/d/13W4Nn-D-qkHRi8WGaVUf1rwajpj1yUg47OtVj4Pax-o/edit"
+    },
+    {
+      "description": "TB of OP-Stack data served, past 3 wks",
+      "number": 32.39,
+      "url": "https://docs.google.com/document/d/13W4Nn-D-qkHRi8WGaVUf1rwajpj1yUg47OtVj4Pax-o/edit"
+    },
+    {
+      "description": "# unique visits, trailing 30 days",
+      "number": 3062,
+      "url": "https://docs.google.com/document/d/13W4Nn-D-qkHRi8WGaVUf1rwajpj1yUg47OtVj4Pax-o/edit"
+    },
+    {
+      "description": "% requests from outside CA + US",
+      "number": 88,
+      "url": "https://docs.google.com/document/d/13W4Nn-D-qkHRi8WGaVUf1rwajpj1yUg47OtVj4Pax-o/edit"
     }
   ],
   "fundingSources": [],

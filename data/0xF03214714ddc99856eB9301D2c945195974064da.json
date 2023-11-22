@@ -1,7 +1,7 @@
 {
   "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://github.com/markg85/",
-  "bio": "Web3 developer with a keen interest on getting the distributed tech usable everywhere! Working, on a volunteer basis, on getting IPFS everywhere!",
+  "bio": "Web3 enthusiast. Progressing the distributed movement!",
   "contributionDescription": "Adding IPFS support in CURL took 506 days (see contribution PR link) which landed in the 8.4.0 release. Available as of Oct 11th 2024.\n\nThis contribution is two-fold.\n\n1. It allows a user to set an IPFS gateway to use for IPFS URLs (ipfs:// and ipns://). If a local node is installed and running, curl will try and find it's configured gateway without any additional user configuration.\n\n2. It translates IPFS URLs internally to the defined (or detected) gateway thus giving the user a smooth IPFS usage experience without them ever seeing the gateway part of a URL.\n\nThese additions to CURL make it accept the IPFS URLs without the need to prefix them with a gateway (a central point of entry).",
   "contributionLinks": [
     {

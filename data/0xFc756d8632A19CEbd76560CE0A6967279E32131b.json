@@ -1,6 +1,6 @@
 {
   "applicantType": "PROJECT",
-  "websiteUrl": "https://github.com/prettier-solidity/prettier-plugin-solidity",
+  "websiteUrl": "https://github.com/prettier-solidity/prettier-plugin-solidity/",
   "bio": "A Prettier formatter for the Solidity language",
   "contributionDescription": "Prettier Solidity is used by thousands of projects to format their Solidity code. Many of these projects are deployed to Optimism.\n\nA formatter is a fundamental tool for developers: it saves time and discussions. We believe that Prettier Solidity has had a significant impact in Solidity developers productivity, including those working on Optimism projects.",
   "contributionLinks": [

@@ -1,8 +1,8 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://solow.io/",
-  "bio": "Solow is a free Web3 academy for builders in LATAM, offering gamified education and community engagement through a range of innovative initiatives. ",
-  "contributionDescription": "We are a 100% free crypto academy that has educated more than 30k people on the Ethereum and Optimism ecosystem.\n\nIn the last 2 years, we’ve hosted +100 live sessions (discord, Twitter, and YouTube), released +200 pieces of content and created a platform with 60 gamified mini-courses.\n\nWe published over 20 pieces of original content on Optimism and created a landing page to display them all together, together with a free course students can follow and 6 mini lessons inside our platform.\n\nWe did 4 free live courses on Crypto 101, Solidity, Crypto Infra and Layer 2 (+50 hours live).",
+  "bio": "Solow is a free crypto academy for builders in LATAM.",
+  "contributionDescription": "We are a 100% free crypto academy that has educated more than 30k people on the Ethereum and Optimism ecosystem.\n\nIn the last 2 years, we’ve hosted +100 live sessions (discord, Twitter, and YouTube), released +200 pieces of content and created a platform with 60 gamified mini-courses.\n\nWe published over 20 pieces of original content on Optimism and created a landing page to display them all together, together with a free course students can follow and 6 mini lessons inside our platform.\n\nWe did 3 free live courses on Crypto 101, Solidity and Crypto Infra (+50 hours live).",
   "contributionLinks": [
     {
       "type": "OTHER",
@@ -17,12 +17,17 @@
     {
       "type": "OTHER",
       "url": "https://solow.io/cursos-cripto-gratuitos",
-      "description": "Our 4 free live courses: crypto 101, solidity, infra and layer 2"
+      "description": "Our 4 free live courses: crypto 101, solidity, infra and layer 2."
     },
     {
       "type": "OTHER",
       "url": "https://web.edapp.com/#register/%23solow",
       "description": "Free gamified learning platform with over 60 courses and 5.4k users"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://solow.io/cursos-cripto-gratuitos/curso-de-optimism",
+      "description": "Learning path to get to know Optimism in our web"
     }
   ],
   "impactCategory": [
@@ -33,39 +38,29 @@
   "impactDescription": "Solow is Latam’s biggest free crypto academy, with more than 3.2k members on Discord, 30k people learning from our live courses and 100k newsletter opens.\n\nSolow is also one of the largest sources of original content on Optimism in Spanish. We’ve created articles, videos, mini-courses, live sessions, workshops and quests to onboard more people to the Optimism Collective.\n\nBut, while numbers are great, we believe our biggest impact is measurable by the stories of those who walked with us. For many, Solow was the place to learn Optimism. For others, a community to take their first steps, or get their first crypto job. For some, it’s been all 3 of them.\n\nIf we want to build a new, better system, we need to make sure we don’t leave people behind. And education is the only way to do it.",
   "impactMetrics": [
     {
-      "description": "# Views - Intro Crypto Course",
-      "number": 12339,
-      "url": "https://www.youtube.com/playlist?list=PLONmLa8jLccQbKGcwleJ25m1otykzqmFM"
-    },
-    {
-      "description": "# Views - Intro Solidity Course",
-      "number": 6046,
-      "url": "https://www.youtube.com/playlist?list=PLONmLa8jLccSOyTxv2oKP9XFt9jDd9QXX"
-    },
-    {
-      "description": "# Views - Crypto Infra Course",
-      "number": 2088,
-      "url": "https://www.youtube.com/playlist?list=PLONmLa8jLccQQgc32KQKfpkgVY-G2hm4S"
-    },
-    {
-      "description": "# Total opens - Ethereum Newsletters ",
-      "number": 18595,
-      "url": "https://docs.google.com/spreadsheets/d/1VdZeo0622n-pT-UnP6QpEDQQlSRTqNHMv_E_A0PS4Bw/edit?usp=sharing"
-    },
-    {
-      "description": "# Total opens - OP Newsletters",
-      "number": 8433,
-      "url": "https://docs.google.com/spreadsheets/d/1IqwKqbdCNqbYWeetAdYtUK45QLa2erBAzl4JiQ6XccA/edit?usp=sharing"
-    },
-    {
       "description": "# Total reproductions - Optimism Media",
-      "number": 37521,
+      "number": 38122,
       "url": "https://docs.google.com/spreadsheets/d/1D7RBeh-adj5s4MgddV6gS6FfNcGeKkhN0t9q7i3bluU/edit?usp=sharing"
     },
     {
-      "description": "# Listeners - Tw Space - RetroPGF",
-      "number": 130,
-      "url": "https://twitter.com/i/spaces/1YpKkwyzZnjKj"
+      "description": "# Total opens - OP Newsletters",
+      "number": 8432,
+      "url": "https://docs.google.com/spreadsheets/d/1IqwKqbdCNqbYWeetAdYtUK45QLa2erBAzl4JiQ6XccA/edit?usp=sharing"
+    },
+    {
+      "description": "# Total opens - Ethereum Newsletters ",
+      "number": 18592,
+      "url": "https://docs.google.com/spreadsheets/d/1VdZeo0622n-pT-UnP6QpEDQQlSRTqNHMv_E_A0PS4Bw/edit?usp=sharing"
+    },
+    {
+      "description": "# Views - Free Live Courses",
+      "number": 26809,
+      "url": "https://docs.google.com/spreadsheets/d/1Fyp-_snRc9BBW8pTcyyL6yNLvnX_nyWSlBaPjbs3cG0/edit?usp=sharing"
+    },
+    {
+      "description": "# Course completion on Gamified Platform",
+      "number": 5990,
+      "url": "https://docs.google.com/document/d/1OH7USNEUmEEa5nUhqSgsv-XumEtlS57qnnCwAOj5wbk/edit?usp=sharing"
     }
   ],
   "fundingSources": [

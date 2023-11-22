@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
-  "websiteUrl": "https://github.com/drptbl",
-  "bio": "My name is Jakub, I'm a passionate QA Engineer/SDET and Core Contributor of Synthetix. I have around ~9 years of QA experience (~4 years in web3 ecosystem).",
+  "websiteUrl": "https://github.com/Synthetixio/synpress",
+  "bio": "Synpress is an end-to-end testing framework for dApps in the Web3 ecosystem.",
   "contributionDescription": "Synpress enhances the quality and security of dApps, protocols, and other Web3 tools. It is a trusted choice for countless dApp projects seeking comprehensive end-to-end (E2E) testing solutions. Many of these projects are closely tied to Optimism, either as direct builds or influential contributors. Our team is committed to providing dedicated 1:1 support to these projects. Furthermore, Synpress serves as the foundational core of OP Labs' Superchain gas monitoring solution, directly impacting the Optimism ecosystem. Since many projects utilize Synpress, we list the most notable ones below.",
   "contributionLinks": [
     {

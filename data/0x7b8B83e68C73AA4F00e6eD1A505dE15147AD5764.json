@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
-  "websiteUrl": "https://twitter.com/b3nnn21",
-  "bio": "I represent the Pocket Network Foundation: credibly neutral stewards of Pocket Network and the DAOs goal of unstoppable open data.",
+  "websiteUrl": "https://www.pokt.network/",
+  "bio": "A decentralised node network providing developer RPCs & public endpoints",
   "contributionDescription": "Pocket provides RPCs for Optimism developers via its decentralised node network.  Our noderunners have provided over 11.5 Billion relays to Optimism since June 2022.  \nWe have started integrating OP Stack chains by supporting BASE (136 Million relays since August 2023). \nWe also provide a dedicated public endpoint for Optimism free of charge to end users.\n\nFor developers, we provide a generous free tier up to 100,000 relays per day.  Our decentralised network enjoys near perfect uptime.",
   "contributionLinks": [
     {

@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://flink.fyi/",
-  "bio": "Head of Engineering @ manifold.xyz, previously Head of Protocol @ opensea.io, building flink.fyi - a Farcaster client",
+  "bio": "flink is a Reddit-like Farcaster interface to see hot & trending conversations",
   "contributionDescription": "flink is a consumer app / interface for Farcaster, which has identity ownership stored on-chain on OP mainnet. flink has been responsible for onboarding the majority of Farcaster uses by a wide margin since Farcaster moved to permissionless signups. This has in turn generated revenue for the protocol, all while being a self-funded side project.\n\nflink is differentiated from other clients by providing value to the existing web3 userbase. flink allows for anyone to simply connect a wallet and onboard to Farcaster by registering on OP mainnet. flink also provides rich embeds for users to transact (such as mint NFTs) through flink across a number of chains with the users sharing the links earning referral rewards through supported platforms like Zora and mint.fun.",
   "contributionLinks": [
     {

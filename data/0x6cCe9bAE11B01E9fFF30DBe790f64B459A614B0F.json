@@ -1,7 +1,7 @@
 {
-  "applicantType": "INDIVIDUAL",
-  "websiteUrl": "https://twitter.com/goforlindsey",
-  "bio": "I'm a Cofounder at Hedgey. We've been building on Optimism for over a year helping teams set up token vesting & lockups on our products.",
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://hedgey.finance",
+  "bio": "Hedgey is onchain vesting & lockups, as afree public good for teams on Optimism",
   "contributionDescription": "We've helped teams on Optimism to distribute locked and vesting tokens to their team, investors, and community. \n\nWe've also helped these tokens become more active in governance by enabling locked and vesting tokens to participate in governance. \n\nA specific contribution has been Collab.Land using Hedgey to distribute locked and vesting tokens to their team and investors using our free, onchain token infrastructure. \n\nIn addition to automating the distribution of these tokens to key supporters, Hedgey's contracts have enabled them to also become active in Onchain governance on Collab.Land proposals (via Tally.)\n\nWe don't expecting any funding and don't need it for our operations. Any funding we do get will be put back into Optimism in the form of a grant for new ideas launching on Optimsm",
   "contributionLinks": [
     {

@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://banklessacademy.com",
-  "bio": "Bankless Academy is building a web3 education public good: featuring lessons/quests, community participation, collectible content & open-source infrastructure.",
+  "bio": "Bankless Academy hosts a web3 onboarding journey, starting on Optimism.",
   "contributionDescription": "L2 blockchains are promising technology with inherent risks. It’s clear users need a basic web3 training program to guide & protect their first steps.\n\nBankless Academy provides a free learning journey following Bankless & Ethereum values. We are onboarding users to Optimism, to enjoy optimized transactions in an ecosystem valuing community ownership, public goods & self-sovereignty.\n\n- Teaching essential web3 skills: wallet creation/security, dApp use, infrastructure theory, etc\n- Hosting an Optimism onboarding journey: funding your wallet, using DEXs, governing/delegating on Optimism\n- Building open-source education infrastructure: lessons w/ quests & NFT badges, sybil-resistance w/ Gitcoin Passport, multilingual content, community corrections, and hosting collectible content on Optimism",
   "contributionLinks": [
     {

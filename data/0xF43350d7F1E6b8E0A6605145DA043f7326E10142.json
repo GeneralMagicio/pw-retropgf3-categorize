@@ -2,7 +2,7 @@
   "applicantType": "PROJECT",
   "websiteUrl": "https://tenderly.co",
   "bio": "Full-stack infrastructure solution for fast and reliable dApp development.",
-  "contributionDescription": "We are working towards achieving full Solidity and Ethereum tools redundancy, and more importantly portability across various networks, enabling teams to start building instantly and move across the Web3 space with ease, focusing on their project and core value they are creating, instead of spending a significant amount of their time building up infrastructure or tooling they need for the job at hand.\n\nHaving a full-fledged development environment and a robust infrastructure with all the necessary tooling is and will continue to be one of the most important factors in maturing not just the Optimism stack but Web3 as a whole, bringing in new users and projects based on real value, in a sustainable and retentive fashion.",
+  "contributionDescription": "Since integrating Optimism (14/7/2021), Tenderly has brought essential infrastructure and tools into both the OP ecosystem and the area of network portability, allowing teams to build instantly and move across Web3 with ease. Developers now simplify, automate, and speed up testing with CI/CD pipelines, end-to-end tests, and robust dApp staging environments synced with live data. They also simulate complex scenarios to ensure contracts and transactions execute as expected before deployment, and the observability solutions enable developers to set up custom alerts and automated responses for instant incident management. Finally, with API and SDK devs easily interact with and extend Tenderly functionalities, and access data in order to create workflows that work best for them.",
   "contributionLinks": [
     {
       "type": "GITHUB_REPO",
@@ -18,21 +18,26 @@
       "type": "OTHER",
       "url": "https://blog.tenderly.co/how-to-build-on-base-network-with-tenderly/",
       "description": "Official support on Tenderly for Base released"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://docs.tenderly.co/",
+      "description": "Tenderly Overview and Docs"
     }
   ],
   "impactCategory": [
     "DEVELOPER_ECOSYSTEM"
   ],
-  "impactDescription": "Projects using Tenderly on Optimism have been executing 100.000+ events/month on average (this includes running simulations and creating forks, alerts, web3 actions, debugging, gas optimizations, etc). 8 out of 10 leading projects on Optimism rely on our services.\n\nThere are also several projects that heavily rely on our Web3 Gateway (hosted node service), most notably Yearn, Zora, thirdweb, Endaoment, DeFi Yield, Frax, Kwenta with 250.000.000+ compute units spent in total between them per month.\n\nIn a bid to support the Superchain, Tenderly also integrated Base from day one, where projects are already executing more than 200.000.000+ compute units per month.",
+  "impactDescription": "Projects using Tenderly on OP have been executing on average 100,000+ events/month across our platform. 8/10 leading projects and 30+ projects in total on OP as well as over 2000 individual users currently using our services, with an average MAU of 434.",
   "impactMetrics": [
     {
-      "description": "Avg. Monthly Simulations (per account)",
+      "description": "Avg. Monthly Simulations (per project)",
       "number": 100000,
-      "url": "https://docs.tenderly.co/simulations-and-forks/simulation-rpc"
+      "url": "https://docs.tenderly.co/simulations-and-forks/intro-to-simulations"
     },
     {
-      "description": "Monthly Tenderly Units Spent",
-      "number": 250000000,
+      "description": "Monthly Tenderly Units Used (OP + Base)",
+      "number": 3000000000,
       "url": "https://docs.tenderly.co/other/tenderly-units-tu"
     }
   ],

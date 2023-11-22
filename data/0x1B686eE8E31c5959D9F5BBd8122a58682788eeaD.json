@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://l2beat.com/",
-  "bio": "L2BEAT is a public goods company dedicated to providing on-chain transparency. We serve as an impartial and independent steward for Ethereum community.",
+  "bio": "L2BEAT is a public goods company dedicated to providing on-chain transparency. ",
   "contributionDescription": "Since RPGF2 we have focused on:\n \nEnd User Experience and Adoption\n- Added a “risk rosette” - quickly compare risk vectors of different L2s\n- Introduced “stages”, progress on the road to full decentralization\n- Separated L2 TVL into assets bridged canonically, externally and minted natively on L2\n- Continuous addition of new L2s, incl. all new OP Stack chains\n- Published a report on “Upgradeability of Ethereum L2s”\n\nCollective governance\n- Hosted Governance Breakfast at several conferences, fostering governance discussion\n- Hosted weekly Optimism Office Hours \n- Hosting whole-day governance workshops during L2DAYS at Devconnect Istanbul\n\nDeveloper ecosystem\n- Constant development of contract monitoring of L2 systems\n- Build Your Own Rollup\n- co-hosted L2Warsaw & L2DAYS Istanbul\n- Earl.js",
   "contributionLinks": [
     {
@@ -111,10 +111,22 @@
       "description": ""
     },
     {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 500000,
+      "description": "Ethereum Foundation 2023 grant (second tranche)"
+    },
+    {
       "type": "GOVERNANCE_FUND",
       "currency": "OP",
       "amount": 63667,
       "description": "Optimism governance rewards and compensation since March 2023"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 85000,
+      "description": "Gitcoin since March 2023"
     },
     {
       "type": "OTHER",
@@ -133,6 +145,12 @@
       "currency": "USD",
       "amount": 5000,
       "description": "Direct donations"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 110000,
+      "description": "Development of public goods software funded by third-parties"
     }
   ],
   "payoutAddress": "0xeA78912803bE5E356EaC2b8e127D4BA87230A48e",

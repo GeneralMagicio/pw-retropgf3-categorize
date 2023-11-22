@@ -1,7 +1,7 @@
 {
   "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://asymmetricdefi.substack.com/",
-  "bio": "Defi Research and Analysis",
+  "bio": "Defi Research & Analysis",
   "contributionDescription": "As part of a grant from the Uniswap Foundation, I analyzed the financial performance of Uniswap across its deployments including Optimism.\nThe analysis was performed monthly during Q4 22 and Q1 23.\nThe Metrics analyzed on Optimism were: Uniswap volumes, fees, liquidity, return on Liquidity, Uniswap market share on Optimism... The analysis included historical levels of these metrics as well.",
   "contributionLinks": [
     {

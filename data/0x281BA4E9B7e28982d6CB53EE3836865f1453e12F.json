@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://cryptoversidad.com/",
-  "bio": "Our mission is to: accelerate the mass adoption of Web3 technologies. We produce high-quality educational content that helps understand and use web3 tools.",
+  "bio": "We create high-quality educational content about web3 technologies and tools",
   "contributionDescription": "Over recent months, we've achieved valuable milestones we're proud and excited to share:\n\nWeb3 Course in Spanish: Funded by RetroPGF 2, our web3 course covers blockchain, smart contracts, and scalability. We've launched it in collaboration with 10+ Latam communities.\n\nOptimism Videos: We've developed a bilingual video library to demystify Optimism, making it accessible to a global audience.\n\nBuilders Program: Between May-September, our program supported 10 individuals in gaining web3 skills and contributing to the ecosystem. Several have achieved noteworthy successes.\n\nStrong Team: Cryptoversidad now comprises 7 dedicated professionals, fostering a culture of value-add and collaboration.",
   "contributionLinks": [
     {
@@ -67,12 +67,6 @@
     }
   ],
   "fundingSources": [
-    {
-      "type": "RETROPGF_2",
-      "currency": "OP",
-      "amount": 10900,
-      "description": "RPGF 2 for our past work (outside of these contributions)"
-    },
     {
       "type": "GOVERNANCE_FUND",
       "currency": "OP",

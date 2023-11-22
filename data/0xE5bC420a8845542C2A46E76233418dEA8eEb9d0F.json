@@ -1,8 +1,8 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://protocol-guild.readthedocs.io",
-  "bio": "The Protocol Guild is a collective of active Ethereum contributors who have a high-impact track record of core protocol research, implementation and stewardship",
-  "contributionDescription": "As a rollup, Optimism leverages Ethereum for settlement & security assurances. It also uses several core infrastructure components (client implementations, specifications, test suites, etc.) developed and maintained by Protocol Guild contributors over the years. Optimism also directly benefits from protocol upgrades such as proto-danksharding (EIP-4844), which will reduce the fees its users need to pay.\n\nAll of this work supports a mutual relationship;\n- Ethereum provides an infrastructural foundation with particular characteristics (eg social, political, technical, economic) that only it can provide\n- Optimism produces lower-cost blockspace, while still inheriting some of Ethereum's characteristics, but at the same time allowing for more experimentation",
+  "bio": "A collective of Ethereum's active core protocol contributors",
+  "contributionDescription": "As a rollup, Optimism leverages Ethereum for settlement & security assurances. It also uses several core infrastructure components (client implementations, specifications, test suites, etc) developed and maintained by Protocol Guild contributors over the years. Optimism also directly benefits from protocol upgrades such as proto-danksharding (EIP-4844), which will reduce the fees its users need to pay.\n\nAll of this work supports a mutual relationship;\n- Ethereum provides an infrastructural foundation with particular characteristics (eg social, political, technical, economic) that only it can provide\n- Optimism produces lower-cost blockspace, while still inheriting some of Ethereum's characteristics, but at the same time allowing for more experimentation",
   "contributionLinks": [
     {
       "type": "GITHUB_REPO",
@@ -48,9 +48,24 @@
   "impactDescription": "- Optimism can rely on Ethereum for settlement & security assurances, in no small part due to the research & implementation work that went into migrating to Proof-of-Stake, which helped make Ethereum the most secure & decentralized smart-contract platform\n- Guild members' efforts to reduce rollup fees through proto-danksharding & danksharding will expand Optimism's use-cases and user base\n- Optimism’s execution engine is a fork of Go Ethereum aka Geth, which is maintained by Guild members\n- Optimism leverages the Ethereum Virtual Machine with its EVM-equivalent architecture, making Optimism's ecosystem more accessible to builders\n- Ethereum's core protocol development has played a key role in establishing Ethereum's prominent reputation, lending credibility & legitimacy to Optimism as well",
   "impactMetrics": [
     {
+      "description": "Gas savings factor on OP vs Ethereum",
+      "number": 59,
+      "url": "https://dune.com/queries/347708/662048"
+    },
+    {
       "description": "Total Protocol Guild members",
       "number": 152,
       "url": "https://protocol-guild.readthedocs.io/en/latest/9-membership.html#member-list"
+    },
+    {
+      "description": "Total gas spent by OP to settle on L1",
+      "number": 726932878962,
+      "url": "https://dune.com/queries/3123406"
+    },
+    {
+      "description": "ETH saved / day on OP (7-Day MA)",
+      "number": 21500,
+      "url": "https://dune.com/queries/347708/710045"
     },
     {
       "description": "Total years contributed by Guild members",
@@ -96,28 +111,13 @@
       "description": "OP onchain value secured by Ethereum USD",
       "number": 2710000000,
       "url": "https://dune.com/queries/346015/662177"
-    },
-    {
-      "description": "Total gas spent by OP to settle on L1",
-      "number": 726932878962,
-      "url": "https://dune.com/queries/3123406"
-    },
-    {
-      "description": "ETH saved / day on OP (7-Day MA)",
-      "number": 21500,
-      "url": "https://dune.com/queries/347708/710045"
-    },
-    {
-      "description": "Gas savings factor on OP vs Ethereum",
-      "number": 59,
-      "url": "https://dune.com/queries/347708/662048"
     }
   ],
   "fundingSources": [
     {
       "type": "RETROPGF_2",
       "currency": "OP",
-      "amount": 2557301,
+      "amount": 557301,
       "description": ""
     },
     {

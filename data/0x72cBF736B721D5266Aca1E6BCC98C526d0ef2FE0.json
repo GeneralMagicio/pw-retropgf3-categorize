@@ -1,8 +1,8 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://www.notion.so/Optimistas-Brillando-en-Blockchain-feb47704d270402c859b583a1619dad5?pvs=4",
-  "bio": "Optimistic Women Shinning Blockchain, the first women-led community with a focus on onboarding women into the Optimism Ecosystem, starting with Latin America",
-  "contributionDescription": "We serve as a platform for builders and participants to contribute to the Optimism Ecosystem. Our dedication lies in onboarding women (non-exclusively) into the Optimism Collective through:\n1. Educational resources, including workshops, newsletter posts, X-spaces, and social media content.\n2. Ongoing consultancy services for the community through a dedicated Telegram group, aimed at addressing questions related to Missions, RetroPGF applications, attestations, becoming delegates, and similar inquiries.\n3. Additionally, we have served as a platform for hosting in-person events related to Optimism, leveraging our economic and organizational resources. \n4. We've also provided financial support for speakers to attend Optimism-related events.",
+  "bio": "Latin American women onboarding more women to the Optimism Ecosystem.",
+  "contributionDescription": "We serve as a platform for builders and participants to contribute to the Optimism Ecosystem. Our dedication lies in onboarding women (non-exclusively) into the Optimism Collective through:\n1. Educational resources, including workshops, newsletter posts, X-spaces, and social media content.\n2. Ongoing 1:1 sessions for the community through a dedicated Telegram group, aimed at addressing questions related to Missions, RetroPGF applications, attestations, becoming delegates, and similar inquiries.\n3. Additionally, we have served as a platform for hosting in-person events related to Optimism, leveraging our economic and organizational resources. \n4. We've also provided financial support for speakers to attend Optimism-related events.",
   "contributionLinks": [
     {
       "type": "OTHER",
@@ -40,7 +40,7 @@
     "DEVELOPER_ECOSYSTEM",
     "END_USER_EXPERIENCE_AND_ADOPTION"
   ],
-  "impactDescription": "Delegated 45.23% of delegate Brichis's tokens. Our community supports 2 active delegates, 2 badge holders, and 3 former Scholars, now Council Members. We've empowered Latin American women with 5 1:1 sessions on becoming delegates.\n\nOver 80 scholars sponsored, with 4 projects deployed in 2 Hackathons on OP, 2 winning Optimism prizes. We've aided 2 community members in contributing as Optimism documentation translators. \n\nIn Season 4, we excelled in a Mission, exceeding Cohort interest, providing extra 1:1 consultations, and offering RetroPGF3 application guidance.\n\nWe have provided guidance and support for first-time users in the Optimism Ecosystem, helping them navigate transactions and make attestations",
+  "impactDescription": "Collective Governance:\nDelegated 45.23% of delegate Brichis's voting power, increasing the votable supply. \nOur community supports 2 active delegates, 2 badgeholders, and 3 former Scholars, now candidates to become Council Members. \nWe've empowered Latin American women with 5 1:1 sessions on becoming delegates.\n\nDeveloper Ecosystem:\nSponsored 80+ scholars, with 4 projects deployed on OP, 2 winning Optimism prizes. \nGuided 2 community members on how to contribute as Optimism documentation translators. \n\nIn Season 4, we excelled in a Mission, exceeding Cohort interest, providing extra 1:1 sessions, and offering RetroPGF3 application guidance.\n\nWe have provided guidance and support for first-time users in the Optimism Ecosystem, helping them navigate transactions and make attestations",
   "impactMetrics": [
     {
       "description": "Attestations-Workshops Attendees",
@@ -61,6 +61,11 @@
       "description": "Received Attestations",
       "number": 2,
       "url": "https://optimism.easscan.org/schema/view/0x314e8e2378ab8cd85d3dfb2641254b6472fbffc4162c1224d31837daf69e3733"
+    },
+    {
+      "description": "%RetroPGF2 received delegated to Brichis",
+      "number": 100,
+      "url": "https://www.tally.xyz/profile/0x7fc80fad32ec41fd5cfcc14eee9c31953b6b4a8b?governanceId=eip155:10:0xcDF27F107725988f2261Ce2256bDfCdE8B382B10"
     }
   ],
   "fundingSources": [

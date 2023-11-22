@@ -1,7 +1,7 @@
 {
   "applicantType": "INDIVIDUAL",
-  "websiteUrl": "https://dune.com/Marcov",
-  "bio": "I am a Blockchain Data Analyst and have been covering various chains and projects since 2021, including Optimism. ",
+  "websiteUrl": "https://dune.com/MarcoV",
+  "bio": "I am a Web3 Data Analyst covering the Optimism Ecosystem ",
   "contributionDescription": "Over the past years i have created numerous Dune Dashboards (which are listed below) regarding the Optimism Ecosystem, including a chain overview (transactions, TVL, projects), governance statistics (delegates data), after bridge overview (what do users do after bridgeging), data about the $OP token (holders, price, airdrops), but also study's on Airdrop effect and Coinbase Quests. I also covered serveral projects that currently have prescence on OP like Velodrome and Polynomial. These dashboards have been referenced on serveral places.\n\nBesides creating new dashboards, existing ones continuously need updates. Reasons are for example: 1) Adding new metrics to dashboards, 2) Contracts/dapps get updated, 3) Dune has migrated to a new query language therefore all querys needed rewriting. \n\n",
   "contributionLinks": [
     {

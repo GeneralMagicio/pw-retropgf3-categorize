@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://justcause.finance",
-  "bio": "JustCause is a crowdfunding app that allows users to contribute to public goods, charitable organizations, and more, all while preserving their initial deposit.",
+  "bio": "Crowdfunding application that uses an innovative funding mechanism",
   "contributionDescription": "We launched our new version on Optimism and have pool to earn donations for Coin Center, The Protocol Guild, and Gitcoin Grants. Contributors deposit tokens into JustCause Pools which in turn deposit them into lending protocols. The interest earned is donated to the cause associated with the Pool. When Contributors need access to their funds they simply withdraw their original deposit and the interest accrued is left behind for the cause. We have almost $30k USD deposited in our first few weeks. ",
   "contributionLinks": [
     {

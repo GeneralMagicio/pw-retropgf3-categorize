@@ -1,7 +1,7 @@
 {
-  "applicantType": "INDIVIDUAL",
+  "applicantType": "PROJECT",
   "websiteUrl": "https://thegraph.com/",
-  "bio": "Director of Global Business at Edge & Node, the initial team behind The Graph and now one of 6 core developer teams working on the technology for the world.\n",
+  "bio": "The Graph organizes and makes usable web3 data for dapps via GraphQL. ",
   "contributionDescription": "The Graph has supported Optimism since the initial launch of mainnet. More on that here: https://thegraph.com/blog/graph-optimistic-ethereum/. \n\nSince Optimism mainnet launch, The Graph's hosted service, subsidized by The Graph ecosystem (meaning completely free for dapps) has served:\n\n22.7B queries\n1.15K subgraphs\nwith a 99.97% query success rate.\n\nOver the past 30 days alone, The Graph has served 1.24B queries.\nAlso, The Graph supports Optimism Goerli and Kovan, and on testnet has served:\n\nGoerli\n1.24B queries\n272 subgraphs\n99.98% query success\n\nKovan\n173M queries\n154 subraphs\n99.99% query success",
   "contributionLinks": [
     {
@@ -27,8 +27,26 @@
     {
       "type": "OTHER",
       "currency": "USD",
-      "amount": 750000,
-      "description": "RetroPGF3...not listed in the drop down"
+      "amount": 50000000,
+      "description": "Strategic funding round from web3 Investors"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 7000000,
+      "description": "Seed Round"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 1000000,
+      "description": "Series A"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 1000000,
+      "description": "Venture Round"
     }
   ],
   "payoutAddress": "0x9e8B73b5563c9aF1C35e5Aad588B67B6A414576b",
@@ -37,7 +55,7 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "displayName": "Kyle Rojas",
+  "displayName": "Edge & Node / The Graph",
   "applicantName": "Kyle Rojas",
   "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9e8B73b5563c9aF1C35e5Aad588B67B6A414576b.jpeg",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x9e8B73b5563c9aF1C35e5Aad588B67B6A414576b.json",
@@ -48,5 +66,6 @@
   "pwRecategorizeReason": "NO, the application is incorrectly categorized as a \"PROJECT\" but should be \"INDIVIDUAL\" as the bio refers to a person \"Director of Global Business at Edge & Node\" instead of a project.",
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Tokenization Platforms, Decentralized Finance (DeFi)",
-  "pwFlaggedReason": "missed flag"
+  "pwFlaggedReason": "missed flag",
+  "applicationApprovalUID": "0x8526b3343ae97a1859ff98d7f7d414ba2f47735d62a84b94f5aef514b5260aa6"
 }

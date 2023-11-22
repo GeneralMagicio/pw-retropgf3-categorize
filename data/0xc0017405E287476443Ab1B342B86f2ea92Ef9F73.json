@@ -1,7 +1,7 @@
 {
-  "applicantType": "INDIVIDUAL",
-  "websiteUrl": "https://willemolding.github.io/",
-  "bio": "I'm the R&D program lead at ChainSafe Systems and a contributor to open source in my spare time. Hackathon addict and passionate about provable computation.",
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://github.com/badboilabs/Cannon-rs",
+  "bio": "Tooling to develop and emulate verifyable programs for Optimism Cannon in Rust",
   "contributionDescription": "Over the past 6 months we have advanced the Rust tooling for Cannon from a small template repo to a full stack of tooling. This involved the following:\n\n- Changes to support that latest version of Cannon and the updated pre-image oracle\n- A docker builder image for easy cross-compilation of MIPS binaries\n- `cargo cannon` CLI tool to make it simple to bootstrap and build projects\n- Updated API for retrieving pre-image oracle data that is safer and more rust idiomatic\n\nCannon-rs is currently used by ChainSafe Systems and Sygma to develop production applications that use Cannon and the OP stack.",
   "contributionLinks": [
     {

@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://ethernaut.openzeppelin.com/",
-  "bio": "The Ethernaut is an open-source solidity-based wargame maintained by OpenZeppelin. Each level is a smart contract that needs to be 'hacked'.",
+  "bio": "A wargame for developers to learn how to break dummy smart contracts.",
   "contributionDescription": "The Ethernaut is a community-driven capture-the-flag wargame that challenges developers of all levels to break smart contracts while learning common solidity vulnerabilities maintained by OpenZeppelin. Each level is a gamified experience where a smart contract needs to be 'hacked'. It is 100% open source and all levels are contributions made by other players.\n\nIn the last 2-years we have added 5 new levels, done a complete redesign of the UI, added support for multiple networks incl. Goerli-Optimism, translated the game into 10 languages, added a leaderboard feature and refactored the GitHub repository to host discussions and technical support.\n\nWe believe that The Ethernaut is essential in the the training of developers across the Ethereum ecosystem including the Optimism network.",
   "contributionLinks": [
     {

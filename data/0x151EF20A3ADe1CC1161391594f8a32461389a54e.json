@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://soliditylang.org/",
-  "bio": "Solidity is a statically-typed curly-braces programming language designed for developing smart contracts that run on Ethereum and other EVM-compatible networks.",
+  "bio": "Solidity is a statically-typed curly-braces programming language for EVM chains",
   "contributionDescription": "Solidity is both used for the Optimism smart contracts on Ethereum mainnet as well as smart contracts running on Optimism itself.\n\nSolidity is currently the most used programming language on Ethereum and on Optimism.\n\nThe Solidity team maintains the Solidity language as well as the solc Solidity compiler.",
   "contributionLinks": [
     {

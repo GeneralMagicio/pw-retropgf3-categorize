@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
-  "websiteUrl": "https://limone.lol",
-  "bio": "your friendly neighborhood lemon 🍋 squeezing in web3 & frontier tech | core @urbeEth 🐺 | organizing @ETHRome 🏛 | multipotential 🎨",
+  "websiteUrl": "https://findcaster.com",
+  "bio": "The best place to find people on Farcaster",
   "contributionDescription": "I need funding in order to pay for the infrastructure as the Farcaster data to handle is already a lot. I need premium plans on Vercel, Supabase and Railway to keep the service running properly. Vercel used to host the webapp. Supabase to store and index the data. Railway to have some periodic and scheduled tasks running (e.g. synchronizing with the new data in the network)",
   "contributionLinks": [
     {

@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://evm.finance/",
-  "bio": "Providing Asset Management for the leading Blockchains. Optimism with Aave Interface. Uniswap Interface.",
+  "bio": "Asset Management for the top blockchains with Optimism interface to Aave",
   "contributionDescription": "EVM.Finance is a one-stop DeFi asset management platform for multiple blockchains. Our platform provides user balances and transactions; a DeFi Screener; Interfaces for Uniswap trading and Aave lending; block readers; and detailed token pages. \n\nOptimism token pages with an Aave on Optimism lending interface, Uniswap trading interface, wallet balances, important token metrics and a price chart. Users like the side-by-side Aave and Uniswap interface when performing multiple steps creating Aave positions.\n\nAdded ABI contract interface based on RFG-2 request.\n\nEVM.Finance provides a user-friendly environment for  individuals to access balances and transactions for multiple blockchains, mitigating the DeFi fragmentation.\n\n",
   "contributionLinks": [
     {

@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
-  "websiteUrl": "https://benadamsky.com",
-  "bio": "Bringing social surveys to the web3 ecosystem @ Ponder. Lead Engineer @ Freeport (tokenized Warhols on Ethereum).",
+  "websiteUrl": "https://weponder.io",
+  "bio": "Social surveys for the next generation of thinkers",
   "contributionDescription": "The web3 community has no efficient way to survey the thoughts of thinkers, builders and users at scale. Additionally, there are only a few ways to organically build knowledge-based reputation on chain.\n\nPonder currently solves both of these issues by deploying social surveys on Farcaster (Optimism), then rewarding respondents with reputation and tokens (Base) based upon the quality and frequency of responses. These surveys enable users to ask important questions of the community, build their personal reputation by answering, and earn rewards while they’re at it.\n\nWe’ve deployed over 95 surveys in 8 months, and have nearly 500 monthly active users.",
   "contributionLinks": [
     {

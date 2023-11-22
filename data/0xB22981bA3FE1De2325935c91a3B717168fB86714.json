@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://dappnode.com/ ",
-  "bio": "Dappnode enables users to participate in decentralized networks without needing to rely on centralized infrastructure providers, such as cloud hosting.",
+  "bio": "Since 2018, Dappnode has been key for decentralization in Ethereum.",
   "contributionDescription": "Our first contribution to Optimism was almost 3 years ago in December 2020 when we included the Testnet Verifier and Fraud Prover in our DAppStore for all Dappnode users to help with the early testing of the initial Optimism testnets on Kovan.\nIn its history Dappnode has built bridges between average users and projects that seek decentralization in its development by making running nodes accessible. Supporting Ethereum from early years to PoS migration, optimistic rollups are no stranger to the values that have helped the Ethereum ecosystem, and Dappnode has recently added Optimism to its Rollups menu, a dashboard that lets you easily run a node. We have been present as a tool that pushes decentralization for Optimism as its evolution keeps moving forward and we intend to keep doing so.",
   "contributionLinks": [
     {

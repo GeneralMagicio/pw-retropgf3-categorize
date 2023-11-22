@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
-  "websiteUrl": "https://www.rareskills.io",
-  "bio": "We are one of the leading publishers of advanced study materials for smart contract engineers and auditors. All our materials are free of charge.",
+  "websiteUrl": "https://www.rareskills.io/zk-proofs",
+  "bio": "The RareSkills Book of Zero Knowledge is a free code-oriented course in ZK.",
   "contributionDescription": "We are seeking funding for the RareSkills Book of Zero Knowledge Proofs.\n\nIt is a completely free book with over 13 chapters that teaches smart contract developers how to implement ZK-SNARKs from scratch. We believe it is best to learn by coding rather than by learning in abstract. There is no getting around the math in the subject, but we try to narrow it down to the most essential areas and teach by showing lots of examples rather than giving proofs.\n\nThe book is already complete and we are currently working on adding sections for Bulletproofs and ZK-STARKs.\n\nWe already have evidence developers are able to use the material effectively. Here is a writeup from a developer who used the resource: https://medium.com/coinmonks/under-the-hood-of-zksnark-groth16-protocol-2843b0d1558b",
   "contributionLinks": [
     {

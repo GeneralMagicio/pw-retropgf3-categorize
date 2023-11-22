@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://yoki.finance/",
-  "bio": "Marketing Director Yoki Finance",
+  "bio": "Web3 recurring payments infrastructure",
   "contributionDescription": "Yoki Finance has built a Web3 Dollar-Cost-Averaging app as a public good. It is an open, gasless, and free solution that could be used by retail users, projects, and devs.\n\nThe \n\nThe application creates an auto-buy smart contract for the user and automates the swaps according to the chosen frequency, sum, and pair.",
   "contributionLinks": [
     {

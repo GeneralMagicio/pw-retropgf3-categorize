@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://foam.space/",
-  "bio": "FOAM is a  radio based Proof of Location technology for applications needing secure location services for onchain location proofs. ",
+  "bio": "Co-founder of the FOAM protocol, have been involved with Ethereum since 2015. ",
   "contributionDescription": "The FOAM team has contributed technically to the Optimism Collective by using the OP-Stack to fork and spin up a local OP-Devnet, 5 Proof of Location contracts have been deployed for testing. We also created a custom plug-in for Hardhat that allows developers to write and test OP-Stack rollups contracts and L1 and L2 interactions. The FOAM team has also provided developer feedback to OP Labs. Proof of Location is a new unlocked primitive for novel applications bringing mindshare, awareness and new ideas to OP.\n\nFOAM represents the first DePIN (Decentralized Physical Infrastructure Network) network to build on Optimism bringing fault-tolerant location data onchain to the Superchain. This has a signaling effect on the rest of the web3 ecosystem, that Optimism can be a hub for DePIN networks.",
   "contributionLinks": [
     {

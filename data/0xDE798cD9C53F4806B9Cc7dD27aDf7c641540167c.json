@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://geoweb.network/",
-  "bio": "Creating augmented, shared reality:\n\nPublic goods funding, infrastructure, & coordination mechanisms for the spatial computing era",
+  "bio": "Building *augmented shared reality* with public goods infrastructure & flywheels",
   "contributionDescription": "Our ambitious vision for open spatial computing has driven us to impact Optimism even if our vision isn’t fully realized yet. We’ve demonstrated new open-source smart contracts that incorporate innovative web3 concepts like partial common ownership & token streaming.\n\nWe ran the first-ever community QF round on the Gitcoin Grants Stack (4 ETH matching, >$1k direct donations). We helped identify & troubleshoot UX+technical issues, shared lessons learned, & inspired others to run QF rounds on Optimism.\n\nOur work to deliver the onchain AR publishing capabilities has yielded two general-use open-source libraries: Kubernetes Helm charts for easier OP Chain deployment management & a native SWIFT-MUD client to bring more onchain functionality/Autonomous Worlds to the Apple app ecosystem.",
   "contributionLinks": [
     {

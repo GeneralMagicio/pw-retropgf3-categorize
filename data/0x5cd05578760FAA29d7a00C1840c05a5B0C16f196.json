@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
-  "websiteUrl": "https://playmint.com/",
-  "bio": "CTO - Playmint - Using the blockchain to make a new category of decentralised games owned and extended by the players.",
+  "websiteUrl": "https://playmint.com/downstream",
+  "bio": "Downstream is an MMO implemented as a fully onchain, Autonomous World.",
   "contributionDescription": "Downstream is a game, with logic and state all controlled by smart contracts. The game design focusses on emergent gameplay where players are guided to write and deploy their own game extensions to the chain. \n\nCurrently deployed to a fork of OP Stack that is settling on goerelli, all code is open source, including smart contracts, backend service and the browser game client.\n\nThe game as a whole represents a significant contribution as a working example of an Autonomous World but there are also many specific, open source,  onchain game primitives implemented including:\n\n  - Session Key signing. \n  - Multiplayer Optimistic Updates. \n  - Automatic Indexing. \n  - Automatic plugin loading.   \n  - Player deployment tools. ",
   "contributionLinks": [
     {

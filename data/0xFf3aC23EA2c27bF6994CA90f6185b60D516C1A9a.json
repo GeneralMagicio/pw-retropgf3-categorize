@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://github.com/qd-qd/wallet-abstraction",
-  "bio": "Internet's own boy is what I am. DevRel at Ledger is what I do.",
+  "bio": "Your wallets are about to disapear!",
   "contributionDescription": "Wallet Abstraction offers seamless, one-click user onboarding using only a smartphone or a laptop, thanks to the advanced features of account abstraction with passkeys. Users can generate passkey credentials, set up their smart accounts, and even mint an NFT—all with a single click! The wallet remains completely invisible to the user.\n\nWe deploed on Optimism demonstrating that optimism can support this innovative (Yet very secure) wallet mechanism. By bringing this first example of complete application that includes 4337 wallet + Webauthn (Passkeys) + Seamless UX. We demonstrate that optimism can verify secp256r1 signatures for a cheap amount of gas. Which ultimately demonstrates that every recent hardware can use built in secure enclave as smart wallet.",
   "contributionLinks": [
     {

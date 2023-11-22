@@ -1,9 +1,14 @@
 {
   "applicantType": "PROJECT",
-  "websiteUrl": "https://quantumfair.com",
-  "bio": "QuantumFair is a raffle protocol dApp for public goods launched on Optimism where winners are selected by API3 QRNG.",
+  "websiteUrl": "https://Quantumfair.com",
+  "bio": "QuantumFair is a raffle protocol dApp for public goods launched on Optimism.",
   "contributionDescription": "QuantumFair has built a raffle smart-contracts protocol for Optimism. \n\nQuantumFair smart-contract allows to deposit their prize (an NFT and/or ERC-20 tokens) in a QuantumFair vault. The raffle owner sets out their parameters (ticket price, ticket asset, raffle objective, reserve price, and expiry date). API3 QRNG then chooses the winner(s). The prize and funds are trustlessly transferred to the winner(s) and predetermined addresses. \n\nQuantumFair has been in development since October 2022. \n\nCore Architecture:\nVaults: The contract enables secured asset storage for safekeeping during the duration of such raffles.\n\nRaffle: raffle service, enabling players to distribute assets from a creator to the participants in the activity.\n\nAPI3 QRNG: is a source of randomness for our services.",
   "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://arbiscan.io/address/0x881d551384130e05cc39a010aba4fdb703e6afb6#code",
+      "description": "Version 0.1 deployed on Arbitrum on October 2022."
+    },
     {
       "type": "CONTRACT_ADDRESS",
       "url": "https://goerli.etherscan.io/address/0x7E0755a50E1C3b2BB8AbECE23F139Be25B8D5348",
@@ -26,12 +31,12 @@
   "impactDescription": "QuantumFair's impact is in terms of smart-contract development and market focus on Optimism.\n\nSmart-contract finished development on Optimism: \n\n(1) QuantumFair uses Beacon Proxy contract using MCP in the entry point contract.\n\n(2) The user opens the contract and locks the assets in the dynamic vault.\n\n(3) With the contract in an open state, then users can register themselves as participants by paying or not a specified fee in ETH or a predefined ERC20 token.\n\n(4) After the time is over, the raffle is set to close. The contract makes a call to the Airnode through our requester contract to choose the winner.\n\n(5)Lastly, we retrieve the results and wrap the raffle contract in a finished state.\n\nMarket Reach:\n(1) We have had 25,200 impressions on X (twitter) in 4 days of going publicly live. ",
   "impactMetrics": [
     {
-      "description": "Raffle contract",
+      "description": "Raffle contract entries",
       "number": 115,
       "url": "https://optimistic.etherscan.io/address/0x6109497af885e1e4d3f6dc851cda41e423ff28e7"
     },
     {
-      "description": "Raffle Proxy",
+      "description": "Raffle Proxy entries",
       "number": 115,
       "url": "https://optimistic.etherscan.io/address/0x2190A7273F77FF362bcDa4D631535c1d5add1336"
     }

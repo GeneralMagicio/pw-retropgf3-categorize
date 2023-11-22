@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://www.tryethernal.com",
-  "bio": "Software engineer. Founder of www.bannerman.com & www.tryethernal.com",
+  "bio": "Ethernal is a block explorer for EVM-based chains",
   "contributionDescription": "Ethernal has three main use cases\n1. Individual contributors\nDevelopers can spin up a full block explorer connected to their local development chain in a few minutes.\nBlocks & txs are automatically synced and processed, and give detailed info to the developer. ABIs can also be synced in order to generate an UI to interact with the contract.\n2. Teams\nThrough either the UI or the API, teams can connect their hosted testnet RPC and get a full explorer accessible through a public url (can be their own domain), making easier to do internal/user testing.\n3. Appchains\nIt can be block explorer for Optimism L2s. It takes a few seconds to launch and everything is handled automatically.\nIt has an API to launch explorers on demand (especially important considering all the \"L2 as a service\" launching).",
   "contributionLinks": [
     {

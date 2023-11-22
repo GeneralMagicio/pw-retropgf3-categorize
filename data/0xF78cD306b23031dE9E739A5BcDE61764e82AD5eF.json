@@ -1,7 +1,7 @@
 {
   "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://ronan.eth.limo",
-  "bio": "I am a game dev contributing to web3 public good with EIPs (ERC-1155, ERC-2771), tools (hardhat-deploy, jolly-roger and more) as well as open-source games.",
+  "bio": "Building open-source tools for the web3 space (hardhat-deploy and more)",
   "contributionDescription": "- built hardhat-deploy\nallow you to deploy contracts to any network with ease, keeping track of them and replicating the same environment for testing. A reference tool yet to be emulated on other framework. optimism uses it.\n\n- invented clones-with-immutable-args\nAn innovative mechanism that allow the copy of smart contract (clone) while letting them be configured \nOptimism use one of the fork of my original repo.\n\n- wrote \"Ethereum, The Concept of Gas and its Dangers\", an often referenced article on how gas work on the EVM:  https://ronan.eth.limo/blog/ethereum-gas-dangers/ \n\n- co-authored ERC-1155\nA standard that stands among the 3 main token standard in use today\n\n- co-authored ERC-2271\nA standard for meta-transaction used on Optimism by Gelato and Biconomy",
   "contributionLinks": [
     {

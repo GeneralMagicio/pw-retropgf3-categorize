@@ -1,7 +1,7 @@
 {
   "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://github.com/rdubois-crypto/FreshCryptoLib",
-  "bio": "- Expert Cryptographer for the Defense Industry for 17 years.\n- Expert Cryptographer in Extended Ethereum Ecosystem for 2 years.\nECC master, ZKP padawan.",
+  "bio": " Expert Cryptographer for 19 years (17 Defense then 2 Eth ecosystem).",
   "contributionDescription": "I deployed the most gas optimized version of the computation of curve secp256r1, as described in my paper. I pushed the contract over polygon and optimism testnet so that anyone can build application on top.\n\nMain application is the verification of WebAuthn authentication. Using this work, we managed to win the Ethereum NY hackaton with our project wallet abstraction. https://github.com/qd-qd/wallet-abstraction. \n\nThe maths implied there will also be applicable to ed25519 i'm working on, when this curve, that belongs to FIDO2 spec is integrated in WebAuthn.\n\nPlease note that the eoA I used to deploy the contract is the same that i used to win the hackaton. (verifiable Poaps and prizes there).\n",
   "contributionLinks": [
     {

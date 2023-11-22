@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://rotki.com/",
-  "bio": "Rotki: Local first, open-source crypto & tradfi portfolio manager giving you a bird's eye view over your holdings. Track, analyze, and manage assets securely.",
+  "bio": "The local-first, opensource asset tracking and management tool for crypto/tradfi",
   "contributionDescription": "Rotki has made significant contributions to Optimism. From early days, rotki recognized the potential of Optimism as an L2 and was the first EVM chain to be integrated\n\nIt supports many Optimism protocols and superchain capabilities making it a versatile and indispensable tool for those navigating the ecosystem\n\nIts innovative decoding system for transactions has greatly enhanced user experience. Optimism users have praised it as a more user-friendly alternative to Etherscan\n\nIt also offers PnL reports, allowing Optimism users to do accounting in a privacy preserving way\n\nIts contributions encompass opensource code, tracking, protocols support, user-friendly decoding system and PnL accounting. These have solidified rotki's role as a vital platform within the Optimistic Ethereum community",
   "contributionLinks": [
     {

@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://www.erc4337.io/",
-  "bio": "Security researcher at the Ethereum Foundation, co-author of ERC-4337 Account Abstraction and other EIPs, contributor to OP security, badgeholder since RPGF #1.",
+  "bio": "ERC-4337 account abstraction core team",
   "contributionDescription": "Brought standard decentralized Account Abstraction to OP and many other chains.\n\n- The team has been building it since 2021\n- 5 full-time team members\n- 100% public good, no VC funding, no token. Supported by the EF.\n\nProgress since RPGF #2:\n- Deployed the audited v0.6\n- Growing adoption:\n  - Transactions: >4M UserOps total, ~500k on OP+Base\n  - Users: ~850k accounts total, ~196k on OP+Base\n  - Paymaster sponsored gas: >$500k\n  - Used by popular apps on OP, e.g. CyberConnect\n- Progress on mempool decentralization and censorship resistance\n- UX and DevEx improvements\n- Ongoing support of numerous projects and integrations: wallets, dapps, infrastructure...\n- Promoting adoption: talks, workshops, hackathons.\n",
   "contributionLinks": [
     {

@@ -1,8 +1,8 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://www.ethaccra.xyz/",
-  "bio": "We are a passionate group of local people that wants to help grow the local Ethereum ecosystem in West Africa. ",
-  "contributionDescription": "ETHAccra 2023 has come and gone, and we are so excited for the impact we have created. It was a local community initiative to help grow the Ethereum & L2(Optimism) ecosystem in West Africa. ETHAccra hackaton enabled participants to connect, learn, hack and build elevating web3 to solve local solutions.\nETHAccra successfully conducted a developer campus tour across Ghana with the goal in training developers, ignited the passion in budding web3 leaders, recruited new builders, armed them with practical know-how and unlock a universe of opportunities in the ecosystem, Optimism included. \n",
+  "bio": "Abena is an academic researcher, community builder and founder of ETHAccra. ",
+  "contributionDescription": "ETHAccra hackathon 2023 (95 hackers, 15+ submitted projects and USD 10K sponsor prizes) was a local community initiative to help grow the Ethereum & L2 (Optimism) developer ecosystem in Ghana, West Africa. ETHAccra hackathon enabled participants to connect, learn, hack and build elevating web3 to solve local solutions.\nETHAccra successfully conducted a developer campus tour across 4 universities in Ghana with the goal in training developers, igniting the passion in budding web3 leaders, recruited new builders, armed them with practical know-how and unlock a universe of opportunities in the ecosystem, Optimism included. \n",
   "contributionLinks": [
     {
       "type": "CONTRACT_ADDRESS",
@@ -18,13 +18,18 @@
       "type": "OTHER",
       "url": "https://docs.google.com/document/d/1XZSBfl_hZRkz2oICSQDrN6ncd_StvG4vDKzN66jshdY/edit#heading=h.19pbc4v9x9p",
       "description": "ETHAccra Hackathon Facts & Figures"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://docs.google.com/document/d/1KnyQ0iFuESo1NAYG9mhPUd5648GfCuIBSiyDk4Upocw/edit?usp=sharing",
+      "description": "ETHAccra Social Media Impressions"
     }
   ],
   "impactCategory": [
     "DEVELOPER_ECOSYSTEM",
     "END_USER_EXPERIENCE_AND_ADOPTION"
   ],
-  "impactDescription": "Developer Ecosystem\nThe hackathon marked a significant milestone as the first of its kind in Ghana, paving the way for further innovation in the region. Many of the participants were first-time builders who were new to web3 technology. Hence ETHAccra has successfully welcomed and integrated these new builders into the ecosystem, and we remain committed to this mission. \n\nEnd User Experience and Adoption\nAdditionally during the Developer Campus tour we have onboard many participants into the Optimism ecosystem by setting up a web3 wallet and introducing them into the ecosystem. We also provided them with educational learning material on how to better navigate in the Optimism L2 ecosystem.\n",
+  "impactDescription": "Developer Ecosystem\nThe hackathon marked a significant milestone as the first of its kind in Ghana, paving the way for further innovation in the region. We had in total 97 registered hackers, many of the participants were first-time builders who were new to web3 technology. Hence ETHAccra has successfully welcomed and integrated these new builders into the ecosystem, and we remain committed to this mission. \n\nEnd User Experience and Adoption\nAdditionally during the Developer Campus tour we have onboarded many participants into the Optimism ecosystem by setting up a MetaMask wallet and introducing them into the ecosystem. We also provided them with educational learning material on how to better navigate in the Optimism L2 ecosystem.\n",
   "impactMetrics": [
     {
       "description": "Developer Campus Tour",

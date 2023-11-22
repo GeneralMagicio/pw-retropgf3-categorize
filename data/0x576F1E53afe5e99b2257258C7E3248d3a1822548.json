@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
-  "websiteUrl": "https://norswap.com",
-  "bio": "I used to work for OP Labs, now I work on a fully on-chain trading card game called 0xFable.\n\nLearn more at https://twitter.com/0xFable",
+  "websiteUrl": "https://github.com/0xFableOrg/roll-op/",
+  "bio": "The simplest way to spin your own dev / prod rollup.",
   "contributionDescription": "roll-op is a script that makes it trivial for any developer to spin up an OP stack rollup, both for dev and production use.\n\nThe script lets you configure and run your own rollup by running only two or three commands. It uses a single well-documented config file.\n\nAdditionally, it supports EIP-4337 AA infrastructure (bundler + paymaster) and helps you automatically subsidize gas for transactions that match certain criteria.\n\nSpinning a rollup on Goerli is as simple as:\n\n> git clone git@github.com:0xFableOrg/roll-op.git\n> cd roll-op\n> cp conf.toml.example conf.toml\n# conf.toml: uncomment Goerli section, add your keys & rpc\n> ./rollop setup --yes\n> ./rollop --preset=prod --conf=conf.toml l2\n\nMore info: https://twitter.com/norswap/status/1707188816455622899",
   "contributionLinks": [
     {

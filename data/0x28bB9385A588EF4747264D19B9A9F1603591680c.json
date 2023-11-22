@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
-  "websiteUrl": "https://www.gelato.network/",
-  "bio": "Gelato is web3’s cloud platform - an end-to-end developer platform to build scalable, user-friendly and feature-rich web3 applications",
+  "websiteUrl": "https://gelato.network",
+  "bio": "Gelato is web3's cloud platform  ",
   "contributionDescription": "At Gelato, we are dedicated to propelling the development and widespread adoption of Optimism. Our efforts have been instrumental in elevating the Optimism ecosystem, solidifying our position as web3's leading cloud platform. We wholeheartedly believe in the transformative potential of decentralized solutions and have relentlessly championed the growth of Optimism.\nThrough our middleware services, including Automate, Web3 Functions, and Account Abstraction, we've automated over 144,568 transactions on Optimism and enabled frictionless gasless transactions. This profound impact has driven substantial adoption and growth across a diverse range of projects. Notably, Optimism leads as the primary network for Automate task creations. Currently, 39 projects are using Gelato Services on Optimism.",
   "contributionLinks": [
     {

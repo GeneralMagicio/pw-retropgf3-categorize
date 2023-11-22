@@ -1,7 +1,7 @@
 {
   "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://2007.io",
-  "bio": "15yo software engineer with 8yrs experience. Built two successful DeFi projects. Contributing to Open Source stuff in the industry. Love hacking around.",
+  "bio": "15 yo software engineer and open source contributor",
   "contributionDescription": "My primary contribution to Optimism lies in developing cross-chain protocols, bolstering interoperability. OmniLido allows users to deposit into Lido from Optimism, bridging ETH to Ethereum via LayerZero. OmniMint & OmniBuy further this cross-chain mission. All codes are open-sourced on GitHub, ensuring transparency and fostering community-driven innovation. By leveraging Optimism's low gas fees and robust Layer 2 attributes, these projects accentuate its versatility and appeal in the blockchain sphere.",
   "contributionLinks": [
     {

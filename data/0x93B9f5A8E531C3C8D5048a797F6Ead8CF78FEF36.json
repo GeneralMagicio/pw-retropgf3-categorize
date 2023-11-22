@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://grandine.io",
-  "bio": "We are building the fastest Ethereum consensus layer client Grandine and EIP-4844 ecosystem.",
+  "bio": "We are building consensus layer client Grandine and EIP-4844 ecosystem.",
   "contributionDescription": "Our mission is to build the fastest Ethereum consensus layer client and related ecosystem. The consensus layer performance is critical for growing Ethereum validator list and scaling features such as blob transactions that help to scale Optimism (and other L2s)! We have already open-sourced some parts such as the high-performance rust-kzg https://github.com/sifraitech/rust-kzg library for EIP-4844 and we are in progress open-sourcing the rest. The client is currently available as a binary release for evaluation, which is used by a couple of percent of the mainnet according to MigaLabs ( https://monitoreth.io/validators ). ",
   "contributionLinks": [
     {

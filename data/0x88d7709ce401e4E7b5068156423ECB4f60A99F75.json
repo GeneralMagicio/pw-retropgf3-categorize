@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://www.idriss.xyz",
-  "bio": "A community-owned and operated suite of tools making web3 more usable for everyone 🤝",
+  "bio": "A community-owned and operated suite of tools making web3 more usable 🤝",
   "contributionDescription": "IDriss is a community focused on building tools and consumer apps around strong crypto use cases like SocialFi. One of the products is an open-source browser extension enabling crypto transfers directly from Twitter. Since its launch in early 2022, the extension has grown to 80k weekly users and has been stress-tested with over 500k transactions.\n\nDuring the last Gitcoin GG18 round, IDriss has successfully onboarded grantees to receive donations on OP via the Twitter extension. A total of 377 unique donors made impressive 1,186 donations to 155 grantees.\n\nFollowing the successful Gitcoin pilot, IDriss expanded the initiative by consolidating all the major PGF mechanisms (Gitcoin, Giveth, RetroPGF, CLR.fund, DAO Drops) and enabling perpetual donations to 700+ grantees on OP.",
   "contributionLinks": [
     {

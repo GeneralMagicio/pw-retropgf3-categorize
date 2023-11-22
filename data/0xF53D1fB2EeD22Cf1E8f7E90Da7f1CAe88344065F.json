@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
-  "websiteUrl": "https://yearn.fi/",
-  "bio": "Ecosystem and Partner Integrations for Yearn\nOperations for yAudit, part of yAcademy",
+  "websiteUrl": "https://yacademy.dev/",
+  "bio": "yAcademy is a trial-by-fire Fellowship program to train auditors",
   "contributionDescription": "yAcademy is a trial-by-fire Fellowship program to shadow-audit alongside Resident and Guest auditors. The best Fellows who come through the yAcademy program are retained as full time Resident auditors. yAcademy and yAudit were started by Ali Atiia, a Yearn contributor. \n\nIn April 2023, yAcademy created yAudit, a professional services firm focused on security auditing. Yearn is a customer, along with Sonne, VMEX, and many projects in other ecosystems. \n\nyAcademy/yAudit Residents have scored in the top 10 (#8) of the Optimism Sherlock contest, audited Sonne Finance #6 TVL, audited Yearn #10 TVL, and audited VMEX Finance too.  ",
   "contributionLinks": [
     {

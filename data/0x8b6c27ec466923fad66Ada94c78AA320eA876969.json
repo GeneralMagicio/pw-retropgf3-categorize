@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://opti.domains",
-  "bio": "We are building an identity for superchain and connecting social profiles to Web3.",
+  "bio": "ENS-based domain with social profile attestation connecting Web2 and Web3",
   "contributionDescription": "We've launched Opti.domains, a singularity-interoperable domain linking every identity and wallet. We're collaborating with Bored Town for .town domain adoption.\n\nOpti.domains represents a breakthrough in ENS technology, being the first to integrate domain names with Ethereum Attestation Service (EAS) systems.\n\nAll of our domain name holders are HIGH-QUALITY users since they are required to link their Twitter and Discord to mint the domain name. These connections are attested publicly on EAS.\n\nULTIMATELY, WE'RE THE FIRST TO OFFER PUBLIC ACCESS TO THE WEB3 WALLET <-> WEB2 SOCIAL PROFILE CONNECTION DATA, OPEN FOR PERMISSIONLESS QUERYING!\n\nLastly, we have contributed to the adoption of ENS on the Layer 2 standard by forking and making contributions to core libraries.",
   "contributionLinks": [
     {

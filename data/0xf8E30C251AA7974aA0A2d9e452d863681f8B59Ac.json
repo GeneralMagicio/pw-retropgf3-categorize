@@ -1,7 +1,7 @@
 {
   "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://github.com/joohhnnn",
-  "bio": "Hi Optimism fans, I'm Joohhnnn, a 3-year dev, submitted PRs to Geth, op-node, part of EPF4, researching \"Optimism-Sequencer-Support-for-ERC-4337-Bundlers\"",
+  "bio": "Developed tool for devnet & bundler, contributed PRs to op-node, wrote articles.",
   "contributionDescription": "Hi Optimism fans, I'm Joohhnnn, a big fan of Optimism just like you. I've been a developer for three years and have submitted some PRs to Geth, the Ethereum ecosystem, and op-node. I'm also part of EPF4 (Eth-Protocol-Fellows), and am working on the project \"Optimism-Sequencer-Support-for-ERC-4337-Bundlers\". Plus, I've written many articles for developers to explain how Optimism works. Additionally, I've created a tool to adapt Optimism's devnet and bundler, enhancing the workflow for developers.",
   "contributionLinks": [
     {

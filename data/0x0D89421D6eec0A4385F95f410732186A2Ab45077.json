@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
-  "websiteUrl": "https://besta.pe",
-  "bio": "Polymath about the automation of law, natural and human. Bizdev at LexDAO. ",
+  "websiteUrl": "https://lexdao.org",
+  "bio": "the lawyers-&-engineers guild developing an open source & automated legal layer",
   "contributionDescription": "LexDAO is a club of legal engineering professionals united to bring the traditional legal settlement layer to code and coded agreements to the masses. We believe that everyone deserves access to justice in a quick and efficient manner. If legal services were easier to use, verify, and enforce, we could live in a fairer world.\n\nLexDAO organizes sophisticated conversations and education materials to help orient people around how to build in this new and evolving space. LexDAO focuses on Code is Law applications where practical legal theory is embedded into smart contracts, applications, and networks. The efforts we undertake are all in the spirit of public goods and services. Many of our projects spin out into standalone tools or services; some examples include KaliDAO and Smart Invoice.",
   "contributionLinks": [
     {

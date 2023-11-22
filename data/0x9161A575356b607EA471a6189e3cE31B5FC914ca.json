@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
-  "websiteUrl": "https://parsec.fi/",
-  "bio": "We are a leading on chain market data analytics platform offering deep and insightful insights surrounding on chain activity. ",
+  "websiteUrl": "http://parsec.finance/",
+  "bio": "On-chain analytics platform",
   "contributionDescription": "Parsec Finance is an on-chain analytics platform. We index Optimism (and now Base) data for users of our platform to explore and navigate the on-chain environment. \n\nOur integration has not solely involved a chain-level integration and support for arbitrary contract analysis but we went one step further: integrating and building custom functionality for native DeFi Apps on Optimism like Velodrome Finance. \n\nNot only has our integration assisted on chain users in navigating Optimism, our data and dashboards have helped DAOs like Lido to monitor and gauge L2 adoption through flows analysis (linked below in Contribution links).",
   "contributionLinks": [
     {

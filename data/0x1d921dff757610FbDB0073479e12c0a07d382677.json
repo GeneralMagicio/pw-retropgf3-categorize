@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://dm3.network/",
-  "bio": "The dm3 protocol is a web3 messaging protocol focussed on secure encryption, privacy, decentralization, scalability, and interoperability. ",
+  "bio": "We are a web3 messaging protocol built as a public good. ",
   "contributionDescription": "1. Finalise and prepare Optimism Resolver contracts for an audit.\n2. Support the integration and implementation of the Resolver for other Optimism based networks like Base and Mantle. \n3. Support the integration of the Optimism Resolver in other projects such as Unruggable Domains.\n4. Creation of documentation for anyone to implement the Optimism Resolver.\n5. Built the first ever Live chat fully web3 based, used in EthPrague and in incoming events. \n6. POC of dm3 dApp to allow Safe’s accounts to exchange messages and receive notifications. \n7. Create the legal infrastructure for dm3 to expand as a Public Good in Germany. \n",
   "contributionLinks": [
     {

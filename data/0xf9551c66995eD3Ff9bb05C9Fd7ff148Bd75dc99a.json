@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://snapshot.org/#/",
-  "bio": "Snapshot is a voting platform that allows DAOs, DeFi protocols, or NFT communities to vote easily and without gas fees.",
+  "bio": "Snapshot is a voting platform that allows DAOs to vote without gas fees.",
   "contributionDescription": "Snapshot has been used both by the Optimism Collective and 64 projects on Optimism to facilitate governance. All of these services have been provided for free, both for governance participants and the projects themselves. This has allowed Optimism to be the most active layer 2 in terms of governance and establish a strong ideological stance of decentralization and participative decision-making in the entire ecosystem. Snapshot allows projects to conduct votes that most of the people reading this forum have participated in.\n\nSince the start of Optimism’s governance:\n\n1.15M votes have been cast in the Optimism collective’s governance on 93 proposals.\n88650 participants have voted, which means the average participant has voted 13 times on average, the highest number for any major DAO.",
   "contributionLinks": [
     {

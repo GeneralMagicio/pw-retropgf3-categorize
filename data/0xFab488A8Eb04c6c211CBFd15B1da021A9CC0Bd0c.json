@@ -1,7 +1,7 @@
 {
   "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://solidity-by-example.org/",
-  "bio": "I share Solidity, Vyper and DeFi on YouTube\n\nhttps://www.youtube.com/@smartcontractprogrammer\n\nAuthor of\nhttps://solidity-by-example.org/",
+  "bio": "I share what I learned about Solidity, Vyper and DeFi",
   "contributionDescription": "My contributions may not be a direct contribution to Optimism.\nI share what I learned about Solidity, Vyper, smart contracts and block chains. \nIn the past I've published Solidity code examples, common vulnerabilities and DeFi examples.  I've also published some videos on how to deploy smart contracts to L2 including Arbitrum and Optimism.\n",
   "contributionLinks": [
     {

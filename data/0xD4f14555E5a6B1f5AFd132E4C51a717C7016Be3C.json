@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
-  "websiteUrl": "https://www.holograph.xyz/",
-  "bio": "Infrastructure for digital asset tokenization",
+  "websiteUrl": "https://holograph.xyz",
+  "bio": "Infrastructue for digital asset tokenization",
   "contributionDescription": "Since launching in January 2023, Holograph has been used to mint millions of Holographic assets, making it the most widely used protocol for natively multichain digital asset production and distribution.\n\nOur Dune Analytics Dashboard showcases the extent of our success with onboarding users and engagement on Optimism.\n\nAs of today:\n\n3m+ NFTs minted on OP representing the largest share per network (37%) across all EVM environments currently integrated into the Holograph App.\n\n1.5m+ Protocol Transactions on OP.\n\n445k+ Bridge Transactions on OP\n\n26k+ Contracts Deployed on OP\n\n460k+ Unique Wallets on OP",
   "contributionLinks": [
     {

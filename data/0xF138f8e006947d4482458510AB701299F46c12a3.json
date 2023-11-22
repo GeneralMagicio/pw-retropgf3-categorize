@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://flexiblevoting.com",
-  "bio": "Flexible Voting is an extension to the widely adopted DAO Governor. It allows arbitrary delegate voting contracts to roll up the votes of many token holders.",
+  "bio": "A Governor extension for building powerful DAO voting integrations.",
   "contributionDescription": "Flexible Voting is an extension to the widely used OpenZeppelin Governor that enables novel DAO voting schemes to be created. Flexible Voting is developed and maintained by ScopeLift.\n\nFor a DAO that adopts it, the Flexible Voting extension allows delegates to split their voting weight across For/Against/Abstain options for a given proposal. This new building block allows arbitrary delegate contracts to be developed which can unlock all kinds of new use cases. Of particular relevance to Optimism is the ability to vote with tokens bridged to L2, a use case ScopeLift is currently building.\n\nIt also enables other use cases like Voting with tokens while earning yield in DeFi, shielded voting (i.e. secret/private voting), liquid delegation and more.",
   "contributionLinks": [
     {

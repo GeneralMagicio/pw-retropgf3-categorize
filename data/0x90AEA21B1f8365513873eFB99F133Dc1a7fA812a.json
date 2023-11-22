@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://www.doris.top/",
-  "bio": "The Doris Protocol is a data storage marketplace for users. Developed on OP-Stack, Users Can store their personal data securely swiftly, and efficiently.",
+  "bio": "The Doris Protocol is a data storage marketplace for users.",
   "contributionDescription": "Doris Procotol is a personal data space built on OP Stack, which can help users store personal documents, videos, music and other content safely, quickly and conveniently.In the next step, Doris Protocol will open the data market, where users can share their unique content, and plans to use ERC-721 to define user data.",
   "contributionLinks": [
     {

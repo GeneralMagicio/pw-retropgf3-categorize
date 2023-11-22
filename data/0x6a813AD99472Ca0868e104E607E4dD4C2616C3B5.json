@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://supra.com",
-  "bio": "Supra is pioneering cross-chain solutions with integrations across all major and rising L1 and L2 ecosystems to supercharge Web3 applications across the board.",
+  "bio": "Supra is a middleware network pioneering cross-chain oracle solutions.",
   "contributionDescription": "We have deployed our Distributed Verifiable Random Function (DVRF) service to Optimism, Base, and Mantle mainnets. We are the first VRF solution on Base and Mantle. \n\nWe have deployed our Distributed Oracle Agreement (DORA), or oracle price feeds push-model with historical consistency check, to Rollux mainnet (built on OP stack).\n\nWe are offering free access to our services on mainnet through our Supra Network Activate Program.",
   "contributionLinks": [
     {

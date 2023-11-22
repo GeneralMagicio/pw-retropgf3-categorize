@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://flipsidecrypto.xyz/",
-  "bio": "Flipside's mission is to enable blockchains to succeed by using data to empower their communities – analysts, builders, and beyond.",
+  "bio": "Flipside is a leading data provider & growth partner for blockchain ecosystems",
   "contributionDescription": "Flipside has remained a devoted contributor to the Optimism ecosystem and OP Stack. \n\nOur contributions span data, applications, and insights. \n\n*Data*\n\nWe have curated and maintained data for both Optimism and Base.\n\n>Core Optimism & Base data tables (blocks, transactions, event logs, and traces)\n    -All entirely backfilled\n    -Ingesting OP data every 15-20 minutes\n>Curated and dimensional models for various protocols\n> Includes access to API, SDK, and CSV downloads. \n\n*Applications*\n\n>The Optimist Score (science.flipsidecrypto.xyz/optimist) aiding with Optimism's goal of on-chain attestation for the masses.\n    -Code is entirely open-sourced\n    -51,000+ attestations, 41,000+ users all time\n\n> Insights & BI\n   - Community-led analytics on critical Optimism ecosystem developments.",
   "contributionLinks": [
     {

@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://nodeguardians.io/",
-  "bio": "Node Guardians is a gamified platform where skilled developers can test their abilities through complex programming challenges. (\"Quests\")",
+  "bio": "Node Guardians is an RPG-platform for skilled devs to test their coding skills.",
   "contributionDescription": "Following Bedrock, Optimism has been working on Next-Gen Fault Proofs and Cannon. We wanted to be part of it by contributing to the Optimism community and help the masses shed some light on Optimism’s advancements in these areas.\n\nWe’ve provided developers an original way to learn about what interactive fraud proofs are, and why Cannon is fraud proof compatible. This resource encompasses challenges, bisection protocol, one step proof verification, and MIPS EVM.\n\nWe've also partnered with the leading French crypto media to produce a video  explaining the Superchain concept targeting end users. Our intent is to clear frequent misconceptions (that we noticed on socials) and facilitate a comprehensive understanding.",
   "contributionLinks": [
     {

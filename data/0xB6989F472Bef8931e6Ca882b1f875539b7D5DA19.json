@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://giveth.io/project/giveth-house",
-  "bio": "Web3's collaborative hub driving regenerative change and supporting public goods.",
+  "bio": "Web3's collaborative hub driving regenerative change and supporting public goods",
   "contributionDescription": "Hub of Collaboration:\n\nThe Giveth House has become a nexus for Optimism-related projects, hosting contributors and innovators from the Optimism Collective.\nNotable projects: RetroPGF, L2Beat, EthBarcelona 2023.\n\nRetroPGF Engagement:\n\nThe space not only hosts RetroPGF signage to the circulating community but also serves as an active hub for RetroPGF collaborations.\nRoundtables produce heightened awareness and actionable insight on RetroPGF.\n\nFocused Community Dialogues:\n\nThe house regularly hosts deep-dive conversations explicitly focused on Optimism Collective's goals and challenges, effectively serving as an \"Optimism think-tank.\"\n\nEthBarcelona:\n\nServed as the primary venue for the RetroPGF crew during EthBarcelona 2023, emphasizing our alignment with Optimism's mission for public goods.\n",
   "contributionLinks": [
     {
@@ -21,7 +21,8 @@
     }
   ],
   "impactCategory": [
-    "DEVELOPER_ECOSYSTEM"
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
   ],
   "impactDescription": "Community Catalyst:\n\nPeterpan's journey from Giveth House directly impacted the founding of MetaCartel, a notable entity in the Optimism ecosystem.\nThe founders of EthBarcelona, an Optimism-focused event, utilized Giveth House as their brainstorming and planning hub.\n\nInnovation Hub:\n\nThe Giveth House's environment enabled Jordi Baylina to contribute significantly to Hermez, further enriching Optimism's L2 capabilities.\n\nPublic Goods and Optimism:\n\nThe financial ease provided by the house has empowered numerous contributors to focus solely on public goods within the Optimism ecosystem.\nGiveth House hosts the RetroPGF team during ETHBarcelona.\n\nSolar Punk Ethos:\n\nThe house embodies Optimism Collective’s values, serving as a living space that fosters community-driven innovation for Optimism.",
   "impactMetrics": [

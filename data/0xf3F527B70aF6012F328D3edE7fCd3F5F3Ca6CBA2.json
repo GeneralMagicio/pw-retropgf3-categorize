@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://www.soulwallet.io/",
-  "bio": "Founder @soulwallet, we're building the social recovery wallet for Ethereum, starting from Optimism.",
+  "bio": "The smart contract wallet made Ethereum safe and easy. #socialRecovery #4337",
   "contributionDescription": "- First asset / keystore separation architecture implementation on Optimism\n  - Which enables Optimism users to change their keys\n  - Sync across multi-networks, including mainnet, arbitrum, scroll, and others\n  - Receive and store tokens without needing to deploy the smart contract wallet\n- The earliest passkey wallet\n  - Create a wallet, send transaction with a face/touch ID\n  - Web-based. No need to download the plugin\n- Permissionless Social recovery with privacy built-in\n  - Your friends won't know your wallet address (until they perform social recovery)\n  - Add any Ethereum wallet addresses as guardian permissionless\n- Basic account abstraction features\n  - Pay gas fee on Optimism with stablecoin\n  - Free/Sponsored wallet creation",
   "contributionLinks": [
     {

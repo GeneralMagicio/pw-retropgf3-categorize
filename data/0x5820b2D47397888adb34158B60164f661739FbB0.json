@@ -1,7 +1,7 @@
 {
-  "applicantType": "INDIVIDUAL",
+  "applicantType": "PROJECT",
   "websiteUrl": "https://optracker.org/",
-  "bio": "I'm a software engineer with a focus in Data Engineering and Analytics. I want to make OpTracker.org the premier hub for OP data analytics.",
+  "bio": "I'm a software engineer with a focus on Data Engineer and Analytics.",
   "contributionDescription": "OpTracker is dedicated to providing comprehensive on-chain analytics for Optimism tokens. The site started as a personal project, and I've decided to make it public. It currently tracks all large OP token transactions in real-time, provides a daily history of large OP wallets and historical price history. The website also offers an open API for accessing all the data.",
   "contributionLinks": [
     {

@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
-  "websiteUrl": "https://www.ethstaker.cc",
-  "bio": "EthStaker is a community dedicated to supporting people in staking their ETH by creating guides, instructional videos, and technical support.",
+  "websiteUrl": "https://ethstaker.cc",
+  "bio": "We creates guides, instructional videos, and technical support about staking.",
   "contributionDescription": "EthStaker's goal is to keep Ethereum decentralized. We do this by creating educational materials and by offering technical support to encourage people to run their own nodes and to stake at home. To keep Ethereum decentralized we need a diverse set of many people to run different combinations of execution and consensus clients all around the world. If too much of the Ethereum network is controlled by a small amount of people this damages Ethereum's credible neutrality and it could no longer serve effectively as the base layer for projects like Optimism.",
   "contributionLinks": [
     {

@@ -1,8 +1,8 @@
 {
   "applicantType": "PROJECT",
-  "websiteUrl": "https://wallfacer.io/",
-  "bio": "Wallfacer Labs is a crypto research and development company. We are creators & maintainers of the OSS frameworks UseDApp & Waffle. We also created Vaults.fyi\n\n",
-  "contributionDescription": "We are the creators and maintainers of Waffle, a framework for testing smart contracts. Multiple repositories in the Optimism ecosystem are dependent on Waffle. Waffle provides a clean and simplified way to write tests for Ethereum smart contracts. It abstracts away much of the boilerplate code, making it easier to focus on the actual test logic and improving overall ecosystem security and reliability. Waffle is one of the most popular testing libraries. It has helped many projects and developers keep their smart contracts secure and well-tested. \n",
+  "websiteUrl": "https://getwaffle.io/",
+  "bio": "Waffle is a framework for testing smart contracts",
+  "contributionDescription": "We are the creators and maintainers of Waffle, a framework for testing smart contracts. \n\n- Multiple repositories in the Optimism ecosystem are dependent on Waffle. \n- Waffle provides a clean and simplified way to write tests for smart contracts. \n- It abstracts away much of the boilerplate code, making it easier to focus on the actual test logic and improving overall ecosystem security and reliability. \n- Waffle is one of the most popular testing libraries. It has helped many projects and developers keep their smart contracts secure and well-tested. \n",
   "contributionLinks": [
     {
       "type": "GITHUB_REPO",
@@ -28,12 +28,17 @@
   "impactCategory": [
     "DEVELOPER_ECOSYSTEM"
   ],
-  "impactDescription": "Waffle has enabled teams, including OP Labs to more quickly and reliably write smart contact tests, making applications safer for users. \n\nWaffle was used by over 70k projects including Optimism, Uniswap, Aave, 0x, Balancer, zkSync, Cosmos, ENS, Gnosis, SushiSwap, Loopring, Aragon, PoolTogether, and Gitcoin. \n\nHere is the full list of projects using Waffle at this point in time: https://www.npmjs.com/package/ethereum-waffle?activeTab=dependents",
+  "impactDescription": "Waffle has enabled teams, including OP Labs to more quickly and reliably write smart contact tests, making applications safer for users. \n\n- Waffle was used by over 70k projects including Optimism, Uniswap, Aave, 0x, Balancer, zkSync, Cosmos, ENS, Gnosis, SushiSwap, Loopring, Aragon, PoolTogether, and Gitcoin. \n\n- Here is the full list of projects using Waffle at this point in time: https://www.npmjs.com/package/ethereum-waffle?activeTab=dependents",
   "impactMetrics": [
     {
       "description": "Dependent Repos",
       "number": 131,
       "url": "https://www.npmjs.com/package/ethereum-waffle?activeTab=dependents"
+    },
+    {
+      "description": "Lifetime downloads",
+      "number": 8705948,
+      "url": "https://npm-stat.com/charts.html?package=ethereum-waffle&from=2018-09-01&to=2023-10-21"
     },
     {
       "description": "Weekly Downloads",

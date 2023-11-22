@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://github.com/wagmi-dev",
-  "bio": "TypeScript tools for Ethereum. Focused on dev experience, performance, and stability. Our libraries are used by organizations like Optimism, ENS, Coinbase.",
+  "bio": "TypeScript Interfaces for Ethereum",
   "contributionDescription": "The Wagmi and Viem libraries are used in production today by popular Dapps, Wallets, and Libraries that integrate with OP Stack chains: Optimism, ENS, Shopify Blockchain, Coinbase + Base, Zora, WalletConnect, PancakeSwap, Sushi, Friend.tech, Rainbow, and more. Submitting and voting on RetroPGF applications even uses Wagmi + Viem!\n\nWagmi and Viem are the abstraction and connection between the \"Interface Layer\" and the \"Network/Protocol Layer\" for Dapps, Wallets, APIs, scripts, and more. \n\nViem is a low-level TypeScript Interface that provides lightweight, composable, and type-safe building blocks for Ethereum.\n\nWagmi is a higher-level TypeScript Interface that provides React Hooks, Vanilla JS Actions, and other reactive primitives for building applications on Ethereum.",
   "contributionLinks": [
     {

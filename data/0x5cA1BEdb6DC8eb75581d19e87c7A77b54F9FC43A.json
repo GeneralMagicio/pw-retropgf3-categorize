@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://theredguild.org",
-  "bio": "Hi! We are The Red Guild, a LATAM security team doing vulnerability research, education & security awareness for the common good of the Ethereum ecosystem.",
+  "bio": "Ethereum security advocates doing research, education and awareness.",
   "contributionDescription": "We’re an autonomous collective helping enhance the security of the Ethereum ecosystem and those who contribute to its long-term success. We’ve taken a public-good approach to security research, putting our skills in favor of the community. So far funded by grants from the Ethereum Foundation, we conducted security reviews, responsibly disclosed vulnerabilities, and produced free educational material in articles, interviews, videos, talks, workshops and challenges. We engaged with LATAM communities, sponsoring meetups and hosting events for web3 devs and security researchers. Our work wasn’t exclusive to the Optimism Collective, yet it contributed to educating security researchers and developers on security topics that are relevant for Optimism-based applications to stay safe.",
   "contributionLinks": [
     {

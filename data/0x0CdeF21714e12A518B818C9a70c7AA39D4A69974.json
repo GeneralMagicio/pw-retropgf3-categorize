@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://pheasant.network/",
-  "bio": "Pheasant Network is an optimistic bridge specialized for Layer 2, inspired by the idea of optimistic rollups.",
+  "bio": "Pheasant Network is an optimistic bridge specialized for Layer 2.",
   "contributionDescription": "We envision an L2 Gate. The bridge will be the entry point to Layer 2, as users will always need to go through some sort of bridge to transfer their assets to Layer 2. Pheasant Network is unique in that it is significantly cheaper and faster than other bridges because it handles transactions optimistically.\n\nWe already support networks that leverage the Op Stack, such as Base. In the future, when Op Stack networks explode, we believe that not only native Op Stack bridges, but also optimistic bridges will be indispensable. This is because optimistic bridges are currently the cheapest and fastest of all bridge types. We will continue to contribute to the Optimism ecosystem by actively bridging the Op Stack ecosystem.",
   "contributionLinks": [
     {

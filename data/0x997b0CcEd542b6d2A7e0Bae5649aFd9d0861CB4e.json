@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://far.quest",
-  "bio": "Building far.quest, previously at Meta, Coinbase",
+  "bio": "far.quest helped over 100,000 people learn about Farcaster, built on Optimism",
   "contributionDescription": "far.quest helped over 100,000 unique people around the world learn about Farcaster, a decentralized social network built on Optimism (https://farcaster.xyz).\n\nWhen our users registered on Farcaster through us, or logged in through our client at https://far.quest/cast, they interacted directly with Optimism.\n\nWe also helped developers build on Farcaster, we offered free and open-source Farcaster APIs (https://docs.wield.co/farcaster/api), and teached users how to run a Farcaster hub for half the cost of the official guides (https://docs.wield.co/farcaster/hubs).",
   "contributionLinks": [
     {

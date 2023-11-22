@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
-  "websiteUrl": "https://www.bootnode.dev/",
-  "bio": "CTO of Bootnode.  We work together with organizations to speed up the development and delivery of Web3 protocols, dApps, and networks.",
+  "websiteUrl": "https://github.com/BootNodeDev/optimism-bedrock-diagram",
+  "bio": "A high-quality architecture diagram of the Bedrock smart contracts & docs",
   "contributionDescription": "We created a high-quality architecture diagram of the Bedrock smart contracts with the corresponding documentation. The contribution was triggered by completing the following  Contribution Opportunity: Bedrock Contracts Architecture Diagram #48. It was done by @patitonar who is part of the Bootnode team. ",
   "contributionLinks": [
     {

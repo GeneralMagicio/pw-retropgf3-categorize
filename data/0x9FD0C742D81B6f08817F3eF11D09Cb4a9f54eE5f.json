@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://github.com/blockchain-etl",
-  "bio": "I'm the creator of the open source project Blockchain ETL and a co-founder of the blockchain analytics platform Nansen.ai",
+  "bio": "Facilitating data science on the Ethereum blockchain",
   "contributionDescription": "- EthereumETL has been described as the most useful open-source project for facilitating data science on Ethereum data. Almost 2700 stars on our GitHub project show how many people use the tools we developed. \n- The same tools are available for analyzing Optimism data, with Optimism-specific fields added in this pull request: https://github.com/blockchain-etl/ethereum-etl/pull/446\n- Ethereum ETL powers the database behind the Optimism Gas Tracker, as confirmed here: https://twitter.com/MSilb7/status/1686823154713296897\n- Additionally, a public BigQuery Ethereum dataset, published in collaboration with Google and utilizing EthereumETL, has proven valuable to numerous companies and individuals by enabling research, data science, and the development of data-driven applications\n",
   "contributionLinks": [
     {

@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://twitter.com/odtublockchain",
-  "bio": "Established in 2021 in Ankara, Turkey by ODTU students to create an innovative and dynamic community. We are proudly contributing for the past 2 years. 🎉",
+  "bio": "We're a student run blockchain club at the top technical university in Turkey.",
   "contributionDescription": "In a Medium article, \"Ether's Phoenix: Optimistic Vision,\" we highlighted public goods' significance in various domains, introduced Optimistic Vision and Optimism's grant programs. Ether's Phoenix is explained alongside RetroPGF. We delve into RetroPGF's funding sources and governance model involving the Token and Citizens' House.\nIn our GG18 article,we encouraged Web3 ecosystem contributors to join Gitcoin's GG18 on OP Mainnet, emphasized the relevance of quadratic funding and inspiring active participation in QF rounds.\nDuring a regular F2F builder meetup,we did a presentation about Optimism, including Superhack, Superchain, OP-Stack development, developer tools,and infra. We also did Q&A and discussed measuring impact in the ecosystem, explored app ideas for tracking impact.",
   "contributionLinks": [
     {
@@ -32,7 +32,7 @@
       "url": "https://x.com/odtublockchain/status/1704880701009498521"
     },
     {
-      "description": "# of views of gg Medium article post",
+      "description": "# of views of GG18 Medium article post",
       "number": 3127,
       "url": "https://twitter.com/odtublockchain/status/1700937793650725077"
     },

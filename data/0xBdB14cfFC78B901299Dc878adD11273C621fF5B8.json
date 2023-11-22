@@ -1,7 +1,7 @@
 {
   "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://raiden-dev.xyz/",
-  "bio": "Lone developer that likes to learn and contribute to OSS. Currently focused on typescript and solidity. Learning zig in the meantime :P",
+  "bio": "Currently contribution to OSS projects. Mostly TS and Solidity.",
   "contributionDescription": "Most of my work to help grow the ecosystem has been with the wagmi libraries. I am currently working as a collaborator on Abitype with one of the wagmi folks. I started working on the projects by the end of January with the contribution of the human-readable type/runtime parser and from there on I've tried to contribute/help as much as I could and hope to continue to do so in the future.\nOther notables contributions are some commits into to the early stage of viem's public release where i helped develop the parse/serialize transaction functionality.\nI've also contributed to Solady in 2022, where I contributed to the LibString library that it uses.\nAs for my own repos I created a Library of string utils where the focus was to share resources to learn and my own experience in writing yul.",
   "contributionLinks": [
     {

@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://beaconcha.in/",
-  "bio": "beaconcha.in is an open-source explorer that provides users with an easy and accessible way to explore the Ethereum consensus layer and execution layer.",
+  "bio": "Open Source Ethereum Explorer",
   "contributionDescription": "beaconcha.in explorer is the backbone for Ethereum's consensus and execution layer. It is the only all-in-one (CL+EL) explorer and played a pivotal role during the merge and subsequent hardforks. Due to its design, core devs use beaconcha.in to simulate and test upcoming hardforks.\n\nTo support for homestakers and decentralization, beaconcha.in provides an open-source mobile app for both iOS and Android, aiming to enhance the solo staking experience.\n\nCurrently, the codebase is undergoing significant rework to support any EVM chain, including the Optimism network.",
   "contributionLinks": [
     {

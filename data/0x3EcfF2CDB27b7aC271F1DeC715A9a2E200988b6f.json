@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://utu.io",
-  "bio": "Passionate about decentralized trust for the last decade. CoFounder @ututrust, @mm_nrb, bitlipa_; Instigator @thesafariDAO, artstorm.nft, Africa_defi",
+  "bio": "The decentralized trust infrastructure of web 3 - on-chain reputation & feedback",
   "contributionDescription": "UTU Protocol has deployed on Optimism to allow Optimism users to review and endorse any arbitrary web domain or blockchain address with a portion of their reputation (UTT) and see on-chain endorsements and feedback (video, text, stars, badges) about the same from their personal social networks. When UTT-staked endorsements help others find services they like (and also endorse with their UTT), the original endorsers earns reputation and $UTU rewards.\n\nUTU on Optimism also lets D-apps built on Optimism integrate UTU's on-chain feedback and reputation mechanism natively in their product on Optimism, staking UTT (our reputation token) and collecting $UTU rewards on OP for staked endorsements that help others get good outcomes.",
   "contributionLinks": [
     {

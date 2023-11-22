@@ -1,7 +1,7 @@
 {
-  "applicantType": "INDIVIDUAL",
-  "websiteUrl": "https://www.ricmoo.com",
-  "bio": "A random Canadian developer, dedicating his time to a variety of open source projects, including ethers.js and Firefly. The future will be awesome. <3",
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://ethers.org",
+  "bio": "Ethers.js is a simple, compact and complete library for everything Ethereum.",
   "contributionDescription": "Ethers.js is currently the most popular JavaScript library for Ethereum (and ilk) with over 1 million weekly npm installs (over 110 million, all time)  and is in the top 500 NPM packages by dependents.\n\nEthers has worked closely with the OP team to collaborate on the custom OP extension package as well as integrate new plug-ins for tuning network performance (such as custom priority fees), which are all built-in and automatically used for OP-detected networks.\n\nEthers is also used by many of the other tools and projects which help enable Optimism, such as MetaMask, Uniswap and Hardhat.",
   "contributionLinks": [
     {

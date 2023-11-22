@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://youbuidl.dev",
-  "bio": "cofounder and frontend dev at GiveStation ",
+  "bio": "Multichain grant dapp where contributors get rewarded for funding projects.",
   "contributionDescription": "\nSince testnet program ended with over 3000 testers across 5 blockchains to launching on mainnet in August, 2023, we have improved the platform by adding OP tokens rewards for contributors who funds projects. \n\nThis feature wasn't present on testnet but with the help of the grant from RGPF 2, we were able to integrate this feature.\n\nThis means any contributor will not only get to fund projects but also earn OP tokens daily along with BuidlPoints. ",
   "contributionLinks": [
     {

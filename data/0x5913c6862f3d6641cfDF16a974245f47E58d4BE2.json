@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
-  "websiteUrl": "https://shazow.net/",
-  "bio": "A doodler and computerer. I like permissive/permissionless open source, smart contracts, p2p systems, room-scale VR, and NixOS.",
+  "websiteUrl": "https://github.com/shazow/whatsabi",
+  "bio": "Extract ABI (and more) from EVM bytecode, even without source code.",
   "contributionDescription": "WhatsABI is a public good for making EVM bytecode more useful and usable on all EVM-based chains, such as mainnet and OP Stack chains.\n\nThe guiding purpose for WhatsABI is to improve decentralization, transparency, and user safety by reducing our dependence on proprietary frontends to EVM contracts. \n\nWhatsABI a permissively-licensed TypeScript library that is perfect for building better contract explorers (a better Etherscan), transaction builders (Safe Wallet), smarter wallets (MetaMask, Zapper), and for doing security research. It is designed to be small, fast, and easily embedded in wallets or runnable locally with any provider.\n\nMany tools already use WhatsABI: gnosis/zodiac-pilot, paradigmxyz/rivet, ondora.xyz, monobase.xyz, ethcmd.com, notar-cli, abi.w1nt3r.xyz, and more!",
   "contributionLinks": [
     {

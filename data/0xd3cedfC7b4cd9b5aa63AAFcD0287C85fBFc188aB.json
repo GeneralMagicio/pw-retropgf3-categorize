@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://fugu.works",
-  "bio": "Web3 product studio, contributing to the Optimism Superchain",
+  "bio": "Web3 product studio",
   "contributionDescription": "We built the Superbridge (https://superbridge.app), an all in one solution for bridging assets to and from chains in the Superchain.\n\nThe Superbridge supports bridging ETH and ERC20 tokens to and from OP Mainnet, Base and Zora. With deployments to Mode, PGN, Orderly Network, Ancient8, Lyra and Aevo planned in the short term.\n\nWe've also partnered with Conduit (https://conduit.xyz), offering all testnets launched via their platform a free deployment of the Superbridge. You can read their announcement about the integration here https://twitter.com/KAndrewHuang/status/1707065523274739854.",
   "contributionLinks": [
     {

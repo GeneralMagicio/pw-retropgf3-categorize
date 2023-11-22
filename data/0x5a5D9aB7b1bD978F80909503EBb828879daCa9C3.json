@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
-  "websiteUrl": "https://cerv.one",
-  "bio": "buidling open source observer\npreviously hypercerts · protocollabs · gitcoin · enveritas · ycombinator\nenjoy data · coffee · infinite games",
+  "websiteUrl": "https://opensource.observer",
+  "bio": "Measure the impact of open source contributions. Onchain and off.",
   "contributionDescription": "We have built a registry of more than 300 open source software projects building on Optimism, and created a series of composable impact metrics based on projects' onchain and off-chain work. This makes it easy to track projects' developer activity, onchain user base, and contribution to OP sequencer fees. \n\nThe registry is free, fully open source, and an important building block for reviewing projects, creating RPGF3 Lists, and assisting voters.",
   "contributionLinks": [
     {

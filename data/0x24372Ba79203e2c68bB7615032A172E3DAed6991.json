@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://nodies.app",
-  "bio": "We specialize in RPC services, Snapshot services, Concierge Indexing Solutions, and more, all at the lowest prices in the market with highest performance. ",
+  "bio": "RPC, Snapshot, & Indexing services with top performance, at market-low prices.",
   "contributionDescription": "Since August 2022, Nodies DLB has supported development and usage of the Optimism Stack by integrating Optimism, Optimism Sepolia, and BASE blockchain into our RPC services. To ensure optimal performance across worldwide, we run load-balanced nodes in multiple geographic regions. Instead confusing Compute Units pricing, we offer a simple per request pricing that is lowest in the industry while having a decentralized and centralized offering ensuring the highest QoS in terms of latency, redundancy.",
   "contributionLinks": [
     {

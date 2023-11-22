@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://nethermind.io",
-  "bio": "Nethermind is a Blockchain Research and Software Engineering company empowering enterprises and developers worldwide to build on decentralized systems.",
+  "bio": "Nethermind is a Blockchain Research and Software Engineering Company",
   "contributionDescription": "We are bringing the Nethermind Client to Optimism, thereby supporting client diversity and providing node operators with an alternative client design. The Nethermind execution client is a highly configurable Ethereum node built on .NET, offering high compatibility, performance, high-speed synchronization, and healthy node monitoring. We are bringing all of these features to the Optimism Network and all OP Stack-based chains.",
   "contributionLinks": [
     {

@@ -1,7 +1,7 @@
 {
-  "applicantType": "INDIVIDUAL",
+  "applicantType": "PROJECT",
   "websiteUrl": "https://github.com/lucas-op/awesome-optimism",
-  "bio": "I am Lucas and I am the main contributor of the 'Awesome Optimism' repository, a curated list of awesome Optimism resources.  ",
+  "bio": "A curated list of awesome resources related to the Optimism ecosystem",
   "contributionDescription": "Awesome Optimism Repository is one of the “Ecosystem Project Ideas” in the Optimism Collective Ecosystem Contributions” repository. We took the lead in creating and contributing to the repository, where we added, updated, and organized content to create a curated and comprehensive list of resources related to Optimism Ecosystem. \n\nThe repository includes a wide range of resources that will be helpful for developers and enthusiasts. You can find everything from analytics, research articles, tutorial videos, development tools and open-source projects in the Optimism ecosystem. ",
   "contributionLinks": [
     {

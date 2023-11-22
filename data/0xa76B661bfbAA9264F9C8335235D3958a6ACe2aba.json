@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://pyth.network/",
-  "bio": "The Pyth Network is the largest first-party financial oracle network delivering real-time market data to over 35 blockchains securely and transparently.",
+  "bio": "The Pyth Network is the largest first-party financial oracle network.",
   "contributionDescription": "- Deployed the Pyth smart contract on Optimism mainnet on Sep-09-2022\n\nThis Pyth smart contract enables anyone to request and permissionlessly update prices on-chain for about 350 assets — this enables anyone building a DeFi app to integrate a critical piece of infrastructure in its protocol.\nTo date, the Pyth oracle has supported (that we know of) 10 DeFi applications building on Optimism (Synthetix, Kwenta, Polynomial, Thales, Pika, Lyra, Unidex, Avantis Finance, Pike Protocol). \n\n- Released its OP/USD price feed to Optimism and 35 different blockchains\n\nFor instance, two leading perpetual protocols that use Pyth on Arbitrum: Vela Exchange and HMX, have launched OP markets thanks to the Pyth Price Feed.",
   "contributionLinks": [
     {

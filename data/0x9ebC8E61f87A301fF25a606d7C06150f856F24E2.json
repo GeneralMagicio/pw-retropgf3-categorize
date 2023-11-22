@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://splits.org/",
-  "bio": "Helping people take back control of their earnings",
+  "bio": "Splits makes onchain payments easy.",
   "contributionDescription": "0xSplits is a suite of smart contracts & tools that allows devs and end users to easily, securely, and efficiently customize onchain payouts. Our current offerings include splits (immutable, mutable, & liquid), waterfalls/recoups (sequential payouts), vests (multi-stream, single beneficiary), swappers (receive any token, output a single type), pass-through wallets (inject governance), and diversifiers (receive any token, output multiple types) as well as the accompanying subgraphs, sdk, & UI.",
   "contributionLinks": [
     {

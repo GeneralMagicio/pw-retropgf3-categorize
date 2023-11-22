@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://web3js.org/",
-  "bio": "ChainSafe is a blockchain r+d firm that specializes in protocol engineering, interoperability, and web3 infrastructure. We are the maintainer of Web3js.\n",
+  "bio": " Web3.js is a JS/TS library that enables interacting w/ EVM compatible chains",
   "contributionDescription": "Web3.js is a Javascript/Typescript library that allows developers to interact with the EVM compatible blockchains and build DApps.\n\nWeb3.js v4 offered many new features, including Plugins to extend web3.js lib functionality. This enabled Optimism to develop a L2 plugin. With this Web3.js helps the developer ecosystem at multiple layers.",
   "contributionLinks": [
     {

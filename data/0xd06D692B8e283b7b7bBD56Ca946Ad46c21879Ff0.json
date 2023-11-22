@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://www.coordinape.com",
-  "bio": "Coordinape is tool for fluid distribution, collaboration and on-chain reputation.  We're building a platform and web3 ecosystem (on OP) for the future of work.",
+  "bio": "We make tools and networks for the future of work.",
   "contributionDescription": "Coordinape has supported DAOs and digital communities since 2021.  This summer, we launched CoSoul, our first SoulBound token and reputation primitive contract, on the Optimism network. CoSouls store metrics to make the value added by contributors using Coordinape visible, as they attest to each other's collaborations in DAOs, projects and companies. CoSoul's launch exceeded our expectation. 26,000 contributors to web3 have minted the SBTs since June. This has resulted in 46,000+ transactions, as CoSouls are synched each month with data from Coordinape, adding more clarity to the reputation map on OP.  CoSoul's have already introduced Optimism to new web3 users, and some notable web2 companies (iFood and The Many) are using Coordinape and CoSouls to kick-start Web3's impact on their orgs.",
   "contributionLinks": [
     {

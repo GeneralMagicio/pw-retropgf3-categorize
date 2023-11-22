@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://github.com/miguelmota/go-ethereum-hdwallet",
-  "bio": "Ethereum HD Wallet derivation library in Go.",
+  "bio": "Ethereum HD Wallet derivation library in Go",
   "contributionDescription": "The `go-ethereum-hdwallet` library is a component within the OP Stack and is also widely utilized throughout the broader Ethereum ecosystem. In the context of the OP Stack, this library plays a crucial role in deriving an HD wallet private key from a mnemonic seed phrase, which is then employed by the sequencer service to sign transactions.",
   "contributionLinks": [
     {

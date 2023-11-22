@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://keyring.so/",
-  "bio": "Keyring is a secure, handy, cost-effective hardware wallet. The desktop wallet app is in beta and already support Ethereum, Optimism, and Base.\n",
+  "bio": "Secure, handy, cost-effective hardware wallet for crypto holders",
   "contributionDescription": "Self-custodian is important for existing blockchain users, Keyring provides a secure and cost-effective hardware wallet for Optimism ecosystem.\nPeople are already familiar with the traditional debit/credit card, Keyring uses the similar solution for hardware wallet, which improves the user experience when onboarding traditional users to blockchain.\nKeyring brings this financial card experience to Optimism, features include transfer and receive ETH and ERC20, interact with dApps. Demo video: https://youtu.be/MpCItSCYDTY",
   "contributionLinks": [
     {

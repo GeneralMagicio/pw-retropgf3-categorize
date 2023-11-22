@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
-  "websiteUrl": "https://rainbow.me",
-  "bio": "crypto in color ",
+  "websiteUrl": "https://rainbowkit.com",
+  "bio": "The best way to connect a wallet",
   "contributionDescription": "Prior to RainbowKit, building a “Connect Wallet” experience was big overhead and required frequent maintenance for developers.  For users, connecting to dapps was a convoluted and unstable experience. Particularly, switching between networks caused friction that often blocked users from experimenting with L2s like Optimism. \n\nWe built RainbowKit to be the best connect-to-wallet experience for users and the best integration experience for developers. RainbowKit makes connecting your wallet and switching networks a smooth, reliable and enjoyable experience. RainbowKit is fast, easy and highly customizable for developers to install and maintain.\n\nRainbow built RainbowKit to be an open-source public good. Rainbow does not track data or monetize from the SDK. ",
   "contributionLinks": [
     {
@@ -58,8 +58,8 @@
     },
     {
       "description": "% increase in interactions on OP Stack",
-      "number": 281,
-      "url": "https://www.dropbox.com/scl/fi/1y85t905cbzlmois8uf4c/share_interactions.png?rlkey=n13uozhghobwaffnmlrf2sq6p&dl=0"
+      "number": 295,
+      "url": "https://www.dropbox.com/scl/fi/8uixhc02v8yii1cibui0v/share_interactions2.png?rlkey=hxef56clsjqb6l21c82zn5sby&dl=0"
     }
   ],
   "fundingSources": [],

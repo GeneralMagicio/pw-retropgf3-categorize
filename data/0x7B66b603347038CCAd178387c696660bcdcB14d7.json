@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://synthetix.io/",
-  "bio": "Synthetix provides liquidity for permissionless derivatives like perpetual futures, options, parimutuel markets, and more across EVM chains.",
+  "bio": "Synthetix provides liquidity for permissionless derivatives on-chain",
   "contributionDescription": "Synthetix, an open-source DeFi protocol, enables developers to create derivative protocols on Optimism by leveraging its robust liquidity and infrastructure. As the #1 protocol on Optimism by TVL, Synthetix helps to onboard high-value DeFi developers, protocols, and users into the Optimism collective. Synthetix was the first protocol to launch on Optimism and has a long history of working alongside the Optimism to support the collective.\n\nWe have already assisted in onboarding a significant number of developers and protocols to Optimism and aim to maintain this momentum with our upcoming V3 release. \n\nIn addition to the successes of Synthetix at the protocol level, we have also nurtured a community that serves as a breeding ground for users contributing to the OP Collective.\n",
   "contributionLinks": [
     {

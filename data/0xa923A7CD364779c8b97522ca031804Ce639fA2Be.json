@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
-  "websiteUrl": "https://remix-project.org/",
-  "bio": "Remix Project is a rich toolset that can be used for the entire journey of Web3 contract development by users of any knowledge level.",
+  "websiteUrl": "https://remix.ethereum.org",
+  "bio": "A rich toolset for the entire journey of Web3 contract development",
   "contributionDescription": "In mid-2022, Remix Project built direct support for deployments to Optimism mainnet and testnets within the main Remix IDE feature set. \n\nRemix also built and continues to maintain and promote the Remix Rewards program, which mints non-transferable NFT badges on Optimism mainnet to contributors, beta testers, and UX research participants.\n\nAs part of the workshops Remix also provides at various Ethereum events and online, \"Remix Challenges\" are given to participants using ZKPs with NFT rewards for successful completion minted on Optimism mainnet.",
   "contributionLinks": [
     {

@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
-  "websiteUrl": "https://www.grant3.co/",
-  "bio": "Grant3 is a team of Web3 ecosystem enthusiasts that are trying to create measurement and analysis systems for Grant program impacts.",
+  "websiteUrl": "https://optimism.grant3.co/",
+  "bio": "Who got the grants? A comprehensive database of 300+ OP Grantees & 90M OP",
   "contributionDescription": "1) OP Contributions Dashboard: (100+ resources)\nDirect impact for Contribution Idea #12, Ecosystem Project Idea: Ecosystem Contributions Dashboard OP Collective currently lists the contribution ideas on Github repository, which is not an efficient user journey. The dashboard makes the user journey for discovering contribution ideas a breeze. \n\n2) Grants Dashboard: \nA comprehensive database of 290+ projects that have received grants from Optimism. Easy access to beautiful statistical charts about OP Grants\n\n3) Grantee list: (290+ resources)\nGrantee data is scattered across the forum, the Grant3 list gives all the grantee data in one place so that the community members do not have to scan through forum manually \n\n4) Analytics database: Aggregation of Dune and other analytical resources. ",
   "contributionLinks": [
     {

@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
-  "websiteUrl": "https://evm.pinsave.app/",
-  "bio": "Pin Save is a decentralized image, video sharing and content aggregation platform where users can not only control the content but also the platform itself.",
+  "websiteUrl": "https://aevm.pinsave.app/",
+  "bio": "Pin Save - decentralized image, video sharing and content aggregation platform.",
   "contributionDescription": "Pin Save is a decentralized image, video sharing and content aggregation platform where users can not only control the content but also the platform itself.\n\n1. The decentralized feed reinforces the discovery of content and feedback.\n2. Decentralized Identity (ERC-725), which provides anonymity and data protection.\n3. Upgradeable, resilient, and more open decentralized storage.\n4. Smart contracts to securely serve web experiences directly to users.",
   "contributionLinks": [
     {

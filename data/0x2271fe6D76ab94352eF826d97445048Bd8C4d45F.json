@@ -1,7 +1,7 @@
 {
-  "applicantType": "INDIVIDUAL",
+  "applicantType": "PROJECT",
   "websiteUrl": "https://www.hifromcrew.com/",
-  "bio": "I'm a curious and optimistic founder focused on making web3 useable for business",
+  "bio": "Crew is building business accounts for Farcaster",
   "contributionDescription": "I'm building a platform to help businesses use Farcaster. In service of this I've interviewed over 50 companies on farcaster to learn what would help them use it more. During that time I worked on a UI prototype that I iterated on after each call to take in their feedback.\n\nI also hosted a podcast interviewing builders on Farcaster. Finally I hosted a meetup for Farcaster builders in SF and over 30 people attended.  ",
   "contributionLinks": [
     {

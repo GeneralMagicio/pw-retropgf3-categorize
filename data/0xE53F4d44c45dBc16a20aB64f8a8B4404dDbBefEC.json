@@ -1,12 +1,12 @@
 {
-  "applicantType": "PROJECT",
-  "websiteUrl": "https://inhabitants.zone/",
-  "bio": "Philosophic Rebel & Web3 Experimental Designer at @in_habitants| Transparency at http://bit.ly/BORD | Borderless Citizen | http://Mirror.xyz/borderl.eth DYOR 🧠",
+  "applicantType": "INDIVIDUAL",
+  "websiteUrl": "https://bord.eth",
+  "bio": "Philosophic Rebel & Web3 Indie Hacker | Transparency at http://dub.sh/bord",
   "contributionDescription": "I am indie founder of Web3Comic's in/habitants, a Seinen edutainment project exploring web3, politics, society, and digital generation's evolution. My contribution to the Optimism ecosystem commenced on day 0 of the comic, about a year ago, aiming to educate and engage the adult audience about the decentralized web through storytelling. In/habitants has utilized Optimism, among other techs, to showcase real-world applications and possibilities of web3. With over 40 episodes and around half a million pages read, our venture demonstrates a blend of creativity and technical insight, contributing to the shared vision of a less centralized web. Our work and the experiments links below, providing a glimpse into the project's essence and our approach towards a more inclusive digital realm.",
   "contributionLinks": [
     {
       "type": "OTHER",
-      "url": "https://www.youtube.com/@in_habitants",
+      "url": "https://www.youtube.com/watch?v=J1W7mr9Rtog&ab_channel=inhabitants",
       "description": "Youtube Optimism Video - Example of learning content"
     },
     {
@@ -18,6 +18,11 @@
       "type": "OTHER",
       "url": "https://inhabitants.zone",
       "description": "Indie comic venture nurtured with a touch of collaborative effort"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://debank.com/profile/0xe53f4d44c45dbc16a20ab64f8a8b4404ddbbefec",
+      "description": "Top Debank users influential users, with focus on Optimism"
     },
     {
       "type": "OTHER",
@@ -58,6 +63,11 @@
       "type": "OTHER",
       "url": "https://borderl.substack.com/",
       "description": "A Portuguese-content newsletter where I delve into the borderless culture"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://layer3.xyz/bord.eth",
+      "description": "Layer 3 exploring and using ecosystem tools, high level and + 20 OP"
     }
   ],
   "impactCategory": [
@@ -89,5 +99,6 @@
   "pwRecategorizeToType": "PROJECT",
   "pwRecategorizeReason": "NO. It should be categorized as \"PROJECT\" as the applicant talks about their work on \"Web3Comic's in/habitants\" project and related ventures, not individual contributions alone.",
   "pwApplicantTypeChecked": true,
-  "pwCategorySuggestions": "Community Building, Content Creation, Education"
+  "pwCategorySuggestions": "Community Building, Content Creation, Education",
+  "applicationApprovalUID": "0x2839cc9328681813ec1e29293cbec14d3b835ffd5c2ab3af0abc0acf160c27db"
 }

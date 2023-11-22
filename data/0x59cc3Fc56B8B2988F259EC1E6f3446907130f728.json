@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://dod.ngo",
-  "bio": "DoD is a collective of people from decentralization communities. It organized events like Protocol Berg and provided infrastructure like the Goerli Testnet.",
+  "bio": "Collective of people from Berlin: Protocol Berg, Goerli Testnet.",
   "contributionDescription": "The Department of Decentralization is a collective of people from various crypto- and blockchain communities in and around Berlin. The group assembled to organize events like ETHBerlin, Protocol Berg, or GoerliCon and has been providing infrastructure such as the Goerli and now the Holešky testnet.\n\nWe aim to be an agnostic vehicle to drive adoption, educate newcomers, and raise awareness of the challenges and benefits of decentralization and open-source software.\n\nOptimism benefits from public infrastructure such as the Goerli testnet, which has been the primary layer-1 for the optimistic Goerli testnet in the past year.  In addition, the Optimism Foundation has been represented at the past year's ETHBerlin and Protocol Berg.",
   "contributionLinks": [
     {

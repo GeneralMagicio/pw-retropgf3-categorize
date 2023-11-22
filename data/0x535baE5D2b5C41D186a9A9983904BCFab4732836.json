@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://ezkl.xyz/",
-  "bio": "Ezkl is the simplest way to run ML, AI, and other business logic for on-chain applications using zero-knowledge proofs. ",
+  "bio": "Ezkl lets you compile AI/ML models to zero-knowledge proofs",
   "contributionDescription": "Ezkl is an open-source engine for doing inference for deep learning models and other computational graphs in a zk-snark (ZKML). It can be used from a Jupyter notebook, Python, Javascript, or the command line. It has brought a wave of new developers from Python, AI/ML, and data science because it lets them run the models they build with, effectively on-chain. And it all verifies on Optimism. ",
   "contributionLinks": [
     {

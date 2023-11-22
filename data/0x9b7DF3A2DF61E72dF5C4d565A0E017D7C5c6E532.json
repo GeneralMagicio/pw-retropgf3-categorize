@@ -1,8 +1,8 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://chroniclelabs.org/",
-  "bio": "Head of BD & Growth at Chronicle Labs",
-  "contributionDescription": "\nThe Maker Oracle team, now known as \"Chronicle\", along with the Maker Protocol Engineering team developed a canonical DAI bridge named \"Teleport\" in late 2021. The design feature allowed for \"Fast Withdrawals\" of DAI from L2 to L1. The first deployments went live on Optimism and Arbitrum in November 2022 which allowed users to teleport DAI from L2 to L1 instantaneously. In practice, Teleport utilized off-chain Maker Oracle Feeds to communicate between L1 and L2. The Oracle implementation of Teleport provided the cross chain communication messaging while the Protocol Engineering team developed the smart contracts. \n\n\n\n",
+  "bio": "Chronicle Protocol provides decentralized and verifiable Oracle infrastructure",
+  "contributionDescription": "\nChronicle labs, formerly the Maker Oracle team, along with the Maker Protocol Engineering team developed a native DAI bridge named \"Teleport\" in 2022. The infrastructure allowed for \"fast withdrawals\" of DAI from L2 to L1 for the first time. The first deployments went live on Optimism and Arbitrum in November 2022 allowing Optimism users to transfer DAI from L2 to L1 instantaneously. Teleport utilized off-chain Oracle Feeds to communicate between L1 and L2, providing cross chain communication messaging. Significant engineering time and resources (6 months/1,920 hours) from the Chronicle Oracle team contributed to the development of the first, trustless Dai bridge, providing users with the advantage to withdraw L2 funds near instantly by avoiding the need to wait for fraud proofs. \n\n",
   "contributionLinks": [
     {
       "type": "GITHUB_REPO",
@@ -18,13 +18,28 @@
       "type": "OTHER",
       "url": "https://www.coindesk.com/tech/2022/11/16/defi-giant-makerdao-speeds-up-dai-transactions-and-withdrawals-expands-to-arbitrum-osmosis/",
       "description": "Coindesk article about Teleport "
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/chronicleprotocol/oracle-suite/commit/3fc70c1d1a0299a49c05c3801a444c194e50fec5",
+      "description": "Core work for Teleport (originally named wormhole)"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/chronicleprotocol/oracle-suite/commit/4eed6bcfc59b7eefba171dcc0ae3f4b7188ebb4e",
+      "description": "Core work for Teleport"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/chronicleprotocol/oracle-suite/commit/8b871f004b532ad4b2d6dded9fc0b1c81db1576b",
+      "description": "Core work for Teleport "
     }
   ],
   "impactCategory": [
     "END_USER_EXPERIENCE_AND_ADOPTION",
     "OP_STACK"
   ],
-  "impactDescription": "The development of a canonical DAI bridge following the launch of Optimism on mainnet in 2021 offered technical improvement for Optimism users as the 7 day fraud-proof waiting requirements were able to be bypassed for the first time. The initial debt ceiling per minting/burning was set to $1M DAI by Maker governance. Since the initial deployment of Teleport in November 2022, Maker governance has voted to change its multi-chain roadmap due to the “Endgame” which resulted in pausing further growth of Teleport, however it did provide an early technical improvement for Optimism users and was a pioneer in native asset burning/minting on chain.",
+  "impactDescription": "The development of a canonical DAI bridge following the launch of Optimism offered an important technical improvement for Optimism users as the 7 day fraud-proof waiting requirements were able to be bypassed for the first time. Bridging of a fully composable, top stablecoin like DAI, instead of relying on wrapped versions and non native bridges, aimed to provide better security and a frictionless experience on Optimism. Since the deployment of Teleport (with an initial $1M debt ceiling for DAI mint/burn set by governance), Maker governance has voted to change its multi-chain product roadmap, resulting in the pausing of Teleport. However, Chronicles research, development and deployment of Teleport demonstrate a considerable amount of time and commitment to supporting Optimism.  \n\n\n",
   "impactMetrics": [
     {
       "description": "Dai debt ceiling for Teleport ",

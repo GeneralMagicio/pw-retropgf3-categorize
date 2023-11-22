@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
-  "websiteUrl": "https://summerofprotocols.com",
-  "bio": "Studying Protocols from all angles across many domains, open-sourced findings.\n",
+  "websiteUrl": "https://summerofprotocols.com/",
+  "bio": "Protocols research from all angles across many domains, open-sourced findings.",
   "contributionDescription": "Over the summer of 2023, a group of 33 researchers participated in the inaugural Summer of Protocols program. They were tasked with exploring protocols, broadly construed, from various angles and across a range of different domains. By going broad, the researchers were able to find insights that applied in many contexts, including blockchain protocols such as Optimism and Ethereum. \n\nSome themes explored include the evolution of safety protocols, what \"protocol death\" looks like, the interplay of human agency and formulaic protocols, and more. \n\nThe output of the program is being published for all to access. The hope is for the program to help the Ethereum and Optimism communities become more \"protocol literate\" and have a better theoretical understanding of how protocols work. ",
   "contributionLinks": [
     {

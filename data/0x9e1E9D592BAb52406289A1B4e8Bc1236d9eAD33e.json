@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
-  "websiteUrl": "https://www.openzeppelin.com",
-  "bio": "OpenZeppelin is the world leader in securing blockchain applications and smart contracts.",
+  "websiteUrl": "https://www.openzeppelin.com/contracts",
+  "bio": "OpenZeppelin Contracts are the go-to library for smart contract development.",
   "contributionDescription": "The OpenZeppelin Contracts library helps developers reduce risk by using battle-tested implementations of solidity smart contracts. Developers can also use The Contracts Wizard for no-code development, and upgrade plugins for handling upgradeable contracts.\n\nThe library is always being worked on by our fully dedicated team of developers and community support. The 5.0 release added namespaced storage, efficiency improvements, a new AccessManager contract, and more. Before every update, we do extensive testing, including fuzzing and formal verification, as well as an audit by an internal independent team.\n\nDevelopers using the library can benefit from the Defender platform's free plan to securely code, deploy, and operate contracts. Defender supports Optimism and Base testnets and mainnet.",
   "contributionLinks": [
     {

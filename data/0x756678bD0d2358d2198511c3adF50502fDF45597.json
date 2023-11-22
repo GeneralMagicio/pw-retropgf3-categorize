@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://github.com/supranational/blst",
-  "bio": "Supranational developed and maintains 'blst', a BLS12-381 signature library that powers Ethereum's proof-of-stake consensus.",
+  "bio": "'blst' is the cryptography library used by all Ethereum clients to power PoS",
   "contributionDescription": "Supranational develops and maintains 'blst', a BLS12-381 signature library used by all Ethereum consensus clients. blst is high-performance and has undergone audits and formal verification, helping to ensure the security and scalability of Ethereum. It is also the cryptography library used to enable EIP-4844, which will allow rollups like Optimisim to achieve improved scalability and throughput.",
   "contributionLinks": [
     {

@@ -1,28 +1,28 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://testinprod.io",
-  "bio": "Test in Prod is a core development team of Optimism Collective. We contribute to OP Stack to deliver Superchain for everyone!",
+  "bio": "Test in Prod is a core development team of Optimism Collective.",
   "contributionDescription": "From core protocol development to DevOps tools, Test in Prod builds things that matter to OP Stack.\n—\n\nOP-Erigon: We built OP-Erigon, the first alternative execution client to OP Stack built with the Erigon client. We maintain OP-Erigon by keeping it updated with upstream, supporting more features, building OP-Otterscan, etc.\n\nSpan Batch: We researched and implemented Span Batch with OP Labs—new batch specs that minimize L1 data cost, initial design by Proto; aims to deploy with Canyon hardfork.\n\nEngine P2P Sync: We implemented Engine P2P Sync support for OP-Node that reduces block sync time—e.g., snap sync.\n\nPublic RPC & Block Explorer: We host OP-Erigon public RPCs & OP-Otterscan on OP Mainnet / Goerli.\n\nOP Charts: We built OP Charts, a Helm chart repository for OP Stack infrastructures.",
   "contributionLinks": [
     {
       "type": "GITHUB_REPO",
       "url": "https://github.com/testinprod-io/op-erigon",
-      "description": "OP-Erigon Github repository."
+      "description": "OP-Erigon Github repository"
     },
     {
       "type": "OTHER",
       "url": "https://op-erigon.testinprod.io/",
-      "description": "OP-Erigon fork-diffs."
+      "description": "OP-Erigon fork-diffs"
     },
     {
       "type": "OTHER",
       "url": "https://blog.oplabs.co/client-diversity/",
-      "description": "OP Labs' blog that introduces op-erigon and client diversity."
+      "description": "OP Labs' blog that introduces op-erigon and client diversity"
     },
     {
       "type": "GITHUB_REPO",
       "url": "https://github.com/testinprod-io/otterscan",
-      "description": "OP-Otterscan Github repository."
+      "description": "OP-Otterscan Github repository"
     },
     {
       "type": "OTHER",
@@ -32,47 +32,47 @@
     {
       "type": "OTHER",
       "url": "https://op-tip.notion.site/Span-Batch-Design-Docs-b85e599a47774dcdb8171cc84cab2476?pvs=4",
-      "description": "Span Batch design docs."
+      "description": "Span Batch design docs"
     },
     {
       "type": "GITHUB_REPO",
       "url": "https://github.com/ethereum-optimism/optimism/issues/7454",
-      "description": "Span Batch Github issue tracker."
+      "description": "Span Batch Github issue tracker"
     },
     {
       "type": "GITHUB_REPO",
       "url": "https://github.com/ethereum-optimism/optimism/pull/6243",
-      "description": "Engine P2P Sync PR."
+      "description": "Engine P2P Sync PR"
     },
     {
       "type": "OTHER",
       "url": "https://op-erigon.mainnet.testinprod.io/",
-      "description": "OP-Erigon public RPC endpoint on OP Mainnet."
+      "description": "OP-Erigon public RPC endpoint on OP Mainnet"
     },
     {
       "type": "OTHER",
       "url": "https://op-erigon.goerli.testinprod.io/",
-      "description": "OP-Erigon public RPC endpoint on OP Goerli."
+      "description": "OP-Erigon public RPC endpoint on OP Goerli"
     },
     {
       "type": "OTHER",
       "url": "https://otterscan.mainnet.testinprod.io/",
-      "description": "Public Block Explorer on OP Mainnet (OP-Otterscan)."
+      "description": "Public Block Explorer on OP Mainnet (OP-Otterscan)"
     },
     {
       "type": "OTHER",
       "url": "https://otterscan.goerli.testinprod.io/",
-      "description": "Public Block Explorer on OP Goerli (OP-Otterscan)."
+      "description": "Public Block Explorer on OP Goerli (OP-Otterscan)"
     },
     {
       "type": "GITHUB_REPO",
       "url": "https://github.com/testinprod-io/op-charts",
-      "description": "OP Charts Github repository."
+      "description": "OP Charts Github repository"
     },
     {
       "type": "OTHER",
       "url": "https://testinprod-io.github.io/op-charts/",
-      "description": "OP Charts Repo endpoint."
+      "description": "OP Charts Repo endpoint"
     },
     {
       "type": "OTHER",
@@ -91,7 +91,7 @@
   "impactDescription": "TiP's impacts focus on technical OPtimization and building tech stacks for OP Stack—some impacts are quantitive, but some should be qualitatively measured.\n—\n\nOP-Erigon: It secures OP Stack with client diversity and allows devs to enjoy Erigon's disk saving; it uses 70% less than OP Mainnet Geth archive nodes, 2.4→0.7TB.\n\nSpan Batch: It allows low-active OP Chains by cutting minimum L1 fees by ~97% (165→5 ETH a year), expecting to cut OP Mainnet's L1 fees by ~9%.\n\nEngine P2P Sync: It allows Geth's snap sync—reduces sync time by ~82% on OP Mainnet compared to the derivation.\n\nPublic RPC & Block Explorer: It allows devs to test OP-Erigon on OP Mainnet / Goerli—processing 138k req/day.\n\nOP Charts: It provides easy OP Stack deployments on k8s. Some devs forked it to build an OP Chain launcher.",
   "impactMetrics": [
     {
-      "description": "Span Batch L1 fee max savings (in %)",
+      "description": "Span Batch L1 fee max savings (%)",
       "number": 97,
       "url": "https://op-tip.notion.site/Span-Batch-Design-Docs-b85e599a47774dcdb8171cc84cab2476#:~:text=The%20new%20batch%20spec%2C%20Span%20Batch%2C%20reduces%20the%20overhead%20by%20up%20to%2097%25%20by%20encoding%20multiple%20consecutive%20blocks%20into%20a%20single%20batch%20when%20the%20chain%20is%20inactive."
     },
@@ -117,6 +117,12 @@
       "currency": "OP",
       "amount": 5000000,
       "description": "Core dev commitment grant—4 years vesting / 1 year cliff (https://bit.ly/c025de)"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 40000,
+      "description": "Layer 2 Community Grants from Ethereum Foundation (https://bit.ly/a81d9)"
     }
   ],
   "payoutAddress": "0x955f815dc8fe61cedb0da413c8ac466aac209a41",

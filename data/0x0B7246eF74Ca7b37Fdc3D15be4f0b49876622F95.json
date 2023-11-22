@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
-  "websiteUrl": "https://givepraise.xyz",
-  "bio": "Unlock the full potential of your community with reputation scores, rewards and deep insights",
+  "websiteUrl": "https://givepraise.xyz/",
+  "bio": "Unlock your community potential - reputation scores, rewards and deep insights",
   "contributionDescription": "Onchain attestations based on Praise data captures the essence of who did what, when, and to what impact in the Optimism community. We recently built and deployed the attestation feature specifically for the needs of Optimism. Praise attestations, in tandem with other types like Gitcoin Passport and Regen Score, play a pivotal role in determining eligibility for Optimism Citizens. Moreover, our newly launched citizen attestation explorer facilitates community members in examining the attestations and their associated impact scores.\n\nPraise dashboard currently have 100+ users & 400+ praises. Praise integrates with RegenScore & Gitcoin Passport, emphasizing trust. Metrics, led by a rewards group, quantify praises, aiding in governance.",
   "contributionLinks": [
     {
@@ -37,14 +37,14 @@
       "url": "https://optimism.givepraise.xyz"
     },
     {
-      "description": "Optimist profiles displayed",
-      "number": 5500,
-      "url": "https://citizen-attestations.xyz/schema/0xac4c92fc5c7babed88f78a917cdbcdc1c496a8f4ab2d5b2ec29402736b2cf929/1"
+      "description": "Praise Optimist Attestations minted",
+      "number": 102,
+      "url": "https://citizen-attestations.xyz/schema/0x1c622d3fdb24759ed71266b218c4750ad54549a7612451851f3b0432ce167e68/1"
     },
     {
-      "description": "Praise Optimist Attestations minted",
-      "number": 45,
-      "url": "https://citizen-attestations.xyz/schema/0x1c622d3fdb24759ed71266b218c4750ad54549a7612451851f3b0432ce167e68/1"
+      "description": "Optimist profile pageviews",
+      "number": 3700,
+      "url": "https://citizen-attestations.xyz/schema/0xac4c92fc5c7babed88f78a917cdbcdc1c496a8f4ab2d5b2ec29402736b2cf929/1"
     }
   ],
   "fundingSources": [

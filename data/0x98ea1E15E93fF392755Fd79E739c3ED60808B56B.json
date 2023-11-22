@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
-  "websiteUrl": "https://github.com/rakita/",
-  "bio": "revm author.\nReth core contributor.\npreviously OpenEthereum core contributor.",
+  "websiteUrl": "https://github.com/bluealloy/revm",
+  "bio": "Rust Ethereum Virtual Machine",
   "contributionDescription": "Revm has become a critical core component of the Ethereum ecosystem, \nused by various builders, researchers, devs, tooling, and even the client.\n\nRevm is an EVM written in the Rust that is focused on speed and simplicity. It has a fast and flexible implementation with a simple interface for easy consumption.\n\nNotably, Revm plays a central role in various high-impact projects. The Foundry was an early adopter, while Hardhat initiated its transition to Revm for their EDR runtime (previously known as rethnet) last year. On the infrastructure front, Revm is integrated inside Reth (Ethereum Execution Client), it enabled risc0 to effortlessly make zeth (a zkEVM), and has support for Optimism transactions, among other usages.",
   "contributionLinks": [
     {

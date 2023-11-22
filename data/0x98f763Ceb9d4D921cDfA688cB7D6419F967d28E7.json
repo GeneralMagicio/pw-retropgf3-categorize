@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
-  "websiteUrl": "https://github.com/noisekit",
-  "bio": "CC at Synthetix, full stack engineer and devops.",
+  "websiteUrl": "https://github.com/Synthetixio/synthetix-node",
+  "bio": "The gateway to decentralised frontends in the DeFi ecosystem",
   "contributionDescription": "The Synthetix IPFS Node is the gateway to decentralized frontends in the DeFi ecosystem. This solution champions true decentralization, allowing users to interact with dapps without depending on centralized hosting. By encouraging users to run their own IPFS Node, we aim to bolster decentralised access and optimise IPFS load speeds.",
   "contributionLinks": [
     {

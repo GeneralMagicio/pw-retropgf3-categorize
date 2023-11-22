@@ -1,7 +1,7 @@
 {
   "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://therealbytes.com",
-  "bio": "Serial OP Stack forker and onchain mad scientist",
+  "bio": "Serial OP Stack forker",
   "contributionDescription": "Over the last year, I have built multiple forks of the OP Stack in an effort to push the boundaries of what is possible on-chain; some of them have been featured in the OP Stack documentation. The scope of my forks includes the rollup driver (op-node) and execution engine (op-geth). Some of these projects are:\n- Ticking-Optimism: A fork of op-node that adds a system transaction calling a predefined address every block.\n- Concrete: A framework for building application-specific rollups on the OP Stack.\n- Shadow Rollup: An indexer rollup that tracks the gas consumption of every smart contract in another rollup by re-deriving it from L1 with a custom execution engine.",
   "contributionLinks": [
     {

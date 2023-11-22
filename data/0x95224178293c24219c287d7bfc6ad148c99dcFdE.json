@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://aestus.live",
-  "bio": "I'm a long time member of the EthFinance and EthStaker community, running infrastructure in the MEV ecosystem. ",
+  "bio": "A neutral non-censoring MEV-Boost relay",
   "contributionDescription": "The Aestus MEV-Boost Relay is a neutral, non-censoring block relay for Ethereum proof-of-stake validators and block builders, offered to the community as a public good. We are free from any commercial interest and aligned to principles of credible neutrality.  The Aestus  project originally developed out of conversations between members of the EthFinance and EthStaker communities who saw the need to develop credibly neutral architecture for the ethereum staking ecosystem. We have been in continuous operation for approximately 1 year and contribute to security of the L1 and L2 ecosystems.",
   "contributionLinks": [
     {

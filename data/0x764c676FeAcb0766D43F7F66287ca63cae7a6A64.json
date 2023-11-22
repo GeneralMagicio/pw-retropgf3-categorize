@@ -1,7 +1,7 @@
 {
-  "applicantType": "INDIVIDUAL",
-  "websiteUrl": "https://laktek.com",
-  "bio": "Creator of seedle.finance",
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://seedle.finance",
+  "bio": "Uniswap V3 Pool Manager.",
   "contributionDescription": "I built and maintain seedle.finance. It's a tool for tracking performance and managing Uniswap V3 positions. With Seedle, LPs can easily see the fee APYs, net gains (including impermanent losses), and full transaction history of the positions (incl. gas fees). Also, they can use Seedle to swap & add liquidity to positions easily.",
   "contributionLinks": [
     {

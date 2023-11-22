@@ -1,7 +1,7 @@
 {
   "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://dune.com/hildobby",
-  "bio": "data @ Dragonfly & public goods contributor on Dune",
+  "bio": "Public good dashboards & spells (tables) on Dune",
   "contributionDescription": "Hello, I have created public good Dune dashboards such as:\n- ETH Staking: https://dune.com/hildobby/eth2-staking\n- Gas Overview: https://dune.com/hildobby/Gas\n- NFT Market Overview: https://dune.com/hildobby/NFTs\n- NFT Wash Trading: https://dune.com/hildobby/nfts-wash-trading\n\nI've also created 300+ tables on Dune (most anyone has) for all Dune analysts to use. Some notable ones include: evms.[transactions, traces, logs, ...], nft.[transfers, approvals, trades, wash_trades, info], fungible.transfers, dex.[flashloans, info], staking_ethereum.[entities, deposits, flows, info], addresses_events.first_funded_by, airdrop.claims, tornado_cash.[deposits, withdrawals], ...",
   "contributionLinks": [
     {

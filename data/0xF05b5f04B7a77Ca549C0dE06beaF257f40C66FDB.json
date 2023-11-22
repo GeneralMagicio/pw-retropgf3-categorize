@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
-  "websiteUrl": "https://daimo.xyz",
-  "bio": "Daimo is a stablecoin payments app on Base (OP Stack). We are building more secure self-custody wallet using Account Abstraction and hardware-bound passkeys.",
+  "websiteUrl": "https://p256.eth.limo",
+  "bio": "First audited, production-ready verifier for Secure Enclave & Passkey signatures",
   "contributionDescription": "We've developed the first audited, production-ready P256Verifier smart contract. Our open-source implementation has enabled developers to create better UX for secure self-custody on Optimism and Ethereum-equivalent L2s more broadly.\n\nP256 ECDSA signatures are available on a wide variety of consumer cryptosystems including Yubikey, Apple's Secure Enclave, the Android Keystore, passkeys, and WebAuthn. This makes P256 signature verification especially useful for smart-contract wallets, enabling hardware-based signing keys and safer, easier self-custody.\n\nSee our blog post (https://daimo.xyz/blog/p256verifier) for a more complete description of the features and under-the-hood details of the verifier.",
   "contributionLinks": [
     {

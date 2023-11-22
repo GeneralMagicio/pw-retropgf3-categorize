@@ -1,7 +1,7 @@
 {
-  "applicantType": "INDIVIDUAL",
-  "websiteUrl": "https://grapebaba.github.io/",
-  "bio": "I am an OSS developer focus on blockchain area. I am working on a project Hildr which expect to implement the whole OP tech stack with Java/Kotlin. ",
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://github.com/optimism-java/hildr",
+  "bio": "Hildr is an OP Stack rollup client written in latest Java with GraalVM native.",
   "contributionDescription": "For OP rollup client diversity, I created Hildr project which implemented OP rollup client with Java. It already supported Bedrock mainnet, testnet and Base mainnet, testnet. It is the third rollup client implementation besides the official Go version and a16z Rust version.",
   "contributionLinks": [
     {

@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://get-verso.com",
-  "bio": "All-in-one multichain mobile 📲 wallet for #Crypto #NFT #DeFi and #cashback.\nSupports #Polygon #Ethereum #BNBChain and Optimism 🔴",
+  "bio": "Verso Mobile Wallet for Optimism",
   "contributionDescription": "We implemented Optimism inside Verso Wallet and released it to all users both on Android and iPhones.\nTested on 50+ mobile devices.\n\nWe added following features : \n- Optimism chain to our mobile wallet (50.000 users).\n- Swap in Optimism\n- Bridge from/to Optimism \n- Configured Optimism tokens in our swap and market data section.",
   "contributionLinks": [
     {

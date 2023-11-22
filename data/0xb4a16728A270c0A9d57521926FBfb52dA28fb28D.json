@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://app.openxswap.exchange/",
-  "bio": "Documentation, research, and development for the Open X Project.",
+  "bio": "We write smart contracts that facilitate the open exchange of ideas and value.",
   "contributionDescription": "1 NFT Market contracts. These allow for any ERC20 to be exchanged for any ERC721.  We addressed UI / UX issues voiced by Optimism users, particularly for veNFTs. The fee (1%) is the lowest among all NFT Markets on Optimism. \n2. opxVELO - the only liquid staking project for VELO, offering users and projects access to veVELO without the time commitment of locking and managing a vote-escrowed position.\n3. Auto-compounding vaults, featuring the lowest fees (7%) on Optimism.\n4. Our UI / UX. UI hosting is possible only with project revenue.\n5. I would like to nominate Alex, our only developer, for RPGF. He brought two years of web3 experience to Optimism without incentive. He has never received outside funding of any kind. He often competes with projects with sizable backing and incentives. ",
   "contributionLinks": [
     {

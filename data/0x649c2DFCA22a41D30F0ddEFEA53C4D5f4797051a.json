@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://clique.social/",
-  "bio": "We build identity oracles that allow users to create attestations based on arbitrary web2 private data by using cryptographic tools like TEE, ZKP, and MPC.",
+  "bio": "Leading identity oracle & zk attestation provider on OP",
   "contributionDescription": "As a leading identity data provider on Optimism, Clique has issued 1.14M out of total 1.49M attestations on OP AttestationStation, which are then used by major OP ecosystem protocols like Bungee, Tally, BoredTown, Clipper, Synapse, Perpetual, Orbiter, Aloe, Angle, and many others, for purposes like user screening, Sybil resistance, directional incentive issuance, etc. The attestations encompass users' Twitter metrics, GitHub prowess, Discord interactions, and on-chain behaviors.\nWe actively bring technical innovations to the OP ecosystem such as building the first-ever ZKP-based attestations, TEE-based web2 data attestations, as well as identity-based governance processes. In addition, we are an active contributor to the OP governance itself as a part of its protocol delegation program.",
   "contributionLinks": [
     {

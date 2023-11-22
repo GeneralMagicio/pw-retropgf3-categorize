@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
-  "websiteUrl": "https://relay.ultrasound.money/",
-  "bio": "We're the small team that is running the ultra sound relay.",
+  "websiteUrl": "htpts://relay.ultrasound.money",
+  "bio": "Supporting decentralization through non-censoring proposer-builder separation.",
   "contributionDescription": "In Nov 2022, 78% of Ethereum blocks censored OFAC transactions, undermining decentralization—a critical concern for both Ethereum and Optimism. Launching our credibly-neutral relay that month, we now connect to ~75% of validators, all major builders, and relay around ~30% of Ethereum blocks, reducing block censorship to 29%. This relay fortifies proposer-builder separation, leveling the playing field for all proposers in accessing MEV revenue, thereby bolstering decentralization. Running an effective relay is costly (10k - 20k a month) with thousands of block bids submitted each slot, and has so far been funded entirely by generous supporters.\n",
   "contributionLinks": [
     {

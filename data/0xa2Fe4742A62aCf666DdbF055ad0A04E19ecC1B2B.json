@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
-  "websiteUrl": "https://iain.in/",
-  "bio": "Currently a Protocol Engineer at ZORA.\nI have been contributing public goods and hackathon ideas to the ethereum community since 2018.\n",
+  "websiteUrl": "https://ether.actor/",
+  "bio": "Ether.actor is a HTTP debugging toolkit for EVM-based chains.",
   "contributionDescription": "Ether actor has allowed front-end developers and blockchain developers to quickly query information in a evm and web friendly way without needing to deal with RPC endpoints, decoding transactions and providing a free service.\nSyndicate has helped pay for hosting and I have worked with various RPC providers to keep this a free public goods service since it was created two years ago in 2021. \n",
   "contributionLinks": [
     {

@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://castle.link/",
-  "bio": "My name is Mehran and I'm the CTO at Castle. We're working on making NFTs and other token standards safe and easy to use. We're built on Optimism and Safe.",
+  "bio": "Castle is a multi-chain EOA and multi-sig aggregator for NFTs and coins on OP.",
   "contributionDescription": "We help users manage multiple wallets on Optimism and Base blockchains. Users can connect multiple EOAs, multi-sigs (across both Optimism and Base) and manage their NFTs and coins. We integrate with NFT marketplaces and 0x to enable trading on Optimism and Base too.\n\nThe multi-sig creation process on our app is simplified. We leverage CREATE2 and multi-send to streamline onboarding for users. Users can securely manage their assets across major chains through us.",
   "contributionLinks": [
     {

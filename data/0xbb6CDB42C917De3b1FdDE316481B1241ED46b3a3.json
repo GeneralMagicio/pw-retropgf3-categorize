@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
-  "websiteUrl": "https://wallfacer.io/",
-  "bio": "Wallfacer Labs is a crypto research and development company. We are the creators of Vaults.fyi. We are creators & maintainers of the OSS, UseDApp & Waffle. ",
+  "websiteUrl": "https://www.vaults.fyi/",
+  "bio": "Discover & verify yields across Ethereum, Optimism, Base, and other L2s",
   "contributionDescription": "Vaults.fyi is the most reliable source for in-depth yield analysis on Optimism. \n\nWe track 23 yields on Optimism and Base, with custom links you can use to focus on only those L2s: op.vaults.fyi and base.vaults.fyi. \n\nAcross Ethereum and the broader L2 ecosystem, we track 100+ yields. ",
   "contributionLinks": [
     {

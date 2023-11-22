@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
-  "websiteUrl": "https://www.decent.xyz",
-  "bio": "Cofounder & COO, Decent.xyz",
+  "websiteUrl": "https://www.decent.xyz/",
+  "bio": "Uniting crypto through seamless crosschain transactions.",
   "contributionDescription": "In October 2022, Decent became one of the first NFT creator platforms to deploy NFTs to Optimism. Our DCNT721a NFT contract is the most used contract on Optimism. In the last year we've had over 22M NFTs minted on OP like drops with partners including Optimism, World Coin, Conduit, Base, and more. We didn't have any fee collection on for almost all of these mints. \n\nWe also built a product called The Box that enables 1-click transactions from any token on any chain - meaning that users can make transactions on Optimism (or other L2s) without needing native tokens on Optimism and we do all the bridging and swapping in the background at the Point of Sale (or Point of Transaction). This has already brought a few thousand transactions to Optimism and been integrated to enable payment for NFTs",
   "contributionLinks": [
     {

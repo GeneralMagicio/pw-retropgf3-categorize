@@ -1,13 +1,13 @@
 {
   "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://www.supernovahs.xyz/",
-  "bio": "Open source builder on Ethereum",
+  "bio": "OS Builder on Ethereum",
   "contributionDescription": "I am an avid contributor on Reth which directly impact Optimism 's security. Reth is an execution layer on ethereum which is ultra fast.\nI also create OS tooling and POCs for ethereum ecosystem namely through BuidlGuidl.\nContributed to many OS zk puzzles on ethereum to help developers learn applied Zk . \n",
   "contributionLinks": [
     {
       "type": "GITHUB_REPO",
       "url": "https://github.com/paradigmxyz/reth",
-      "description": "All time #18 contributor to Reth"
+      "description": "All time #17 contributor to Reth"
     },
     {
       "type": "OTHER",
@@ -23,8 +23,8 @@
   "impactMetrics": [
     {
       "description": "No. of PRs",
-      "number": 14,
-      "url": "https://github.com/paradigmxyz/reth/graphs/contributors"
+      "number": 18,
+      "url": "https://github.com/paradigmxyz/reth/commits?author=supernovahs"
     }
   ],
   "fundingSources": [],

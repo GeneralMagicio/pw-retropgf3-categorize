@@ -1,8 +1,8 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://optimism.guide",
-  "bio": "An Optimism glossary, a directory of Optimism tools and resources, and more",
-  "contributionDescription": "- Launched an Optimism-specific glossary to make it easier for users to look up terms they’re unfamiliar with (What is a Special Voting Cycle? What are Intents?)\n- Launched a directory providing an overview of tools and (educational) resources relevant to Optimism, ranging from tutorials, conference talks, podcasts, blog posts to analytics dashboards.\n- Built an experimental RetroPGF micro lesson that reduces the time it takes to get an in-depth understanding of the mechanisms and vision behind Retroactive Public Goods Funding",
+  "bio": "An Optimism glossary, a directory of tools and resources, and a micro lesson",
+  "contributionDescription": "- Optimism Glossary\nLaunched an Optimism-specific glossary to make it easier for users to look up terms they’re unfamiliar with (What is a Special Voting Cycle? What are Intents?)\n\n- Curated collection of external and official resources\nLaunched a directory providing an overview of tools and (educational) resources relevant to Optimism, ranging from tutorials, conference talks, podcasts, blog posts to analytics dashboards.\n\n- RetroPGF micro lesson\nBuilt an experimental RetroPGF micro lesson that reduces the time it takes to get an in-depth understanding of the mechanisms and vision behind Retroactive Public Goods Funding",
   "contributionLinks": [
     {
       "type": "OTHER",
@@ -25,27 +25,32 @@
     "DEVELOPER_ECOSYSTEM",
     "END_USER_EXPERIENCE_AND_ADOPTION"
   ],
-  "impactDescription": "- Helped many governance participants and end users quickly find an explanation for specific terms like “Reflection Period”, “RetroPGF Flywheel”, “Superchain”\n- Improved the visibility of many great tools and resources\n- The contribute form on the website was used by organizations such as the USC Blockchain Club to submit links to resources\n- Reached a total of 1.38k unique website visitors, and 2.6k total pageviews\n- 230 unique outbound link clicks to community resources\n- 36 successfully completed micro lessons",
+  "impactDescription": "- The glossary has made it straightforward to look up terms that someone is unfamiliar with, making it easier to get a basic understanding of concepts and terms that are a prerequisite for meaningful participation in the Collective.\n\n- The directory of Optimism tools and resources has increased the visibility of many great resources that are enormously valuable yet not enough people people know about. By having an open contribution form on the website, we have also fostered a culture of collaboration with individuals and organizations like the USC Blockchain Club submitting links to resources.\n\n- The RetroPGF micro lesson, which takes roughly 7 minutes to finish, was successfully completed 38 times.",
   "impactMetrics": [
     {
       "description": "# of unique website visitors",
-      "number": 1374,
+      "number": 1426,
       "url": "https://plausible.io/optimism.guide"
     },
     {
       "description": "# of total pageviews",
-      "number": 2637,
+      "number": 2725,
       "url": "https://plausible.io/optimism.guide"
     },
     {
       "description": "# of glossary views",
-      "number": 226,
+      "number": 233,
       "url": "https://plausible.io/optimism.guide?period=all&page=%2Fglossary"
     },
     {
       "description": "# of successfully completed lessons",
-      "number": 36,
+      "number": 38,
       "url": "https://docs.google.com/spreadsheets/d/1xacN2UsDsSZE9n5BcH2mgO1itN1HJ1WQhjMxolhR6I0/edit?usp=sharing"
+    },
+    {
+      "description": "# of likes Governance Forum thread",
+      "number": 26,
+      "url": "https://gov.optimism.io/t/introducing-the-optimism-guide/6839"
     }
   ],
   "fundingSources": [
@@ -53,7 +58,13 @@
       "type": "REVENUE",
       "currency": "USD",
       "amount": 0,
-      "description": "No revenue was generated and no grants were received"
+      "description": ""
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 0,
+      "description": ""
     }
   ],
   "payoutAddress": "0xa83926fe58B9bEd62103b540d7eb928f64125979",

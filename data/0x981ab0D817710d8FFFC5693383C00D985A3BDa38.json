@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://www.kredeum.com",
-  "bio": "Web3 Architect",
+  "bio": "Easiest way to Create your NFT MarketPlace on WordPress ",
   "contributionDescription": "Kredeum NFTs Factory Dapp is deployed on Optimism,  enables Web2 users to publish on their WordPress website NFT marketPlace with Optimism NFT Collections  \n\nWith these smartcontracts deployed :\n- Kredeum NFTs Factory, to clone templates\n- Kredeum NFTs Resolver, to get infos from all Optimism NFTs\n- OpenNFTsV4 : Basic NFT Collection template\n- OpenMarket : Advanced NFT Collection template including Market functionality\n",
   "contributionLinks": [
     {

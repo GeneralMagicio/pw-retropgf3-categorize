@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://nicenode.xyz",
-  "bio": "Set up a node in no-time on every modern computer without any technical knowledge",
+  "bio": "Run a node at home, the easy way",
   "contributionDescription": "With just a few clicks, you can run an OP Stack node and other OP native nodes - like a Farcaster Hub!\n\nNiceNode supports chains that implement the OP Stack’s node - an OP execution (op-geth, op-erigon, op-nethermind, etc.) and consensus client (op-node). Users can start and stop the OP node, change its settings, and monitor its status and usage.\n\nAdditionally, an OP native protocol - Farcaster - is supported. A Farcaster Hub stores the state of the decentralized social media protocol. Users can easily run a Farcaster Hub, Hubble, using NiceNode's UI with only a few clicks! \n\nNiceNode works great on Ubuntu and other Linux distros work well now and is available to try on Mac and Windows.",
   "contributionLinks": [
     {

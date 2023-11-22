@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://www.gitcoin.co/passport",
-  "bio": "I lead Gitcoin Passport, specializing in SaaS & identity management to protect online communities from sybils & bots. ",
+  "bio": "Gitcoin Passport makes it easy for projects to detect and stop bots and Sybils.",
   "contributionDescription": "The creation of Gitcoin Passport itself is a key contribution to Optimism and the broader Ethereum ecosystem, offering identity management tools that enhance security and trust. \n\nIt's an easy-to-use tool for Optimism developers seeking to protect their projects from bots and Sybils. \n\nFurthermore, we launched Onchain Stamps on the OP Mainnet, using Ethereum Attestation Service for Sybil-resistant identity. This has significantly bolstered trust in Optimism, driving the majority of attestations in OP's Attestation Station and data availability for everyone in the OP ecosystem.\n\nWe've also fortified OP token programs with partners like ShapeShift, Tide, and Bankless Academy, using anti-Sybil tech to disqualify rogue addresses, preserving ecosystem integrity.",
   "contributionLinks": [
     {

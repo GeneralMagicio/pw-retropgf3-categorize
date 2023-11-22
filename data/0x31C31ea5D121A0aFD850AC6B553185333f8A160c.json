@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://openocean.finance/",
-  "bio": "OpenOcean is a leading DEX aggregator integrated 1000+ liquidity sources and providing the best swap prices across 30+ chains.",
+  "bio": "OpenOcean is a leading DEX aggregator with best swap prices across 30+ chains. ",
   "contributionDescription": "DEX Aggregator: We integrated Optimism with 18 DEX liquidity sources, ensuring that end users can access these platforms efficiently and trade assets at the best price. This integration not only increased the trading volume on these DEXs but also attracted more users to the Optimism platform.\n\nCross-Chain Swap Aggregator: We developed a cross-chain swap aggregator that attracted users from 7 networks to Optimism. We integrated 4 widely used bridge solutions and utilized our own swap function to enable 1 click cross-chain swap at the best price.\n\nSwap Product Suite: We offered developers and projects on OP ecosystem a series of products to complete inner-protocol integration to offer swap features, including swap function API/SDK/Widget, limit order API/SDK, and cross-chain swap API. ",
   "contributionLinks": [
     {

@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://app.odos.xyz",
-  "bio": "Odos leverages a unique algorithm to traverse a large universe of possible token swap combinations and non-linear paths, delivering greater savings to its users",
+  "bio": "DeFi Aggregator with multi-input and multi-output swaps.",
   "contributionDescription": "Odos provides optimal routing through and access to over 53 DeFi apps on Base Mainnet and 39 DeFi apps on Optimism Mainnet. This provides users with a massively improved UX where they can specify a desired swap and/or DeFi interaction (e.g. deposit liquidity into Curve) and get access to the best place(s) to execute this action. \n\nAmong Odos' unique tools and contributions are native multi-input and multi-output swaps, efficient complex routing that exports volume across all DEXs on Optimism, and easy access to more advanced DeFi applications like lending protocols, yield optimizers, CDPs, and liquidity provisioning in DEXs. All of this is accessible through Odos' intuitive dApp, as well as through its free public API that is leveraged in many applications across the Optimism ecosystem.",
   "contributionLinks": [
     {

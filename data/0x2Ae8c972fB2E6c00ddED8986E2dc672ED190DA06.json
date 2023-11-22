@@ -1,7 +1,7 @@
 {
   "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://web3datadegens.substack.com/",
-  "bio": "Educating everyone on web3 data, and creating ecosystem tools to aid in that mission.",
+  "bio": "I create dashboards, tools, and content to make web3 data easier to navigate.",
   "contributionDescription": "Between the last round and this round, my main contribution relevant to Optimism is creating a multi-chain tracker of all ERC standards. This makes it easier for everyone to understand what an ERC is, and find trending examples of it on any chain.\n\nFor example, I believe people have used my dashboard to track down newer ERCs like ERC4337 and ERC6551. For some ERCs like ERC4337, I've done deeper data dives and explanations.\n\nOn top of that, I've gone to lengths to explain to people advanced data patterns as well as the modular stack. ",
   "contributionLinks": [
     {

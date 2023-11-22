@@ -1,7 +1,7 @@
 {
   "applicantType": "INDIVIDUAL",
-  "websiteUrl": "https://vrypan.net/",
-  "bio": "Dad, builder, entrepreneur. I love building things and explaining complex concepts.",
+  "websiteUrl": "https://vrypan.net",
+  "bio": "Dad, builder, entrepreneur. Building things and explaining complex concepts.",
   "contributionDescription": "(Context: Farcaster is a sufficiently decentralized social network. It's on-chain components are deployed on Optimism.)\n\nI've build Python bindings for Farcaster (farcaster-py). It exposes most of the gRPC functionality provided by Farcaster hubs. It also provides easy-to-use, interfaces for the on-chain trasaction required by the Farcaster protocol such as adding and removing \"Signers\".\n\nOn top of farcaster-py I also built fario. Fario is a set of command line tools intended to be used by Farcaster power users and developers. They allow interacting with the Farcaster protocol and are designed to integrate with the Unix command line ecosystem.\n\nBoth projects were released only a couple of days before the end or RetroPGF3, so there is not much to share regarding metrics.",
   "contributionLinks": [
     {

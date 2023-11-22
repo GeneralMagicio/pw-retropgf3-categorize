@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
-  "websiteUrl": "https://routescan.io",
-  "bio": "Routescan is a block explorer platform and the world's first unified, multi-chain, EVM block explorer.",
+  "websiteUrl": "https://superscan.network",
+  "bio": "The unified Superchain explorer",
   "contributionDescription": "The Superscan (https://superscan.network) is a unified block explorer for the Superchain, unifying data points at the ecosystem level, built by the same team that built Avascan (https://avascan.info), the world's first unified multi-chain block explorer.\n\nThe Superscan launched on July 20th.\n\nThink of it like Debank, but for everything you normally use on a block explorer:\n- Unified home page that shows blocks, txs and L1 <> L2 txs made in real-time [https://superscan.network]\n- Single-chain explorer for every OP Chain: OP Mainnet | Base |Zora | PGN\n- Unified contract verification compatible with Etherscan APIs\n- REST (native) and Etherscan compatible API endpoints\n- Aggregated charts and tools with single chain comparison\nAnd more.\n\nWe also designed Superchain and Superscan logos.",
   "contributionLinks": [
     {

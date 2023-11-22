@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
-  "websiteUrl": "https://www.mechanism.institute",
-  "bio": "We are a think tank that brings together builders and researchers to advance coordination mechanisms that unlock positive-sum outcomes.",
+  "websiteUrl": "https://mechanism.institute",
+  "bio": "Think tank advancing positive-sum coordination mechanism.",
   "contributionDescription": "Mechanism Library: Extensive catalogue of coordination mechanims & case studies (including OP mechanisms) that serves as a go-to hub for a diverse audience.\n\nMechanism Impact Measurement: Forkable workbook to model ROI of mechanisms, including cost of capital & demand forecasting. Employed by Gitcoin (OP Stack user) to model staking mechanisms.\n\nMechanism Canvas: Visual template for designing systems in a way that ensures shared understanding of system architecture & goals.\n\n7 seminars (online & IRL) teaching tools & practical strategies for designing better mechanism design.\n\nOpen Source Primitives:\nSlashing Engine to solve sybil attacks in Gitcoin Passport & other claim verification problems\nSmart Treaties to enable Zuzalu & other communities to scale through bilateral staking commitment",
   "contributionLinks": [
     {

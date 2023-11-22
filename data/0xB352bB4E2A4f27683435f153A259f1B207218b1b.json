@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://eth.limo/",
-  "bio": "A privacy preserving ENS gateway for resolving Ethereum Name Service (ENS) records and associated IPFS/IPNS/Arweave content.",
+  "bio": "Privacy-preserving ENS gateway, enabling access to Ethereum-native dApps/content",
   "contributionDescription": "Recently we announced our release of limo-web3-dns which is an experimental domain specific implementation of the DNS protocol for direct resolution of ENS records over DNS.\nLimo-web3-dns allows ENS domain holders to be able to manage traditional services such as web hosting and self hosted software with minimal friction. The ultimate goal of limo-web3-dns is to provide trustless auditable cryptographically signed ENS over DNS to bring ENS to parity with DNS. Limo-web3-dns is also  CCIP-Read/EIP-3668 enabled allowing users to store content on Optimism/Base or any L2.  \n\nWe also operate eth.limo as a public good which is a CCIP-Read enabled gateway. Large projects such as Kwenta and Synthetix are utilizing the gateway to provide front-end access to their end users. ",
   "contributionLinks": [
     {

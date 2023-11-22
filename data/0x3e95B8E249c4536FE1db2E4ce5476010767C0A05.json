@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
-  "websiteUrl": "https://optimism.easscan.org",
-  "bio": "Core team @ Ethereum Attestation Service. Product person and public goods builder with some salty dev & design skills. Loves a good street taco.",
+  "websiteUrl": "https://optimism.easscan.org/",
+  "bio": "Core OP Stack infrastructure for making attestations onchain or offchain.",
   "contributionDescription": "EAS has been natively integrated into the OP Stack codebase and linked by two predeploy addresses for registering schemas and making attestations onchain or offchain. All future OP Stack chains automatically inherit the contracts at Genesis. \n\nThese contracts unlock new opportunities for builders passionate about identity, reputation, governance, voting, social & beyond.\n\nDid you know?\n- EAS powers the AttestationStation V1\n- RetroPGF profiles & badgeholders are attested to using EAS\n- Gitcoin Passport uses EAS to attest to stamps & scores on OP\n- Base uses the predeploy contracts\n+ more use cases\n\nWe've also contributed:\n- An OP Attestation Explorer\n- An SDK + API to get devs building faster\n- No-code tools for making schemas & attestations\n- Educational content & docs for attestations",
   "contributionLinks": [
     {
@@ -32,17 +32,22 @@
     {
       "type": "OTHER",
       "url": "https://optimism.easscan.org/",
-      "description": "OP Attestation Explorer"
+      "description": "OP attestation explorer for discovering and making schemas + attestations."
     },
     {
       "type": "OTHER",
       "url": "https://docs.attest.sh/docs/developer-tools/eas-sdk",
-      "description": "EAS SDK"
+      "description": "EAS SDK to enable OP builders to build faster."
     },
     {
       "type": "CONTRACT_ADDRESS",
       "url": "https://optimism.easscan.org/graphql",
       "description": "EAS GraphQL API on Optimism"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://docs.base.org/base-contracts/",
+      "description": "EAS predeploy addresses (20 + 21) being used on Base (via OP Mainnet)"
     }
   ],
   "impactCategory": [
@@ -51,41 +56,41 @@
     "END_USER_EXPERIENCE_AND_ADOPTION",
     "OP_STACK"
   ],
-  "impactDescription": "EAS has been natively integrated into the core OP Stack infrastructure as two predeploy addresses and positioned OP as the ecosystem leader for attestations. \n\nThe contracts have enabled:\n- RetroPGF profiles to be attested to\n- OP Badgeholders to be attested to\n- Gitcoin Passports to push their offchain stamps & scores onchain to Optimism.\n- Guild to query OP attestations using the EAS GraphQL API and ultimately enable teams to gate chats & communities with attestations that have been made.\n- Base to provide attestations to their builders by using the predeploy contracts\n+ more\n\nAttestations are enabling builders to explore new use cases around identity, reputation systems, governance, registries, voting, social networks, and more throughout the Superchain.",
+  "impactDescription": "EAS has been natively integrated into the core OP Stack infrastructure as two predeploy addresses and has positioned OP as the ecosystem leader for attestations. \n\nEAS has enabled:\n- RetroPGF profiles to be attested to\n- OP Badgeholders to be attested to\n- Gitcoin Passports to push their offchain stamps & scores onchain to Optimism.\n- Guild to query OP attestations using the EAS GraphQL API and gate communities/chats.\n- Base to provide attestations to their builders by using the predeploy contracts\n- Attestations to be verified on the OP explorer\n- Builders to build faster with our comprehensive docs\n+ more\n\nAttestations are inspiring builders to explore new use cases around identity, reputation systems, governance, registries, voting, social networks, and more throughout the Superchain. ",
   "impactMetrics": [
     {
       "description": "# of OP Mainnet Attestations",
-      "number": 35280,
+      "number": 51235,
       "url": "https://optimism.easscan.org/"
     },
     {
       "description": "# of Unique Attesters",
-      "number": 3619,
+      "number": 8286,
       "url": "https://optimism.easscan.org/"
     },
     {
       "description": "# of Optimist Profiles Created",
-      "number": 3548,
+      "number": 8592,
       "url": "https://optimism.easscan.org/schema/view/0xac4c92fc5c7babed88f78a917cdbcdc1c496a8f4ab2d5b2ec29402736b2cf929"
     },
     {
-      "description": "# of OP Goerli Attestations",
-      "number": 18564,
-      "url": "https://optimism-goerli-bedrock.easscan.org/"
-    },
-    {
       "description": "# of Gitcoin Passports Moved Onchain",
-      "number": 11657,
+      "number": 13352,
       "url": "https://optimism.easscan.org/schema/view/0x6ab5d34260fca0cfcf0e76e96d439cace6aa7c3c019d7c4580ed52c6845e9c89"
     },
     {
+      "description": "# of OP Goerli Attestations",
+      "number": 23540,
+      "url": "https://optimism-goerli-bedrock.easscan.org/"
+    },
+    {
       "description": "# of Schemas Created (Mainnet + Goerli)",
-      "number": 594,
+      "number": 680,
       "url": "https://optimism.easscan.org/"
     },
     {
-      "description": "# of RetroPGF Badgeholders Attested To",
-      "number": 80,
+      "description": "# of RetroPGF Badgeholder Attestations",
+      "number": 227,
       "url": "https://optimism.easscan.org/schema/view/0xfdcfdad2dbe7489e0ce56b260348b7f14e8365a8a325aef9834818c00d46b31b"
     }
   ],
@@ -94,7 +99,7 @@
       "type": "GOVERNANCE_FUND",
       "currency": "OP",
       "amount": 50000,
-      "description": "OP Grant awarded for improvements to the Attestation Explorer experience"
+      "description": "OP Grant awarded for improvements to the Attestation Explorer"
     }
   ],
   "payoutAddress": "0xE09876A3F1C56d4017A898F33487e630C42191a4",

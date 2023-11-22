@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
-  "websiteUrl": "https://github.com/sslivkoff",
-  "bio": "data science + data engineering\n\nopen source maxi",
+  "websiteUrl": "https://github.com/paradigmxyz/cryo",
+  "bio": "cryo is the easiest and fastest way to extract bulk datasets from Optimism nodes",
   "contributionDescription": "We recently released a data tool called cryo. cryo is the easiest and fastest way to extract datasets from Optimism nodes into standard formats like parquet or csv.\n\n- cryo can extract more than 30 types of datasets from any Optimism-based node, including contracts, erc20 transfers, state diffs, and address appearances\n\n- cryo can be used from the command line, from rust, or from python. In each case, cryo is the fastest tool for bulk data extraction thanks to use of rust and modern data engineering best practices\n\n- cryo makes it feasible for individuals to run an entire crypto analysis pipeline on their laptop instead of depending on 3rd party services\n\n- cryo is 100% free and open source under an unrestricted Apache/MIT license. You can do pretty much anything you want with it",
   "contributionLinks": [
     {

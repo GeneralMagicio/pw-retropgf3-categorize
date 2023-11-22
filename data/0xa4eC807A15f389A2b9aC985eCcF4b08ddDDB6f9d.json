@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://twitter.com/0xsmallbrain",
-  "bio": "Building & launching a new fully onchain, open source, game every 6 weeks. Alongside each game, we also launch open source tools.",
+  "bio": "Building & launching a new fully onchain, open source, game every 6 weeks.",
   "contributionDescription": "We launch onchain games on OP chains.\n\nSmall Brain Games quickly iterates on onchain games. These games:\n1. Are focused on simplicity and accessibility\n2. Are open source\n3. Leverage onchain affordances other than ownership enabling speculation\n\nIn the past year, we:\n1. Launched Words3, an onchain crossword game, on OP Mainnet–the first mainnet deploy of MUD smart contracts\n2. Open sourced 2 fully onchain games: Ape's Gambit (battle royale chess) and Network States (an RTS)\n3. Launched an improved Words3 on Base–the first mainnet deploy of MUD v2 smart contracts\n4. Open sourced a starterkit for mobile onchain games, being used by two known projects\n5. Worked with other projects (Gaul, Dark Seas, Underverse) building onchain games to playtest within the Small Brain Games community",
   "contributionLinks": [
     {

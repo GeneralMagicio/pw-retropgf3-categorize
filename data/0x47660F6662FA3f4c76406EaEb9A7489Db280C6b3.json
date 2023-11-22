@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://interport.fi",
-  "bio": "Pushing cross-chain boundaries for seamless DeFi operations. We empower traders with fast cross-chain swaps at the best rates.",
+  "bio": "We empower traders with fast cross-chain swaps at the best rates.",
   "contributionDescription": "Interport simplifies the process for capital migration from other network towards Optimism. \nIt allows for directional bridge or cross-chain swaps which are performered via meta-aggregation router and hence guarantee the best rate. \nInterport is using own stable pools to perform bridging of USDT and USDC, as well as route cross-chain swaps.\n\nInterport solves two major problems for users who want to migrate capital to Optimism. \n1. Allowing for easy, fast and secure bridging. \n2. Finding the best route for any swap. \n\nTherefore, users may easily trade any token from any supported chain to any token on Optimism in one simple transaction.",
   "contributionLinks": [
     {

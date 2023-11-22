@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
-  "websiteUrl": "https://linktr.ee/tekr",
-  "bio": "Builder in  Web3 Social\n",
+  "websiteUrl": "https://iggy.social/",
+  "bio": "Open source Web3 Social tools for web3 communities. WordPress for Web3 Social.",
   "contributionDescription": "Iggy Social is a set of free open-source tools that allow any DAO or web3 community to set up their own Web3 Social app, fully controlled by the community, and with useful web3 integrations and features that can bring additional revenue to the community treasury.\n\nIggy Social currently contributes to three projects on the Base network:\n\nBasePunk Chat: Their Web3 Social chat app includes features like posting and commenting, minting posts as NFTs (on Base Network), tipping and sending tokens, NFT launchpad,...\n\nBasebook.xyz - Social NFT Launchpad: Dapp that simplifies NFT creation and social connection between users and artists in one place.\n\nBased Names: BasedNouns is an NFT project on Base Network. They used our tools to launch a special TLD (.based) for their NFT holders.",
   "contributionLinks": [
     {

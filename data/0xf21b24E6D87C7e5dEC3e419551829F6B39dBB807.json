@@ -1,8 +1,8 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://www.proofofintegrity.org",
-  "bio": "I'm Proof of Integrity's Executive Director, focused on digital inclusion via blockchain education in underprivileged Latin American communities. ",
-  "contributionDescription": "1. Educational Outreach: Through our #aPRENDOcripto program, we’ve educated over 330 individuals across 9 cities in 3 countries (Argentina, Uruguay, and Honduras) about blockchain and Optimism. We provide hands-on experience within vulnerable communities, directly contributing to Optimism's user base growth and diversity.\n\n2. #comunidadAPRENDO: Provides ongoing support and learning within the Optimism ecosystem for our graduates.\n\n3. #criptoIMPULSO: We've created a ‘learn2earn’ program that provides financial incentives on Optimism.\n\n4. Showcase: Organized and will continue to host RetroPGF Projects Showcases to spotlight Optimism projects.\n\n5. Governance: We delegated our RPGF 2 tokens' voting power to enhance Optimism's governance.",
+  "bio": "Digital inclusion of vulnerable LatAm communities via web3 education w/Optimism.",
+  "contributionDescription": "1. Educational Outreach: Through our #aPRENDOcripto workshops, we’ve educated over 330 individuals across 9 cities in 3 countries (Argentina, Uruguay, and Honduras) about blockchain and Optimism. We provide hands-on experience within vulnerable communities, directly contributing to Optimism's user base growth and diversity.\n\n2. #comunidadAPRENDO: Our post-graduate community where we provide ongoing support and learning within the Optimism ecosystem for our graduates.\n\n3. #criptoIMPULSO: We've created a ‘learn2earn’ program that provides financial incentives on Optimism.\n\n4. Showcase: We've hosted RetroPGF Projects Showcases events to spotlight Optimism RetroPGF2 projects.\n\n5. Governance: We participate in Optimism's governance and teach our graduates about it.",
   "contributionLinks": [
     {
       "type": "OTHER",
@@ -53,7 +53,7 @@
   "impactCategory": [
     "END_USER_EXPERIENCE_AND_ADOPTION"
   ],
-  "impactDescription": "User Base Growth: Through our #aPRENDOcripto program, we've educated and graduated individuals who are now well-equipped to be active users in the Optimism ecosystem. They not only utilize the platform for their transactions and activities but also become advocates for Optimism within their communities, thereby contributing to the network's organic growth.\n\nEcosystem Diversity: Our outreach in vulnerable communities brings new perspectives into the Optimism ecosystem. By incorporating these diverse viewpoints, Optimism becomes a more adaptable and inclusive platform.\n\nActive Engagement: Our #criptoIMPULSO learn2earn program serves as a catalyst for active interaction with Op. By offering financial incentives through the platform, we provide a real-world use-case for Optimism's solutions. ",
+  "impactDescription": "User Base Growth: Through our #aPRENDOcripto program, we've educated and graduated underprivileged individuals who are now well-equipped to be active users in the Optimism ecosystem. They not only utilize the platform for their transactions and activities but also become advocates for Op within their communities, thereby contributing to organic growth.\n\nEcosystem Diversity: Our outreach in vulnerable communities brings new perspectives into the Optimism ecosystem. By incorporating these diverse viewpoints, Optimism becomes a more adaptable and inclusive platform.\n\nActive Engagement: Our #criptoIMPULSO learn2earn program serves as a catalyst for active interaction with Op. By offering financial incentives through the platform, we provide a real-world use-case for Optimism's solutions. ",
   "impactMetrics": [
     {
       "description": "Number of #aPRENDOcripto Graduates",

@@ -1,7 +1,7 @@
 {
   "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://www.linkedin.com/in/bh2smith/",
-  "bio": "Pure Mathematician working in backend Ethereum application engineering primarily related to maximally decentralized, permissionless exchange mechanisms.",
+  "bio": "Pure Mathematician working in EVM Data Engineering. Gnosis, CoWSwap & Mintbase",
   "contributionDescription": "Among all of my open source contributions, I believe my greatest community contributions are within and around the Data Engineering (mostly Dune Analytics) ecosystem. I have built multiple API clients (python, typescript & rust), an alerting system, an sync tool for uploading to community sources and several spells (mostly for CoW Protocol and indirectly dex.trades).\n\nSince Dune indexes Optimisim, all of these tools are readily available for free use to all EVM compatible networks!",
   "contributionLinks": [
     {

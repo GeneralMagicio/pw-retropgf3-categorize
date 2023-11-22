@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://bress.xyz/",
-  "bio": "I'm the founder of Mirror Curator DAO and cofounder of bress.",
+  "bio": "Bress is an alternative client for browsing Mirror articles",
   "contributionDescription": "We build bress to make Mirror articles searching and discovery more convenient. Mirror is the most important content platform on Optimism but it lacks the key feature of articles searching. To help readers find Mirror articles easier we build bress. At bress users can browse featured Mirror articles by us, search any Mirror article with keywords, follow Mirror writers, read new published articles.",
   "contributionLinks": [
     {

@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://vmex.finance/",
-  "bio": "Hello everyone! I'm J, the founder of VMEX Finance. ",
+  "bio": "Borrow against staked LP, hedge risk, and earn yield on your yield",
   "contributionDescription": "We have built and launched VMEX Finance. A lending protocol that uses isolated pools to support the responsible expansion of collateral in DeFi. Our focus is to enable staked LP & vault positions as collateral — giving users an easy way to borrow against their unique assets. \n\nSo far, we have partnered and/or built support for Beethoven & Aura, Velodrome, Yearn,  Curve, and Beefy\n\nOptimism projects may struggle to get protocol and deposit assets listed on lending markets due to having more “complex” assets. VMEX provides a live sandbox for assets to build a track record as quality collateral.\n\nOur goal is to be the go-to partner for protocols that want their assets listed on a lending protocol and to provide users a safe and reliable place to borrow against their staked LP and vault assets",
   "contributionLinks": [
     {

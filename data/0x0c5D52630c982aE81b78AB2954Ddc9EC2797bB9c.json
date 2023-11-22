@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://archly.fi",
-  "bio": "Archly is a project focused on enabling projects and users to operate across any chain. We do this through our ve(3,3) DEX and the Rainbow Road.",
+  "bio": "Empowering projects and users to operate across any chain.",
   "contributionDescription": "We built the Rainbow Road that allows for resources/data to be exchanged between chains in a fully permissionless and decentralized way. The Rainbow Road does this by abstracting away the needed integration with message passing protocols/services such as Chainlink CCIP, Axelar GMP, and LayerZero to provide a reliable, robust, and scalable platform to accomplish tasks across any chain.  This enables projects and users to:\n\n- Transfer tokens to and from chains, like Base and Optimism\n- Leverage services like Chainlink's Automation, VRF, Data Feeds on any chain\n- Execute actions on remote chains\n\nBy lowering the barrier to go and operate cross-chain through the reduction of development costs, any project can bring their token(s) to Base or Optimism growing their community.",
   "contributionLinks": [
     {

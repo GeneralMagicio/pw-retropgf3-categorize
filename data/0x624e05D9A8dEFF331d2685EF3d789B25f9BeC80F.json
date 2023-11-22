@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://cryptosapiens.xyz",
-  "bio": "Crypto Sapiens is a media platform featuring the diverse voices of web3 founders and community builders. We have over 100,000 subscribers worldwide.",
+  "bio": "Crypto Sapiens is a media platform featuring the diverse voices of web3.",
   "contributionDescription": "Crypto Sapiens featured the Optimism ecosystem in a two part series on Twitter Spaces and expanded the conversations on our newsletter.\n\nThe first piece served as an introduction to Optimism and OP rollups. We co-hosted the event with Bartek of L2BEAT, who kindly shared his wealth of knowledge with our audience about Optimism including computational requirements, scaling models, and RPGF as a community engagement and ecosystem growth tool.\n\nThe second piece expanded on the initial conversation by exploring the OP stack and the projects that are using it. We had three different projects that use the OP stack to build: Mantle, Metis and Goshen. Each provided tons of insights about why they chose Optimism, and encouraged listeners to start building on OP.",
   "contributionLinks": [
     {

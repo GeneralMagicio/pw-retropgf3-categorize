@@ -2,7 +2,7 @@
   "applicantType": "PROJECT",
   "websiteUrl": "https://defillama.com/",
   "bio": "Open and transparent DeFi analytics.",
-  "contributionDescription": "- Supported Optimism from day 1, being one of the first (if not first) data platform to track it\n- Collected data for Optimism's DeFi projects, which was used by the Optimism Foundation to distribute grants and by Optimism's users to track projects on Optimism\n- Launched LlamaZip, a router optimized for Optimism that saved Optimism's users lots of fees\n- Launched LlamaSearch, helping users avoid getting their wallet drained on phishing sites\n- Launched LlamaPay on Optimism, used by some projects to pay salaries, vest tokens or simply distribute tokens.\n- We maintain ChainList, which is useful to optimism users to add the chain and find RPCs that support it.\n- We maintain a list of APIs, including our prices API, which is used by some projects on optimism to display prices on their app.",
+  "contributionDescription": "- Supported Optimism from day 1, being one of the first (if not first) data platform to track it\n- Collected data for Optimism's DeFi projects, which was used by the Optimism Foundation to distribute grants and by Optimism's users to track projects on Optimism\n- Launched LlamaZip, a router optimized for Optimism that saved Optimism's users lots of fees\n- Launched LlamaSwap, which has routed >734M volume on Optimism and Base (13.3bn volume across all chains)\n- Launched LlamaSearch, helping users avoid getting their wallet drained on phishing sites\n- Launched LlamaPay on Optimism, used by some projects to pay salaries, vest tokens or simply distribute tokens.\n- We maintain a list of free APIs, including our prices API, which are used by many projects on Optimism on their app/infrastructure",
   "contributionLinks": [
     {
       "type": "GITHUB_REPO",
@@ -13,6 +13,11 @@
       "type": "CONTRACT_ADDRESS",
       "url": "https://optimistic.etherscan.io/address/0x6f9d14cf4a06dd9c70766bd161cf8d4387683e1b",
       "description": "LlamaZip"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/LlamaSwap",
+      "description": "LlamaSwap repos"
     },
     {
       "type": "GITHUB_REPO",
@@ -28,18 +33,13 @@
       "type": "OTHER",
       "url": "https://chrome.google.com/webstore/detail/defillama/phgiabfbjodhgckcffppiboooeiecgeg",
       "description": "DefiLlama extension"
-    },
-    {
-      "type": "GITHUB_REPO",
-      "url": "https://github.com/LlamaSwap",
-      "description": "LlamaSwap repos"
     }
   ],
   "impactCategory": [
     "DEVELOPER_ECOSYSTEM",
     "END_USER_EXPERIENCE_AND_ADOPTION"
   ],
-  "impactDescription": "- Helped optimism gov decide on what grants to give and track ecosystem and impact of grants.\n- 1M monthly users use us to discover protocols on Optimism (and other chains), track yields on Optimism, evaluate protocols, track chain metrics...\n- LlamaSwap has routed >726M of volume on Optimism and Base\n- LlamaZip has done >70k transactions, reducing costs for optimism's users\n- Over 1M monthly users on chainlist\n- Projects on optimism/base that use our APIs (mainly price api): pancakeswap, granary, mean finance, qidao, gamma, baseswap, ankr, revert finance... This infra that we maintain allows them to deliver their products/protocols to optimism users\n- LlamaPay on Optimism has been used by Premia, PoolTogether, Velodrome... for their operations\n- Over 10k daily users on our extension",
+  "impactDescription": "- Helped optimism gov decide on what grants to give and track ecosystem and impact of grants.\n- 1M monthly users use us to discover protocols on Optimism (and other chains), track yields on Optimism, evaluate protocols, track chain metrics...\n- LlamaSwap has routed >734M of volume on Optimism (672M) and Base (62M)\n- LlamaZip has done >70k transactions, reducing costs for optimism's users\n- Projects on optimism/base that use our APIs (mainly price api): pancakeswap, granary, mean finance, qidao, gamma, baseswap, ankr, revert finance... This infra that we maintain allows them to deliver their products/protocols to optimism users\n- LlamaPay on Optimism has been used by Premia, PoolTogether, Velodrome... for their operations\n- Over 10k daily users on our extension",
   "impactMetrics": [
     {
       "description": "Monthly DefiLlama Users",
@@ -47,14 +47,14 @@
       "url": "https://www.similarweb.com/website/defillama.com/#overview"
     },
     {
-      "description": "Monthly Chainlist Users",
-      "number": 1200000,
-      "url": "https://www.similarweb.com/website/chainlist.org/#overview"
-    },
-    {
       "description": "LlamaZip txs",
       "number": 71129,
       "url": "https://optimistic.etherscan.io/address/0x6f9d14cf4a06dd9c70766bd161cf8d4387683e1b"
+    },
+    {
+      "description": "LlamaSwap volume on OP+Base",
+      "number": 734000000,
+      "url": "https://gist.github.com/0xngmi/ba668ac8694048a8d348f76b8236885f"
     },
     {
       "description": "Extension DAU",
@@ -72,7 +72,7 @@
     {
       "type": "RETROPGF_2",
       "currency": "OP",
-      "amount": 221000,
+      "amount": 171000,
       "description": "From DefiLlama+Chainlist"
     },
     {

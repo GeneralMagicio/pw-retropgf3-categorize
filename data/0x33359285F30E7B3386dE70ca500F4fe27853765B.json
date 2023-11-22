@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
-  "websiteUrl": "https://app.holonym.id",
-  "bio": "Shady is a co-founder of Holonym, a zero knowledge identity protocol for Sybil resistance, transparent accountability, and key recovery.",
+  "websiteUrl": "https://holonym.id",
+  "bio": "ZK identity protocol for sybil resistance, secure key custody, and open civics.",
   "contributionDescription": "Holonym is a zero knowledge identity protocol deployed on Optimism. Holonym's mission is to build open source tools for decentralized identity and secure key custody. Our focus is on digital rights, user-centric privacy controls, and transparent governance to accelerate open civics and decentralized science (DeSci). The OP ecosystem is our chosen infra to accomplish this mission.\n\nAlmost 18,000 users have added themselves to the Holonym identity mixer on the OP blockchain. Of these, over ~9000 have minted ZK SBTs proving that they are a real unique person, and not a bot. As part of this work, we've deployed smart contracts such as ZK SBT proof smart contracts, a large anonymity set, example issuers in rust, a DeSci identity registry, and privacy relayer contract.",
   "contributionLinks": [
     {

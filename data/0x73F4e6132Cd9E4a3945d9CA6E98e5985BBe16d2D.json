@@ -7,12 +7,22 @@
     {
       "type": "OTHER",
       "url": "https://retrolist.app",
-      "description": "RetroList Website (Will be live on voting period)"
+      "description": "RetroList Website"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://youtu.be/oC8b9XwHndw",
+      "description": "Demo Video"
     },
     {
       "type": "OTHER",
       "url": "https://www.figma.com/file/hH24wDP3daHKwIeYrDyVQE/Retrolist---Rubric-Based---V.1?type=design&node-id=0%3A1&mode=design&t=4rR2hTHy7tFcXe2R-1",
       "description": "Figma Design"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://docs.google.com/spreadsheets/d/16E2_RSRXbLIBZMfa9YLVdF56ll1bT6fHfZ7pdi058OE/edit?usp=sharing",
+      "description": "Rubric Design"
     },
     {
       "type": "OTHER",
@@ -24,12 +34,17 @@
     "COLLECTIVE_GOVERNANCE",
     "END_USER_EXPERIENCE_AND_ADOPTION"
   ],
-  "impactDescription": "RetroList integrates a rubric-based scoring system, endorsed by the grant council for its efficiency, into RetroPGF 3.\n\nWe have discussed with non-badgeholders contributors in the Optimism and many of them show interest in participating in RetroPGF voting by list creation through our UI.\n\nWe have discussed with some badgeholder to design our novel approval mechanism...\n\nTo be continue",
+  "impactDescription": "RetroList integrates a rubric-based scoring system, endorsed by the grant council for its efficiency, into RetroPGF 3.\n\nWe have done a market validation on a small group of active contributors and 10+ non-badgeholders are showing interest in creating a list for RetroPGF 3 with RetroList!\n\nOur novel approval mechanism is designed by discussing with badgeholders.\n\nWe have designed 10 rubrics for RetroPGF 3 which 3 of them adopted from the grant council:\n- Grant Council's Builder Rubric\n- Grant Council's Growth Rubric\n- Grant Council's RPC Provider Rubric\n- TVL and Volume Rubric\n- OP Stack Hack Rubric\n- Developer and DAO Tooling Rubric\n- NFT, DAO, and Artist Community Rubric\n- Educational, Research and Content Rubric\n- Open Source Contribution Rubric\n- Dashboard and Analytics Rubric",
   "impactMetrics": [
     {
-      "description": "Number of people showing interest",
+      "description": "Rubrics Designed for RetroPGF 3",
       "number": 10,
-      "url": "https://retrolist.app"
+      "url": "https://docs.google.com/spreadsheets/d/16E2_RSRXbLIBZMfa9YLVdF56ll1bT6fHfZ7pdi058OE/edit?usp=sharing"
+    },
+    {
+      "description": "Interested Contributors",
+      "number": 10,
+      "url": "https://docs.google.com/document/d/1ETHANCTXsoDhlq0_4T7wODld4mOVaDCT7sbrOkSHrQE/edit?usp=sharing"
     }
   ],
   "fundingSources": [],

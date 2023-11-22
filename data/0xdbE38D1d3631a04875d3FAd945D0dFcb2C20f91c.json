@@ -1,24 +1,34 @@
 {
   "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://dune.com/springzhang",
-  "bio": "Onchain Data Analyst, Dune Wizards",
-  "contributionDescription": "I created quite many useful dashboards on Dune, some of them are for Optimism. Will try to contribute more. I created quite many useful dashboards on Dune, some of them are for Optimism. Will try to contribute more. I created quite many useful dashboards on Dune, some of them are for Optimism. Will try to contribute more. I created quite many useful dashboards on Dune, some of them are for Optimism. Will try to contribute more.",
+  "bio": "Dune Wizards data analyst, created lots of usefule onchain data dashboards.",
+  "contributionDescription": "I created quite many useful dashboards on Dune, includes some for Optimism and other L2 blockchains. I'm also one of the key member of Dune analyst team \"sixdegree lab\". Together we built useful on-chain analysis dashboards. My work for Optimism chain includes dashborads for: Optimism Quests Tracking, Uniswap V3 On Optimism Liquidity Mining Program Performance, Optimism Airdrop 1 All In One, etc.",
   "contributionLinks": [
     {
       "type": "OTHER",
-      "url": "https://dune.com/springzhang",
-      "description": "sssss"
+      "url": "https://dune.com/springzhang/optimism-airdrop-1-all-in-one",
+      "description": "Optimism Airdrop 1 All In One Analysis dashboard"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://dune.com/springzhang/optimism-quests-tracking",
+      "description": "Optimism Quests Tracking (OP Version Odyssey, Galxe NFT)"
     }
   ],
   "impactCategory": [
     "END_USER_EXPERIENCE_AND_ADOPTION"
   ],
-  "impactDescription": "The more users using the dashboards, they have more understanding with Optimism Collection. The more users using the dashboards, they have more understanding with Optimism Collection. The more users using the dashboards, they have more understanding with Optimism Collection. The more users using the dashboards, they have more understanding with Optimism Collection. The more users using the dashboards, they have more understanding with Optimism Collection. ",
+  "impactDescription": "The more users using the dashboards, they have more understanding with Optimism Collection. I created these dashboards to allow users know better about how they their performance in Optimism Quests, how many other users received previous airdrop, what's the effect of liquidity provider incentive plan for Uniswap V3 on OP, etc. ",
   "impactMetrics": [
     {
-      "description": "Dashboard favorite",
-      "number": 11000,
+      "description": "Most favorited dashboard on Dune",
+      "number": 11600,
       "url": "https://dune.com/springzhang/layerzero-users-ranking-for-potential-airdrop"
+    },
+    {
+      "description": "Top 3 Wizards",
+      "number": 3,
+      "url": "https://dune.com/browse/wizards"
     }
   ],
   "fundingSources": [

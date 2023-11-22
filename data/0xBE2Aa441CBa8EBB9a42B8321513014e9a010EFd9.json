@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
-  "websiteUrl": "https://www.bootnode.dev/",
-  "bio": "CTO of Bootnode. We work together with organizations to speed up the development and delivery of Web3 protocols, dApps, and networks",
+  "websiteUrl": "https://github.com/BootNodeDev/optimism",
+  "bio": "ERC1155 bridge that allows interoperability of ERC1155 tokens to and from OP. ",
   "contributionDescription": "New smart contracts for an ERC1155 bridge. Following the structure of the ERC721, Standard bridge and used CrossDomainMessenger, and IOptimismMintableERC1155  for the implementation:  OptimismMintableERC1155 ,IOptimismMintableERC1155,  ERC1155Bridge, L1ERC1155Bridge , L2ERC1155Bridge",
   "contributionLinks": [
     {

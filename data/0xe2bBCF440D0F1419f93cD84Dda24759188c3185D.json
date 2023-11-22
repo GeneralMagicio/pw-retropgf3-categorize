@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://chainlist.org/",
-  "bio": "List of EVM networks and RPCs for them, with performance and privacy ratings. Maintained by DefiLlama",
+  "bio": "List of EVM networks and RPCs for them, with performance and privacy ratings",
   "contributionDescription": "We maintain ChainList, a site used by >1.2M users monthly to add new chains, switch chains, review RPCs available on any chain, and switch RPCs as they need.\n\nThis involves us maintaining an updated list of RPCs, curating them, and also reviewing the privacy policies of all RPC providers to give them a rating and summarize the most relevant information to give it to our users directly so they can make informed decisions on which RPC to use without having to read the full privacy policy of each RPC, which are very long.",
   "contributionLinks": [
     {

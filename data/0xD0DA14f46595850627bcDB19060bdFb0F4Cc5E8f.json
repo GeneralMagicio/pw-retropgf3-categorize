@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://www.launchcaster.xyz/",
-  "bio": "Launchcaster is a community platform for sharing, discovering, and owning web3 projects. It is built on Farcaster, Lens, Ethereum, Optimism, Base, and Zora.",
+  "bio": "Discover the best new web3 projects. Like Product Hunt, but for Web3.",
   "contributionDescription": "Launchcaster built a solution and a community for builders to launch and discover the best projects on the Superchain. Think Product Hunt, but for the Superchain!\n\nHow Launchcaster works:\n1. Builders post to Farcaster or Lens\n2. Builders reply with @launch to launch\n3. Anyone can connect their wallet, upvote, and see wallet supporters\n\nLaunchcaster’s contributions:\n- Launch using social protocols, including Farcaster and Lens.\n- Discover Superchain launches using home, user, project, and newsletter feeds.\n- Explore Superchain builders by browsing through their profiles and leaderboards.\n- Discover Superchain apps through product pages, top app leaderboard, search, and ecosystems.\n- Deploy, import, and mint Superchain NFTs for apps and launches.\n- And so much more 🙏",
   "contributionLinks": [
     {

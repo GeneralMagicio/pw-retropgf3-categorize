@@ -1,8 +1,8 @@
 {
   "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://twitter.com/ruslan_klinkov",
-  "bio": "Optimist, IT specialist, master's degree in financial economics. I have a blog about cryptocurrency on YouTube and Telegram. \n",
-  "contributionDescription": "I'm part of the ambassador program and super ambassador role holder in Optimism discord. \n\n1) The main contribution I've made recently is my work in the retroPGF bounty program on Thrivecoin. My task as a super ambassador was to verify the participants' contributions. I was the most active ambassador who checked more than 1000 participants' bounties and actively participated in adding/editing tasks. I also detected the sybill attack by dishonest ambassadors and prevented them from getting points for their contributions. It was a lot of work as more than 8000 participants' contributions were sent. \n\n2)  The second most important work I've done recently - is a popularize delegating OP tokens to CIS community . I am an active voting delegate and have attracted 114 users and 7227 OP tokens.",
+  "bio": "Optimism super ambassador, cryptoenthusiast, YouTube and Telegram blogger",
+  "contributionDescription": "I'm part of the ambassador program and super ambassador role holder in Optimism discord. \n\n1) The main contribution I've made recently is my work in the retroPGF bounty program on Thrivecoin. My task as a super ambassador was to verify the participants' contributions. I was the most active ambassador who checked more than 1000 participants' bounties and actively participated in adding/editing tasks. I also detected the sybill attack by dishonest ambassadors and prevented them from getting points for their contributions. It was a lot of work as more than 8000 participants' contributions were sent. \n\n2)  The second most important work I've done recently - is a popularize delegating OP tokens to CIS community . I am an active voting delegate and have attracted 120 users and 9091 OP tokens.",
   "contributionLinks": [
     {
       "type": "OTHER",
@@ -43,7 +43,7 @@
     },
     {
       "description": "views",
-      "number": 2366,
+      "number": 2370,
       "url": "https://t.me/ruslan_klinkov/1170"
     }
   ],

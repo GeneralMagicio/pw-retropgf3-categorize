@@ -1,7 +1,7 @@
 {
-  "applicantType": "INDIVIDUAL",
-  "websiteUrl": "https://twitter.com/_ericzhong",
-  "bio": "Hey all, I'm Eric - I'm based in NYC working at Unsiwap on the protocols team and am interested in exploring topics related to Account Abstraction and more!",
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://bunnyai.vercel.app/",
+  "bio": "Explore fun rabbit holes generated LLMs using crypto micropayments",
   "contributionDescription": "We used Account Abstraction to solve the largest issue that new AI developers face today: getting paid for their work while preventing spam. They are overwhelmed by bots after releasing a new product and can't charge a monthly fee that users are not willing to pay.\n\nCrypto micropayments have not historically been possible due to high mainnet gas costs and slow, cumbersome transaction UX. However, we use embedded wallets and ERC4337 to allow new users to sign up via SMS, fund their account, and directly pay developers every time they use the app. No seed phrases, no transaction confirmation, no gas.\n\nOn an L2 like Optimism or Base, users can try out new AI apps for cents on the dollar and developers can bootstrap a user base without going broke.",
   "contributionLinks": [
     {

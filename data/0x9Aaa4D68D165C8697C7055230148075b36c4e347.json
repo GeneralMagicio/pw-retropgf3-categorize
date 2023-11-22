@@ -1,8 +1,8 @@
 {
   "applicantType": "PROJECT",
-  "websiteUrl": "https://wallfacer.io/",
-  "bio": "Wallfacer Labs is a crypto research and development company. We are creators & maintainers of the OSS frameworks UseDApp & Waffle. We also created Vaults.fyi",
-  "contributionDescription": "We are creators and maintainers of the open-source frameworks UseDApp, a framework for decentralized application development\n\nUseDapp has helped developers build complex multichain application support without a struggle. It supports almost 70 different chains, including Optimism, Optimism Goerli, and Optimism Kovan, improving developers' ability to build and test dApps. UseDApp was the first framework to use Multichain calls which lead to broader blockchain call optimizations. \n\nUseDApp also created a set of useful hooks and helpers that made it even simpler and faster to integrate with different existing standards like ERC20 e.g. useTokenBalance, and useTokenApprovals.",
+  "websiteUrl": "https://usedapp.io/",
+  "bio": "UseDApp is a framework for decentralized application development",
+  "contributionDescription": "We are creators and maintainers of the open-source frameworks UseDApp, a framework for decentralized application development\n\n- UseDapp has helped developers build complex multichain application support streamlining the development process. \n- UseDapp supports almost 70 different chains, including Optimism, Optimism Goerli, and Optimism Kovan, improving developers' ability to build and test dApps. \n- UseDApp was the first framework to use Multichain calls which lead to broader blockchain call optimizations. \n- UseDApp also created a set of useful hooks and helpers that made it even simpler and faster to integrate with different existing standards like ERC20 e.g. useTokenBalance, and useTokenApprovals.",
   "contributionLinks": [
     {
       "type": "GITHUB_REPO",
@@ -38,7 +38,7 @@
   "impactCategory": [
     "DEVELOPER_ECOSYSTEM"
   ],
-  "impactDescription": "Over the last few years, UseDapp was downloaded almost 1 million times and helped a lot of developers to increase time-to-market for their applications. \n\nIt was used by projects like Optimism, Status, Nouns, Tally, Boba Network, Pool Together, NuCypher, Index Coop, & over 4.5k more total projects. \n\nUseDapp was popular with hackers at hackathons, as well. It has >1.5k stars on GitHub. For years it was a leading web3 react library. UseDApp is integrated with different tools and boilerplates like create-react-app (https://github.com/PaulRBerg/create-eth-app) with 2.6k stars on GitHub. \n\nUseDApp as an open source library has additional extensions and adapters including one written by OP Labs PBC member Fucory https://twitter.com/FUCORY/status/1682046286902755332\n",
+  "impactDescription": "- Over the last few years, UseDapp was downloaded almost 1 million times and helped a lot of developers to increase time-to-market for their applications. \n- UseDapp was used by projects like Optimism, Status, Nouns, Tally, Boba Network, Pool Together, NuCypher, Index Coop, & over 4.5k more total projects. \n- UseDapp was popular with hackers at hackathons, as well. \n- It has >1.5k stars on GitHub. For years it was a leading web3 react library. \n- UseDApp is integrated with different tools and boilerplates like create-react-app (https://github.com/PaulRBerg/create-eth-app) with 2.6k stars on GitHub. \n- UseDApp as an open source library has additional extensions and adapters including one written by OP Labs PBC member Fucory https://twitter.com/FUCORY/status/1682046286902755332\n",
   "impactMetrics": [
     {
       "description": "Dependent Repos",
@@ -54,6 +54,11 @@
       "description": "Github Stars",
       "number": 1500,
       "url": "https://github.com/TrueFiEng/useDApp"
+    },
+    {
+      "description": "Lifetime Downloads",
+      "number": 825504,
+      "url": "https://npm-stat.com/charts.html?package=%40usedapp%2Fcore&from=2020-07-21&to=2023-10-21"
     }
   ],
   "fundingSources": [],

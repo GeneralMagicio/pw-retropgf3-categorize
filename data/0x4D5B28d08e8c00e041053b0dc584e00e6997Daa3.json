@@ -1,8 +1,8 @@
 {
   "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://linktr.ee/robiomarine",
-  "bio": "I am a reef scientist, who is exploring the integration of public goods and DeSci with web3 communities to innovate and create a protopian a world in Latam Ü",
-  "contributionDescription": "I seek solo recognition for funding public goods through DeSci/ReFi in the Optimism ecosystem. This includes initiatives like community-building, grants, educational events, conservation efforts, and innovative projects. My contributions aim to support sustainability and make a positive impact. My efforts encompass community building, diverse funding sources, educational outreach, sustainable innovation discussions, collaborative meetups, coral reef regeneration, transparent reporting, thought leadership engagement, targeted outreach, and innovative NFT ventures, all contributing to the growth and impact of Optimism.\n\nPublic goods thrive with Optimism! ",
+  "bio": "Reef scientist integrating public goods, DeSci, and web3, based in Latam Ü",
+  "contributionDescription": "I seek solo recognition for funding public goods through DeSci/ReFi in the Optimism ecosystem. This includes initiatives like community-building, grants, educational events, conservation efforts, and innovative projects. My contributions aim to support sustainability/regeneratio and make a positive impact. My efforts encompass community building, diverse funding sources, educational outreach, sustainable innovation discussions, collaborative meetups, coral reef regeneration, transparent reporting, thought leadership engagement, NFTs, targeted outreach. I am actively engaged in divulgation and awareness efforts focused on the Hispanic community. As an editor of Week in Ethereum News (ES), all contributing to the growth and impact.\n\nPublic goods regenerate and thrive with Optimism! ",
   "contributionLinks": [
     {
       "type": "CONTRACT_ADDRESS",
@@ -61,12 +61,11 @@
     }
   ],
   "impactCategory": [
-    "COLLECTIVE_GOVERNANCE",
     "DEVELOPER_ECOSYSTEM",
     "END_USER_EXPERIENCE_AND_ADOPTION",
     "OP_STACK"
   ],
-  "impactDescription": "These Optimism initiatives have had a profound impact. They include establishing the QF GreenPill Mexico chapter, securing grants for various projects, engaging the Hispanic community, showcasing sustainable innovation, and emphasizing real-world impact through initiatives like MesoReefDAO. Additionally, exploring and distribution mechanisms and collecting NFTs on Zora and OP adding further innovation to the collective. Creation of mirror.xyz entries regarding to Ethereum first cohort of writers, greenpill regen cohort and DeSci. These efforts collectively drive towards a more inclusive and sustainable future within the Optimism community to Latam. Divulgation of sentences for Optimism updates and news in Week Ethereum News (ES) for hispanic people.",
+  "impactDescription": "These Optimism initiatives have had a profound impact. They include establishing the QF GreenPill Mexico chapter, securing grants for various projects, engaging the Hispanic community, showcasing sustainable innovation, and emphasizing real-world impact through initiatives like MesoReefDAO. Additionally, exploring distribution mechanisms and collecting NFTs on Zora and OP adds further innovation to the collective. The creation of mirror.xyz entries regarding Ethereum's first cohort of writers, the Greenpill Regen cohort, and DeSci. These efforts collectively drive towards a more inclusive and sustainable future within the Optimism community in Latam. The dissemination of updates and news about the Optimism Collective in Week Ethereum News (ES) is tailored for the Hispanic audience.",
   "impactMetrics": [
     {
       "description": "1. Contributors GreenPill Mexico QF",
@@ -119,9 +118,19 @@
       "url": "ipfs://bafkreic7mnvlcopbrzci7lkbdi5vfal43txepyjcxlakzrvmpbgnwqqyzm"
     },
     {
-      "description": "8. # NFTs, mirror's cryptobenthic🐠.eth",
+      "description": "7.1 # entries WeekinEthereum (ES) 30% op",
+      "number": 69,
+      "url": "https://weekinethereumnewses.substack.com/archive"
+    },
+    {
+      "description": "8. # NFTs in cryptobenthic🐠.eth",
       "number": 50,
       "url": "https://opensea.io/hileaves/collected?search[chains][0]=OPTIMISM&search[chains][1]=ZORA"
+    },
+    {
+      "description": "9. # Entries of mirror.xyz",
+      "number": 6,
+      "url": "https://mirror.xyz/cryptobenthic%F0%9F%90%A0.eth"
     }
   ],
   "fundingSources": [
@@ -129,25 +138,25 @@
       "type": "OTHER",
       "currency": "USD",
       "amount": 900,
-      "description": "MesoReefDAO: Gitcoin QF Beta Rounds Climate Solutions + Metacrisis + DeSci Round"
+      "description": "As part of MesoReefDAO: Gitcoin QF Beta Rounds Climate/Metacrisis/DeSci Round"
     },
     {
       "type": "OTHER",
       "currency": "USD",
       "amount": 900,
-      "description": "QF GreenPill Experimental Mexico Local Chapter by @owocki (June 2023)"
+      "description": "As part of QF GreenPill Experimental Mexico Local Chapter by @owocki (June 2023)"
     },
     {
       "type": "OTHER",
       "currency": "USD",
       "amount": 3270,
-      "description": "MesoReefDAO Gitcoin GG18 Climate Solutions + Shell Climate Solutions Round"
+      "description": "As part of MesoReefDAO Gitcoin GG18 Climate + Shell Climate Solutions Round"
     },
     {
       "type": "OTHER",
       "currency": "USD",
       "amount": 5.73,
-      "description": "Giveth MesoReefDAO "
+      "description": "On Giveth as MesoReefDAO "
     },
     {
       "type": "OTHER",

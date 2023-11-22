@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
-  "websiteUrl": "https://www.irruptionlab.com/",
-  "bio": "Irruption Lab builds applications for Web3 democratization.\nOur goal is to make this technology and its potential accessible to everyone.",
+  "websiteUrl": "https://www.revolte.app",
+  "bio": "An adventure game to learn about Web3 in a fun way, without any technical jargon",
   "contributionDescription": "Our contribution to Optimism involves the development of an educational project known as Revolte, which serves as a platform for individuals to gain knowledge about web3 technology. \nThis interactive adventure game commences with the setup of your initial digital wallet, guiding users through the process if they don't already possess one. To progress further in the game, participants are required to undertake essential actions, such as executing transactions on the Optimism network. It's important to note that, at present, Optimism is the exclusive network available for engagement within our game.",
   "contributionLinks": [
     {
@@ -33,6 +33,12 @@
       "currency": "USD",
       "amount": 4777,
       "description": "Gitcoin Beta Round"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 724,
+      "description": "Gitcoin GG18"
     }
   ],
   "payoutAddress": "0x9743f723C8cBd9eEA522e9feb2656a0DB8457497",

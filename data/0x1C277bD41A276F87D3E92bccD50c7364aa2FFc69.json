@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://apeworx.io",
-  "bio": "Contributor to Ape, Vyper, and Yearn",
+  "bio": "Smart contract devtool for Pythonistas, Data Scientists & Security Professionals",
   "contributionDescription": "Ape maintains an Optimism plugin, which allows developers using our framework to interact with Optimism and OP Stack-based networks easily, safely, and reliably. We will continue to maintain the Optimism plugin, improving it's functionality to make it as useful as possible for our community, including supporting our own product activities where Optimism is our primary deployment network.",
   "contributionLinks": [
     {

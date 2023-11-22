@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
-  "websiteUrl": "https://r.32k.io",
-  "bio": "computer programmer",
+  "websiteUrl": "https://indexsupply.com",
+  "bio": "Building open source Ethereum indexing software and services",
   "contributionDescription": "2 things: E2PG and RLPS (hosted nodes optimized for indexers)\n\nE2PG is an open source Ethereum to Postgres indexer. It connects to an Ethereum source, parses blocks, transactions, and logs and maps data onto PG tables. A single E2PG can index events across many L2s into a single Postgres database. E2PG connects to Ethereum by 1 of 3 ways: JSON RPC API, full node file system (fast), or using RLPS (slower than full node but faster than JSON RPC).\n\nRLPS is an HTTP API that delivers compressed RLP data for: blocks, transactions, and logs designed specifically for indexers. Index Supply hosted RLPS runs on many chains including the following OP L2s: 10, 420, 8453, and 84531. Index Supply operates a full nodes (op-geth, op-node) for each hosted RLPS API.",
   "contributionLinks": [
     {

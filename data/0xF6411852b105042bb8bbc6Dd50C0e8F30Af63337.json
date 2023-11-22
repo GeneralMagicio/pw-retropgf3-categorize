@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://yearn.fi/",
-  "bio": "Ecosystem and Partner Integrations for Yearn\nOperations for yAudit, part of yAcademy",
+  "bio": "Yearn is a decentralized suite of products that earn yield.",
   "contributionDescription": "We’ve created the first single deposit, up-only vaults on Optimism. We also created Velodrome LP vaults alongside our own new oracle technology for those vaults to be used as collateral. Lastly, we built and passed Aave and Sonne strategies through our security risk framework.\n\nOur pricing oracle produces reliable pricing for both stable and volatile Velodrome pools which can then be easily extended to include pricePerShare values for vault tokens, and also includes other features such as multi-day pessimistic lookback periods and adjustable upper/lower bounds to minimize the risk to protocols adding these pools as collateral. \n\nWe’ve deployed on Base too. We’re locking veVELO and veAERO long term.\n\nWe’ve also deployed Yearn Vaults V3 for testing on Optimism and Base.",
   "contributionLinks": [
     {

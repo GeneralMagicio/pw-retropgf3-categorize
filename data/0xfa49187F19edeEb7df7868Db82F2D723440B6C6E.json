@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://curvegrid.com",
-  "bio": "Curvegrid's MultiBaas blockchain middleware powers many of the leading DApps and gets companies to market on web3 up to 10x faster versus building from scratch.",
+  "bio": "Curvegrid's MultiBaas blockchain middleware powers many of the leading DApps.",
   "contributionDescription": "We spent substantial time and effort building Optimism support into MultiBaas ahead of ETHGlobal Tokyo in April 2023, although the Optimism team was unfortunately unable to attend/sponsor at the last minute. We continue to promote Optimism amongst our customer base, and have extended support to Base in early October 2023 (now complete), with one major DApp now planning to build on Base. Our effort for both Optimism and Base includes working around differences from Ethereum, selecting and contracting with appropriate node providers, maintaining production infrastructure, and consulting with our customers about building on Optimism and Base.",
   "contributionLinks": [
     {

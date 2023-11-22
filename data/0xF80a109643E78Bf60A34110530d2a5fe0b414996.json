@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://crypto-fundraising.info",
-  "bio": "Leading blockchain-focused funding database. The platform provides access to historical data, profiles of the investment institutions and early-stage startups.",
+  "bio": "Funding database - historical data, profiles of the investors and startups.",
   "contributionDescription": "We track all projects from Optimism ecosystem that got investments from Pre-seed to Series C rounds. We categorize these projects and provide users with the ability to filter the data, enabling them to conduct their own research. We operate a Telegram channel that provides instant updates on new funding rounds for projects within the Optimism ecosystem.",
   "contributionLinks": [
     {

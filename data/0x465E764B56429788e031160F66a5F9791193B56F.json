@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
-  "websiteUrl": "https://rainbow.me",
-  "bio": "Crypto In Color",
+  "websiteUrl": "https://rainbow.me/",
+  "bio": "Fun, powerful, and secure wallets",
   "contributionDescription": "The wallet user experience for interacting with Layer 2s was a major hinderance to their adoption. By default, wallets only supported mainnet or required users to manually add an RPC to interact with L2s. Wallet balances were siloed by network, causing friction when using multiple chains and leading many users to perceive their OP assets as secondary to their assets on mainnet.\n\nSince 2021, Rainbow Wallet has prioritized its support for L2 networks and introduced new design patterns that dramatically improved their usability. Rainbow was first to offer native L2 support (without having to manually add RPCs), implement frictionless in-app swapping and bridging between networks, and establish a multinetwork UI that consolidates mainnet and L2 assets - now the UX standard for many wallets.",
   "contributionLinks": [
     {

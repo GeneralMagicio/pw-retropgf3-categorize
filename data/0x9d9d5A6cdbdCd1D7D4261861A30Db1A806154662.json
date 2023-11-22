@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
-  "websiteUrl": "https://endaoment.org",
-  "bio": "Endaoment.org is a 501c3 community foundation built onchain. We facilitate donations of stock, cash or crypto to over 1.8M nonprofits in 150+ countries.",
+  "websiteUrl": "https://endaoment.org/",
+  "bio": "Endaoment is a 501(c)(3) nonprofit community foundation built entirely onchain.",
   "contributionDescription": "We have deployed Endaoment on Base and Optimism this year, enabling a new audience of donors to access affordable onchain giving through account abstraction. With these deployments, everyone transacting on Optimism or Base can now utilize fully composable verified endpoints for 1.8m+ nonprofits in 150+ countries. To kickstart adoption, we deployed contract addresses for 7000+ verified organizations on both networks. Endaoment also supported other new OP stack chains, having contributed to governance and ideation around Gitcoin’s PGN. Since launch in 2020, Endaoment.org has delivered $58M+ impact for social good, making philanthropy as native to blockchain as DEXs and DAOs. We are excited to be early supporters of the Optimistic Vision and the Superchain. ",
   "contributionLinks": [
     {
@@ -75,7 +75,7 @@
     "END_USER_EXPERIENCE_AND_ADOPTION",
     "OP_STACK"
   ],
-  "impactDescription": "We have enabled the Optimism Collective and all its current and future participants to access 1.8m+ donation endpoints to directly fund a cause and generate impact amongst existing, reputable nonprofit organizations, regardless of their understanding or adoption of the Superchain. The deployment of this infrastructure builds upon $59m of onchain impact by removing on and off-ramping barriers for nonprofits to accept any asset digital or otherwise. We've deployed 7000+ contract addresses on Base and OP respectively, representing every verified nonprofit in our database on both chains.We have seen 405 donations from 339 unique wallets to 78 organisations. Donations enable quadratic matching from the Universal Impact Pool with each new recipient earning funding from this activity.",
+  "impactDescription": "We have enabled the Optimism Collective and all its current and future participants to access 1.8m+ donation endpoints to directly fund a cause and generate impact amongst existing, reputable nonprofit organizations, regardless of their understanding or adoption of the Superchain. The deployment of this infrastructure builds upon $59m of onchain impact by removing on and off-ramping barriers for nonprofits to accept any asset digital or otherwise. We've deployed 7000+ contract addresses on Base and OP respectively, representing every verified nonprofit in our database on both chains. We have seen 455 donations from 379 unique wallets to 91 organisations. Donations enable quadratic matching from the Universal Impact Pool with each new recipient earning funding from this activity.",
   "impactMetrics": [
     {
       "description": "Nonprofit contracts deployed on Base",

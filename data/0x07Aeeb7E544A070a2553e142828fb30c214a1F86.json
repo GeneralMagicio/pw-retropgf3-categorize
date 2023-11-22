@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
-  "websiteUrl": "https://noahlitvin.com",
-  "bio": "Noah is a designer/engineer, Core Contributor for Synthetix, and co-creator of Cannon.",
+  "websiteUrl": "https://usecannon.com",
+  "bio": "Cannon is a DevOps tool for Ethereum, inspired by IaC tools like Terraform.",
   "contributionDescription": "- Cannon has helped protocol engineers deploy thousands of lines of code to OP Stack chains.\n- Since receiving a grant from RetroPGF Round 2, all funds used so far have gone towards expanding the Cannon team with more engineering resources. This has resulted in 938 commits (changing 491 files with 432,625 additions and 168,277 deletions).\n- usecannon.com has been completely rebuilt. The app includes a package explorer (relying on subgraphs and IPFS), a code browser/“interact” tool (a la Etherscan), support for ERC-7412, a tool for deploying protocols via a Safe, and refreshed docs.\n- The CLI's user experience and stability has been significantly improved. The basic commands have become more intuitive. Advanced commands have been added for more sophisticated protocols.",
   "contributionLinks": [
     {

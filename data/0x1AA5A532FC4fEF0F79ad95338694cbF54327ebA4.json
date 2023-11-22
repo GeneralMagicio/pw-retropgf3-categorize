@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://mint.ethernautdao.io/#about",
-  "bio": "Bridging web2 senior devs to web3\nDiscord: http://discord.gg/RQ5WYDxUF3\nGitcoingrant: http://gitcoin.co/grants/5620/et…",
+  "bio": "We migrate senior web2 devs to web3 with free trailored mentorsips",
   "contributionDescription": "Since RetroPGF2 we have done 17 new senior developer mentorships oriented to optimism.\nList: \n- 2 mentorships ended up in the EVM Runners game (https://evmr.sh/)\n- 1 mentorship is producing the NotYourKeys game (@NotYourKeysGame)\n- 2 on gas optimization\n- 4 on security auditing \n- 2 on Smart Contract deployment\n- 2 on Security Mindset\n- 5 on general topics.",
   "contributionLinks": [
     {

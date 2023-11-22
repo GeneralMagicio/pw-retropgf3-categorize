@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://www.inverter.network/",
-  "bio": "I'm Uzi, BD Lead at Inverter Network. ",
+  "bio": "Modular protocol infrastructure for next generation of smart contract solutions",
   "contributionDescription": "We've created 13 reusable modules in our Inverter Open Library, along with 3 workflow templates, allowing projects to easily implement adaptable smart contracts without the hefty investments typically needed for development and audit.\n\nHere are the projects that are currently on testnet and using Inverter to deploy on Optimism:\n- Bloom Network configured an “autonomous bounty payment system” for impact work for its 15K+ non-web3 members. \n- Bonding Curve Research Group has deployed an “investable workstream workflow” to enable bonding curve powered investments for open-source RnD teams without DAO overheads.\n- Crossify is integrating “recurring payroll management workflow” to facilitate subcription management.",
   "contributionLinks": [
     {

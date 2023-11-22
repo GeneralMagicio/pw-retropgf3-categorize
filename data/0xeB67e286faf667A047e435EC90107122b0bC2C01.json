@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://tokenterminal.com/",
-  "bio": "Token Terminal is a platform that aggregates financial data on the leading blockchains and decentralized applications.",
+  "bio": "A platform that aggregates financial data on the leading blockchains and dApps.",
   "contributionDescription": "1. Project-specific dashboard. Dashboard that highlights OP Mainnet’s key KPIs (fees, revenue, token incentives, earnings, active users, core developers, etc.).\n\n2. Superchain explorer. Dashboard that highlights the top 1,000 gas-consuming contracts on both OP Mainnet and Base (including labels and 20+ key metrics).\n\n3. L2 economics research. Educational article with a walkthrough of L2 economics. \n\n4. Blockchain economics research. Educational article with a walkthrough of blockchain economics, with a highlight of OP L2.",
   "contributionLinks": [
     {

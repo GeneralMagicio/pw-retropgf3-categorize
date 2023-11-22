@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://wildcards.wtf",
-  "bio": "Adding Utility to NFTs. Link ENS Domains to NFT Collections on the Superchain and provide holders with free wildcard sub-domains.",
+  "bio": "Instant ENS sub-domains for NFT communities on the Superchain. ",
   "contributionDescription": "We've developed a tool that has enabled NFT communities on Optimism and Base to acquire ENS sub-domains at zero cost. This significant accomplishment was made possible through the implementation of ENS wildcard resolution. Our application has already empowered ENS name holders to seamlessly connect their names/domains with the contract addresses of NFT collections, resulting in the automatic provision of free subdomains linked to individual token IDs.\n\nAs a real-world example, consider the OptiChads collection. Every Chad owner automatically received an ENS subdomain under optichads.eth, precisely corresponding to the token ID of their NFT. For instance, the subdomain 69.optichads.eth, directly resolves to the address of the individual who owns Chad #69. ",
   "contributionLinks": [
     {

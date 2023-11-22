@@ -1,7 +1,7 @@
 {
-  "applicantType": "INDIVIDUAL",
-  "websiteUrl": "https://github.com/tudorpintea999",
-  "bio": "A guy honestly passionate about automating things.",
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://validato.xyz/",
+  "bio": "Install your validator node with one click.",
   "contributionDescription": "The installation process was time-consuming, often taking up to 6 hours to complete. \nWith the introduction of Validato, we've slashed the installation time down to a mere 5 minutes. This represents a time reduction of over 99%, enabling rapid deployment and integration.\n\n\nThe installation process was complex, requiring technical expertise. This barrier prevented many potential users, especially those without a technical background.\nNow, even non-technical individuals can run and install the node. This widens the user base.\n\n\nWith the installation process simplified, the ecosystem is poised for faster growth. In essence, Validato has not only brought about efficiency but has also set the stage for accelerated growth in the ecosystem.",
   "contributionLinks": [
     {

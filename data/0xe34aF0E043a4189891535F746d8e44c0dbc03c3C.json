@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://github.com/ethzoomer/optimism-prices",
-  "bio": "Building the Optimism Prices Contracts, a suite of open source smart contracts that can price any ERC20 asset that exists in a liquidity pool on Optimism/Base.",
+  "bio": "Open source smart contracts that price any ERC20 asset on OP & Base trustlessly",
   "contributionDescription": "We built Optimism Prices, a set of open source smart contracts that can price any ERC20 asset that exists in a liquidity pool on Optimism or Base, which is capable of entirely replacing the need for centralized price APIs. The contracts support pricing that requires complex routes with many hops, support non-standard ERC20 implementations and non-standard AMM curves, and are even optimized to allow for pricing 100+ tokens in a single function call so that it can best take advantage of the public Optimism RPC without using unnecessary computation and getting throttled. The Optimism Prices contracts have been iterated upon for many months with direct feedback from some of the largest projects in the Optimism ecosystem, like Velodrome and Aerodrome, which use Optimism Prices in production.",
   "contributionLinks": [
     {

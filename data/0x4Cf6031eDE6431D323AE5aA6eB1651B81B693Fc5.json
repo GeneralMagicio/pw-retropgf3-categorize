@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://www.comparenodes.com/",
-  "bio": "We measure round-trip latencies continuously in 1-minute intervals from 27 locations around the globe to blockchain node providers",
+  "bio": "Web3 Infrastructure Performance Monitoring & Tools",
   "contributionDescription": "We currently have 3 tools available for Optimism:\n1. Perpetual Comparison page of Node Providers for Optimism Mainnet\nContinuous latencies & errors in 1-minute intervals \nGlobal, Continental, Regional x 30min, 24h, 10days, 30days\nSynthetic monitoring optimized for Web3 (similar to Datadog)\n\n2. GNC (Global Node Comparison)\nAd hoc latencies for “any” 2 Optimism endpoints submitted by the user\nFrom 27 global locations in 30 seconds\nCompatible with Optimism\n\n3. Directory of 45 providers that support Optimism networks & Library of 30+ Optimism public endpoints\n",
   "contributionLinks": [
     {

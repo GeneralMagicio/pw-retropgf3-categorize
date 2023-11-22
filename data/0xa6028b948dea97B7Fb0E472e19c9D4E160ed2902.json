@@ -1,57 +1,67 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://www.optiland.xyz",
-  "bio": "I am the creator of Optiland Quests - a series of weekly learn and earn quest featuring different dapp within the Optimism ecosystem.  ",
-  "contributionDescription": "Learning about different protocols that exist in the Optimism ecosystem is the first step toward discovery and onboarding users to those protocols. The team made the following contributions to help the adoption of the Optimism ecosystem:\n\n16 weekly Learn to Earn Quests: \nEncouraged program participants to learn a different protocol every week in the broader OP ecosystem.  Successful participants received $OP for their participation.\n\nCoinbase Wallet App Quest:\nProduced a commemorative work of art that was featured as part of the Coinbase Wallet App Quests.  Participants earned some $OP for bridging some $ETH to Optimism and minting the artwork.",
+  "bio": "Optiland Quests - onboarding users to Optimism",
+  "contributionDescription": "Optimistic Bunnies is the first NFT on Optimism featuring original artwork. The project has made significant contributions to the Optimism ecosystem through our Learn and Earn quests and Coinbase wallet quest.\n\nOur weekly Learn to Earn quests encouraged participants to learn a different protocol every week in the broader OP ecosystem.  The learning topics included protocols in the defi, NFTs, bridges, wallets, onramp, and tools categories. The program produced around 400 power users of the Optimism ecosystem.\n\nWe were also invited by Coinbase to produce an artwork that was featured as part of the Coinbase wallet quests. This initiative provided a large net positive in helping onboard 25,000 Coinbase Wallet users onto Optimism, creating a positive impact on the entire Optimism system.\n",
   "contributionLinks": [
     {
       "type": "OTHER",
       "url": "https://app.questn.com/opbunnies",
-      "description": "Learn and Earn Quest main page"
+      "description": "Learn and Earn Quest"
     },
     {
       "type": "OTHER",
       "url": "https://app.manifold.xyz/c/lady-greatness ",
-      "description": "Coinbase Wallet App Quest minting page"
+      "description": "Coinbase Wallet Quest - Fall of Sybil"
     },
     {
       "type": "CONTRACT_ADDRESS",
       "url": "https://optimistic.etherscan.io/token/0x3b022384b5127b4cd4aeeb96b0f53e979dfad3f3",
-      "description": "Coinbase Wallet App Quest smart contract"
+      "description": "Fall of Sybil Contract"
     },
     {
       "type": "OTHER",
       "url": "https://opensea.io/collection/fall-of-sybils",
-      "description": "Coinbase Wallet Quest Opensea link"
+      "description": "Fall of Sybil Opensea"
     },
     {
       "type": "OTHER",
       "url": "https://gov.optimism.io/t/optiland-quests/5425",
       "description": "Learn and Earn quest grant application"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://linktr.ee/opbunnies",
+      "description": "Linktr"
     }
   ],
   "impactCategory": [
     "END_USER_EXPERIENCE_AND_ADOPTION"
   ],
-  "impactDescription": "Learn to Earn Quests:  Participants learned about different protocols in the broader Optimism ecosystem.  Learning about different dApps is the first step toward using the dApp and wider adoption of the Optimism ecosystem.\n\nImpact Metrics:\n\nOn chain:\n2628 submissions\n2090 payouts\n17500 $OP sent through QuestN\n\nOffchain: \n72K direct views, over 100K impressions since June \n\nProjects featured in the quest benefited from additional exposure.  List of projects benefited in the link.\n\nCoinbase Wallet App Quests:\n\nOn chain:\n24,000 people have minted Lady Greatness: Fall of Sybils on Optimism\n\nOffchain:\nOver 150k impressions on X through all the tweets about the quests\n\nHelped onboard 25,000 Coinbase Wallet users onto Optimism, creating a positive impact on the entire Optimism system.",
+  "impactDescription": "Our activities contribute towards a healthy and engaging sector in the NFT space directly, and indirectly to the Optimism protocols we promote.  Our learn and earn program created around 400 power users who are familiar with various dApps in the OP ecosystem.  We had around 2,600 submissions and 2,100 approved submissions.  15 Optimism projects benefited from the additional exposure from quests.\n\nOur Coinbase wallet quest - Fall of Sybil, had around 25,000 mints since launch.  It onboarded 25,000 Coinbase users to Optimism.  The collection has around 97% unique owners.  Coinbase distributed roughly $122,000 in $OP to the quest participants directly.  The additional users onboarded through the quest provided a net positive to the entire OP ecosystem.\n",
   "impactMetrics": [
     {
-      "description": "List of projects benefited from quests",
+      "description": "Projects benefited (Learn and Earn)",
       "number": 15,
       "url": "https://docs.google.com/document/d/1TWIe_2g3o5BSQbAtouIE4xPLAiiHc3OcO1ZQEOpji70/edit?usp=sharing"
     },
     {
-      "description": "number of quest payouts",
+      "description": "Quest Participants (Learn and Earn)",
+      "number": 417,
+      "url": "https://docs.google.com/spreadsheets/d/1hbLlK50ljWS-XgH5KxcrAmwcozm9SgnHcMnhwgtuBmo/edit?usp=sharing"
+    },
+    {
+      "description": "Quest Payout # (Learn and Earn)",
       "number": 2090,
       "url": "https://docs.google.com/spreadsheets/d/1TSo-wiG2FkWg9-_qZWIFTk6OpGOlQ_H5WYGVNC5hS3Q/edit?usp=sharing"
     },
     {
-      "description": "List of users minted Coinbase quests",
+      "description": "Coinbase Quest Minters",
       "number": 25000,
       "url": "https://app.manifold.xyz/c/lady-greatness"
     },
     {
-      "description": "X Impression counts for both quests",
+      "description": "Impression Counts",
       "number": 250000,
       "url": "https://docs.google.com/document/d/16uSd_PNEau3WqLYQ2qnu6Geaq-YPuFbK10relg5XNQg/edit?usp=sharing"
     }
@@ -61,7 +71,7 @@
       "type": "GOVERNANCE_FUND",
       "currency": "OP",
       "amount": 20000,
-      "description": "20000 $OP grant given by OP foundation to be given entirely to users "
+      "description": "20000 $OP grant given entirely to quest participants "
     }
   ],
   "payoutAddress": "0xa6028b948dea97B7Fb0E472e19c9D4E160ed2902",
@@ -70,7 +80,7 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "displayName": "Cryptofox",
+  "displayName": "Optiland Quests",
   "applicantName": "Cryptofox",
   "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xa6028b948dea97B7Fb0E472e19c9D4E160ed2902.png",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xa6028b948dea97B7Fb0E472e19c9D4E160ed2902.json",

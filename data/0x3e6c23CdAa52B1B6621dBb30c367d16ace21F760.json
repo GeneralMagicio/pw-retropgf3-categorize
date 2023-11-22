@@ -1,8 +1,8 @@
 {
   "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://macbudkowski.com/",
-  "bio": "Founder & Host @ Web3Talks.xyz | Web3 Educator | Contributor #1 @ Goldmine3.xyz | Co-Founder @ KiwiNews.xyz",
-  "contributionDescription": "Almost all my web3 projects were focused on helping crypto founders & devs. Primarily by finding know-how that's hard to get and sharing it for free.\n\n1. Web3 Talks: a podcast where top crypto founders take us on a backstage tour and explain how they built their projects. It has 48 episodes so far, incl. interviews with founders of projects such as ZORA, WalletConnect, Farcaster, Zapper, Gnosis & many more.\n\n2. Goldmine3: Listeners asked me for a way to browse through stories & tactics shared on the podcast, so I built a searchable repo of real web3 case studies.\n\n3. Product communications guide: As I've spoken with 100+ crypto founders, I found they find it hard to explain what their products do. So I wrote a guide with 40 examples of good & bad practices.\n\nI also shared 30,000 GoerliETH.",
+  "bio": "Founder & Host @ Web3Talks.xyz | Web3 Educator | Contributor #1 @ Goldmine3.xyz",
+  "contributionDescription": "Almost all my web3 projects were focused on helping crypto founders & devs. Primarily by finding know-how that's hard to get and sharing it for free.\n\n1. Web3 Talks: a podcast where top crypto founders take us on a backstage tour and explain how they built their projects. It has 48 episodes so far, incl. interviews with founders of ZORA, WalletConnect, Farcaster, Zapper, Gnosis & many more.\n\n2. Goldmine3: Listeners asked me for a way to browse through stories & tactics shared on the podcast, so I built a searchable repo of real web3 case studies.\n\n3. Product communications guide: As I've spoken with 100+ crypto founders, I found they find it hard to explain what their products do. So I wrote a guide with 40 examples of good & bad practices.\n\n4. GoerliETH: I distributed ca. 30,000 GoerliETH",
   "contributionLinks": [
     {
       "type": "OTHER",
@@ -33,6 +33,11 @@
       "type": "CONTRACT_ADDRESS",
       "url": "https://goerli.etherscan.io/address/0xCac63cf7693B2AB394b97F3eb7A2568Ac10913e0#internaltx",
       "description": "Me personally sharing the remaining 10,000 GoerliETH with ETH hackathons"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://kanfa.macbudkowski.com/",
+      "description": "My essays on blockchain & crypto"
     }
   ],
   "impactCategory": [
@@ -74,6 +79,11 @@
       "description": "Devs & founders opinions",
       "number": 8,
       "url": "https://docs.google.com/spreadsheets/d/1cP2QOXWMxIMsj-QW9wNbEwKFlJgVR_UUaxZcFj3LQzI/edit#gid=816059870"
+    },
+    {
+      "description": "My essay endorsed by Story Protocol team",
+      "number": 1,
+      "url": "https://x.com/edisonz0718/status/1700271681808515328?s=20"
     }
   ],
   "fundingSources": [

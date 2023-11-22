@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://www.wakeuplabs.io/",
-  "bio": "WakeUp Labs is a software development studio that helps businesses accelerate their development providing end-to-end development services.",
+  "bio": "We're a web3 software development studio.",
   "contributionDescription": "We identified a great barrier hindering the integration of blockchain technology in regular projects: the complexity and steep learning curve associated with blockchain interaction.\nHence, we created a platform simplifying blockchain interaction for developers. It provides user-friendly REST APIs for various blockchain functionalities: creating and managing NFTs, decentralized file storage, creating ERC20 tokens, etc., making it easier and faster for devs to integrate apps on the OP Mainnet\n\nOur impact:\nAdoption: Our platform has significantly reduced the barrier to entry\n\nEducation: Through our series of workshops, we've educated developers, helping them deploy their first smart contract\n\nEngagement: Our engagement with local and global communities has fostered a collaborative environment",
   "contributionLinks": [
     {

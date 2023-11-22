@@ -1,7 +1,7 @@
 {
   "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://github.com/Ratimon",
-  "bio": "I  am a blockchain engineer who specializes in in smart contract development/security.",
+  "bio": "I am a blockchain engineer who specializes in in smart contract development",
   "contributionDescription": "1) Refactoring Optimism Codebase for Security & Standardization\n\nOP Stack has technical debt as tests suites are split between two different frameworks. To solve this, I have refactored the code and standardized into single framework\\ and make sure that we’re covering every possible case  and that we’re not missing anything, improving security.\n\nI has done this by opening and getting them merged the following 6 PRs:",
   "contributionLinks": [
     {

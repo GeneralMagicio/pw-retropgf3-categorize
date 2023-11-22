@@ -1,7 +1,7 @@
 {
-  "applicantType": "PROJECT",
+  "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://www.optimismprime.io/",
-  "bio": "I'm a developer with a 3D dev background. I'm now full time DeFi since 2021, building tools, smart contracts, learning about protocols & new projects.",
+  "bio": "I'm leading the Optimism Prime project and building DeFi tools for the community",
   "contributionDescription": "In late 2021, the Optimism Prime project has been abandoned by its original team. OPP was the first meme token listed on Velodrome and the project was baked by a good veVELO position accumulated thanks to its community.\nI've took the lead of the project so it can survive, with the goal of contributing to the whole Optimism ecosystem as a community project.\n\nIn that context, I've started working on the Autobribes protocol. It's goal is to act as liquidity incentivization layer that supports Velodrome by locking tokens instead of dumping. Users stake their LP on Autobribes and are rewarded with \"real yield\", while Autobribes farm and lock VELO. The real yield is obtained from bribe chasing. Two instances have been deployed on Optimism: the \"Reliquary Prime\", and \"Autobribes for Velodrome\".",
   "contributionLinks": [
     {
@@ -59,7 +59,7 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "displayName": "Optimism Prime",
+  "displayName": "c2ba",
   "applicantName": "c2ba",
   "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x49a5492FDFe5AcC966dD5f41310dfDfe8dAA349C.jpeg",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x49a5492FDFe5AcC966dD5f41310dfDfe8dAA349C.json",

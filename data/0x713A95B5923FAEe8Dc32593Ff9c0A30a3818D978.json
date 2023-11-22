@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://etherscore.network/",
-  "bio": "EtherScore is a Web3 reputation system using NFT badges. Users earn badges for on-chain actions, showcasing achievements & contributions in their profile.",
+  "bio": "A reputation system using NFT badges to represent Web3 achievements.",
   "contributionDescription": "EtherScore is a reputation system that uses NFTs to represent Web3 achievements. The system provides badges based on user interactions such as voting in DAOs, swapping or lending coins/NFTs, etc. Users can collect badges to improve their on-chain reputation and build their EtherScore profile. On top of this, Dapps can develop services that require a reputation system, such as curated social networks, fair airdrops/ICOs, DeFi, DAO governance etc. Chainlink and The Graph are used for decentralization and verifiability of our solution.\n\nThe alpha version of EtherScore is live on Mumbai testnet and offers more than 80 badges for users of the most popular Dapps and chains. Of these 80 badges, 13 are related to the Optimism ecosystem, cumulating to 120,000 mints (details in the Impact section).",
   "contributionLinks": [
     {

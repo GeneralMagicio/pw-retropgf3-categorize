@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://revert.finance",
-  "bio": "Hi there. This is Mario from Revert. We are an actionable analytics app dedicated to Liquidity Providers (LPs) in AMM protocols.",
+  "bio": "Actionable analytics for Liquidity Providers (LPs) in AMM protocols ",
   "contributionDescription": "At Revert, we are bullish on the future of AMMs, envisioning them as fundamental pillars in all facets of financial markets, unveiling new investment avenues for retail investors. This underscores the necessity for open, transparent, and accessible tools to adeptly navigate and manage these investments. \n\nIn line with this vision, our v3utils tool streamlined liquidity operations on Uniswap v3 within Optimism, easing range adjustments and liquidity additions. Our open-source backtester further alleviated liquidity management challenges. Additionally, our auto-compounder and its incentives onboarded liquidity to Optimism, thereby positively impacting the DeFi space on Optimism, and specifically helping users migrate liquidity from Mainnet to Optimism via targeted ads and tutorials. ",
   "contributionLinks": [
     {

@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://www.wooshapp.com/",
-  "bio": "Founder of Woosh, a payments dApp on Optimism that allows you to send funds to people who don't have a wallet. Powered by ERC-4337.",
+  "bio": "A payments dApp that allows you to send funds to people who don't have a wallet",
   "contributionDescription": "Woosh is a payments dApp where you can send funds to anyone who doesn't have a wallet. We automatically create a wallet for new users when they claim the funds someone sent them. We use ERC-4337 to abstract away as much of the complexities of crypto as possible. We sponsor all of the users transactions with ZeroDev's paymaster. The funds from this grant will help pay for future users transactions.",
   "contributionLinks": [
     {

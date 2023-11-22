@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://tockable.xyz",
-  "bio": "Takbel is a small team of 3 who are constantly looking for new ways to turn complex web3 possibilities into zero-code & user-friendly platforms for public use. ",
+  "bio": "a 0-code launchpad/mintpad to facilitate the creation of dynamic NFT collections",
   "contributionDescription": "Tockable is a zero-code platform that allows creators to create/test/publish their own **Dynamic** NFT minting dapps on OP, where minters can design and mint their desired tokens, instead of getting some random JPGs.\nIn Tockable, creators only upload their own image layers (instead of random PFPs). According to the layers, Tockable produces a suitable online-app that allows users to select and compose their desired design before minting.\nCurrently, the market of traditional NFTs (random-static jpgs) has no more demand. On the other hand, the creation of dynamic and creative NFTs is currently only limited to developers. Tockable intends to make this possibility more easily available to the public and creators\n",
   "contributionLinks": [
     {

@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
-  "websiteUrl": "https://libp2p.io/",
-  "bio": "The libp2p open source project is dedicated to providing a performant, modular p2p networking library for all execution contexts, including the browser.",
+  "websiteUrl": "https://libp2p.io",
+  "bio": "The libp2p Project.",
   "contributionDescription": "- Development and maintenance of the libp2p specifications and concrete implemnetations in Go, Rust, and JavaScript.\n- Worked with projects in the Optimism ecosystem (e.g. Ethereum Beacon Chain implementations) to drive libp2p adoption and to keep implementations and downstream products updated with security fixes.\n- Managed an inclusive community of multiple implementations of libp2p across multiple companies.\n- Maintained a responsible security issue handling process that solved 8 CVE’s since 2019.\n- Maintained documentation, published example code, wrote informative blog posts, and gave conferences and workshops to grow the contributor and user base.",
   "contributionLinks": [
     {

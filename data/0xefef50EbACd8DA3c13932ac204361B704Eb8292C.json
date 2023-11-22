@@ -1,7 +1,7 @@
 {
-  "applicantType": "INDIVIDUAL",
-  "websiteUrl": "https://github.com/gnidan",
-  "bio": "I make software tools for smart contracts. Formerly leading Truffle for ~6 years, now working on personal projects including abi-to-sol.",
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://github.com/gnidan/abi-to-sol",
+  "bio": "Input an ABI JSON and get a Solidity interface!",
   "contributionDescription": "abi-to-sol is an open-source tool that auto-generates Solidity interfaces from ABI files. This streamlines smart contract deployment and interaction on Optimism's Layer 2. The tool aids in quick project migration to Optimism and serves the broader community by reducing manual effort. While not Optimism-specific, its utility in simplifying contract deployments makes it valuable for Optimism adoption.",
   "contributionLinks": [
     {

@@ -1,13 +1,18 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://growthepie.xyz",
-  "bio": "Layer 2 Metrics & Blockspace Analytics, Labeling & APIs. End-users, developers and investors use growthepie to make informed decisions in the L2 ecosystem.",
+  "bio": "Layer 2 Analytics & Knowledge Platform. Metrics, Blockspace, Labeling and APIs.",
   "contributionDescription": "growthepie is an analytics platform and knowledge hub for Layer 2s. We cover many current OP chains including OP Mainnet, Base, Zora, Gitcoin PGN & more. \n\nFor all OP chains, our users can easily compare fundamental metrics, analyze Blockspace incl. labeled smart contracts and read about the listed L2s. All data can be called for free through our API.\n\nFundamental metrics that we cover for OP chains: Daily Active Addresses, Transaction Count, Stablecoin Market Cap, Total Value Locked, Fees Paid by Users, Rent Paid to L1, Onchain Profit, Transaction Costs.\n\nOP Stack Blockspace Analysis: Different categories of active chain usage in Layer 2s and their smart contracts & ability to propose labels for them.\n\nKnowledge around data & essentials about OP chains, incl. Wiki, articles & threads.",
   "contributionLinks": [
     {
       "type": "OTHER",
       "url": "https://growthepie.xyz",
       "description": "General Platform with listed L2s, including OP Stack chains"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://growthepie.sharepoint.com/:v:/s/growthepie/EdhLxuFOsXdJvnJFlgSzeaQB88pfJbbgQOodPimGEUwNnA?e=zgCCRL",
+      "description": "growthepie platform contribution walkthrough (video)"
     },
     {
       "type": "GITHUB_REPO",
@@ -42,12 +47,12 @@
     },
     {
       "description": "Twitter/X Followers",
-      "number": 1025,
+      "number": 1035,
       "url": "https://twitter.com/growthepie_eth"
     },
     {
       "description": "Example of Twitter Post views",
-      "number": 11200,
+      "number": 11300,
       "url": "https://twitter.com/growthepie_eth/status/1699418958007329183"
     },
     {

@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://crust.network/",
-  "bio": "Head of BD at Crust Network. Formerly Co-founder of SaaS venture.",
+  "bio": "Crust provides decentralized storage and hosting solutions on top of IPFS",
   "contributionDescription": "We built a fully EVM native storage protocol and deployed our storage smart contracts and different products to the OP mainnet, From now on all OP builders and users have access to truly decentralized on-chain storage services via Crust Networks protocol and physical infrastructure. OP developers can leverage more than 600 PB of storage capacity for all their storage needs like dapp hosting, NFT storage, puplic file storage and more to achieve full scale decentralization. ",
   "contributionLinks": [
     {

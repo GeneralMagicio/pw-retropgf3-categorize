@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://retropgfhub.com/",
-  "bio": "RetroPGF Hub aims to be a cornerstone of the Optimism ecosystem by fostering learning resources and amplifying the voices of Optimism's community.",
+  "bio": "RetroPGF Hub is the place to explore, discover, and awareness about RetroPGF.",
   "contributionDescription": "RetroPGF Hub is the central hub for Optimists and the broader community to engage, explore, discover, and stay informed about all things related to RetroPGF. \n\nWe are offering a platform for community members to provide supportive comments or suggestions on projects, helping creators determine their eligibility for criteria in RetroPGF3. It serves as a comprehensive learning and discovery space, encapsulating historical context, scope, criteria, nominated projects, result statistics, and reflections in each round of RetroPGF. Whether you're a builder, user, or just curious about RetroPGF, this hub is your gateway to knowledge, collaboration, and community awareness.",
   "contributionLinks": [
     {
@@ -18,6 +18,11 @@
       "type": "GITHUB_REPO",
       "url": "https://github.com/FWB-Creators/RetroPGF-Hub-Backend",
       "description": "Repository (Backend)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.figma.com/community/file/1298222779901409246/retropgf-hub-design-brainstorm",
+      "description": "Figma Design"
     },
     {
       "type": "OTHER",
@@ -43,17 +48,22 @@
   "impactMetrics": [
     {
       "description": "Website Views",
-      "number": 34899,
+      "number": 25102,
       "url": "https://docs.google.com/spreadsheets/d/1n-_MvOQlvqOYNY6gULm8jbjODuPpuV2H8ZJQHUIin6w/edit?usp=sharing"
     },
     {
       "description": "Website Users",
-      "number": 1214,
+      "number": 312,
       "url": "https://docs.google.com/spreadsheets/d/1n-_MvOQlvqOYNY6gULm8jbjODuPpuV2H8ZJQHUIin6w/edit?usp=sharing"
     },
     {
+      "description": "Impression & Views",
+      "number": 7835,
+      "url": "https://x.com/JonasSFT/status/1707712389762695384?s=20"
+    },
+    {
       "description": "User Experiences (Average)",
-      "number": 4.8,
+      "number": 5,
       "url": "https://docs.google.com/spreadsheets/d/1n-_MvOQlvqOYNY6gULm8jbjODuPpuV2H8ZJQHUIin6w/edit?usp=sharing"
     }
   ],

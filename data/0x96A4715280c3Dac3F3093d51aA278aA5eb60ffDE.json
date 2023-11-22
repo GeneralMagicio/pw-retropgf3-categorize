@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
-  "websiteUrl": "https://github.com/chnejohnson",
-  "bio": "Hello, I'm Johnson 👋 \nI'm the author of Vue Dapp, a Vue.js library for building decentralized applications. I'm also quite intrigued by Quadratic Funding.",
+  "websiteUrl": "https://vue-dapp.vercel.app/",
+  "bio": "Vue 3 library for building Dapps on Ethereum",
   "contributionDescription": "Vue Dapp offers an integration service that combines the Vue.js frontend framework with crypto wallets. In the world of web3 development, React.js dominates the majority of Dapp frontend. Vue Dapp presents an alternative technological choice, enabling developers to create decentralized services effortlessly with the simplicity of Vue.js. This not only enhances the diversity of technology within the ecosystem but also opens the door for more developers to engage in dapp development. Vue Dapp aims to move towards a more streamlined and easily scalable service goal, providing the best user experience and developer experience for various infrastructures and projects in the web3 world.",
   "contributionLinks": [
     {

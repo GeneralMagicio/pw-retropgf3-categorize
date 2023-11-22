@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://lodestar.chainsafe.io",
-  "bio": "Technical Project Manager for Lodestar @ ChainSafe",
+  "bio": "Lodestar is a Typescript ecosystem for Ethereum consensus developed by ChainSafe",
   "contributionDescription": "Lodestar is a Typescript ecosystem for Ethereum consensus, developed by ChainSafe Systems. Our flagship products are our production-capable beacon chain and validator client. In addition, we maintain public repositories of useful tools for public use. Some of these libraries include BLS, SSZ, Discv5, Gossipsub, and Noise. \n\nActive work is being completed to support the OP Stack by enabling EIP-4844 blobs to benefit L2s like Optimism, reducing tx costs of L2 fees and increasing client diversity at the L1 protocol level. Additionally, some Lodestar team members have contributed to side projects such as Zipline Casper and to initiatives such as the Optimism Collective.\n\nWe fully support other teams in Protocol and projects which indirectly fund client team implementors such as Protocol Guild.",
   "contributionLinks": [
     {

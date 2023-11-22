@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://sourcify.dev",
-  "bio": "Sourcify is a decentralized and open-sourced Solidity contract source code verification service",
+  "bio": "Decentralized and open-source Solidity contract source code verification service",
   "contributionDescription": "Sourcify provides an open-source alternative to existing proprietary source code verification tools for contracts\n\nAnyone can run their own Sourcify to trustlessly verify contracts. It's also a knowledge-gathering point for verification, whereas with close source tools, the learnings in verification and the exceptions that need to be handled are not shared with the community.\n\nThe data is open. You don't need to scrape to bulk download contracts. The contract repository is published to IPFS and S3 buckets regularly. \n\nSourcify also aims to foster the \"full matches\" with contract metadata hashes. This ensures cryptographic guarantees for the exactness of the contract. It's nicely demonstrated at playground.sourcify.dev.",
   "contributionLinks": [
     {

@@ -1,7 +1,7 @@
 {
   "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://twitter.com/0xAlex_",
-  "bio": "Software engineer with extensive experience building in web3. Currently building a web3 product studio, fugu.works.",
+  "bio": "Web3 engineer",
   "contributionDescription": "I built op-stack-hooks (https://github.com/AlexBHarley/op-stack-hooks) one of the first OP Stack Mods. op-stack-hooks allows registering listeners on the L2 for events that happen on the L1. ie, \n\n- listening and reacting to swaps made on Uniswap\n- permissionless & automated Chainlink feeds on the L2.\n\nThe mod includes changes to op-node, for deriving events and an additional predeploy for registering events.",
   "contributionLinks": [
     {

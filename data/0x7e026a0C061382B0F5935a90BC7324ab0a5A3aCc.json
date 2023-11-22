@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
-  "websiteUrl": "https://twitter.com/0xRajeev",
-  "bio": "I am the founder of Secureum (known for smart contract security bootcamps) & TrustX (Ethereum security event). I've been a security researcher for 25 years.",
+  "websiteUrl": "https://twitter.com/TheSecureum",
+  "bio": "A community for Ethereum smart contract security education",
   "contributionDescription": "Secureum Bootcamp Epoch Infinity (Jan'22 onwards) has a 3-phase — LEARN-RACE-CARE — process. Participants LEARN for free from prior Secureum content and external resources. RACEs are open-and-free smart contract security quizzes, created by Secureum Mentors who are leading external security researchers, meant to educate & evaluate aspiring smart contract security auditors & developers as they LEARN basics of Ethereum, Solidity, smart contract security vulnerabilities & exploits. CAREs are smart contract security workshops with collaborating partners. This RetroPGF application is for Secureum Bootcamp Epoch Infinity RACE contributions towards increasing the quality and quantity of Ethereum/Optimism security talent.",
   "contributionLinks": [
     {

@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://vote.optimism.io/",
-  "bio": "Builder @Agora. \n\nPrev. built in fintech/Clearco and AI. Passionate about governance, love data, optimistic about solving the coordination problem.",
+  "bio": "Token house and Citizen house governance app and contract",
   "contributionDescription": "Agora builds public gov infra that is open source for Optimism community builders to leverage. We focus on 3 areas of contribution:\n\n- vote.optimism.io client where we enable Token and Citizen House to vote, delegate and evaluate proposals and RPGF. Over 500,000 monthly visits.\n- Major governor upgrade that enables net new functionalities such as Approval Voting that powered Season 4 Intents.\n- Open API that powers other community members and clients such as Supermodular client in RetroPGF3.\n\nNo other on-chain governance has Approval Voting as Optimism has, we’re proud to be contributing alongside a community that’s at the bleeding edge of governance. ",
   "contributionLinks": [
     {

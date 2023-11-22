@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
-  "websiteUrl": "https://ethereum-on-arm-documentation.readthedocs.io/",
-  "bio": "Ethereum on ARM allows users to run a ~$300 PnP Ethereum full/archive/staking L1 & L2 node based on affordable ARM boads that use only ~10 watts of power.",
+  "websiteUrl": "https://ethereum-on-arm-documentation.readthedocs.io",
+  "bio": "Run a ~$300 PnP Ethereum L1 and L2 node on ARM boads that uses only ~10w to run.",
   "contributionDescription": "Our primary contributions lie in the development of Optimism/Base packages and comprehensive documentation that enable general users to run an Optimism node on affordable and low-powered ARM64 boards, including Op-Geth, Op-node clients and Base configurations.\n\nThis work lower the barriers to entry by automating complex processes, ultimately encouraging more users to participate in the network. This contributes directly to network decentralization.\n\nAdditionally, our work empowers developers by providing them with the tools necessary to run a development or testing node. This includes running a L1 node on a similar device so L2 nodes can connect to it.\n\nLastly, we focused on enabling support for the Superchain (via Optimism+Base) to contribute to the multi-chain idea of scaling Ethereum.",
   "contributionLinks": [
     {

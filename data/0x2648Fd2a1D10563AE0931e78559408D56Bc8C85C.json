@@ -2,7 +2,7 @@
   "applicantType": "PROJECT",
   "websiteUrl": "https://otterscan.io/",
   "bio": "Otterscan is a fast, local, free and open source Ethereum block explorer",
-  "contributionDescription": "Otterscan is a fast, local, private and opensource block explorer. It has a very low footprint, which allows it to run in consumer hardware, not requiring much more resources than a regular archive node.\n\nIt has a decoupled architecture, which means it is composed by an UI and an API which can be used separately. That enabled an increasing ecosystem to flourish:\n\n- Hosted APIs by Llamanodes and Quicknode\n- Community-develop Dappnode packages\n- Otterscan API implemented in Anvil, allowing Otterscan UI to be used in local development.\n- OP-Otterscan fork developed by Test-in-Prod team.\n\nThe last one enabled the OP collective to use Otterscan since the bedrock upgrade, and now Optimism can benefit from all innovations we are building in Otterscan.",
+  "contributionDescription": "Otterscan is a fast, local, private and opensource block explorer. It has a very low footprint, which allows it to run in consumer hardware, not requiring much more resources than a regular archive node.\n\nIt has a decoupled architecture, which means it is composed by an UI and an API which can be used separately. That enabled an increasing ecosystem to flourish:\n\n- Hosted APIs by Llamanodes and Quicknode\n- Community-develop Dappnode packages\n- Otterscan API implemented in Anvil, allowing Otterscan UI to be used in local development.\n- Otterscan API being used by Ape.\n- OP-Otterscan fork developed by Test-in-Prod team.\n\nThe last one enabled the OP collective to use Otterscan since the bedrock upgrade, and now Optimism can benefit from all innovations we are building in Otterscan.",
   "contributionLinks": [
     {
       "type": "OTHER",
@@ -22,6 +22,7 @@
   ],
   "impactCategory": [
     "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
     "OP_STACK"
   ],
   "impactDescription": "Optimism has been pushing for client diversity through the OP-Stack. But it is hard to justify diversity to end users when they see no clear benefit from it.\n\nOtterscan, through OP-Otterscan/OP-Erigon brings a strong motivation for a different client to be used, along with a killer dapp that can be used with it. So, supporting Otterscan means creating more incentives to justify the entire OP-Stack architecture.\n\nDeveloper ecosystem: explorers are a fundamental piece of software for developers to understand what's happening onchain. The market leader is a closed source product; we are opensource and able to be run on developers' machines. We also promote open datasets, like Sourcify for contract verification.\n\nSupporting Otterscan means less reliance on vendor lock-in and closed databases.",

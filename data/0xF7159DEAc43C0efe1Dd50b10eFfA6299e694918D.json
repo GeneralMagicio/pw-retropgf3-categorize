@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://community.optimism.io/docs/contribute/contribution-path/NERD-req/",
-  "bio": "Support NERDs provide moderation and onboarding services to the Optimism Discord.",
+  "bio": "Support NERDs provide moderation and onboarding services to the Optimism Discord",
   "contributionDescription": "The Support NERDs moderate the Optimism Discord. This includes: reporting scams, removing spam, onboarding new users into the ecosystem, answering user questions, helping dapps find the support they need, moderating and supporting the 14 non-English Discord channels. ",
   "contributionLinks": [
     {
@@ -50,7 +50,7 @@
     {
       "type": "RETROPGF_2",
       "currency": "OP",
-      "amount": 93.68395,
+      "amount": 93683,
       "description": "From the pervious retroPGF round for support & moderation.  "
     },
     {

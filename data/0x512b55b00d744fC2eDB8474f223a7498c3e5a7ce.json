@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://twitter.com/cooprecsmusic",
-  "bio": "Onchain Record Label",
+  "bio": "Onchain Records Label",
   "contributionDescription": "We’ve partnered with over 25+ artists across 87 music releases on Optimism. \n\nThese releases have done over 59 ETH in volume across the network including several culturally significant albums.\n\nWe've developed and implemented several new minting mechanisms including:\n\n- Splits - We’ve instantiated 50+ splits contracts\n- Mint All - A contract to mint multiple collections for TK’s “Eternal Garden”\n- Lottery - A randomizer for WesGhost EP “Faceless”\n- Albums - An onchain album contract for Daniel Allan’s project “Duality”\n\nNew technology needs culture to drive adoption. Music is at the heart of popular culture and has the potential to drive meaningful adoption to the Optimism Collective. ",
   "contributionLinks": [
     {

@@ -1,8 +1,8 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://www.basepunk.xyz/",
-  "bio": "Base Punk is a dynamic, community-driven NFT project aiming to reshape the world of digital art and social networking on the web3 frontier. ",
-  "contributionDescription": "Base Punk is not just an NFT project; it's a rebellion against the ordinary . In just three months, we've grown to over 10,000 followers, held remarkable Onchain Summer events, and received a generous 2 ETH grant from @Buildonbase. Our NFT collection sold out, establishing us as an OG collection in the Base ecosystem. We swiftly introduced .basepunk domains, granting free minting to our NFT holders.\n\nThe Base Punk Chat DApps ( which is assessable to .basepunk domain holder only) launch brought innovative features, such as minting posts as NFTs, allowing users to earn ETH and activity points, soon to convert to $bpunk tokens. We also unveiled a token send feature for seamless transactions.\n\nWith these milestones, Base Punk is reshaping the NFT space and leading the way in Web3 innovation.",
+  "bio": "Base Punk is a Community-driven NFT project with Web3 Domains & Social Dapps",
+  "contributionDescription": "Base Punk's innovative ecosystem offers lifetime digital identity, seamless social interactions with daily earnings, and a user-friendly NFT launchpad that simplifies creation, enhances liquidity, and fairly rewards creators.\n\nBase Punk Domains: (Free Mint to Base Punk NFT holder )\n-This is your ticket to seamless experiences in the Base Punk ecosystem.\n\nBase Punk Chat: The Next-Gen Social Network\n- Daily ETH earnings and activity points are yours for the taking.\n- Register, interact, mint posts as NFTs, and enjoy a daily passive income stream.\n\nBase Punk NFT Launchpad: A Creator's Dream\n- Simplify NFT creation, with integrated marketplace for each collection ensures liquidity and hassle-free trading.\n- Smart pricing adapts to demand, keeping NFTs fairly priced.\n- Creators 2% royalties.",
   "contributionLinks": [
     {
       "type": "OTHER",
@@ -33,12 +33,17 @@
       "type": "CONTRACT_ADDRESS",
       "url": "https://basescan.org/token/0x89290b2fad76bf4a6ed9d8066f644d45530fa920",
       "description": "This is contract details of our NFT"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://chat.basepunk.xyz/nft",
+      "description": "Our NFT launchpad features an integrated marketplace for each collection"
     }
   ],
   "impactCategory": [
     "END_USER_EXPERIENCE_AND_ADOPTION"
   ],
-  "impactDescription": "Base Punk has left a remarkable impact on our users through several initiatives. We've conducted giveaways, creating opportunities for our community to acquire NFTs and other valuable assets. NFT holders have enjoyed exclusive benefits, including free lifetime domain minting, empowering them with unique digital identities.\n\nOur innovative social DApps offer users a daily earning potential with ETH and activity points. The engagement has been phenomenal, with users actively participating, minting NFTs and enjoying their activity points. Our DApps have garnered extensive user registrations, reflecting the community's seamless and enthusiastic adoption of our Web3-powered ecosystem.",
+  "impactDescription": "Base Punk is redefining the Web3 experience with an ecosystem that's both groundbreaking and inclusive. All our Genesis NFT holders got Free mint in our .basepunk domain mint .Base Punk Domains offer a unique digital identity, empowering users to access a seamless world of possibilities. With Base Punk Chat, we've transformed social networking into a vibrant, decentralized platform, fostering daily earnings through ETH and activity points. Our NFT Launchpad brings an entirely new approach to NFT creation, simplifying the process for creators and collectors. In these challenging times, our ecosystem is a beacon of opportunity, allowing users to earn daily rewards and launch their NFT collections without coding expertise. It's a revolution, making Web3 accessible and rewarding for everyone.",
   "impactMetrics": [
     {
       "description": "Base Punk Domain",
@@ -72,12 +77,6 @@
       "currency": "USD",
       "amount": 2200,
       "description": "We received a grant from Base for winning on chain summer events by them."
-    },
-    {
-      "type": "OTHER",
-      "currency": "USD",
-      "amount": 4000,
-      "description": "Invested By founder for project's development ."
     }
   ],
   "payoutAddress": "0x919364818153ef009d6ad6EF9644066b24fa2F04",

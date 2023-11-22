@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://optimism.blockscout.com/",
-  "bio": "The Blockscout team has been developing open-source block exploration tools since 2018. We believe in community, transparency, and decentralization.",
+  "bio": "Full-featured open-source block explorer ",
   "contributionDescription": "Block explorers provide vital infrastructure, transparency, and data availability to all blockchain users. Blockscout brings an open-source ethos and community-driven development to the Optimism explorer ecosystem. Over the past 6 months Blockscout has continued to improve and optimize the Optimism explorer for OP mainnet and testnet (Goerli & Sepolia) instances. \n\nIn June 2023 we updated to the latest 5.2.0 version and deployed a new UI, which includes several new L2 relevant views, account features for users, and an app marketplace for projects on Optimism. In September we introduced the OP Sepolia instance, currently the only fully-functional explorer instance available for the OP Sepolia chain. Blockscout APIs (both RPC and REST API) are available for Optimism developers and projects.",
   "contributionLinks": [
     {

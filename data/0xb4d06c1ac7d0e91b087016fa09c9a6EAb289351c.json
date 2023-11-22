@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://walletguard.app",
-  "bio": "Builder. Engineer. Founder.\n\nHelping the next 100m+ web3 users protect their crypto.",
+  "bio": "Helping the next 100m+ users protect their crypto.",
   "contributionDescription": "Wallet Guard is a suite of security tools that are like having an anti-virus for your crypto wallet of choice.\n\nWe offer a suite of consumer tools for improving end-user UI, UX, and security:\n1. Browser extension\n2. MetaMask Snap\n3. Security Dashboard\n\nWe support Optimism and other EVM chains for transaction simulations to create safer transactions for our Browser extension and MetaMask Snap users alike. We added Optimism support last week and have already simulated 12,000+ transactions for our users.",
   "contributionLinks": [
     {

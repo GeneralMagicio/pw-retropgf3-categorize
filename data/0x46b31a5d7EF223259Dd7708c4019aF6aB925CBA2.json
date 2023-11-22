@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
-  "websiteUrl": "https://github.com/Defi-Moses",
-  "bio": "Passionate DeFi enthusiast, contributed to Synapse Protocol",
+  "websiteUrl": "https://interchain.synapseprotocol.com/",
+  "bio": "Synapse Labs is a contributor to cross-chain technology.",
   "contributionDescription": "Synapse Labs has built on top of the OP Stack key new pieces of infrastructure as well as migrated key pieces of the Synapse vision to the Superchain. More specifically Synapse has helped : \n\n- Research and develop novel ways to incorporate multi-chain into the Superchain vision  \n- Create Better RPC infrastructure, and indexing as a public good through OmniRPC\n- Development of SYN OP Stack, an implementation of the OP Stack with a built in native bridge\n- The deployment of the first SYN OP Stack chain, Synapse Chain, an Optimism L2\n- Education and Developer support for new developers to build on top of and expand the Superchain ecosystem\n",
   "contributionLinks": [
     {

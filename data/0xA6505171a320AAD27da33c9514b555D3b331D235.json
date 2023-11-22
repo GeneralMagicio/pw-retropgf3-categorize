@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://blobscan.com",
-  "bio": "The pioneer blockchain explorer dedicated to navigate and visualize shard blob transactions.",
+  "bio": "The pioneer blockchain explorer to navigate shard blob transactions.",
   "contributionDescription": "- Created and deployed a documentation site detailing usage, guides, troubleshooting, etc.\n- Deployed public REST API.\n- Web App Upgrades:\n - Enhanced block, blob txs, and blob views, along with a revamped homepage for richer insights.\n - Improved stats view with interactive time series charts and added new metrics: gas expenditure comparison, blob price, fee, gas usage, etc.\n- Backend Upgrades:\n - Migrate the indexer to Rust and improve its performance, robustness, and reliability.\n - Support for Google Storage and Eth Swarm as blob data storage layers with auto-propagation mechanism.\n- Repository Refinements:\n - Added integration tests and telemetry support for advanced observability.\n - Enhanced CI/CD process, achieved full dockerization, and integrated Sentry for error tracking.",
   "contributionLinks": [
     {
@@ -46,13 +46,13 @@
   "impactDescription": "We have contributed to the ongoing effort of the EF's DevOps team EthPandaOps on the EIP-4844 by being the go-to solution for visualizing, examining, and navigating blob shard txs, as well as ensuring blob data persistence and its consistent availability through our web app and REST API.\n\nBlobscan has been integrated as a core tool into the EIP-4844 development stack. It has been notably integrated into ethPandaOps's Helm charts repository for easy Kubernetes deployment. The DevOps team runs their own dedicated instance of our explorer as well. We have extended support for every devnet, and as of now, have supported seven releases.",
   "impactMetrics": [
     {
-      "description": "Web visitors last month",
-      "number": 712,
+      "description": "Web visitors last 30 days",
+      "number": 893,
       "url": "https://0xgabi.notion.site/Analytics-122af559f79c4c42ac0e5d19a2c60137"
     },
     {
       "description": "Blob data stored (GB)",
-      "number": 31,
+      "number": 46,
       "url": "https://blobscan.com/stats/blob"
     },
     {

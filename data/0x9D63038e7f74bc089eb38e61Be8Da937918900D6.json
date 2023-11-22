@@ -1,8 +1,8 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://www.bored.town/",
-  "bio": "Your gateway to the world of NFTs and Optimism Stacks. We're an NFT art community committed to educating web3 newcomers through exceptional artistry.",
-  "contributionDescription": "As a pioneer community on Optimism, we continually educate new users about Web3, NFTs, and Optimism by distributing complimentary NFTs to promote Optimism and OP stacks. \n\nAs an NFT art community, we view NFTs as the initial entry point to blockchain technology and protocols. We provide a warm, non-judgmental atmosphere where newcomers can comfortably learn, ask questions, and begin their journey into Web3. \n\nFurthermore, we support emerging protocols and artists by assisting them in launching their collections and promoting them within our community to ensure they have a positive experience on Optimism.",
+  "bio": "Bored Town, a nurturing ecosystem where creativity meets innovation.",
+  "contributionDescription": "Bored Town is not just an NFT art community; it's a hub of innovation, support, and artistic growth. With a solid commitment to fostering talent and nurturing the world of NFT art, we've embarked on an exciting journey of empowerment. Thanks to a recent governance grant, we've hosted an exceptional art contest and established our launchpad to showcase participating artists' works.\n\nOur unique approach involves incubating artists from the ground up, regardless of their technical know-how. We provide the knowledge, tools, and nurturing environment for them to thrive. This creates a supportive and safe space for both artists and art enthusiasts within our community. In Bored Town, our members can explore the potential of Optimism Stack while enjoying high-quality art from genuine creators.",
   "contributionLinks": [
     {
       "type": "CONTRACT_ADDRESS",
@@ -21,8 +21,23 @@
     },
     {
       "type": "OTHER",
+      "url": "https://x.com/BoredTownNFT/status/1695823785319133355?s=20",
+      "description": "A link on X to announce Bored Town x Optimism art contest winners"
+    },
+    {
+      "type": "OTHER",
       "url": "https://x.com/BoredTownNFT/status/1702173749808881708?s=20",
       "description": "A link on X to promote the collection featuring 100+ artists on Optimism."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://boredtown.app/checkeligible/",
+      "description": "A claim page to reward our art contest voters"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/BoredTownNFT/status/1716048811557335391?s=20",
+      "description": "A link on X to promote art contest voters rewards"
     },
     {
       "type": "OTHER",
@@ -36,14 +51,54 @@
     },
     {
       "type": "OTHER",
-      "url": "https://linktr.ee/boredtown",
-      "description": "A list of NFTs we have deployed on multiple chains and drew users to Optimism."
+      "url": "https://x.com/BoredTownNFT/status/1711026943678963835?s=20",
+      "description": "A link on X to promote Sono Crew project (Base)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/BoredTownNFT/status/1709959644188471682?s=20",
+      "description": "A link on X to promote Base Camp project (Base)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/BoredTownNFT/status/1704500298499108947?s=20",
+      "description": "A link on X to promote Tripster x Wally project (Optimism)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/BoredTownNFT/status/1703809780563972469?s=20",
+      "description": "A link on X to promote Tripster x Wally project (Base)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/BoredTownNFT/status/1691456401615486976?s=20",
+      "description": "A link on X to promote the 1st Tripster Wally project (Base)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/BoredTownNFT/status/1691089543682822145?s=20",
+      "description": "A link on X to promote Bas(e)tination project (Base)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/BoredTownNFT/status/1690701118727430144?s=20",
+      "description": "A link on X to promote Catz Warrior project (Base)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/BoredTownNFT/status/1688715617921388544?s=20",
+      "description": "A link on X to promote Base of Bored collection (Base)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/BoredTownNFT/status/1688448843472650240?s=20",
+      "description": "A link on X to promote P3P3 the Club project (Base)"
     }
   ],
   "impactCategory": [
     "END_USER_EXPERIENCE_AND_ADOPTION"
   ],
-  "impactDescription": "So far, we have amassed 46,000 followers on X, with 18,700 members on Discord, and our 20+ collections across various blockchains, predominantly on Optimism, have engaged with 28,800 wallets.\n\nWe maintain strong relationships with other protocols such as Galxe, Guild.xyz, Clique, QuestN, and Opti.domains. Furthermore, we provide support for up to 200 artists who have participated in our art contest. Several of them have already launched their first NFT collections on Optimism and OP stacks through our launchpad, receiving outstanding backing from our community.\n\nTo date, we have successfully incubated 8 collections, with a total supply of up to 35k, and all of them were fully minted within less than 2 hours during public mint events.",
+  "impactDescription": "Our progress so far includes 46,000 followers on X, 18,700 Discord members, and over 20 collections across various blockchains, primarily on Optimism, engaging with 28,800+ wallets.\n\nWe maintain strong partnerships with protocols like Galxe, Guild.xyz, Clique, QuestN, and Opti.domains. We offer support to around 200 artists from our art contest, with several successfully launching their debut NFT collections on Optimism and OP Stack through our launchpad, receiving exceptional community support.\n\nTo date, we've nurtured 8 collections, each with a supply of up to 35k, all minted in less than 2 hours during public events. Our community members consistently receive rewards for minting, holding NFTs, and participating in art contest voting. ",
   "impactMetrics": [
     {
       "description": "Optimistically Bored NFT distribution",
@@ -54,6 +109,56 @@
       "description": "Bored Town x Optimism Art Contest",
       "number": 723,
       "url": "https://app.questn.com/quest/771346858070622591"
+    },
+    {
+      "description": "Art contest voters",
+      "number": 3917,
+      "url": "https://snapshot.org/#/boredtown.eth"
+    },
+    {
+      "description": "Transections from Sono Crew project",
+      "number": 1363,
+      "url": "https://basescan.org/token/0x5dd89771b6589228dbfaa8ecfc5bdc2e4652e78f"
+    },
+    {
+      "description": "Transections from Base Camp project",
+      "number": 10448,
+      "url": "https://basescan.org/token/0x9adae68e13da61543c6ef4695617daa03f07a05d"
+    },
+    {
+      "description": "Transections from Tripster x Wally (OP)",
+      "number": 3493,
+      "url": "https://optimistic.etherscan.io/token/0x3c8ac104dcbf03ae12c9ac80aa830e1b39609e97"
+    },
+    {
+      "description": "TX from Tripster x Wally (BASE)",
+      "number": 3640,
+      "url": "https://basescan.org/token/0x3e81538278d6f43b5ea0bdf1728530a64ebee4e1"
+    },
+    {
+      "description": "TX from the 1st Tripster Wally (BASE)",
+      "number": 11389,
+      "url": "https://basescan.org/token/0x89f72926f4fec36e8cb376e6f5b7df8e1c9a4726"
+    },
+    {
+      "description": "Transections from Bas(e)tination (BASE)",
+      "number": 2200,
+      "url": "https://basescan.org/token/0x2a578ca45fb1f16997ebd93a38accd8451b803e2"
+    },
+    {
+      "description": "Transections from Catz Warrior (BASE)",
+      "number": 5284,
+      "url": "https://basescan.org/token/0xde59b5fc65369e1dd0f0191ac03e8ba8fcb7510d"
+    },
+    {
+      "description": "Transections from Base of Bored (BASE)",
+      "number": 10303,
+      "url": "https://basescan.org/token/0x90fb81ca2fec713c9c6b4b2694eded668b85d5ed"
+    },
+    {
+      "description": "Transections from P3P3 the Club (BASE)",
+      "number": 5677,
+      "url": "https://basescan.org/token/0x8b559fba48051ca930a646493ca3fcf1c7fe1bf9"
     },
     {
       "description": "X followers",
@@ -91,7 +196,7 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "displayName": "Bored Town",
+  "displayName": "Bored Town NFT art community",
   "applicantName": "Bored Town Master",
   "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9D63038e7f74bc089eb38e61Be8Da937918900D6.png",
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x9D63038e7f74bc089eb38e61Be8Da937918900D6.png",

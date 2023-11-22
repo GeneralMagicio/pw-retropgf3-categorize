@@ -1,28 +1,28 @@
 {
   "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://github.com/sweetmantech/",
-  "bio": "I am a software engineer. I've been building core infrastructure and applications on OP / Base & Zora for the past 12+ months. I write open source code.",
-  "contributionDescription": "Software Engineer: Onchain Solutions for Musicians\n\nProblem: Musicians face hurdles integrating with blockchain, especially in mobile-first and economically challenging regions.\n\nSolutions:\nOnchain Magic (https://onchainmagic.xyz): Simplified onchain media publishing, with gas fees covered. Vital for creators in Buenos Aires.\nOnchain Albums: Streamlined smart wallet creation for musicians.\nZora Rewards Leaderboard: Transparent revenue data for Zora Protocol creators.\nRelief: A game using Zora's onchain assets, enhancing Heno's album experience.\nAdditionally, developed infrastructure for Decent.xyz, Defient.co, Mesa & more on OP.",
+  "bio": "I am an onchain software engineer. I build open tools for creators on OP.",
+  "contributionDescription": "Software Engineer: Onchain Solutions for Creators\n\nProblem: Creators face hurdles integrating with blockchain, especially in mobile-first and economically challenging regions.\n\nSolutions:\nOnchain Magic (https://onchainmagic.xyz): Simplified onchain media publishing, with gas fees covered. Vital for creators in Latin America.\nOnchain Albums: Streamlined smart wallet creation for musicians.\nZora Rewards Leaderboard: Transparent revenue data for Zora Protocol creators.\nRelief: A game using Zora's onchain assets, enhancing Heno's album experience.\nAdditionally, developed infrastructure for Decent.xyz, Defient.co, Mesa & more on OP.",
   "contributionLinks": [
     {
       "type": "CONTRACT_ADDRESS",
       "url": "https://optimistic.etherscan.io/address/0x8Ae36b1459678f234C9d9C2fe383246909982EEf",
-      "description": "Custom Party Minter for Collectible Drops written by for Onchain Magic"
+      "description": "Party Minter for Collectible Drops for Onchain Magic"
     },
     {
       "type": "GITHUB_REPO",
       "url": "https://github.com/SweetmanTech/Heno-Relief-Game",
-      "description": "Code for Relief Game for Heno.'s Album Drop."
+      "description": "Code for Relief Game - Heno.'s Album Drop."
     },
     {
       "type": "OTHER",
       "url": "https://play.mynameisheno.com/",
-      "description": "Relief Game for Heno.'s Album Drop."
+      "description": "Relief Game - Heno.'s Album Drop."
     },
     {
       "type": "GITHUB_REPO",
       "url": "https://github.com/SweetmanTech/",
-      "description": "My personal Github with open-source contributions"
+      "description": "My personal Github with open source contributions for builders on OP."
     },
     {
       "type": "GITHUB_REPO",
@@ -52,34 +52,34 @@
     {
       "type": "OTHER",
       "url": "https://www.youtube.com/@onchainexperiments",
-      "description": "Onchain Experiments - my YouTube Channel"
+      "description": "Onchain Experiments - Educational YouTube Channel for Developers"
     }
   ],
   "impactCategory": [
     "DEVELOPER_ECOSYSTEM",
     "END_USER_EXPERIENCE_AND_ADOPTION"
   ],
-  "impactDescription": "Benefits:\n\n- Tangible: Introduced musicians like SolSiete.eth and DavydMusic.eth to onchain publishing. Artists who never profited from social platforms now earn ETH.\n- Intangible: Simplified entry into the blockchain world, enhancing Optimism's user base and showcasing a user-friendly blockchain experience.\n\nBeneficiaries:\n- Musicians: e.g., Sol Siete, DavydMusic & Warroking.\n- Collectives: MusicaW3 and Invest in Music.\n- Fans: sebas.eth and bosco.eth are active participants.\n\nMerging digital art's potential with Optimism's affordability, Onchain Magic empowers everyday musicians in the blockchain era.",
+  "impactDescription": "Tangible:\n\n$311k+ creator revenue tracked on Leaderboard.\n15k+ Creators tracked on Leaderboard.\n175+ NFTs minted on OP for games.\n50+ contracts on OP mainnets.\nBiggest single, collective, OP drop in Argentina.\nEducated 1.15k via YouTube on OP development.\n\nIntangible:\n\nEvents in Buenos Aires with Blockhouse & Musica W3.\nDaily Twitter sessions aiding musicians on OP.\nOpen-source MIT-Licensed code released.\nFacilitated musician entry to blockchain.\n\n\nBeneficiaries:\n\nOptimists:\nHelped Sol Siete, Nena1992, Warroking with OP.\n\nProjects:\nOnchain Magic: Mobile publishing.\nOnchain Albums: Smart wallets.\nRelief: OP video game for Heno.'s album.\n\nCompanies:\nBoosted Defient with blockchain.\nWorked with Decent for NFT purchases.\nAided Zora in onchain media publishing.",
   "impactMetrics": [
     {
-      "description": "number of subscribers on YouTube",
+      "description": "USD revenue tracked on Leaderboard ",
+      "number": 311000,
+      "url": "https://leaderboard.onchainmagic.xyz/"
+    },
+    {
+      "description": "Unique Creator wallets tracked on OP.",
+      "number": 15538,
+      "url": "https://leaderboard.onchainmagic.xyz/"
+    },
+    {
+      "description": "Subscribers on Developer YouTube.",
       "number": 1150,
       "url": "https://www.youtube.com/@onchainexperiments"
     },
     {
-      "description": "number of posts on Optimism",
-      "number": 201,
-      "url": "https://optimistic.etherscan.io/address/0x7d1a46c6e614A0091c39E102F2798C27c1fA8892"
-    },
-    {
-      "description": "number of unique creators",
-      "number": 65,
-      "url": "https://testnet.zora.co/collect/ogor:0x8bed50b9f74eed9049a9d5178aa5a8a8e7c9cfa2"
-    },
-    {
-      "description": "ETH earned by creators",
-      "number": 0.5,
-      "url": "https://leaderboard.onchainmagic.xyz/"
+      "description": "Creator Payouts from Onchain Magic.",
+      "number": 119,
+      "url": "https://leaderboard.onchainmagic.xyz/magic"
     }
   ],
   "fundingSources": [],

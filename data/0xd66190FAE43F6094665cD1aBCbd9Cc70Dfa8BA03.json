@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://lighthouse.sigmaprime.io/",
-  "bio": "We are a collection of researchers, engineers and developers who build and maintain Lighthouse, a leading rust-based Ethereum consensus client.",
+  "bio": "A leading Ethereum consensus client written in rust.",
   "contributionDescription": "Our primary goal is to help support and grow the Ethereum ecosystem. Our current focus is on scaling the protocol via layer 2's such as Optimism. \n\nThe current long-standing effort is to hard fork Ethereum to introduce a new and significantly cheaper way for Layer 2's to reconcile with the base layer. This effort is known as the Deneb hard fork. \n\nAs of this writing we have officially merged our branch that supports the Deneb functionality into Lighthouse's unstable branch (links in this application).  This signifies the collective hard work of the team over the past year and we are on to thorough testing of the changes ahead of the official hard fork.\n\nDuring testing we expect to have more direct interaction with the optimism team to ensure optimism works as expected in this new regime.",
   "contributionLinks": [
     {

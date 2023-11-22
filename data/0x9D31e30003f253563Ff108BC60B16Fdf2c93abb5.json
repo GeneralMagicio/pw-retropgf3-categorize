@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "http://scry.finance/",
-  "bio": "Builder. Cofounded the Cryptodevs community. Auth EIP5075. Built synth infra, oracle infra, NFT infra",
+  "bio": "Scry is the ONLY self-hostable oracle infra. With crosschain data, VRFs and more",
   "contributionDescription": "Scry has directly enabled new use cases like being able to allow a mint for an NFT held on ETH or Base to unlock access on OP, or for games, or to allow protocols to distribute fees on other protocols to token holders on OP or even access assets on other networks such as Base to allow for easy compatibility in an increasing diverse space, especially with OP Stack.",
   "contributionLinks": [
     {

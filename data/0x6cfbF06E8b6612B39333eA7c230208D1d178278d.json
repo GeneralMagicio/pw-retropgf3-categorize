@@ -1,8 +1,8 @@
 {
   "applicantType": "PROJECT",
-  "websiteUrl": "https://twitter.com/JackieLeeETH",
-  "bio": "I believe there is a digital world with brands, ownership, and entertainment. I am actively building one at https://anotherworld.gg. ",
-  "contributionDescription": "1. We won OP's hackathon prizes and keep building it into a game-like digital world where players are 3D avatars to continue their web3/NFT adventures in a playful way. NFTs are usable in players' inventory. Tokens are keys to unlock access and gameplay. \n\n2. Another World is an OP+OP-stack game. Game items are NFTs airdropped via Optimism Mainnet. Our OP-stack is built for treasure-hunt battles where players win or lose on-chain items. We also supply in-game $OP airdrops for players who retrieve certain game items.\n\n3. Another World showcases a simplified UX for both web3 and web2 players to enter a 3D world. Web3 players opt-in by typing in ENS at the entry menu while web2 users are free to play using an URL. \n\n4. Our progress and game sample codes are open-source on GitHub.",
+  "websiteUrl": "https://anotherworld.gg",
+  "bio": "A Ready-Player-One-like 3D open world platform for gamifying token utilities",
+  "contributionDescription": "1. Another World won OP's hackathon prizes and we keep building it into a game-like digital world where players are 3D avatars to continue their web3/NFT adventures. NFTs are game items usable in players' inventory. Tokens can unlock access and gameplay. \n\n2. Another World is an OP+OP-stack game. NFTs can be acquired as in-game airdrops via Optimism. We built our OP-stack for treasure-hunt battles where players win or lose on-chain items. We also supply in-game $OP airdrops for players who retrieve certain game items.\n\n3. Another World showcases a simplified UX for both web3 and web2 players to enter a 3D world. Web3 players opt-in by typing in ENS at the entry menu while web2 users are free to play using an URL. \n\n4. Our progress and game sample codes are open-source on GitHub.",
   "contributionLinks": [
     {
       "type": "OTHER",
@@ -63,6 +63,11 @@
       "type": "CONTRACT_ADDRESS",
       "url": "https://optimistic.etherscan.io/address/0x0b69157f85fb767676428f0d32866ee2b53ffcc6",
       "description": "Game Prize contract that drips $OP to players who acquired certain game item"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/AnotherWorldDAO/L2MintWithAPE",
+      "description": "Pay $APE (or ERC20) on L1 to mint NFTs on L2 OP via cross-layer msg"
     }
   ],
   "impactCategory": [
@@ -70,7 +75,7 @@
     "END_USER_EXPERIENCE_AND_ADOPTION",
     "OP_STACK"
   ],
-  "impactDescription": "1. We are actively alpha-testing an OP + OP-stack powered digital world with web users and gamers on Epic Games Store and HyperPlay.\n\n2. Another World is bringing Bored Ape Yacht Club members and ApeCoin DAO communities into the Superchain ecosystem through a series of game-related activities and received top votes from the ApeCoinDAO community to fund further experiments.\n\n3. We showcased the shortest path from the official website to entering a 3D world using a web browser. Players can experience the gameplay first before using their wallets.\n\n4. Our open-source Unreal Engine game sample and in-game airdrop mechanism (serverless + contracts) can bring more game devs into the ecosystem and reduce the friction of in-game token airdrops.",
+  "impactDescription": "1. We are actively alpha-testing an OP + OP-stack powered digital world with web users and gamers on Epic Games Store and HyperPlay.\n\n2. Another World is bringing Bored Ape Yacht Club members and ApeCoin DAO communities into the Superchain ecosystem through a series of game-related activities and received top votes from the ApeCoinDAO community to fund further experiments.\n\n3. We showcased the shortest path from the official website to entering a 3D world using a web browser. Players can experience the gameplay first before using their wallets.\n\n4. Our open-source code samples (such as Unreal Engine in-game airdrop mechanism and paying on L1 for L2 NFT mints) can bring more game devs into the Superchain ecosystem and reduce the friction of L2 tokens.",
   "impactMetrics": [
     {
       "description": "Fastest way to play (in sec.) ",

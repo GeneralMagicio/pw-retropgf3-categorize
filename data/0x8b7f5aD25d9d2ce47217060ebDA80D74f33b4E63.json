@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
-  "websiteUrl": "https://berjon.com/",
-  "bio": "IPFS Ecosystem WG Lead",
+  "websiteUrl": "https://ipfs.tech/",
+  "bio": "IPFS is an open system to manage content-addressed data without a central server",
   "contributionDescription": "- Development and maintenance of the IPFS protocols and specifications.\n- Operation of two major IPFS gateways.\n- Production of one major IPFS implementation (kubo).\n- Advocacy, governance work, and clear specifications with an open and legitimate process to support the wider community.\n- Documentation and code examples to help people use IPFS.\n- Bringing IPFS to browsers, browser engines, and in cURL so as to support better dApps and bridge web2 over.",
   "contributionLinks": [
     {

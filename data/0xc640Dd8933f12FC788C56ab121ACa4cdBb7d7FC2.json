@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://lattice.xyz",
-  "bio": "Lattice is the team behind MUD (https://mud.dev): the OSS app framework for Ethereum, and OPCraft - an fully on-chain Voxel Game (https://shortest.link/opcraft)",
+  "bio": "Lattice is the team behind MUD, the OSS app framework for Ethereum, and OPCraft",
   "contributionDescription": "[MUD] We have been developing and maintaining MUD, an open-source application framework for ambitious Ethereum applications and Autonomous Worlds. MUD is the core foundation enabling dozens of Optimism and OP Stack projects, including Words3, Primodium, Sky Strife, and Kamigotchi.\n\n[OPCraft] Last year, using the OP Stack and MUD, we built OPCraft — a fully onchain voxel game. OPCraft battle-tested Optimism Bedrock before its release, uncovering several bugs, and raised awareness of the OP Stack's potential in gaming and Autonomous Worlds.",
   "contributionLinks": [
     {

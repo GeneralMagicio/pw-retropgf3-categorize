@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
-  "websiteUrl": "https://app.alphaday.com/b/optimism/",
-  "bio": "Alphaday is a powerful workflow aggregator that pulls in crypto news, on-chain data, social media, web3 services and much more into one customizable UI.",
+  "websiteUrl": "https://app.alphaday.com",
+  "bio": "Alphaday builds crypto experience dashboards.",
   "contributionDescription": "We have built an Optimism Community Dashboard to serve the Community. By having all the latest Optimism-related social feeds, blogs, on-chain metrics and access to dapps themselves, community members can quickly stay informed and interact with the Optimism ecosystem.\nOur complete proposal was published on Optimism Grants here: https://app.charmverse.io/op-grants/page-13585052320942648\nWe were redirected to RPGF's through feedback.",
   "contributionLinks": [
     {

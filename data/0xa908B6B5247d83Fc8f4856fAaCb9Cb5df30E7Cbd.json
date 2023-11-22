@@ -1,7 +1,7 @@
 {
-  "applicantType": "INDIVIDUAL",
+  "applicantType": "PROJECT",
   "websiteUrl": "https://icebreak-r.com",
-  "bio": "Hey there! I'm Lethal, a web3 developer focused on cross-chain ecosystem development and expansion where our motto is always \"Learn, earn and grow together\".",
+  "bio": "Breaking The Ice On DeFi",
   "contributionDescription": "We have designed and deployed a novel utility for NFTs called \"Proof-Of-Bridging\" which brings increased user adoption cross-chain. These IceBreak-R Quest Badges work by incentivizing our free-mint series on four unique layer-2s. This is an evolution of the learn-to-earn model by which users can gain participation rewards simply for bridging, minting and holding NFTs in our ecosystem. \n\nThe primary goal is to encourage exploration of emerging blockchains and networks by new users by simplifying the onboarding process and/or bridging in. By creating free-mints which also reward the users over time we have aligned the incentives for all participants to drive adoption and curiosity.",
   "contributionLinks": [
     {

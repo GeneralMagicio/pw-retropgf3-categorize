@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
-  "websiteUrl": "https://www.ethereum-france.com/",
-  "bio": "Ethereum France is a french association that unites a vibrant ecosystem through the organization of events, content creation, and the facilitation of exchanges.",
+  "websiteUrl": "https://www.ethereum-france.com/lassociation/",
+  "bio": "Ethereum France is an association that promotes Ethereum through events",
   "contributionDescription": "Since 2018, we have been organizing the Ethereum Community Conference (EthCC) every year, which has become the world's leading conference on Ethereum, focusing on technology and the community. At Ethereum France, we believe that sharing and transmitting knowledge is the most efficient way to develop a positive and fertile ecosystem.\n\nDuring EthCC[6], a track was dedicated to \"rollups,\" which highlighted Optimism's unique contributions to enhancing Ethereum's scalability.",
   "contributionLinks": [
     {

@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
-  "websiteUrl": "https://smolstudios.com/",
-  "bio": "Cofounder/Design lead of Smol - web3 production studio!",
+  "websiteUrl": "https://tokepad.xyz/",
+  "bio": "The easiest to create a functional, tradable token. Jump start your community!",
   "contributionDescription": "Tokepad is the easiest way to create a token and launch your community.\n\nIn one transaction, a user can deploy an ERC20 token, create a Liquidity Pool on Uniswap's v2, burn the Liquidity Provider's token to prevent a sudden withdrawal of this liquidity, and optionally send the token to defined addresses. The smart contract responsible for this interaction is deployed to the Base/Optimism to achieve low costs and speed that contribute to superior ease of use and accessibility of the product.\n\nTokepad simplifies token creation through a beautiful user interface and democratizes the process for everyone. It leads to fewer mistakes and fewer fraudulent behaviors in the space, making the end-user much more protected. ",
   "contributionLinks": [
     {

@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
-  "websiteUrl": "https://bernat.xyz",
-  "bio": "I work at Dune helping build the best analytics product in crypto. Outside of work, I build things for fun. Most recently built Slugs, an onchain URL shortener.",
+  "websiteUrl": "https://s.box",
+  "bio": "An onchain URL shortener, on Optimism.",
   "contributionDescription": "Slugs is the first URL shortener purpose-built for an onchain world.\n\nThe protocol is supported by a smart contract deployed on Optimism Mainnet, and a frontend which acts as an interface to the protocol and as a resolver to redirect requests to the right URL.\n\nThe Slugs protocol is a public good URL shortener with a series of unique properties which can only exist under an onchain paradigm: immutable aliases, censorship-resistant registrations, permanent ownership, tokenization of aliases allowing trade-ability, and referrer fees enshrined into the protocol.",
   "contributionLinks": [
     {

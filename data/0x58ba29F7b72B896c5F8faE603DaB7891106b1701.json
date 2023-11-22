@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
-  "websiteUrl": "https://www.dtso.org/",
-  "bio": "Growth & customer success lead @ Covalent. Jack of all chains, maxi of none.",
+  "websiteUrl": "https://www.covalenthq.com/",
+  "bio": "Covalent is the leading multichain indexer with 200+ blockchains indexed.",
   "contributionDescription": "Covalent has provided seamless access to realtime data for developers, analysts, and applications on the OP Stack. Since November 2021, Covalent has served as a key data infrastructure provider for Optimism, indexing OP Mainnet, OP Sepolia, OP Goerli, four OP Chains (Base, Zora, Public Goods Network, Mode), and six OP Stack Forks (opBNB, Mantle, Metis, Boba, Kinto, Loot Chain).\n\nOur Unified API provides transparency and visibility into assets across all supported OP Stack chains, while Increment serves as a BI Tool, enabling visualization of data and the extraction of valuable insights.\n\nThis allows developers and analysts to save time and resources and lets them focus on building applications and conducting analyses without worrying about the complexities of onchain data infrastructure.",
   "contributionLinks": [
     {

@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
-  "websiteUrl": "https://ethglobal.com/",
-  "bio": "ETHGlobal is the infrastructure of the Ethereum community. Over the last six years, we've been the team behind some of the ecosystem's favorite hackathons.",
+  "websiteUrl": "https://ethglobal.com",
+  "bio": "ETHGlobal is the infrastructure of the Ethereum community.",
   "contributionDescription": "Since RetroPGF 2 in March we've doubled down on our work to push forward the developer ecosystem of Optimism, the OP Stack, and the Superchain. In the last 207 days, 639 projects have been built at our events utilizing Optimism Mainnet or the OP Stack. That's an average of 3 projects a day!\n\nIn April, we ran Autonomous Worlds, an on-chain gaming hackathon powered by the OP Stack & MUD (0xPARC). Our favorite hack was Mudtendo, a customized OP Stack that allowed participants to use a 1985 Nintendo console to create collaborative stories.\n\nOur Aug hackathon, Superhack, was entirely focused on the Superchain vision and the OP Stack. Timed with the launch of Base, we collaborated with OP and every major OP Stack team to run a 1200-person, 2 week-long hackathon with too many great hacks to list.",
   "contributionLinks": [
     {

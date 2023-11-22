@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://github.com/crytic/slither",
-  "bio": "Engineering director at Trail of Bits. Author of Slither",
+  "bio": "Slither is a static analysis framework for smart contracts",
   "contributionDescription": "Slither is a Solidity and Vyper static analysis framework written in Python3. \n\nIt runs a suite of vulnerability detectors, prints visual information about contract details, and provides an API to easily write custom analyses. Slither enables developers to find vulnerabilities, enhance their code comprehension, and quickly prototype custom analyses.\n\nSlither has been used for many years by both security engineers and developers to secure their smart contracts. ",
   "contributionLinks": [
     {

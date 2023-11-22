@@ -1,7 +1,7 @@
 {
   "applicantType": "INDIVIDUAL",
-  "websiteUrl": "https://github.com/Chomtana",
-  "bio": "I am an Optimism TechNerd. I am a seasoned full-stack blockchain developer and node operator with years of expertise. Check my GitHub for details.",
+  "websiteUrl": "https://github.com/Chomtana/simple-optimism-node",
+  "bio": "Maintaining my fork of simple-optimism-node, an OP Node Deployment open source.",
   "contributionDescription": "I have maintained my own fork of \"simple-optimism-node\" to support the deployment of the latest OP Node.\n\n\"simple-optimism-node\" is an open-source Optimism's Full Node deployment script used by more than 250 developers and used to be featured in the official docs.\n\nDue to the outdated code in the official repo, developers were unable to run their nodes and were required to open support tickets for assistance. As a consequence, I have taken the initiative to maintain the \"simple-optimism-node\" script. \n\nAlthough I have made a pull request to the official repository, it's worth noting that the original author has been absent since July. Note that I am not the original author of \"simple-optimism-node\"; I am merely maintaining its compatibility with the latest OP Node.",
   "contributionLinks": [
     {
@@ -37,14 +37,9 @@
       "url": "https://docs.google.com/document/d/1P_dq8y1FHtqy-RSRfsRoR-b8wJsqEqyEaeJT0mPI0sM/edit?usp=sharing"
     },
     {
-      "description": "Github Stars (My Fork)",
-      "number": 5,
+      "description": "Github Stars",
+      "number": 20,
       "url": "https://github.com/Chomtana/simple-optimism-node"
-    },
-    {
-      "description": "Github Stars (Original Repo)",
-      "number": 260,
-      "url": "https://github.com/smartcontracts/simple-optimism-node"
     }
   ],
   "fundingSources": [],
@@ -54,7 +49,7 @@
   "certifiedNotDesignatedOrSanctionedOrBlocked": true,
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
-  "displayName": "simple-optimism-node (Maintaining my own fork)",
+  "displayName": " simple-optimism-node (Maintaining my own fork)",
   "applicantName": "Chomtana",
   "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xf01Dd015Bc442d872275A79b9caE84A6ff9B2A27.png",
   "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xf01Dd015Bc442d872275A79b9caE84A6ff9B2A27.png",

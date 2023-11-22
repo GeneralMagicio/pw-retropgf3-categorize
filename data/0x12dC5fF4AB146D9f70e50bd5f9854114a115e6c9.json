@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://www.ethosmobile.org",
-  "bio": "We are the Freedom Factory. We have built ethOS, a free and open source OS that embraces Ethereum and makes Web3 delightful on mobile devices.",
+  "bio": "ethOS is a free & open source mobile OS that embraces Ethereum",
   "contributionDescription": "We are the Freedom Factory. We have built ethOS, a free and open source OS that embraces Ethereum. ethOS unlocks the full potential of Web3. It features an onboard Ethereum light node and a System-level wallet, allowing for direct interaction between mobile applications and Ethereum, seamless switching between L1 and L2s (including Optimism), and gives users more security and control over their assets by leveraging device biometrics and notifications. We released the first build of ethOS in 7/22, starting with a fork of Android that could be flash installed on Pixel3 devices. We launched ethOS v2.0 at ETH Denver 2023, and in 8/23 we sold out of 50 Pixel 7a devices that come preinstalled with ethOS v3. We develop fast, and have a long list of existing functionality and features of ethOS.",
   "contributionLinks": [
     {

@@ -1,7 +1,7 @@
 {
-  "applicantType": "INDIVIDUAL",
-  "websiteUrl": "http://github.com/playerx",
-  "bio": "Software Engineer since 2005. I love creating online games 👾 entertaining people 🤡",
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://github.com/G7DAO/account-abstraction-webauthn",
+  "bio": "This is a research project to use WebAuthn with Account Abstraction.",
   "contributionDescription": "The goal of the project is to simplify the user onboarding flow by combining the web standard - WebAuthn (FaceID/Fingerprint Authentication) with Account Abstraction (ERC-4337).\n\nInstalling a chrome extension, or a mobile app to use a wallet is a big blocker for user onboarding. Instead, we should use modern standards like WebAuthn, Account Abstraction and create a SDK, which can be integrated into any website in a few lines of code.\n\nWebAuthn is already available in all major browsers, including mobile browsers, like Safari on iOS and Chrome on Android. There is no approval necessary from authorities (Apple, Google, etc.) to use this new approach.\n\nUsers don't need to know anything about blockchain to do the onboarding using this approach.",
   "contributionLinks": [
     {

@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://defi-lab.xyz/",
-  "bio": "Small independent team creating tools to help Defi Users quantify the risks and the rewards of providing Liquidity to various Defi Protocols. ",
+  "bio": "DefiLab: Open-source tools for DeFi risk & reward analysis. Founded in 2020",
   "contributionDescription": "We are actively contributing to the Optimism ecosystem by developing open-source tools designed to help DeFi users make informed decisions about liquidity provision. Our tools are free to use and focus on quantifying both the risks and rewards associated with various DeFi protocols. Specifically, we have created two key tools tailored for Optimism:\n\nUniswap V3 Strategy Simulator and Backtester for Optimism\nPerpetual Protocol Strategy Simulator and Backtester for Optimism",
   "contributionLinks": [
     {

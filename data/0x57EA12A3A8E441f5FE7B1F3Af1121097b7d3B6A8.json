@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://app.umbra.cash",
-  "bio": "Umbra is a stealth address protocol for EVM networks. Umbra enables privacy preserving payments where the receiver’s identity is not revealed.\n",
+  "bio": "Umbra is a stealth address privacy protocol for EVM networks.",
   "contributionDescription": "Umbra has been of the preeminent privacy tools available on Optimism since its launch in March 2022. In that time, is has processed over $50 Million in value. Nearly 13,000 addresses have registered to receive private payments, and more than 53,000 transactions have been occurred. As a tool for private payments, Umbra is especially useful on an L2 network like Optimism, where low fees make the payments use case more tenable than mainnet.\n\nScopeLift, the creators of Umbra, have also contributed to several EIPs to help standardize stealth addresses for all EVM networks. It is our hope these standardization efforts will be the next step to making Stealth Address technology broadly accessible and useful to all in the ecosystem.",
   "contributionLinks": [
     {

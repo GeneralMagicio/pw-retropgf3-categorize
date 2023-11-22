@@ -1,7 +1,7 @@
 {
   "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://www.raho.me/my-work",
-  "bio": "Hey everyone! We're Raho & Tnorm, and we've been analyzing OP recipient incentive data for the Collective on our own and later with the NumbaNerd program.",
+  "bio": "Analyzing Governance Fund Recipients to Increase Transparency in the Collective",
   "contributionDescription": "We have dedicated significant time to enhancing the transparency within the Governance Fund. We've conducted in-depth analyses on OP recipients, defined a new Impact Metric (Governance Impact), and developed a Dune Dashboards for tracking the Governance Impact of OP incentives and RPGF2. Following work completed at Messari, and outside of work for NumbaNerds, our work includes various initiatives, including many far-reaching Farcaster/Twitter threads and additional contributions to the OP Analytics Repo, all aimed at communicating transparency and accountability standards for funding and incentive impact analysis. We seek RetroPGF for our independent efforts in these areas.\n\nNote: This application is only for independent contributions to the Collective outside of NumbaNERDS & Messari.",
   "contributionLinks": [
     {

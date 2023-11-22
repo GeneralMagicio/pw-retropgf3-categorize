@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://immunefi.com/",
-  "bio": "Hello! My name is Hen and I'm part of the BD/GTM team here at Immunefi. Currently based in Brooklyn, NY.",
+  "bio": "Immunefi is a web3 focused bug bounty platform.",
   "contributionDescription": "We currently have ~15 Optimism projects that are running an Immunefi bug bounty program. Some notable projects that we have already worked with include Velodrome, Optimism, Synthetix, Extra Finance, etc. Immunefi has also partnered up with Spearbit to provide bug bounty programs across the Optimism ecosystem for mission-critical applications and platforms.\n\nImmunefi is engaged and constantly working with the Optimism foundation and OP labs team to ensure that we’re aligning ourselves with the community’s needs, expectations, and challenges. Immunefi is fully committed to being a core services provider for the OP ecosystem and we intend to keep our incentives aligned with the community so that we can help continue scaling the OP ecosystem in a safe and secure manner.",
   "contributionLinks": [
     {

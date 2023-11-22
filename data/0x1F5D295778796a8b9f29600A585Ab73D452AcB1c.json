@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://solady.org",
-  "bio": "Protocol lead: sound.xyz\n\nMaintainer: solady.org, erc721a.org",
+  "bio": "Gas optimized Solidity snippets",
   "contributionDescription": "- Hyper optimized low-level Solidity code, wrapped up in flexible high-level APIs.\n- Implements unique features (e.g. JSONParserLib, LibSort) that make Solidity feel like a proper-high level language.\n- Solady LibZip: Generalized calldata compression and Lz77 compression. With an accompanying JS / TS library.\n- Cross-pollination: novel math, optimization, EVM tricks developed in Solady are ported to other projects across the OP ecosystem.\n- Used by sound.xyz, OpenSea, 0xSplits, Optimism, Friendtech, etc.\n- Learning resource for Solidity inline-assembly.\n\nOverall, Solady empowers Solidity developers to develop harder, better, faster, stronger on OP ecosystem chains.",
   "contributionLinks": [
     {

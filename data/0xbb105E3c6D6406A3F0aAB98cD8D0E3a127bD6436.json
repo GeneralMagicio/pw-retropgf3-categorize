@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
-  "websiteUrl": "https://cryptozombies.io/",
-  "bio": "CryptoZombies is an interactive school that teaches you all things technical about blockchains.",
+  "websiteUrl": "https://cryptozombies.io",
+  "bio": "CryptoZombies: an interactive blockchain coding school",
   "contributionDescription": "CryptoZombies is an interactive school that teaches students to write smart contracts by making their own crypto-collectibles game. CryptoZombies was the first tutorial on the internet for NFTs and is still very relevant to the new crop of web3 developers looking to enter the industry today. The curriculum is focused on Solidity development, which also helps onboard new developers to Optimism. \n\nRecently, we've teamed up with the Optimism Foundation to build a new course, Optimism Unleashed, that teaches students to write, test, and deploy smart contracts on the OP Mainnet and use the newly released Superchain Faucet. The course is available at https://cryptozombies.io/en/optimism.\n",
   "contributionLinks": [
     {

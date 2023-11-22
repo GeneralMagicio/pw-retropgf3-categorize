@@ -1,7 +1,7 @@
 {
   "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://vasco.wtf",
-  "bio": "Building web3 stuff",
+  "bio": "Explorer for the Farcaster network",
   "contributionDescription": "I built https://vasco.wtf – a farcaster explorer that allows users to more easily interact with farcaster data that lies both in the OP contracts, but also the hubs. This tool makes life easier for developers starting to build farcaster clients or apps. It also abstracts some of the complexity of OP smart contract interaction.",
   "contributionLinks": [
     {

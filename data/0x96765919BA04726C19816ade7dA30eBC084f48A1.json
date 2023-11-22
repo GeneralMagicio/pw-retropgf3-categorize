@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://community.optimism.io/docs/contribute/contribution-path/numbaNERDs/",
-  "bio": "The NumbaNERDs program is designed to ensure that there is always high quality analytics and transparency around grant spending for delegates.",
+  "bio": "The NumbaNERDs program ensures the collective has quality analytics available.",
   "contributionDescription": "The NumbaNERDs program created deep dives on various grant recipient projects, improved data accessibility (by contributing to open source data infrastructure including Dune Spellbook and OP Analytics) and created mappings for deployers, improving the Optimism analytics ecosystem as a whole.",
   "contributionLinks": [
     {

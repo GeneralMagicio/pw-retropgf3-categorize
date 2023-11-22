@@ -1,7 +1,7 @@
 {
   "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://lucadonnoh.github.io/",
-  "bio": "Research @l2beat. I aim to help people better understand tech risks and to drive projects toward the common goal of a World Computer.",
+  "bio": "Blockchain researcher focused on security and scalability.",
   "contributionDescription": "Research and analysis related to OP stack.\n\nBlogposts:\n- Data Availability: Transaction Data vs State Diffs\n- Exploring the blobspace\n- Optimism Bedrock vs Arbitrum Nitro: Deposits\n\nPeer-reviewed paper:\n- Optimistic and Validity Rollups: Analysis and Comparison between Optimism and StarkNet, published in the proceedings of 5th Distributed Ledger Technology Workshop (DLT 2023) and accepted for publication in the journal Blockchain Research and Applications.\n\nData analysis:\n- Finality metrics\n- DA costs",
   "contributionLinks": [
     {

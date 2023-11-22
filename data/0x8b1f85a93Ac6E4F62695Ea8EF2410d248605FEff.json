@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://optimism-demo.unruggablenames.com/",
-  "bio": "ENS Subnames on OP Stack L2s",
+  "bio": "ENS Subnames on OP Stack L2s ",
   "contributionDescription": "The Ethereum Name Service (ENS) is a well established solution that allows for users to use human readable names, greatly enhancing the user experience, however it’s primarily based on L1 Ethereum and has limited support for L2s. We have developed a plug-and-play system (currently open source code and a demo app) where anyone with an ENS name can offer subnames, such as tom.avid.eth, on any OP Stack L2. Or work represents the first and only no-code plug-and-play system to allow anyone to configure their ENS name to offer subnames on OP Stack chains. We have also contributed to the overall research and development of ENS, and in particular ENS on OP Stack L2s by demonstrating the ability to register not only subnames but second level .eth names as well, such as vitalik.eth.",
   "contributionLinks": [
     {

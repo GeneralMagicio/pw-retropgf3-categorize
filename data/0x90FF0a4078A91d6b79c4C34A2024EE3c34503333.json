@@ -1,8 +1,8 @@
 {
-  "applicantType": "INDIVIDUAL",
+  "applicantType": "PROJECT",
   "websiteUrl": "https://medium.com/@Blockchain_Space",
-  "bio": "Content creator, I'm a fan of Web 3 and decentralization.",
-  "contributionDescription": "Several articles aimed at Russian speakers.\nI have published several articles that talk about blockchain, the Optimims project, its features, and how it helps solve Ethereum’s problems, such as high transaction costs and slow transactions.\nThe articles are full of information",
+  "bio": "Articles about Blockchain and Optimism",
+  "contributionDescription": "Several articles aimed at Russian speakers.\nI have published several articles that talk about blockchain, the Optimims project, its features, and how it helps solve Ethereum’s problems, such as high transaction costs and slow transactions..\nThe articles are full of information",
   "contributionLinks": [
     {
       "type": "OTHER",
@@ -17,7 +17,7 @@
   "impactMetrics": [
     {
       "description": "Number of article views",
-      "number": 350,
+      "number": 300,
       "url": "https://docs.google.com/document/d/1IzlLXjsLo1kKRTRCSZxw0PMztbn9M7Zjrbcg2I2YteU/edit?usp=sharing"
     }
   ],

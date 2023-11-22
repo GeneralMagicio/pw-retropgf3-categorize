@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://app.intotheblock.com/",
-  "bio": "IntoTheBlock is a leading onchain analytics provider with more than 90 indicators covering 700+ assets, used by thousands of retail and institutional investors.",
+  "bio": "ITB launched analytics for Optimism, Base, and projects building on the OP Stack",
   "contributionDescription": "Earlier this year, IntoTheBlock (ITB) added Optimism to its analytics platform. The release included analytics for Optimism, Base, and related Op Stack projects. Specifically, ITB Optimism analytics include over 50+ indicators covering 30+ Optimism-native tokens. \nITB’s investment for incorporating Optimism into its platform was approximately $490,000 including infrastructure, engineering, research and marketing resources:\n●\tData infrastructure and the ETL pipelines to index the Optimism blockchain. \n●\tComputation infrastructure used to calculate the indicators regularly. \n●\tEngineering resources required to build the data, analytics, APIs and frontend interfaces. \n●\tResearch resources used to model the indicators. \n●\tMarketing resources used to regularly publish content.",
   "contributionLinks": [
     {

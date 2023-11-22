@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
-  "websiteUrl": "https://github.com/rkrasiuk",
-  "bio": "doing things. reth dev",
+  "websiteUrl": "https://github.com/alloy-rs/",
+  "bio": "Set of high-performance libraries for interacting with Ethereum and EVM chains.",
   "contributionDescription": "Alloy, has emerged as a pivotal tool in the Ethereum and EVM-based chains ecosystem, providing high-performance, well-documented, and thoroughly tested libraries for interaction with Ethereum. \n\nInitially developed as ethers-rs and now rebranded and enhanced as Alloy, it has been instrumental in offering robust, efficient, and strongly-typed abstractions for submitting transactions, subscribing and transforming chain data, and interacting with smart contracts in Rust.\n\nThe evolution of Alloy signifies a substantial contribution to the Ethereum ecosystem, ensuring that developers are equipped with a stable, efficient, and powerful toolkit, thereby facilitating the development of secure and scalable applications on Ethereum and other EVM-based chains.",
   "contributionLinks": [
     {

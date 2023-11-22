@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
-  "websiteUrl": "https://numtel.github.io",
-  "bio": "Hello, I'm an independent developer building dApps.",
+  "websiteUrl": "https://coinpassport.net/",
+  "bio": "Proof of Personhood from your government ID",
   "contributionDescription": "Proof of Personhood is one way to enable democratic systems on chain that distribute voting power to each person instead of based on the size of the wallet. Coinpassport makes it easy to provide a strong signal to your individual humanity by linking your passport to your Ethereum wallet. For a fee of 3 USDC, Coinpassport uses Stripe Identity to verify your face matches your passport.\n\nCoinpassport has been live on Optimism mainnet since May 14, 2022 and has received 22 fee payments in that time.",
   "contributionLinks": [
     {

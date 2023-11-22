@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://tokenbound.world/",
-  "bio": "I'm Ravi the founder of Hypeshot. \n\nWe're currently building a crypto-enabled livestreaming platform and a set of creator tools.",
+  "bio": "Create ERC-6551 NFTs, and transfer assets to them",
   "contributionDescription": "We would like to receive RetroPGF for our ERC-6551 tooling. \nWe have built a website called tokenbound.world that let's you create new ERC-6551 NFTs, deploy existing NFTs into an ERC-6551, and transfer assets to them instantly. \n\nWe've completed a lot of the requirements for RFG-7: Tooling for 6551 - Tokenbound accounts. Building a no-code user interface that allows a NFT creator to:\n\nCreate a net new collection with tokenbound accounts or turn any of their collections on OP Chains into tokenbound accounts\n\nIssue tokens to any tokenbound accounts associated with their collection\n\nWe are the only place where you can create new Tokenbound accounts on Optimism. \n\nWe also created a subgraph for ERC-6551\n\n\n\n\n\n\n",
   "contributionLinks": [
     {

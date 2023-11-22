@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
-  "websiteUrl": "http://www.rabbithole.gg",
-  "bio": "Our mission is to increase global economic opportunity by matching users with onchain earning opportunities. RabbitHole is the team behind Quest Protocol!",
+  "websiteUrl": "https://rabbithole.gg",
+  "bio": "A protocol to target users & deploy onchain earning opportunities",
   "contributionDescription": "- **Quest Protocol & Quest Terminal** - the RabbitHole team has integrated the ~20 largest Optimism projects into Quest Protocol so anyone with OP can deploy quests permissionlessly for the top Optimism projects\n\n- **Proven growth of Optimism** - the Quest Protocol contract is one of the most used contracts on Optimism, ranking top #3 in the past 30 days and top 10 in the past 90 days, driving over 2m transactions (including third-party transactions driven by the protocol). \n\n- **Optimism Gateway** - RabbitHole has launched Optimism Gateway, an open source quest platform for any Optimism community member to launch an onchain quest for any popular Optimism project by depositing OP rewards in minutes. **Note: Any retroactive funding will be re-distributed through the Optimism Gateway.**",
   "contributionLinks": [
     {
@@ -100,6 +100,16 @@
       "description": "Number of OP projects supported",
       "number": 23,
       "url": "https://dune.com/queries/3125155/5214602"
+    },
+    {
+      "description": "Base transactions",
+      "number": 259680,
+      "url": "https://dune.com/rabbithole/base-gateway-quest-protocol"
+    },
+    {
+      "description": "Base Gas Fees driven",
+      "number": 29118.34,
+      "url": "https://dune.com/rabbithole/base-gateway-quest-protocol"
     }
   ],
   "fundingSources": [

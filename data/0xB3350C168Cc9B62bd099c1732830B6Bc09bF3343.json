@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
-  "websiteUrl": "https://github.com/0xJepsen",
-  "bio": "I’m a research engineer passionate about high-impact technology. My interests lie at the intersection of mathematics, computer science, and philosophy.",
+  "websiteUrl": "https://github.com/primitivefinance/arbiter",
+  "bio": "Arbiter is a free and open source EVM logic simualtor",
   "contributionDescription": "Arbiter is a public good security and analysis tool for the EVM ecosystem. The tool kit is free and open source and able to audit mechanism design which has historically been challenging. The tool is also able to model risk across many stochastic processes and historical data. The EVM logic simulator has been used to find critical vulnerabilities in the Portfolio smart contract system that auditors were previously unable to identify. Because of the tools speed and EVM execution parity, it allows for unparalleled quality and quantity of testing data for any smart contract system or application. As optimism maintains support for the EVM execution environment and is an extensive smart contract system, tooling across to ecosystem to help improve safety and security is paramount. ",
   "contributionLinks": [
     {

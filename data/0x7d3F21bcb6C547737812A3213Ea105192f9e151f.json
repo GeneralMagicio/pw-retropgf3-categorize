@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://www.rollup.codes/",
-  "bio": "R&D lead at LimeChain - a blockchain development company building infra & apps since 2017.",
+  "bio": "Rollup codes is an interactive reference specification for the rollup ecosystem.",
   "contributionDescription": "Rollup.codes serves as an open-source developer tool, providing devs with clarity on the differences between various rollups and their stacks. The website gives information on gas costs, custom precompiles, native precompiles support, system contracts, properties of the native L1 ⇔ L2 messaging protocol provided by the given rollup.\n\nCurrently, rollup.codes supports Optimism, Arbitrum, Polygon zkEVM and zkSync.",
   "contributionLinks": [
     {

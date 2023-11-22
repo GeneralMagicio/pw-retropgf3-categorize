@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://www.tally.xyz/",
-  "bio": "Tally is the most popular onchain governance app, powering many important onchain organizations within the Ethereum ecosystem.",
+  "bio": "Tally is an onchain governance app for Ethereum ecosystem",
   "contributionDescription": "Tally made several impactful contributions to the Optimism Collective over the past year, including developing a delegate portal, producing an in-depth technical research report on Superchain governance, and facilitating Delegation Week (an ecosystem-wide event focused on governance participation). Tally also built an L2 governance voting protocol on Optimism called Rollcall in early 2022.",
   "contributionLinks": [
     {

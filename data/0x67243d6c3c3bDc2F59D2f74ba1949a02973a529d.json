@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
-  "websiteUrl": "https://www.boilerrat.xyz/",
-  "bio": "My name is boiler, sometimes known as boilerrat, my Mom and Wife call me Chris.\nI am a contributor at Public HAUS, DAOhaus, and DAO Masons. ",
+  "websiteUrl": "https://publichaus.club/",
+  "bio": "PublicHAUS is the  decentralized governance  layer of the DAOhaus protocol.",
   "contributionDescription": "PublicHAUS governs DAOhaus, offering tools like DAOhaus SDK for easier Moloch DAO management. The DAOhaus Monorepo facilitates collaborative development through core, utility, data, and UI libraries. Community engagement is highlighted in events like Haus Party: 12 Days of DAOcember, exploring DAO topics. Community Calls on Discord foster open discussion on DAO/Web 3 topics. The infrastructure and community initiatives drive a collaborative ecosystem, making decentralized governance more accessible and streamlined.",
   "contributionLinks": [
     {

@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://socket.tech/",
-  "bio": "Socket is an interoperability protocol bringing seamless connectivity across blockchains. Applications build on Socket to power secure data and asset transfers.",
+  "bio": "Socket is an interoperability bringing seamless connectivity to blockchains. ",
   "contributionDescription": "Socket is an interoperability protocol that powers seamless asset & data transfers for apps across blockchains. 70+ wallets & apps including Metamask, Coinbase Wallet, Bungee, Synthetix, Polynomial, Kwenta, Lyra, Rainbow & Zerion leverage Socket for various cross-chain use cases.\nHere are our contributions to Optimism:\n\n- Enabled onboarding to Optimism right within 30+ wallets, not just from Mainnet but 10+ chains.\n- Improved cross-chain UX for 10+ Optimism native apps including top options and perp protocols with our open-source 'Socket Plugin'\n- Refuel, our public good to Optimism enables users to receive gas tokens, with no extra fees\n- Day 0 bridging support across our 100+ ecosystem for OP-Stack chains like Base, Zora, etc.\n- Built OP-Stack with Aevo to bring zero-cost L2<>L2 bridging",
   "contributionLinks": [
     {

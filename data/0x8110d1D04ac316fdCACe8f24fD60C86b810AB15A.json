@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
-  "websiteUrl": "https://commonsstack.org",
-  "bio": "We build OSS & cultural frameworks to enable Public Goods projects to evolve into decentralized, self-governing, regenerative economic systems. Impact = Profit!",
+  "websiteUrl": "https://www.commonsstack.org/",
+  "bio": "Fund & govern your mission with Augmented Bonding Curves & Aragon on Optimism.",
   "contributionDescription": "We launched the 1st Augmented Bonding Curve (ABC) for the Token Engineering Commons (TEC) in 2021, and $TEC has maintained parity with ETH in a bear market (only down 12% vs ETH) while the ABC collected $300k via swapping fees for TE Public Goods. This economic model is a significant milestone towards \"Impact = Profit\".\n\nIn 2023 we deployed Aragon OS & our CommonsDAO tools to Optimism, enabling truly decentralized DAOs on Optimism. Tao Voting features Delegation and \"Wait for Quiet\" to prevent last-minute vote manipulation. ABCswap.xyz enables communities to launch and interact with their own ABC, providing a no-code solution to launch economic systems like friend.tech.\n\nOur Conviction Voting model has been adopted by notable projects like Gitcoin, Giveth, TEC, 1Hive, BrightID, and more.",
   "contributionLinks": [
     {

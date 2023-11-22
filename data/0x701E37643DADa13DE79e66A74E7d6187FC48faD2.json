@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
-  "websiteUrl": "https://0xkofi.com/",
-  "bio": "- Onchain Data Scientist\n- Contributing @ Alchemy and DefiLlama\n- 2,200+ Stars on Dune (https://dune.com/niftytable)",
+  "websiteUrl": "https://dune.com/niftytable/account-abstraction",
+  "bio": "A Dune dashboard that presents data on the adoption of ERC4337 Smart Accounts",
   "contributionDescription": "𝗧𝗟𝗗𝗥\nBuilt a Dune dashboard on ERC4337 Smart Accounts. Provides valuable insight for teams building smart account infrastructure.\n\n𝗗𝗲𝘀𝗰𝗿𝗶𝗽𝘁𝗶𝗼𝗻\nThis dashboard breaks down \n- Overview statistics  (accounts deployed, monthly transactions .etc)\n- Bundler Performance (marketshare, revenue .etc)\n- Paymaster activity (marketshare, gas spend .etc)\n- Application usage by ERC4337 accounts \n\nIt is currently the most popular Dune dashboard for ERC4337 with 410+ stars. ",
   "contributionLinks": [
     {

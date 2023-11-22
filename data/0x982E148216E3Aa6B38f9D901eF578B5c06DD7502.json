@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
-  "websiteUrl": "https://twitter.com/strao_",
-  "bio": "I am a member of the Beam team and contribute to the ECO protocol. My current focus is on AA (ERC-4337) and improving UX of onchain products.",
+  "websiteUrl": "https://about.beam.eco",
+  "bio": "Beam is the easiest way to send money to anyone, anywhere. Built on OPStack + AA",
   "contributionDescription": "Beam is an attempt at what a Superchain wallet should look like. It solves the user confusion that can result from assets spread across multiple rollups. Beam’s ‘Supersend” feature is fully operational and has already proven that a solution to this challenge exists and that it can be delivered to users in a tool that is fast, cheap and a delight to use — with more than 70,000 users saving access to their Beam wallets. ",
   "contributionLinks": [
     {

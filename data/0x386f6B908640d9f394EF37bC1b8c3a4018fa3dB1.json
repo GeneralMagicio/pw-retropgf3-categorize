@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
-  "websiteUrl": "https://twitter.com/antonttc",
-  "bio": "My name is Anton, a solidity dev from Taiwan, one of the cohosts of ETHTaipei, and I also built some cool stuff with big DeFi option teams Opyn & Lyra",
+  "websiteUrl": "https://github.com/grappafinance",
+  "bio": "An option protocol that focuses on composability and liquidation aggregation",
   "contributionDescription": "Grappa aims to be the base and immutable layer for settling derivatives with expiries, e.g. options, spreads and exotic options, on all EVM chains. By having a shared settlement layer, Grappa makes sure different option products have minimum friction when it comes to liquidity exchange.\n\nBy being the base layer, Grappa will focusing on bridging liquidity between protocols, building cross chain engines, and liquidity exchange layer on top of all engines. This will help all option projects on Optimism with better user experience.",
   "contributionLinks": [
     {

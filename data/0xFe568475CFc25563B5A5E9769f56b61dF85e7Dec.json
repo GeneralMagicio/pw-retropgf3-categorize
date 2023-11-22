@@ -1,8 +1,8 @@
 {
-  "applicantType": "INDIVIDUAL",
-  "websiteUrl": "http://ethereumsanpedrosula.org/",
-  "bio": "👋 I develop compensation metrics systems on the blockchain.\n\nInterests: Community, graphics, education, open licenses, video games, and psychology.",
-  "contributionDescription": "We organize fully on-chain Optimism raffles with online and offline participants. We also take time to onboard newcomers to the event.\n\nWe provide artists with comprehensive support throughout their journey, from onboarding and NFT creation to raffling their NFTs in our Randomness Ceremony and monetizing their work.\n\nIn addition, we airdrop ETH tokens to newcomer participants and artists so they can purchase tickets to get in our events and cover gas expenses.\n\nWe also develop the smart contracts, website, and randomness generation mechanisms that underpin our raffles.",
+  "applicantType": "PROJECT",
+  "websiteUrl": "https://randomnes-ceremony-zkbabe.vercel.app/",
+  "bio": "Helping Latin American artists launch their NFTs with fun on-chain raffles 🎰",
+  "contributionDescription": "We organize fully on-chain Optimism raffles with online and offline participants. We also take time to onboard newcomers to the event.\n\nWe provide latam artists with comprehensive support throughout their journey, from onboarding and NFT creation to raffling their NFTs in our Randomness Ceremony and monetizing their work.\n\nIn addition, we airdrop ETH tokens to newcomer participants and artists so they can purchase tickets to get in our events and cover gas expenses.\n\nWe also develop the smart contracts, website, and randomness generation mechanisms that underpin our raffles.",
   "contributionLinks": [
     {
       "type": "GITHUB_REPO",
@@ -33,7 +33,7 @@
   "impactCategory": [
     "END_USER_EXPERIENCE_AND_ADOPTION"
   ],
-  "impactDescription": "Gathered on the Randomness Ceremony website, artists are guided and submit their NFTs to be featured and won by degens eager to acquire art and token prizes.\n\nOur website is becoming increasingly user-friendly, providing a positive experience for all visitors.\n\nWe are confident that our efforts are not merely onboarding users to Optimism, but also forging associations between the platform and enjoyable community experiences.\n\nAlso all our code is open source and uploaded to github.",
+  "impactDescription": "Latam artists are guided and submit their NFTs to be featured and won by degens eager to acquire art and token prizes.\n\nOur website is becoming increasingly user-friendly, providing a positive experience for all visitors.\n\nWe are confident that our efforts are not merely onboarding participants to Optimism, but also forging associations between the platform and enjoyable community experiences.\n\nAlso all our code is open source and uploaded to github.\n\nBy inviting the friends we've made all around the world I believe we are building trust and community.\n\n\n\n",
   "impactMetrics": [
     {
       "description": "Event counter in the new contract",
@@ -59,6 +59,11 @@
       "description": "latam featured artists",
       "number": 6,
       "url": "https://docs.google.com/presentation/d/1081g-mcyO6jzcZKaN-ELng6xTeIX8E8QGv91kkSa6PU/edit?usp=sharing"
+    },
+    {
+      "description": "Positive feedback",
+      "number": 5,
+      "url": "https://docs.google.com/presentation/d/1RVVHBcm2zIOD5zwxuELyU04d_l1lQV7GpmcVW0gBTRU/edit?usp=sharing"
     }
   ],
   "fundingSources": [],

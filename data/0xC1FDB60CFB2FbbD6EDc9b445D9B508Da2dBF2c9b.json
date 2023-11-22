@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://gashawk.io/",
-  "bio": "GasHawk saves users and institutions up to 95% on fees by monitoring the network and predicting the optimal time to submit a transaction over any time frame.",
+  "bio": "GasHawk saves users and institutions up to 95% on transaction fees.",
   "contributionDescription": "GasHawk provides a non custodial, automated, transaction manager focused on gas savings that can be used by end users, contract deployers, institutions and projects building on the OP Stack. We have already integrated with multiple apps in the ecosystem and provide much needed tooling and developer infrastructure which enables developers to cheaply and securely deploy and interact with dapps, improving the quality and security of applications, drive considerable value to the Optimism ecosystem, help retain projects and developers, and unlock new application designs.\n\nWe have also spent considerable amounts of time and resources providing research and implementation into Optimism Sequencer Address which shows we can save Optimism millions per year.",
   "contributionLinks": [
     {

@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
-  "websiteUrl": "https://humandao.org",
-  "bio": "humanDAO is a pioneering organization committed to transforming lives in underserved communities through the power of cryptocurrency and blockchain technology",
+  "websiteUrl": "https://op.humandao.org",
+  "bio": "Hope is an interactive, continually updated AI Assistant for the OP ecosystem",
   "contributionDescription": "Hope is a free, publicly available, continually updated AI Assistant that is helping users and developers on the OP Stack find answers quickly and easily. To date, we have provided responses to more than 130 user questions (directly through the website or as a response from our team to a query in the Optimism Discord), and this reach can readily be expanded with direct Discord and/or Telegram integration of the Assistant. \n\nWhat's unique about using Hope is that doing so directly supports people in underserved communities who are learning about and contributing to web3. humanDAO funds wages for contributors who monitor Optimism's social accounts, Discord, and other forums to ensure Hope remains up to date, provides accurate sources, and responds to user feedback. ",
   "contributionLinks": [
     {

@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://spearbit.com",
-  "bio": "We are a network of security experts offering industry-leading web3 security services for protocols like Optimism, Coinbase, OpenSea, Matter Labs, and Polygon.",
+  "bio": "Industry-leading web3 security for industry-leading protocols",
   "contributionDescription": "Spearbit is dedicated to providing the absolute highest quality of security services to the Optimism ecosystem. \n\nWe’ve worked directly with the OP team to review crucial components such as: \n\n• Drippie (OP's native trust-minimized conditional transaction system)\n• Optimism's RLP implementation\n• The Bedrock upgrade\n\nSpearbit has also provided security reviews for major protocols on OP such as:\n\n• BASE\n• Velodrome\n\nSpearbit has also performed a pro-bono security review of one of OP's most utilized libraries, Solady, which aims to provide gas-optimized Solidity utilities.\n\nIn line with our commitment to public goods like Solady, we promise to allocate all RetroPGF grants to future public goods security reviews in the OP ecosystem with the absolute best web3 security talent there is.\n\n🔴✨",
   "contributionLinks": [
     {

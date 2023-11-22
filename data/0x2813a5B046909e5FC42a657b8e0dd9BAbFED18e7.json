@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://deploy.upnode.org",
-  "bio": "We have developed a User Interface and offer open-source scripts for easy deployment of the OP Stack, including Full/Archive Nodes, Subgraph Indexer API, ...",
+  "bio": "UI for OP Stack & Node & Subgraph deployment with open-source scripts.",
   "contributionDescription": "We have developed a User Interface for easy deployment of the OP Stack, including both Full and Archive Nodes, the Subgraph Indexer API, and more. \n\nAdditionally, we offer open-source scripts to streamline the OP Stack deployment process. \n\nBeyond this, we actively contribute to fixing bugs in the core Optimism repository and collaborate with the roll-up team to deliver the best OP Stack deployment tool.",
   "contributionLinks": [
     {

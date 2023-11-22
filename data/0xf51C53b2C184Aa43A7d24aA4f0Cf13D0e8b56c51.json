@@ -1,7 +1,7 @@
 {
-  "applicantType": "INDIVIDUAL",
+  "applicantType": "PROJECT",
   "websiteUrl": "https://github.com/zemse/hardhat-tracer",
-  "bio": "I am a smart contracts engineer and contribute to ethereum developer tools in my free time.",
+  "bio": "Allows to see internal message calls and more on Hardhat framework.",
   "contributionDescription": "Problem: \n\nDebugging smart contracts was a huge pain for smart contract engineers back in 201x era. \n\nSolution: \n\nA hardhat plugin called \"hardhat-tracer\" has made debugging smart contracts on hardhat easier by allowing the developer to see the call tree with parsed calldata/returndata along with events, storage ops, and more EVM opcodes while running the tests. It also gives programmatic access to the trace information for writing more advanced tests.\n\nI've started this in 2019 for my personal use (even before Solidity console.log existed) and this tool was open-sourced as an installable hardhat plugin in 2020. It was again rewritten in 2022 to improve performance and add more features.",
   "contributionLinks": [
     {

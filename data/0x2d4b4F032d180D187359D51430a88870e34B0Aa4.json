@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://greenpill.network/",
-  "bio": "GreenPill is a network society of hackers, dreamers, and doers focused on using crypto to bring positive-sum digital systems to the world. ",
+  "bio": "Bringing positive-sum, regenerative digital systems to the world",
   "contributionDescription": "We're shifting from discussing crypto's potential global impact to demonstrating it through action. Our approach spans education, content creation, and real-world impact. We seek funding for expansion and supporting the GreenPill Network. Our initiatives include:\n\nEducation: We have the GreenPilled book on regenerative cryptoeconomics (multiple languages), a podcast, YouTube channel, a blog, local impact guides and other resources. We create onboarding resources for regen web3, Optimism and the PGN ecosystem.\n\nManager Round Training: We provide free training to support the growing demand for Gitcoin Grant Stack, helping communities fund public goods via QF rounds. Grants can be executed on OP and PGN.\n\nLocal Chapters: We have 22+ global chapters hosting web3 workshops and events.",
   "contributionLinks": [
     {
@@ -113,6 +113,11 @@
       "type": "OTHER",
       "url": "https://x.com/GreenpillNaija/status/1677088618584653824?s=20",
       "description": "Onboarding workshop   "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://drive.google.com/drive/folders/1Wbl-UgsZPaNGmkSE4zuO16froVOpJ2mz",
+      "description": "GreenPill Denver (community meetups, workshops)"
     }
   ],
   "impactCategory": [

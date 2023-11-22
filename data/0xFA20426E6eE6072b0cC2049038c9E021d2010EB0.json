@@ -1,7 +1,7 @@
 {
   "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://twitter.com/_sunce86",
-  "bio": "OpenEthereum client developer.\nCowswap backend developer.",
+  "bio": "OpenEthereum client developer. Cowswap backend developer.",
   "contributionDescription": "I was involved in implementing key features for \"Berlin\" and especially \"London\" hard fork for Ethereum mainnet client - OpenEthereum. At that time, OpenEtherem had a share of 15% of all Ethereum mainnet nodes. \nOne of my main contributions was EIP1559 implementation (fee mechanism) for OpenEtherem.\nExcept that, I was part of regular ETH DEV calls and main responsible for testing the client and communicating with other client team developers.\nOther than that, I also contributed to rust-web3 library.\nOther than that, I am one of the main developers of Cowswap backend project (https://github.com/cowprotocol/services), a decentralized exchange aiming to tackle the MEV problem and improve prices for end users by batching ofchain intent trades.",
   "contributionLinks": [
     {

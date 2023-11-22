@@ -1,7 +1,7 @@
 {
   "applicantType": "INDIVIDUAL",
-  "websiteUrl": "https://twitter.com/banterlytics",
-  "bio": "I like to make dashboard or visualizations for different projects.   ",
+  "websiteUrl": "https://dune.com/masroor",
+  "bio": "I am onchain data analysts who mostly had made dashboard related to NFT projects",
   "contributionDescription": "Made a dashboard which can be used to get erc 721 holders for all evm chains on dune analytics, it can also be used to get crossover of wallets between 2 erc 721 collections. Many people and different projects have used it. (https://dune.com/masroor/NFT-Holders-Snapshot)\n\nRecently I have been making different visualizations based on Friend tech data and share it on my twitter. (https://github.com/banterlytics/friendtech_analytics) ",
   "contributionLinks": [
     {

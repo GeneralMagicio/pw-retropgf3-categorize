@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
-  "websiteUrl": "https://nomic.foundation/",
-  "bio": "The Nomic Foundation is a non-profit advancing Ethereum. We provide open-source engineering software to empower developers to build decentralized software.",
+  "websiteUrl": "https://hardhat.org/",
+  "bio": "Hardhat is a development environment to build and deploy your Ethereum software",
   "contributionDescription": "We built Hardhat, one of the most widely used smart contract development environments. Hardhat allows users to compile, test, debug, deploy, and operate their Solidity smart contracts. We collaborated with the OP team in different ways to improve support for the OP community, as well as their own internal usage of the tool.\n\nWe built Hardhat for VSCode, an extension that adds advanced Solidity editing assistance to VSCode. We also repurposed the LSP backing it and built coc-solidity, which provides advanced Solidity editing assistance in Vim as well.",
   "contributionLinks": [
     {

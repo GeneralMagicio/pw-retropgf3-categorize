@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://across.to/",
-  "bio": "Across is a cross-chain bridge for L2s and rollups secured by UMA's optimistic oracle and is designed with capital efficiency and security in mind. ",
+  "bio": "A cross-chain bridge for L2s & rollups secured by UMA's optimistic oracle",
   "contributionDescription": "Across is a cross-chain bridge that connects Optimism to other EVM chains, including Ethereum mainnet, Arbitrum One, Polygon, zkSync Era, and Base. Our unique architecture allows users to receive funds in less time and at a lower cost than many other bridges connected to Optimism, including the Optimism canonical bridge. We are also the largest 3rd party bridge in the Optimism ecosystem to use an optimistic settlement mechanism. Across is secured by UMA's Optimistic Oracle, and has withstood multiple attempted attacks without missing a beat. \n\nThe Across DAO also recently voted on Optimism as the second hub for our ACX token. This has led to nearly $500k in sticky TVL migrating to this pool in Velodrome:\nhttps://velodrome.finance/liquidity?query=ac  ",
   "contributionLinks": [
     {

@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://linktr.ee/mesoreefdao",
-  "bio": "• 🌊🤿🐠🏖️🎣🛰️💻⛓️🔬✨• Mesoamerican Reef DAO • 🇲🇽-🇬🇹-🇧🇿-🇭🇳 • Decentralized Science for Regenerating #CoralReefConservation • ReSci • DeSci ReFi",
+  "bio": "DeSci DAO Regenerating Coral Reef Conservation in Mesoamerica",
   "contributionDescription": "As MesoReefDAO, we're excited about the potential RetroPGF recognition for our significant contributions to the Optimism ecosystem. Our focus has been on decentralized scientific efforts for coral reef conservation, a mission we've pursued since GG18 in 2023. Additionally, we've been actively promoting the use of Optimism L2 through accessible platforms like Twitter Spaces. This has helped highlight its advantages, particularly in terms of lower fees and scalability, encouraging broader participation in initiatives like Climate Solutions. These efforts underline our dedication to advancing sustainable solutions within the Optimism framework. Looking forward, we're prepared to expand our impact on coral reef conservation and broader environmental initiatives.",
   "contributionLinks": [
     {
@@ -16,9 +16,11 @@
     }
   ],
   "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
   ],
-  "impactDescription": "MesoreefDAO's impact on Optimism goes beyond financial support. It embodies a commitment to environmental stewardship, envisioning a sustainable future integrated with DeSci. Our efforts empower a community of scientists, showcasing the transformative potential of Decentralized Science in coral reef conservation.\n\nThrough MesoreefDAO's adoption, we've facilitated substantial funding for projects restoring and preserving coral reefs in the Mesoamerican Reef. Using Quadratic Funding, we've provided vital financial stability, enabling projects to thrive and contribute effectively. Urging contributors to vote for Coral Reef Conservation projects highlights our dedication to safeguarding these vital marine ecosystems.",
+  "impactDescription": "MesoreefDAO's impact on Optimism goes beyond financial support. It embodies a commitment to environmental stewardship, envisioning a sustainable future integrated with DeSci. Our efforts empower a community of scientists, showcasing the transformative potential of Decentralized Science in coral reef conservation.\n\nThrough MesoreefDAO's integration into the OP Stack, we actively explore and facilitate substantial funding for projects restoring and preserving coral reefs in the Mesoamerican Reef. Leveraging Quadratic Funding with Gitcoin's support, we offer crucial financial stability, empowering projects to make meaningful contributions. Encouraging contributors to vote for Coral Reef Conservation projects underscores our commitment to safeguarding vital marine ecosystems.",
   "impactMetrics": [
     {
       "description": "# Contributors MesoReefDAO QF GG18 OP",
@@ -26,7 +28,7 @@
       "url": "https://docs.google.com/spreadsheets/d/133eTg4V0iSsK0Id3iBMV1eHRogeWhJm91H2t0fWL0WE/edit#gid=254815602"
     },
     {
-      "description": "5.1 Tweet Impressions MesoReefDAO GG18",
+      "description": "5.1 Twitter Impressions since GG18",
       "number": 46000,
       "url": "ipfs://bafkreigxz7hcxum7y7qbycoi3ezpnttfpkbfx5bmecc3q3csw4j74j5r64"
     }

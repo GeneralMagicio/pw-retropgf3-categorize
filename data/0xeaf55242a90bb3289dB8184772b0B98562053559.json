@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://airstack.xyz",
-  "bio": "Hi! I'm Jason Goldberg, founder and CEO of Airstack",
+  "bio": "Airstack: The easiest way to integrate everything web3",
   "contributionDescription": "Airstack provides AI-powered APIs for searching across blockchains, dapps, and protocols and easily integrating into any application. \n\nAirstack is rapidly becoming go-to middleware for web3 ecosystems such as XMTP, Lens, Farcaster, 6551, POAPs, NFTs, and Mar-Tech. The company's AI-powered APIs uniquely enable devs to integrate cross-chain, cross-dapp, cross-protocol -- enabling composability and saving devs months of work and costs. Before Airstack devs would have to learn each protocol and keep up with their contracts, reorgs, versions and build backends to ingest their data; with Airstack they literally just plug-and-play APIs and keep moving. \n\nIn Q3 2023 Airstack extended its capabilities to Farcaster/Optimism and Base blockchains. ",
   "contributionLinks": [
     {

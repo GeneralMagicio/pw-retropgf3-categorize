@@ -1,9 +1,14 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://cryptomind.group/research/",
-  "bio": "We are Cryptomind Research, recognized as one of the leading crypto researchers in Thailand with the biggest community and audience.",
+  "bio": "Cryptomind Research, one of the leading crypto researchers in Thailand",
   "contributionDescription": "We make Optimism widely known and understood in Thailand. \n\nWe have made contents that provide knowledge about Optimism. We have helped the Thai community to better understand Optimism, including the fundamentals of Optimism, the potential growth opportunities for Optimism in the future, various upgrades, and extensive information about the projects in Optimism ecosystem.\n\nWe are Cryptomind Research, recognized as one of the leading crypto researchers in Thailand. We are the most well known crypto research house in Thailand with the biggest community and audience. Our articles and reports are from one of the most experienced teams in crypto space.",
   "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://docs.google.com/presentation/d/1suinyrIsvO7-rhBIVGyVSbVzE7LeJ8gY1aEW5nTOGFU/edit?usp=sharing",
+      "description": "Introduction to Layer 2 Full Version (Book)"
+    },
     {
       "type": "OTHER",
       "url": "https://cryptomind.group/research/an-introduction-to-the-optimism/",
@@ -12,7 +17,7 @@
     {
       "type": "OTHER",
       "url": "https://cryptomind.group/research/ethereum-layer-2/",
-      "description": "Layer 2 (Article)"
+      "description": "Ethereum Layer 2 (Article)"
     },
     {
       "type": "OTHER",
@@ -21,28 +26,13 @@
     },
     {
       "type": "OTHER",
-      "url": "https://cryptomind.group/research/mantle-network-potential-disruptor-in-the-rollup-ecosystem-2/",
-      "description": "Mantle Network (Article)"
-    },
-    {
-      "type": "OTHER",
-      "url": "https://cryptomind.group/research/gho-stablecoin-aave-launch-ethereum/",
-      "description": "AAVE GHO Stablecoin (Article)"
-    },
-    {
-      "type": "OTHER",
       "url": "https://cryptomind.group/research/pendle-finance-deep-dive/",
       "description": "Pendle Finance Deep Dive (Article)"
     },
     {
       "type": "OTHER",
-      "url": "https://cryptomind.group/research/uniswapx-free-gas-mev-protection/",
-      "description": "Uniswap X (Article)"
-    },
-    {
-      "type": "OTHER",
-      "url": "https://cryptomind.group/research/introduction-to-layer-2-by-cryptomind-research-full-version/",
-      "description": "Introduction to Layer 2 Full Version (Book)"
+      "url": "https://cryptomind.group/research/mantle-network-potential-disruptor-in-the-rollup-ecosystem-2/",
+      "description": "Mantle Network (Article)"
     },
     {
       "type": "OTHER",

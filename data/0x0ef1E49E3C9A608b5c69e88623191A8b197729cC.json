@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://cielo.finance",
-  "bio": "Hi! My name is Matt and I'm the co-founder of Cielo, where we make onchain activity readable and digestible for everyone.\n\nBeen in the crypto space since 2018.",
+  "bio": "Building the interpretation layer for Web3.",
   "contributionDescription": "Cielo provides tooling for interpreting onchain activity on Optimism. This includes:\n\n1. Web app that labels and filters Optimism transactions\n2. Custom user generated lists of themed wallets e.g. “High Volume Optimism Traders”; “Velodrome Power Users”\n3. Token tracking for Optimism assets e.g. $OP, $VELO\n4. Customizable Telegram + Discord alerts for Optimism communities\n\nOptimism was the first L2 Cielo added support for (April 2022) and continues to dominate our operations and user activity. \n\nWe have expanded to include other chains of the OP Stack and have over 45,000 users .\n\nIn August, Cielo became the first wallet tracking service to add support for Base, providing onchain analytics during the L2’s first weeks of operation.",
   "contributionLinks": [
     {

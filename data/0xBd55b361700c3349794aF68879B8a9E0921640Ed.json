@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
-  "websiteUrl": "https://x.com/raybankless",
-  "bio": "BanklessDAO Turkish Node: Bridging global Bankless & Turkish community with localized web3 resources & education for financial sovereignty.",
+  "websiteUrl": "https://linktr.ee/banklesstr",
+  "bio": "BanklessDAO's subDAO for Turkish community expansion.",
   "contributionDescription": "Bankless Turkish participated in Optimism DAOs Season 4 to create multimedia content in Turkish. We carried our blog from web2 to web3 by selecting Mirror and allowing our community to mint articles on optimism.\n\nWe organised a physical onboarding workshop creating new wallets and doing hands on onboarding with token transfers and NFT minting. Collaborated with Otterspace.xyz for souldbound NFTs on Optimism.\n\nWe also collaborated with Greenpill Turkey and shared our know how about grants and fundraising. With their connections to legal NGOs, we opened an account for Greenpill on giveth.io and onboarded 4 NGOs for fundraising using Safe{Wallet} on Optimism.\n\nSince there is quite a bit of articles and tweets, we made a spreadsheet with the list in the first link.\n\n\n\n",
   "contributionLinks": [
     {
@@ -82,7 +82,7 @@
     {
       "type": "OTHER",
       "currency": "USD",
-      "amount": 100,
+      "amount": 43,
       "description": "Part of Gitcoin Citizens Round BanklessDAO Project"
     }
   ],

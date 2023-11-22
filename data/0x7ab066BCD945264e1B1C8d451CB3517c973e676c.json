@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://www.castlecapital.vc/",
-  "bio": "Castle Capital is a research-driven advisory firm providing services to a myriad of projects and research publications for the crypto space.",
+  "bio": "Castle Capital provides research publications for the crypto space.",
   "contributionDescription": "Besides covering Optimism related projects in our newsletter, we are midway through publishing a research series on Optimism RetroPGF Round 2:\n- Part 1: Breaking down the exact behavior of grant recipients (holding/selling/untraceable) and providing an open-source dashboard with their movements\n- Part 2: Diving into more detail for some of the recipients\n- Part 3: Our assessment of the RetroPGF and our recommendations for Optimism governance\n\nAdditionally, we have just kickstarted a research series on Modular Blockchain Architecture that breaks down the wider thesis on scaling blockchains, especially Ethereum. Find our initial intro piece here: https://chronicle.castlecapital.vc/p/modular-thesis-scaling-web3-rollups",
   "contributionLinks": [
     {

@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://app.acryptos.com/",
-  "bio": "BD & Growth Lead @ ACryptoS",
+  "bio": "Liquidity Manager & Optimizer - for V3 CL DEXs and Lending Protocols",
   "contributionDescription": "- liquidity manager & yield optimizer launched 2020. Supported OP Mainnet since 2022\n- brought in TVL via unique strategies that automate + inc. yields for users\n\n- Single-Token Vaults: Optimized the leveraged same-token borrow/supply on lending protocols. Attracted users + TVL via our automation and consistent APY, no IL and no liquidation risks. Started with Sonne, then expanded to partner with dForce\n\n- Automated Conc. Liquidity Manager (ACLM) Vaults: Simplified the process in bringing users to V3 CL DEXs - Users easily provide liquidity (no hassle of setting ranges or out-of-range worries) We automate the ranges and positions, offer single-token deposits, fully automated rebalancing\n\n- We expanded to Base Chain this year. Integrated and brought TVL to Moonwell, Sonne, UniV3 and SushiV3",
   "contributionLinks": [
     {

@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://www.synapseprotocol.com/",
-  "bio": "Hi, I am a contributor to Synapse Labs and the Synapse DAO",
+  "bio": "Synapse DAO maintains the Synapse Bridge and other onboarding tooling",
   "contributionDescription": "The Synapse DAO has contributed to bridge and onboarding tooling to make it easier to bring assets and users into the ecosystem in the following key ways:\n\n- Maintaining one of the leading on and off ramps for the ecosystem \n- Support and integrations for new OP Stack chains like Base\n- Fast Deposit bridging from any chain into the Optimism ecosystem\n- Research and implementation of new bridging paradigms – launching Concentrated Liquidity\n- Integrations with key ecosystem projects like Olympus, Layer2DAO etc. to increase liquidity. \n",
   "contributionLinks": [
     {

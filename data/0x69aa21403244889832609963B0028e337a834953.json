@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://cryptostats.community",
-  "bio": "CryptoStats creates public-goods data sites such as CryptoFees.info",
+  "bio": "CryptoStats creates public-good data websites, such as CryptoFees.info",
   "contributionDescription": "Our team has built and continues to maintain a number of valuable info sites, most notably CryptoFees.info and L2Fees.info. These sites have become popular throughout the community for their ability to communicate fundamentals of the blockchain ecosystem and understand the various projects in these ecosystems.\n\nMaintaining these sites requires us to maintain over 100 different adapters to gather data, while collaborating with the respective teams behind these projects. Our team must also work through the ever-growing backlog of new protocols (chains, DeFi protocols, etc) that are aiming to be listed on the site.",
   "contributionLinks": [
     {

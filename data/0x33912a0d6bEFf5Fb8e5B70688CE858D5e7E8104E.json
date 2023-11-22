@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://linktr.ee/newtroarts",
-  "bio": "Newtro Arts, is a Latin American artists collective that aims to promote, educate, and introduce artists and cultural agents to blockchain technology and NFTs.",
+  "bio": "Latin American artists and w3b culture promoters collective.",
   "contributionDescription": "- Our partnership with Zora has led to monthly collective drops, generating so far an impressive 23,000 mints and $26,000 in revenue for artists. \n- Hosted pioneering panels in collaboration with renowned NFT creators like @botfrula, and curating innovative physical and tokenized exhibitions. \n- Tokenized artworks from indigeneous cultures featured at the Carrousel du Louvre, preserving indigenous cultural heritage. \n- We've educated more than 150 artists and connected with over 500 crypto enthusiasts through our free 'Arts and W3B' workshops since late 2022, fostering meaningful connections with influential Latin American NFT artists. \n\n\nNewtro Arts is empowering Latin American artists, preserving cultural heritage, and leaving an enduring legacy in the digital art and blockchain world",
   "contributionLinks": [
     {
@@ -37,8 +37,8 @@
     {
       "type": "OTHER",
       "currency": "USD",
-      "amount": 1,
-      "description": "As long as we receive resources, we can create impact (as demonstrated)"
+      "amount": 780,
+      "description": "Newtro's \"Support Token\" in Zora mints from community"
     }
   ],
   "payoutAddress": "0xc83638AA24A3ee76846eBa0a1275045a5EBefaE9",

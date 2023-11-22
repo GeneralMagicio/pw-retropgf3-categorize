@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://trueblocks.io",
-  "bio": "Thomas Rush, TrueBlocks' founder, is a two-time recipient of Ethereum Foundation grants. His firm, TrueBlocks delivers fast indexing data for blockchains.",
+  "bio": "Indexes EVM blockchains using a fully decentralized and local-first stack.",
   "contributionDescription": "TrueBlocks built a fully decentralized, open-source data indexing solution available to EVM-based blockchains (Optimism, Ethereum Mainnet, and others).\n\nUsers who want censorship-resistant, private, cheap, and fast access to unquestionably accurate chain data–free of any intermediaries and their direct or indirect costs–use TrueBlocks' local-first software.\n\nTrueBlocks uniquely enables Optimism and Ethereum users of all types to:\n\n- Build complete indexes as it looks for “every appearance of every address on the blockchain,”\n- Access pre-built indexes via IPFS and TrueBlocks’ Unchained Index smart contracts, which cheaply and equitably share the index for the public good,\n- Retrieve their on-chain data directly, cheaply, and quickly with consumer-grade hardware.\n\n",
   "contributionLinks": [
     {

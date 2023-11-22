@@ -1,7 +1,7 @@
 {
   "applicantType": "INDIVIDUAL",
-  "websiteUrl": "https://twitter.com/0xfuturistic",
-  "bio": "jamming on-chain",
+  "websiteUrl": "https://github.com/0xfuturistic",
+  "bio": "hacking the op stack",
   "contributionDescription": "I developed several hacks for the OP Stack, introducing concepts such as sequencer commitments, recursive rollups, and the tokenization of the OP Stack proposer. These hacks were modifications directly on the repo, with a few being developed at hackathons and most being developed as research side-projects.",
   "contributionLinks": [
     {

@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://blockhead.info",
-  "bio": "frontend dev・founder/decentralized data wrangler blockhead.info・UI/UX abstractionist・DeFi/web3 builder・hackathon bounty hunter・code artist・dropout・23・prev. dYdX",
+  "bio": "Universal portfolio tracker + browser for EVM chains, DeFi apps + web3 protocols",
   "contributionDescription": "Blockhead is a universal crypto/DeFi/web3 browser, implemented as a data-agnostic client-side web app with swappable data sources. Under the hood is a suite of highly composable Svelte-based UI/UX primitives which I continuously update and integrate with new protocols and data providers at various Ethereum/web3 hackathons.\n\nBlockhead started as a hackathon project at ETHGlobal's ETHOnline 2020, and I have been building it in the open for the past three years as a public good.",
   "contributionLinks": [
     {

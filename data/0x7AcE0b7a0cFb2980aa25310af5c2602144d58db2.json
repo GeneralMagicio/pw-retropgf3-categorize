@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://daostar.org/",
-  "bio": "DAOstar is the standards body for DAOs with 80+ member organizations. Our standards cover DAO metadata, attestations, grants, regulatory compliance & more. ",
+  "bio": "The standards body for DAOs, with 80+ member organizations. ",
   "contributionDescription": "We help protocols, service providers, and DAOs on Optimism participate in, track, and benefit from standards for DAO metadata, proposals, governance, grants, regulatory compliance, and more.\n\nOur direct contributions to Optimism include: \n1. authoring EIP-4824,\n2. deploying and maintaining the EIP-4824 contracts, subgraphs, and explorer for Optimism,\n3. simplifying daoURI creation by building supporting infrastructure,\n4. engaging 20+ DAOs and tools on Optimism, with the Optimism Collective, ShapeShift, Unlock Protocol, Snapshot X, and LXDAO committing to adopt EIP-4824, and\n5. authoring standards on grants management and attestations. \n\nOur collaborative efforts have streamlined governance on Optimism and positioned DAOstar’s standards as key drivers for the ecosystem's DAO strategy.",
   "contributionLinks": [
     {

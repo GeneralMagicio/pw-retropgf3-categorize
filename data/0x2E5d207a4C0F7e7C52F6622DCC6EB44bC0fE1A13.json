@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://www.unidex.exchange/",
-  "bio": "The meta-aggregator of everything in DeFi... \n\nAggregating Perps & Swaps for the deepest liquidity on-chain",
+  "bio": "The meta-aggregator perps, swaps, and free public infrastructure for all users",
   "contributionDescription": "- First Meta-aggregator available on optimism\n- First Perp aggregator available on optimism\n- First Free RPC Meta-aggregator available on optimism\n- Launched an intent-based gasless swap platform for optimism which batches orders together\n- Launched our Magma testnet which is a modified OP stack app chain for perps and controlled MEV",
   "contributionLinks": [
     {

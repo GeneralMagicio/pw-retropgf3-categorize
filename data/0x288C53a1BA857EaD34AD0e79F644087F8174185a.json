@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
-  "websiteUrl": "https://weekinethereumnews.com/",
-  "bio": "Week in Ethereum News is a weekly newsletter about Ethereum.  Since August 21, 2016.\n\nPublisher: Evan Van Ness.  Editor (since May 2021): Andrew B Coathup.",
+  "websiteUrl": "https://weekinethereumnews.com",
+  "bio": "Weekly newsletter about Ethereum.  Since August 21, 2016.",
   "contributionDescription": "Week in Ethereum News (weekly newsletter) keeps you up to date on Ethereum, so you can spend less time on X (Twitter) and Reddit.\n\nCoverage includes Optimism & OP Stack, Retro PGF, stuff for developers and apps on the OP Stack.\n\nSponsor slot used to promote Retro PGF 2 & 3",
   "contributionLinks": [
     {

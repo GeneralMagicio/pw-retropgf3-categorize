@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://www.initc3.org/",
-  "bio": "OP citizen since RetroPGF 2, Research ops @ Flashbots, Research Program Manager @ IC3",
+  "bio": "IC3 is a multidisciplinary academic blockchain research initiative",
   "contributionDescription": "IC3 research has contributed the foundation and growth of blockchain systems, including Optimism and Ethereum. We encourage open-source and applied blockchain research in academia. Our research of impact to Optimism includes work on voting and Dark DAOs, identity systems, security and cryptography, MEV, consensus, wallet design, and regulation.\n\nIC3 facilitates collaboration across disciplines like computer science, cryptography, law, economics, distributed systems, and more through funding and events. We host retreats, an annual hackathon, co-organize The Science of Blockchain Conference (SBC), have a research blog and a monthly newsletter. \n\nIC3 is an initiative of faculty at CMU, Cornell, Cornell Tech, EPFL, ETH Zurich, University of Bern, UC Berkeley, UCL, UIUC, SMU, and the Technion. ",
   "contributionLinks": [
     {

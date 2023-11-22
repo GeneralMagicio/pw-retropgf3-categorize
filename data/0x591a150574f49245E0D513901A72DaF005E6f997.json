@@ -1,7 +1,7 @@
 {
   "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://explorer.gitcoin.co/#/round/10/0xfb88676220d1dab3b068c86d1ca338794e1b48cf",
-  "bio": "Hi my name is Koko! I am a Neuroscience nerd, governance lover and web3 enthusiast. I work at the Ethereum Foundation and contribute to SafariDAO ✨",
+  "bio": "Onboarding hackathon projects to Gitcoin Grants on OP mainnet",
   "contributionDescription": "By leading the way in onboarding projects as the first hackathon to experiment with Gitcoin Grants stack, I held multiple live sessions in order to introduce teams unfamiliar with Optimism to to the network. This interaction allowed participants to create wallets on the Optimism mainnet, make fund transfers, and create multisig wallets on Safe in order to engage with Gitcoin Grants.\n\nIn order to submit a project teams were asked to learn about how to deploy their hackathon project on Optimism. ",
   "contributionLinks": [
     {

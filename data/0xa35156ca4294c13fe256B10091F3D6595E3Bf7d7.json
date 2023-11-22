@@ -1,7 +1,7 @@
 {
   "applicantType": "INDIVIDUAL",
   "websiteUrl": "https://warpcast.com/brianjckim.eth",
-  "bio": "I'm currently navigating the consumer crypto idea maze. I mostly hang out on Farcaster.",
+  "bio": "Hanging out on Farcaster",
   "contributionDescription": "I built an image-focused client for Farcaster, which recently migrated to OP Mainnet. Given that most of the existing Farcaster clients focus on \"words\", I wanted to provide a way for users to showcase all of their visual content on the Farcaster network. Users can view feeds of images sorted by Farcaster channels (which are like decentralized subreddits organized around an NFT) and by different users, including the ones they've liked. Although it's a relatively simple application, I've received great feedback from the community so far.",
   "contributionLinks": [
     {

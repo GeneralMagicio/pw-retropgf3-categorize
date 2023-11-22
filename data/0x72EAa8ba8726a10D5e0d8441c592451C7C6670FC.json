@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://www.alchemy.com/",
-  "bio": "Building EVM account abstraction infrastructure, open standards and education to onboard the next billion users",
+  "bio": "Building EVM account abstraction infrastructure, open standards and education",
   "contributionDescription": "Alchemy's Account Kit is complete toolkit for EVM developers to embed ERC-4337 smart accounts in their apps. Account Kit incorporates: \n\n- Rundler, an open sourced bundler in Rust, tailored to Optimism and Base fee markets\n\n- aa-sdk, an open sourced library to integrate and deploy smart accounts\n\n- Light Account, an open sourced, audited and gas-optimized smart account with factories on Optimism and Base\n\n- Gas Manager, a performant ERC-4337 paymaster \n\nAlchemy has also launched and is working with the community on Ethereum EIP: ERC-6900, a standard for smart accounts and plugins designed to foster open innovation and interoperability. \n\nFinally, Alchemy has produced extensive account abstraction educational content and developer documentation.",
   "contributionLinks": [
     {

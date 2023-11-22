@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://bmx.morphex.trade/",
-  "bio": "Hi, I'm Morpheus - the co-founder and lead developer for BMX by Morphex, a perpetual DEX on Base.",
+  "bio": "BMX is a perpetual DEX built on Base with unique tokenomics.",
   "contributionDescription": "BMX by Morphex is a derivative trading platform that uniquely improves capital efficiency by allowing liquidity providers access to their underlying market-making liquidity (BLT). This is achieved through our auto-compounding wrapper (wBLT), which is transferable. Our native protocol liquidity is wBLT-BMX, demonstrating that wBLT can be paired with any asset and continue to earn wBLT rewards. wBLT can also be collateralized. LPing is inherently complex, to support user education, we intentionally named our liquidity after a sandwich, for the meme and for the concept of multiple ingredients (assets) combined to form one sandwich (token). In our documentation, we dive deep into user education, benefits/risks, and concept modeling as we believe onboarding users from CEX to DEX depends on it!",
   "contributionLinks": [
     {

@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://hop.exchange/",
-  "bio": "Hop DAO governs the growth & direction of Hop Protocol. In doing so, the DAO & its participants naturally help accelerate the growth of the L2 ecosystem.",
+  "bio": "Hop DAO governs Hop Protocol and accelerates growth of the cross-chain ecosystem",
   "contributionDescription": "Hop Protocol has created an L2 bridge experience that has helped over 300k users onboard more than $725 million into the Optimism ecosystem and has accounted for over 1 million transactions on Optimism chains. Hop has supported Optimism and Base since day 1 of their public launches, as well as their respective testnets.\n\nHop has established standards for cross-chain bridging and messaging. These contributions have provided valuable insights that have influenced the design and growth of the L2 ecosystem & created EIP-5164.\n\nOn the non-technical side, Hop developed a Sybil detection framework used by Optimism, filtering out over 2k Sybil hunters from Optimism Airdrop #1. Hop also introduced a novel mechanism for OP token distribution, adopted by other teams to boost onboarding into Optimism.",
   "contributionLinks": [
     {

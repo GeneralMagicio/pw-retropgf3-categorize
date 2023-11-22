@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://www.hypercerts.org",
-  "bio": "We pioneer open-source protocols to fund and reward positive impact. Hypercerts account for impactful work, tracking financial and non-financial contributions.",
+  "bio": "The web3 standard for impact certificates",
   "contributionDescription": "Hypercerts are the web3 standard for account for impactful work, tracking financial and non-financial contributions. \n- They can be integrated into any existing platform to build a single distributed database for impact certificates\n- They encourage multiple evaluations to create a dynamic open evaluation system \n- They allow for sustainable financing by selling impact to move beyond donation\n\nWork to be funded retroactively\n1. Built and released the hypercerts protocol on Optimism as our main deployment\n2. Built SDK for other projects to build on top of our protocol\n3. Created frontend for the protocol available at hypercerts.org for anyone to create hypercerts\n4. Created and ran first pilots with Gitcoin Rounds and Zuzalu to distribute hypercerts for financial contributions to projects",
   "contributionLinks": [
     {

@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://spaghett-eth.com",
-  "bio": "SpaghettETH is the umbrella collective of the italian ETH communities. We provide seasonal events, coordination on R&D, educational material and micro-funding.",
+  "bio": "SpaghettETH is the umbrella collective of the italian ETH communities.",
   "contributionDescription": "We run conferences for the wider ETH italian community on a seasonal basis, with one main national event (SpaghettETH) + coordination for smaller meetups on the territory. We always make sure that our ticketing system operate on both L2s (via https://mego.cx/#/) and to invite speakers from the OP ecosystem at every turn. ",
   "contributionLinks": [
     {

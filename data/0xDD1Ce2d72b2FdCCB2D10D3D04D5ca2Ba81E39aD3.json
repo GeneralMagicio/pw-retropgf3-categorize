@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
-  "websiteUrl": "https://www.arpanetwork.io/en-US",
-  "bio": "CTO and Founder @ ARPA",
+  "websiteUrl": "https://www.arpanetwork.io/en-US/randcast",
+  "bio": "An on-chain verifiable RNG with a smart contract SDK for multiple use cases",
   "contributionDescription": "Randcast offers a blockchain-based verifiable random number generation service, featuring a user-friendly Smart Contract SDK for easy DApp integration. This fills a gap in Optimism, which lacks a secure randomness solution. Randcast utilizes a decentralized network of nodes and threshold BLS signatures to ensure transparent and tamper-proof randomness. Key features include versatility, security, uniqueness, high availability, and accurate fee estimation. Use cases encompass gaming, lotteries, NFT rarity assignment, blockchain consensus, marketing campaigns, DAO governance, generative art, and cryptographic applications.",
   "contributionLinks": [
     {

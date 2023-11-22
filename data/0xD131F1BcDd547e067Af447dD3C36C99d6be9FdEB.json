@@ -1,7 +1,7 @@
 {
-  "applicantType": "INDIVIDUAL",
+  "applicantType": "PROJECT",
   "websiteUrl": "https://nftearth.exchange",
-  "bio": "Non-fungible Human.",
+  "bio": "Contributing to the growth of non-fungible technology on L2.",
   "contributionDescription": "I've contributed to Optimism by to expanding access to NFTs for thousands of users on Optimism. I got involved with building a project called NFTEarth upon the news of the closure of the largest OP native marketplace, Quix. I helped to design the strategy for launch, the token NFTE, the airdrop campaign, build the team, deploy the marketplace contracts (we cloned OpenSea Seaport in the first iteration) and get the marketplace up and running in ~40 days. There were several competing teams in early 2023 vying to launch a Quix replacement - a badly needed solution, but only 2 teams actually ever did launch (NFTEarth and Zonic). The team also built the only self-hosted Indexer from Reservoirs open-source repository. NFTEarth code can be seen on the GitHub profile link provided.",
   "contributionLinks": [
     {

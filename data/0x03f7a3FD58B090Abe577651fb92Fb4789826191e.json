@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://www.hatsprotocol.xyz/",
-  "bio": "Hats is the onchain roles protocol. Empower contributors & code with the responsibilities, permissions, and accountability mechanisms needed to get things done.",
+  "bio": "Hats is the onchain roles protocol",
   "contributionDescription": "Hats is the onchain roles protocol, providing programmable, revocable, and legible roles for decentralized work. Hats empowers groups to get things done by delegating responsibilities to the right contributors, giving them the hard and soft authorities they need to do their work, and installing the automated granting and revocation of permissions and real-time accountability mechanisms to ensure people follow through.",
   "contributionLinks": [
     {

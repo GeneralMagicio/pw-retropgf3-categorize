@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
-  "websiteUrl": "https://clipper.exchange",
-  "bio": "Clipper is a DEX specifically designed for blue-chip token swaps and optimizing LP profit. Clipper delivers sustainable returns with no impermanent loss. ",
+  "websiteUrl": "https://clipper.exchange/",
+  "bio": "Clipper is a DEX built for blue-chip token swaps and sustainable LP returns.",
   "contributionDescription": "Since launch, Clipper has aligned itself with Optimism users’ best interests by delivering the best trading prices on major assets and the best LP returns. It is a shining star of sustainable DeFi on Optimism.\n\nClipper’s pricing beats 0x API >90% of the time on at least one leg (see price study). It uses 15% less gas than Uniswap and has a customized Optimism-native deployment that further reduces gas use by optimizing call data sent to Ethereum. For LPs, Clipper has delivered above market returns compared to both HODLing and a perfectly rebalancing pool of assets. Unlike most DEXs, it has no impermanent loss and only executes trades that are profitable for LPs. \n\nClipper has also run a series of community campaigns called Adventures, which drove thousands of new active users to Optimism.",
   "contributionLinks": [
     {

@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://github.com/candidelabs",
-  "bio": "Candide is an independent team that builds open source and reliable account abstraction software.",
+  "bio": "Candide builds open Account Abstraction software",
   "contributionDescription": "Native to Optimism from day 1 and one of the first teams to release a smart wallet with Account Abstraction. Offers on-chain recovery contacts, paying gas in stablecoin, and one click dapps. Built the Candide core contracts as 4337 compliant based on Safe and wrote the Social Recovery Module. Deployed the first verifying paymaster contract with an open source backend. Launched Voltaire, a fast python Bundler client written in Python. Progress on mempool decentralization and censorship resistance. Built AbstractionKit, the TS library to easily build smart wallets.\n\nEnd-to-end open source, and 100% built for the global public good. ",
   "contributionLinks": [
     {

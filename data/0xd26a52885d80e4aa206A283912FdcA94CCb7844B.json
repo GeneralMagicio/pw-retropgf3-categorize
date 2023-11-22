@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://pwn.xyz/",
-  "bio": "We are a trustless, and immutable P2P lending protocol. We don’t use oracles, we aren’t pool based, and we don’t restrict token listings. ",
+  "bio": "True P2P lending",
   "contributionDescription": "PWN is a peer-to-peer lending protocol designed for long-term mortgage-like loans of digital assets, backed by other digital assets. Borrowers can receive a fixed-duration loan of fungible tokens backed by fungible or non-fungible tokens, while lenders can earn interest by granting these loans. The protocol is trustless, and immutable.\n\nWe are strong believers that the OP stack is a main pillar of Ethereum scaling. For this reason our platform provides an opportunity on the OP stack for borrowers to get peer to peer fixed terms loans and lenders to get rewarded for lending against ERC-20s, and NFTs (and soon RWAs).\n",
   "contributionLinks": [
     {

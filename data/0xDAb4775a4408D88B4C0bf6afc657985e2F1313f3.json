@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://attest-fest.party/",
-  "bio": "Batch create onchain EAS attestations using the power of CSV and copy/paste. Supports any old ETH wallet as well as fancy new Safe multisig wallets.",
+  "bio": "Batch create onchain EAS attestations using the power of CSV and copy/paste.",
   "contributionDescription": "Attest Fest has launched an app that allows for batch creation of EAS onchain attestations on Optimism.  The app allows pasting hundreds of attestation items in CSV form. \n- Rows are validated against the attestation schema, errors are displayed to the user.\n- App supports both Safe multisig wallets and regular ETH wallets. ",
   "contributionLinks": [
     {

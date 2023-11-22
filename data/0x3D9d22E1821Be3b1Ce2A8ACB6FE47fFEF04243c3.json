@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://chainpatrol.io",
-  "bio": "Chainpatrol is a Real-Time Security Platform for Web3 Communities. \n\nChainPatrol detects, tracks and prevents threats and scams from reaching the OP Community.",
+  "bio": "Chainpatrol protects the Optimism Collective by blocking online threats daily ",
   "contributionDescription": "With the high volume of threats targeting the OP Collective in 2022, ChainPatrol set out to reduce these threats and protect the Optimism community. \n\nChainPatrol's solution tracks phishing threats and prevents Optimism users from having their wallets drained.\n\nChainPatrol started protection for the Optimism Collective in December 2022 and has since blocked 502 Online Threats in Total.\n\nChainPatrol turned on our auto-detection systems and began reporting malicious URLs to our Wallet Network to have threats blocked in minutes versus days. (Coverage to 30+Million Users of MetaMask, Coinbase Wallet, Phantom, and 20+ Wallets).\n\nChainPatrol also manages the tracking and full takedown process with domain hosting providers and social platforms;  X/Twitter, Discord, Telegram, YouTube and Reddit.\n",
   "contributionLinks": [
     {

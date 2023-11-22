@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://github.com/dethcrypto/TypeChain",
-  "bio": "We've created TypeChain; now we are busy with something new...",
+  "bio": "TypeScript bindings for Ethereum smart contracts",
   "contributionDescription": "TypeChain and DethCode are widely recognized tools in the developer community.\n\nFor several years, TypeChain has facilitated the writing of type-safe Ethereum code. It not only supports any OP-based networks, but it was also utilized in the prebedrock optimism-contracts repository itself. Despite its widespread use, TypeChain has recently been deprecated in favor of newer alternatives. This makes it perfect candidate for RPGF.\n\nDethCode offers the ability to browse smart contracts within ephemeral instances of VS Code. It supports both OP and Base networks. The innovative concept behind DC impressed Etherscan so much that they integrated similar functionality directly into their product. Nevertheless, DethCode continues to operate as a public utility, contributing to the broader ecosystem.",
   "contributionLinks": [
     {

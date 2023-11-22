@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://moonwell.fi",
-  "bio": "Moonwell is an open and decentralized lending and borrowing protocol built on Base, Moonbeam, and Moonriver.",
+  "bio": "Moonwell is an open and decentralized lending and borrowing protocol.",
   "contributionDescription": "Temporal Governance is a groundbreaking approach to cross-chain protocol governance that provides unique benefits to communities that adopt the Optimism Superchain and deploy to multiple OP Stack networks.\n\nThis public good consists of open source Solidity and JavaScript code that enables any online community to govern smart contracts deployed to multiple Ethereum networks. It not only enables cross-chain governance, it also enables developers to fully automate the scheduling and execution of cross-chain proposals once they have been voted on.\n\nUnderpinning its reliability, Temporal Governance has undergone rigorous scrutiny, passing two comprehensive security audits from Halborn Security and Code4rena.\n\nThe Moonwell community has grown by over 2,000 active users on Base by adopting it.",
   "contributionLinks": [
     {

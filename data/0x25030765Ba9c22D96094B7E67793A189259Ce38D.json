@@ -1,6 +1,6 @@
 {
   "applicantType": "INDIVIDUAL",
-  "websiteUrl": "https://r72.fi",
+  "websiteUrl": "https://r72.fi/",
   "bio": "https://r72.fi/",
   "contributionDescription": "I have created r72.fi free funding rate aggregated website to give everyone a bigger picture of on-chain and off-chain perpetual future funding rate stats.\n\nIt's really hard to know the actual cost of on-chain or off-chain platforms' funding rate for a certain long period. Hence, r72.fi solves the mathematical and UX issues to make everyone know more about the funding rate. Especially, those on-chain funding rates. It's way harder for users to understand. \n\nr72.fi supports two projects deployed on Optimism, Perpetual Protocol and Synthetix.  People can easily check those two projects' aggregated funding rates without on-chain knowledge.  ",
   "contributionLinks": [

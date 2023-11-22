@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://blocktorch.xyz",
-  "bio": "Hi! I'm Gery, co-founders @ Blocktorch.xyz\nWe are building a monitoring and observability tool for web3 engineers, to fully understand dApps, roll-ups, etc",
+  "bio": "Blocktorch is a monitoring and observability platform for web3 developers",
   "contributionDescription": "Our contributions to Optimism are twofold. First, Blocktorch.xyz, our web3 observability platform, plays a vital role in monitoring the Optimism Chain and opStack roll-ups. It enhances network transparency, security, and performance. Second, Opti-mystic, our roll-up discovery service, simplifies the process of identifying and interacting with roll-ups on the opStack, fostering easier adoption and development. These contributions serve as integral pillars supporting developers to build on the Optimism ecosystem. The RetroPGF grants we seek are aimed at fortifying and advancing these vital tools, ensuring the seamless operation and sustainable development of Optimism.",
   "contributionLinks": [
     {

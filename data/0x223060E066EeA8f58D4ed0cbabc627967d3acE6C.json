@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://statechannels.org",
-  "bio": "I'm the Tech Lead for State Channels R&D at Consensys Mesh",
+  "bio": "Our team develops and maintains \"Nitro\" state channel protocol.",
   "contributionDescription": "State channels research has long been central to the development of layer 2 scaling solutions, of which Optimism represents one of the foremost promising examples. In the last couple of years, our team completed a scheme of work relating to the \"dispute game\" mechanism which is central to the security and therefore the success of Optimism. This was approximately 18 developer weeks of effort and resulted in a github repo (https://github.com/statechannels/dispute-game) containing a detailed design of a \"dissection\" approach, and implementations in Typescipt and Solidity which were optimized for gas. \n\nWe have recently written about this work on our blog https://blog.statechannels.org/dispute-game/.",
   "contributionLinks": [
     {

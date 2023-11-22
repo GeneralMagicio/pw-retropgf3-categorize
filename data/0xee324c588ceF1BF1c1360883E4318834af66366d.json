@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
-  "websiteUrl": "https://proofinprogress.com",
-  "bio": "I work on things before they are cool. Crypto-hipster and founder of Kiwi News Protocol. I helped invent NFTs, Soulbound tokens and L2s (we called it \"Plasma\").",
+  "websiteUrl": "https://kiwinews.xyz",
+  "bio": "Community-curated crypto media dapp & open source P2P protocol",
   "contributionDescription": "Kiwi helps crypto builders find the best content without social media noise. Our community consumes hundreds of sources a month to handpick and upvote top content for crypto founders & developers. From tweets, through essays, up to Dune dashboards and GitHub repos.\n\nWe a use P2P architecture - similar to Farcaster - so that most heavy data is stored offchain and only the most important elements, such as delegations & NFTs are stored onchain. The architecture promotes credible neutrality as it lets users run p2p nodes or clients with their own UI & moderation rules, such as kiwinews.lol run by our contributor, freeatnet or Kiwi News Search by matallo.\n\nWe are 100% Open Source. Our R&D on scaling ETH via the P2P protocol and OP key delegation  can be reused by others.",
   "contributionLinks": [
     {
@@ -103,9 +103,9 @@
       "url": "https://kiwinews.phyles.app"
     },
     {
-      "description": "generally check out our stats page!!!",
-      "number": 42069,
-      "url": "https://news.kiwistand.com/stats"
+      "description": "Total revenue lags behind the rev goal",
+      "number": 14155.32,
+      "url": "https://docs.google.com/spreadsheets/d/18ZJT1k97J25q7DW6J9VuYOo9wheVReca0qp0SzPpX1U/edit?usp=sharing"
     }
   ],
   "fundingSources": [

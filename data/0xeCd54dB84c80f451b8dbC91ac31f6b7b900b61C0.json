@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://regenscore.io/",
-  "bio": "Regen Score is a reputation system based on on-chain activities to evaluate individual regen behaviours for trust, participation and democratizing governance",
+  "bio": "On-chain reputation layer for regens in public goods",
   "contributionDescription": "RegenScore is an experiment created to support a more inclusive OP Citizen House. It can be used for the qualification of ecosystem members through a transparent, fair, and data-driven approach. Thus providing better governance access for public goods funding to verified regen actors across the wider web3 ecosystem. \n\nCurrent contributions include:\n\n- Analytical model for behaviour scoring described in documentation and supported by statistical sampling\n- A website for checking out your score and minting the on-chain attestation (including a schema, with separate scoring just for OP behaviours) (open source)\n- A series of communications with the OP and web3 community for feedback and engagement over various channels",
   "contributionLinks": [
     {

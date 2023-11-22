@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
-  "websiteUrl": "https://www.linkedin.com/in/jpren/",
-  "bio": "Product designer and founder building decentralized social applications. Contributor to Orange DAO, Purple DAO, a16z CSS23. Find me on Farcaster @jpren.eth",
+  "websiteUrl": "https://frens.lol",
+  "bio": "Social messaging app for onchain friends with native Farcaster integration",
   "contributionDescription": "Frens is a social messaging app for onchain friends (iOS/Android). We’ve built a private messaging app that natively supports token-gating, crypto transactions, Farcaster (auth, identity, content), and Zora network NFTs.\n\nHow onchain communities use Frens:\n- The Farcaster community used Frens to organize grassroots meetups and conferences (e.g. Farcon, ETH Denver, NFT.NYC, EthCC)\n- The Purple DAO community used Frens to discuss proposals\n- The Orange DAO community used Frens to coordinate DAO retreats and meet ups at conferences (e.g. ETH Denver, EthCC)\n- Farcaster sub-communities have formed on Frens like the FC chess club, Eventcasters, and fundraising advice\n- A16z CSS 23 founders use Frens to communicate privately in founders-only groups",
   "contributionLinks": [
     {

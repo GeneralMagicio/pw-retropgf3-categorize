@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://bitcoinaddict.org/",
-  "bio": "We are Thailand's largest crypto media and community, we keep our community updated to the latest crypto news, raise awareness and educate our audience.",
+  "bio": "Thailand's Largest cryptocurrency media and community",
   "contributionDescription": "We help to localized news and movement from Optimism and Ethereum to help Thailand Community to be well-informed about ongoing updates and the ecosystem. We have also  create different of types and style of content to educate and further support the communities of Ethereum and Optimism in Thailand. \n\n\n\n",
   "contributionLinks": [
     {
@@ -63,12 +63,17 @@
   "impactCategory": [
     "END_USER_EXPERIENCE_AND_ADOPTION"
   ],
-  "impactDescription": "We have help over 334,000 followers and 83,000 community members in Thailand (including all social media and platform) to be well informed and educated about the Ethereum, Optimism and Layer 2  ecosystem, through our realtime news and indepth our education content.",
+  "impactDescription": "We have help over 334,000 followers and 83,000 community members in Thailand (including all social media and platform) to be well informed and educated about the Ethereum, Optimism and Layer 2  ecosystem, through our realtime news and indepth our education content. ",
   "impactMetrics": [
     {
       "description": "Number of news, and content covered ",
       "number": 3712,
       "url": "https://docs.google.com/spreadsheets/d/1pl79xAjYyrf-zUHq_iyvf03-7qYSL9U5kPIkDm3kqis/edit?usp=sharing"
+    },
+    {
+      "description": "Social Media (Reach and View)",
+      "number": 70000000,
+      "url": "https://docs.google.com/spreadsheets/d/1FZabI2I1u8vXNkTqpfq3s5-gLEmGCLFujp-_lDsrX0A/edit?usp=sharing"
     }
   ],
   "fundingSources": [],

@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://www.brightid.org/",
-  "bio": "BrightID is a privacy-first social identity network that allows you to prove to applications that you are accessing them fairly with only one account.",
+  "bio": "Privacy-first proof of human uniqueness using an anonymous social graph.",
   "contributionDescription": "BrightID enables individuals to authenticate themselves as unique through the creation and analysis of a social graph by those who already know them. It requires no personal data from users other than the anonymous graph of connections.\n\nBrightID is a public good that protects the access of individuals to other public goods.\n\n*It has been used widely in the Ethereum community & in applications in the Optimism Ecosystem.\n\n*It was the first verification used by Gitcoin Grants, and helped develop the \"trust bonus\" which became Gitcoin passport. This includes the GG18 round run in Optimism.\n\n*It is the only Sybil-resistant attestation used by CLR.fund for its MACI protected Quadratic voting.\n\n*BrightID protects the Optimism Gas Tap of Unitap helping onboard brand new users.\n",
   "contributionLinks": [
     {

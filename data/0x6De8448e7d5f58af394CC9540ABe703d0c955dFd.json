@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://boardroom.io/",
-  "bio": "Boardroom is a governance data platform helping developers integrate DAOs into their applications and helping stakeholders make smarter and informed decisions.",
+  "bio": "A governance data platform helping stakeholders make more informed decisions",
   "contributionDescription": "Optimism Governance Support:\n\nSince inception, Boardroom has integrated the entire governance stack, streamlining governance for voters and standardizing interactions for developers on our SDK and API.\n\n- Snapshot: Initial support for proposals launched with Snapshot and onchain delegation.\n- Onchain Integration: In collaboration with Agora, Boardroom ensured support for upgraded onchain governance contracts, becoming an alternative to vote.optimism.io by Feb 2023.\n- Dashboard: From launch, our Dashboard has supported governance on boardroom.io/optimism.\n\nGovernance Facilitation: \n\nSince August 2022, our \"Weekly Recaps\" offer a governance-focused summary for the Optimism community, covering key proposals, changes, suggestions, and discussions. This initiative paused from Aug to Oct 2023.",
   "contributionLinks": [
     {

@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://www.seamlessprotocol.com/",
-  "bio": "Seamless is the first (and largest) native, decentralized lending protocol on Base—users can supply/borrow in isolated pools for the highest capital efficiency.",
+  "bio": "First native Base lending protocol. Isolated, permissionless, capital efficient.",
   "contributionDescription": "Seamless Protocol is the first, native, decentralized lending protocol on Base. In one month of being live, it has grown to be the largest native liquidity market, enabling users to supply and borrow USDbC, ETH, and cbETH (with more assets underway). Seamless opens up a new form of borrowing—integrated liquidity markets—which are isolated, smart contract-to-smart contract markets for undercollateralized, yet permissionless, borrowing. \n\nInstead of using onchain credit scores or CeFi structures, Seamless uses an innovative architecture where funds are abstracted and maintained by smart contracts, preventing any user from running away with the funds. In addition to Aave-like borrowing, borrowers may also select strategies to amplify their LST exposure for up to 4x (starting with cbETH).",
   "contributionLinks": [
     {

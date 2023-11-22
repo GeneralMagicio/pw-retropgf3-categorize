@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
-  "websiteUrl": "https://buidlguidl.com",
-  "bio": "A curated group of Ethereum builders creating open source products, prototypes, and tutorials:\n\n🏗 Scaffold-ETH-2\n🏃‍♀️ SpeedRunEthereum.com",
+  "websiteUrl": "https://BuidlGuidl.com",
+  "bio": "A curated group of builders creating open source tools and educational content.",
   "contributionDescription": "We built and actively maintain 🏗 Scaffold-ETH-2 which allows for rapid prototyping and full scale dApp development on Ethereum.  We also provide a free curriculum at 🏃‍♀️ SpeedRunEthereum.com. A hands on, guided series of challenges to learn how to code and deploy smart contracts all while receiving the assistance of our community. We are also giving small grants to up-and-coming high-impact developers. A yolo to 🏰 BuidlGuidl is a yolo to Ethereum and Optimism builders!!!\n\nWe are also building a tool to help with the next round of retropgf voting and project discovery. We weren't picked to be the main tool but we have built a great app and we think it will be a community favorite! ",
   "contributionLinks": [
     {

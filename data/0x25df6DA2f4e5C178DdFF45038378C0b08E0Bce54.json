@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
-  "websiteUrl": "https://github.com/AmazingAng",
-  "bio": "Computational Neuroscience Ph.D., founder of WTF Academy, initiator of ETH Beijing Hackathon and ETH Hangzhou Hackathon.",
+  "websiteUrl": "https://wtf.academy",
+  "bio": "Web3 Open University for developers.",
   "contributionDescription": "1. WTF Solidity tutorials: concise, community-reviewed, open-source tutorials for Solidity in Chinese and English. 80+ chapters, 100+ contributors, 8,400+ stars.\n2. WTF Ethers tutorials: concise, community-reviewed, open-source tutorials for Ethersjs in Chinese and English. 20+ chapters, 30+ contributors, 2,100+ stars.\n3. wtf.academy: Decentralized education platform for web3 developers. Learn, test, and get certificates: 7,000+ registered users, 20,000 monthly active users.\n4. WTF EVM Opcodes: The most comprehensive tutorial for EVM opcodes, covering all the 144 opcodes on EVM.",
   "contributionLinks": [
     {

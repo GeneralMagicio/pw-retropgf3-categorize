@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
-  "websiteUrl": "https://www.blocknative.com",
-  "bio": "Blocknative builds real-time web3 infrastructure to monitor and manage the complexity of transacting on public blockchain networks. ",
+  "websiteUrl": "https://Onboard.blocknative.com ",
+  "bio": "An open-source, framework-agnostic JavaScript library to onboard users to web3.",
   "contributionDescription": "Web3 Onboard is Blocknative’s answer to delivering the best experience for developers and end users as they connect and engage across blockchains. Launched in 2019, it is the easiest way to add multi-wallet, multi-chain support to any project. With built-in modules for over 80 unique hardware, software, and browser wallets, Web3 Onboard saves time related to the UI and logic of connecting wallets to dapps throughout the EVM.  \n\nWeb3 Onboard is open-source, framework-agnostic JavaScript library accessible on Github. Developers can seamlessly connect users’ wallets to dapps, track wallet states, and match the UI of specific dapps. Transaction preview, an integrated feature, previews unsigned Ethereum transactions, which can help with testing and debugging transactions committed on-chain. ",
   "contributionLinks": [
     {

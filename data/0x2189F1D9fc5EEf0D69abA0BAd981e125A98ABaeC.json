@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://deepdao.io",
-  "bio": "DeepDAO is widely recognized as the leading DAO analytics engine. We index 19k+ DAOs and 8M+ governance wallets over multiple chains and governance systems.",
+  "bio": "The leading DAO analytics engine with 19k+ DAOs and 8+ million wallet profiles.",
   "contributionDescription": "We help the DAO ecosystem benefit from accurate data. We have manually enriched 1000s of DAOs, and display their treasury, governance, and voter data on our website and API.\n\nOur direct contributions to Optimism include: \n\n- Displaying Optimism DAO at the top of our listing, helping establish it as a leading DAO.\n- Creating a platform for indexing, and self listing DAOs on Optimism.\n- Creating governance profiles for all OP Collective voters & delegates\n- Making Optimism DAO data available on our website and API, with comprehensive treasury and governance information of the Optimism Collective ecosystem. \n- The most comprehensive list of DAO tools available on Optimism. \n\nOur efforts have made the Optimism DAO ecosystem healthier, transparent and widely appreciated.\n",
   "contributionLinks": [
     {

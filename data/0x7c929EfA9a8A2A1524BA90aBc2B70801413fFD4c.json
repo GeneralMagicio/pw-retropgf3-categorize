@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://frame.sh",
-  "bio": "Frame provides a secure, system-wide interface to your chains and accounts, enabling any browser, command-line, or native app to leverage web3.",
+  "bio": "System-wide web3 Platform",
   "contributionDescription": "Frame is a web3 platform that provides a secure, system-wide interface to your chains and accounts, enabling any browser, command-line, or native application to leverage OP chains.\n\nFrame's local RPC has proven to be a useful tool for developers, giving them easy and secure access to OP chains, improving the developer experience.\n\nFrame ships with both Optimism and Base as default chains. As a Base launch partner, we provided users with access to both Base Goerli and Base Mainnet from day one.\n\nWe also support both Optimism and Base via Pylon, our new infrastructure initiative which services a large and growing number of requests to OP chains every month.\n\nOmnichain routing in Frame greatly improves the OP user experience by allowing dapps to route to multiple chains in parallel.",
   "contributionLinks": [
     {

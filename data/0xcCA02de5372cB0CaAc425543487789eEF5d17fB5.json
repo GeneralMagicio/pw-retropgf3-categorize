@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://getclave.io",
-  "bio": "Marketing & Growth @ Clave (formerly Opclave)",
+  "bio": "OPStack improvement with ERC-4337 account and native hardware signature verifier",
   "contributionDescription": "Opclave has been one of the finalists among 306 projects at the Scaling Ethereum Hackathon of ETHGlobal by introducing hardware signatures in account abstraction for the first time in the OPStack ecosystem\n\nThe Showcase prepared at the ETHGlobal hackathon received significant engagement from the ecosystem, thus introducing Optimism's OP Stack product. Additionally, the Twitter thread featuring Opclave gained over 600K views, contributing to the popularity of OP Stack\n\nThe Clave team proposed EIP-7212 to enable the use of the P256 curve. Following this, many individuals from the ecosystem began development on the P256 curve. The Ledger team further developed the work of Opclave. Extensive discussions took place on builder forums, and numerous tweets were posted on Twitter regarding EIP-7212",
   "contributionLinks": [
     {

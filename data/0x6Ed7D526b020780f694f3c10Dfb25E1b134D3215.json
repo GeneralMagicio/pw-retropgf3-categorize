@@ -1,8 +1,8 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://delegate.xyz",
-  "bio": "Founder and CEO @ delegate.xyz, protecting $500 million of assets. Secure your onchain identity by linking cold and hot wallets. Trusted by Yuga/Azuki/OpenSea\n",
-  "contributionDescription": "Delegate has built a transformative platform for users to secure assets while still enabling participation in NFT airdrop claims, ERC20 token governance, and more.  To date, Delegate has secured over 2300 wallets on Optimism. \n\nOur solution is a programmable registry, deployed on Optimism Mainnet.  Users and institutions link their cold wallets with hot wallets on delegate.xyz, and then the hot wallet can act on behalf of the cold wallet, like crypto power-of-attorney.  This allows users to manage all their assets across multiple wallets simultaneously without touching anything in their vault, enhancing security and efficiency across airdrops, governance, gaming, DeFi, and more.  \n\nDelegate’s registry is fully onchain, enumerable, independent, immutable, and verifiable.",
+  "bio": "Programmable identity for the multiwallet world",
+  "contributionDescription": "Delegate has built a transformative platform for users to secure assets while still enabling participation in NFT airdrop claims, ERC20 token governance, and more.  To date, Delegate has secured over 2300 Optimism wallets and 250 Base wallets. \n\nOur solution is a programmable registry, deployed on Optimism and Base.  Users and institutions link their cold wallets with hot wallets on delegate.xyz, and then the hot wallet can act on behalf of the cold wallet, like crypto power-of-attorney.  This allows users to manage all their assets across multiple wallets simultaneously without touching anything in their vault, enhancing security and efficiency across airdrops, governance, gaming, DeFi, and more.  \n\nDelegate’s registry is fully onchain, enumerable, independent, immutable, and verifiable.",
   "contributionLinks": [
     {
       "type": "OTHER",

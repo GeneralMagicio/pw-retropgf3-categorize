@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://www.karmahq.xyz",
-  "bio": "My name is Mahesh Murthy, I am the founder of Karma. Software dev by profession, have been building in crypto space since 2017. I love building 0 - 1 products.",
+  "bio": "Karma is a suite of contributor reputation tools helping DAOs improve governance",
   "contributionDescription": "We have contributed to Optimism by building a no. of products/tools for the collective and larger web3 community on top of Optimism\n\n1. Delegate Dashboard - We have indexed 1.5k delegates and their activity on forum and off/on chain voting system and is being updated daily. It's used to hold delegates accountable, improve visibility and help tokenholders discover candidates.\n\n2. Onchain DAO Delegate Registry - Delegate info is scattered across different gov. frontends. To solve this, we built an onchain registry of delegates on Optimism to store all delegate info. \n\n3. Karma GAP (Grantee Accountability Protocol) - It's difficult for community to keep track of grantees and their progress. We built protocol on Optimism+EAS to help grantees post updates, hold them accountable and build rep. ",
   "contributionLinks": [
     {

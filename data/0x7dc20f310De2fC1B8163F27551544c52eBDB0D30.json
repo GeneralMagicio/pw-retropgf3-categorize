@@ -1,7 +1,7 @@
 {
   "applicantType": "PROJECT",
   "websiteUrl": "https://optinames.xyz",
-  "bio": "Register a free ENS Subdomain on Optimism and use it everywhere including L1 Ethereum",
+  "bio": "Your ENS identity on Optimism. Zero registration & renewal fees.",
   "contributionDescription": "Optinames has leveraged CCIP Read (ERC-3668) to successfully expand ENS on L2 (Optimism), resulting in a significantly more cost-effective method for acquiring ENS domains compared to Eth mainnet.\n\nSince August 10, 2022, OP-Mainnet users have been able to acquire ENS names without any associated costs, marking a significant departure from mainnet fees. Our strategy ensures a fee-free experience (zero registration fees and no renewals) while keeping initial registration gas costs to a minimum in contrast to Ethereum. Furthermore, these subnames are seamlessly integrated with the ENS infrastructure and are fully compatible with a wide array of popular wallets, including Metamask, Coinbase Wallet, Trust Wallet, Uniswap Wallet, Rainbow Wallet, as well as libraries such as Web3.js and ethers.js",
   "contributionLinks": [
     {
