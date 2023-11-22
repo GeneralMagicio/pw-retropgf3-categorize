@@ -113,5 +113,7 @@
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Developer Ecosystem, End-User Experience & Adoption, Blockchain Education",
   "pwCategory": "Development & Infrastructure",
-  "applicationApprovalUID": "0x96b420d4a9c0cacc124d46cc85e29dcccd8811e3119f01dd336954af17843bb7"
+  "applicationApprovalUID": "0x96b420d4a9c0cacc124d46cc85e29dcccd8811e3119f01dd336954af17843bb7",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xA0B39867b0999DcF7Af65ea674c3C975EaD99158.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xA0B39867b0999DcF7Af65ea674c3C975EaD99158.png"
 }

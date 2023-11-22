@@ -56,5 +56,7 @@
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Developer Ecosystem, Web3 Community Platform, User Experience & Adoption",
   "pwCategory": "Wallet and wallet tools",
-  "applicationApprovalUID": "0xe237610298218749548a170de7784f05fbfc33497558142eb76d366e5f3aafe1"
+  "applicationApprovalUID": "0xe237610298218749548a170de7784f05fbfc33497558142eb76d366e5f3aafe1",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x96A4715280c3Dac3F3093d51aA278aA5eb60ffDE.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x96A4715280c3Dac3F3093d51aA278aA5eb60ffDE.png"
 }

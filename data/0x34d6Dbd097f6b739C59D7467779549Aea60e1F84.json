@@ -60,5 +60,6 @@
   "pwCategorySuggestions": "Decentralized Finance (DeFi), Stablecoins, Smart Contract Platforms",
   "pwApplicantTypeChecked": true,
   "pwCategory": "Asset Management & Portfolio Tools",
-  "applicationApprovalUID": "0x0e97cffc1c157bba2c4c02d38348539c76b07db6ba12f7cd4a52ba26794664aa"
+  "applicationApprovalUID": "0x0e97cffc1c157bba2c4c02d38348539c76b07db6ba12f7cd4a52ba26794664aa",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x34d6Dbd097f6b739C59D7467779549Aea60e1F84.png"
 }

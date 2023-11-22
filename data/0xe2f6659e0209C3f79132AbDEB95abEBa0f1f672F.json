@@ -54,5 +54,6 @@
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Cross-Chain Platforms, Layer 2 Scaling, Open Source Innovation",
   "pwCategory": "Security & Cross-Chain Solutions",
-  "applicationApprovalUID": "0x77bc669a940c76bd014eb7649f3970ec2fb8479de6167016a92bff163df6ac86"
+  "applicationApprovalUID": "0x77bc669a940c76bd014eb7649f3970ec2fb8479de6167016a92bff163df6ac86",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xe2f6659e0209C3f79132AbDEB95abEBa0f1f672F.png"
 }

@@ -66,5 +66,6 @@
   "pwRecategorizeReason": "NO, the application is miscategorized because despite being under \"INDIVIDUAL\", the applicant refers to actions made by \"we\", indicating a group or project, not an individual.",
   "pwApplicantTypeChecked": true,
   "pwCategory": "Web3 Community Engagement",
-  "applicationApprovalUID": "0x63addd88cadccd8bdb353b81606bc7125714a9742fddd16db19ba48e6840b5e1"
+  "applicationApprovalUID": "0x63addd88cadccd8bdb353b81606bc7125714a9742fddd16db19ba48e6840b5e1",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x6F3924E9158c74D344BF578a251Bcc2ef41F8F50.png"
 }

@@ -51,5 +51,6 @@
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Blockchain Infrastructure, Decentralized Identity, Developer Ecosystem",
   "pwCategory": "Development & Infrastructure",
-  "applicationApprovalUID": "0x17b6075cdc32729b7ef683d9cb9160cfc5425c00115af4844eaf310721862e8d"
+  "applicationApprovalUID": "0x17b6075cdc32729b7ef683d9cb9160cfc5425c00115af4844eaf310721862e8d",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xEeC7E4B2287e98B6ca30242e2D2D2F283a78Fc82.png"
 }

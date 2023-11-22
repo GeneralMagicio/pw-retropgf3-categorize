@@ -88,5 +88,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategory": "Community Building",
-  "applicationApprovalUID": "0x6c138f65797f29f8378d1a8bfe362a242b858401b1eddd45717abe7d553693a3"
+  "applicationApprovalUID": "0x6c138f65797f29f8378d1a8bfe362a242b858401b1eddd45717abe7d553693a3",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x4CDD7811CCEdB0fFd3808B586bcafD6AB0ACb313.png"
 }

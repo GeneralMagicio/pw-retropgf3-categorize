@@ -94,5 +94,7 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategory": "Blockchain News & Media",
-  "applicationApprovalUID": "0xe037146acf3e340b21d068e8cdecc7766050bf7c646665f773ae1c8dc0c57cc1"
+  "applicationApprovalUID": "0xe037146acf3e340b21d068e8cdecc7766050bf7c646665f773ae1c8dc0c57cc1",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xb8f526E029E7e629221e98Fbc1CDCF363eA486ee.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xb8f526E029E7e629221e98Fbc1CDCF363eA486ee.png"
 }

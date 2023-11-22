@@ -92,5 +92,6 @@
   "pwRecategorizeReason": "NO. The application is from an individual (the creator of Optiland Quests) but it is categorized as a \"PROJECT\".",
   "pwApplicantTypeChecked": true,
   "applicationApprovalUID": "0x0121ef4e9b7106ceaccdbb3196e12b5767386ae7647642ef791f88e233fa1528",
-  "pwCategory": "Web3 Education & Skill Development"
+  "pwCategory": "Web3 Education & Skill Development",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xa6028b948dea97B7Fb0E472e19c9D4E160ed2902.png"
 }

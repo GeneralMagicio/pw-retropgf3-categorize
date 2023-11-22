@@ -556,5 +556,7 @@
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Content Creation, Community Building, User Experience & Adoption",
   "pwCategory": "Local Blockchain Communities",
-  "applicationApprovalUID": "0xaa798e8755a6003a0f337780d1ad90ba73c94dea219515c588ec10221c4aa61e"
+  "applicationApprovalUID": "0xaa798e8755a6003a0f337780d1ad90ba73c94dea219515c588ec10221c4aa61e",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xA8F0048A0d1A04663Ca5010d0bEaC5BCAEeA0eef.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xA8F0048A0d1A04663Ca5010d0bEaC5BCAEeA0eef.png"
 }

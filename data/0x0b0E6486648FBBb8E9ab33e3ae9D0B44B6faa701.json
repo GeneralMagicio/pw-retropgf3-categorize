@@ -37,5 +37,7 @@
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Content Creation, Blockchain Education, Community Building",
   "pwCategory": "Blockchain News & Media",
-  "applicationApprovalUID": "0xb046f206a85340c9a5fd8a2580c50a959a5e12ce83472533cf7320481836c242"
+  "applicationApprovalUID": "0xb046f206a85340c9a5fd8a2580c50a959a5e12ce83472533cf7320481836c242",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x0b0E6486648FBBb8E9ab33e3ae9D0B44B6faa701.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x0b0E6486648FBBb8E9ab33e3ae9D0B44B6faa701.png"
 }

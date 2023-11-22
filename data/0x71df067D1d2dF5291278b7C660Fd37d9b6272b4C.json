@@ -37,5 +37,7 @@
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Smart Contract Platforms, Developer Tools",
   "pwCategory": "Developer Tools - Smart Contracts",
-  "applicationApprovalUID": "0xd1dff3d8e1413ab2640763b44af7ef52d8a80f14bb04986f4804574aa71d6dca"
+  "applicationApprovalUID": "0xd1dff3d8e1413ab2640763b44af7ef52d8a80f14bb04986f4804574aa71d6dca",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x71df067D1d2dF5291278b7C660Fd37d9b6272b4C.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x71df067D1d2dF5291278b7C660Fd37d9b6272b4C.png"
 }

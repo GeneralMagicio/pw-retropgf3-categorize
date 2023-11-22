@@ -56,8 +56,7 @@
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
   "displayName": "Edge & Node / The Graph",
-  "applicantName": "Kyle Rojas",
-  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9e8B73b5563c9aF1C35e5Aad588B67B6A414576b.jpeg",
+  "applicantName": "Edge & Node / The Graph",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x9e8B73b5563c9aF1C35e5Aad588B67B6A414576b.json",
   "RPGF3_Application_UID": "0x37778fd600ab6787836d52df46503c401a7b482ca5b63b42b2e84e7f2f2508d0",
   "applicantAddress": "0x9e8B73b5563c9aF1C35e5Aad588B67B6A414576b",
@@ -67,5 +66,6 @@
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Tokenization Platforms, Decentralized Finance (DeFi)",
   "pwFlaggedReason": "missed flag",
-  "applicationApprovalUID": "0x8526b3343ae97a1859ff98d7f7d414ba2f47735d62a84b94f5aef514b5260aa6"
+  "applicationApprovalUID": "0x8526b3343ae97a1859ff98d7f7d414ba2f47735d62a84b94f5aef514b5260aa6",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x9e8B73b5563c9aF1C35e5Aad588B67B6A414576b.png"
 }

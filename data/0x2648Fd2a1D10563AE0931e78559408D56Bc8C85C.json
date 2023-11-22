@@ -72,5 +72,7 @@
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Blockchain Infrastructure, Developer Ecosystem, Open Source",
   "pwCategory": "Explorers, Security & Node Deployment Tools",
-  "applicationApprovalUID": "0x5c84f2c69cd6044c8a9275924a2c4040acbc8e31572260526d9b0bd028eabf04"
+  "applicationApprovalUID": "0x5c84f2c69cd6044c8a9275924a2c4040acbc8e31572260526d9b0bd028eabf04",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2648Fd2a1D10563AE0931e78559408D56Bc8C85C.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x2648Fd2a1D10563AE0931e78559408D56Bc8C85C.png"
 }

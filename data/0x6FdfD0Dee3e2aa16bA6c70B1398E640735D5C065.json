@@ -84,5 +84,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategory": "Grants, Capital Allocation & Onboarding",
-  "applicationApprovalUID": "0xb8ab3791f36218d548c3356ec308d82d1d4479a1c93552d39c40962ad74b898c"
+  "applicationApprovalUID": "0xb8ab3791f36218d548c3356ec308d82d1d4479a1c93552d39c40962ad74b898c",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x6FdfD0Dee3e2aa16bA6c70B1398E640735D5C065.png"
 }

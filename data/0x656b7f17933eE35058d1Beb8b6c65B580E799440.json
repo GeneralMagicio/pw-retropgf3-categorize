@@ -110,5 +110,6 @@
   "pwIsFlagged": false,
   "pwApplicantTypeChecked": true,
   "pwCategory": "DeFi, Decentralized Finance",
-  "applicationApprovalUID": "0x8e02390fa0a94edad31224af640fa639f7d62111f05f32ea1e2746111e45a905"
+  "applicationApprovalUID": "0x8e02390fa0a94edad31224af640fa639f7d62111f05f32ea1e2746111e45a905",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x656b7f17933eE35058d1Beb8b6c65B580E799440.png"
 }

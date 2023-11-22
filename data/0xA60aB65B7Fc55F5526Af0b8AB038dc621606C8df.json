@@ -85,5 +85,6 @@
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Tokenization Platforms, Web3 Community Platform, Blockchain Infrastructure",
   "pwCategory": "Explorers, Security & Node Deployment Tools",
-  "applicationApprovalUID": "0xb1e3145980b63c6b80adad4ff345f8424b51b2885c13a411ffa6f37fba3aeb23"
+  "applicationApprovalUID": "0xb1e3145980b63c6b80adad4ff345f8424b51b2885c13a411ffa6f37fba3aeb23",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xA60aB65B7Fc55F5526Af0b8AB038dc621606C8df.png"
 }

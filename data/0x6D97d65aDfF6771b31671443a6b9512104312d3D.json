@@ -41,5 +41,6 @@
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "User Experience & Adoption, Developer Ecosystem, Web3 Community Platform",
   "pwCategory": "User Experience & Adoption",
-  "applicationApprovalUID": "0x7e30bd735b4d56efe3ea3e57521ec441cc10ac2cd6c1d1a121af24873b2c13f7"
+  "applicationApprovalUID": "0x7e30bd735b4d56efe3ea3e57521ec441cc10ac2cd6c1d1a121af24873b2c13f7",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x6D97d65aDfF6771b31671443a6b9512104312d3D.png"
 }

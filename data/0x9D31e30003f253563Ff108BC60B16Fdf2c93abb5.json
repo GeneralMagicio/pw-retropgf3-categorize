@@ -93,7 +93,7 @@
   "certifiedNotSponsoredByPoliticalFigureOrGovernmentEntity": true,
   "certifiedNotBarredFromParticipating": true,
   "displayName": "PR0",
-  "applicantName": "PR0",
+  "applicantName": "addrs",
   "applicationMetadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0x9D31e30003f253563Ff108BC60B16Fdf2c93abb5.json",
   "RPGF3_Application_UID": "0xa56c22c8a230b721d39e7dd1615802db826a3c5dfb1ffa86967afa5db890b5ea",
   "applicantAddress": "0x9D31e30003f253563Ff108BC60B16Fdf2c93abb5",
@@ -101,5 +101,7 @@
   "pwApplicantTypeChecked": true,
   "pwCategorySuggestions": "Decentralized Oracle Platforms, Cross-Chain Platforms, Data Infrastructure",
   "pwCategory": "Cross-Chain Interoperability",
-  "applicationApprovalUID": "0x938958cbd40bff58453dad061a22b9ee0e525767622cc363bdd69af8f9b2d9c7"
+  "applicationApprovalUID": "0x938958cbd40bff58453dad061a22b9ee0e525767622cc363bdd69af8f9b2d9c7",
+  "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9D31e30003f253563Ff108BC60B16Fdf2c93abb5.png",
+  "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x9D31e30003f253563Ff108BC60B16Fdf2c93abb5.png"
 }
