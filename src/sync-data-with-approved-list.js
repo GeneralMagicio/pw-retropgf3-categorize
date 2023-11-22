@@ -3,6 +3,7 @@ import * as path from "path";
 
 import { dirname } from "path";
 import { fetchAttestation } from "./gql/fetchAttestation.js";
+import { fetchUserProfiles } from "./gql/fetchUserProfiles.js";
 import { fileURLToPath } from "url";
 
 const __filename = fileURLToPath(import.meta.url);
@@ -50,14 +51,14 @@ const isJsonEqual = (a, b) => JSON.stringify(a) === JSON.stringify(b);
             localData.applicationApprovalUID = approval.id;
           }
 
+          let updated = false;
+
           // Fetch referenced attestation
           const approvedAttestation = await fetchAttestation(approval.refUID);
 
           const data = JSON.parse(
             approvedAttestation.attestations[0].decodedDataJson
           );
-
-          let updated = false;
 
           const displayName = getValue(data, "displayName");
           if (localData.displayName !== displayName) {
@@ -166,6 +167,54 @@ const isJsonEqual = (a, b) => JSON.stringify(a) === JSON.stringify(b);
               `Updating "${localData.displayName}", Funding sources.`
             );
             localData.fundingSources = metadataJson.fundingSources;
+            updated = true;
+          }
+
+          // Fetch user profile attestations
+          const profileAttestations = await fetchUserProfiles(
+            localData.applicantAddress
+          );
+
+          // Fetch user profile metadata from first attestation
+          const profileData = JSON.parse(
+            profileAttestations.attestations[0].decodedDataJson
+          );
+
+          // applicantName
+          const applicantName = getValue(profileData, "name");
+
+          if (localData.applicantName !== applicantName) {
+            console.log(
+              `Updating "${localData.displayName}". Applicant name: "${applicantName}"`
+            );
+            localData.applicantName = applicantName;
+            updated = true;
+          }
+
+          const profileMetadataPtr = getValue(
+            profileData,
+            "profileMetadataPtr"
+          );
+          const profileMetadata = await fetch(profileMetadataPtr);
+          const profileMetadataJson = await profileMetadata.json();
+
+          // profileImageUrl
+          if (
+            localData.profileImageUrl !== profileMetadataJson.profileImageUrl
+          ) {
+            console.log(
+              `Updating "${localData.displayName}". Profile image: "${profileMetadataJson.profileImageUrl}"`
+            );
+            localData.profileImageUrl = profileMetadataJson.profileImageUrl;
+            updated = true;
+          }
+
+          // bannerImageUrl
+          if (localData.bannerImageUrl !== profileMetadataJson.bannerImageUrl) {
+            console.log(
+              `Updating "${localData.displayName}". Banner image: "${profileMetadataJson.bannerImageUrl}"`
+            );
+            localData.bannerImageUrl = profileMetadataJson.bannerImageUrl;
             updated = true;
           }
 

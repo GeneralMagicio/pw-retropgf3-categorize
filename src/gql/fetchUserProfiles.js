@@ -1,6 +1,6 @@
-import { getClient } from "./getClient";
+import { GraphQLClient } from "graphql-request";
 
-const whereData = (user: string) => ({
+const whereData = (user) => ({
   AND: [
     {
       schemaId: {
@@ -24,7 +24,7 @@ const query = `
   }
 `;
 
-export async function fetchUserProfiles(user: string) {
-  const client = getClient();
+export async function fetchUserProfiles(user) {
+  const client = new GraphQLClient("https://optimism.easscan.org/graphql");
   return client.request(query, { where: whereData(user) });
 }
